@@ -20,10 +20,7 @@ card:
     content: Learn More
   content: Discover more about Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes and how it can help you in your Agile journey!
   title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-categories:
-- Social Technologies
-- Product Management
-- Scrum
+categories: []
 tags:
 - Business Agility
 - Agile Transformation

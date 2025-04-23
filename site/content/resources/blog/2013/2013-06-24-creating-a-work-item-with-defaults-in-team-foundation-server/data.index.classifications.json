@@ -1,27 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T05:08:50",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions creating a Product Backlog Item (PBI) in Team Foundation Server, which is related to Agile practices. However, it lacks a comprehensive discussion on Agile Product Management principles, such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. The focus is primarily on technical implementation rather than strategic alignment or customer value maximisation.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:00:20",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed guide on creating a Work Item with defaults in Team Foundation Server, which directly relates to practical tooling in Agile and DevOps. It discusses specific techniques for leveraging the TFS API and creating template URLs, demonstrating a clear application of tooling to enhance team performance. The depth of discussion is significant, as it includes step-by-step instructions and visual aids, aligning well with the category's focus on practical techniques and methodologies.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -34,41 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:47:39",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, which is a technical guide rather than a discussion on Evidence-Based Management. While it briefly mentions 'Business Value', it does not engage with the core themes of EBM such as empirical decision-making or metrics for value delivery. The discussion lacks depth and does not provide a strategic approach to management based on evidence.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:30:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses creating work items in Team Foundation Server, focusing on UI and API usage, without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:30:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating and customising work items in Team Foundation Server, lacking a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:30:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses creating work items in Team Foundation Server without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:47:39",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content provides a detailed guide on creating a Work Item with defaults in Team Foundation Server, which directly relates to the installation and configuration of a specific tool. It discusses the use of the TFS API and offers step-by-step instructions on how to create a template URL for pre-populating fields, aligning well with the category's focus on actionable installation and configuration insights. The depth of discussion is significant, as it includes specific steps and examples, although it could benefit from more troubleshooting or best practices to enhance its alignment further.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:30:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses creating work items in Team Foundation Server without addressing transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily focuses on technical implementation details for creating work items in Team Foundation Server, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:30:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses creating work items in Team Foundation Server without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:47:24",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, which is more aligned with project management and specific tool usage rather than the broader principles of DevOps. While it touches on streamlining processes, it lacks explicit discussions on collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
@@ -158,15 +101,6 @@
     "reasoning": "Content primarily discusses technical implementation of creating work items in Team Foundation Server, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:30:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses creating a Work Item in Team Foundation Server, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:30:49",
@@ -174,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server, which does not directly relate to optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:30:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation of creating work items in Team Foundation Server, with no significant discussion on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -196,19 +121,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-15T18:30:54",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server, which is focused on technical implementation rather than business agility principles or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:30:55",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server, focusing on UI customisation and template URLs, without addressing metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -250,13 +175,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:08:50",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is related to product delivery in terms of managing backlog items. However, it lacks a comprehensive discussion on methodologies, practices, or strategies that are central to the product delivery category. The focus is more on technical implementation rather than the broader aspects of delivering software products effectively.",
     "level": "Ignored"
   },
@@ -271,40 +196,31 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T18:31:05",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server, which is not directly related to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:31:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses creating a Work Item in Team Foundation Server, focusing on technical implementation rather than reviews or discussions of products or literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T18:31:08",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of creating work items in Team Foundation Server, without a clear focus on value delivery principles or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:49:29",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses creating a Work Item in Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific details on customising Work Items and using the TFS API, aligning well with Azure DevOps functionalities. However, while it is focused on a specific feature, it lacks broader discussions on other Azure DevOps services or methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
@@ -356,24 +272,15 @@
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server, which is not related to organisational agility.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:31:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for creating a Work Item in Team Foundation Server, lacking industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T05:08:52",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server (TFS) and does not explicitly discuss the broader aspects of Application Lifecycle Management (ALM). While it touches on aspects of application management, such as customisation and user guidance, it lacks a comprehensive exploration of the application lifecycle stages, governance, or integration of methodologies like Agile or DevOps. The discussion is more technical and specific to TFS rather than addressing the overarching principles of ALM.",
     "level": "Ignored"
   },
@@ -388,43 +295,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server and does not mention the Definition of Done or its importance in Agile and Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:09:07",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, which is more about practical implementation than discussing broader principles of software craftsmanship or engineering excellence. While it touches on customisation and user guidance, it lacks a deep exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The discussion is more procedural and lacks the depth required for a strong alignment with the Technical Mastery category.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a Work Item in Team Foundation Server, focusing on technical implementation details rather than understanding customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:47:42",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, which is more related to project management and task creation rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, automation, or practices. The discussion lacks depth in terms of Continuous Delivery concepts, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -439,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses creating and customizing work items in Team Foundation Server, without a clear focus on the concept of Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -457,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating work items with defaults in Team Foundation Server and does not address the principles of Definition of Ready.",
     "level": "Ignored"
   },
@@ -475,13 +382,13 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-15T05:08:56",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions creating a Product Backlog Item (PBI) and discusses a method for pre-populating fields in a work item. However, it lacks a comprehensive discussion on the Product Backlog's purpose, management, or best practices. The focus is more on technical implementation rather than the strategic aspects of backlog management, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -496,10 +403,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses creating Work Items in Team Foundation Server, which is unrelated to Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -514,22 +421,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:09:02",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses creating a Work Item with defaults in Team Foundation Server, which relates to operational practices in terms of streamlining the process of work item creation. However, it lacks a broader discussion on operational efficiency, continuous improvement, or metrics, which are key aspects of the category. The focus is more on a specific implementation rather than a comprehensive exploration of operational practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses creating a work item in Team Foundation Server with no focus on Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -553,10 +460,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating and customizing work items in Team Foundation Server, which is not focused on product validation methodologies or practices.",
     "level": "Ignored"
   },
@@ -589,10 +496,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementations related to work item creation in Team Foundation Server, rather than team performance or collaboration.",
     "level": "Ignored"
   },
@@ -616,34 +523,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:29:04",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses creating a Work Item in Team Foundation Server (TFS), which is a part of the software development process, particularly in managing work items within Agile methodologies. It provides practical guidance on using TFS APIs and templates, aligning with best practices in software development. However, while it touches on relevant topics, the depth of discussion is somewhat limited to a specific use case without broader context on methodologies or practices.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T05:09:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is related to managing project tasks but lacks a direct focus on Agile principles or methodologies. While it mentions 'Product Backlog Item', it does not delve into Agile frameworks, roles, or iterative processes, resulting in a low confidence score for alignment with Agile Project Management.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of creating Work Items in Team Foundation Server and lacks a discussion on Agile values or principles.",
     "level": "Ignored"
   },
@@ -658,42 +553,42 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating Work Items in Team Foundation Server, which is more related to project management and work item tracking rather than modern source control practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server with no clear focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on creating Work Items in Team Foundation Server, which is not related to Scrum Values.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-10T18:38:48",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses creating a work item in Team Foundation Server (TFS), which is related to Azure Boards, but it primarily focuses on the technical implementation of a specific feature rather than exploring the broader functionalities and best practices of Azure Boards in Agile project management. While it mentions work items and customisation, it lacks depth in discussing Agile methodologies or the integration of Azure Boards with other services.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -740,15 +635,6 @@
     "reasoning": "Content heavily discusses technical implementation details regarding creating work items in Team Foundation Server, without reference to customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating work items in Team Foundation Server and does not discuss scaling Scrum or related topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:20:03",
@@ -765,15 +651,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical aspects of creating Work Items in Team Foundation Server, with no discussion of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses creating work items in Team Foundation Server without linking to scaling agility, frameworks, or organizational agility practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -823,53 +700,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T05:08:54",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical strategies for creating Work Items in Team Foundation Server, which aligns with pragmatic problem-solving in Agile contexts. It provides a real-world application of TFS features, demonstrating adaptability and efficiency in project management. However, while it touches on relevant themes, the depth of discussion is somewhat limited, focusing primarily on technical implementation rather than broader Agile principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on creating work items in Team Foundation Server with default values, and does not primarily discuss backlog refinement or Agile practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses creating a Work Item with defaults in Team Foundation Server, focusing on practical implementation rather than on the innovation capabilities or frameworks related to innovating practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T05:09:04",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions creating a Product Backlog Item (PBI) in Team Foundation Server, which is relevant to Scrum. However, it lacks a comprehensive discussion on Scrum principles, roles, or iterative development processes. The focus is more on technical implementation rather than the broader Scrum framework or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating work items in Team Foundation Server without any focus on scaling Agile practices or coordination among multiple teams.",
+    "reasoning": "Content primarily discusses creating a Work Item with defaults in Team Foundation Server, focusing on practical implementation rather than on the innovation capabilities or frameworks related to innovating practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -910,25 +766,25 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:08:58",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which relates to the operational aspect of software development. However, it lacks a direct focus on the broader themes of working software, such as customer feedback, iterative development, or quality assurance. While it provides some practical guidance on using TFS to create work items, it does not delve deeply into how this contributes to delivering functional software that meets user needs.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-15T05:09:00",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses creating a Work Item in Team Foundation Server (TFS), which is a tool that can be used in Agile planning. However, the focus is primarily on the technical implementation of creating templates and defaults rather than on broader Agile planning methodologies or tools. While it touches on backlog items, it lacks a comprehensive exploration of Agile planning tools, techniques, or strategies, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1027,10 +883,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating Work Items and using templates in Team Foundation Server with no clear focus on Cycle Time, its measurement, or implications.",
     "level": "Ignored"
   },
@@ -1063,10 +919,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server, focusing on technical instructions rather than team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1088,22 +944,13 @@
     "reasoning": "Content primarily focuses on creating a Work Item in Team Foundation Server and does not discuss strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:20:03",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses creating work items in Team Foundation Server and does not focus on MVP or its principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating Work Items in Team Foundation Server, which does not involve AI concepts or applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1117,10 +964,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses the technical details of creating a Work Item in Team Foundation Server, with no focus on product strategy or related methodologies.",
     "level": "Ignored"
   },
@@ -1153,11 +1000,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses creating a work item in Team Foundation Server and does not mention Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a Work Item with defaults in Team Foundation Server, which does not directly relate to Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the importance of testing in the development process. The discussion is more about project management and user interface customisation rather than any aspect of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1189,10 +1039,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the technical process of creating work items in Team Foundation Server without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1234,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating work items in Team Foundation Server and does not focus on the Scrum Master role or its responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating Work Items in Team Foundation Server, which is a technical aspect of project management. It does not discuss the role, responsibilities, or impact of a Scrum Master, nor does it align with the core themes of the category. The mention of 'Product Backlog Item' is too brief and does not delve into Scrum practices or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1257,18 +1110,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating Work Items in Team Foundation Server and does not focus on working agreements or teamwork norms.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:08:50",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily focused on a specific technical implementation rather than broader themes of collaboration, productivity, or best practices in software development. While it touches on customisation and user guidance, it does not delve into the core principles or practices that define the role of software developers in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1309,10 +1150,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:20:03",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of creating a Work Item in Team Foundation Server, rather than strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1363,10 +1204,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T19:20:04",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a Work Item with defaults in Team Foundation Server, which is more about project management tools rather than Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1386,15 +1227,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of creating work items in Team Foundation Server, without a focus on accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:20:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating work items in Team Foundation Server, which does not relate to Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1426,13 +1258,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:31:31",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a Work Item in Team Foundation Server, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions user access and guidance, it lacks depth in exploring how these practices relate to organisational culture or collective intelligence.",
     "level": "Ignored"
   },
@@ -1456,62 +1288,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T05:08:50",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions 'Product Backlog Item', which is a Scrum artifact, but does not discuss Scrum principles, roles, or events in any meaningful way. The focus is primarily on creating work items in Team Foundation Server, which is more related to project management tools than to Scrum itself.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:22:27",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Work Item with defaults in Team Foundation Server, which does not directly address the principles or practices of the Shift-Left Strategy. While it touches on aspects of user guidance and customisation, it lacks explicit discussions on integrating testing, security, or compliance early in the development process. The content does not provide depth or detail related to the Shift-Left Strategy, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:47:26",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Work Item with defaults in Team Foundation Server, which is a technical guide rather than a discussion on Continuous Improvement. While it mentions streamlining user access, it does not engage with the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes. The content lacks depth in discussing Continuous Improvement principles, making it only tangentially related.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:47:29",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical process of creating a Work Item in Team Foundation Server, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of project management, it lacks depth and alignment with the core themes of Common Goals, such as shared objectives or strategic alignment.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:47:34",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the technical process of creating a Work Item in Team Foundation Server, with minimal reference to the concept of competence. While it discusses streamlining user access and guidance, it does not delve into continuous learning, skill development, or the broader implications of competence in Agile or DevOps environments. The discussion lacks depth and does not align with the core themes of competence, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, discussing technical implementation details without addressing the principles of Agentic Agility. There are no explicit mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth and relevance to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

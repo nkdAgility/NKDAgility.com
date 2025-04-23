@@ -29,19 +29,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Team Motivation
 - Agile Philosophy
 - Organisational Agility
-- Agile Project Management
 - Agile Product Management
 - Common Goals
+- Employee Engagement
+- Pragmatic Thinking
+- Agile Transformation
+- Organisational Culture
+- Organisational Psychology
 - Agile Leadership
 - Agile Values and Principles
-- Employee Engagement
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

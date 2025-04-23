@@ -2,7 +2,7 @@
 title: Why Every Scrum Master Needs an Immersive Training Experience
 description: Discover why the PSM immersive learning experience is perfect for aspiring Scrum Masters. Elevate your skills and thrive in accountability with NKD Agility!
 date: 2023-11-21T07:00:21Z
-weight: 645
+weight: 610
 ResourceId: _WplvWtaxtQ
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,20 +29,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Team Performance
+- Scrum Master
 - Software Development
 - Competence
+- Professional Scrum
+- Team Performance
 - Agile Frameworks
-- Scrum Master
 - Agile Leadership
 - Continuous Improvement
-- People and Process
-- Technical Leadership
+- Coaching
+- Value Delivery
 resourceTypes:
 - video
 layout: video
 categories:
+- Technical Leadership
+- Product Development
 - Scrum
 
 ---

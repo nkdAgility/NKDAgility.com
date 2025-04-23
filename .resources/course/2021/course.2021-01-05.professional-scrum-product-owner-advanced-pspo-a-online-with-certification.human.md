@@ -7,7 +7,7 @@ ResourceType: course
 ResourceContentOrigin: human
 shortTitle: Professional Scrum Product Owner (Advanced)
 date: 2021-01-05
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-product-owner-advanced-pspo-a-online-with-certification
@@ -38,17 +38,14 @@ delivery-audiences:
 tags:
 - Product Owner
 - Agile Product Management
-- Agile Project Management
-- Discovery and Learning
-- People and Process
-- Product Discovery
-- Products and Books
-- Value Delivery
 - Pragmatic Thinking
+- Product Discovery
 - Software Development
+- Value Delivery
+- Product Strategy
 categories:
-- Scrum
 - Product Management
+- Scrum
 preview: naked-agility-Professional-Scrum-PSPOA-1600x900-2.jpg
 previewIcon: PSPOA-400x.png
 brandColour: 

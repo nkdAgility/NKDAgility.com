@@ -28,8 +28,6 @@ delivery-audiences:
 - Teams
 - Product Owners
 tags:
-- Agile Project Management
-- Events and Presentations
 - Software Development
 categories: []
 preview: nakedalm-experts-visual-studio-alm.png

@@ -2,7 +2,7 @@
 title: 'Unlocking Success: How Lean Product Development Transforms Decision-Making and Value Creation'
 description: Discover how lean product development can enhance decision-making, minimise risks, and create value. Join our workshop for insights and real-world applications!
 date: 2023-09-28T08:29:48Z
-weight: 995
+weight: 1000
 ResourceId: IFX3SRUlunc
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,13 +26,10 @@ preview: https://i.ytimg.com/vi/IFX3SRUlunc/maxresdefault.jpg
 duration: 115
 isShort: false
 tags:
-- Lean
 - Lean Product Development
 - Lean Principles
 - Lean Thinking
 - Value Delivery
-- Products and Books
-- Events and Presentations
 - Entrepreneurship
 - Operational Practices
 - Pragmatic Thinking
@@ -42,6 +39,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Product Development
+- Lean
 - Product Management
 
 ---

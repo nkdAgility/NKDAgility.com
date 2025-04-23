@@ -9,7 +9,7 @@ ResourceImportId: 9967
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-28
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +28,6 @@ aliasesArchive:
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/blog/review-the-professional-scrum-masters-handbook
 tags:
-- Products and Books
-- News and Reviews
-- Agile Project Management
 - Software Development
 - Agile Frameworks
 categories:

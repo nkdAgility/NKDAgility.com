@@ -32,7 +32,8 @@ tags:
 - Product Strategy
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ## It's All About Direction

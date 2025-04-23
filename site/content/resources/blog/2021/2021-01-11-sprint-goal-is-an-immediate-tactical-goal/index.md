@@ -9,7 +9,7 @@ ResourceImportId: 45310
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-11
-weight: 775
+weight: 750
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,19 +25,21 @@ aliasesArchive:
 - /sprint-goal-is-an-immediate-tactical-goal
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
+- Common Goals
+- Professional Scrum
 - Product Owner
 - Agile Product Management
-- Scrum Product Development
-- Professional Scrum
-- Agile Project Management
-- Common Goals
 - Software Development
+- Agile Planning
+- Agile Frameworks
 - Value Delivery
 - Product Delivery
-- Agile Planning
+- Hypothesis Driven Development
+- Agile Strategy
+- Pragmatic Thinking
 categories:
-- Scrum
 - Product Management
+- Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:09:02",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal opinions and comparisons between VB.NET and C#, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:09:04",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal opinions and comparisons between VB.NET and C#, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses the comparison between VB.NET and C#, focusing on personal preferences and experiences rather than Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:09:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on personal preferences and technical features without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:09:11",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on readability, accessibility, and personal preference, without any reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:09:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal preferences and comparisons between VB.NET and C#, without focusing on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:09:16",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal preferences and advantages of VB.NET over C#, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:09:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on personal preferences and programming experiences, which are not related to Evidence-Based Management.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the advantages of VB.NET over C# from a personal and subjective perspective, focusing on readability and accessibility rather than any evidence-based management principles or metrics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:09:23",
+    "calculated_at": "2025-04-08T20:46:34",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal opinions and preferences regarding programming languages, lacking industry news or reviews.",
+    "reasoning": "The content focuses entirely on comparing programming languages (VB.NET and C#) and does not discuss any aspects of the Agile Product Operating Model or related principles.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -206,51 +185,12 @@
     "reasoning": "Content primarily discusses the advantages of VB.NET over C#, with no relevance to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:09:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, with no mention of AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:41:13",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 15,
-    "ai_depth": 20,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the readability and maintainability of VB.NET compared to C#, which touches on aspects of code quality. However, it lacks a deeper exploration of complexity theory, software architecture, or best practices in software development. The focus is primarily on personal preference and specific language features rather than a comprehensive analysis of code complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:09:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal opinions and comparisons between programming languages, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:09:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on personal preferences and technical features, without addressing transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T21:09:36",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on personal preferences and technical features, without addressing business agility principles or practices.",
     "level": "Ignored"
   },
@@ -283,13 +223,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T13:21:24",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 75.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 35,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
+    "final_score": 75.0,
     "reasoning": "The content provides personal reflections on the author's preference for VB.NET over C#, including insights related to their dyslexia and how it affects their coding experience. It discusses personal experiences and preferences, aligning well with the Personal category. However, the focus is more on technical comparisons rather than broader themes of Agile, Scrum, or DevOps, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -313,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:09:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on readability, accessibility, and personal preferences, which are unrelated to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the advantages of VB.NET over C#, focusing on readability and accessibility for developers, particularly those with dyslexia. There is no mention of DevOps principles, practices, or cultural shifts, and the discussion does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -327,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal preferences and opinions on programming languages rather than engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:09:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical merits of VB.NET over C#, focusing on personal preferences and programming features rather than team dynamics or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:09:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on personal preferences and technical details rather than on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:09:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal opinions and comparisons between programming languages, rather than focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:29:20",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal preferences and comparisons between programming languages without focusing on innovation, evidence-based management, or organizational capacity to innovate.",
     "level": "Ignored"
   },
@@ -417,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses programming languages and personal preferences, which is unrelated to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the comparison between programming languages (VB.NET and C#) and does not relate to Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -457,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:29:20",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on comparing programming languages (VB.NET vs C#) and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -493,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:29:20",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is solely focused on comparing VB.NET to C# with no reference to the Definition of Done or Agile concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses the advantages of VB.NET over C#, with no mention of Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content is solely focused on comparing VB.NET to C# with no reference to the Definition of Done or Agile concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -572,24 +470,15 @@
     "reasoning": "The content focuses on comparing programming languages (VB.NET vs C#) and discusses personal preferences and advantages of VB.NET, which do not relate to collaboration tools or Agile principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the advantages of VB.NET over C#, without reference to Agile, DevOps, or software engineering practices relevant to the role of software developers.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:41:13",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses personal opinions on the advantages of VB.NET over C#, focusing on readability and personal preferences rather than established software development methodologies or practices. While it touches on coding practices, it lacks depth in discussing broader software development concepts or frameworks.",
     "level": "Ignored"
   },
@@ -620,7 +509,7 @@
     "reasoning": "Content is focused on comparing programming languages VB.NET and C#, discussing their advantages and disadvantages without any mention of estimation practices in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:29:20",
     "ai_confidence": 0,
@@ -694,19 +583,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the advantages of using VB.NET over C#, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on comparing VB.NET and C#, discussing readability, accessibility, and personal preferences, with no mention of Continuous Delivery principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T21:29:20",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the advantages of using VB.NET over C#, focusing on coding style and personal preferences, without any mention of Lead Time or its relevance.",
     "level": "Ignored"
   },
@@ -744,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical preferences between VB.NET and C# without any focus on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on comparing programming languages VB.NET and C#, without any discussion or relevance to AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:29:20",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is entirely focused on comparing VB.NET and C#, with no discussion relevant to Definition of Ready.",
     "level": "Ignored"
   },
@@ -955,13 +838,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:41:13",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses personal preferences and opinions regarding VB.NET versus C#, focusing on readability and accessibility rather than best practices, principles of clean code, or software craftsmanship. While it touches on some technical aspects, such as case sensitivity and IntelliSense, it lacks a comprehensive exploration of methodologies or practices that contribute to high-quality software development.",
     "level": "Ignored"
   },
@@ -974,15 +857,6 @@
     "reasoning": "Content discusses programming languages, specifically VB.NET versus C#, with no relation to remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on comparing programming languages, specifically VB.NET and C#, without any relation to Kanban principles or its scaling in organizations.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:29:20",
@@ -990,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the advantages and preferences of programming languages VB.NET and C#, with no relevance to customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses programming language preferences, specifically VB.NET and C#, and does not relate to Agile Project Management or any of its principles or frameworks.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1021,10 +886,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T21:29:20",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on comparing programming languages VB.NET and C#, with no discussion about Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -1271,15 +1136,6 @@
     "reasoning": "Content predominantly discusses comparisons between VB.NET and C#, focusing on programming language preferences and features, with no mention of asynchronous development or related practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the comparison between VB.NET and C#, focusing on personal preferences and advantages of VB.NET, with no relevance to Scaling Scrum or related topics.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:29:20",
@@ -1316,22 +1172,16 @@
     "reasoning": "Content is primarily focused on comparing programming languages VB.NET and C#, with no discussion or relevance to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programming languages and personal preferences related to VB.NET and C#, and does not address topics related to Scaling Agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:20",
+    "calculated_at": "2025-04-08T20:46:36",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is entirely focused on comparing programming languages, specifically VB.NET and C#, with no mention or relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on a comparison between VB.NET and C#, discussing programming languages and their readability, accessibility, and efficiency. There is no mention of Scrum, the role of a Scrum Master, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,22 +1204,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on the comparison between VB.NET and C#, discussing personal preferences and advantages without any mention of Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the advantages of VB.NET over C#, focusing on readability and accessibility, with no mention of Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:56:43",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the comparison between VB.NET and C#, discussing readability and accessibility for developers, particularly those with dyslexia. It does not address themes related to collaboration, decision-making, or value delivery within organisations, which are central to the category of Social Technologies. The discussion is technical and personal, lacking any connection to social frameworks or methodologies that promote teamwork or organisational culture.",
     "level": "Ignored"
   },
@@ -1384,10 +1237,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:49:23",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the advantages of VB.NET over C#, focusing on personal preferences and programming language features, without any mention of Internal Developer Platforms or related concepts.",
     "level": "Ignored"
   },
@@ -1402,26 +1255,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:51",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on a comparison between VB.NET and C#, discussing programming language preferences and personal experiences. There are no mentions of Scrum principles, roles, events, or any related topics, making it irrelevant to the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:47:26",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the advantages of VB.NET over C#, focusing on readability, accessibility, and personal preferences. It does not address the Shift-Left Strategy or its principles, benefits, or techniques, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the advantages of VB.NET over C#, focusing on readability and accessibility for developers, particularly those with dyslexia. It does not address the concept of Common Goals within Agile or DevOps frameworks, nor does it connect individual contributions to organisational objectives. The discussion is personal and technical rather than strategic, lacking any mention of shared objectives or alignment with overarching goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the advantages of VB.NET over C#, focusing on readability and accessibility rather than on competence in terms of skill development or professional growth. While it touches on aspects of programming that could relate to competence, such as ease of use for developers with dyslexia, it does not engage with the core themes of continuous learning, quality outcomes, or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the advantages of VB.NET over C#, focusing on readability and accessibility for developers, particularly those with dyslexia. It does not engage with the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about personal preference and programming language comparison rather than any systematic approach to improving processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the advantages of VB.NET over C#, focusing on readability and accessibility for developers, particularly those with dyslexia. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in socio-technical environments.",
     "level": "Ignored"
   }
 }

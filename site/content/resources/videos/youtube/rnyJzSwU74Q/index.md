@@ -28,14 +28,18 @@ isShort: false
 tags:
 - Software Development
 - Value Delivery
-- Agile Project Management
 - Product Delivery
 - Empirical Process Control
-- Software Developers
 - Pragmatic Thinking
-- People and Process
 - Working Software
 - Agile Transformation
+- Agile Frameworks
+- Agile Product Management
+- Transparency
+- Agile Planning
+- Agile Strategy
+- Market Adaptability
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

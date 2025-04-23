@@ -2,7 +2,7 @@
 title: What is your best advice for becoming a Scrum Master outside software engineering?
 description: "Unlock the secrets to becoming a Scrum Master beyond software! Join Martin as he shares essential tips for leading teams in any field. \U0001F30D\U0001F680 #Scrum #Agile"
 date: 2023-03-08T07:00:04Z
-weight: 810
+weight: 790
 ResourceId: DWOh_hRJ1uo
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,9 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Scrum Master
-- Agile Project Management
 - Competence
 - Pragmatic Thinking
 resourceTypes:

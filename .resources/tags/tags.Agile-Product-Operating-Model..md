@@ -1,5 +1,7 @@
 ---
 title: Agile Product Operating Model
+ClassificationType: tags
+ClassificationContentOrigin: human
 date: 2025-03-21T09:30:34Z
 description: Transform your organisation with the Agile Product Operating Model, blending agile practices and product management to deliver consistent, customer-focused value.
 Instructions: |-
@@ -27,7 +29,7 @@ headline:
   updated: 2025-03-21T09:30:37Z
 trustpilot: false
 concepts:
-- Framework
+- Model
 aliases:
 - /agile-product-operating-model
 - /methods/agile-product-operating-model/

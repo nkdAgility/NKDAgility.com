@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-03-31T09:00:00
-weight: 225
+weight: 155
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -17,25 +17,35 @@ aliasesArchive:
 - /your-evolving-definition-of-done
 - /blog/your-evolving-definition-of-done
 categories:
-- Scrum
 - Engineering Excellence
 - Product Management
+- Scrum
 tags:
 - Definition of Done
 - Software Development
-- Scrum Product Development
-- Professional Scrum
-- Value Delivery
-- Engineering Practices
-- Product Delivery
 - Agile Product Management
 - Continuous Improvement
-- Practical Techniques and Tooling
+- Professional Scrum
+- Shift-Left Strategy
+- Technical Mastery
+- Value Delivery
+- Common Goals
+- Technical Excellence
+- Working Software
+- Engineering Practices
+- Operational Practices
+- Product Delivery
+- Agile Strategy
+- Pragmatic Thinking
+- Agile Frameworks
+- Scrum Team
+- Strategic Goals
+- Increment
 
 ---
-The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that Scrum Teams build on a solid foundation, aligning technical execution with strategic goals.
+The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that [Scrum]({{< ref "/categories/scrum" >}}) Teams build on a solid foundation, aligning technical execution with [strategic goals]({{< ref "/tags/strategic-goals" >}}).
 
-The [Definition of Done (DoD) is an objective, measurable standard of quality]({{< ref "/resources/blog/2025/2025-01-03-definition-of-done-objective-vs-subjective" >}})—not a negotiable target. Keep it clear, enforceable, and automated to ensure every Increment meets professional expectations.
+The [Definition of Done (DoD) is an objective, measurable standard of quality]({{< ref "/resources/blog/2025/2025-01-03-definition-of-done-objective-vs-subjective" >}})—not a negotiable target. Keep it clear, enforceable, and automated to ensure every [Increment]({{< ref "/tags/increment" >}}) meets professional expectations.
 
 ## Definition of Done - The Organisational quotient
 
@@ -49,7 +59,7 @@ This means organisations should define a business DoD that may include:
 - Financial viability assessment
 - Alignment with broader company objectives
 
-Without this business-level perspective, teams risk optimising for technical completeness while missing the broader value delivery picture. The result of many iterations of the organisational definition of done for a product might look like:
+Without this business-level perspective, teams risk optimising for technical completeness while missing the broader [value delivery]({{< ref "/tags/value-delivery" >}}) picture. The result of many iterations of the organisational definition of done for a product might look like:
 
 > Live an in production
 >
@@ -71,7 +81,7 @@ None of these elements define the "why" or "what" of what we're building—those
 
 ## Definition of Done - Translating Organisational Standards into Team Practice
 
-While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/categories/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
+While Scrum Teams are self-managing, that doesn’t mean they can do whatever they want. They operate within a structured environment, within a [balance of leadership and control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}) that upholds both autonomy and accountability. Scrum isn’t anarchy; it’s a [social technology]({{< ref "/tags/social-technologies" >}}) that enables self-management within clear constraints—Scrum events, commitments, and organisational expectations.
 
 Each Scrum Team must interpret the organisational Definition of Done within their context, shaping an engineering-level DoD that aligns with it. While examples can guide them, it's the team’s responsibility to determine what Done means within organisational constraints.
 
@@ -94,7 +104,7 @@ Each aspect contributes to quality, reducing the likelihood of defects and [tech
 New teams often start with a weak DoD that doesn’t yet guarantee releasability. A brownfield product with legacy constraints may have a DoD that initially excludes automation, testing, or [continuous deployment]({{< ref "/tags/deployment-frequency" >}}) due to existing technical debt. Over time, through Sprint Retrospectives and deliberate improvements, the DoD should:
 
 1. Start at a minimal viable level (e.g., basic testing, peer reviews).
-2. Expand to include automated testing, security checks, and CI/CD.
+2. Expand to include [automated testing]({{< ref "/tags/automated-testing" >}}), security checks, and CI/CD.
 3. Reach a state where every increment is truly releasable.
 
 An experienced Scrum Team should aim for a DoD that ensures shippability at the end of every Sprint. Anything less introduces unnecessary risk and delays value realisation.
@@ -114,10 +124,10 @@ An experienced Scrum Team should aim for a DoD that ensures shippability at the 
 
 4. **Should the DoD Be Fluid and Change Every Sprint?**
 
-   No. A fluctuating DoD signals dysfunction unless it’s always improving. Constant changes undermine transparency and disrupt planning. Evolution should be deliberate, incremental, and focused on raising quality—not shifting goalposts.
+   No. A fluctuating DoD signals dysfunction unless it’s always improving. Constant changes undermine [transparency]({{< ref "/tags/transparency" >}}) and disrupt planning. Evolution should be deliberate, incremental, and focused on raising quality—not shifting goalposts.
 
 ## DoD as a Strategic Lever
 
-A strong DoD isn’t just about engineering—it’s about protecting revenue, managing risk, and ensuring predictable delivery. Weak DoD practices lead to costly rework, delayed releases, and customer dissatisfaction. By embedding security, compliance, and quality checks into the development cycle, organisations reduce their exposure to financial and reputational risks. Teams that consistently meet a well-defined DoD can deliver with greater confidence, improving forecasting and market responsiveness.
+A strong DoD isn’t just about engineering—it’s about protecting revenue, managing risk, and ensuring predictable delivery. Weak DoD practices lead to costly rework, delayed releases, and customer dissatisfaction. By embedding security, compliance, and quality checks into the development cycle, organisations reduce their exposure to financial and reputational risks. Teams that consistently meet a well-defined DoD can deliver with greater confidence, improving [forecasting]({{< ref "/tags/forecasting" >}}) and market responsiveness.
 
 A strong DoD reduces rework, increases predictability, and aligns technical work with business value. As organisations evolve, so should their quality expectations. This continuous refinement is not just a technical necessity—it’s a competitive advantage.

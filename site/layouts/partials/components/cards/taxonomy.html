@@ -1,0 +1,57 @@
+<!-- layouts/partials/card.html -->
+{{- $context := .context }}
+{{- $subTypes := .subTypes }}
+{{- $pagesToDisplay := .context.Pages.ByWeight }}
+{{- $count := len $pagesToDisplay }}
+{{- if eq $count 0 }}
+  {{- return }}
+{{- end }}
+<div class="m-1 card sectioncards shadow text-start flex-fill flex-grow-1 small border-0 h-100 position-relative">
+  <div class="card-body p-4 px-20">
+    <h3 class="ttl-nkdagility h5 text-start" title="{{- $context.Page.Title }}">
+      {{- if $context.Page.Params.card }}
+        {{- $context.Page.Params.card.title }}
+      {{- else }}
+        {{- $context.Page.Title }}
+      {{- end }}
+    </h3>
+    <div class="card-text text-muted">
+      {{- if $context.Page.Params.card }}
+        {{- $context.Page.Params.card.content | markdownify }}
+      {{- else }}
+        {{- $context.Page.Description | markdownify }}
+      {{- end }}
+    </div>
+  </div>
+  <ul class="list-group list-group-flush">
+    {{- range $item := first 5 $pagesToDisplay }}
+      <li class="list-group-item d-flex align-items-center">
+        {{ if eq .Params.ResourceType "videos" }}
+          <i class="fa-solid fa-video pe-1"></i>
+        {{ else if eq .Params.ResourceType "blog" }}
+          <i class="fa-solid fa-newspaper pe-1"></i>
+        {{ else }}
+          <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
+        {{ end }}
+        {{ if .Draft }}
+          <i class="fa-brands fa-firstdraft pe-1"></i>
+        {{ end }}
+        {{ if gt .Date (now) }}
+          <i class="fa-regular fa-flux-capacitor pe-1"></i>
+        {{ end }}
+        <a href="{{- $item.Permalink }}" class="text-decoration-none  text-nowrap text-truncate" title="{{- $item.Title }} - {{- $item.Description }}">
+          {{- if .Params.shorttitle }}
+            {{- .Params.shorttitle }}
+          {{- else }}
+            {{- .Title }}
+          {{- end }}
+        </a>
+      </li>
+    {{- end }}
+  </ul>
+  {{- if $context.Page.RelPermalink }}
+    <div class="card-footer border-transparent bg-white p-3 text-end border-0">
+      <a href="{{- .Page.RelPermalink }}" class="btn btn-nkdagility p-2" title="More information on {{- .Page.Title }}">See all {{ $count }} <i class="fa-solid fa-arrow-right"></i></a>
+    </div>
+  {{- end }}
+</div>

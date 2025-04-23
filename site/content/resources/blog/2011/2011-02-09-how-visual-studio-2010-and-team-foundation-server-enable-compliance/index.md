@@ -9,7 +9,7 @@ ResourceImportId: 14
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-02-09
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,8 @@ aliasesArchive:
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
 - Application Lifecycle Management
-- Software Development
-- Practical Techniques and Tooling
 - Azure DevOps
+- Software Development
 - Product Delivery
 - Release Management
 - Modern Source Control

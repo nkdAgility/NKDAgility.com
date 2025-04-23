@@ -30,17 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Product Discovery
 - Pragmatic Thinking
 - Continuous Learning
-- People and Process
 - Product Owner
-- Ability to Innovate
 - Sensemaking
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

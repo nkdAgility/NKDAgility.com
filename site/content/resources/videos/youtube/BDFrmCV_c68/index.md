@@ -35,16 +35,13 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Product Management
-- Discovery and Learning
-- Agile Project Management
 - Evidence Based Management
-- Software Developers
 - Agile Philosophy
 - Metrics and Learning
-- People and Process
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

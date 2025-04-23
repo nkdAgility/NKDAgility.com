@@ -8,70 +8,28 @@
     "reasoning": "The content primarily discusses the TFS Automation Platform and its extensions, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:12:36",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server (TFS), which directly relates to practical tooling in Agile and DevOps contexts. It provides specific integration points and outlines a plan for creating a delivery mechanism for these extensions, demonstrating a clear focus on practical techniques. The depth of discussion includes detailed steps and considerations for implementing these tools, aligning well with the category's core themes. However, while it is rich in practical application, it lacks broader context on Agile methodologies or metrics, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-10T12:50:52",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the TFS Automation Platform and the need for custom automation within Team Foundation Server, which aligns with the principles of enhancing developer productivity and optimising application management. However, it primarily focuses on TFS and its extensions rather than a broader discussion on Internal Developer Platforms (IDPs) or platform engineering as a discipline. The depth of discussion on platform engineering concepts is limited, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:58:58",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the TfPlugable and its features for TFS automation, with no explicit mention of Evidence-Based Management principles or metrics. While it touches on the need for better deployment and management of extensions, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T05:25:22",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the TFS Automation Platform and its complexities, but the primary focus is on the development and deployment of extensions rather than a deep exploration of code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T05:25:57",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the development of a new delivery mechanism for TFS extensions, which implies a process of discovery and learning through feedback and iteration. However, the primary focus is on technical implementation details rather than on fostering a culture of innovation or continuous learning. While there are mentions of feedback loops and iterative development, the depth of discussion on methodologies for learning and discovery is limited.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:24:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, without a clear focus on AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,34 +43,25 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T14:51:40",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the installation and configuration of extensions for Team Foundation Server (TFS), detailing specific integration points and the challenges associated with deploying and managing these extensions. It provides actionable insights into the setup process, including the creation of packages and the use of MyGet for hosting. The depth of discussion on installation procedures and configuration best practices aligns well with the category, although some sections veer into broader project management themes, which slightly detracts from the overall focus.",
     "level": "Secondary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:25:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its features, with no clear focus on transparency or accountability principles within Agile teams.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T05:26:11",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a delivery mechanism for TFS extensions, which hints at responsiveness to customer needs. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies, and does not provide in-depth strategies or practices that enhance market adaptability. The mention of feedback loops and iterative development is relevant but not sufficiently detailed to strongly align with the category.",
     "level": "Ignored"
   },
@@ -125,24 +74,15 @@
     "reasoning": "Content primarily discusses the TFS Automation Platform and its technical aspects, with little focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:25:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and management of extensions for Team Foundation Server, focusing on technical implementations rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:58:44",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the TfPlugable and its role in automating TFS extensions, which is more focused on a specific tool rather than the broader DevOps philosophy. While it touches on automation and deployment, it lacks a comprehensive exploration of DevOps principles such as collaboration, shared accountability, or continuous improvement. The discussion is more about a specific solution rather than the cultural and process-oriented aspects of DevOps.",
     "level": "Ignored"
   },
@@ -164,15 +104,6 @@
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:25:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its features, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:25:11",
@@ -180,18 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, with no clear focus on optimising work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T05:26:22",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly mentions team dynamics and collaboration, particularly in the context of the TFS Automation Platform project. However, the primary focus is on technical aspects of TFS extensions and automation rather than a deep exploration of human behaviour or structured methodologies. While there is some discussion of team involvement and the need for collaboration, it lacks a comprehensive analysis of processes or the human factors influencing them.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -214,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:25:16",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, with no clear focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -232,15 +151,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:40:47",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the development of a solution for deploying extensions in Team Foundation Server (TFS), which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD) practices. It mentions the need for a streamlined process for managing TFS extensions, which relates to modular architecture and the importance of efficient deployment pipelines. However, while it touches on relevant technical practices, the discussion lacks depth in exploring broader engineering methodologies or principles of technical excellence, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -262,13 +181,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T10:31:05",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server (TFS), which relates to product delivery. However, it primarily focuses on the technical aspects of creating and managing these extensions rather than the broader methodologies and practices of product delivery. While there are mentions of iterative development and feedback, the depth of discussion on product delivery principles is limited.",
     "level": "Secondary"
   },
@@ -290,39 +209,27 @@
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T05:25:42",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the TFS Automation Platform and the need for a store for Team Foundation Server extensions, which aligns with the category's focus on tools and software that facilitate Agile practices. However, it lacks direct mentions of specific products or books, and the depth of discussion primarily revolves around the author's project rather than a comprehensive analysis or review of existing literature or tools.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T05:25:50",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the development of a delivery mechanism for TFS extensions, which aligns with the principles of iterative development and customer feedback. However, it primarily focuses on technical implementation details and lacks a strong emphasis on value delivery strategies or methodologies. While there are mentions of customer needs and iterative feedback, the overall discussion does not deeply engage with the core themes of value delivery as defined in the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T11:56:07",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the TFS Automation Platform and its integration with Team Foundation Server (TFS), which is a part of Azure DevOps. It provides a detailed exploration of the challenges and plans for creating a delivery mechanism for TFS extensions, aligning with Azure DevOps functionalities. However, while it mentions TFS and its extensions, it does not explicitly cover broader Azure DevOps services or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -346,58 +253,46 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T19:25:34",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, which does not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:58:56",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses the TfPlugable and TFS automation, with a focus on deployment and management of extensions. While there are brief mentions of iterative development and feedback incorporation, which are agile principles, the overall focus is not on the Agile Product Operating Model or its core themes. The discussion lacks depth in relation to product management principles and does not address the key topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T05:26:26",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a platform for Team Foundation Server (TFS) extensions, which touches on aspects of organisational agility such as responding to customer needs and iterative development. However, it lacks a direct focus on agile methodologies, leadership roles, or cultural shifts necessary for true organisational agility. The mention of feedback and iterative improvements aligns somewhat with agile principles, but the overall discussion is more technical and project-focused rather than exploring broader organisational strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T05:26:09",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the TFS Automation Platform and its evolution, which aligns with industry updates relevant to Agile and DevOps. However, it primarily focuses on a specific project rather than providing a broad overview of trends or reviews. While it mentions the need for custom automation and the challenges faced, it lacks a comprehensive analysis or review of tools and practices in the Agile and DevOps space, which limits its depth and overall alignment with the category.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T15:01:17",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the TFS Automation Platform and its evolution, which relates to Application Lifecycle Management (ALM) through the lens of deployment and management of extensions. However, while it touches on aspects of ALM, such as deployment and the need for better management of TFS extensions, it lacks a comprehensive exploration of the entire application lifecycle or best practices in ALM. The focus is more on specific tools and features rather than a holistic view of ALM methodologies and practices.",
     "level": "Secondary"
   },
@@ -412,24 +307,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on the TFS Automation Platform and its functionality, without discussing the Definition of Done or related Agile practices.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:25:27",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the development of a solution for Team Foundation Server (TFS) extensions, which touches on software craftsmanship and engineering practices. However, while it mentions technical aspects like deployment and management of extensions, it lacks a comprehensive exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is more on the specific project rather than broader technical mastery principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -442,13 +337,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:59:01",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the TfPlugable as a solution for TFS automation, which touches on deployment and management of extensions. However, it lacks a direct focus on Continuous Delivery principles, such as automation in testing and integration, rapid feedback, or cultural aspects of Continuous Delivery. While it mentions iterative development and feedback, these concepts are not explored in depth or connected explicitly to Continuous Delivery practices.",
     "level": "Ignored"
   },
@@ -463,10 +358,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses the TFS Automation Platform and its extensions without any focus on Lead Time or its related metrics. The primary theme revolves around TFS automation and deployment, consequently not addressing the concept of Lead Time.",
     "level": "Ignored"
   },
@@ -481,10 +376,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the TFS Automation Platform and does not address the concept of Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -526,34 +421,34 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-15T05:25:37",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for customer feedback in the context of developing extensions for Team Foundation Server (TFS). While it mentions the integration of feedback into the roadmap and prioritisation of features, the primary focus is on technical implementation rather than a structured exploration of customer feedback loops. The discussion lacks depth in terms of specific techniques for gathering feedback or detailed analysis of feedback integration processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:26:00",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the development of a delivery mechanism for TFS extensions, which relates to operational practices in terms of improving deployment processes and managing extensions. However, it lacks a strong focus on broader operational efficiency strategies or methodologies like Agile, DevOps, or Lean. The discussion is more about specific implementation details rather than overarching operational practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Team Foundation Server and automation rather than Scrum team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -577,13 +472,13 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-15T05:25:33",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a delivery mechanism for extensions in Team Foundation Server, which indirectly relates to product validation through user feedback and iterative development. However, it lacks explicit discussions on user testing, market fit, or customer feedback loops, which are core to the Product Validation category. The focus is more on technical implementation rather than validating product ideas with users.",
     "level": "Ignored"
   },
@@ -616,22 +511,22 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and technical aspects of deploying extensions in Team Foundation Server, with only a brief mention of team involvement, which does not align with the core focus on team performance and collaboration in Agile.",
     "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-15T05:26:17",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a delivery mechanism for extensions in Team Foundation Server, which implies an iterative approach and the need for feedback. However, it lacks a direct focus on the concept of Increment as defined in Agile and Scrum, and does not explicitly discuss the delivery of potentially shippable product increments or their value to stakeholders.",
     "level": "Ignored"
   },
@@ -646,34 +541,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T05:25:30",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the TFS Automation Platform and the need for a system to manage extensions for Team Foundation Server, which aligns with software development practices, particularly in the context of deployment and integration. It mentions specific technical aspects such as TF Jobs, Event Sinks, and Check-in Policies, which are relevant to software engineering. However, while it touches on these topics, the overall focus is more on the project narrative and less on broader software development methodologies or best practices, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T05:25:35",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly touches on iterative development and feedback, which are agile principles, but lacks a focused discussion on Agile methodologies, roles, or frameworks. The primary focus is on TFS extensions and automation rather than Agile Project Management.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific tool (TFS Automation Platform) and the development of extensions for it, without mentioning Agile values or principles.",
     "level": "Ignored"
   },
@@ -688,25 +571,25 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T05:25:53",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the TFS Automation Platform and its extensions, which are related to source control practices. However, the focus is more on the automation and deployment aspects rather than core version control methodologies or best practices. While it mentions check-in policies and integration points relevant to source control, the overall discussion leans towards automation and extension management rather than a comprehensive exploration of modern source control strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T05:26:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses the TFS Automation Platform and its extensions, with a focus on deployment and management rather than on empirical process control principles. While there is a brief mention of iteratively adding functionality based on feedback, the overall discussion lacks depth in empirical process control concepts such as transparency, inspection, and adaptation. The content does not engage with Agile methodologies or provide case studies relevant to empirical process control.",
     "level": "Ignored"
   },
@@ -748,27 +631,27 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-15T05:26:32",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a solution for Team Foundation Server (TFS) and mentions an iterative approach to adding functionality based on user feedback, which aligns with Lean Startup principles. However, it lacks explicit references to key Lean Startup concepts such as MVP, validated learning, or the Build-Measure-Learn loop. The focus is more on technical implementation rather than the Lean Startup methodology itself.",
     "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T18:03:04",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the development of a delivery mechanism for extensions in Team Foundation Server, highlighting an iterative approach to adding functionality based on user feedback. While it mentions the plan to release features incrementally, the primary focus is on the technical aspects of extension management rather than the broader principles of frequent releases. The discussion lacks explicit references to continuous delivery or deployment practices, which diminishes its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -777,15 +660,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details and project updates related to Team Foundation Server extensions, without a focus on customer satisfaction or enhancing customer experience.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the TFS Automation Platform, Team Foundation Server extensions, and the deployment of plug-ins, but does not address the scaling of Scrum principles or practices within organizations.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -806,26 +680,17 @@
     "reasoning": "Content discusses technical aspects of the TFS Automation Platform and extensions without any focus on psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS (Team Foundation Server) automation and deployment mechanisms rather than discussing frameworks, leadership, or cultural aspects associated with scaling agile practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:50:49",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the development of a solution for Team Foundation Server (TFS) automation, which touches on aspects of software craftsmanship and the need for better deployment practices. However, while it mentions the need for extensions and improvements, it lacks a detailed exploration of best practices, coding standards, or quality assurance principles that are central to the category of Engineering Excellence. The focus is more on the specific project and its challenges rather than a broader discussion on engineering processes or continuous improvement.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -865,13 +730,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T16:51:17",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the challenges and solutions related to the TFS Automation Platform, focusing on practical problem-solving strategies for deploying and managing extensions in a real-world context. It highlights the need for a user-friendly mechanism to manage TFS extensions, which aligns with pragmatic thinking in Agile and DevOps environments. However, while it touches on practical applications, the depth of discussion on specific Agile or Scrum methodologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -886,33 +751,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T05:25:55",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the development of a new delivery mechanism for TFS extensions, which indicates an innovative approach to solving a problem. However, it lacks a strong focus on the broader themes of the Ability to Innovate category, such as Evidence-Based Management or frameworks for measuring innovation. While there are elements of innovation present, they are not deeply explored, and the discussion is more about specific technical implementations rather than a comprehensive examination of innovation capabilities.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform and related extensions, with minimal connection to Scrum roles, principles, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions without reference to scaling Agile methodologies or frameworks.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -934,33 +781,33 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server extension deployment and automation, but does not focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-15T05:25:22",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily discusses technical aspects of the TFS Automation Platform and its extension management rather than focusing on entrepreneurship principles like innovation, risk-taking, or value-driven decision-making.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:26:02",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the development of a delivery mechanism for extensions in Team Foundation Server, which aligns with the concept of working software by focusing on functional software that meets user needs. However, it lacks explicit discussions on Agile principles and best practices for ensuring software quality, which limits its depth and direct mentions of the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -973,10 +820,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions rather than focusing on continuous integration practices or principles.",
     "level": "Ignored"
   },
@@ -1045,13 +892,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T05:25:48",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server (TFS), which relates to release management practices. It mentions the need for a delivery mechanism and iterative feedback, aligning with CI/CD principles. However, the primary focus is on the technical aspects of TFS extensions rather than a comprehensive discussion on release management strategies, making it a secondary topic.",
     "level": "Secondary"
   },
@@ -1066,10 +913,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses the TFS Automation Platform and its related features, but does not mention Cycle Time, its definition, importance, measurement, or strategies for improvement.",
     "level": "Ignored"
   },
@@ -1084,10 +931,10 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses TFS Automation and its extensions but does not focus on deployment frequency or its optimisation in Agile or DevOps practices.",
     "level": "Ignored"
   },
@@ -1102,15 +949,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T05:26:04",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions team dynamics and collaboration in the context of a project, but it primarily focuses on technical aspects of the TFS Automation Platform and its extensions. While there is a mention of team members and an invitation for others to join, the overall discussion lacks depth in exploring techniques for improving team communication or fostering a culture of trust, which are key themes in the 'Team Collaboration' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1123,46 +970,37 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T05:25:44",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the TFS Automation Platform and the need for custom automation within Team Foundation Server, which touches on aspects of digital transformation, such as enhancing operational efficiency and integrating digital tools. However, it lacks a strong focus on broader strategic adoption of digital technologies or case studies that exemplify successful digital transformation efforts. The discussion is more technical and specific to TFS rather than addressing the overarching themes of digital transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-03-15T05:25:46",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a solution for Team Foundation Server extensions, which touches on iterative development and user feedback, aligning somewhat with MVP principles. However, it lacks a clear focus on the concept of a Minimum Viable Product, as it primarily revolves around the deployment of extensions rather than validating market assumptions or core MVP strategies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Team Foundation Server automation without a clear focus on AI integration in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T05:25:25",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the configuration and deployment of extensions for Team Foundation Server (TFS), which directly relates to system configuration. It mentions specific integration points and the complexities involved in managing these configurations, indicating a focus on practical aspects of system setup. However, while it provides some depth on the topic, it also includes broader discussions about project management and user needs, which slightly detracts from its primary focus on system configuration.",
     "level": "Secondary"
   },
@@ -1195,20 +1033,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the TFS Automation Platform and technical implementation details rather than focusing on cross-functional teams or Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses extensions and automation for Team Foundation Server without focusing on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and the development of extensions for Team Foundation Server. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The focus is on automation and deployment rather than on defining success criteria or testing methodologies, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1222,13 +1063,13 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T05:26:06",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the deployment of extensions for Team Foundation Server (TFS) and mentions the challenges and plans for creating a delivery mechanism for these extensions. However, it primarily focuses on the need for custom automation and the management of TFS extensions rather than specific deployment strategies like Blue-Green Deployments or Canary Releases. The discussion lacks depth in terms of established methodologies and does not provide actionable insights into deployment strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1243,10 +1084,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:40:19",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of the TFS Automation Platform and related development details without a focus on team dynamics or motivation strategies.",
     "level": "Ignored"
   },
@@ -1261,47 +1102,50 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T05:26:15",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a new delivery mechanism for TFS extensions, which implies a need for ongoing learning and adaptation. However, it primarily focuses on technical implementation rather than explicitly addressing continuous learning principles, such as growth mindset or knowledge sharing. The mention of feedback loops and iterative development aligns somewhat with continuous improvement, but the overall depth and focus on team dynamics and culture of experimentation are lacking.",
     "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:26:13",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges and complexities of deploying and managing extensions for Team Foundation Server (TFS), which aligns with troubleshooting issues related to software deployment. However, it lacks a focused discussion on specific troubleshooting techniques or methodologies, making it more of a project overview rather than a dedicated troubleshooting guide.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-15T05:26:24",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a new delivery mechanism for TFS extensions, which implies some level of experimentation in terms of iterating based on user feedback. However, it lacks explicit mentions of hypothesis-driven approaches or systematic testing of ideas, which are central to the 'Experimentation' category. The focus is more on the implementation of features rather than on the experimentation process itself.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and technical aspects of its extensions, without a focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and the TfPlugable solution, with no direct mention of the Scrum Master role or its responsibilities. While there are references to team dynamics and project management, these are not explicitly tied to Scrum or the Scrum Master's influence. The focus is on technical implementation rather than the facilitation and coaching aspects of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1322,18 +1166,6 @@
     "reasoning": "Content primarily discusses the TFS Automation Platform and related technical details, with no focus on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:25:39",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the TFS Automation Platform and the need for custom automation in Team Foundation Server, which is relevant to software developers. However, it primarily focuses on the technical aspects of TFS extensions and deployment rather than the broader themes of Agile, DevOps, or modern engineering practices. While there are mentions of iterative development and feedback, the depth of discussion on Agile methodologies and developer roles is limited.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T20:40:20",
@@ -1345,15 +1177,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T05:26:29",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the TFS Automation Platform and its extensions, which touches on automation practices relevant to software engineering. However, it lacks a direct focus on core Agile engineering practices such as clean code, TDD, or CI/CD. While it mentions the need for better deployment and management of extensions, it does not delve deeply into the principles or methodologies that underpin Agile development, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1375,22 +1207,22 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T05:25:22",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses technical aspects of the TFS Automation Platform and its extensions, with a focus on implementation details rather than strategic product management. While there are mentions of customer needs and feedback, the overall discussion lacks depth in product management methodologies and frameworks, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T20:40:20",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical aspects of the TFS Automation Platform and deployment of extensions, without discussing self-organisation principles or team autonomy.",
     "level": "Ignored"
   },
@@ -1457,15 +1289,6 @@
     "reasoning": "Content primarily discusses a technical project related to Team Foundation Server and does not focus on accountability, ownership in teams, or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:40:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the TFS Automation Platform and does not focus on Kanban principles, scaling practices, or related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:40:20",
@@ -1486,13 +1309,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:33:28",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of the TfPlugable and TFS automation, with limited discussion on collaboration or decision-making frameworks. While it mentions the need for a platform to manage extensions, it lacks a strong emphasis on social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
@@ -1507,10 +1330,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:20:54",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the automation and management of extensions for Team Foundation Server, which aligns with the concept of streamlining development processes, but it primarily focuses on TFS rather than a broader Internal Developer Platform framework.",
     "level": "Tertiary"
   },
@@ -1525,62 +1348,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T05:25:22",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses the TFS Automation Platform and its extensions, with only a brief mention of sprints in the context of a past project. There is no substantial discussion of Scrum roles, events, or principles, nor does it align with the core themes of Scrum. The focus is on technical implementation rather than Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:24:08",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the TFS Automation Platform and the development of extensions for Team Foundation Server. While it touches on aspects of deployment and management of extensions, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on the technical implementation of TFS extensions rather than integrating testing, security, or compliance earlier in the development process.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:58:46",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of the TfPlugable for TFS automation, which includes elements of iterative development and feedback incorporation. However, it primarily focuses on the technical aspects of the platform rather than a broader discussion on Continuous Improvement principles. While there are mentions of feedback and iterative enhancements, the overall emphasis is on the product and its features rather than a comprehensive exploration of Continuous Improvement as a philosophy or practice.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:58:49",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the introduction and development of a new automation platform for TFS, discussing technical aspects and project plans without explicitly addressing the concept of Common Goals. While there are mentions of team collaboration and iterative feedback, these are not the central themes, and the discussion lacks depth on aligning strategy with execution or shared objectives within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:58:52",
+    "calculated_at": "2025-04-10T15:55:21",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses the TfPlugable and its functionalities for TFS automation, with minimal direct reference to competence or skill development. While it touches on the need for better management and deployment of extensions, it lacks a focus on continuous learning, professionalism, or the development of capabilities within teams. The discussion is more about technical implementation than fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and the introduction of the TfPlugable, focusing on deployment and management of extensions. While it touches on the need for custom automation and iterative development, it lacks explicit discussions on Agentic Agility principles, such as intentional shaping of outcomes, the role of intent, or the interplay between human and AI capabilities. The content does not provide a clear distinction between human and AI agentic agility, nor does it delve into the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

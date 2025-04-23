@@ -2,7 +2,7 @@
 title: 'Unlocking Trust in Scrum: The Power of Openness and Transparency'
 description: Discover how openness in Scrum fosters trust and transparency. Learn key strategies for clear communication and emotional openness to enhance team dynamics.
 date: 2023-04-28T07:00:30Z
-weight: 720
+weight: 690
 ResourceId: gRnYXuxo9_w
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,16 +27,17 @@ preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false
 tags:
-- Transparency
 - Scrum Values
-- Transparency and Accountability
+- Transparency
 - Professional Scrum
 - Team Performance
-- People and Process
-- Agile Project Management
+- Agile Frameworks
 - Scrum Team
+- Social Technologies
 - Team Collaboration
 - Team Motivation
+- Agile Transformation
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +46,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 Openness in Scrum: The Key to Trust and Transparency

@@ -2,7 +2,7 @@
 title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
 description: Join our Business Agility Raw sessions for dynamic discussions, actionable insights, and a vibrant community. Mark your calendar for the fourth Wednesday!
 date: 2022-07-27T18:45:14Z
-weight: 855
+weight: 840
 ResourceId: bvCU_N6iY_4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,7 +28,7 @@ duration: 21
 isShort: true
 tags:
 - Business Agility
-- People and Process
+- Social Technologies
 - Organisational Agility
 sitemap:
   filename: sitemap.xml
@@ -36,8 +36,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 As I sit down to write this post, I’m reminded of the vibrant discussions that take place during our monthly Business Agility Raw sessions. If you haven’t joined us yet, I highly encourage you to mark your calendars for the fourth Wednesday of every month. It’s a fantastic opportunity to engage with like-minded individuals and explore the pressing topics that matter most to us in the realm of business agility.

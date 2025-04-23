@@ -9,7 +9,7 @@ ResourceImportId: 8803
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-22
-weight: 665
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,13 +26,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Internal Developer Platform
 - Automated Testing
-- Product Delivery
 - Operational Practices
-- Windows
+- Product Delivery
 categories:
 - DevOps
 preview: metro-lab-5-5.png

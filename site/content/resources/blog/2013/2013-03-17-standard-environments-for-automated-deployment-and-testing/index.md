@@ -9,7 +9,7 @@ ResourceImportId: 9308
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-17
-weight: 610
+weight: 565
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,15 +25,25 @@ aliasesArchive:
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
 tags:
 - Software Development
-- Install and Configuration
-- System Configuration
-- Practical Techniques and Tooling
 - Technical Excellence
 - Technical Mastery
 - Operational Practices
 - Engineering Practices
+- Install and Configuration
+- System Configuration
+- Continuous Integration
+- Release Management
 - Application Lifecycle Management
 - Automated Testing
+- Continuous Delivery
+- Test Automation
+- Product Delivery
+- Internal Developer Platform
+- Azure DevOps
+- Pragmatic Thinking
+- Working Software
+- Platform Engineering
+- Deployment Strategies
 categories:
 - DevOps
 - Engineering Excellence

@@ -2,7 +2,7 @@
 title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Success'
 description: Unlock your team's potential by ensuring they grasp the product vision and strategic goals. Discover practical steps to foster alignment and agility!
 date: 2024-07-03T06:45:00Z
-weight: 670
+weight: 640
 ResourceId: 2tlzlsgovy0
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,15 +27,25 @@ duration: 56
 isShort: true
 tags:
 - Agile Strategy
+- Common Goals
 - Team Motivation
 - Strategic Goals
 - Agile Philosophy
 - Agile Leadership
 - Organisational Agility
-- Common Goals
-- Agile Values and Principles
-- Agile Project Management
 - Product Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Pragmatic Thinking
+- Self Organisation
+- Agile Planning
+- Agile Product Management
+- Product Owner
+- Social Technologies
+- Software Development
+- Team Collaboration
+- Organisational Culture
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,8 +54,8 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
-- Social Technologies
 
 ---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and strategic goals?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 

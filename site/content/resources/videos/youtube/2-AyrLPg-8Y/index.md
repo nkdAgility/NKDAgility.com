@@ -2,7 +2,7 @@
 title: 'Transform Your Leadership: The Power of Evidence-Based Management in Agile'
 description: Unlock the power of evidence-based management in Agile! Discover how data-driven decisions and continuous improvement can transform your leadership journey.
 date: 2023-11-29T11:00:03Z
-weight: 700
+weight: 665
 ResourceId: 2-AyrLPg-8Y
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,20 @@ preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
 tags:
-- Evidence Based Management
+- Decision Making
 - Evidence Based Leadership
+- Evidence Based Management
 - Continuous Learning
 - Pragmatic Thinking
-- Decision Making
 - Continuous Improvement
-- Agile Leadership
 - Competence
+- Agile Leadership
 - Operational Practices
-- Agile Project Management
+- Agile Transformation
+- Ability to Innovate
+- Agile Strategy
+- Empirical Process Control
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +47,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself thinking about the importance of continuous learning and skill enhancement. Recently, I had the opportunity to participate in an evidence-based management class, and I can’t help but share how transformative this experience was for me and how it can be for you too.

@@ -29,12 +29,8 @@ aliasesArchive:
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 tags:
 - Remote Working
-- Resilience and Change
-- People and Process
-- Events and Presentations
-categories:
-- Scrum
-- Social Technologies
+- Pragmatic Thinking
+categories: []
 preview: image-1-1-1.png
 
 ---

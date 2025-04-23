@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:17:46",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a specific technical solution to a problem encountered during the installation of TFS 2012, which involves practical tooling (SQL Server commands). However, while it discusses a practical technique, it lacks broader context on Agile or DevOps methodologies and does not explore multiple tools or frameworks. The focus is primarily on resolving a specific issue rather than a comprehensive exploration of tooling or methodologies.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T19:58:47",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:14:10",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and SQL Server, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related concepts.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:58:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific error related to TFS 2012 and SQL Server, focusing on troubleshooting and solutions rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:58:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific technical issue related to TFS 2012 and SQL Server, with no focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:58:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a specific error related to TFS 2012 and SQL Server, with no mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:54:33",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion of a specific installation issue related to TFS 2012, including error messages, log file information, and step-by-step solutions for resolving the problem. It directly addresses installation and configuration challenges, making it highly relevant to the category. The depth of the discussion is significant, as it includes troubleshooting steps and SQL commands necessary for resolution, aligning well with the key topics outlined in the category description.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:58:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:59:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SQL Server and TFS 2012 installation errors, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:13:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving a specific error related to TFS 2012 and SQL Server, which does not align with the core principles of DevOps. There are no direct mentions of DevOps practices, principles, or cultural shifts. The discussion is technical and solution-oriented, lacking depth in terms of DevOps philosophy, collaboration, or automation.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses a technical issue related to SQL Server and TFS installation, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:59:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:59:08",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error related to TFS 2012 and SQL Server, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:59:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server, focusing on error resolution rather than human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:59:13",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server logins, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -272,15 +197,6 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:59:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server, with no focus on products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:59:24",
@@ -328,13 +244,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:14:07",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on resolving a specific technical issue related to TFS 2012 and SQL Server, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined for the category.",
     "level": "Ignored"
   },
@@ -345,15 +261,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SQL Server and TFS 2012 installation errors, with no focus on organisational agility or related practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:59:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2012 and SQL Server, providing solutions rather than industry news or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -376,22 +283,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on resolving a technical issue related to TFS and SQL Server, not discussing the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:48:44",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily addresses a specific technical issue related to TFS 2012 and SQL Server, providing a solution to a conflict error. While it does touch on technical aspects such as SQL commands and server configurations, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that would align it more closely with the 'Technical Mastery' category. The focus is more on troubleshooting rather than on principles of software engineering excellence.",
     "level": "Ignored"
   },
@@ -406,13 +313,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:14:12",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily addresses a specific error related to TFS 2012 and SQL Server, focusing on troubleshooting and installation issues. It does not discuss Continuous Delivery principles, practices, or any related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -445,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to SQL Server and TFS 2012, which does not pertain to the Definition of Ready or its concepts.",
     "level": "Ignored"
   },
@@ -508,10 +415,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on a technical issue related to Team Foundation Server and SQL Server, with no discussion of Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -571,10 +478,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to SQL Server and TFS installation, with no connection to team performance or Agile methodologies.",
     "level": "Ignored"
   },
@@ -598,31 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:03:40",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily addresses a specific error related to Team Foundation Server (TFS) and SQL Server, which are tools used in software development. It discusses a technical issue and provides solutions, indicating a focus on software engineering practices. However, while it mentions TFS, it does not delve into broader software development methodologies or best practices, which limits its depth and alignment with the category. The content is more of a troubleshooting guide than a discussion on software development processes.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a SQL Server login issue related to TFS 2012 installation, which is unrelated to Agile Project Management concepts or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue with TFS 2012 and SQL Server, with no relation to Agile Values or Principles.",
     "level": "Ignored"
   },
@@ -716,15 +614,6 @@
     "reasoning": "Content is primarily focused on technical issues related to TFS 2012 and SQL Server login conflicts, with no discussion on customer satisfaction or related topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a specific technical issue related to Team Foundation Server and SQL Server, with no discussion of Scrum principles, practices, or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:30:56",
@@ -741,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a technical issue related to installation errors in TFS 2012 and SQL Server, with no discussion of psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about troubleshooting a specific TFS installation issue related to SQL Server and does not discuss scaling agility or related practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -817,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS installation errors and SQL Server login conflicts, with no focus on innovation or related concepts.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to Team Foundation Server (TFS) and SQL Server login conflicts, with no mention of Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily technical information related to a specific error in TFS 2012 and SQL Server, with no discussions or references to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1024,10 +886,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on troubleshooting a specific error related to TFS and SQL Server, with no relevant discussion on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1049,7 +911,7 @@
     "reasoning": "Content primarily discusses an error related to the installation of TFS 2012 and SQL Server, with no focus on digital transformation strategies or technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:30:56",
     "ai_confidence": 0,
@@ -1058,26 +920,17 @@
     "reasoning": "Content is focused on troubleshooting a specific error related to TFS 2012 and SQL Server, with no discussion of Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily details a technical issue and solution related to Team Foundation Server and SQL Server, with no relevant discussion on AI.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:33:43",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses a specific issue related to the configuration of SQL Server in the context of TFS 2012, which directly aligns with system configuration. It provides detailed steps to resolve a configuration conflict, including SQL commands and troubleshooting steps, demonstrating a strong focus on practical configuration management. The depth of discussion is significant, as it not only identifies the problem but also offers multiple solutions and insights into the implications of server renaming, which are critical for optimal system performance and reliability.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1117,24 +970,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific error encountered in TFS 2012 installation related to SQL Server login conflicts, without any mention of Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS 2012 and SQL Server login conflicts, with no mention of Test First Development principles, success criteria, or testing practices. It focuses on troubleshooting and solutions rather than any aspect of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:43:11",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses an issue related to the installation and configuration of Team Foundation Server (TFS) 2012 on a Windows environment, specifically addressing a security identifier (SID) conflict with SQL Server. It provides detailed troubleshooting steps and solutions that are directly relevant to Windows users. The mention of Windows in the context of server names and SQL Server indicates a strong alignment with the Windows category, as it focuses on installation and configuration issues specific to the Windows operating system. The depth of discussion is significant, as it includes error messages, log file information, and specific commands to resolve the issue, which are all pertinent to managing a Windows environment.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1156,10 +1012,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:30:56",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses entirely on a technical issue related to TFS 2012 and SQL Server, with no discussion of team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1183,15 +1039,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T11:58:30",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses a specific error (TF255507) encountered during the installation of TFS 2012, detailing the issue, its causes, and providing clear solutions. It aligns well with the core themes of troubleshooting by identifying a technical problem, offering diagnostic information, and presenting actionable solutions. The depth of discussion is high, as it includes log file excerpts, potential causes, and multiple solutions, demonstrating a thorough approach to resolving the issue.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1204,11 +1060,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and SQL Server, with no relevance to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a technical issue related to TFS 2012 and SQL Server, with no mention or discussion of Scrum Master roles, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1227,15 +1086,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to TFS 2012 and SQL Server, not working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily addresses an issue related to the installation of TFS 2012 and SQL Server, rather than discussing the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1355,15 +1205,6 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS and SQL Server configuration, without any focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting a specific error related to SQL Server and Team Foundation Server installation, without any discussion on Kanban principles or scaling methods.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:30:56",
@@ -1384,13 +1225,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:35:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS 2012 and SQL Server login conflicts. It does not discuss any aspects of social technologies, collaboration, decision-making, or value delivery within organisations. The content is strictly technical and lacks any mention of frameworks or methodologies that promote teamwork or organisational culture, which are essential for the 'Social Technologies' category.",
     "level": "Ignored"
   },
@@ -1423,62 +1264,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:44:13",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS 2012 and SQL Server, with no direct mentions of Scrum principles, roles, events, or practices. It does not align with the core themes of Scrum, and the depth of discussion is focused on troubleshooting rather than any Scrum-related content.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:26:30",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a specific error related to TFS 2012 and SQL Server, focusing on troubleshooting and solutions for a login conflict. It does not address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is entirely centred on resolving a technical issue without any mention of integrating testing, security, or compliance earlier in the development process.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:13:59",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific technical error related to TFS 2012 and SQL Server, with no discussion of Continuous Improvement principles, practices, or methodologies. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are essential for the Continuous Improvement category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:14:02",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS 2012 and SQL Server login conflicts. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The content is strictly technical and lacks any connection to the themes outlined in the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:14:04",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and SQL Server, with no direct discussion of competence, continuous learning, or skill development. While it provides detailed steps for troubleshooting, it does not align with the core themes of competence as defined in the category. The mention of expertise in the description is too vague and does not contribute significantly to the discussion of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS 2012 and SQL Server, with no discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks any mention of the core themes associated with Agentic Agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

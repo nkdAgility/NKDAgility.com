@@ -9,7 +9,7 @@ ResourceImportId: 22774
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-03
-weight: 240
+weight: 175
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,19 +29,29 @@ aliasesArchive:
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
 - Working Software
-- Increment
-- Scrum Product Development
+- Pragmatic Thinking
 - Software Development
+- Technical Mastery
+- Agile Frameworks
 - Professional Scrum
 - Scrum Team
-- Software Developers
 - Empirical Process Control
 - Product Delivery
-- Technical Mastery
+- Increment
+- Team Performance
+- Agile Product Management
+- Technical Debt
+- Competence
+- Engineering Practices
+- Operational Practices
+- Agile Transformation
+- Continuous Improvement
+- Technical Excellence
+- Value Delivery
 categories:
 - Scrum
 - Engineering Excellence
-- DevOps
+- Technical Leadership
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

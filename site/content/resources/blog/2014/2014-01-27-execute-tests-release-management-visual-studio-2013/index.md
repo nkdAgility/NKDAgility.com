@@ -9,7 +9,7 @@ ResourceImportId: 10342
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-01-27
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,15 +29,19 @@ aliasesArchive:
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
 - Release Management
-- Practical Techniques and Tooling
 - Software Development
 - Install and Configuration
-- Automated Testing
-- Test Automation
 - Azure DevOps
+- Automated Testing
 - Product Delivery
-- Working Software
+- Test Automation
 - Azure Pipelines
+- Technical Excellence
+- Working Software
+- Continuous Delivery
+- Operational Practices
+- Troubleshooting
+- Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

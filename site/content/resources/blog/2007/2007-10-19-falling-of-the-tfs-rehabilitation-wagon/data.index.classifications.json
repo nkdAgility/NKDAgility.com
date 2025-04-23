@@ -1,15 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:38:06",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the deployment of TFS (Team Foundation Server) and its application in project management, which relates to the application lifecycle. However, it primarily focuses on specific implementation details and personal experiences rather than a comprehensive discussion of ALM methodologies, practices, or tools. The mention of TFS and its functionalities indicates some relevance, but the depth and breadth of the discussion do not fully align with the core themes of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -40,10 +40,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T20:03:53",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and customization of TFS (Team Foundation Server) rather than the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -58,13 +58,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:18:59",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the installation of TFS and mentions the need for customization and integration with SharePoint, which aligns with the category's focus on installation and configuration. However, the discussion lacks detailed step-by-step instructions or best practices, which affects the depth of the content. The primary focus is on the author's experience and thoughts rather than a structured guide, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -86,15 +86,6 @@
     "reasoning": "Content primarily discusses the deployment and features of TFS, which is directly related to project management tools rather than a miscellaneous topic.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:04:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS and SharePoint, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T20:04:05",
@@ -103,18 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and customization of TFS and SharePoint, without a focus on complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T15:15:17",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the installation and implementation of TFS (Team Foundation Server) for project management, which aligns with the category's focus on practical tooling. However, while it mentions specific tools and some features, the discussion lacks depth in methodologies or frameworks and does not provide extensive insights into best practices or case studies. The primary focus is on personal experience rather than a structured exploration of techniques.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -127,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:04:09",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and features of TFS, with limited focus on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -163,43 +142,37 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:04:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS for project management, lacking a focus on evidence-based management principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical aspects and challenges rather than evidence-based management principles. While there is a mention of metrics and tracking, it lacks a clear emphasis on data-informed decision-making or the core themes of EBM such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:04:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS for project management, without a focus on Agile principles or product-centric development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. While there are mentions of project management and tracking, there is no explicit discussion of agile methodologies, product management principles, or the core themes of the Agile Product Operating Model. The focus is on TFS and SharePoint integration, which does not align with the category's requirements.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:38:16",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the deployment of TFS (Team Foundation Server) and its implications for project management, which aligns with industry updates relevant to Agile and DevOps. However, it lacks a structured review or analysis of TFS as a tool, focusing more on personal experiences and anecdotal evidence. While it mentions specific features and future customizations, the depth of discussion is more about personal implementation rather than a comprehensive review or news update, leading to a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:38:02",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the installation and deployment of TFS (Team Foundation Server) for project management, which relates to product delivery. However, it lacks a detailed exploration of methodologies, practices, or frameworks that are central to the category. The focus is more on personal experiences and specific technical implementations rather than a comprehensive discussion on product delivery principles.",
     "level": "Ignored"
   },
@@ -221,48 +194,12 @@
     "reasoning": "Content primarily discusses the deployment and customization of TFS (Team Foundation Server) for project management, which does not align with the core principles of platform engineering focused on internal developer platforms and enhancing developer productivity.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:04:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS (Team Foundation Server) for project management, without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:04:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS and SharePoint, with no clear focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:04:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:04:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and features of TFS and SharePoint, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T20:04:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and customization of TFS (Team Foundation Server) for project management, without a clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -295,27 +232,27 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T07:38:02",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical aspects of deploying TFS and does not focus on personal experiences or reflections related to Agile methodologies. While there are some personal anecdotes, they are overshadowed by technical details and project management discussions, leading to a low confidence score in the 'Personal' category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:14:41",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 62.0,
     "ai_mentions": 75.0,
     "ai_alignment": 55.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Team Foundation Server (TFS), which is a predecessor to Azure DevOps, and touches on its functionalities and customisation. However, it does not explicitly mention Azure DevOps or its specific services, focusing instead on TFS and its integration with SharePoint. While there is some alignment with the themes of project management and customisation, the depth of discussion is more about TFS rather than Azure DevOps itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -328,14 +265,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:38:02",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the deployment of TFS (Team Foundation Server) and its use in project management, which is tangentially related to DevOps practices. However, it lacks a direct focus on core DevOps principles such as CI/CD, automation, or cultural shifts. The mention of TFS and project tracking does not sufficiently align with the broader themes of DevOps, and the depth of discussion is limited to specific implementation details without addressing the integration of development and operations or the collaborative aspects of DevOps.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, which is more aligned with project management tools rather than the broader DevOps philosophy. While there are mentions of tracking and customization, the focus is not on the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in exploring how these tools contribute to the DevOps culture or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -346,36 +283,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and customization of TFS, which does not focus on engineering practices or methodologies that enhance agility within software development.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:04:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and features of TFS and SharePoint, with minimal focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:04:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS and SharePoint, with no clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T07:38:11",
-    "ai_confidence": 68.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 65.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in a project management context, which aligns with the category's focus on tools and software that facilitate Agile practices. It mentions specific features and customizations related to TFS, indicating a practical application of the product. However, while it touches on the deployment and functionality of TFS, it lacks a deeper analysis or review of the product itself, which slightly lowers the depth score. Overall, the content is relevant but does not fully explore the broader implications or comparisons with other products.",
-    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -397,22 +304,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:38:13",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 47.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 43.0,
+    "final_score": 47.0,
     "reasoning": "The content discusses the installation and configuration of Team Foundation Server (TFS) and its integration with SharePoint, which aligns with system configuration. However, the focus is more on project management and the challenges faced rather than detailed methodologies or best practices for system configuration. While there are mentions of customization and out-of-the-box functionality, the depth of technical discussion is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and use of Team Foundation Server (TFS) and related project management tools, without a clear focus on innovation measurement or practices.",
     "level": "Ignored"
   },
@@ -441,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and customization of TFS for project management without a focus on portfolio management practices or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and use of TFS for project management without a clear focus on Scrum principles or practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -481,10 +379,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily revolves around the deployment and configuration of TFS (Team Foundation Server) and SharePoint, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -517,20 +415,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and utilization of Team Foundation Server (TFS) in project management, without addressing the Definition of Done or its related concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of TFS (Team Foundation Server) and project management systems, without a focus on Scaled Agile frameworks, methodologies, or coordination among multiple Agile teams.",
+    "reasoning": "Content primarily discusses the deployment and utilization of Team Foundation Server (TFS) in project management, without addressing the Definition of Done or its related concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -571,10 +460,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and features of TFS (Team Foundation Server) and SharePoint, with no clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -589,37 +478,25 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T07:38:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses TFS (Team Foundation Server) and its deployment for project management, which relates to collaboration tools. However, the focus is more on the technical aspects of TFS and its features rather than on enhancing communication and coordination within Agile teams. The mention of SharePoint and project management indicates some relevance, but it lacks a comprehensive exploration of collaboration tools and their impact on team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-10T19:01:28",
-    "ai_confidence": 47.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) for project management, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about the technical aspects of TFS rather than the broader role of developers within Agile frameworks. While there are mentions of project management and customization, the depth of discussion does not fully explore the key themes outlined in the category description.",
-    "level": "Tertiary"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:38:27",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the implementation of Team Foundation Server (TFS) for project management, which aligns with software development practices. It mentions the need for customisation and the use of out-of-the-box functionalities, indicating an understanding of software deployment and project tracking. However, the discussion is somewhat anecdotal and lacks depth in methodologies or best practices, which affects the overall confidence score.",
     "level": "Secondary"
   },
@@ -650,7 +527,7 @@
     "reasoning": "Content focuses on the deployment of TFS and SharePoint for project management without discussing estimation techniques or practices relevant to Agile and Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:41:57",
     "ai_confidence": 0,
@@ -724,11 +601,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and customization of TFS (Team Foundation Server) for project management and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, which does not directly address Continuous Delivery principles or practices. While it mentions project tracking and some aspects of software management, it lacks a focus on Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is more about project management challenges rather than the delivery of software in reliable cycles.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -760,32 +640,23 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T07:38:24",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of Team Foundation Server (TFS) and its application in project management, which touches on aspects of digital tools. However, it lacks a strategic focus on digital transformation as defined in the category. The mention of TFS and SharePoint does not explicitly connect to broader themes of business agility or innovation, and the discussion remains more technical and operational rather than strategic. Therefore, while there are relevant elements, they do not sufficiently align with the core themes of digital transformation.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and functionality of TFS without any focus on hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses the deployment of TFS and project management systems without any focus on AI integration or its applications within Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -817,19 +688,19 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installing and customizing TFS for project management, with no clear emphasis on deployment frequency or related practices.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server (TFS) deployment and customization, lacking a focus on Lean principles or product development processes.",
     "level": "Ignored"
   },
@@ -880,10 +751,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T07:38:02",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "Content discusses the deployment and customization of TFS (Team Foundation Server), which relates to version control practices, but the main focus is on project management and work item tracking, with limited coverage of version control strategies.",
     "level": "Ignored"
   },
@@ -907,10 +778,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses the deployment of TFS and requirements for project management, but does not focus on team performance, collaboration, or Agile principles.",
     "level": "Ignored"
   },
@@ -952,28 +823,28 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and customization of TFS and SharePoint, without a focus on team dynamics or communication in Agile frameworks.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and features of Team Foundation Server (TFS) rather than the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server (TFS) deployment and project management, with no reference to Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -988,13 +859,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:38:29",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the deployment of TFS and its functionalities, which touches on aspects of software tools and project management. However, it lacks a strong focus on software craftsmanship principles, best practices, or methodologies that contribute to technical mastery. The discussion is more about project implementation rather than deep technical practices or engineering excellence.",
     "level": "Ignored"
   },
@@ -1007,15 +878,6 @@
     "reasoning": "Content discusses deployment and customization of TFS and SharePoint, with no clear focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS as a work item tracking system and discusses its deployment and customization, with no mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:41:57",
@@ -1023,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and features of TFS (Team Foundation Server) and SharePoint, without addressing strategies related to customer retention or engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) and SharePoint for project management, but does not focus on agile principles or methodologies like Scrum or Kanban.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1126,13 +979,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:38:09",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the installation and use of Team Foundation Server (TFS), which is a software application that runs on Windows. It mentions Windows Workflow functionality and references SharePoint 2007, which is also a Windows-based application. However, the primary focus is on TFS and project management rather than the Windows operating system itself. While there are direct mentions of Windows and some alignment with the category's themes, the depth of discussion primarily revolves around TFS and its features rather than Windows-specific topics like installation, configuration, or troubleshooting of the Windows OS.",
     "level": "Secondary"
   },
@@ -1174,10 +1027,10 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup and customization of TFS for project management rather than deployment strategies.",
     "level": "Ignored"
   },
@@ -1210,10 +1063,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the deployment and customization of TFS, with a focus on project management rather than Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1228,15 +1081,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:38:19",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the installation and deployment of TFS (Team Foundation Server) for project management, which relates to working software. However, it primarily focuses on the challenges and features of TFS rather than delivering functional software that meets user needs. While there are mentions of requirements and customization, the depth of discussion on best practices or iterative development is limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1249,33 +1102,33 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS and project management challenges, with no focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation and customization of TFS and SharePoint, without reference to team dynamics or motivation strategies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:49:30",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the practical application of TFS in a real-world project management context, highlighting the complexities and customizations required. It reflects on problem-solving strategies and adaptability in response to evolving requirements, which aligns with the core themes of Pragmatic Thinking. However, while it touches on relevant topics, the depth of discussion on specific Agile or Scrum methodologies is limited, preventing a higher confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1306,20 +1159,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T20:41:57",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the deployment and features of Team Foundation Server (TFS) and does not focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment and customization of TFS for project management, which is not related to Scaling Scrum principles or frameworks.",
+    "reasoning": "Content primarily discusses the deployment and features of Team Foundation Server (TFS) and does not focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1333,13 +1177,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:38:21",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) for project management, which relates to operational practices. However, it lacks a detailed exploration of techniques or strategies aimed at enhancing operational efficiency. The focus is more on the deployment and customization of TFS rather than on broader operational practices or methodologies like Agile, DevOps, or Lean. Therefore, while there are relevant mentions, the depth and alignment with the core themes of operational practices are limited.",
     "level": "Ignored"
   },
@@ -1361,22 +1205,16 @@
     "reasoning": "Content primarily discusses the deployment and features of Team Foundation Server (TFS) rather than Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment of TFS as a Work Item Tracking system rather than strategies or practices for scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the deployment of TFS (Team Foundation Server) and related technical implementations, with no clear focus on the role of a Scrum Master or Scrum practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, focusing on technical aspects and challenges rather than the role of a Scrum Master. There are no direct mentions of Scrum principles, the responsibilities of a Scrum Master, or any related coaching or facilitation techniques. The discussion is more aligned with project management tools and their functionalities, which does not fit the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1399,22 +1237,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:41:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:26:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation and customization of TFS for project management, with no focus on Test First Development or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management and does not address Test First Development principles, success criteria, or testing practices. It lacks direct mentions of Test First concepts and does not provide any depth on the topic.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:54:52",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) for project management, focusing on technical aspects and specific functionalities rather than the social frameworks or methodologies that promote collaboration and decision-making. While there are brief mentions of project management and tracking, the discussion lacks depth in exploring how these tools foster collaboration or enhance organisational culture, which are key themes of Social Technologies.",
     "level": "Ignored"
   },
@@ -1447,26 +1288,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:38:02",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its deployment for project management, which is not directly related to Scrum principles or practices. While there are mentions of project management and tracking, the discussion lacks explicit references to Scrum roles, events, or artifacts. The conceptual alignment with Scrum is minimal, as it does not address the iterative and collaborative nature of Scrum or its core themes. The depth of discussion is also limited, focusing more on TFS functionalities rather than Scrum methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:45:24",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the deployment and customization of TFS (Team Foundation Server) for project management, without any explicit mention or discussion of the Shift-Left Strategy. It lacks focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The content does not provide any techniques, case studies, or metrics related to Shift-Left practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical challenges and solutions rather than aligning strategy with execution or shared objectives. While it mentions project management, it does not explicitly address Common Goals or their significance in Agile or DevOps frameworks. The discussion lacks depth in connecting individual contributions to organisational missions, which is central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical aspects and challenges rather than on competence as a foundational principle. While there are mentions of requirements and customization, the discussion lacks a clear emphasis on continuous learning, skill development, or the role of competence in delivering quality outcomes. The content does not delve deeply into strategies for fostering a culture of competence or inspecting and adapting competence over time.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the implementation of TFS for project management, which touches on aspects of process improvement and adaptation. However, it lacks a strong focus on Continuous Improvement principles, such as empirical evidence, a culture of experimentation, or detailed strategies for integrating these practices into organisational processes. The mention of customisation and tracking capabilities hints at improvement but does not delve into the broader themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of TFS for project management, focusing on technical aspects and challenges rather than the intentional shaping of outcomes or the principles of Agentic Agility. While there are mentions of adapting TFS to meet project needs, the discussion lacks a clear focus on autonomy, adaptability, or the transformative capacity of individuals and systems, which are central to Agentic Agility.",
     "level": "Ignored"
   }
 }

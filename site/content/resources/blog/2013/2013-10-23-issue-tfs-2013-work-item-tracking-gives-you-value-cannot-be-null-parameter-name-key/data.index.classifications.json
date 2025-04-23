@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T11:32:49",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:52:14",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a specific technical issue encountered while customising a process template in TFS, including troubleshooting steps and a solution. It mentions practical techniques for debugging and configuring work item definitions, which aligns with the category. However, the focus is more on a specific problem rather than a broader exploration of tools or methodologies, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,44 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:31:53",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS 2013 and does not focus on Evidence-Based Management principles. While it touches on problem-solving and process improvement, it lacks explicit references to empirical decision-making, metrics, or the core themes of EBM. The discussion is more about troubleshooting a specific error rather than applying data-informed strategies in management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T04:46:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses a specific technical issue related to a software development process, particularly focusing on a bug encountered in a custom process template in TFS. While it touches on aspects of code quality and the implications of design decisions (e.g., the assumption that a field cannot be null), it primarily recounts a troubleshooting experience rather than exploring broader themes of code quality or complexity theory. The discussion lacks depth in terms of principles of software quality or complexity management strategies, which diminishes its alignment with the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T11:32:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:32:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and work item tracking, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T04:46:03",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 68.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a specific issue encountered during the configuration of a process template in TFS, including troubleshooting steps and a solution. It provides actionable insights on making a field required in work item definitions, which aligns with configuration best practices. However, while it touches on installation and configuration, the primary focus is on a specific error and its resolution rather than a comprehensive guide or step-by-step installation process.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:33:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:33:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:31:37",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 related to work item tracking and does not discuss DevOps principles, practices, or cultural shifts. While it touches on aspects of process customisation, it lacks a direct connection to the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is technical and specific to a tool rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
@@ -158,15 +98,6 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:33:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T11:33:14",
@@ -174,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to a software error in TFS, with no clear focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:33:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:33:19",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -223,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:46:01",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific technical issue related to TFS and provides a solution, which aligns with technical excellence. However, it primarily focuses on a specific problem and its resolution rather than broader engineering practices or methodologies. The mention of a fix for a coding assumption and UI issue indicates some alignment with technical excellence, but the depth of discussion on methodologies like TDD or CI/CD is lacking.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,10 +175,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T04:45:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses a specific technical issue encountered during the customisation of a process template in TFS, which is more focused on troubleshooting and debugging rather than the broader methodologies and practices of product delivery.",
     "level": "Ignored"
   },
@@ -271,40 +193,31 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T11:33:28",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS and work item tracking, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:33:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on products or literature relevant to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T11:33:31",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T12:43:36",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific issue encountered while customising a process template in TFS (Team Foundation Server), which is part of the Azure DevOps suite. It provides a detailed account of troubleshooting a bug related to work item tracking, which aligns with Azure DevOps functionalities. The mention of TFS and the context of work item definitions indicate a strong focus on Azure DevOps, although it lacks broader discussions on CI/CD or Agile practices. The depth of the discussion is significant, detailing the problem, the debugging process, and the solution, which enhances its relevance to the Azure DevOps category.",
     "level": "Secondary"
   },
@@ -328,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:33:36",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific technical issue related to TFS and does not focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:31:50",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 related to work item tracking and does not discuss the Agile Product Operating Model or its principles. While it mentions Agile Planning tools, it does not delve into the broader concepts of product management or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
@@ -354,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:33:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2013 and does not focus on industry news, updates, or reviews relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -385,43 +289,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue and troubleshooting related to Team Foundation Server, with no reference to the Definition of Done or its elements.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:36:00",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific technical issue related to TFS and provides a solution, which aligns with technical mastery. However, it primarily focuses on troubleshooting a specific error rather than broader principles of software craftsmanship or engineering practices. The discussion lacks depth in exploring best practices or methodologies, which limits its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS configuration and does not focus on product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:31:55",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific error encountered in TFS 2013 related to work item tracking and does not address Continuous Delivery principles, practices, or tools. While it touches on aspects of software development, it lacks a focus on Continuous Delivery as defined in the category, making it largely irrelevant to the topic.",
     "level": "Ignored"
   },
@@ -454,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to a specific error in TFS and its debugging process. It does not address the Definition of Ready or criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -472,67 +376,67 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to a specific error in TFS without any mention or focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS and work item tracking, with no clear focus on Agile Planning methodologies, principles, or practices.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and does not reference Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a technical error and troubleshooting process related to TFS without discussing customer feedback mechanisms or integration practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T04:46:12",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical issue related to a specific error in TFS when customising process templates. While it touches on aspects of operational practices, such as the need for proper configuration and the importance of making fields required to avoid errors, it lacks a broader discussion on techniques or strategies for enhancing operational efficiency. The focus is more on troubleshooting a specific problem rather than on operational methodologies like Agile or DevOps. Therefore, while there are relevant elements, they are not the primary focus of the content.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to a process template in TFS, with no clear focus on Scrum roles or team dynamics.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not address Agile principles or the philosophy underlying Agile practices.",
     "level": "Ignored"
   },
@@ -547,19 +451,19 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical software issue related to TFS and does not focus on validating product ideas or methodologies related to user feedback and market needs.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and work item tracking, with no direct focus on Agile transformation principles or methodologies.",
     "level": "Ignored"
   },
@@ -583,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server configuration rather than strategies or practices for enhancing team performance or collaboration.",
     "level": "Ignored"
   },
@@ -610,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:57:19",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses a specific technical issue encountered while customising a process template in TFS, which is directly related to software development practices. It provides a detailed account of troubleshooting a bug, including the use of debugging tools and the implications of design choices in software development. The mention of Agile Planning tools and work item definitions aligns with best practices in software development, particularly in the context of version control and project management methodologies. However, while the content is rich in detail regarding a specific problem, it lacks broader discussions on methodologies or frameworks, which slightly lowers the depth score.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T04:45:56",
-    "ai_confidence": 20,
-    "non_ai_confidence": 20,
-    "final_score": 20.0,
-    "reasoning": "The content primarily focuses on a technical issue related to TFS (Team Foundation Server) and does not directly discuss Agile principles, methodologies, or practices. While it mentions team fields in the context of Agile Planning Tools, this is a minor aspect within a technical troubleshooting narrative.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to a specific software tool (TFS) and its error handling, without addressing Agile values or principles.",
     "level": "Ignored"
   },
@@ -649,19 +544,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error encountered in customizing a process template in Team Foundation Server (TFS), focusing on work item tracking and related issues, without addressing version control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS and does not focus on empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -676,31 +571,31 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-11T11:52:08",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific issue encountered while customising a process template in Azure Boards, including the handling of work items and the importance of the 'Team Field'. It provides a detailed account of troubleshooting a bug related to work item creation, which aligns with the functionalities of Azure Boards. However, while it touches on relevant topics, the focus is primarily on a specific technical issue rather than a broader exploration of Azure Boards' features or best practices.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses an error encountered while customizing a process template in TFS, focusing on troubleshooting technical issues rather than collaboration tools.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a technical issue related to Team Foundation Server, focusing on debugging and software configurations rather than organisational change strategies or frameworks.",
     "level": "Ignored"
   },
@@ -724,20 +619,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a technical error and debugging process related to Team Foundation Server, without any focus on customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS and customizing process templates, with no clear relation to scaling Scrum principles, frameworks, or practices.",
+    "reasoning": "Content heavily discusses a technical error and debugging process related to Team Foundation Server, without any focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -758,24 +644,15 @@
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and does not address psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific technical issue related to Team Foundation Server and process customization, with no discussion about scaling agile principles or methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T04:45:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific technical issue related to a software development process, including debugging and problem-solving techniques. However, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. While it touches on aspects of quality assurance and technical debt (the assumption of a non-null value), it does not provide a comprehensive exploration of engineering excellence as defined in the category. The focus is more on troubleshooting a specific error rather than promoting high standards in software craftsmanship.",
     "level": "Ignored"
   },
@@ -808,22 +685,22 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a technical issue related to Team Foundation Server, troubleshooting, and process customization, which does not directly relate to customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:46:25",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a practical issue encountered while customising a process template in TFS, detailing the problem-solving steps taken to resolve an error. It highlights real-world application and experience-based solutions, aligning with the core themes of pragmatic thinking. However, while it provides a specific case study, the focus is more on troubleshooting rather than broader Agile or Scrum strategies, which slightly limits its depth in the category.",
     "level": "Secondary"
   },
@@ -838,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific technical issue with TFS and does not address innovation, empirical data, or fostering a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a technical issue relating to TFS customization, which is not aligned with Scrum principles or product development processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content exclusively discusses a technical issue related to Team Foundation Server and customization of process templates, with no mention of Scaled Agile frameworks or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -901,13 +760,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:46:07",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific software issue encountered while customising a process template in TFS, which relates to the functionality and quality of the software. It provides insights into debugging and resolving a specific error, which aligns with the importance of delivering working software. However, the focus is more on troubleshooting a specific problem rather than broader discussions on working software principles, best practices, or customer feedback integration.",
     "level": "Secondary"
   },
@@ -943,10 +802,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and does not focus on Agile leadership topics such as guiding teams, empowerment, or continuous improvement.",
     "level": "Ignored"
   },
@@ -1006,10 +865,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue with TFS and does not focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1042,19 +901,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS process template customization and does not focus on change management in an organizational context.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical error related to TFS (Team Foundation Server) configuration and debugging rather than focusing on team collaboration principles within Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -1076,7 +935,7 @@
     "reasoning": "Content primarily discusses troubleshooting a specific software issue related to TFS, which is not directly related to digital transformation strategies or the integration of digital technologies in business processes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T11:53:56",
     "ai_confidence": 0,
@@ -1085,33 +944,24 @@
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server customization and does not address the concept of Minimum Viable Product or relevant MVP practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a technical issue related to TFS and Agile methodologies, but does not mention or focus on the application of AI in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:26:29",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific issue related to configuring a process template in TFS (Team Foundation Server), which directly relates to system configuration. It details the steps taken to troubleshoot a configuration error, including the use of developer tools and the identification of a bug related to field requirements in work item definitions. The discussion aligns well with the core themes of system configuration, such as troubleshooting common configuration issues and ensuring proper setup for optimal performance. However, while it provides a good level of detail, it does not extensively cover broader best practices or strategies for system optimisation, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a technical issue with Team Foundation Server (TFS) regarding customization and work item tracking, rather than product strategy frameworks or methodologies.",
     "level": "Ignored"
   },
@@ -1135,31 +985,34 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical issue related to work item tracking in TFS and does not discuss cross-functional teams or Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:51:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an issue with TFS and work item templates, with no mention of Test First Development or related practices such as TDD.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific error encountered in TFS 2013 and the troubleshooting steps taken to resolve it. While it touches on aspects of work item tracking and customization, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is on debugging rather than on the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T04:45:59",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and a specific error encountered during work item tracking. While TFS can be used in a Windows environment, the content does not focus on Windows operating system aspects such as installation, configuration, or troubleshooting of Windows itself. The mention of Internet Explorer and server-side issues hints at a Windows context, but the primary focus is on TFS and its functionalities rather than Windows OS management. Therefore, the confidence score reflects a low alignment with the Windows category.",
     "level": "Ignored"
   },
@@ -1183,19 +1036,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues regarding TFS 2013 and a specific error encountered, with no focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server and does not focus on remote working practices or challenges in an Agile context.",
     "level": "Ignored"
   },
@@ -1210,15 +1063,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T16:47:15",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of a specific technical issue encountered while customising a process template in TFS 2013, including the identification of the problem, the steps taken to diagnose it, and the resolution. It discusses the error message, the debugging process, and the collaboration with the product team to investigate the issue. The depth of discussion is significant, covering both client-side and server-side considerations, and it concludes with a practical solution, aligning well with the troubleshooting category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1231,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server, custom process templates, and error debugging, without any clear reference to Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS 2013 and does not focus on the role or responsibilities of a Scrum Master. While it mentions team dynamics in the context of work item tracking, it lacks any substantial discussion on Scrum principles, coaching, or the Scrum Master's influence on team effectiveness.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1255,18 +1111,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses a technical issue within Team Foundation Server and does not address working agreements, team collaboration, or norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:59:04",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses a specific technical issue related to TFS (Team Foundation Server) and the handling of work item fields, which is relevant to software development. However, it lacks a broader discussion on Agile or DevOps methodologies, best practices, or team dynamics. While it touches on a problem encountered during a development process, it does not explore the role of software developers within Agile or DevOps frameworks in depth, leading to a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1306,10 +1150,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and custom process templates, focusing on a specific error and debugging process rather than product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1324,19 +1168,19 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical error related to the customization of a process template in Team Foundation Server, rather than discussing Agile frameworks or their applications.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not address Agile methodologies or strategies. It focuses on troubleshooting and fixing a specific error rather than the application of Agile principles or strategic planning.",
     "level": "Ignored"
   },
@@ -1360,10 +1204,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T11:53:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses a technical issue related to Team Foundation Server (TFS) rather than principles or practices of Lean Product Development.",
     "level": "Ignored"
   },
@@ -1383,15 +1227,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a technical issue related to TFS customization and does not address accountability or team dynamics in an Agile context.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to Team Foundation Server and custom process templates, not the principles or practices of scaling Kanban.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1423,22 +1258,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:29:12",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS 2013 and does not discuss social technologies, collaboration, or decision-making frameworks. While it mentions team dynamics in passing, it lacks depth and does not align with the core themes of social technologies. The discussion is centred around troubleshooting a specific error rather than exploring methodologies that enhance collaboration or value delivery.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:16:03",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error encountered in TFS 2013 and troubleshooting steps, without focusing on the broader concepts or benefits of an Internal Developer Platform.",
     "level": "Ignored"
   },
@@ -1453,62 +1288,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T04:45:56",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on team dynamics and work item tracking, it lacks a clear focus on Scrum as a framework or its implementation. The discussion is more about troubleshooting a specific error rather than exploring Scrum methodologies or practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:20:08",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific technical issue related to a custom process template in TFS, focusing on a bug encountered during work item tracking. While it touches on aspects of testing and debugging, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or methodologies. The discussion lacks depth in relation to integrating testing or security early in the development process, which is central to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:31:41",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 and does not discuss Continuous Improvement principles or practices. While it mentions a solution to a problem, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The discussion is technical and problem-specific, with no emphasis on learning or process enhancement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:31:43",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS 2013 and does not discuss Common Goals or their significance in Agile or DevOps. While it mentions team fields and work item tracking, these references are not connected to the overarching themes of alignment, shared objectives, or strategic goals. The discussion is more about troubleshooting and technical fixes rather than fostering collaboration or accountability within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:31:46",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific technical error in TFS 2013, detailing the steps taken to resolve the issue. While it does touch on aspects of problem-solving and knowledge sharing, it lacks a direct discussion on competence as defined in the category. The emphasis is on technical fixes rather than continuous learning, skill development, or fostering a culture of competence. Therefore, the alignment with the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in TFS 2013 and does not discuss Agentic Agility or its principles. While there is some mention of problem-solving and adapting to issues, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

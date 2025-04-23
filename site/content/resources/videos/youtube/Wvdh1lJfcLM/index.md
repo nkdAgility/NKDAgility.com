@@ -31,9 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Azure DevOps
-- Practical Techniques and Tooling
-- Install and Configuration
 - Software Development
+- Install and Configuration
 - Digital Transformation
 - Operational Practices
 - Troubleshooting

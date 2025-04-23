@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:08:35",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of Product Owners and their feelings of disempowerment, which touches on themes of collaboration and decision-making. However, it lacks explicit discussions on social technologies or frameworks that promote collective intelligence and transparency. The focus is more on individual empowerment rather than broader organisational dynamics, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -22,13 +22,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:20:10",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of Product Owners within Agile and Scrum frameworks, which are not directly related to DevOps principles. While there are mentions of accountability and empowerment, these concepts are framed within the context of Agile methodologies rather than the broader DevOps philosophy. The focus on Scrum roles and the lack of direct references to DevOps practices or principles significantly diminish the relevance to the DevOps category.",
     "level": "Ignored"
   },
@@ -43,13 +43,13 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-07T13:43:41",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 55.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content briefly mentions an influential figure in Agile and their communication style, which aligns with leadership qualities. However, it lacks depth and specific discussions on leadership strategies, techniques, or frameworks, making it a secondary mention rather than a primary focus.",
     "level": "Tertiary"
   },
@@ -91,32 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:20:31",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of Product Owners in Agile and Scrum contexts, focusing on their feelings of control and empowerment. While it touches on themes of accountability and influence, it lacks direct references to Evidence-Based Management principles, empirical decision-making, or relevant metrics. The discussion is more about personal experiences and sentiments rather than data-informed management practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T20:55:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile principles and personal admiration for a facilitator, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T20:55:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and personal experiences in a PSPO course, with no mention of Kanban or its scaling practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -130,10 +112,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T20:55:39",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on personal admiration for an individual in the Agile community rather than discussing Agile frameworks or their principles.",
     "level": "Ignored"
   },
@@ -148,10 +130,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T20:55:53",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -162,15 +144,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an individual in Agile rather than analysing trends or shifts within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T20:55:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal admiration for an individual in Agile without reference to scaling practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -245,15 +218,6 @@
     "reasoning": "Content primarily focuses on personal admiration for an individual in Agile rather than discussing methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T20:56:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and personal influences rather than AI applications.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-17T20:56:12",
@@ -263,18 +227,6 @@
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not focus on digital transformation or related strategies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-07T13:43:43",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content briefly mentions an influential figure in Agile and highlights their communication skills, which aligns with the category's focus on human behaviour and collaboration. However, the discussion lacks depth and does not explore broader themes of team dynamics or structured methodologies, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T20:56:14",
@@ -282,15 +234,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile principles and personal reflections on a facilitator, with no mention of TDD or its practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T20:56:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on personal admiration for an individual in the Agile space rather than discussing Agile principles, methodologies, or practices directly.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -309,15 +252,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not focus on accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T20:56:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal admiration for a facilitator's communication style rather than focusing on transparency and accountability principles within Agile teams.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -358,40 +292,43 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T20:56:27",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not focus on Agile Planning Tools or related methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:56:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal admiration for an Agile facilitator without focusing on Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner rather than the Scrum Master. While it touches on themes of empowerment and accountability, which are relevant to Scrum roles, it does not explicitly mention the Scrum Master or their responsibilities. The focus is on the challenges faced by Product Owners, which is a secondary topic in the context of Scrum. Therefore, the confidence score reflects a low alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T20:56:30",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an individual in the Agile community rather than focusing on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T23:06:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions an influential figure in Agile and their communication style, which hints at Agile values like collaboration and customer interaction. However, it lacks explicit discussion of Agile principles or a deep exploration of the category's core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -406,11 +343,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not address Test First Development or related principles.",
+    "calculated_at": "2025-04-08T16:46:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role and challenges of Product Owners in Agile and Scrum contexts, with no direct mention or exploration of Test First Development principles, practices, or methodologies. It focuses on empowerment and accountability rather than testing strategies or success criteria, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -433,13 +373,13 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T23:06:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions an influential figure in Agile, but it lacks a direct discussion on organisational culture. While there is a hint of admiration for communication skills, it does not explore how these skills relate to cultural elements that support Agile practices. The focus is more on personal inspiration rather than the broader implications of culture within an organisation.",
     "level": "Ignored"
   },
@@ -472,19 +412,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T20:56:43",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T20:56:44",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on personal admiration for an individual in the Agile space rather than discussing Agile transformation strategies, practices, or methodologies.",
     "level": "Ignored"
   },
@@ -515,24 +455,6 @@
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T20:56:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses personal admiration for an Agile facilitator without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T20:56:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal admiration for an Agile facilitator without reference to specific tools, methodologies, or practical techniques.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T20:56:51",
@@ -553,24 +475,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T18:12:10",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 75.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content provides a personal reflection on the influence of Simon Randell in the author's Agile journey, which aligns with the Personal category. However, it lacks detailed anecdotes or insights into specific Agile practices or challenges faced, resulting in a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T20:56:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal admiration for an individual in Agile rather than specific events or presentations.",
-    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -599,26 +512,17 @@
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T20:57:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal admiration for an individual in Agile, without addressing scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T10:10:10",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 10.0,
     "ai_alignment": 50.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily reflects personal experiences and opinions regarding an influential figure in Agile, specifically Simon Randell. While it does not directly reference specific Agile frameworks or methodologies, it does touch upon themes of facilitation and communication within an Agile context. However, the discussion lacks depth and actionable insights, making it more anecdotal in nature. The mention of an individual in the Agile space indicates a slight connection to the broader Agile context, but it does not delve into established practices or theories, aligning it more with the Miscellaneous category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -631,13 +535,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:20:27",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of Product Owners within Agile and Scrum frameworks, focusing on empowerment and accountability rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes of Continuous Delivery such as automation, incremental improvements, or rapid feedback. The depth of discussion is also minimal, as it does not provide any insights into Continuous Delivery practices or tools.",
     "level": "Ignored"
   },
@@ -670,13 +574,13 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T23:06:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the influence of a facilitator in Agile, which touches on communication but lacks a comprehensive discussion on team collaboration dynamics. It does not delve into specific techniques, strategies, or examples that would align more closely with the category's core themes.",
     "level": "Ignored"
   },
@@ -689,7 +593,7 @@
     "reasoning": "Content does not discuss the Daily Scrum or its related topics; it focuses on personal admiration for an Agile facilitator.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T20:57:12",
     "ai_confidence": 0,
@@ -707,15 +611,6 @@
     "reasoning": "Content heavily discusses Agile concepts and personal reflections on a facilitator, with no mention of Windows or related topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:57:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an individual's admiration for a facilitator in Agile, lacking a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T20:57:16",
@@ -727,15 +622,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:20:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of the Product Owner, which is relevant to the Agile Product Operating Model, but it primarily focuses on individual experiences and empowerment rather than the broader principles and frameworks of APOM. While there are mentions of product management challenges, the discussion lacks depth in addressing the core themes of the Agile Product Operating Model, such as continuous delivery, operational stability, and integration of agile practices with product management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -802,10 +697,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T20:57:27",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -829,24 +724,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-14T23:06:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges faced by Product Owners and encourages self-reflection and empowerment, which aligns with mentoring principles. However, it lacks direct mentions of mentoring techniques or the role of a mentor, and the depth of discussion on mentoring is limited.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T20:57:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses personal admiration for an Agile facilitator and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -877,15 +763,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-11T16:27:12",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges faced by Product Owners, touching on themes of empowerment and accountability, which align with Agile principles. However, it primarily focuses on the role within a specific framework (PSPO) rather than the broader Agile philosophy, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -898,15 +784,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-11T17:40:07",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges faced by Product Owners and encourages self-reflection and empowerment, which aligns with coaching principles. However, it primarily focuses on the role of the Product Owner rather than on coaching techniques or practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -955,10 +841,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T20:57:51",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal admiration for an individual in the Agile space without focusing on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -980,15 +866,6 @@
     "reasoning": "Content heavily discusses personal influences in Agile and does not relate to Value Stream Management.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T20:57:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an individual's admiration for a facilitator in Agile, without addressing any specific topics related to scaling Scrum or its frameworks.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T20:57:56",
@@ -996,15 +873,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an individual in Agile, lacking a focus on the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T20:57:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal admiration for an individual in Agile rather than specific products or literature related to Agile methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1036,11 +904,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T20:58:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:12:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an individual's influence in Agile and personal admiration, with no mention of Lead Time or related metrics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges and sentiments of Product Owners in Agile environments, focusing on empowerment and accountability rather than Lead Time. There are no direct mentions of Lead Time or its measurement, and the discussion does not align with the core themes of Lead Time as an observability metric. The content lacks depth in addressing Lead Time, making it clear that this category is not a primary focus.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1151,15 +1022,6 @@
     "reasoning": "Content primarily discusses an individual's admiration for a facilitator in Agile, without focusing on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T20:59:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal admiration for an Agile facilitator rather than the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T20:59:13",
@@ -1180,10 +1042,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T20:59:15",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal influences in Agile rather than installation or configuration topics.",
     "level": "Ignored"
   },
@@ -1194,15 +1056,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for a facilitator in Agile, lacking focus on the specific responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T20:59:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal admiration for an individual in the Agile community rather than discussing news, updates, or reviews related to Agile methodologies.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1243,27 +1096,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-13T15:39:18",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the empowerment and accountability of Product Owners, which aligns with Agile Leadership principles. It highlights the challenges faced by Product Owners and encourages introspection and proactive steps to elevate their roles, reflecting the importance of leadership in fostering a culture of empowerment and continuous improvement. However, while it touches on leadership aspects, it primarily focuses on the role of the Product Owner rather than broader Agile leadership themes.",
     "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-13T16:47:39",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the empowerment and accountability of Product Owners, which relates to team motivation by highlighting the importance of engagement and ownership within agile teams. However, it primarily focuses on individual experiences rather than broader team dynamics, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1285,11 +1138,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T20:59:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:12:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not address throughput or its measurement and optimisation.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the experiences and sentiments of Product Owners in relation to their roles and responsibilities within Agile and Scrum frameworks. While it touches on themes of empowerment and accountability, it does not explicitly mention throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The focus is more on personal experiences and feelings rather than on measurable delivery capacity or performance metrics, which are central to the concept of throughput.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1303,11 +1159,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T20:59:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:12:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and personal influences rather than system configuration topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in Agile and Scrum methodologies, focusing on empowerment and accountability rather than any aspects of system configuration. There are no direct mentions of system configuration tools, practices, or methodologies, and the discussion does not align with the core themes of system setup, integration, or maintenance. The content lacks depth in relation to system configuration, making it unsuitable for this category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1328,15 +1187,6 @@
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not focus on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T20:59:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not focus on Scrum principles or practices related to product development; it primarily discusses personal admiration for an individual in the Agile community.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T20:59:39",
@@ -1348,19 +1198,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T20:59:40",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal admiration for an Agile facilitator and does not address the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T20:59:42",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal admiration for an individual in the Agile community rather than discussing Agile strategy or methodologies in a strategic context.",
     "level": "Ignored"
   },
@@ -1384,15 +1234,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T15:26:08",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges faced by Product Owners in asserting control and influence within their organisations, which touches on aspects of organisational agility. However, it primarily focuses on individual empowerment and the role of the Product Owner rather than broader organisational strategies or frameworks that enhance agility. The discussion lacks depth in exploring agile methodologies or cultural shifts necessary for organisational agility.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1432,61 +1282,61 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:06:24",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions Agile and references a person influential in Agile, but it lacks explicit discussion of Scrum principles, roles, or events. The focus is more on personal admiration rather than on Scrum as a framework or its practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:59:58",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the role and empowerment of Product Owners within Agile and Scrum frameworks, without any explicit mention or alignment to the Shift-Left Strategy. It focuses on the challenges faced by Product Owners rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:20:13",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the challenges faced by Product Owners in Agile environments, focusing on empowerment and accountability rather than Continuous Improvement principles. While it touches on the need for introspection and proactive steps, it lacks a direct discussion on Continuous Improvement methodologies or frameworks. The themes of empowerment and role elevation are relevant but do not align closely with the core topics of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:20:15",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges faced by Product Owners in influencing product goals and strategic direction, which touches on the concept of alignment with organisational objectives. However, it primarily focuses on personal empowerment and accountability rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The discussion lacks depth in exploring how these challenges relate to shared objectives or strategic alignment, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:20:18",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the challenges faced by Product Owners and highlights the importance of recognising gaps in competence as a pathway to empowerment. It directly mentions competence in the context of accountability and elevating one's role, aligning well with the core themes of continuous learning and skill development. However, while it touches on these themes, the depth of discussion is somewhat limited, focusing more on personal reflections and less on broader strategies for fostering a culture of competence.",
     "level": "Secondary"
   },
@@ -1500,6 +1350,174 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the role of Product Owners within the context of Agile and Scrum, without any direct mention or focus on the One Engineering System framework. It does not address the integration or standardisation of engineering processes, which are core themes of 1ES. The discussion is centred around personal experiences and sentiments of Product Owners, lacking depth in relation to the principles and components of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in asserting control and influence within their roles, which touches on themes of empowerment and accountability. However, it lacks a direct focus on Agentic Agility as defined, particularly in terms of intentional shaping of outcomes and the distinction between human and AI capabilities. The discussion is more about personal empowerment in Agile roles rather than a comprehensive exploration of Agentic Agility principles.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:12:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Product Owner within Agile frameworks, highlighting the challenges they face and the need for empowerment and accountability. It directly mentions the Product Owner's influence on the product backlog and strategic direction, which aligns with the principles of Agile product development. However, while it touches on important aspects of product development, such as empowerment and accountability, it lacks a deeper exploration of methodologies or practices that facilitate iterative learning and customer feedback integration. Therefore, while the content is relevant, it does not fully meet the depth required for a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:12:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing their feelings of lack of control and empowerment. While it touches on themes of engagement and accountability, it does not explicitly mention Open Space Agile or its principles. The discussion is more aligned with traditional Agile practices rather than the collaborative and emergent nature of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:12:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing their challenges and empowerment rather than the principles of Agnostic Agile. While it touches on themes of accountability and influence, it does not explicitly mention Agnostic Agile or its core principles. The discussion is more about the mechanics of the Product Owner role in Scrum, which does not align with the broader, context-driven approach of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:12:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within Agile and Scrum contexts, discussing feelings of control and empowerment rather than addressing the complexities of scaling Agile practices across multiple teams or frameworks. While it touches on the importance of collaboration and influence, it does not delve into methodologies or strategies specifically related to scaling, which is the core focus of the category. Therefore, the confidence score reflects a minimal alignment with the Scaling category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:12:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within Agile and Scrum frameworks, focusing on empowerment and accountability rather than the principles of Cell Structure Design. There are no direct mentions of decentralised structures or autonomous cells, and the discussion does not align with the core themes of the category. The depth of discussion is limited to the experiences of Product Owners, which does not provide substantial insight into Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:12:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges faced by Product Owners in Agile environments, focusing on empowerment and accountability. While it touches on themes relevant to group dynamics and roles within Agile, it does not explicitly mention or explore Liberating Structures or their techniques. The discussion lacks depth regarding facilitation methods or the principles of Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:12:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges faced by Product Owners in asserting control and influence within their roles. While it touches on themes of empowerment and accountability, it does not explicitly address Time to Market or its associated metrics, strategies, or impacts. The focus is more on the personal experiences and sentiments of Product Owners rather than on optimising processes for quicker delivery of value, which is central to the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:12:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within Agile frameworks, focusing on their feelings of empowerment and control. While it touches on themes of organisational roles and accountability, it does not explicitly address the concept of 'Company as a Product' or its core principles. The discussion lacks depth in terms of organisational design or customer-centric strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:12:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Product Owners within Agile and Scrum frameworks, with no direct mention of GitHub or its functionalities. While it touches on themes of empowerment and accountability in Agile roles, it does not align with GitHub's core themes or services. The discussion lacks depth regarding GitHub-specific practices, making it unsuitable for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:12:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners and their feelings of lack of control, which hints at unrealised potential in their roles. However, it does not explicitly mention 'Unrealised Value' or provide a detailed exploration of the concept. The focus is more on empowerment and accountability rather than on identifying or measuring untapped opportunities within an organisation. Therefore, while there is some alignment with the category, it is not a primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:12:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the challenges and sentiments of Product Owners in Agile environments, focusing on their perceived lack of control and influence. While it touches on empowerment and accountability, it does not explicitly address Current Value or its measurement. The discussion lacks depth in terms of metrics or indicators related to Current Value, and it does not provide practical applications or case studies that align with the category's requirements. Therefore, while there are mentions of relevant themes, the overall focus is not on Current Value as defined in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:12:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within Agile frameworks, discussing empowerment and accountability. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The themes of control and influence are relevant but do not align with the core challenges and implications of Hybrid Agile as defined in the category. Overall, the content lacks a direct focus on Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:12:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Agile framework, discussing feelings of control and empowerment. While it touches on aspects relevant to project management, such as accountability and organisational roles, it lacks a broader discussion of project management principles, methodologies, or tools. The emphasis on specific Agile roles and sentiments does not align with the comprehensive scope of project management as defined in the category description.",
     "level": "Ignored"
   }
 }

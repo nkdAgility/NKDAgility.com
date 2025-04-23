@@ -9,7 +9,7 @@ ResourceImportId: 40
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-14
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,14 @@ aliasesArchive:
 - /why-you-need-to-tag-your-build-servers-in-tfs
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
-- Practical Techniques and Tooling
-- Software Development
 - Azure DevOps
+- Software Development
 - Pragmatic Thinking
-- Install and Configuration
 - Continuous Integration
 - Operational Practices
 - Technical Excellence
 - System Configuration
+- Install and Configuration
 preview: metro-SSWLogo-128-link-10-10.png
 categories: []
 

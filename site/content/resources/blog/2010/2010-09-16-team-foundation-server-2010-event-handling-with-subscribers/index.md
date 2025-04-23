@@ -9,7 +9,7 @@ ResourceImportId: 25
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-16
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,10 +25,9 @@ aliasesArchive:
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
 - Software Development
-- Practical Techniques and Tooling
-- Install and Configuration
 - Windows
 - Technical Mastery
+- Install and Configuration
 - System Configuration
 categories: []
 preview: metro-binary-vb-128-link-4-4.png

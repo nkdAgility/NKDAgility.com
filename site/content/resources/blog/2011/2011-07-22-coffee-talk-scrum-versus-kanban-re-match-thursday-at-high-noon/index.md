@@ -28,10 +28,8 @@ aliasesArchive:
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
-- Events and Presentations
-- Software Development
 - Agile Frameworks
-- Agile Project Management
+- Software Development
 categories: []
 preview: metro-nwc-128-link-2-2.png
 

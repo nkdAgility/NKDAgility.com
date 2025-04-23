@@ -9,7 +9,7 @@ ResourceImportId: 159
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-01
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Windows
 - Azure DevOps
 - Troubleshooting

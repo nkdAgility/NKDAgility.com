@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-03T09:00:00
-weight: 255
+weight: 175
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -23,30 +23,40 @@ aliasesArchive:
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
 tags:
-- Increment
-- Scrum Product Development
+- Professional Scrum
 - Working Software
+- Increment
+- Software Development
 - Product Delivery
 - Value Delivery
-- Professional Scrum
-- Software Development
-- Agile Project Management
+- Agile Transformation
 - Continuous Delivery
+- Frequent Releases
+- Agile Frameworks
+- Agile Product Management
+- Deployment Frequency
+- Pragmatic Thinking
 - Scrum Team
+- Operational Practices
+- Time to Market
+- Agile Planning
+- Agile Strategy
+- Market Adaptability
+- Release Management
 categories:
+- Product Development
 - Scrum
-- Social Technologies
-- DevOps
+- Engineering Excellence
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---
-As a social technology, Scrum has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done Increment** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where DevOps has reshaped the landscape of software delivery.
+As a social technology, [Scrum]({{< ref "/categories/scrum" >}}) has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done [Increment]({{< ref "/tags/increment" >}})** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where [DevOps]({{< ref "/categories/devops" >}}) has reshaped the landscape of software delivery.
 
 ### TLDR;
 
-Modern software engineering practices have made it easy to ship to production and validate that your product is of a quality level that would allow it. I would expect every Scrum Team to:
+Modern software [engineering practices]({{< ref "/tags/engineering-practices" >}}) have made it easy to ship to production and validate that your product is of a quality level that would allow it. I would expect every [Scrum Team]({{< ref "/tags/scrum-team" >}}) to:
 
-- deliver working software to at least some subset of real users every iteration, including the first
+- deliver [working software]({{< ref "/tags/working-software" >}}) to at least some subset of real users every iteration, including the first
 - turn feedback from users into concrete work items on timelines shorter than one month
 - change the requirements based on user feedback
 
@@ -56,13 +66,13 @@ At a very minimum, I expect them to deliver their increments to production at le
 
 Scrum Teams are measured not by what they start but by what they finish, and more importantly, by what they **deliver**. A Done Increment is only as valuable as its ability to drive change and provide feedback in the hands of real users. Anything less is just inventory.
 
-It’s time to shift the focus: delivery is not an afterthought, it is **the measure of progress**. In the 1990s, releasing software to production was a cumbersome, risky process, and the Scrum Guide was written in that world. Today, with modern DevOps capabilities, continuous delivery is not just possible—it is expected.
+It’s time to shift the focus: delivery is not an afterthought, it is **the measure of progress**. In the 1990s, releasing software to production was a cumbersome, risky process, and the Scrum Guide was written in that world. Today, with modern DevOps capabilities, [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) is not just possible—it is expected.
 
 > **If a Scrum Team is producing Done Increments but not delivering them, they are not actually doing Scrum—they are simply simulating progress.**
 
 ### Done Is Not Enough
 
-A Done Increment, according to Scrum, meets the Definition of Done: it is properly tested, meets quality standards, and is potentially shippable. But potential is not value—realised value comes only from delivery.
+A Done Increment, according to Scrum, meets the [Definition of Done]({{< ref "/tags/definition-of-done" >}}): it is properly tested, meets quality standards, and is potentially shippable. But potential is not value—realised value comes only from delivery.
 
 The distinction between Done and Delivered is simple:
 

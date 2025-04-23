@@ -31,8 +31,8 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - Troubleshooting
-- Windows
 - Install and Configuration
+- Windows
 - System Configuration
 
 ---

@@ -2,7 +2,7 @@
 title: What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?
 description: "Discover the top 2 essentials for Scrum Masters in coaching agile teams: the art of listening and the power of credibility. Elevate your coaching game! \U0001F3A7\U0001F91D"
 date: 2023-09-18T07:00:32Z
-weight: 600
+weight: 565
 ResourceId: v1sMbKpQndU
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -33,21 +33,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Scrum Master
-- Technical Leadership
 - Agile Philosophy
 - Agile Transformation
-- Team Performance
+- Scrum Master
 - Pragmatic Thinking
-- Agile Values and Principles
-- People and Process
+- Team Performance
 - Continuous Learning
+- Agile Values and Principles
+- Organisational Agility
+- Social Technologies
+- Team Motivation
+- Software Development
+- Scrum Team
+- Agile Strategy
+- Coaching
+- Continuous Improvement
+- Self Organisation
+- Sociotechnical Systems
+- Mentoring
 resourceTypes:
 - video
 categories:
+- Technical Leadership
+- Product Development
 - Scrum
-- Social Technologies
 
 ---
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 

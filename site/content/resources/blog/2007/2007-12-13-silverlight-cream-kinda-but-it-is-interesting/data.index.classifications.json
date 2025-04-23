@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:23:20",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses browsing and opinions on Microsoft downloads and Silverlight, with no clear focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses Silverlight and related technologies without any direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:23:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Microsoft downloads and Silverlight, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:23:25",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft Silverlight and related downloads, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:23:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with Microsoft downloads and Silverlight, lacking focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:23:31",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Silverlight and related technologies without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:23:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Silverlight and related Microsoft technologies, with no mention of Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations without any reference to Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:23:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Silverlight and related technologies, with no mention of Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:23:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and observations regarding Silverlight and Microsoft downloads, lacking a focus on industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations, with no direct mention or alignment to the Agile Product Operating Model. It lacks any relevant detail or discussion on agile methodologies, product management principles, or the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,42 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Silverlight and related Microsoft technologies without any focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Microsoft technologies and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:23:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Silverlight and related web technologies without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:23:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses browsing a website and personal observations about Silverlight, with no mention of events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:23:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Silverlight and related technologies without addressing transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -307,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:23:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Silverlight and related Microsoft technologies, with no clear focus on DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion is superficial and does not delve into any relevant DevOps topics.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -321,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and observations related to Silverlight and Microsoft downloads, lacking a focus on engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:24:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Silverlight and related technologies without addressing human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:24:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses browsing for software and personal observations about Microsoft technologies, lacking a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:24:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Silverlight and its related web content, without focusing on specific products, books, or Agile/DevOps methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:07:17",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Silverlight and personal experiences with a software download, without focusing on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -411,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Microsoft downloads and web technologies, which are unrelated to Portfolio Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scrum principles or product development within a Scrum framework; it focuses on Microsoft technologies and personal observations.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -451,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T20:07:17",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Microsoft technologies and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -492,15 +402,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on Silverlight and SharePoint software, with no mention or discussion of the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Microsoft technologies, specifically Silverlight and SharePoint, with no mention of Agile practices or scaling.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -566,15 +467,6 @@
     "reasoning": "Content does not discuss collaboration tools or Agile methodologies; it focuses on Silverlight and Microsoft web content.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses browsing Microsoft downloads and includes personal anecdotes about Silverlight, without focusing on software development methodologies or practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T20:07:17",
@@ -586,10 +478,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T20:07:17",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Microsoft downloads and Silverlight, with no relevance to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -611,7 +503,7 @@
     "reasoning": "Content discusses Silverlight and Microsoft downloads, with no reference to estimation or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:07:17",
     "ai_confidence": 0,
@@ -685,11 +577,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Silverlight and Microsoft downloads, with no relevant discussion on Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations, with no explicit mention of Continuous Delivery principles, practices, or related topics. It lacks any depth or alignment with the core themes of Continuous Delivery, focusing instead on a specific technology without addressing software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -735,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss hypothesis formulation, experimentation, or validated learning; it is primarily about Microsoft technologies and personal opinions.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Microsoft Silverlight and related web technologies, with no relevance to AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -962,15 +848,6 @@
     "reasoning": "Content discusses Microsoft downloads and technology unrelated to remote working practices or Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Silverlight and unrelated Microsoft technologies, with no focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:07:17",
@@ -978,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Silverlight and Microsoft downloads, with no focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about Silverlight and related Microsoft technologies, with no clear discussion on Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1081,10 +949,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T20:07:17",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Silverlight and SharePoint, which are not central to the Windows operating system.",
     "level": "Ignored"
   },
@@ -1259,15 +1127,6 @@
     "reasoning": "Content does not address asynchronous development principles or practices, instead focuses on Microsoft technologies and personal observations.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Microsoft downloads and Silverlight, with no relevance to Scrum or its scaling.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T20:07:17",
@@ -1304,22 +1163,16 @@
     "reasoning": "Content is focused on Microsoft downloads and technology rather than Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Microsoft-related technology and downloads, and does not mention agile practices or scaling agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Microsoft technologies and is unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations, with no direct mention of Scrum, Scrum Masters, or related concepts. It lacks any alignment with the responsibilities or impact of a Scrum Master, and there is no depth of discussion on the topic. Overall, it is unrelated to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1342,22 +1195,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:07:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Silverlight and browsing for downloads, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and related web innovations without any mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:53:51",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations, with no explicit focus on social technologies, collaboration, or decision-making frameworks. While it mentions a colleague's work, it lacks depth in discussing team dynamics or organisational culture, which are key aspects of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1390,26 +1246,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:16:01",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on Silverlight and Microsoft technologies, which are unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:44:22",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses Silverlight and related Microsoft technologies without any reference to the Shift-Left Strategy or its principles. There are no mentions of testing, security, or compliance processes in the software development lifecycle, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and related Microsoft technologies without any reference to Agile, DevOps, or the concept of Common Goals. It lacks explicit mentions of shared objectives or alignment strategies, and the discussion is superficial and unrelated to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and related web innovations without any explicit mention of competence, continuous learning, or skill development. It lacks alignment with the core themes of the competence category, focusing instead on technology and tools rather than professional development or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations without any focus on Continuous Improvement principles. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as empirical evidence, team effectiveness, or strategies for improvement. The discussion lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Silverlight and Microsoft's web innovations without any reference to Agentic Agility, its principles, or its implications for human or AI systems. There is no exploration of intentionality, adaptability, or the shaping of outcomes, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:13:47",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branding and customisation of SharePoint 2007, rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses SharePoint branding and customization, which does not align with Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:13:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses SharePoint branding and technical aspects without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T20:13:53",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint branding and development, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:13:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses SharePoint branding and personal experiences with CSS and HTML, lacking a focus on Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:13:57",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint branding and customization, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:14:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint branding and customization, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of branding and customising SharePoint 2007, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing these concepts.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:14:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint branding and customization, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:14:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and challenges with SharePoint branding, lacking industry news or reviews relevant to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on branding and customizing SharePoint 2007, with no mention of agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It discusses technical aspects of SharePoint without any connection to the core themes of APOM.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,42 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint branding and customization, which is not related to platform engineering principles or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:14:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on SharePoint branding and customization, with no relevance to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:14:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses SharePoint branding and personal experiences with CSS and HTML, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:14:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses SharePoint branding and development, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses SharePoint branding and customization, with no focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -307,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:14:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint branding and customization, which is unrelated to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on branding and customising SharePoint 2007, discussing CSS and HTML techniques without any reference to DevOps principles, practices, or cultural shifts. There are no mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -321,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint branding and personal experiences with CSS and HTML, lacking a focus on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:14:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of SharePoint branding and personal experiences with CSS, lacking a focus on team dynamics or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical aspects of SharePoint branding and personal experiences with CSS and HTML, without a clear emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of branding and customizing SharePoint 2007, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:42:02",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the challenges of branding and customizing SharePoint 2007, without discussing innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -411,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses SharePoint branding and customization, which is not relevant to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about branding and customizing SharePoint 2007, with no relevance to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -451,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T20:42:02",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on branding and customizing SharePoint 2007, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -487,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T20:42:02",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses branding and customizing SharePoint 2007, which is unrelated to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint branding and development, with no relevance to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content primarily discusses branding and customizing SharePoint 2007, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -566,33 +467,24 @@
     "reasoning": "Content focuses on SharePoint branding and customization, which is unrelated to collaboration tools.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branding and customization of SharePoint 2007, which does not directly relate to Agile or DevOps methodologies as defined in the category.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:38:36",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses SharePoint branding, which is related to software development, but it primarily focuses on personal experiences and challenges rather than structured methodologies or best practices. While it mentions development aspects like CSS and master pages, it lacks a comprehensive exploration of software development principles or frameworks.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T20:42:02",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses SharePoint branding and customization, which is unrelated to Site Reliability Engineering principles.",
     "level": "Ignored"
   },
@@ -614,7 +506,7 @@
     "reasoning": "Content discusses SharePoint branding and customization, which is unrelated to estimation in Agile or Scrum practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:42:02",
     "ai_confidence": 0,
@@ -688,19 +580,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on branding and customizing SharePoint 2007, with no relation to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on branding and customizing SharePoint 2007, discussing CSS and master pages without any reference to Continuous Delivery principles, practices, or related topics. There are no mentions of automation, incremental improvements, or software delivery cycles, which are central to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T20:42:02",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on the challenges of branding and customizing SharePoint 2007, with no mention of lead time or related metrics. It is primarily about web development and design processes.",
     "level": "Ignored"
   },
@@ -738,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint branding techniques without any mention of hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses SharePoint branding and CSS, with no relevance to AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -922,10 +808,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T20:42:02",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SharePoint branding and customization, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -965,15 +851,6 @@
     "reasoning": "Content discusses SharePoint branding and development, which is not related to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint branding and customization, which is unrelated to Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:42:02",
@@ -981,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on branding and customizing SharePoint, which is unrelated to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on SharePoint branding and customization, with no relevance to Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1262,15 +1130,6 @@
     "reasoning": "Content is focused on SharePoint branding and customization, with no reference or discussion on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about branding and customizing SharePoint 2007, with no relevance to Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T20:42:02",
@@ -1307,22 +1166,16 @@
     "reasoning": "Content discusses SharePoint branding and customization, which is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses SharePoint branding and customization, with no relevance to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on SharePoint 2007 branding and customization, with no relevance to Scrum Master responsibilities or topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on branding and customizing SharePoint 2007, with no mention of Scrum or the role of a Scrum Master. It does not align with any of the key topics related to Scrum Masters, such as team dynamics, coaching, or agile principles. The discussion is technical and specific to web development, making it irrelevant to the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,22 +1198,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:42:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on SharePoint branding and customization, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on branding and customising SharePoint 2007, with no mention of Test First Development principles, success criteria, or testing practices. It discusses CSS and HTML without any relation to testing methodologies or the Test First approach.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:55:04",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the technical aspects of branding and customising SharePoint 2007, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions working with a colleague, it does not explore the dynamics of teamwork or organisational culture, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1375,10 +1231,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:47:05",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint branding and customization, which is unrelated to Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1393,26 +1249,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:17:11",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on SharePoint branding and customization, with no direct mentions of Scrum principles, roles, or practices. While it discusses project-related challenges, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is minimal and does not provide any relevant insights into Scrum.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:45:42",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on branding and customizing SharePoint 2007, with no mention of the Shift-Left Strategy or its principles. It discusses technical aspects of SharePoint without addressing testing, security, or compliance in the software development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of branding and customising SharePoint 2007, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives and strategic alignment, and provides minimal depth on any related concepts.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the challenges of branding SharePoint 2007 and the author's personal experiences with relearning CSS and HTML skills. While there are mentions of skill development, the discussion does not align closely with the core themes of competence in Agile or DevOps contexts. The depth of discussion on competence is minimal, as it lacks a structured exploration of continuous learning or professional development principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:28:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges of branding SharePoint 2007 and does not discuss Continuous Improvement principles. While there is a mention of improvement over SharePoint 2003, it lacks a structured approach to Continuous Improvement, empirical evidence, or strategies for fostering a culture of experimentation. The discussion is more about personal experiences and technical challenges rather than a commitment to ongoing enhancement or measurable advancements.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on branding and customizing SharePoint 2007, discussing technical challenges and personal experiences with CSS and HTML. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in the context of human or AI capabilities.",
     "level": "Ignored"
   }
 }

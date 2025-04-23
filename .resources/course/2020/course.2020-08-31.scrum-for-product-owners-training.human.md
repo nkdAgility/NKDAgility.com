@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2020-08-31
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-product-owners-training
@@ -30,8 +30,7 @@ delivery-audiences:
 - Entrepreneurs
 - Product Managers
 tags:
-- Agile Project Management
-- Scrum Product Development
+- Agile Frameworks
 - Agile Product Management
 - Backlog Refinement
 - Product Backlog
@@ -39,7 +38,7 @@ tags:
 - Professional Scrum
 - Scrum Team
 - Software Development
-- Agile Frameworks
+- Team Performance
 categories:
 - Scrum
 - Product Management

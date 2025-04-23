@@ -30,19 +30,20 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Agile Project Management
 - Operational Practices
 - Forecasting
 - Software Development
-- Throughput
 - Agile Frameworks
-- Practical Techniques and Tooling
-- Products and Books
+- Throughput
 - Flow Efficiency
+- Product Delivery
+- Project Management
+- Pragmatic Thinking
+- Value Delivery
 resourceTypes:
 - video
 categories:
-- Kanban
+- Product Development
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

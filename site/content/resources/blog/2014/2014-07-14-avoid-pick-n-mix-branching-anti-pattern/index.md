@@ -9,7 +9,7 @@ ResourceImportId: 10649
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-14
-weight: 275
+weight: 205
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,20 @@ aliasesArchive:
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
-- Release Management
-- Modern Source Control
-- Software Development
-- Product Delivery
-- Code and Complexity
-- Technical Excellence
-- Practical Techniques and Tooling
-- Technical Mastery
-- Engineering Practices
 - Pragmatic Thinking
+- Release Management
+- Technical Excellence
+- Technical Mastery
+- Modern Source Control
+- Operational Practices
+- Software Development
+- Engineering Practices
+- Product Delivery
+- Technical Debt
+- Working Software
+- Continuous Delivery
+- Troubleshooting
+- Deployment Strategies
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-4-4.png

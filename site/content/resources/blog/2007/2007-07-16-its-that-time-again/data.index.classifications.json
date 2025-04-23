@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T21:40:07",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and contracting rather than the management of software applications or the application lifecycle.",
     "level": "Ignored"
   },
@@ -19,10 +19,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T21:40:10",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and contracting rather than organisational agility or related frameworks.",
     "level": "Ignored"
   },
@@ -55,45 +55,36 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:40:15",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career thoughts and experiences related to contracting, rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-15T07:43:19",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content touches on personal decision-making regarding career choices and contracting, which aligns with decision theory. However, it lacks a detailed exploration of decision-making frameworks or the role of probability and heuristics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:22:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily reflects personal experiences and thoughts about transitioning into contracting, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on the author's career and coding experiences, it lacks actionable insights or connections to established frameworks. The discussion is anecdotal and non-technical, aligning with the Miscellaneous category, but does not delve deeply into any specific themes or provide substantial detail.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:40:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -102,15 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and contracting rather than complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:40:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and considerations regarding contracting and job satisfaction, without a focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -124,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:40:25",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and contracting rather than metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -160,29 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:40:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:58:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal career considerations and the author's thoughts on contracting rather than discussing Evidence-Based Management principles. There are no explicit mentions of empirical evidence or metrics related to management decisions, and the discussion lacks depth in relation to the key topics of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:40:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than Agile product development principles.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:40:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and thoughts about contracting rather than industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal journey regarding career changes and contracting, with no explicit discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It briefly touches on coding and developer experiences but lacks any relevant connection to the core themes of the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -210,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and considerations regarding contracting as a developer, with no clear focus on platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:40:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than AI and automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:40:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and considerations regarding contracting and job satisfaction, with minimal focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:40:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than events or presentations related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:40:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than transparency and accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -277,22 +220,22 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T21:40:48",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and contracting rather than Agile Product Management principles or practices.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T15:18:51",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the author's personal experiences and reflections regarding their career, job satisfaction, and considerations for contracting. It discusses individual fears and motivations, which align well with the Personal category. The author shares insights about their past and current situation, making it a personal narrative rather than a technical discussion. However, while it touches on relevant themes, it lacks deeper exploration of Agile or Scrum methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
@@ -307,20 +250,23 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T21:40:52",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and contracting rather than Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:40:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal journey regarding career decisions and contracting, with minimal mention of DevOps principles or practices. While there are references to development skills and experiences, they do not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -332,42 +278,12 @@
     "reasoning": "Content primarily discusses personal career considerations and contracting rather than engineering practices or methodologies related to technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:43:19",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content touches on personal experiences and fears related to career transitions, which indirectly relates to human factors in the workplace. However, it lacks a structured discussion on team dynamics, leadership, or process methodologies, making it more of a personal narrative than a focused exploration of the 'People and Process' category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:40:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than processes of discovery and learning in product or software development.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:40:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal career decisions and experiences related to contracting and software development, with no focus on product management principles or practices.",
     "level": "Ignored"
   },
@@ -391,10 +307,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career transitions and contracting rather than the measurement or enhancement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -418,20 +334,11 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal feelings about career changes, contracting, and job rates, rather than management of a portfolio of projects or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career thoughts and experiences regarding contracting, without addressing Scrum principles, practices, or product development.",
+    "reasoning": "Content primarily discusses personal feelings about career changes, contracting, and job rates, rather than management of a portfolio of projects or strategic alignment.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -454,22 +361,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T07:43:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the author's thoughts about transitioning to contracting, which involves decision-making elements. However, it lacks structured methodologies, empirical evidence, or collaborative insights that are central to the category of Decision Making. The discussion is primarily personal and anecdotal, focusing on fears and considerations rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and considerations regarding contracting and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -502,20 +409,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on personal career thoughts and contracting, with no mention of Definition of Done or related Agile concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on personal career decisions, contracting, and developer experiences, without any discussion of Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content is focused on personal career thoughts and contracting, with no mention of Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -581,27 +479,15 @@
     "reasoning": "Content primarily discusses personal experiences and thoughts about contracting, job satisfaction, and development skills, with no focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:43:19",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the author's personal experiences and thoughts about transitioning into contracting as a software developer, which is relevant to the category. However, it lacks a direct focus on Agile or DevOps methodologies, best practices, or tools that enhance productivity and collaboration. While there are mentions of skills and experiences related to software development, the overall discussion is more personal and anecdotal rather than a deep exploration of the role of software developers within Agile and DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:43:19",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content touches on personal experiences related to coding and contracting in the software development field, but it primarily focuses on the author's personal journey and feelings rather than discussing specific software development methodologies or practices. While there are mentions of skills and technologies relevant to software development, the overall discussion lacks depth and does not provide substantial insights into software engineering practices.",
     "level": "Ignored"
   },
@@ -632,7 +518,7 @@
     "reasoning": "Content primarily discusses personal career changes and contracting rather than any estimation techniques or practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:23",
     "ai_confidence": 0,
@@ -706,28 +592,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences and considerations regarding contracting as a developer, with no clear connection to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a developer's personal journey and considerations regarding contracting, with no explicit discussion of Continuous Delivery principles, practices, or related topics. It briefly mentions software development but does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences and considerations related to contracting and job satisfaction, without any focus on Lead Time as a metric or concept.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal career decisions and feelings about contracting, without a clear focus on continuous learning principles relevant to Agile, DevOps, or Lean environments.",
     "level": "Ignored"
   },
@@ -758,15 +647,6 @@
     "reasoning": "Content is focused on personal career decisions and contracting, with no discussion of hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses personal experiences and thoughts about career changes in software development, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-17T08:18:23",
@@ -778,10 +658,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and a shift towards contracting, not focused on Change Management principles or practices.",
     "level": "Ignored"
   },
@@ -796,10 +676,10 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and contracting opportunities rather than deployment frequency or its optimization.",
     "level": "Ignored"
   },
@@ -886,10 +766,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations, contracting opportunities, and individual fears related to job satisfaction, rather than focusing on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -931,19 +811,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career considerations and shifting to contracting without focusing on team dynamics or collaboration.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the author's personal career considerations and contracting opportunities, which is not related to the Definition of Ready in Agile.",
     "level": "Ignored"
   },
@@ -983,15 +863,6 @@
     "reasoning": "Content primarily discusses personal career transitions and contracting without a focus on remote work practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal career aspirations and contracting, with no discussions related to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:18:23",
@@ -999,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal career decisions and contracting rather than customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses personal career considerations and contracting opportunities for a developer, with no mention of agile project management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1030,10 +892,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences and considerations about contracting and job satisfaction, with no mention of Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1048,10 +910,10 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career decisions and thoughts about contracting rather than customer satisfaction or related topics.",
     "level": "Ignored"
   },
@@ -1129,13 +991,13 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-11T10:51:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 55.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses the author's contemplation of transitioning into contracting, which touches on risk-taking and innovation in the context of personal career decisions. However, it lacks a broader discussion on entrepreneurship principles, such as value creation or entrepreneurial ecosystems. The focus is more on personal career choices rather than a comprehensive exploration of entrepreneurship.",
     "level": "Tertiary"
   },
@@ -1150,10 +1012,10 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal circumstances and career considerations rather than specific deployment methodologies.",
     "level": "Ignored"
   },
@@ -1204,10 +1066,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal experiences and considerations regarding contracting in the software development field without addressing the delivery of functional software, software quality, or user requirements.",
     "level": "Ignored"
   },
@@ -1222,19 +1084,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career decisions and reflections, not focused on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal career decisions and concerns about contracting, without any discussion of team dynamics or motivational strategies.",
     "level": "Ignored"
   },
@@ -1249,10 +1111,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career decisions, contracting, and job market experiences, with no focus on release management practices or strategies.",
     "level": "Ignored"
   },
@@ -1267,10 +1129,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and thoughts about contracting, job satisfaction, and income without focusing on the revenue per employee metric or its implications.",
     "level": "Ignored"
   },
@@ -1281,15 +1143,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal feelings about contracting, job satisfaction, and developer skills without any mention of asynchronous development principles, methodologies, or teamwork practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal career decisions and contracting, with no relevance to Scrum principles or scaling discussions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1328,22 +1181,16 @@
     "reasoning": "The content primarily discusses personal career experiences and thoughts on contracting, with no clear focus on Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career decisions and contracting as a developer, with no focus on scaling agility principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal thoughts on transitioning to contracting as a developer, with no relevant focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a developer's personal journey and considerations regarding contracting, with no direct mention of Scrum or the role of a Scrum Master. While there are references to coding and development, these do not align with the responsibilities or impact of a Scrum Master. The discussion lacks depth and relevance to the Scrum framework, making it unsuitable for the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,29 +1204,35 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T08:18:23",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and considerations regarding contracting as a developer, without focusing on large scale agility principles or practices.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career thoughts and contracting in software development, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a developer's personal journey and considerations regarding contracting, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of the category, focusing instead on career growth and personal challenges.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career considerations and contracting rather than frameworks like Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on an individual's personal journey and considerations regarding a career shift to contracting. While it touches on themes of career growth and decision-making, it lacks explicit discussions on collaboration, collective intelligence, or organisational frameworks that are central to the category of Social Technologies. The mention of management jargon and seeking connections does hint at social interaction, but it does not delve into the methodologies or frameworks that promote collaboration or optimise value delivery within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1393,10 +1246,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:51:11",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and considerations regarding contracting as a developer, with no focus on Internal Developer Platforms or related topics.",
     "level": "Ignored"
   },
@@ -1411,26 +1264,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:20:03",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses personal career considerations and experiences related to contracting as a developer, with no direct mention of Scrum principles, roles, events, or practices. While there is a brief reference to coding and development, it does not align with the core themes of Scrum or provide any depth on the framework itself.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:48:42",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses personal career considerations and experiences related to contracting as a developer, with no explicit mention of the Shift-Left Strategy or its principles. It lacks any discussion on integrating testing, security, or compliance early in the software development lifecycle, which are core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences and considerations regarding a career shift to contracting, with little to no direct mention of Common Goals within Agile or DevOps frameworks. While it touches on themes of career growth and decision-making, it lacks a clear connection to shared objectives or strategic alignment that characterises Common Goals. The discussion is more anecdotal and personal rather than a structured exploration of the principles outlined in the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content touches on the author's career growth and considerations for contracting, which implies a desire for competence in the job market. However, it primarily focuses on personal circumstances and fears rather than a detailed discussion of competence in Agile, Scrum, or DevOps contexts. The mention of skills and rates indicates some alignment with competence, but the depth of discussion is limited and lacks a structured exploration of continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal career considerations and the author's contemplation of shifting to contracting. While there are elements of self-reflection and career growth, it does not explicitly discuss Continuous Improvement principles or strategies. The mention of fears and potential income does not align with the core themes of Continuous Improvement, such as empirical evidence or fostering a culture of experimentation. Overall, the content lacks depth and direct relevance to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a personal journey of a developer considering a shift to contracting, driven by life changes and career growth. While there are elements of autonomy and adaptability in the decision-making process, the discussion lacks explicit references to Agentic Agility principles, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The content does not delve into the mechanisms of Agentic Agility or provide depth on the topic, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

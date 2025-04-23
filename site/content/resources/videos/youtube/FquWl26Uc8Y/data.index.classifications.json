@@ -1,13 +1,4 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T17:21:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses technical debt and coding practices without any mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-12T17:21:32",
@@ -17,7 +8,7 @@
     "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on individual accountability rather than team dynamics or collaboration.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T17:21:33",
     "ai_confidence": 0,
@@ -37,11 +28,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T17:21:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:04:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of technical debt and code quality, without a clear focus on throughput or its measurement and optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality rather than throughput as a delivery metric. While it discusses accountability and improvement in coding practices, it does not explicitly mention throughput, nor does it analyse or visualise throughput metrics. The discussion lacks depth in relation to throughput, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -109,13 +103,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T11:36:03",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the practical implications of technical debt and the importance of addressing it within a team context, which aligns with pragmatic thinking. However, while it touches on real-world applications and problem-solving, it lacks a comprehensive exploration of Agile or Scrum frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -139,11 +133,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T17:21:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:00:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on issues of competence rather than innovation capabilities or Evidence-Based Management.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on addressing technical debt and improving code quality, which are important aspects of software development but do not directly discuss innovation or the mechanisms that foster it. While there are mentions of accountability and quality, these are more about maintaining standards rather than innovating. The discussion lacks explicit references to innovation metrics, learning cycles, or strategies for enhancing innovation capacity, which are crucial for the 'Ability to Innovate' category. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -175,11 +172,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T17:21:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:03:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and coding practices, with no clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, with no direct mention of the Scrum Master role or responsibilities. While it touches on team dynamics and accountability, it does not align with the core themes of the Scrum Master category, such as facilitation, coaching, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence on team effectiveness or organisational change.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -220,13 +220,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:55:16",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses technical debt and code quality, which are important for improving outcomes in software development. However, it does not explicitly mention Evidence-Based Management or its key topics. While there is some alignment with the concept of making informed decisions about technical debt, the focus is primarily on practical strategies rather than empirical evidence or metrics related to EBM.",
     "level": "Ignored"
   },
@@ -268,15 +268,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:55:13",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of code quality and strategies to improve it, such as automated testing and code reviews, which are relevant to Continuous Delivery. However, it primarily focuses on technical debt and accountability rather than the broader principles and practices of Continuous Delivery itself. While there are mentions of practices that support quality in delivery, the primary focus remains on addressing technical debt rather than on Continuous Delivery as a whole.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -334,10 +334,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T17:22:23",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -352,19 +352,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T17:22:26",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debt and the implications of shipping bad code, with no focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T17:22:28",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of technical debt and code quality, without a clear focus on the Definition of Done or its criteria.",
     "level": "Ignored"
   },
@@ -377,36 +377,15 @@
     "reasoning": "Content primarily discusses the concepts of technical debt and code quality, with no focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T17:10:37",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the concept of technical debt and the implications of shipping bad code, which are relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is more focused on personal accountability rather than the role of developers within a team or framework. While it touches on important themes, it does not provide a comprehensive exploration of the category's core topics.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T17:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, without reference to scaling Agile practices or coordination among multiple teams.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T11:12:16",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the concept of technical debt and the implications of shipping poor-quality code, which are relevant to software development practices. However, while it touches on important themes, such as the need to address technical debt, it lacks detailed exploration of methodologies or frameworks that guide software development. The discussion is somewhat informal and does not delve deeply into best practices or structured approaches, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
@@ -475,24 +454,24 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T17:22:44",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on personal experiences and opinions rather than structured decision-making methodologies.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T09:48:47",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the implications of shipping bad code and the concept of technical debt, which are relevant to the quality and functionality of software. However, it lacks a direct focus on working software as defined in the category, and the discussion is more about the consequences of poor coding practices rather than delivering functional software that meets user needs. The mention of technical debt is relevant but does not fully align with the core themes of working software, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -573,15 +552,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of technical debt and code quality, with no mention of Azure Pipelines or related CI/CD practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T17:23:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, which does not align with the core principles of Agile Project Management.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -685,11 +655,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T17:23:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and the implications of shipping bad code, with no clear focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T08:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, with no direct mention of Lead Time. While it discusses the importance of accountability and quality in software development, it does not align with the core themes of Lead Time as an observability metric or its relationship with Cycle Time. The discussion lacks depth regarding Lead Time, providing only a vague connection to efficiency without specific techniques or strategies related to measuring or optimising Lead Time.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -699,15 +672,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of technical debt and code quality, without any reference to Behaviour Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T17:23:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, without a clear focus on Scrum principles or product development practices.",
     "level": "Ignored"
   },
   "Product Strategy": {
@@ -730,13 +694,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-06T13:27:34",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the concept of technical debt and the implications of shipping bad code, which aligns with the principles of software craftsmanship. However, while it touches on important aspects of technical debt management, it lacks a comprehensive exploration of best practices or methodologies that contribute to high-quality software development. The discussion is somewhat informal and does not delve deeply into the technical practices or principles that would elevate it to a higher confidence score.",
     "level": "Secondary"
   },
@@ -796,13 +760,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T13:27:31",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the concept of technical debt and the importance of addressing it, which aligns with the principles of software craftsmanship and quality assurance. However, while it touches on the need to stop shipping bad code, it lacks a broader discussion on best practices, coding standards, or continuous improvement processes. The focus is primarily on the consequences of poor coding choices rather than a comprehensive exploration of engineering excellence.",
     "level": "Secondary"
   },
@@ -817,33 +781,27 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T17:23:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical debt and coding practices, which are not related to system configuration.",
+    "calculated_at": "2025-04-10T13:04:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on software development practices, particularly around technical debt and code quality, rather than system configuration. While it touches on aspects like automated testing and code reviews, these are not directly related to system configuration as defined in the category. The discussion lacks explicit references to configuration management tools, system setup, or integration of hardware and software components, which are central to the category.",
     "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-06T14:40:56",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses technical debt, differentiating between known and unknown types, and highlights the importance of addressing it. It provides a conceptual understanding of technical debt as a consequence of poor coding practices and the need for prioritisation in remediation. However, while it touches on the implications of shipping bad code, it lacks detailed strategies or methodologies for managing technical debt, which slightly lowers the depth score.",
     "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T17:23:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, which are not directly related to scaling Scrum practices or frameworks.",
-    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -879,15 +837,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debt and coding practices, with no clear focus on backlog refinement or related Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T17:23:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concepts of technical debt and code quality, with no focus on scaling agile practices or organisational agility.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -944,15 +893,6 @@
     "reasoning": "Content heavily discusses technical debt and coding practices, which are not directly related to product validation methodologies or user engagement.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T17:24:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of technical debt and code quality, with no clear relation to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-12T17:24:05",
@@ -973,10 +913,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T17:24:08",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on personal experiences rather than technical leadership principles or agile methodologies.",
     "level": "Ignored"
   },
@@ -1000,15 +940,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-10T17:49:52",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the concept of technical debt, which is relevant to engineering practices, particularly in the context of clean code and the implications of shipping poor-quality code. However, it lacks explicit references to Agile methodologies, clean code principles, or practices like TDD and CI/CD. The discussion is somewhat superficial and does not delve deeply into the methodologies or practices that would enhance the understanding of engineering practices in an Agile context.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1021,12 +961,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T17:24:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of technical debt and the implications of shipping bad code, without a focus on Test First Development or related practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T13:03:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of quality in code and mentions automated testing as a strategy to improve code quality. However, it does not explicitly focus on Test First Development principles or practices, such as defining success criteria before implementation or the specific methodologies like TDD or ATDD. The discussion on technical debt and code quality is relevant but secondary to the core themes of Test First Development.",
+    "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1044,15 +987,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of technical debt and personal experiences with coding, without any mention of Azure DevOps or its functionalities.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T17:20:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, without reference to specific products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1091,15 +1025,6 @@
     "reasoning": "Content primarily discusses the concepts of technical debt and code quality without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T17:20:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on individual accountability rather than transparency or team dynamics.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-12T17:20:47",
@@ -1120,10 +1045,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T17:20:51",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of technical debt and code quality, without a focus on metrics, data utilisation, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -1138,84 +1063,36 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T17:20:55",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of technical debt and code quality, without any focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T17:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical debt and coding practices, with no mention of AI or automation in Agile frameworks.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T17:20:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions on coding practices rather than industry news or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:39:56",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of accountability, code quality, and technical debt, which are relevant to DevOps principles. However, it primarily focuses on software development practices rather than the broader DevOps philosophy, which includes collaboration and automation across teams. While it touches on aspects like code reviews and automated testing, it lacks a comprehensive exploration of DevOps culture and practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T17:21:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, without a clear focus on team dynamics, collaboration, or human factors in processes.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:53:16",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 55.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses technical debt, which is a relevant aspect of technical excellence, but it primarily focuses on the consequences of poor coding practices rather than on methodologies or practices that enhance technical excellence. While it touches on the need to address technical debt, it lacks a detailed exploration of engineering practices like TDD, CI/CD, or modular architecture, which are central to the category.",
     "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T17:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and personal experiences with coding, without reference to any events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T00:17:10",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses technical debt, which is a key aspect of code quality and complexity. It highlights the distinction between known and unknown technical debt and critiques the practice of shipping bad code. However, while it touches on important themes, the discussion lacks depth and does not explore broader concepts of complexity theory or best practices in software development. The focus is primarily on the consequences of poor coding decisions rather than a comprehensive analysis of code quality and complexity.",
-    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1242,24 +1119,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical debt and its implications, which are directly related to Agile and software development practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T17:21:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concepts of technical debt and coding practices, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T17:21:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of technical debt and the implications of shipping bad code, without focusing on specific tools, methodologies, or practical techniques related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1325,15 +1184,6 @@
     "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on individual accountability rather than the methodologies and practices involved in product delivery.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T17:21:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the distinction between bad code and technical debt, focusing on accountability rather than discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-12T17:21:27",
@@ -1372,13 +1222,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:39:59",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on technical debt and code quality rather than the Agile Product Operating Model. While it touches on accountability and team dynamics, it does not explicitly discuss the principles or practices of APOM, nor does it address the transition from project to product ethos or the integration of agile methodologies with product management. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
@@ -1393,13 +1243,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:45:18",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical debt and code quality, with limited discussion on social technologies or collaboration. While it mentions fostering a culture of collaboration through code reviews, this is a secondary aspect rather than a primary focus. The depth of discussion on social frameworks is minimal, and the content does not explore self-organisation or collective intelligence, which are key themes in the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1423,74 +1273,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T17:10:37",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly touches on the concept of technical debt, which is relevant to software development but does not explicitly mention Scrum or its principles, roles, or events. The discussion lacks depth regarding Scrum practices and does not align with the core themes of the Scrum framework, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:38:41",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses strategies for improving code quality and addressing technical debt, which aligns with the Shift-Left Strategy's focus on integrating testing and quality assurance earlier in the development process. It mentions automated testing and code reviews, which are techniques that support a Shift-Left approach. However, the primary focus is on technical debt rather than explicitly on the Shift-Left Strategy itself, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:55:02",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses strategies for improving code quality and addressing technical debt, which aligns with the principles of Continuous Improvement. It mentions practices like code reviews, automated testing, and refactoring, which are techniques that foster a culture of learning and incremental enhancement. However, while it touches on these themes, the primary focus is on technical debt rather than a broader discussion of Continuous Improvement as a systematic approach. Therefore, while there is significant relevance, it does not fully encapsulate the category's core themes.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:55:04",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on addressing technical debt and improving code quality, which are important aspects of software development but do not directly discuss Common Goals within Agile or DevOps frameworks. While there are mentions of accountability and team collaboration, these are not explicitly tied to shared objectives or strategic alignment. The discussion lacks depth in connecting these concepts to the overarching mission of the organisation or the use of frameworks like OKRs, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:55:06",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of accountability and quality in software development, directly addressing the concept of competence. It highlights the need for continuous improvement and skill development through practices like code reviews and automated testing, which align well with the core themes of competence. The depth of discussion is substantial, providing specific strategies for fostering a culture of competence and addressing technical debt, although it could further elaborate on the distinction between performative activity and genuine progress.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:55:11",
+    "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical debt and code quality, which are important aspects of software development but do not directly address the One Engineering System framework or its principles. While there are mentions of improving processes like code reviews and automated testing, these are not explicitly tied to the integration and standardisation of engineering practices across teams as outlined in the 1ES category. The discussion lacks a clear connection to the broader themes of 1ES, such as collaboration across teams or the impact of a unified engineering system on software delivery timelines.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T13:03:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, with a strong emphasis on accountability and improvement within development teams. While it touches on themes of responsibility and proactive measures, it does not explicitly discuss Agentic Agility or differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding the intentional shaping of outcomes and does not align closely with the core principles of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:03:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses technical debt and code quality, which are important aspects of product development. However, it primarily focuses on technical implementation and accountability rather than broader product development methodologies or customer-centric approaches. While it touches on iterative practices like code reviews and refactoring, it lacks a comprehensive exploration of Agile principles or customer feedback integration, which are central to the category.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:03:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, which are important aspects of software development but do not directly address broader project management principles or methodologies. While it touches on accountability and team dynamics, it lacks a comprehensive discussion on project lifecycle phases, governance structures, or specific project management tools. Therefore, it aligns with the category only in a limited capacity.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:03:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, with no direct mention of Hybrid Agile methodologies or their challenges. While it discusses accountability and team dynamics, it does not critically examine the integration of traditional and agile practices, nor does it address the specific themes outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:03:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality rather than scaling methodologies or frameworks. While it touches on team accountability and collaboration, it does not delve into the complexities of scaling Agile practices or cross-team coordination, which are central to the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:04:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses technical debt and code quality, which are relevant to software development practices, but it does not specifically mention GitHub or its functionalities. While it touches on concepts like code reviews and automated testing, which can be related to GitHub practices, the primary focus is on general software development principles rather than GitHub-specific methodologies or tools.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:00:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality rather than directly addressing Time to Market. While it discusses the importance of improving code quality, which can indirectly affect Time to Market, it does not explicitly mention Time to Market or related metrics. The discussion on strategies for addressing technical debt may contribute to faster delivery in a broader sense, but the primary focus remains on accountability and code quality rather than optimising processes for quicker market delivery.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:00:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on technical debt and improving code quality, which are not directly related to the concept of Unrealised Value. While there are mentions of accountability and improvement, these discussions do not explicitly address the potential value that can be captured through further innovations or improvements. The content lacks a clear exploration of untapped opportunities or strategies for identifying unrealised value, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:00:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality rather than Current Value in the context of Evidence-Based Management. While it touches on accountability and the importance of quality, it does not explicitly discuss metrics or indicators related to Current Value, nor does it provide insights into customer satisfaction or revenue impact. The discussion lacks depth in terms of practical application or measurement of Current Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:00:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, discussing strategies for improvement without any explicit mention of Agnostic Agile principles or methodologies. While it touches on accountability and quality, it does not engage with the core themes of Agnostic Agile, such as the importance of context-driven agility or comparisons with traditional frameworks. The discussion lacks depth regarding Agnostic Agile, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:00:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality within software development, discussing strategies for improving these aspects. While it touches on accountability and team collaboration, it does not explicitly address the concept of treating the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth in relation to CaaP principles and does not provide insights into organisational culture or cross-functional collaboration, which are key elements of the category. Therefore, the confidence score reflects a minimal connection to the 'Company as a Product' classification.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:00:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality in software development, with no direct mention of Cell Structure Design or its principles. While there are themes of accountability and team collaboration, these do not align with the core concepts of decentralised organisational structures or the Beta Codex. The discussion lacks depth regarding the characteristics of autonomous cells or the impact of decentralisation, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:00:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality in software development, with no direct mention of Liberating Structures or facilitation techniques. While it discusses collaboration and accountability, these themes do not align with the core principles of Liberating Structures, which emphasise inclusive engagement and group dynamics. The depth of discussion is centred on technical practices rather than facilitation methods, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:00:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt and code quality, with no direct mention of Open Space Agile principles or practices. While it discusses accountability and collaboration within a development team, these themes do not align closely with the core concepts of Open Space Agile, such as collective participation and psychological safety. The depth of discussion is centred on technical practices rather than organisational agility or collaborative change processes, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

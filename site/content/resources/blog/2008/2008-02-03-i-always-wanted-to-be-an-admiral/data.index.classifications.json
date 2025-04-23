@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:41:59",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a personal quiz related to a television series and does not discuss installation or configuration of any tools or software.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:16:34",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 82.0,
     "ai_mentions": 10.0,
     "ai_alignment": 90.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily revolves around a personal reflection on a quiz related to a television series, which does not connect to Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks. It discusses a non-technical topic that is anecdotal in nature, aligning well with the Miscellaneous category. However, the lack of explicit mention of the category and the limited depth of discussion on broader business agility concepts slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on personal reflections and a quiz related to a TV series, with no discussion on organisational resilience or change management.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on a personal quiz related to a television series, with no discussion of complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:42:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a personal quiz related to a TV show, with no discussion of Agile or DevOps techniques or tooling.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:42:10",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a personal quiz related to a TV show, with no discussion on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -157,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:42:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal quiz related to a TV series and does not discuss Evidence-Based Management.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections and entertainment related to Battlestar Galactica, with no direct mentions or alignment to Evidence-Based Management principles. It lacks any discussion of metrics, data-informed decision-making, or strategic improvements.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:42:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal quiz related to Battlestar Galactica and does not discuss Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:42:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal reflection about a TV series and a quiz, with no relevance to Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content is primarily focused on personal reflections and entertainment related to Battlestar Galactica, with no relevant discussion on Agile methodologies or product management principles. It does not mention the Agile Product Operating Model or any of its key topics, indicating a very low relevance to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -207,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a personal quiz related to Battlestar Galactica and does not discuss any aspects of platform engineering.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:42:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a personal quiz related to Battlestar Galactica and does not discuss AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:42:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a personal quiz related to Battlestar Galactica and does not discuss software code or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:42:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a personal quiz related to a TV show and does not discuss any events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:42:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a personal quiz related to a TV show and does not address transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -283,10 +226,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:42:38",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a quiz related to a TV show and does not provide personal reflections or insights related to Agile, Scrum, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -310,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:42:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personal quiz related to a television series, with no relevance to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on personal reflections and a quiz related to Battlestar Galactica, with no mention or alignment to DevOps principles, practices, or discussions.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal quiz related to a TV show, with no discussion of engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:42:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on a personal quiz related to a TV show, with no discussion on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:42:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on a personal quiz related to a TV show, with no discussion of discovery, learning, or related methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:42:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal quiz related to a TV series, which does not align with the category's focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -382,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:36:01",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal quiz related to a TV series, with no focus on innovation or the measurement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -414,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on personal interests related to a TV series, with no mention of portfolio management concepts or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:36:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not relate to Scrum practices or product development; it is focused on a quiz about a Battlestar Galactica character.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -454,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:36:01",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a personal quiz related to Battlestar Galactica, which is not relevant to Agile values and principles.",
     "level": "Ignored"
   },
@@ -495,15 +405,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a personal interest in a quiz related to a TV show and does not address the Definition of Done in any way.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal quiz related to a television show and does not discuss any Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -569,15 +470,6 @@
     "reasoning": "Content is unrelated to collaboration tools and focuses on a personal quiz about Battlestar Galactica characters.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to software development, Agile, or DevOps topics; it mainly discusses a personal interest in a TV series.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T19:36:02",
@@ -614,7 +506,7 @@
     "reasoning": "Content primarily discusses a personal quiz related to Battlestar Galactica and does not reference estimation, Agile, or Scrum practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:36:02",
     "ai_confidence": 0,
@@ -688,11 +580,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personal quiz related to Battlestar Galactica, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on personal reflections and a quiz related to Battlestar Galactica, with no mention or discussion of Continuous Delivery principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -738,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on personal reflections about a TV series and a quiz, with no relation to hypothesis formulation, experimentation, or product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a personal quiz related to Battlestar Galactica and does not mention AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -965,15 +851,6 @@
     "reasoning": "Content discusses a quiz related to Battlestar Galactica and does not mention remote work or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personal quiz related to Battlestar Galactica and does not discuss Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:36:02",
@@ -981,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is primarily a personal reflection on a TV show, without any relevance to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personal quiz related to a TV show, with no relevant discussion of Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1262,15 +1130,6 @@
     "reasoning": "Content is primarily focused on personal reflections and a quiz about a TV show, with no relevant discussion on asynchronous development.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scaling Scrum and primarily discusses personal opinions on a TV series quiz.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T19:36:02",
@@ -1307,22 +1166,16 @@
     "reasoning": "Content does not discuss Scrum principles, roles, or practices; it is focused on a personal quiz related to a television series.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a personal quiz related to a TV show and does not address scaling agility or relevant frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum Master roles or responsibilities, focusing instead on a quiz about a fictional series.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on personal reflections and entertainment related to Battlestar Galactica, with no mention or discussion of Scrum Master roles, responsibilities, or related concepts. It does not align with any key topics of the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,22 +1198,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personal experience related to a TV series and a quiz, with no relevance to Test First Development or related software practices.",
+    "final_score": 5.0,
+    "reasoning": "The content is primarily focused on personal reflections and entertainment related to Battlestar Galactica, with no relevant discussion on Test First Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:52:41",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal reflections and a quiz related to a fictional series, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks any depth or alignment with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1393,13 +1249,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:00:47",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a personal reflection about a TV series and a quiz, which is entirely unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
@@ -1413,6 +1269,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is entirely focused on a personal quiz related to a television series, with no relevance to software development processes or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections and insights related to a dream of becoming an Admiral, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks any alignment with the core themes of the category, and the depth of discussion is minimal, as it does not address shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections and entertainment related to a fictional series, with no direct mention or discussion of competence, continuous learning, or professional development. It lacks any alignment with the core themes of the category, and there is no depth of discussion regarding competence or its implications in Agile, Scrum, or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections and entertainment related to a fictional series, with no direct mentions or alignment to Continuous Improvement principles. It lacks any discussion on processes, team effectiveness, or empirical evidence, which are essential for this category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections and entertainment related to a fictional series, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

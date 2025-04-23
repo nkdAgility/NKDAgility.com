@@ -1,27 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T05:30:16",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a technical issue related to Project Server and Team Foundation Server, with a brief mention of the Scrum Process Template. However, it primarily focuses on resolving a specific error rather than engaging with Agile Product Management principles or practices. The alignment with Agile concepts is minimal, and the depth of discussion does not provide substantial insights into product management strategies or methodologies.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-06T16:03:20",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses a specific issue related to the integration of Project Server 2013 with Team Foundation Server 2012, which falls under practical tooling. It provides a solution that involves modifying the Task Work Item Type in the Visual Studio Scrum Process Template, demonstrating a practical application of tooling in an Agile context. The mention of required fields and the solution to the error indicates a clear focus on practical techniques. However, while it aligns well with the category, the depth of discussion could be enhanced with more comprehensive insights into the methodologies or broader implications of the tooling involved.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -34,41 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:01:52",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server integration, with no direct discussion of Evidence-Based Management principles or metrics. While it touches on work item fields and their importance, it does not align with the core themes of EBM such as data-informed decision-making or outcome management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T15:09:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an error related to Project Server and Team Foundation Server integration, focusing on work item fields rather than code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T15:09:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details related to Project Server and Team Foundation Server without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T15:09:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server integration, with a focus on Scrum roles and work item fields, without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-07T15:13:21",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 75.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content primarily discusses a specific error encountered during the integration of Project Server 2013 with Team Foundation Server 2012, which directly relates to installation and configuration issues. It provides a clear problem statement and a solution that involves modifying the Task Work Item Type, which aligns with configuration best practices. The depth of discussion includes specific fields that need to be added, indicating a detailed approach to resolving the issue. However, while it is focused on a technical problem, it does not provide a comprehensive guide or step-by-step instructions, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T15:09:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server integration, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T15:09:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to Project Server and Team Foundation Server without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:01:36",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving a specific error related to Project Server and Team Foundation Server integration, which is more aligned with project management and tool-specific issues rather than the broader DevOps philosophy. While it mentions Team Foundation Server, it does not discuss key DevOps principles such as collaboration, automation, or shared accountability. The depth of discussion is limited to a technical solution without exploring the cultural or process-oriented aspects of DevOps.",
     "level": "Ignored"
   },
@@ -158,15 +101,6 @@
     "reasoning": "Content primarily discusses technical issues related to Project Server and Team Foundation Server, with a focus on Scrum process templates, rather than decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T15:09:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T15:09:43",
@@ -174,18 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to work item fields in Project Server and Team Foundation Server, with no clear focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T05:30:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, focusing on specific error messages and field mappings. While it briefly touches on the Scrum Process Template, the discussion lacks depth regarding team dynamics, collaboration, or human factors in processes. The mention of Scrum is secondary and does not explore the interplay between people and processes, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -208,13 +130,13 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T05:30:38",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, focusing on specific error messages and required fields for functionality. While it briefly mentions the importance of fields like Remaining Work and Completed Work, it does not delve into broader discussions on metrics, learning, or continuous improvement methodologies. The mention of these fields is more about resolving a technical issue rather than exploring their role in Agile or DevOps practices. Therefore, the content does not align well with the core themes of the 'Metrics and Learning' category.",
     "level": "Ignored"
   },
@@ -256,15 +178,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:30:26",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses a specific error related to Project Server and Team Foundation Server, which is more focused on technical troubleshooting rather than the broader methodologies and practices of product delivery. While it touches on aspects of Scrum and work item types, it lacks a comprehensive discussion on product delivery processes, methodologies, or best practices. The mention of Scrum is brief and does not delve into its role in product delivery, resulting in a lower confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -277,40 +199,31 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T15:10:01",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server integration, with a focus on Scrum roles and templates, rather than Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T15:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T15:10:05",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server integration, with no clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T05:30:46",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an issue related to Team Foundation Server (TFS) and Project Server integration, which are part of the Azure DevOps ecosystem. However, it primarily focuses on a specific error and its resolution rather than providing a comprehensive overview or best practices related to Azure DevOps as a whole. The mention of Scrum is relevant but does not align with the core themes of Azure DevOps, which should focus more on its services and methodologies. The depth of discussion is moderate, as it provides a solution to a specific problem but lacks broader context or insights into Azure DevOps functionalities.",
     "level": "Ignored"
   },
@@ -343,13 +256,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:01:49",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving a specific error related to Project Server and Team Foundation Server integration, with a brief mention of Scrum in the context of the Visual Studio Scrum Process Template. However, it does not discuss the Agile Product Operating Model or its principles in any meaningful way, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -360,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with a focus on Scrum process templates, rather than organisational agility or related practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T15:10:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on industry news, updates, or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -382,19 +286,19 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-14T15:10:27",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an issue related to Project Server and Team Foundation Server, with no clear focus on Daily Scrum or its related topics.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T15:10:29",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to Project Server and Team Foundation Server, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -418,13 +322,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:01:55",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on resolving a specific error related to Project Server and Team Foundation Server integration, with no direct mention of Continuous Delivery principles or practices. While it touches on aspects of software development, such as work item fields and Scrum templates, it does not discuss Continuous Delivery concepts like automation, rapid feedback, or incremental improvements. Therefore, it aligns poorly with the category.",
     "level": "Ignored"
   },
@@ -457,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T15:10:37",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to work item fields in Project Server and Team Foundation Server, with no clear focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -484,22 +388,22 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T05:30:18",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, with a specific focus on work item fields and their integration. While it briefly touches on Scrum by mentioning the Visual Studio Scrum Process Template, it does not delve into Agile Planning principles or methodologies. The discussion lacks depth in Agile concepts and does not align with the core themes of Agile Planning, such as iterative planning or stakeholder alignment.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T15:10:46",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to Project Server and Team Foundation Server integration, with a focus on Scrum roles and work item fields, which are not related to Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -514,25 +418,25 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:30:41",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific error related to Project Server and Team Foundation Server, focusing on the required fields for proper functionality. While it touches on operational aspects of integrating these systems, it lacks a broader discussion on operational practices, methodologies, or strategies aimed at enhancing efficiency. The mention of Scrum is limited to the context of field requirements rather than exploring process optimisation or continuous improvement strategies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T15:01:47",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content briefly mentions Scrum in the context of the Visual Studio Scrum Process Template and discusses the implications of certain fields not being required for Scrum. However, the primary focus is on a technical issue related to Project Server and Team Foundation Server, rather than on the dynamics, roles, or collaboration within a Scrum Team. While there is some alignment with Scrum concepts, the depth of discussion is limited and does not explore the core themes of team dynamics or collaboration.",
     "level": "Tertiary"
   },
@@ -592,13 +496,13 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T05:30:16",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, with a focus on specific work item fields and their integration. While it briefly touches on Scrum by mentioning the Visual Studio Scrum Process Template, the main focus is on resolving a technical error rather than on team dynamics, collaboration, or performance metrics. Therefore, it does not align well with the core themes of Team Performance.",
     "level": "Ignored"
   },
@@ -622,46 +526,34 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T12:51:34",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a specific issue related to Project Server 2013 and Team Foundation Server 2012, which are tools used in software development. It mentions the Scrum Process Template and the necessary modifications to work item types, indicating a focus on software development practices. However, while it touches on relevant topics, the discussion lacks depth and broader context about software development methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T05:30:53",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and mentions the Visual Studio Scrum Process Template. However, it primarily focuses on a specific error related to work item fields rather than exploring broader Agile Project Management principles or methodologies. While there are references to Scrum, they are not the main focus of the content, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T15:11:13",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses specific issues related to Project Server and Team Foundation Server, with a focus on Scrum roles and templates, rather than Agile values and principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T05:30:22",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of the Visual Studio Scrum Process Template, but it primarily focuses on a specific technical issue related to Project Server and Team Foundation Server. While there is some alignment with Scrum principles, such as the mention of work item types, the overall discussion does not delve deeply into Scrum roles, events, or values, which are central to the Professional Scrum category.",
     "level": "Ignored"
   },
@@ -676,33 +568,33 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T15:11:18",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with a focus on work item fields rather than empirical process control principles.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-14T15:11:21",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Project Server and Team Foundation Server, with only a brief mention of the Scrum Process Template, which does not align with the core Scrum Values.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T05:30:51",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses work item fields and their integration with Team Foundation Server, which is related to Azure Boards. However, it primarily focuses on Project Server 2013 and Team Foundation Server 2012, rather than Azure Boards specifically. While there are mentions of work item types and some alignment with Agile methodologies, the depth of discussion is limited to a specific error and its resolution, lacking broader insights into Azure Boards functionalities or best practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -749,15 +641,6 @@
     "reasoning": "Content primarily discusses technical issues related to Project Server and Team Foundation Server integration, with no focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T15:11:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with only a brief mention of Scrum process templates, which is not central to the topic.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T15:11:36",
@@ -774,15 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Project Server and Team Foundation Server, with no mention of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T15:11:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error related to Project Server and Team Foundation Server integration, with a focus on Scrum process templates, rather than strategies for scaling agility across an organisation.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -832,13 +706,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:52:15",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific issue related to Project Server and Team Foundation Server, focusing on practical solutions to a real-world problem. It mentions the Scrum Process Template and how it does not include certain fields required for Project Server, which aligns with the pragmatic approach of adapting tools to meet project needs. However, the discussion is primarily technical and lacks broader insights into Agile or Scrum methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -853,32 +727,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T15:11:51",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server integration, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T05:30:48",
-    "ai_confidence": 55.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 60.0,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server in the context of Scrum, specifically mentioning the Visual Studio Scrum Process Template. However, it primarily focuses on technical issues and solutions rather than a comprehensive discussion of Scrum principles or practices. While it touches on Scrum-related topics, such as work item types and field mappings, it lacks a detailed exploration of Scrum roles, events, or iterative development processes, which are central to the category.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T15:11:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error related to Project Server and Team Foundation Server integration, with a focus on Scrum process templates, rather than on scaling Agile practices across multiple teams or at an enterprise level.",
+    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server integration, with no focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -919,34 +772,34 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:30:30",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific error related to work item fields in Project Server and Team Foundation Server, which indirectly relates to working software by addressing functional requirements. However, it lacks a comprehensive exploration of working software principles, such as iterative development or customer feedback. The focus is more on troubleshooting a specific issue rather than delivering high-quality software that meets user needs.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-15T05:30:32",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific issue related to Project Server and Team Foundation Server, which are tools used in Agile environments. However, the primary focus is on a technical error (TF294026) and its resolution rather than on Agile planning tools or methodologies. While there are mentions of Scrum and work item types, the discussion does not delve into the broader themes of Agile planning tools, such as backlog management or sprint planning strategies. The depth of discussion is moderate, focusing on a specific problem rather than exploring the category comprehensively.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T15:12:05",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server, with a focus on work item fields and Scrum process templates, rather than Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -1069,10 +922,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T15:12:30",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with a focus on field mappings and Scrum process templates, rather than team collaboration dynamics.",
     "level": "Ignored"
   },
@@ -1094,7 +947,7 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server integration, without a focus on digital transformation strategies or methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T15:12:34",
     "ai_confidence": 0,
@@ -1103,26 +956,17 @@
     "reasoning": "Content primarily discusses an error related to Project Server and Team Foundation Server integration, with no clear focus on Minimum Viable Product concepts or related methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T15:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server without any mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T05:30:57",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific error related to Project Server 2013 and Team Foundation Server 2012, which involves configuration issues. However, the primary focus is on troubleshooting a specific error rather than a comprehensive exploration of system configuration practices. While it touches on the need for certain fields in the configuration of work items, it lacks depth in discussing broader configuration management strategies or best practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1144,15 +988,15 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-15T05:30:20",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of fields like 'Remaining Work', 'Completed Work', and 'Original Estimate' in the context of Project Server and Scrum. While it touches on estimation-related fields, the primary focus is on resolving a specific error and the technical aspects of field mapping rather than on estimation techniques or practices within Agile or Scrum. Therefore, it has some relevance but lacks depth and a strong focus on estimation as a core topic.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1165,11 +1009,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:12:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Project Server and Team Foundation Server, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses an error related to Project Server and Team Foundation Server integration, focusing on field mappings and Scrum process templates. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion is more about resolving a specific technical issue rather than exploring the concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,10 +1048,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T15:12:57",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Project Server and Team Foundation Server without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1228,15 +1075,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T18:41:17",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses a specific error (TF294026) encountered during the integration of Project Server 2013 with Team Foundation Server 2012, which directly relates to troubleshooting a technical issue. It provides a clear identification of the problem, the context in which it occurs, and a solution involving modifications to the Task Work Item Type. The depth of discussion includes specific findings and warnings about outdated documentation, which enhances the troubleshooting aspect. Overall, the content aligns well with the core themes of the category, focusing on diagnosing and resolving a technical issue.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1249,11 +1096,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:13:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Project Server and Team Foundation Server, with only a brief mention of Scrum process templates.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of the Visual Studio Scrum Process Template, but it primarily focuses on a technical issue related to Project Server and Team Foundation Server integration. While there is some alignment with Scrum concepts, such as work item types, the discussion lacks depth regarding the role and responsibilities of a Scrum Master, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1273,18 +1123,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:31:35",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses a specific error related to Project Server and Team Foundation Server, which are tools used in software development. However, it primarily focuses on a technical issue rather than the broader role of software developers within Agile or DevOps frameworks. While there are mentions of Scrum and work item types, the discussion lacks depth in exploring Agile methodologies or DevOps principles, leading to a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1342,13 +1180,13 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T05:30:43",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of a technical issue related to Project Server and Team Foundation Server. While it touches on the Scrum Process Template and its requirements, the primary focus is on a specific error and its resolution rather than a comprehensive discussion of Agile frameworks. The alignment with Agile principles is minimal, and the depth of discussion is limited to a technical solution rather than exploring the broader implications or applications of Agile frameworks.",
     "level": "Ignored"
   },
@@ -1406,15 +1244,6 @@
     "reasoning": "Content primarily discusses technical issues related to Project Server and Team Foundation Server, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T15:13:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server integration with Scrum, without any focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T15:13:37",
@@ -1435,13 +1264,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:33:53",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical issue related to Project Server and Team Foundation Server integration, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions Scrum in passing, it does not explore the underlying social frameworks or methodologies associated with social technologies. The content lacks depth in discussing the principles of self-organisation, adaptability, or continuous improvement, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1474,62 +1303,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:42:36",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 65.0,
     "ai_mentions": 70.0,
     "ai_alignment": 60.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 50,
-    "final_score": 64.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the Visual Studio Scrum Process Template and its requirements, which directly relates to Scrum practices. It mentions specific fields relevant to Scrum roles and tasks, indicating a clear connection to Scrum principles. However, the primary focus is on a technical issue rather than a comprehensive discussion of Scrum itself, which limits the depth of the discussion. Overall, while Scrum is a significant part of the content, it is not the main focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:24:32",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific error related to Project Server and Team Foundation Server integration, with no explicit mention of the Shift-Left Strategy. While it touches on work item fields and Scrum process templates, it does not align with the core themes of integrating testing, security, or compliance earlier in the development lifecycle. The discussion lacks depth regarding Shift-Left principles or practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:01:38",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server integration. While it touches on the need for certain fields in the context of Scrum, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or discussing strategies for enhancing processes. The discussion is narrowly focused on a technical solution rather than broader themes of continuous enhancement or organisational agility.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:01:42",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server integration. While it briefly touches on Scrum by mentioning the Visual Studio Scrum Process Template, it does not discuss Common Goals or their significance in Agile or DevOps frameworks. The discussion lacks depth and does not connect to the principles of aligning strategy with execution, which are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:01:46",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server integration. While it touches on the importance of certain work item fields for functionality, it does not explicitly discuss competence, continuous learning, or skill development. The mention of Scrum is limited to the context of a technical solution rather than a broader discussion on competence in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server and Team Foundation Server integration. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human judgement and AI logic, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

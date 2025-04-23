@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T21:10:36",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:24:04",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly discusses the use of Visual Studio and TFS in the context of team processes, which aligns well with the category's focus on practical techniques and tooling. It mentions the importance of process templates and custom reports, providing specific examples of how these tools can be used to enhance team performance and transparency. The depth of discussion is significant, as it includes goals and demos related to customising processes and reporting, which are practical applications of Agile methodologies. Overall, the content is well-aligned with the category, providing both conceptual relevance and detailed insights.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:28:28",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses reporting and process templates in Visual Studio 2010, which relates to team collaboration and continuous improvement. However, it lacks explicit references to Evidence-Based Management principles, such as empirical decision-making or metrics focused on current value and outcomes. The discussion is more about process management and tool usage rather than data-informed decision-making, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T21:10:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T21:10:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses process templates and reporting in Visual Studio, focusing on project management rather than discovery and learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T21:10:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio and process templates without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,12 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:10:48",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, rather than installation or configuration procedures.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-15T06:09:06",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the importance of reports and dashboards in providing transparency and enabling teams to identify opportunities for improvement. However, it lacks a comprehensive exploration of accountability and does not delve deeply into the principles of transparency within Agile methodologies. The focus is more on process templates and reporting tools rather than on fostering an environment of openness and responsibility among team members.",
-    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +65,15 @@
     "reasoning": "Content primarily focuses on Visual Studio and TFS processes, lacking a clear discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:10:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses process templates and reporting in Visual Studio, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:28:16",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses team collaboration and continuous improvement, which are relevant to DevOps principles. However, it primarily focuses on Visual Studio 2010's reporting and process templates, lacking a direct emphasis on the broader DevOps philosophy or practices. The mention of process templates and reports does not sufficiently align with the core themes of DevOps, such as automation, shared accountability, or cultural shifts. Therefore, while there are some relevant aspects, the overall focus is more on project management and tooling rather than a comprehensive discussion of DevOps.",
     "level": "Ignored"
   },
@@ -155,38 +95,14 @@
     "reasoning": "Content primarily discusses Visual Studio and process templates, with no focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T06:09:29",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content references a series of webcasts related to Visual Studio ALM, which aligns with the category of Events and Presentations. However, the primary focus is on the process template and reporting aspects rather than the events themselves. While it mentions the webcasts, it does not delve deeply into the specifics of the presentations or discussions that occurred during those events, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-15T21:11:05",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Visual Studio and TFS for process management, with a focus on reporting and customization rather than optimising work throughput.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T15:05:49",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of process templates and their impact on team interactions, which aligns with the category's focus on structured methodologies. However, while it mentions team practices and process improvement, it lacks a strong emphasis on human behaviour or team dynamics, which are crucial for a higher confidence score.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -208,13 +124,13 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T06:09:24",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of reports and dashboards for transparency and continuous process improvement, which aligns with the core themes of metrics and learning. However, it lacks explicit discussions on specific metrics or detailed methodologies for data collection and analysis. The focus is more on process templates and customization rather than a deep exploration of metrics and learning principles.",
     "level": "Secondary"
   },
@@ -229,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:09:09",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of process templates and reports in Visual Studio, which relates to continuous improvement and process adaptation. However, it lacks a direct focus on specific engineering practices like TDD or CI/CD, and the discussion is more about process management than technical excellence in engineering methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -259,15 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:09:03",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses aspects of process templates and reporting within Visual Studio, which are relevant to product delivery methodologies. However, it lacks a direct focus on the end-to-end delivery process, such as deployment or customer feedback mechanisms. The mention of continuous process improvement aligns somewhat with product delivery principles, but the overall depth and specificity regarding product delivery practices are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -285,18 +201,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio and process templates, with a focus on reporting and team practices, rather than Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T06:09:34",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily discusses the functionalities and features of Visual Studio 2010 in relation to process templates and reporting, which are tools relevant to Agile practices. However, it lacks direct references to specific books or literature, and while it touches on Agile methodologies, it does not provide in-depth analysis or reviews of resources that would enhance understanding of Agile or DevOps principles.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -346,13 +250,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:28:25",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Visual Studio 2010's reporting and process templates, which are tools for enhancing team collaboration and continuous improvement. While it mentions aspects of process improvement and customization, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion is more aligned with traditional project management practices rather than the product-oriented mindset of APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
@@ -365,24 +269,15 @@
     "reasoning": "Content primarily focuses on process templates and reporting within Visual Studio, lacking a central discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T21:11:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the features and functionalities of Visual Studio 2010, rather than discussing industry news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T12:58:02",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content explicitly discusses aspects of Application Lifecycle Management (ALM) through its focus on process templates and reporting within Visual Studio. It mentions the importance of proper template selection and continuous process improvement, which aligns with the core themes of managing the application lifecycle. The depth of discussion is significant, as it covers customization of process templates and the use of reports to enhance team practices. However, while it is relevant, it does not delve deeply into all stages of the application lifecycle or provide extensive coverage of governance, compliance, or risk management strategies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -397,10 +292,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:11:52",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -424,22 +319,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:28:30",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions continuous improvement, which is a concept related to Continuous Delivery, but it does not explicitly discuss Continuous Delivery principles or practices. The focus is more on reporting and process templates within Visual Studio, which does not align closely with the core themes of Continuous Delivery. The depth of discussion is limited to process templates and reporting, lacking detailed exploration of Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-15T21:11:58",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, lacking a focus on long-term strategic objectives or business agility.",
     "level": "Ignored"
   },
@@ -463,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:12:01",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -490,10 +385,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T21:12:05",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no clear focus on Agile Planning principles or methodologies.",
     "level": "Ignored"
   },
@@ -517,45 +412,45 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-10T14:57:44",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of process templates and reporting in Visual Studio, which relates to operational practices. It mentions continuous process improvement and customisation of templates, aligning with the core themes of enhancing operational efficiency. However, the discussion lacks depth and specific techniques or strategies that would provide a more comprehensive understanding of operational practices.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:12:10",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio and process templates, with no clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T21:12:11",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on Agile principles or philosophy.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T06:09:15",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of process templates and reports in the context of team interactions with Visual Studio and TFS, which touches on aspects of Agile practices. However, it lacks a direct focus on strategic alignment or the development of strategic approaches within Agile frameworks. The mention of continuous process improvement aligns somewhat with the category, but the overall depth and explicit discussion of strategy are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -568,10 +463,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T21:12:15",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Visual Studio and its process templates, focusing on reporting and process management rather than Agile transformation principles or methodologies.",
     "level": "Ignored"
   },
@@ -595,15 +490,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T06:09:36",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of process templates and reporting in relation to team interactions and continuous improvement. While it touches on aspects of team performance, such as transparency and process adaptation, it lacks a direct focus on team dynamics, collaboration, or specific Agile practices. The discussion is more about tools and processes rather than the methodologies or strategies that enhance team performance in an Agile context.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
@@ -616,43 +511,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T21:12:22",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:45:53",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of process templates in Visual Studio and TFS, which relates to software development practices. It mentions aspects of team interaction and process improvement, aligning with the Software Development category. However, the discussion lacks depth in specific methodologies or frameworks, focusing more on tools and templates rather than broader software development principles.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T06:09:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions the Agile process template and continuous process improvement, which are relevant to Agile Project Management. However, it lacks a detailed discussion on agile methodologies, principles, or frameworks like Scrum or Kanban. The focus is more on Visual Studio and TFS processes rather than on agile principles, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:12:27",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -676,15 +559,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T06:09:12",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of transparency and continuous process improvement through reports and dashboards, which aligns with the principles of empirical process control. However, it primarily focuses on the use of Visual Studio and TFS for process management rather than a deep exploration of empirical process control itself. The mention of inspecting and adapting processes is relevant but lacks depth and direct engagement with the core themes of empirical process control.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -749,15 +632,6 @@
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no clear focus on customer satisfaction or related methodologies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio and process templates, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:12:41",
@@ -776,26 +650,17 @@
     "reasoning": "Content heavily discusses process templates and reporting in Visual Studio, with no focus on psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:12:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on team-level processes and reporting within Visual Studio, without discussing scaling agility or organisational-level practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:23:58",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of process templates and reporting in Visual Studio, which relates to continuous improvement and transparency in engineering practices. However, it primarily focuses on the tooling and process management aspects rather than deep discussions on software craftsmanship, coding standards, or quality assurance. The mention of customizing process templates and using reports for inspection aligns somewhat with the principles of engineering excellence, but the depth of discussion is limited, focusing more on practical implementation rather than theoretical frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -808,10 +673,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T21:12:48",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -835,15 +700,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:09:20",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of process templates and reports in Visual Studio, which relates to practical problem-solving in Agile contexts. However, it lacks direct mentions of Agile, Scrum, or DevOps principles and does not provide in-depth discussions or case studies that demonstrate pragmatic approaches. The focus is more on tools and templates rather than on the application of pragmatic thinking in complex environments.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -856,32 +721,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T06:09:32",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses process templates and reporting in Visual Studio, which are related to continuous improvement and transparency. However, it lacks a direct focus on the Ability to Innovate category, as it does not explicitly mention innovation practices, Evidence-Based Management, or strategies for fostering a culture of innovation. The discussion is more about process management than about measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:12:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio and process templates, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:12:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio and its process templates without reference to scaling Agile practices or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -922,31 +769,31 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:09:22",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of process templates and reporting in Visual Studio, which are relevant to ensuring software quality and functionality. However, it lacks direct mentions of working software and does not delve deeply into Agile principles or customer feedback mechanisms. The focus is more on process management than on delivering functional software that meets user needs.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T21:13:06",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio and TFS processes, with a focus on reporting and process templates, rather than Agile Planning Tools.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T21:13:08",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no clear focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -961,10 +808,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T21:13:11",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on Agile leadership or related themes.",
     "level": "Ignored"
   },
@@ -988,10 +835,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T21:13:15",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no focus on hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
@@ -1069,22 +916,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T06:09:03",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses aspects of team processes and the importance of proper template selection for team interactions, which aligns with the category of Team Collaboration. However, it primarily focuses on reporting and process templates rather than directly addressing team dynamics, communication, or shared ownership. The depth of discussion is moderate, with some emphasis on continuous improvement and customization of processes, but it lacks a comprehensive exploration of collaboration techniques or team culture.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T21:13:31",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1097,22 +944,13 @@
     "reasoning": "Content primarily discusses Visual Studio and process templates without a clear focus on digital transformation strategies or the integration of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:13:34",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio and process templates, with no clear focus on Minimum Viable Product concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:13:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 and its process templates, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1153,20 +991,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T21:13:46",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:13:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010's reporting and process templates, focusing on team collaboration and process improvement. It does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or ATDD. The discussion is more aligned with general process management rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1198,10 +1039,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:13:52",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses process templates and reporting in Visual Studio, with no focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1216,15 +1057,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T06:09:03",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of process templates and reports for continuous process improvement, which aligns with the principles of Continuous Learning. However, it lacks explicit discussions on growth mindset, knowledge sharing, or feedback loops, which are core themes of the category. The depth of discussion is moderate, focusing on practical aspects rather than broader learning principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1246,22 +1087,25 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:13:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio and process templates, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's reporting and process templates, which are not directly related to the role of a Scrum Master. While it mentions continuous improvement and team collaboration, these concepts are not specifically tied to Scrum practices or the responsibilities of a Scrum Master. The discussion lacks depth regarding Scrum principles, techniques, or the influence of a Scrum Master on team dynamics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-15T06:09:18",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 50,
-    "final_score": 65.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of reports and dashboards in providing transparency and empowering teams, which aligns with the core themes of the Transparency category. However, the focus is primarily on the technical aspects of Visual Studio and TFS rather than a broader discussion on transparency in Agile processes. The depth of discussion is limited, as it does not explore the impact of transparency on team dynamics or provide case studies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1273,18 +1117,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and reporting in Visual Studio, with no clear focus on working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:36:09",
-    "ai_confidence": 47.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the importance of process templates and reporting in the context of Visual Studio and TFS, which are relevant to software development practices. However, it lacks direct mentions of Agile or DevOps methodologies and does not delve deeply into how these processes specifically enhance developer productivity or collaboration. The focus is more on tools and templates rather than the role of developers within Agile frameworks.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1342,22 +1174,22 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T06:09:27",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the customization of the Agile process template, which indicates a connection to Agile frameworks. However, the primary focus is on Visual Studio and its reporting capabilities rather than a thorough exploration of Agile principles or frameworks. The discussion lacks depth in terms of Agile methodologies and does not provide a comparative analysis or case studies, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T21:14:13",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio and its process templates, focusing on technical practices rather than Agile strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1381,10 +1213,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T21:14:17",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no clear focus on Lean principles or practices.",
     "level": "Ignored"
   },
@@ -1406,15 +1238,6 @@
     "reasoning": "Content heavily discusses process templates and reporting in Visual Studio, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:14:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio and process templates, with no clear focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:14:22",
@@ -1426,24 +1249,24 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T21:14:23",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio process templates and reporting, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:38:09",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses team collaboration and continuous improvement through the use of Visual Studio 2010's reporting and process templates. While it mentions enhancing collaboration and provides some insights into transparency and process adaptation, it lacks a deeper exploration of social technologies as frameworks or methodologies. The focus is more on technical tools and specific functionalities rather than the underlying social frameworks that drive collaboration and decision-making within teams.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1474,62 +1297,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:09:03",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions aspects of process improvement and team interaction, which are relevant to Scrum principles. However, it lacks direct references to Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum itself. The focus is more on Visual Studio and process templates rather than on Scrum as a framework.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:28:52",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses process templates and reporting within Visual Studio, which does not directly address the Shift-Left Strategy. While there are mentions of process improvement and customization, these concepts are not explicitly linked to integrating testing, security, or compliance earlier in the development lifecycle. The focus is more on team interactions and reporting rather than on proactive measures to enhance software quality.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:28:18",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses continuous improvement in the context of team processes and reporting within Visual Studio 2010. It explicitly mentions opportunities for continuous process improvement and the importance of adapting processes based on reports. However, while it touches on relevant themes, the discussion lacks depth and does not fully explore the broader implications or strategies of continuous improvement, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:28:20",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions goals related to inspecting and adapting processes, which aligns with the concept of continuous improvement. However, it primarily focuses on the technical aspects of Visual Studio 2010's reporting and process templates without a strong emphasis on shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks depth regarding the significance of Common Goals, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:28:23",
+    "calculated_at": "2025-04-10T15:55:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of process templates and reporting in Visual Studio, which can indirectly relate to competence through continuous improvement and team collaboration. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into the themes of skill development or professionalism. The discussion is more about tools and processes rather than the development of capabilities or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010's reporting and process templates, discussing team collaboration and continuous improvement. While it touches on aspects of process adaptation and customization, it does not explicitly address the concept of Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of accountability and reflection. The discussion is more aligned with general Agile practices rather than the specific focus on agency and intentionality required for this category.",
     "level": "Ignored"
   }
 }

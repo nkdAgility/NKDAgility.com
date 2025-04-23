@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:32:27",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the term 'ALM' in the tags, but it primarily focuses on gathering votes for features in a specific software version. There is no substantial discussion on the application lifecycle stages, governance, tools, or practices related to Application Lifecycle Management. The content lacks depth and does not align with the core themes of the category.",
     "level": "Ignored"
   },
@@ -58,45 +58,36 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:16:00",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses feature voting for a software version, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-15T07:32:34",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content discusses voting for features, which implies a decision-making process, but it lacks depth and does not explore the underlying principles of decision theory, such as heuristics, biases, or frameworks. The focus is primarily on feature selection rather than the complexities of decision-making in uncertain environments.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T07:32:44",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses a feature voting process for a specific software tool, TFS Sticky Buddy, without directly referencing Agile, Scrum, DevOps, or Lean methodologies. While it does touch on a collaborative aspect of software development, it lacks a clear connection to established Agile frameworks or practices. The discussion is more about gathering user input on features rather than exploring Agile concepts, which aligns it with the Miscellaneous category. The depth of the discussion is significant as it details the voting process and features, but it does not provide actionable insights related to recognised Agile practices.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:16:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses feature voting for a software project, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -107,33 +98,24 @@
     "reasoning": "Content primarily discusses feature voting for a software project, lacking any reference to complexity science or its principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:16:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses feature voting for a software tool without delving into practical techniques or methodologies related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T07:32:38",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses gathering votes for features, which implies a focus on customer feedback and aligning product development with user needs. However, it lacks depth in discussing methodologies or strategies for value delivery, and the primary focus is on feature voting rather than a comprehensive exploration of value delivery principles.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:16:11",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses feature voting for a software project, lacking a focus on metrics, data analysis, or learning principles.",
     "level": "Ignored"
   },
@@ -166,42 +148,39 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:16:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature voting for a software version, lacking focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software product, which does not directly discuss Evidence-Based Management principles. While it involves user input, it lacks empirical evidence or metrics related to value delivery, decision-making, or innovation capacity, which are core to EBM. The discussion is more about feature selection rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:16:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on gathering votes for features rather than discussing Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:16:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on soliciting votes for features in a software project, lacking broader industry news or reviews.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on gathering votes for features in a software product, which does not directly discuss the Agile Product Operating Model or its principles. While it hints at customer involvement in product development, it lacks depth in discussing agile methodologies, product management practices, or the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:32:53",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses gathering votes for features, which relates to planning and prioritising product features, a key aspect of product delivery. However, it lacks depth in discussing methodologies, testing, or deployment strategies, which are crucial for a comprehensive understanding of product delivery. The focus is primarily on feature selection rather than the broader product delivery process.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -219,45 +198,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses feature voting for a specific software tool, lacking a focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:16:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses feature voting for a software tool without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:16:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses feature voting for a software project, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on feature voting for a software project and does not discuss any events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-15T07:33:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses a voting process for feature selection, which implies a level of transparency in decision-making. However, it lacks a deeper exploration of accountability or the principles of openness and responsibility within Agile teams. The focus is primarily on gathering votes rather than fostering an environment of trust or aligning team goals with organisational objectives.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,34 +229,34 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T07:32:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses gathering votes for features, which aligns with the Agile principle of incorporating customer feedback into product iterations. However, it lacks explicit references to Agile methodologies, roles, or practices, and does not provide in-depth discussion on product management strategies or stakeholder engagement.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:16:45",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses feature voting for a software project, lacking personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:32:41",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content mentions TFS (Team Foundation Server), which is part of the Azure DevOps suite, but it primarily focuses on gathering votes for features rather than discussing Azure DevOps functionalities or best practices. The alignment with Azure DevOps themes is minimal, and the depth of discussion is limited to a feature voting process without providing insights into CI/CD, project management, or collaboration practices.",
     "level": "Ignored"
   },
@@ -331,11 +271,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:16:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature voting for a software project, which does not align with DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on gathering votes for features in a specific software tool, TFS Sticky Buddy, without discussing any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, and the discussion lacks depth in relation to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -347,62 +290,29 @@
     "reasoning": "Content primarily discusses feature voting for a software project, lacking focus on engineering practices or methodologies related to technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:16:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on feature voting for a software project, lacking a central discussion on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T07:32:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on gathering votes for features, which is more about project management and user engagement than on discovery and learning processes. While there is a slight implication of user feedback being considered for future development, the discussion lacks depth in exploring methodologies or frameworks that foster innovation or continuous learning. The mention of features and voting does not explicitly connect to the core themes of experimentation or knowledge sharing.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T07:33:04",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily discusses a feature voting process for a specific software product, TFS Sticky Buddy. While it does mention a product and invites user interaction regarding its features, it lacks in-depth analysis or reviews of the product itself. The focus is more on gathering user input rather than providing insights or discussions that align with Agile methodologies or DevOps practices. Therefore, while it touches on the category, it does not fully engage with its core themes.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T07:32:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses gathering votes for features, which relates to prioritising customer feedback, a key aspect of product management. However, it lacks depth in strategic discussions and does not cover broader product management methodologies or frameworks, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-10T18:58:32",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses gathering user votes for features, which aligns with the concept of user feedback and validating product ideas. However, it lacks depth in methodologies or detailed discussions on how this feedback will be integrated into the product development process, thus limiting its overall alignment with the core themes of product validation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -415,13 +325,13 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T07:32:49",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses gathering votes for features, which implies a form of user engagement and feedback that could lead to innovation. However, it lacks explicit discussions on frameworks, metrics, or Evidence-Based Management principles. The focus is primarily on feature selection rather than a comprehensive exploration of innovation capabilities.",
     "level": "Ignored"
   },
@@ -452,18 +362,6 @@
     "reasoning": "Content is focused on collecting votes for features rather than discussing portfolio management practices or strategic alignment in project initiatives.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T07:32:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses gathering votes for features, which could relate to customer feedback, a key aspect of Scrum. However, it lacks explicit references to Scrum roles, processes, or frameworks, and does not provide depth on Scrum practices or product development methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-16T18:48:24",
@@ -484,22 +382,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T07:33:01",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a voting process for feature selection, which implies a form of decision-making. However, it lacks structured methodologies or evidence-based practices that are central to the category of Decision Making. The discussion is primarily focused on gathering opinions rather than employing data-driven or collaborative decision-making techniques. Therefore, while it touches on decision-making, it does not align closely with the core themes or provide depth in the context of structured decision-making.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:48:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on feature voting for a software project and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -532,20 +430,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:48:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses feature voting and suggestions for future versions, and does not relate to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on voting for features in a software tool, with no relevance to scaled Agile methodologies or frameworks.",
+    "reasoning": "Content mainly discusses feature voting and suggestions for future versions, and does not relate to the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -611,24 +500,15 @@
     "reasoning": "Content focuses on voting for features in a specific software rather than on collaboration tools or Agile dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses feature voting for a specific software tool without delving into Agile or DevOps practices. It does not relate to the role of software developers within these frameworks.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:33:09",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on soliciting votes for features in a software project, which is a peripheral aspect of software development. While it does touch on the development process by discussing features for a future version, it lacks depth in discussing methodologies, best practices, or frameworks that guide software development. The mention of features and voting does not align closely with the core themes of the Software Development category, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -643,13 +523,13 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-15T07:32:57",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions gathering votes for features, which could relate to customer-centric approaches in product strategy. However, it lacks a clear discussion on methodologies, frameworks, or strategic planning. The focus is primarily on feature voting rather than a comprehensive product strategy, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -662,7 +542,7 @@
     "reasoning": "Content is focused on voting for feature prioritization rather than estimation techniques or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:48:24",
     "ai_confidence": 0,
@@ -682,10 +562,10 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-15T07:32:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 35,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content involves feature voting which indicates some level of customer feedback and prior to product development; however, it does not strongly discuss Lean principles, MVP, or the iterative process central to Lean Startup methodology.",
     "level": "Ignored"
   },
@@ -736,11 +616,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses feature voting for a specific software version and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on gathering user votes for features in a software product, which does not directly discuss Continuous Delivery principles or practices. While it touches on user feedback, it lacks depth in discussing automation, incremental improvements, or any strategies related to Continuous Delivery. The mention of versioning does not align with the core themes of Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -786,15 +669,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on gathering user votes for feature selection rather than on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature voting for a software tool without any focus on AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -907,13 +781,13 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T07:32:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses gathering votes for features to be included in the next version of a software product, which implies a focus on user feedback and future releases. However, it lacks explicit discussion on the principles of frequent releases, continuous delivery, or the methodologies that support them. The mention of versioning suggests a potential for frequent releases, but the overall content does not delve into the strategies, metrics, or practices that define the category of Frequent Releases.",
     "level": "Ignored"
   },
@@ -928,15 +802,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-15T07:32:55",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses gathering votes for features, which aligns with the concept of prioritising items in a Product Backlog. However, it lacks depth in discussing backlog management techniques or the role of the Product Owner. The focus is primarily on feature voting rather than a comprehensive exploration of the Product Backlog's purpose or management strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -949,15 +823,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-15T07:32:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses feature voting, which relates to stakeholder engagement and prioritisation strategies, but lacks explicit mention of the Product Owner role. It provides minimal depth on the responsibilities or practices of a Product Owner, focusing instead on a specific feature request process.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -970,22 +844,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T07:32:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions taking votes for features, which implies some level of team input and collaboration. However, it lacks a detailed discussion on techniques for improving communication or fostering a culture of trust, which are key aspects of team collaboration. The focus is primarily on feature voting rather than on enhancing team dynamics or shared ownership within Agile frameworks.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:48:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses feature voting and user engagement for a software tool, without addressing the criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -1000,15 +874,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-15T07:33:12",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses gathering votes for features, which implies a level of openness and soliciting input from users. However, it lacks a deeper exploration of transparency principles within Agile methodologies or practices. While it touches on the idea of visibility in decision-making, it does not provide substantial detail on how this fosters trust or accountability among team members or stakeholders.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1028,34 +902,16 @@
     "reasoning": "Content primarily discusses a voting process for features of a software tool, without any focus on remote working practices, challenges, or solutions in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses voting on features for a software development project and does not mention or relate to Kanban principles or scaling Kanban methodologies.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-15T07:32:59",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses gathering user votes for features, which indirectly relates to customer engagement and feedback mechanisms. However, it lacks a direct focus on customer retention strategies, such as measuring satisfaction or enhancing user experience. The discussion is primarily about feature voting rather than comprehensive retention methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on voting for features for a software project, which is more related to feature prioritization rather than discussing Agile methodologies or principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1096,25 +952,25 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T07:32:29",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses gathering votes for features, which indirectly relates to customer satisfaction by seeking user input. However, it lacks a comprehensive exploration of customer satisfaction principles, measurement techniques, or strategies for enhancing customer experience. The focus is primarily on feature voting rather than a holistic approach to customer satisfaction.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-10T15:12:22",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content explicitly discusses gathering customer votes for features, which aligns with the concept of collecting feedback. However, it lacks depth in exploring how this feedback will be integrated into the product development process or how it will influence prioritisation. While it touches on the importance of customer input, it does not delve into the mechanisms of feedback loops or continuous improvement, which are crucial for a higher confidence score.",
     "level": "Secondary"
   },
@@ -1255,27 +1111,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:32:51",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses gathering votes for features in a software version, which relates to customer feedback and prioritisation. However, it lacks a detailed exploration of working software principles, quality assurance, or iterative development, making it a secondary focus rather than a primary discussion on working software.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-10T13:15:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on gathering votes for features, which aligns with the concept of understanding customer needs. However, it lacks depth in discussing methodologies or frameworks for product discovery. The mention of voting indicates an attempt to prioritise features based on user input, but it does not delve into user research techniques or validation processes, which are crucial for a comprehensive discussion on product discovery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1306,15 +1162,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:32:36",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses voting for features to be included in the next version of a software product, which relates to release planning and user feedback. However, it lacks a comprehensive discussion on release management strategies, risk management, or CI/CD practices, which are crucial for a higher confidence score in this category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -1327,10 +1183,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-16T18:48:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on feature voting for a software project and does not discuss revenue, financial metrics, or employee productivity.",
     "level": "Ignored"
   },
@@ -1341,15 +1197,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on gathering feature votes for software without discussing asynchronous development practices or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on feature voting for a specific software tool and does not mention Scrum, its scaling, or any related concepts.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1388,22 +1235,16 @@
     "reasoning": "Content discusses voting for features in a software tool, which is not relevant to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feature voting for a software project and does not address scaling agility or related topics.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about gathering votes for software features and does not discuss the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on gathering votes for features in a software project, with no direct mention of the Scrum Master role or its responsibilities. While it may touch on aspects of team collaboration, it lacks any substantial discussion on Scrum principles, coaching, or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1426,22 +1267,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on gathering feature requests and voting for new features, without any discussion on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on gathering votes for feature enhancements in a software project, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:51:59",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on soliciting votes for features in a software tool, which is a form of engagement but lacks a deeper discussion on collaboration, decision-making, or value delivery. While it encourages participation and feedback, it does not explore the underlying social frameworks or methodologies that characterise social technologies. The mention of voting could imply a collaborative aspect, but it is not sufficiently developed to align with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1474,26 +1318,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:32:24",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on gathering votes for features in a software project, which does not directly discuss Scrum principles, roles, or events. While it may imply some level of collaboration and prioritisation, it lacks explicit references to Scrum practices or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:03",
+    "calculated_at": "2025-04-10T15:56:39",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on gathering votes for features in a software project, with no explicit discussion of the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on related methodologies or metrics. The content is more about feature prioritisation rather than proactive quality assurance or development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software project, which does not directly discuss the concept of Common Goals within Agile or DevOps frameworks. While it encourages community engagement and input, it lacks explicit references to shared objectives, strategic alignment, or frameworks like OKRs. The discussion is more about feature selection rather than aligning team efforts with overarching goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software project, which does not directly address the principles of competence in Agile or DevOps. While there is an implicit suggestion of user engagement and feedback, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software product, which does not directly discuss Continuous Improvement principles. While there is an element of user feedback that could relate to improvement, it lacks depth in discussing systematic processes, empirical evidence, or strategies for fostering a culture of experimentation. The mention of features and voting does not align with the core themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on soliciting votes for features in a software project, which does not explicitly discuss Agentic Agility or its principles. While there is a hint of user engagement and shaping outcomes through voting, it lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

@@ -9,7 +9,7 @@ ResourceImportId: 7176
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,9 +31,8 @@ aliasesArchive:
 - /resources/blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 tags:
 - Troubleshooting
-- Install and Configuration
 - Software Development
-- Practical Techniques and Tooling
+- Install and Configuration
 - Windows
 - System Configuration
 categories: []

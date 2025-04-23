@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2024-01-12
-weight: 550
+weight: 500
 creator: Martin Hinshelwood
 type: course
 slug: applying-metrics-for-predictability
@@ -32,16 +32,16 @@ delivery-audiences:
 - Lean Agile Practitioners
 tags:
 - Metrics and Learning
-- Forecasting
-- Throughput
-- Agile Project Management
-- Practical Techniques and Tooling
 - Agile Planning
-- Flow Efficiency
 - Decision Making
+- Flow Efficiency
+- Forecasting
 - Operational Practices
 - Pragmatic Thinking
-categories: []
+- Throughput
+- Estimation
+categories:
+- Product Development
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 previewIcon: Course-logo-AMP@1x.png
 brandColour: 

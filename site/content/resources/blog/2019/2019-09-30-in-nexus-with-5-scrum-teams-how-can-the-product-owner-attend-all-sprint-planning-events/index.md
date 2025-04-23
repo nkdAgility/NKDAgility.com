@@ -9,7 +9,7 @@ ResourceImportId: 39855
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-30
-weight: 665
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,16 +32,18 @@ aliasesArchive:
 - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 tags:
-- Scrum Product Development
-- Professional Scrum
-- Scaling Scrum
-- Scrum Team
-- Agile Product Management
-- Software Development
 - Agile Frameworks
-- Agile Project Management
+- Agile Product Management
+- Professional Scrum
+- Software Development
+- Scrum Team
 - Product Owner
-- Scaled Agile
+- Agile Planning
+- Product Backlog
+- Agile Transformation
+- Pragmatic Thinking
+- Product Delivery
+- Team Performance
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

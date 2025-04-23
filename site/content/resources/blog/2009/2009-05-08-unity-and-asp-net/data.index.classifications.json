@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on Agile principles or product management.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:45:26",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the implementation of Dependency Injection in ASP.NET, which aligns with practical techniques for enhancing software development. It provides specific code examples and explains the benefits of using Dependency Injection, such as the ability to change functionality without recompiling. However, it lacks a broader discussion on Agile or DevOps methodologies and does not mention specific tools or frameworks related to Agile or DevOps practices, which limits its alignment with the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:48:15",
@@ -31,44 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:21:31",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a technical discussion about software development practices. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to management decisions. The discussion is strictly about coding and technical implementation, lacking any alignment with the principles of EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:23:10",
-    "ai_confidence": 42.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, which relates to code quality and maintainability. However, it lacks a broader discussion on complexity theory or its implications on software architecture. While it touches on best practices, such as modular design, the depth of exploration into the relationship between code quality and complexity is limited, resulting in a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:48:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of dependency injection in ASP.NET and WPF, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:48:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:23:03",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 30,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the implementation of dependency injection in an ASP.NET application, which relates to configuration aspects. However, it lacks a structured installation guide or detailed troubleshooting steps, making it more of a practical example rather than a comprehensive guide on installation and configuration.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content heavily discusses technical implementation of dependency injection in ASP.NET and WPF without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:48:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:21:19",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a specific technical implementation rather than a discussion on DevOps principles. While there is a mention of enhancing flexibility and efficiency, it does not address core DevOps themes such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps practices and does not explore the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
@@ -158,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:48:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of dependency injection in ASP.NET, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:48:34",
@@ -174,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, with no clear focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:48:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -196,19 +118,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T02:48:38",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:48:39",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -223,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:09:43",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the implementation of Dependency Injection in ASP.NET, which aligns with the principles of modular architecture and emergent design. However, while it touches on the benefits of Dependency Injection, such as flexibility and the ability to change functionality without recompiling, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on a specific technical implementation rather than a comprehensive exploration of technical excellence as defined in the category.",
     "level": "Secondary"
   },
@@ -278,15 +200,6 @@
     "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:49:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of dependency injection in ASP.NET and WPF, without focusing on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:49:10",
@@ -325,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:49:15",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:21:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the key topics outlined in the APOM definition. The content is technical and specific to software development practices, lacking any connection to the product-oriented mindset or continuous delivery principles associated with APOM.",
     "level": "Ignored"
   },
@@ -353,21 +266,12 @@
     "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET and WPF, with no focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:49:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of dependency injection in ASP.NET, lacking relevance to industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T02:49:20",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, without a clear focus on the application lifecycle stages or management practices.",
     "level": "Ignored"
   },
@@ -382,22 +286,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Dependency Injection in ASP.NET, with no reference to the Definition of Done or its associated principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:07:35",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, which aligns with best practices in software design and architecture. It provides a practical example of how to use dependency injection to enhance code maintainability and flexibility, which are key aspects of technical mastery. However, while it touches on important technical concepts, the discussion lacks depth in exploring broader principles of clean code or software craftsmanship, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -412,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:21:33",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET, which is a software development practice but does not explicitly discuss Continuous Delivery principles or practices. While it touches on rapid deployment and testing cycles, it lacks a comprehensive exploration of Continuous Delivery concepts, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -451,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Dependency Injection in ASP.NET and WPF, which is unrelated to the Definition of Ready concept. It does not address backlog items, sprint planning, or related topics.",
     "level": "Ignored"
   },
@@ -568,10 +472,10 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, without any clear focus on automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
@@ -595,40 +499,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET, with no mention of acceptance criteria or ATDD principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:54:31",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 40.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the implementation of dependency injection in ASP.NET, which is a key software development practice. It provides specific code examples and explains the benefits of using dependency injection, aligning well with best practices in coding and software design. The depth of discussion is substantial, as it covers both the implementation details and the advantages of the approach, making it a strong fit for the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses dependency injection in ASP.NET and WPF applications, without reference to Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses dependency injection in ASP.NET and its implementation without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -643,19 +538,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on dependency injection in ASP.NET and WPF, with no discussions related to version control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses dependency injection in ASP.NET and WPF without any relevance to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -688,10 +583,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of Dependency Injection in ASP.NET, not related to organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -722,15 +617,6 @@
     "reasoning": "The content primarily discusses technical implementation details related to dependency injection in ASP.NET and WPF, without any focus on customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, with no relevance to scaling Scrum or related practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:29",
@@ -749,26 +635,17 @@
     "reasoning": "Content heavily discusses technical implementation details of dependency injection in ASP.NET and does not address Psychological Safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dependency injection in ASP.NET, not related to scaling agility or organizational practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:45:21",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, which relates to best practices in coding standards and software craftsmanship. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement processes. The focus is primarily on technical implementation rather than a comprehensive exploration of engineering excellence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -808,13 +685,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:23:03",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses practical implementation of dependency injection in ASP.NET, which aligns with pragmatic problem-solving in software development. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and the discussion is primarily technical rather than focused on broader project management or team collaboration strategies.",
     "level": "Ignored"
   },
@@ -829,29 +706,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation of Dependency Injection in ASP.NET, without discussing innovation measurements, frameworks, or strategies for fostering a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on ASP.NET and dependency injection in software development, with no clear connection to Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses ASP.NET and dependency injection without reference to Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,10 +733,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, with no focus on test automation or related practices.",
     "level": "Ignored"
   },
@@ -892,15 +751,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T17:03:19",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, which is a technical aspect of software development. While it does not explicitly mention 'working software', it aligns with the concept by detailing how to enhance functionality and maintain quality through dependency injection. The depth of discussion is moderate, providing code examples and practical applications, but it lacks a broader context on delivering high-quality software or customer feedback mechanisms.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -949,10 +808,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, which is unrelated to Site Reliability Engineering principles and practices.",
     "level": "Ignored"
   },
@@ -1003,10 +862,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses dependency injection in ASP.NET and WPF applications without any mention of Cycle Time or its implications on workflow efficiency.",
     "level": "Ignored"
   },
@@ -1030,10 +889,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T10:29:29",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to dependency injection in ASP.NET and does not focus on change management strategies, practices, or discussions.",
     "level": "Ignored"
   },
@@ -1064,7 +923,7 @@
     "reasoning": "The content primarily discusses technical details about implementing Dependency Injection in ASP.NET, which does not align with the strategic theme of Digital Transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:29",
     "ai_confidence": 0,
@@ -1073,24 +932,15 @@
     "reasoning": "Content heavily discusses dependency injection in ASP.NET and WPF applications, with no mention of Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily focused on using Dependency Injection in ASP.NET and WPF applications, with no relevance to AI or its application in Agile, DevOps, or software development practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:23:03",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of dependency injection in an ASP.NET application, which touches on configuration aspects, particularly in the context of setting up the UnityHttpModule and modifying the web.config file. However, the primary focus is on software development practices rather than a comprehensive exploration of system configuration methodologies. While there are mentions of configuration, they are not the main focus, and the depth of discussion on broader system configuration principles is limited.",
     "level": "Ignored"
   },
@@ -1132,11 +982,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses dependency injection in ASP.NET and WPF, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Dependency Injection in ASP.NET and does not explicitly mention Test First Development or its principles. While it touches on testing cycles, it lacks a focus on defining success criteria or the Test First approach. The discussion is more about implementation details rather than the testing philosophy itself.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1150,13 +1003,13 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:23:07",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses dependency injection in ASP.NET and WPF applications, which is more focused on software development practices rather than deployment strategies. While it briefly touches on the ability to change functionality without recompiling and redeploying, it lacks a comprehensive discussion on deployment methodologies such as blue-green deployments or canary releases. The mention of testing and immediate production changes hints at deployment concerns but does not delve into actionable deployment strategies, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1198,15 +1051,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:23:05",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the implementation of dependency injection in ASP.NET and WPF applications, which touches on resolving references at runtime. However, it lacks a direct focus on troubleshooting specific issues or methodologies for diagnosing problems. While it provides some insights into potential challenges (e.g., error handling), it does not delve deeply into systematic problem-solving or case studies related to troubleshooting, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1219,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of dependency injection in ASP.NET without any reference to Scrum Master responsibilities or the Scrum framework.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical implementation of Dependency Injection in ASP.NET and does not mention or discuss any aspects related to the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the category, and the depth of discussion is limited to technical details, making it irrelevant to the Scrum Master classification.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1244,18 +1100,6 @@
     "reasoning": "Content primarily discusses technical implementation details of dependency injection in ASP.NET, not working agreements or team collaboration.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:23:03",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on technical implementation details of dependency injection in ASP.NET, which is relevant to software development. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it touches on aspects of software development, it does not engage with the broader themes of collaboration, team dynamics, or best practices in Agile and DevOps contexts, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T10:29:29",
@@ -1267,15 +1111,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T07:23:12",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses dependency injection, which is a relevant engineering practice, but it primarily focuses on implementation details rather than broader Agile principles or methodologies. While it touches on automation and the benefits of changing functionality without recompilation, it lacks a comprehensive exploration of clean code, TDD, or CI/CD practices. The discussion is somewhat technical but does not delve deeply into the core themes of Agile engineering practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1376,15 +1220,6 @@
     "reasoning": "Content primarily focuses on technical implementation of Dependency Injection in ASP.NET and does not discuss accountability in Agile or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Dependency Injection in ASP.NET and WPF, with no discussion of Kanban principles, scaling Kanban practices, or related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:30",
@@ -1396,22 +1231,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:30",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses dependency injection in ASP.NET and WPF, and does not feature Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:46:43",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details of Dependency Injection in ASP.NET using Unity. It does not discuss collaboration, decision-making, or value delivery within organisations, which are core themes of Social Technologies. The mention of flexibility and efficiency is too vague and does not align with the principles of self-organisation or collective intelligence. Overall, the content lacks depth in relation to the category.",
     "level": "Ignored"
   },
@@ -1444,62 +1279,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:54:50",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details related to dependency injection in ASP.NET and WPF, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It lacks any alignment with the core themes of Scrum, such as team dynamics or iterative progress, and does not provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:36:55",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses dependency injection in ASP.NET and WPF applications, focusing on implementation details rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no explicit mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to the core themes of the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:21:22",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a technical implementation detail rather than a discussion on Continuous Improvement. While it touches on flexibility and efficiency, it does not explicitly discuss Continuous Improvement principles, nor does it provide depth on related strategies or empirical evidence. The content lacks a clear connection to the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:21:24",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details of Dependency Injection in ASP.NET using Unity. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives, strategic alignment, or team collaboration. The mention of business needs is too vague and does not connect to the core themes of the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:21:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details of Dependency Injection in ASP.NET using Unity. While it touches on aspects of flexibility and efficiency, it does not explicitly discuss competence, continuous learning, or skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on implementing Dependency Injection in ASP.NET using Unity, which is a technical discussion about software development practices. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI systems. The discussion lacks depth regarding the transformative capacity of individuals or systems, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -9,7 +9,7 @@ ResourceImportId: 10204
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-05-01
-weight: 425
+weight: 360
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,18 +25,27 @@ aliasesArchive:
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
 - Business Agility
-- Software Development
-- Working Software
-- Agile Project Management
 - Organisational Agility
 - Pragmatic Thinking
+- Software Development
 - Value Delivery
-- News and Reviews
+- Working Software
+- Operational Practices
 - Agile Transformation
 - Product Delivery
+- Agile Philosophy
+- Agile Product Management
+- Digital Transformation
+- Continuous Improvement
+- Agile Frameworks
+- Agile Planning
+- Agile Strategy
+- Trend Analysis
+- Market Adaptability
+- Agile Values and Principles
+- Enterprise Agility
 categories:
 - Engineering Excellence
-- Scrum
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

@@ -2,7 +2,7 @@
 title: 'The Future of Scrum Training: Immersive Learning for Lasting Change'
 description: Explore the future of Scrum training with immersive learning! Discover how it enhances understanding and implementation in complex environments.
 date: 2023-11-23T08:30:06Z
-weight: 700
+weight: 665
 ResourceId: Frqfd0EPj_4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,19 +32,24 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Project Management
 - Team Performance
-- People and Process
 - Agile Frameworks
 - Agile Transformation
-- Discovery and Learning
-- Resilience and Change
-- Scrum Product Development
+- Social Technologies
+- Professional Scrum
+- Coaching
+- Operational Practices
+- Scrum Master
 - Scrum Team
+- Sociotechnical Systems
+- Value Delivery
+- Change Management
+- Organisational Agility
+- Competence
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In today’s fast-paced world, learning and development have to adapt to the complexity and speed at which things are changing, especially in the realms of Scrum, Kanban, and Agile practices. Traditional training methods, while useful, often fall short of equipping participants with the skills and insights needed to drive real, lasting change in their organizations. This is where immersive learning comes in.

@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 tags:
 - Software Development
-- Practical Techniques and Tooling
 categories: []
 preview: image11-1-1.png
 

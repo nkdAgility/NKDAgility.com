@@ -9,7 +9,7 @@ ResourceImportId: 7760
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-30
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,9 +34,8 @@ tags:
 - Software Development
 - System Configuration
 - Windows
-- Practical Techniques and Tooling
-- Install and Configuration
 - Azure DevOps
+- Install and Configuration
 categories: []
 preview: metro-problem-icon-7-7.png
 

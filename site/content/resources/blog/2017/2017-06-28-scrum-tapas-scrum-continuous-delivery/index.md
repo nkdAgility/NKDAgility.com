@@ -28,7 +28,6 @@ aliasesArchive:
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
 tags:
-- Events and Presentations
 - Software Development
 categories: []
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png

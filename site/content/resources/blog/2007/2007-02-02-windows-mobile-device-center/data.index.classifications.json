@@ -1,24 +1,15 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:44:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and its features, with no relevance to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:26:46",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the release and installation of Windows Mobile Device Center (WMDC), which aligns with the installation aspect of the category. However, it lacks detailed step-by-step instructions or configuration best practices, resulting in a moderate confidence score. The mention of the installation process is present but not deeply explored, and the overall focus is more on the announcement rather than a comprehensive guide.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -27,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and its features, with no focus on decision-making processes or related topics.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:44:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and functionality of Windows Mobile Device Center, with no focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:44:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and its transition from beta to a stable version, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -67,13 +40,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-08T13:15:06",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses entirely on the Windows Mobile Device Center, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
@@ -88,10 +61,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T09:44:21",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and its transition from beta to RTM, with no relevance to BetaCodex principles or organisational design.",
     "level": "Ignored"
   },
@@ -124,10 +97,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:44:25",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and does not address metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -138,15 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and its features, with no relevance to platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:44:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and its usability, with no focus on code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -169,10 +133,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:44:32",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and its features, with no focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -212,27 +176,6 @@
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and does not relate to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:49:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the release of the Windows Mobile Device Center (WMDC) and provides a personal account of the transition from beta to the final version. While it mentions a specific update, it lacks broader industry context or analysis related to Agile, DevOps, or technology trends. The focus is primarily on a specific product rather than a comprehensive review or news piece that informs about wider implications in the field.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:44:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and installation of Windows Mobile Device Center, lacking focus on Agile or DevOps practices, tools, or methodologies.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:44:43",
@@ -269,15 +212,6 @@
     "reasoning": "Content is primarily about the release of Windows Mobile Device Center and does not discuss Agile principles or product-centric development.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:44:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
   "Agile Product Management": {
     "category": "Agile Product Management",
     "calculated_at": "2025-02-17T09:44:50",
@@ -312,33 +246,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and personal experiences with its beta version, but does not relate to Agile, Scrum, DevOps, or Lean principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:44:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and installation of Windows Mobile Device Center, with no focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:44:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and does not address transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:44:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and functionality of Windows Mobile Device Center, which is not directly related to Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -388,13 +295,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:53:56",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the Windows Mobile Device Center (WMDC), which is directly related to the Windows operating system, specifically its interaction with mobile devices. There are explicit mentions of Windows and Vista, indicating a focus on installation and updates. The discussion aligns well with the category's themes, particularly regarding installation procedures and troubleshooting. However, the depth of discussion is somewhat limited to the WMDC and does not cover broader aspects of Windows, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -409,10 +316,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:09:04",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is entirely focused on the release of Windows Mobile Device Center and does not relate to the Definition of Done in any way.",
     "level": "Ignored"
   },
@@ -427,10 +334,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T11:09:04",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of a specific product (Windows Mobile Device Center) but does not provide a comprehensive discussion on release management strategies, practices, or processes.",
     "level": "Ignored"
   },
@@ -441,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about software release and user experience with Windows Mobile Device Center, with no relevance to empirical process control or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:09:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the release and functionality of Windows Mobile Device Center, with no relevance to Scrum principles or scaling practices.",
     "level": "Ignored"
   },
   "Increment": {
@@ -472,13 +370,13 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the release and installation of Windows Mobile Device Center (WMDC), which relates to system configuration in terms of software installation. However, it lacks depth in discussing broader configuration practices, optimisation strategies, or troubleshooting. The focus is primarily on the release and user experience rather than detailed configuration methodologies.",
     "level": "Ignored"
   },
@@ -624,15 +522,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and usage of Windows Mobile Device Center, lacking focus on strategic goals or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:09:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the release of Windows Mobile Device Center and does not discuss any Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -799,10 +688,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:09:05",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Windows Mobile Device Center and does not relate to Agile values or principles.",
     "level": "Ignored"
   },
@@ -880,10 +769,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:09:05",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Windows Mobile Device Center and does not relate to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -896,7 +785,7 @@
     "reasoning": "Content is focused on Windows Mobile Device Center, unrelated to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:09:05",
     "ai_confidence": 0,
@@ -948,15 +837,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the release of Windows Mobile Device Center and its user experience, which is unrelated to Agile methodologies or strategies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Windows Mobile Device Center and its release, with no focus on software development practices or methodologies relevant to developers.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1011,15 +891,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Windows Mobile Device Center and its installation, which is unrelated to Scrum Values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the release of Windows Mobile Device Center and has no relevance to Kanban or its scaling principles.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1220,15 +1091,6 @@
     "reasoning": "Content discusses Windows Mobile Device Center and its release, which is unrelated to test automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses Windows Mobile Device Center, which is unrelated to Scrum, product development, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:09:05",
@@ -1276,29 +1138,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:09:05",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the release of Windows Mobile Device Center but does not address the measurement, improvement, or enhancement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the release of Windows Mobile Device Center and its features; there is no relevance to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the release of Windows Mobile Device Center and does not relate to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1344,15 +1188,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on the release of Windows Mobile Device Center and does not relate to Value Stream Mapping or Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Windows Mobile Device Center and its release details, with no mention of AI or related methodologies.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1411,13 +1246,13 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:51:53",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the release of Windows Mobile Device Center and does not mention or align with the principles of the Shift-Left Strategy in software development. There are no references to testing, security, or compliance processes, nor any discussion of integrating these elements early in the development lifecycle.",
     "level": "Ignored"
   }

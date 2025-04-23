@@ -1,71 +1,32 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T23:59:39",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio and related technical details, with only a brief mention of Scrum training, which is not central to the topic.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:42:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a detailed guide on installing Visual Studio 2015 alongside 2013, which directly relates to practical tooling. It discusses specific installation steps, tools included in the installation, and considerations for developers, aligning well with the category's focus on practical techniques and tooling. However, while it mentions tools and installation processes, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the alignment score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T23:59:42",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:03:22",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making, current value, or any other EBM concepts. The discussion is technical and practical, lacking any alignment with the principles of data-informed decision-making or value delivery.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T23:59:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no significant focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T23:59:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2015 and related technical details, with no significant emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T23:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not relate to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:37:54",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 85.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content provides a detailed guide on installing Visual Studio 2015 alongside 2013 on Windows 10, which aligns well with the 'Install and Configuration' category. It includes step-by-step instructions, mentions troubleshooting for installation errors, and discusses configuration options during the installation process. The depth of discussion is significant, covering various aspects of the installation, including system requirements and installation options. However, there are some tangential discussions about personal experiences and preferences that slightly detract from the primary focus on installation and configuration.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T23:59:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no significant focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T23:59:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:03:03",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss any DevOps principles, practices, or cultural shifts. While it mentions tools like Git and touches on development environments, it lacks a direct connection to the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T00:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not focus on events or presentations related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T00:00:01",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T00:00:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with only a brief mention of Scrum training, which is not central to the topic.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T00:00:08",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related software, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -247,10 +172,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T00:00:14",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on methodologies or practices involved in delivering software products.",
     "level": "Ignored"
   },
@@ -271,18 +196,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related software, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T14:42:31",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015, which is a software product. It includes direct mentions of the product and provides some insights into its features and installation steps. However, the discussion lacks depth regarding its application in Agile or DevOps contexts, and it does not provide reviews or analyses that would typically align with the 'Products and Books' category. The content is more of a practical guide than a discussion or review, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -322,13 +235,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:03:16",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The only slight alignment is a brief mention of Scrum training, but it is not elaborated upon or connected to the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -339,15 +252,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on organisational agility or related themes.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T00:00:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation instructions and personal experiences with Visual Studio, lacking a central theme of news or reviews related to Agile, DevOps, or technology updates.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -361,52 +265,52 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T00:00:42",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio and related technical details, with no focus on Daily Scrum or Scrum practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T00:00:43",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:15:12",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 alongside 2013, which is a practical technical task. While it does mention some technical aspects, such as the importance of selecting installation options and the inclusion of various development tools, it lacks a deeper exploration of software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The discussion is more about installation and personal experiences rather than a comprehensive examination of technical mastery.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T00:00:46",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on customer needs or product feature definition.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:03:19",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 alongside an older version, with no direct discussion of Continuous Delivery principles, practices, or benefits. While it touches on software development tools, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is limited to installation tips and personal experiences, which are not relevant to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -439,10 +343,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T00:00:54",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2015 and related technical details, with no mention of Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -457,10 +361,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T00:00:56",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on Product Backlog or Agile methodologies.",
     "level": "Ignored"
   },
@@ -502,10 +406,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T00:01:03",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio and related technical details, with only a brief mention of Scrum training, which is not central to the topic.",
     "level": "Ignored"
   },
@@ -529,10 +433,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T00:01:08",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not focus on validating product ideas or user engagement.",
     "level": "Ignored"
   },
@@ -565,10 +469,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T00:01:15",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -583,58 +487,49 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T00:01:17",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address Acceptance Test Driven Development or related concepts.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:32:31",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015, which is a software development tool. It discusses specific features, installation options, and compatibility with previous versions, aligning well with software development practices. However, while it provides useful information, the depth of discussion on methodologies or best practices in software development is limited, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T00:01:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio and related software, with only a brief mention of Scrum training, which is not central to the topic.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T00:01:22",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio and related technical details, with only a brief mention of Scrum training, which is not central to the topic.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T00:01:23",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio and related software, with only a brief mention of attending Scrum training, which is not central to the topic.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T00:01:24",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2015 and related tools, with only a brief mention of Git, which is not central to the topic.",
     "level": "Ignored"
   },
@@ -649,10 +544,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T00:01:27",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio and related technical details, with no clear focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -710,21 +605,12 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T00:01:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio and related technical details, with only a brief mention of Scrum training, which is not central to the topic.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T00:01:41",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -735,15 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on psychological safety or its implications.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T00:01:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address scaling agility or related topics.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -766,10 +643,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T00:01:47",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address asynchronous development principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -811,29 +688,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T00:01:54",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T00:01:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio and related technical details, with only a brief mention of Scrum training, which is not central to the topic.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T00:01:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio and related software, with no focus on Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -937,10 +796,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T00:02:15",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not focus on hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -973,10 +832,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T00:02:20",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio and related technical details, with no focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1018,19 +877,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T00:02:28",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not focus on team collaboration or related Agile, Scrum, or DevOps principles.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T00:02:38",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address any principles or practices of Behaviour Driven Development.",
     "level": "Ignored"
   },
@@ -1043,42 +902,33 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on digital transformation strategies or the impact of digital technologies on business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-15T00:02:41",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not focus on Minimum Viable Product concepts or related methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T00:02:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:23:40",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2015 alongside 2013 on Windows 10, which aligns well with the category of System Configuration. It discusses specific installation steps, configuration options, and considerations for optimising the setup. However, while it provides practical advice and mentions configuration aspects, the depth of technical detail could be improved, and some sections veer into personal anecdotes and opinions, which slightly detracts from the strict focus on system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T00:02:46",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process and features of Visual Studio 2015, with no focus on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -1111,22 +961,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:02:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing practices, or the impact of testing on software delivery, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T11:49:13",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the installation of Visual Studio 2015 on Windows 10, which is a direct discussion of the Windows operating system. It includes specific installation procedures, troubleshooting tips related to Windows, and mentions of Windows features and updates. The depth of discussion is substantial, covering various aspects of the installation process and user experience on Windows. Overall, the content aligns well with the key topics outlined for the Windows category.",
     "level": "Primary"
   },
@@ -1150,10 +1003,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T00:02:57",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the installation process of Visual Studio and technical details, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1177,13 +1030,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T14:54:28",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses troubleshooting issues related to installing Visual Studio 2015, specifically mentioning an error and a fix involving the Windows 10 Universal C Runtime. However, while it touches on troubleshooting, the primary focus is on installation steps and personal experiences rather than a systematic approach to diagnosing and resolving technical issues. The depth of discussion on troubleshooting techniques is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
@@ -1198,11 +1051,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:03:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio and related technical details, with only a brief mention of Scrum training, which is not central to the topic.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2015 and does not discuss the role or responsibilities of a Scrum Master. While there is a brief mention of attending Scrum training, it is not elaborated upon and does not contribute to a meaningful discussion about the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1221,18 +1077,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T04:15:12",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not engage with Agile or DevOps methodologies. While it mentions tools relevant to developers, it lacks a discussion on best practices, team dynamics, or collaboration strategies that are central to the Software Developers category.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1273,10 +1117,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T00:03:19",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related technical details, with no focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1327,10 +1171,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T00:03:27",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1352,15 +1196,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T00:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio and related software, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T00:03:32",
@@ -1372,10 +1207,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T00:03:33",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and does not address Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1390,22 +1225,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:26:01",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of installing Visual Studio 2015 and does not discuss any themes related to social technologies, collaboration, or decision-making. While there is a brief mention of the author's experience in a Scrum training context, it is not elaborated upon or connected to the principles of social technologies. Overall, the content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:12:32",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2015 and related tools, with no focus on Internal Developer Platforms or their benefits, components, or best practices.",
     "level": "Ignored"
   },
@@ -1420,74 +1255,86 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:35:39",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 50,
-    "final_score": 10.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on installing Visual Studio and does not discuss Scrum principles, roles, events, or any related topics. The only mention of Scrum is a brief reference to attending Scrum training, which is not elaborated upon. Overall, the content lacks substantial discussion or alignment with Scrum concepts.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:17:03",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While there are mentions of development tools and environments, these are not related to integrating testing, security, or compliance earlier in the software development lifecycle. The discussion lacks depth and relevance to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:03:05",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss Continuous Improvement principles. While there are mentions of updates and preferences, these are not tied to a culture of experimentation or learning, nor do they provide empirical evidence or strategies for improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:03:07",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss Common Goals, Agile, or DevOps principles. While there are brief mentions of personal experiences and preferences, these do not connect to the foundational principles of aligning strategy with execution or shared objectives within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:03:10",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss competence in terms of continuous learning, skill development, or professionalism. While there are brief mentions of preferences and experiences, these do not align with the core themes of competence as defined in the category.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-22T07:03:13",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss the One Engineering System framework or its principles. There are no direct mentions of 1ES, and the discussion lacks alignment with the core themes of integration, standardisation, or best practices in software development. The depth of discussion is limited to installation tips and personal experiences, which are not relevant to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2015 and does not discuss Agentic Agility or its principles. There are no direct mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it explore the interplay between human and AI capabilities. The discussion is technical and practical, lacking any alignment with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:27:51",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and personal hardware requirements, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,15 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:22:14",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Beta 2, including troubleshooting steps and system requirements. It explicitly mentions the need to remove previous versions of Office to facilitate the installation, which aligns well with the category's focus on installation procedures. However, the discussion lacks depth in terms of configuration best practices and does not provide comprehensive troubleshooting guidance, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -76,24 +76,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T15:18:16",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the installation issues related to Visual Studio 2008 and personal experiences with hardware requirements. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it touches on general technology discussions and personal anecdotes about testing software. The lack of structured insights or connections to recognised frameworks supports its classification as Miscellaneous, but the technical focus on installation and hardware specifications gives it a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:27:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to installing software and hardware specifications, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -102,15 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and hardware specifications for Visual Studio 2008, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:28:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and hardware specifications for Visual Studio 2008, lacking a focus on Agile or DevOps methodologies and tools.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -124,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:28:03",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and hardware specifications for Visual Studio, with no focus on metrics or learning.",
     "level": "Ignored"
   },
@@ -151,38 +133,35 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T21:28:07",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Visual Studio and hardware specifications, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:28:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not address Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical installation instructions for Visual Studio 2008 and troubleshooting related issues. There are no direct mentions of Evidence-Based Management principles, nor does it align with the core themes such as data-informed decision-making or metrics related to value delivery. The discussion lacks depth regarding any management strategies or empirical evidence, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:28:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not address Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:28:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation issues and personal hardware requirements rather than industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical installation issues related to Visual Studio 2008 and Team Foundation Server, with no direct mention or discussion of the Agile Product Operating Model or its principles. It does not align with the core themes of APOM, such as product management or agile methodologies, and lacks any depth in discussing relevant topics.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -196,10 +175,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T21:28:14",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not address any principles or practices of BetaCodex.",
     "level": "Ignored"
   },
@@ -210,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and hardware requirements for Visual Studio 2008, with no clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:28:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:28:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and hardware requirements for Visual Studio, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:28:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and hardware requirements for Visual Studio 2008, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:28:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and hardware specifications for Visual Studio 2008, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -313,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:28:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio and personal hardware requirements, with no clear focus on DevOps principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2008 and troubleshooting related issues, with only a brief mention of Team Foundation Server. It does not engage with the core principles of DevOps, such as collaboration, automation, or shared accountability, and lacks depth in discussing any DevOps-related concepts.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -327,33 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and hardware specifications rather than engineering practices or methodologies that enhance software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:28:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to installing software and hardware specifications, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:28:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and hardware specifications for Visual Studio 2008, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:28:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and hardware requirements for Visual Studio 2008, with no focus on reviews or analyses of products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -376,22 +295,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:42:22",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the installation of Visual Studio 2008 and the need to remove conflicting software, which aligns with system configuration practices. However, it lacks depth in exploring broader configuration management techniques or optimisation strategies. The focus is primarily on troubleshooting installation issues rather than comprehensive system configuration methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues regarding the installation of software, rather than on innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -420,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses software installation issues and hardware requirements, which are not relevant to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to installing Visual Studio and does not focus on Scrum principles, roles, or product development practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to installing software and hardware requirements, unrelated to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues for Visual Studio and does not mention the Definition of Done or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on technical installation issues of software and does not discuss Agile practices or scaling. It primarily concerns individual software setup rather than Agile methodologies.",
+    "reasoning": "Content primarily discusses installation issues for Visual Studio and does not mention the Definition of Done or Agile methodologies.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +451,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installation issues and hardware requirements for Visual Studio 2008, with no discussion on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -575,24 +476,15 @@
     "reasoning": "Content primarily focuses on software installation issues and hardware specifications, with no relevant discussion on collaboration tools.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues and hardware specifications, without focusing on Agile, DevOps, or the role of software developers.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:42:22",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the installation of Visual Studio 2008 and mentions Team Foundation Server, which are relevant to software development. However, the focus is primarily on troubleshooting installation issues and personal hardware preferences rather than on software development methodologies or practices. The discussion lacks depth in terms of software engineering principles, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -623,7 +515,7 @@
     "reasoning": "Content is primarily about installation issues and hardware specifications, with no relevance to Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:38:46",
     "ai_confidence": 0,
@@ -697,11 +589,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses problems related to installing Visual Studio and computer specifications, with no focus on Continuous Delivery concepts.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2008 and troubleshooting related issues, with no direct discussion of Continuous Delivery principles or practices. While it mentions Team Foundation Server, it does not explore its role in Continuous Delivery or related automation and deployment strategies. Overall, the content does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -747,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues related to installing Visual Studio and does not discuss hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses installation issues for Visual Studio and does not relate to AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -877,10 +763,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on troubleshooting software installation issues and hardware specifications, with no relevant discussion on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -922,28 +808,28 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues related to installing software and hardware specifications, with only a brief mention of testing Team Foundation Server, which is not central to the topic.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not address the Definition of Ready for Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to installing Visual Studio and is not relevant to Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -974,15 +860,6 @@
     "reasoning": "Content primarily discusses technical installation issues related to Visual Studio and personal computer specifications, with no focus on remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical issues related to installing Visual Studio, not on scaling Kanban or related principles.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:38:46",
@@ -990,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to software installation and specifications for hardware, with no relevance to customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to installing Visual Studio 2008 and does not address any aspects of Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1093,13 +961,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:51:25",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the installation of Visual Studio 2008 Beta 2 on Windows XP, which directly relates to the Windows operating system. It mentions troubleshooting issues related to the installation process and references the Windows Installer Cleanup Utility, indicating a focus on installation and configuration. The discussion also touches on system requirements for running Windows Vista and Team Foundation Server, further aligning with the Windows category. However, while the content is relevant, it does not delve deeply into broader Windows topics such as security features or performance optimisation, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -1114,13 +982,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T19:03:47",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses specific issues encountered during the installation of Visual Studio 2008 Beta 2, including the need to remove previous versions of Office and the potential failure point related to 'Microsoft Web Designer Tools'. This aligns with troubleshooting as it identifies a problem and suggests a solution (using the Windows Installer Cleanup Utility). However, the discussion lacks depth and primarily focuses on personal experiences rather than systematic troubleshooting methodologies or tools. The mention of hardware requirements and a request for laptop recommendations, while related to the context, detracts from the primary focus on troubleshooting.",
     "level": "Secondary"
   },
@@ -1153,10 +1021,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T21:38:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and laptop specifications, with no central focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -1216,19 +1084,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T21:38:47",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses software installation issues and system specifications, with no relevance to Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T21:38:47",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses installation issues related to Visual Studio and personal computer specifications, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1277,15 +1145,6 @@
     "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not address asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:38:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to installing software and does not discuss any aspects of Scrum or scaling Scrum practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:38:47",
@@ -1322,22 +1181,16 @@
     "reasoning": "Content primarily discusses issues related to installing Visual Studio and Team Foundation Server, with no relevance to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:38:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio and hardware requirements, with no focus on scaling agility or related practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:38:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to Visual Studio installation and does not reference Scrum Master responsibilities or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical installation issues related to Visual Studio 2008 and does not discuss any aspects of the Scrum Master role, responsibilities, or related concepts. There are no direct mentions of Scrum or the Scrum Master's influence on teams or organisational change, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,20 +1213,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:38:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on installing software and hardware specifications rather than discussing Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2008 and troubleshooting related issues, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of the category, and the depth of discussion is minimal, as it does not delve into any relevant testing methodologies or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and hardware specifications, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing Visual Studio 2008 and troubleshooting related issues. While it briefly mentions Team Foundation Server, it does not engage with the core themes of social technologies such as collaboration, decision-making, or value delivery. The discussion lacks depth and does not explore any frameworks or methodologies that promote self-organisation or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1405,26 +1264,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:19:31",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to installing Visual Studio 2008 and does not mention Scrum or its principles, roles, events, or any related topics. There is no alignment with Scrum concepts, and the depth of discussion is entirely focused on installation problems rather than project management frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:48:05",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses installation issues related to Visual Studio 2008 and does not address any aspects of the Shift-Left Strategy. There are no mentions of testing, security, or compliance processes, nor any integration of these elements into the software development lifecycle. The focus is on technical setup rather than strategic development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical installation issues related to Visual Studio 2008 and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on technical installation instructions for Visual Studio 2008 and troubleshooting related issues. While there are brief mentions of testing and system requirements, it does not engage with the core themes of competence, such as continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth and does not provide substantial insights into professional capabilities or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical installation instructions for Visual Studio 2008 and troubleshooting related issues. There are no direct mentions of Continuous Improvement principles, nor does it discuss any strategies or concepts related to enhancing processes or team effectiveness. The content lacks depth in relation to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical installation instructions for Visual Studio 2008 and troubleshooting related issues. There are no direct mentions of Agentic Agility, nor does it discuss the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content lacks any depth or alignment with the core themes of Agentic Agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

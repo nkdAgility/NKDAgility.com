@@ -26,23 +26,33 @@ preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
 tags:
-- Agile Values and Principles
 - Agile Philosophy
-- Organisational Agility
 - Pragmatic Thinking
 - Software Development
+- Agile Values and Principles
+- Organisational Agility
 - Continuous Improvement
-- Agile Project Management
 - Business Agility
 - Agile Transformation
 - Continuous Learning
+- Team Performance
+- Agnostic Agile
+- Agile Leadership
+- Agile Strategy
+- Organisational Change
+- Market Adaptability
+- Organisational Culture
+- Self Organisation
+- Empirical Process Control
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself contemplating the various signs that indicate we might be veering off course. One of the most concerning signs, which I like to refer to as a plague, is the rigid adherence to tools and processes within a team. This fixation can be detrimental to our ability to truly embrace agility.

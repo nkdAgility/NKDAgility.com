@@ -28,8 +28,8 @@ aliasesArchive:
 - /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 - /resources/blog/using-multiple-email-alias-existing-microsoft-id
 tags:
-- Windows
 - Install and Configuration
+- Windows
 categories: []
 preview: nakedalm-windows-logo-7-7.png
 

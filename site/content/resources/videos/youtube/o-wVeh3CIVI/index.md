@@ -30,13 +30,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Agile Frameworks
 - Software Development
+- Social Technologies
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 **What is Scrum?**

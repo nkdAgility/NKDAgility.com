@@ -2,7 +2,7 @@
 title: 'Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development'
 description: Unlock the true power of continuous delivery! Discover how automation transforms software delivery, mitigates risks, and boosts efficiency in your organisation.
 date: 2024-12-06T06:00:00Z
-weight: 420
+weight: 355
 ResourceId: LWRAX3OyO28
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,14 +28,23 @@ isShort: false
 tags:
 - Continuous Delivery
 - Software Development
-- Product Delivery
-- Value Delivery
-- Practical Techniques and Tooling
-- Deployment Frequency
 - Frequent Releases
+- Product Delivery
 - Technical Excellence
 - Operational Practices
+- Deployment Frequency
 - Engineering Practices
+- Pragmatic Thinking
+- Value Delivery
+- Working Software
+- Automated Testing
+- Azure DevOps
+- Digital Transformation
+- Test Automation
+- Metrics and Learning
+- Market Adaptability
+- Release Management
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +53,7 @@ resourceTypes:
 categories:
 - DevOps
 - Engineering Excellence
+- Product Development
 
 ---
 If you're venturing into the realm of continuous delivery, you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the DevOps framework. 

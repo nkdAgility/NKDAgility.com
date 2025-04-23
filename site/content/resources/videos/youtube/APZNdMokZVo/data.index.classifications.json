@@ -26,65 +26,29 @@
     "reasoning": "Content primarily discusses the concept of 'definition of done' in Scrum and its importance in Agile practices, without a clear focus on leadership practices or themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:44:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'Definition of Done' in Scrum without reference to any specific events, presentations, or discussions related to Agile or DevOps gatherings.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:44:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the definition of done rather than on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T15:04:45",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of the 'definition of done' in Scrum, which relates to quality assurance and the commitment to delivering usable working products. However, while it touches on aspects of engineering excellence, such as risk mitigation and transparency, the primary focus is on Agile practices rather than broader engineering standards or continuous improvement processes. The discussion lacks depth in terms of coding standards, testing methodologies, or CI/CD practices, which are central to the category of Engineering Excellence.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T15:44:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'definition of done' in Agile and Scrum, focusing on project management and risk mitigation rather than the interplay between software code quality and complexity.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:22:33",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the concept of 'Definition of Done' within the Scrum framework, which is a key aspect of Agile product management. It highlights the importance of quality and transparency in product development, aligning with the strategic aspects of product management. However, the focus is heavily on Scrum practices rather than broader product management strategies, which limits its depth in discussing the overall role of product management. While it does touch on risk mitigation and team dynamics, it lacks a comprehensive exploration of how these elements fit into the larger context of product management methodologies and frameworks.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:45:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'definition of done' in Scrum, focusing on its importance and application rather than providing news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -113,18 +77,6 @@
     "reasoning": "Content primarily discusses the concept of 'Definition of Done' in Scrum, which is more about Agile philosophy and team practices rather than specific engineering methodologies or technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T15:04:47",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses the concept of 'Definition of Done' within the Scrum framework, which is crucial for team dynamics and collaboration. It highlights the importance of transparency and communication among team members, aligning well with the category's focus on human behaviour and structured methodologies. The depth of discussion on how this concept impacts risk mitigation and team performance further supports its relevance to the 'People and Process' category.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-03-21T18:25:28",
@@ -139,15 +91,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:01:33",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Definition of Done (DoD) within Agile and Scrum frameworks, highlighting its importance for transparency and quality delivery. While it touches on collaboration and decision-making, the primary focus is on the DoD itself rather than broader social technologies. The discussion on transparency aligns with the category, but the depth is limited to a specific Agile practice rather than a comprehensive exploration of social technologies as a whole.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -160,52 +112,55 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the definition of done and Agile practices, which are not central to Value Stream Management.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:25:49",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the Definition of Done within Agile and Scrum frameworks, which is more focused on Agile practices rather than Continuous Delivery specifically. While it touches on aspects of quality and delivery, it does not delve into Continuous Delivery principles, automation, or the broader practices that define the category. The discussion is relevant but does not meet the depth or direct focus required for a higher confidence score in Continuous Delivery.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of 'definition of done' in Scrum and its importance for quality in Agile, but does not address Test First Development or the principles of writing tests before code.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in Agile, which is related to ensuring quality and clarity in software delivery. However, it does not explicitly mention Test First Development or its principles. While it touches on risk mitigation and the importance of quality, it lacks a direct focus on testing practices, particularly automated testing or Test-Driven Development (TDD). The discussion is more centred on Agile principles rather than the specific practices of Test First Development.",
+    "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-10T11:54:43",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of the 'definition of done' in Scrum, which is a key operational practice within Agile methodologies. It highlights how this concept contributes to quality delivery and risk mitigation, aligning with the category's focus on enhancing operational efficiency. However, while it touches on relevant themes, the discussion is primarily centred on Scrum roles and principles rather than broader operational practices or techniques. The depth of discussion is moderate, focusing on a specific aspect of Agile without delving into wider operational strategies or metrics.",
     "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of 'definition of done' in Scrum and Agile practices, without references to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -256,36 +211,24 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-11T10:02:50",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the concept of 'definition of done' in Scrum, which is closely tied to transparency in Agile processes. It explicitly mentions various forms of transparency (future, present, past) and how they relate to the definition of done, highlighting the importance of visibility in understanding project progress. The discussion is detailed, providing insights into how transparency facilitates risk mitigation and decision-making. Overall, the content aligns well with the core themes of transparency, making it a primary focus.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspect of the 'Definition of Done' in Scrum without discussing leadership roles or practices within an Agile context.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-07T13:22:37",
-    "ai_confidence": 92.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 95.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "The content extensively discusses the concept of 'Definition of Done' within the Scrum framework, highlighting its critical role in ensuring quality delivery and risk mitigation. It aligns closely with Agile principles, particularly the emphasis on iterative progress and transparency. The depth of discussion is significant, covering how the Definition of Done impacts project success and team dynamics, making it a primary focus of the content.",
-    "level": "Primary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -298,33 +241,36 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the 'Definition of Done' in Scrum, which is not specifically related to the responsibilities or role of the Product Owner.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:39:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the concept of 'definition of done' in Scrum and its importance in Agile practices, without discussing Lead Time or how it relates to the delivery of value to customers.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Agile and Scrum, discussing its importance for quality and transparency. While it touches on aspects of delivery, it does not explicitly mention Lead Time or provide insights into measuring or optimising it. The discussion lacks depth regarding Lead Time as an observability metric, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T15:10:36",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Definition of Done (DoD) in Agile and Scrum, highlighting its importance for quality delivery and risk mitigation. While it does touch on strategic elements such as transparency and team alignment, the primary focus is on the DoD itself rather than broader strategic frameworks or planning. The discussion is detailed and provides practical insights, but it does not fully encompass the wider strategic themes outlined in the category definition.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -351,15 +297,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the definition of done in Scrum and Agile practices, without a focus on coaching, guidance, or development of individuals or teams.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and the concept of definition of done, which are not related to Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -400,37 +337,28 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the concept of 'definition of done' in Scrum and Agile methodologies, discussing transparency and risk mitigation, but does not primarily address the validation of product ideas through user engagement or testing.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the definition of done in Scrum and Agile methodologies, focusing on quality delivery and risk mitigation, without a clear focus on resilience or change management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concept of 'definition of done' in Scrum and its importance, which is not directly about Daily Scrum meetings.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the definition of done in Scrum and Agile practices, without a focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -463,27 +391,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T11:25:45",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of the 'definition of done' in Scrum, which indirectly relates to team collaboration by emphasising shared understanding and commitment within the team. However, the primary focus is on the concept of 'done' rather than explicit techniques or strategies for improving team dynamics or communication. While it touches on team interactions, it lacks depth in exploring collaborative practices or fostering a culture of trust, which are key aspects of the Team Collaboration category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T21:03:22",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the Definition of Done (DoD) within Agile and Scrum practices, discussing its importance for quality delivery and risk mitigation. However, it lacks direct references to metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. While it touches on transparency and team dynamics, it does not delve deeply into evidence-based decision-making or continuous improvement methodologies, which are key aspects of the category. Therefore, the confidence score reflects a moderate alignment with the category, but it is not a primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -532,10 +460,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the definition of done in Scrum and its importance in Agile practices, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -550,40 +478,31 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T21:03:22",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Definition of Done (DoD) in Agile, which indirectly relates to decision-making by emphasising quality and risk mitigation. However, it primarily focuses on Agile practices rather than structured decision-making methodologies. While it mentions transparency and risk assessment, it lacks a detailed exploration of evidence-based decision-making principles or frameworks, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum practices, particularly the definition of done, without addressing the broader aspects of product strategy such as vision, roadmapping, or market analysis.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the concept of 'definition of done' within Scrum, which is a team-level agile practice, and does not discuss strategies or practices for scaling agility at the organisational level.",
+    "reasoning": "Content heavily discusses Scrum practices, particularly the definition of done, without addressing the broader aspects of product strategy such as vision, roadmapping, or market analysis.",
     "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the definition of done in Scrum and Agile practices, with no discussion of test automation principles, tools, or practices.",
     "level": "Ignored"
   },
@@ -596,37 +515,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile practices without any significant connection to the psychological aspects of organisational behaviour.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the Definition of Done in Scrum and Agile practices without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:30:39",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Definition of Done (DoD) within the context of Scrum, highlighting its importance for team effectiveness and quality delivery. While it touches on team dynamics and communication, it primarily focuses on the DoD rather than the broader aspects of Scrum Team roles and collaboration. The discussion is relevant but lacks depth in exploring team interactions and dynamics, which are central to the Scrum Team category.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T18:04:13",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the 'Definition of Done' within the context of Scrum, which is a practical technique in Agile methodologies. It highlights its importance for quality delivery and risk mitigation, aligning with the category's focus on practical techniques. However, while it touches on Agile practices, it lacks detailed exploration of specific tools or methodologies beyond Scrum, which limits its depth. The discussion is primarily centred on the concept rather than a broader range of tooling or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -640,14 +538,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T14:08:17",
-    "ai_confidence": 72.0,
+    "calculated_at": "2025-04-10T15:52:20",
+    "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 22.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the 'Definition of Done' within the context of Scrum, which is a relevant topic for Scrum Masters. However, it primarily focuses on the concept itself rather than the broader responsibilities and practices of a Scrum Master. While it touches on the importance of transparency and risk mitigation, it lacks detailed exploration of Scrum Master techniques, coaching, or team dynamics, which are crucial for a higher confidence score.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Definition of Done, which is a crucial aspect of Scrum, but it does not explicitly focus on the role of the Scrum Master. While it touches on principles relevant to Scrum, such as transparency and risk mitigation, it lacks a direct exploration of the Scrum Master's responsibilities or influence. The discussion is more centred on Agile practices rather than the specific role of the Scrum Master, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -659,30 +557,21 @@
     "reasoning": "Content heavily discusses Scrum practices, particularly the definition of done, without addressing the broader implications of agility on organizational performance and culture.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on the concept of 'definition of done' in Scrum rather than discussing specific products or books related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concept of 'definition of done' in Scrum and its importance in ensuring quality and transparency, but it does not focus on the Sprint Review process, roles, or gathering feedback specific to the review event.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T23:35:47",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices related to the definition of done, with no focus on understanding customer needs or defining product features.",
     "level": "Ignored"
   },
@@ -703,18 +592,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and Agile practices without reference to Lean principles or methodologies.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-13T16:41:09",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) and its critical role in ensuring transparency within Agile practices. It explicitly mentions transparency as a fundamental principle in Scrum and outlines its types, which aligns well with the category's focus. The discussion on how a clear DoD fosters open communication and accountability among team members further supports the alignment. However, while the content touches on accountability, it does not delve deeply into techniques for enhancing it or provide extensive examples, which slightly lowers the depth score.",
-    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -743,15 +620,6 @@
     "reasoning": "Content heavily discusses Scrum and Agile processes, focusing on the concept of 'definition of done' rather than version control or source control practices.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the individual practice of defining 'done' without addressing scaling Agile across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
     "calculated_at": "2025-02-17T23:35:47",
@@ -763,15 +631,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-11T16:20:04",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 50.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Definition of Done (DoD) and its importance in Scrum, which relates to the value of Openness through transparency in communication and processes. It also touches on Commitment by emphasising the team's dedication to quality. However, the primary focus is on the DoD rather than the Scrum Values themselves, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -784,17 +652,17 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T15:19:00",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Definition of Done (DoD) within the context of Agile and Scrum, which is relevant to technical leadership. However, it primarily focuses on the concept of DoD rather than broader technical leadership principles. While it touches on transparency and risk mitigation, it lacks a comprehensive exploration of mentoring, team dynamics, or servant leadership, which are key aspects of technical leadership. The discussion is insightful but does not delve deeply into the leadership role itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:35:48",
     "ai_confidence": 0,
@@ -814,24 +682,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T21:04:00",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Agile and Scrum, highlighting its importance in delivering quality products and mitigating risks. It aligns well with Agile principles, particularly in relation to product management, by emphasising the need for transparency and continuous improvement. The depth of discussion on how the DoD impacts team effectiveness and product quality further supports its relevance to Agile Product Management.",
-    "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:35:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on the definition of done in Scrum and its importance for quality delivery, without discussing scaling Scrum or related frameworks and coordination among multiple teams.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -844,11 +703,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:35:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:39:20",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the definition of done in Scrum and its importance for quality delivery, without a clear focus on the measurement or optimisation of work completion rates, which is central to throughput.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Agile and Scrum, discussing its importance for quality delivery and risk mitigation. While it touches on aspects of team effectiveness and transparency, it does not explicitly mention throughput as a delivery metric or provide any analysis or visualisation of throughput. The discussion lacks depth in terms of throughput metrics, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -871,10 +733,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the Definition of Done, emphasizing its role and importance in Agile practices, specifically Scrum. It does not address the Definition of Ready or its associated themes.",
     "level": "Ignored"
   },
@@ -889,24 +751,12 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the definition of done in Scrum but does not primarily focus on Agile Planning Tools or related methodologies.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T21:03:44",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content extensively discusses the Definition of Done (DoD), a crucial aspect of Scrum that directly impacts product quality and delivery. It aligns well with Scrum principles, emphasising transparency and risk mitigation, which are core themes in Scrum product development. The depth of discussion is significant, providing insights into how the DoD influences team effectiveness and product quality, thus making it a primary focus of the content.",
-    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -928,10 +778,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of the definition of done in Scrum and Agile practices, without a focus on measuring or enhancing an organisation's capacity to innovate.",
     "level": "Ignored"
   },
@@ -946,43 +796,43 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles, events, and the concept of definition of done, which are not related to Value Stream Mapping.",
     "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-14T21:03:49",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Definition of Done (DoD) and its importance in Agile, which indirectly relates to accountability through the commitment to quality and transparency. However, it does not explicitly address accountability as a primary focus, nor does it delve deeply into team dynamics or ownership. The discussion is more centred on quality assurance and risk mitigation rather than fostering a culture of accountability within teams.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'definition of done' in Scrum, focusing on quality delivery and transparency rather than motivation strategies or team dynamics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:25:46",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum, which is a specific practice rather than a discussion on the broader Agile Product Operating Model. While it touches on principles of Agile, it does not address the key topics outlined in the APOM category, such as transitioning to a product ethos or integrating product management practices. The depth of discussion on the Definition of Done is significant, but it lacks a direct connection to the overarching themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -997,24 +847,24 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum principles, particularly the definition of done, and does not primarily address Lean Product Development or its core concepts.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T21:04:28",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Agile and Scrum, highlighting its critical role in ensuring the delivery of functional and high-quality software. It directly addresses the importance of having a clear DoD to mitigate risks and ensure that the software meets user needs, which aligns well with the core themes of working software. The depth of discussion is significant, providing practical insights and exercises for teams to assess their DoD, thus reinforcing the focus on delivering quality software.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1036,15 +886,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T21:04:05",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the Definition of Done (DoD) within Agile and Scrum methodologies, which is a critical aspect of product delivery. It discusses how the DoD ensures quality and usability of the product, aligning well with the core themes of product delivery. The depth of discussion includes practical insights on risk mitigation and transparency, which are essential for effective product delivery. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1057,79 +907,79 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T21:04:17",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the Definition of Done within the context of Scrum, which is a specific Agile framework. While it references Agile principles, such as transparency and risk mitigation, it does not deeply explore the broader Agile Philosophy or its foundational values. The discussion is more about practical application rather than the underlying mindset of Agile, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T21:03:35",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content focuses extensively on the Definition of Done (DoD) within the context of Agile and Scrum methodologies, which are key aspects of software development practices. It discusses the importance of the DoD in ensuring quality delivery, risk mitigation, and transparency in the development process. The depth of discussion includes practical exercises and insights that align well with best practices in software development, particularly in Agile frameworks. Overall, the content is highly relevant and provides substantial detail on a critical component of the software development lifecycle.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-14T21:03:22",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily discusses the importance of the Definition of Done in Scrum and Agile practices, focusing on practical aspects of implementation and risk mitigation rather than on complexity science or its principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of the definition of done in Scrum and Agile practices, without a focus on backlog refinement or related topics.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T21:04:30",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Definition of Done (DoD) as a critical aspect of Agile and Scrum, which directly impacts team effectiveness and quality delivery. It highlights the importance of transparency and risk mitigation, both of which are essential for enhancing team dynamics and collaboration. The practical exercise provided encourages team engagement and understanding, aligning well with the category's focus on team performance. However, while the content is relevant, it primarily centres on the DoD rather than broader team performance strategies, which slightly limits its depth in the context of overall team dynamics.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T21:03:52",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Definition of Done (DoD) as a critical element in Agile and Scrum, directly linking it to quality delivery and customer value. It highlights the importance of transparency and risk mitigation, which are essential for effective value delivery. The discussion is detailed, providing insights into how a well-defined DoD can enhance team effectiveness and product quality, aligning well with the core themes of the category. However, while it is focused on value delivery, it does not extensively cover all aspects of the category, such as continuous integration or value stream mapping, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-03-14T21:03:46",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 30,
-    "final_score": 81.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Definition of Done (DoD), highlighting its importance, purpose, and role in Agile and Scrum. It provides a clear definition, explains its significance in ensuring quality and transparency, and offers practical advice for teams to assess and improve their DoD. The depth of discussion is substantial, covering various aspects of the DoD, including risk mitigation and team collaboration, which aligns well with the core themes of the category.",
     "level": "Primary"
   },
@@ -1140,15 +990,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the importance of the definition of done, rather than focusing on Continuous Integration practices or principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:35:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the importance of the definition of done in Agile practices without any reference to AI or its applications.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1162,13 +1003,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T21:04:19",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Definition of Done (DoD) within the context of Agile and Scrum, highlighting its importance in delivering quality and ensuring transparency. While it references Agile principles, the focus is primarily on Scrum practices rather than the broader Agile values and principles. The discussion on risk mitigation and team understanding of DoD aligns with Agile's emphasis on collaboration and adaptability, but the content does not deeply explore the core values of the Agile Manifesto or the twelve principles of Agile software development.",
     "level": "Secondary"
   },
@@ -1181,27 +1022,15 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the technical aspects of Agile practices rather than organisational change processes.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T21:03:33",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 0,
-    "final_score": 78.0,
-    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Agile and Scrum, which are directly relevant to the role of software developers. It highlights best practices, the importance of transparency, and risk mitigation strategies that are crucial for developers in Agile environments. The depth of discussion is significant, providing practical insights and exercises for teams, which aligns well with the category's focus on enhancing developer productivity and collaboration.",
-    "level": "Secondary"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T18:25:52",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the Definition of Done within Agile and Scrum frameworks, focusing on quality and transparency rather than empirical evidence or data-informed decision-making. While it touches on aspects of risk mitigation and team effectiveness, it does not explicitly address the core themes of Evidence-Based Management, such as current value metrics or empirical decision-making. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
@@ -1216,32 +1045,35 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T21:03:25",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Definition of Done (DoD) as a critical aspect of Agile and Scrum, which directly relates to Agile Planning principles. It highlights the importance of transparency and risk mitigation, both of which are essential for effective Agile Planning. The content provides a detailed explanation of the DoD and its implications for project delivery, aligning well with the core themes of Agile Planning. However, while it is focused on Agile practices, it does not delve deeply into broader Agile Planning strategies or techniques, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the definition of done in Scrum and its importance, rather than focusing on the Product Backlog.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:35:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:39:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and the concept of 'definition of done,' which are unrelated to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the Definition of Done within Scrum, which are not directly related to system configuration. While there are mentions of quality and team effectiveness, these concepts do not align with the core themes of system configuration, such as configuration management tools or system optimisation. The discussion lacks depth in any relevant system configuration practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1264,15 +1096,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T21:04:03",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the Definition of Done (DoD) within the context of Agile and Scrum, which are key Agile frameworks. It discusses the importance of DoD in ensuring quality delivery and transparency, aligning well with Agile principles. The depth of discussion is significant, providing insights into risk mitigation and practical exercises for teams. However, while it is heavily centred on Scrum, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its alignment with the broader category of Agile Frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1294,22 +1126,22 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the definition of done in Scrum and Agile practices, with no clear relation to remote working or Agile practices in a remote context.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T21:03:58",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Definition of Done (DoD) in detail, highlighting its importance in ensuring quality delivery within Agile and Scrum frameworks. It explicitly mentions transparency, a key principle of empirical process control, and how the DoD contributes to it. The discussion on risk mitigation aligns with the need for adaptation based on feedback, which is central to empirical process control. However, while the content is focused on the DoD, it does not delve deeply into inspection techniques or provide case studies, which slightly limits its depth in the context of empirical process control.",
     "level": "Secondary"
   },
@@ -1324,15 +1156,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T21:04:08",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Definition of Done (DoD) within Agile and Scrum frameworks, highlighting its practical implications for quality delivery and risk mitigation. It provides actionable strategies for teams to assess and improve their DoD, demonstrating a strong alignment with pragmatic thinking principles. The depth of discussion is significant, offering insights into transparency and risk management, which are crucial for navigating complexity in Agile environments.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1363,46 +1195,46 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T21:04:10",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the Definition of Done (DoD), a crucial aspect of Scrum, and its role in ensuring quality delivery. It aligns well with Scrum principles, particularly in relation to transparency and risk mitigation. The depth of discussion is significant, providing practical insights and exercises for teams, which enhances understanding of Scrum practices. Overall, the content is focused on Scrum and its application, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T21:04:14",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the Definition of Done (DoD) within the context of Agile and Scrum, highlighting its importance in delivering quality products and ensuring transparency. It aligns well with Agile principles, particularly those outlined in the Agile Manifesto, and provides practical insights into risk mitigation and team assessment related to Agile practices. However, while it covers essential aspects of Agile transformation, it does not delve deeply into broader change management strategies or leadership roles, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T21:03:41",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Definition of Done (DoD) in Agile and Scrum, highlighting its importance in delivering quality and mitigating risks. While it touches on Agile principles, the primary focus is on a specific practice rather than broader strategic discussions. The content does not explicitly address organisational vision alignment or strategic planning, which are key aspects of Agile Strategy. However, it does provide a reasonable depth of discussion on the DoD and its implications for team effectiveness.",
     "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T23:35:48",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the definition of done in Scrum and its importance, rather than focusing on working agreements as norms and principles for team collaboration.",
     "level": "Ignored"
   },
@@ -1426,15 +1258,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T14:58:08",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, which is a specific practice rather than a broader discussion on organisational agility. While it touches on principles of Agile that could contribute to organisational responsiveness, it lacks a comprehensive exploration of how these practices integrate into a wider organisational context. The discussion is more about project-level practices than organisational strategies or cultural shifts that enhance agility.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1465,13 +1297,13 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-14T21:04:25",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Definition of Done (DoD) extensively, linking it to the concept of delivering a usable product increment at the end of each Sprint. It highlights the importance of the DoD in ensuring quality and transparency, which are crucial for delivering valuable increments. However, while the Increment is mentioned and its significance is implied, the primary focus remains on the DoD rather than a comprehensive exploration of the Increment itself.",
     "level": "Secondary"
   },
@@ -1504,63 +1336,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:15:02",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 40,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
+    "final_score": 92.0,
     "reasoning": "The content extensively discusses the concept of 'Definition of Done' within the context of Scrum, highlighting its critical role in ensuring quality delivery and risk mitigation. It directly references Scrum principles, such as the necessity of having a usable working product at the end of each Sprint, and elaborates on the importance of transparency in Scrum through the product backlog, Sprint backlog, and increment. The depth of discussion is significant, providing detailed insights into how the Definition of Done impacts team performance and project management in Scrum. Overall, the content aligns closely with the key topics of the Scrum category, demonstrating a strong focus on Scrum principles and practices.",
     "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:52:41",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the Definition of Done (DoD) within Agile and Scrum frameworks, focusing on quality delivery and risk mitigation. While it touches on aspects of quality assurance, it does not explicitly address the Shift-Left Strategy or its principles. The discussion is more centred on Agile practices rather than integrating testing, security, or compliance earlier in the development lifecycle, which is the core of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T18:25:31",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Definition of Done (DoD) in Agile, which is related to quality and team effectiveness. However, it primarily focuses on the DoD as a concept rather than explicitly addressing Continuous Improvement practices. While there are elements of risk mitigation and transparency that align with Continuous Improvement, the overall emphasis is more on Agile principles and the DoD itself, rather than a comprehensive exploration of Continuous Improvement strategies or frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:25:33",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Definition of Done (DoD) within Agile and Scrum, which is a specific practice rather than a discussion on Common Goals. While it touches on transparency and risk mitigation, it does not explicitly address shared objectives or alignment with strategic goals, which are central to the Common Goals category. The discussion lacks depth in connecting the DoD to overarching organisational objectives, resulting in a lower confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:25:36",
+    "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Definition of Done (DoD) in Agile, which is crucial for ensuring quality delivery and maintaining team effectiveness. It highlights the importance of a clear DoD for risk mitigation and transparency, aligning with the core themes of competence. However, while it touches on the necessity of understanding and defining quality, it does not delve deeply into continuous learning or skill development, which are central to the competence category. Therefore, the confidence score reflects a strong but not complete alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1573,5 +1405,173 @@
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, which are not directly related to the One Engineering System framework. While it touches on concepts like quality and team effectiveness, it does not discuss the integration or standardisation of engineering processes, nor does it mention 1ES principles or practices. Therefore, the alignment with the One Engineering System category is minimal.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Agile and Scrum practices, discussing its importance for quality and transparency. While it touches on concepts like risk mitigation and team effectiveness, it does not explicitly address Agentic Agility or the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the distinctions between human and AI capabilities, and it does not engage with the core themes of Agentic Agility, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T08:38:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content focuses heavily on the Definition of Done (DoD) within Agile and Scrum, which is a critical aspect of product development methodologies. It explicitly discusses the importance of the DoD in ensuring quality and usability of products, aligning closely with the principles of Agile product development. The content provides a detailed exploration of how the DoD contributes to risk mitigation and transparency, both of which are key themes in product development. Additionally, it offers practical advice for teams to assess their understanding of the DoD, demonstrating a depth of discussion that supports continuous improvement practices. Overall, the content is well-aligned with the category, making it a strong fit for discussions on product development.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T08:38:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum frameworks, discussing its importance for quality and transparency. However, it does not mention Open Space Agile or its principles, nor does it engage with the core themes of collective participation, psychological safety, or co-creation that characterise Open Space Agile. The discussion is centred around traditional Agile practices rather than the innovative aspects of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T08:38:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within the context of Scrum, discussing its importance for quality and transparency. While it touches on Agile principles, it does not explicitly mention Agnostic Agile or its core themes, such as ethical considerations or the adaptability of methods based on context. The discussion is heavily centred on Scrum mechanics rather than a broader exploration of Agnostic Agile principles, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T08:38:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum practices, which is a specific aspect of Agile methodology rather than a discussion on scaling. While it touches on concepts like transparency and risk mitigation, it does not address the complexities of scaling Agile practices, cross-team collaboration, or frameworks for scaling. Therefore, it lacks the necessary depth and alignment with the core themes of the Scaling category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T08:38:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, discussing its importance for quality delivery and transparency. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is also limited to Agile practices, which are not relevant to the Cell Structure Design category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T08:38:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, discussing its importance for quality and transparency. However, it does not mention Liberating Structures or any related facilitation techniques. The discussion is centred around traditional Agile practices rather than the inclusive engagement and collaborative techniques that Liberating Structures promote. Therefore, while there is some conceptual overlap regarding team effectiveness, the content does not align with the core themes of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T08:38:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Agile and Scrum, discussing its importance for quality delivery and risk mitigation. While it touches on aspects of delivering value, it does not explicitly address Time to Market or related metrics. The discussion lacks depth in terms of strategies for improving Time to Market or its impact on customer satisfaction, which are key topics in the category. Therefore, the confidence score reflects a low alignment with the primary focus of Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T08:39:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, discussing its importance for quality delivery and team effectiveness. While it touches on concepts like transparency and risk mitigation, it does not explicitly address the principles of treating the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth in relation to CaaP, making it more relevant to Agile practices than to the broader organisational strategy of Company as a Product.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T08:39:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum methodologies, discussing its importance for quality delivery and team effectiveness. There are no direct mentions of GitHub or its functionalities, and while it touches on Agile principles, it does not align with GitHub-specific practices or tools. The depth of discussion is centred around Agile concepts rather than GitHub, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T08:39:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Agile and Scrum, discussing its importance for quality delivery and risk mitigation. While it touches on concepts related to team effectiveness and transparency, it does not explicitly address Unrealised Value or its indicators, strategies, or case studies. The discussion lacks depth in exploring untapped opportunities or potential improvements, which are central to the category of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T08:39:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Definition of Done in Agile and Scrum, which is related to quality delivery but does not explicitly discuss Current Value or its metrics. While it touches on aspects of transparency and risk mitigation, these are not directly tied to the real-time assessment of value delivered by a product or service. The discussion lacks depth in terms of measuring Current Value or its role in decision-making, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T08:39:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum practices, discussing its importance for quality delivery and transparency. However, it does not mention Hybrid Agile or critically examine the integration of traditional project management methodologies with agile practices. The discussion lacks depth regarding the challenges and implications of Hybrid Agile, making it misaligned with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T08:39:15",
+    "ai_confidence": 52.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 27,
+    "non_ai_confidence": 10,
+    "final_score": 52.0,
+    "reasoning": "The content primarily focuses on the Definition of Done within Agile and Scrum, which is a specific aspect of Agile project management. While it discusses the importance of quality and risk mitigation, it does not cover broader project management principles, methodologies, or lifecycle phases. The discussion is detailed regarding the Definition of Done but lacks depth in other project management areas, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

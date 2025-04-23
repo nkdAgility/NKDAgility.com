@@ -1,77 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T22:00:53",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and technical solutions related to deployment processes, without a clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:28:19",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses practical tools and practices used in a specific engagement, such as TFS 2010 and WIX for building custom MSI files. However, while it mentions tools and a deployment process, the overall focus is more on personal experiences and anecdotes rather than a structured exploration of methodologies or frameworks that enhance Agile and DevOps practices. The depth of discussion on practical techniques is limited, and the content does not provide comprehensive insights or best practices that would typically be expected in this category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T06:25:55",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific engagement involving deployment solutions and build processes, which touches on aspects of platform engineering, such as improving deployment models and managing application versions. However, it lacks a direct focus on the broader principles of platform engineering, such as Internal Developer Platforms (IDPs) or automation in the application lifecycle. The discussion is more anecdotal and does not delve deeply into the core themes of platform engineering, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:36:27",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on a consultant's experience with deployment processes and tools, lacking explicit discussions on Evidence-Based Management principles. While there are mentions of efficiency and collaboration, these are not tied to empirical evidence or metrics that define EBM. The discussion does not delve into the key topics of EBM, such as current value or outcome management, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:25:28",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content briefly touches on deployment processes and issues related to code synchronisation, which are relevant to software complexity. However, it lacks a focused discussion on the principles of code quality or complexity theory. The mention of tools and practices is somewhat aligned with best practices but does not delve deeply into the relationship between code quality and complexity. Overall, while there are relevant elements, they are not the primary focus of the content.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T22:01:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific consulting engagement and technical solutions rather than focusing on discovery and learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:01:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges in consulting, with a focus on deployment processes and tools, but does not address AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T06:25:59",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses a deployment model and mentions the creation of a custom MSI file for installation, which aligns with installation processes. However, the primary focus is on personal experiences and reflections rather than providing clear, actionable instructions or detailed discussions on installation and configuration. The content lacks depth in technical details and does not cover broader configuration best practices or troubleshooting, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:01:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and technical solutions without a focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -122,38 +71,29 @@
     "reasoning": "Content primarily discusses personal experiences and technical solutions without a clear focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:01:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementations and personal experiences as a consultant, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:36:11",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a consultant's experience with improving a deployment process, which touches on aspects of collaboration and efficiency. However, it lacks a direct focus on DevOps principles, such as shared accountability or automation, and does not delve deeply into the cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T06:25:39",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses personal experiences and reflections related to consulting engagements, deployment processes, and travel considerations, which do not directly reference Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of tools and practices, they are not explored in depth or linked to established frameworks, making the content fit within the Miscellaneous category. However, the lack of explicit discussion on the category and limited depth in exploring broader themes reduces the overall confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -164,15 +104,6 @@
     "reasoning": "Content primarily discusses a consultant's experiences and technical implementations rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:01:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and client engagements rather than specific events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T22:01:15",
@@ -180,18 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and client engagements without a clear focus on flow efficiency principles or practices.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T06:26:06",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content briefly touches on the author's experience with a team and their engagement, which hints at collaboration and process improvement. However, the primary focus is on technical solutions and personal anecdotes rather than a deep exploration of team dynamics or methodologies. The mention of working with a team and the impact of the engagement suggests some alignment with the category, but it lacks substantial depth and direct discussion of human factors or structured methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -214,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T22:01:19",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and client engagements without a focus on metrics, data analysis, or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -232,15 +151,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:25:21",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses a specific engagement involving deployment processes and tools, which aligns with the principles of Technical Excellence. However, the focus is more on personal experiences and anecdotal evidence rather than a detailed exploration of engineering practices or methodologies. While there are mentions of build processes and QA, the overall depth and explicit discussion of technical excellence principles are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -262,15 +181,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T13:00:01",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific engagement involving deployment solutions and build processes, which aligns with product delivery practices. However, it lacks a comprehensive exploration of methodologies or best practices, focusing more on personal experiences and anecdotes rather than structured discussions on product delivery principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -290,50 +209,41 @@
     "reasoning": "Content primarily discusses personal experiences and challenges faced as a consultant, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges faced as a consultant, with no clear focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T06:25:34",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific engagement with a client and highlights improvements in deployment processes, which aligns with value delivery principles. However, it lacks a broader discussion on methodologies or strategies for continuous value delivery, focusing more on personal experiences and technical implementations without a strong connection to the core themes of value delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T06:25:36",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content mentions TFS (Team Foundation Server), which is part of the Azure DevOps suite, and discusses deployment processes and build automation. However, it lacks a focused discussion on Azure DevOps as a whole and does not delve into specific functionalities or best practices associated with Azure DevOps. The primary focus is on personal experiences and anecdotal evidence rather than a structured exploration of Azure DevOps tools and methodologies.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T14:59:21",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content includes personal reflections on a consulting engagement, sharing insights about the challenges faced and the positive outcomes achieved. It discusses personal experiences with a specific team and the impact of the work done, which aligns with the Personal category. However, the focus is somewhat diluted by technical details about deployment processes and tools, which detracts from the personal narrative aspect.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -346,10 +256,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T22:01:37",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and challenges faced as a consultant, with a focus on specific tools and practices rather than the overarching principles of the One Engineering System.",
     "level": "Ignored"
   },
@@ -374,26 +284,17 @@
     "reasoning": "Content primarily discusses personal experiences and technical solutions related to deployment processes, without a clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T22:01:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and reflections on consulting engagements rather than industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:26:08",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific engagement involving deployment solutions and tools, which aligns with aspects of Application Lifecycle Management, particularly in deployment and maintenance. However, it lacks a comprehensive exploration of the lifecycle stages, governance, or metrics, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -406,45 +307,45 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences and challenges as a consultant, without addressing any principles or criteria related to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:02:31",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific engagement involving deployment solutions and tools, which aligns with technical practices. However, it primarily focuses on personal experiences and client interactions rather than delving deeply into best practices or methodologies of software craftsmanship. The mention of tools and processes is relevant but lacks comprehensive detail on principles of clean code or software architecture.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on consultancy experiences and technical deployment processes without discussing user needs or product feature definition.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:36:29",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses a transformation of a deployment process and mentions tools and practices related to deployment, which aligns with Continuous Delivery principles. However, it lacks a direct focus on Continuous Delivery as a primary topic and does not delve deeply into the core themes such as automation, rapid feedback, or cultural aspects. The discussion is more anecdotal and does not provide extensive detail on Continuous Delivery practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -475,10 +376,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a consultant's experiences, customer engagement, and technical solutions rather than on the Definition of Ready or its associated criteria.",
     "level": "Ignored"
   },
@@ -493,10 +394,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on consulting engagements, deployment solutions, and experiences rather than discussing the Product Backlog.",
     "level": "Ignored"
   },
@@ -520,31 +421,31 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses specific client engagements and personal experiences without focusing on the practices or mechanisms of integrating customer feedback into product development.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T15:06:57",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical improvements in deployment processes and tools, specifically mentioning a build process and QA practices, which align with operational efficiency. However, it lacks a structured focus on broader operational practices and methodologies like Agile or DevOps, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences as a consultant and deployment processes without focusing on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -568,10 +469,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses personal experiences and client interactions without focus on methodologies for validating product ideas through user feedback or testing.",
     "level": "Ignored"
   },
@@ -604,10 +505,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a consultant's experience and technical solutions with clients, rather than direct strategies or methodologies aimed at enhancing team performance or collaboration. Team dynamics are not the focus.",
     "level": "Ignored"
   },
@@ -622,40 +523,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a consultant's personal experiences with deployment processes and customer interactions, without discussing Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T06:25:23",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a specific engagement involving deployment solutions and build processes, which aligns with software development practices. However, the primary focus is on personal experiences and client interactions rather than a detailed exploration of methodologies or best practices in software development. The mention of tools and practices is relevant, but the overall depth and explicit discussion of software development concepts are limited.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a consultant's experience with software deployment and not Agile project management principles, roles, or methodologies.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses specific tools and practices used in a consulting engagement, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -670,22 +562,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T06:25:42",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on issues related to version control, such as divergent versions and managing branches, but lacks a focused discussion on modern source control practices. While it mentions tools and processes, it does not delve into specific methodologies or best practices, which are crucial for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and client engagements without a clear emphasis on empirical process control principles or Agile methodology.",
     "level": "Ignored"
   },
@@ -736,36 +628,27 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T06:25:19",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific engagement involving deployment processes and tools, but it lacks a direct focus on frequent releases as a primary topic. While it touches on aspects of deployment and build processes, it does not delve into continuous delivery or the principles of frequent releases in detail. The mention of a build process and the challenges faced by the company hints at the importance of release frequency, but it does not provide a comprehensive exploration of the category's key topics.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T06:25:25",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content includes a brief mention of customer feedback through an email expressing gratitude for assistance, which indicates some level of customer satisfaction. However, the primary focus is on technical implementation details and personal experiences rather than a thorough exploration of customer satisfaction principles or practices. While there is some alignment with the category through the mention of customer engagement and the positive impact of the consultant's work, the depth of discussion on customer satisfaction strategies and methodologies is limited.",
     "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses consulting work related to tool implementation and deployment processes without any specific mention of Scrum principles, practices, or scaling methodologies.",
-    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -785,26 +668,17 @@
     "reasoning": "Content primarily discusses a specific consultant's experience with an engagement and technical deployment issues, without a focus on psychological safety or the themes associated with it.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal experiences as a consultant with specific customers and technical deployments, rather than on strategies for scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:59:58",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific engagement focused on improving deployment processes and mentions tools and practices, which aligns with engineering excellence. However, it lacks a detailed exploration of best practices or principles of software craftsmanship, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -835,22 +709,22 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's experience as a consultant on technical solutions, focusing on deployment processes rather than customer retention strategies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:47:22",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical problem-solving in a real-world context, particularly in relation to deployment processes and collaboration with clients. It highlights specific tools and practices used to address deployment issues, which aligns with the core themes of Pragmatic Thinking. However, while it mentions experiences and outcomes, the depth of discussion on Agile or Scrum methodologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -865,37 +739,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on a specific case of consulting engagements and does not discuss the broader themes of measuring or enhancing innovation capabilities, frameworks, or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting work and deployment tools without a clear focus on Scrum principles, roles, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses individual engagement experiences and solutions involving tools and deployment processes, lacking a focus on Agile scaling or coordination among multiple teams.",
+    "reasoning": "The content focuses on a specific case of consulting engagements and does not discuss the broader themes of measuring or enhancing innovation capabilities, frameworks, or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical processes and solutions related to software deployment and consulting, with no significant discussion on employee engagement or motivation.",
     "level": "Ignored"
   },
@@ -910,10 +766,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the author's consulting experience and deployment processes rather than focusing on test automation principles, practices or tools.",
     "level": "Ignored"
   },
@@ -928,15 +784,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:25:48",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses a specific engagement with a client regarding deployment solutions and mentions the successful implementation of a build process, which aligns with the delivery of functional software. However, the primary focus is on personal experiences and travel considerations rather than a detailed exploration of working software principles or practices. The discussion lacks depth in terms of best practices or metrics for assessing software quality.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -949,13 +805,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T06:25:44",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on deployment processes and mentions a build process, which relates to Continuous Integration. However, it lacks a focused discussion on CI principles, best practices, or tools. The mention of a build process is relevant but not detailed enough to constitute a primary focus on CI. Overall, while there are elements related to CI, they are secondary to the broader narrative about consulting and personal experiences.",
     "level": "Ignored"
   },
@@ -988,10 +844,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and practices related to consulting, deployment processes, and client engagements without focusing on Site Reliability Engineering principles.",
     "level": "Ignored"
   },
@@ -1024,22 +880,22 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T10:37:24",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific engagement involving deployment solutions and build processes, which are relevant to release management. However, it lacks a comprehensive exploration of release management strategies, practices, or metrics. The focus is more on personal experiences and anecdotes rather than a structured discussion on release management principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a consultancy experience involving technical implementations rather than the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1063,13 +919,13 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T06:25:46",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific engagement focused on improving deployment processes, mentioning issues with divergent versions and a manual deployment model. However, it lacks a direct focus on deployment frequency as a primary topic, and while it touches on related practices, it does not delve deeply into strategies or metrics for optimising deployment intervals.",
     "level": "Ignored"
   },
@@ -1084,13 +940,13 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T06:25:50",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on collaboration with a team and mentions tools and practices, but it primarily focuses on individual experiences and outcomes rather than exploring team dynamics or communication in depth. The discussion lacks explicit references to Agile, Scrum, or DevOps principles, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
@@ -1105,17 +961,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T06:25:30",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific engagement involving the deployment of solutions in Microsoft Dynamics, which hints at the use of digital technologies. However, it lacks a direct focus on broader digital transformation strategies or frameworks. While there are mentions of improving processes and tools, the discussion is more anecdotal and does not delve deeply into the strategic implications or challenges of digital transformation. The content primarily revolves around a personal experience rather than a comprehensive exploration of digital transformation themes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:42:03",
     "ai_confidence": 0,
@@ -1124,33 +980,24 @@
     "reasoning": "Content is primarily about consulting engagements and deployment solutions rather than discussing Minimum Viable Products or associated topics.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a consultant's experiences with deployment processes and team collaboration, but does not focus on AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T06:26:12",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific engagement involving deployment solutions and build processes, which aligns with system configuration principles. It mentions tools and practices related to deployment, such as creating custom MSI files and managing database synchronisation, which are relevant to system configuration. However, the overall focus is more on personal experiences and anecdotes rather than a detailed exploration of system configuration methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's consulting experiences and technical solutions rather than product strategy, vision formulation, or market analysis.",
     "level": "Ignored"
   },
@@ -1183,11 +1030,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:13:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consultant experiences and challenges with deployment and build processes, with little to no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a consultant's experience with deployment processes and tools, with no explicit mention of Test First Development principles or practices. While there is a brief reference to QA processes, it lacks depth and does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,13 +1051,13 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T06:25:53",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions deployment issues and a build process involving MSI files, which relates to deployment strategies. However, it lacks a focused discussion on specific methodologies like Blue-Green Deployments or Canary Releases. The mention of a 'manual and error-prone deployment model' hints at deployment challenges but does not delve into actionable strategies or detailed practices. Overall, while there are relevant elements, the primary focus is not on deployment strategies, leading to a moderate confidence score.",
     "level": "Ignored"
   },
@@ -1222,19 +1072,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation, tools (TFS, WIX, MTM), and personal experiences rather than team motivation strategies or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses consulting experiences, deployment models, and personal travel considerations without a focus on remote work practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1249,15 +1099,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T06:26:01",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific engagement where the author helped a client resolve issues related to divergent application versions and a complicated deployment model. While it touches on troubleshooting aspects, such as the creation of a build process and addressing database synchronisation issues, the primary focus is more on the author's experiences and reflections rather than a systematic approach to troubleshooting. The depth of discussion on troubleshooting techniques is limited, and the content does not provide extensive methodologies or tools for diagnosing problems, which lowers the overall confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1270,11 +1120,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting roles, tools and practices related to software deployment, and personal experiences rather than focusing on the Scrum Master role or related responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a consultant's experience with deployment processes and tools, with no direct mention of Scrum Master responsibilities or concepts. While it touches on collaboration and efficiency, it lacks depth in discussing the Scrum framework or the role of a Scrum Master, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1288,23 +1141,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences and technical achievements rather than on working agreements, teamwork, or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:25:19",
-    "ai_confidence": 45.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 40.0,
-    "reasoning": "The content discusses a specific engagement with a client involving deployment processes and tools, which relates to software development. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more anecdotal than analytical. While there are mentions of tools and practices, the depth of discussion on Agile principles or developer roles is limited.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1318,13 +1159,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:26:10",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on deployment processes and mentions tools and practices, but it lacks a focused discussion on core engineering practices such as clean code, TDD, or CI/CD. The primary narrative revolves around personal experiences and client interactions rather than a detailed exploration of Agile engineering methodologies.",
     "level": "Ignored"
   },
@@ -1348,10 +1189,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience as a consultant rather than focusing on product management methodologies, frameworks, or strategic alignment. The emphasis is on technical solutions and individual client experiences, which do not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1402,10 +1243,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses deployment processes and client engagements without mentioning Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1427,15 +1268,6 @@
     "reasoning": "Content primarily discusses personal experiences and technical implementations rather than focusing on accountability in Agile practices or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses deployment solutions for Microsoft Dynamics and personal experiences rather than the principles or practices of Scaling Kanban.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T22:42:03",
@@ -1447,22 +1279,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T22:42:03",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses client engagements and deployment processes without reference to TDD principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:39:30",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a consultant's experience with deployment processes and tools, with only brief mentions of collaboration and efficiency. While it touches on practices that could relate to social technologies, it lacks a thorough exploration of self-organisation, collective intelligence, or transparency within teams. The discussion is more technical and anecdotal rather than a deep dive into social frameworks or methodologies that promote collaboration and decision-making.",
     "level": "Ignored"
   },
@@ -1495,62 +1327,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:25:19",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses a consultant's experience with deployment solutions and does not explicitly mention Scrum principles, roles, or events. While there is a focus on team collaboration and problem-solving, it lacks direct references to the Scrum framework or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:30:06",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on a personal experience as a consultant and does not explicitly discuss the Shift-Left Strategy. While there are mentions of tools and practices related to deployment and QA processes, these are not framed within the context of integrating testing, security, or compliance earlier in the development lifecycle. The discussion lacks depth and does not provide a clear alignment with the core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:36:14",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a consultant's experience in improving a deployment process, which hints at elements of Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a structured approach to enhancing processes. The focus is more on a specific success story rather than a broader exploration of Continuous Improvement concepts.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:36:17",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on a personal experience of a consultant and their engagement with a client, discussing specific tools and practices rather than the concept of Common Goals. While there are mentions of collaboration and efficiency, these are not explicitly tied to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks depth in exploring how these experiences relate to overarching organisational goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:36:19",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content discusses a consultant's experience in improving a deployment process, which touches on competence through the mention of training and enhancing efficiency. However, it lacks a focused discussion on continuous learning or the broader implications of competence in Agile or DevOps methodologies. The primary focus is on the specific project and tools used rather than a deep exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a consultant's experience with a deployment process and does not explicitly address Agentic Agility. While there are elements of adaptability and problem-solving, the focus is on specific tools and practices rather than the intentional shaping of outcomes or the interplay between human and AI capabilities. The mention of a successful deployment does not delve into the principles of Agentic Agility or provide a detailed exploration of its concepts.",
     "level": "Ignored"
   }
 }

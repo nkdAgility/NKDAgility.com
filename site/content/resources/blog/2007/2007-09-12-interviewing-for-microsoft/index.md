@@ -9,7 +9,7 @@ ResourceImportId: 315
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-12
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/interviewing-for-microsoft
 tags:
 - Personal
-- Windows
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

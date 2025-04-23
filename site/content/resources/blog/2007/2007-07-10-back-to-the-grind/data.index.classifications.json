@@ -80,15 +80,6 @@
     "reasoning": "Content primarily focuses on personal experiences related to paternity leave and returning to work, with no connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:45:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and returning to work, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:45:18",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences related to paternity leave and returning to work, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:45:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and does not address any practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:45:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not address any principles or practices of Evidence-Based Management.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not mention or align with any concepts related to Evidence-Based Management. There are no discussions on metrics, data-informed decision-making, or any of the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:45:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal in nature, discussing paternity leave and does not address Agile principles or product development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:45:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences related to paternity leave, with no relevant discussion on Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not mention or align with any aspects of the Agile Product Operating Model. There is no discussion of agile methodologies, product management principles, or any related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,42 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and does not relate to platform engineering or its principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:45:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal in nature, discussing paternity leave and returning to work, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:45:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not address software code or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:45:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:45:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not address transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -280,13 +223,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T13:23:00",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 50.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 30,
-    "final_score": 62.0,
+    "final_score": 65.0,
     "reasoning": "The content reflects a personal experience related to paternity leave, which aligns with the Personal category. While it does not explicitly discuss Agile, Scrum, or DevOps, it provides a personal anecdote about returning to work after a significant life event. The depth of discussion is moderate, focusing on the emotional aspect of the transition back to work, which can relate to broader themes of work-life balance in Agile environments.",
     "level": "Secondary"
   },
@@ -310,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:45:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not address any DevOps principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the themes of collaboration, automation, or shared accountability are absent. The content lacks depth in relation to the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not address any technical practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:45:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences related to paternity leave and does not discuss team dynamics, collaboration, or any structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:45:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences related to paternity leave and returning to work, with no discussion on discovery, learning, or related methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:45:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not address any products, books, or Agile/DevOps topics.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -382,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:30",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences related to paternity leave and returning to work, with no mention of innovation capabilities or related topics.",
     "level": "Ignored"
   },
@@ -414,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is a personal reflection on paternity leave and returning to work, with no discussion of portfolio management topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is personal and does not discuss Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -490,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:30",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is a personal reflection on returning to work after paternity leave and does not discuss the Definition of Done or related Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences related to paternity leave and does not discuss any topics related to Scaled Agile or Agile methodologies.",
+    "reasoning": "Content is a personal reflection on returning to work after paternity leave and does not discuss the Definition of Done or related Agile principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -569,15 +470,6 @@
     "reasoning": "Content is primarily personal and does not discuss tools or collaboration within Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal in nature and does not discuss software development topics related to Agile, DevOps, or any relevant practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-17T08:18:30",
@@ -614,7 +506,7 @@
     "reasoning": "Content is primarily personal and does not discuss estimation or related techniques in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:30",
     "ai_confidence": 0,
@@ -688,19 +580,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not mention Continuous Delivery or related concepts. There is no discussion of software delivery practices, automation, or any relevant themes associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:18:30",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a personal experience related to paternity leave and returning to work, with no mention or relevance to Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -738,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and returning to work after paternity leave, with no mention of hypothesis formulation, experimentation, or product development principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about personal experiences and does not discuss AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -922,10 +808,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:30",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily a personal reflection on returning to work after paternity leave and does not address the Definition of Ready or related Agile concepts.",
     "level": "Ignored"
   },
@@ -965,15 +851,6 @@
     "reasoning": "Content primarily discusses personal experiences related to paternity leave and returning to work, with no clear focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and is not related to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:18:30",
@@ -981,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is a personal reflection on returning to work after paternity leave and does not discuss customer retention strategies or related topics.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal experiences and a return to work after paternity leave, with no discussion of Agile methodologies or project management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1012,10 +880,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:18:30",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal leave and returning to work, with no relevance to Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1084,10 +952,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T08:18:30",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and does not relate to the Windows operating system.",
     "level": "Ignored"
   },
@@ -1262,15 +1130,6 @@
     "reasoning": "Content primarily focuses on personal experiences and paternity leave, with no discussion relevant to asynchronous development.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and does not discuss Scaling Scrum or any related topics.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:18:30",
@@ -1307,22 +1166,16 @@
     "reasoning": "Content discusses personal experiences unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences related to paternity leave and does not address any topics related to Scaling Agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is personal in nature and does not discuss any aspects related to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to paternity leave and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. There is no alignment with the key topics outlined for the Scrum Master category, and the depth of discussion is non-existent regarding Scrum principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1345,20 +1198,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and returning to work, with no mention of Test First Development or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not mention or discuss any principles or practices related to Test First Development. There are no references to success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to paternity leave and does not address any frameworks or principles of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to paternity leave and does not discuss any aspects of social technologies, collaboration, or decision-making within organisations. There are no direct mentions or relevant themes that align with the category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1390,13 +1249,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:20:13",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on personal experiences and does not align with the principles, practices, or frameworks of Scrum.",
     "level": "Ignored"
   },
@@ -1410,6 +1269,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is a personal reflection on returning to work after paternity leave and does not discuss any aspects of the Shift-Left Strategy or related software development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to paternity leave and does not discuss any aspects of Common Goals, Agile, or DevOps. There are no direct mentions of shared objectives or alignment with organisational strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not discuss competence, continuous learning, or any related themes. There are no direct mentions of competence or its importance in professional settings, and the depth of discussion is minimal, lacking any relevant detail.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes of the category. The depth of discussion is minimal, as it lacks any relevant detail or context related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal reflections regarding paternity leave and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

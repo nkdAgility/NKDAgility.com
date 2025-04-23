@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T11:37:18",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than Agile product management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:55:01",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed exploration of using PowerShell to interact with the TFS 2013 API, which directly aligns with practical techniques and tooling in Agile and DevOps contexts. It discusses specific PowerShell commands and functions, demonstrating how to implement these tools effectively. The depth of discussion is significant, with multiple code examples and explanations of their purposes, showcasing a strong understanding of the tooling involved. The content is primarily focused on practical application rather than theoretical concepts, making it a strong fit for the category.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:33:12",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on using PowerShell with the TFS 2013 API, detailing technical implementations and functions without any discussion on Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The content lacks alignment with the core themes of EBM, and the depth of discussion is entirely technical, with no reference to empirical evidence or management strategies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:37:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific code implementations and functions without addressing the complexities of software development processes or code quality principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T11:37:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of using PowerShell with the TFS 2013 API, without a clear emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:43:53",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed guide on using PowerShell to interact with the TFS 2013 API, which includes installation steps for necessary assemblies and configuration of TFS services. It explicitly discusses the process of connecting to TFS collections and configuring various services, aligning well with the core themes of installation and configuration. The depth of discussion is significant, with multiple code examples and explanations of their purpose, indicating a strong focus on actionable instructions for setup and configuration.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:37:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content heavily discusses the technical implementation of PowerShell scripts for interacting with the TFS 2013 API, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:37:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical implementations of PowerShell with TFS API, lacking focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:32:59",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more aligned with specific tooling and scripting rather than the broader DevOps philosophy. While it touches on aspects of automation and integration with TFS, it lacks a discussion on the cultural and collaborative principles of DevOps. The depth of technical detail is significant, but it does not engage with the core themes of DevOps such as shared accountability or continuous improvement.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations of PowerShell with TFS API, lacking focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:37:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T11:37:45",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:37:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical aspects of using PowerShell with the TFS 2013 API, with no significant discussion on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:37:50",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than metrics, learning, or continuous improvement principles.",
     "level": "Ignored"
   },
@@ -220,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T17:59:18",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which involves technical implementation details and scripting practices. However, it lacks a direct discussion on broader engineering practices or methodologies that enhance agility in software development, such as TDD, CI/CD, or modular architecture. While it touches on technical aspects, it does not delve deeply into the principles of technical excellence as defined in the category, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -268,20 +193,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T11:38:00",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:38:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses using PowerShell with the TFS 2013 API, focusing on technical implementation rather than reviews or discussions of products or literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -295,13 +211,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T04:47:07",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the TFS 2013 API and PowerShell interactions, which are related to Azure DevOps but do not explicitly mention Azure DevOps itself. While it touches on functionalities relevant to Azure DevOps, such as work item tracking and version control, the focus is more on the TFS API rather than Azure DevOps as a suite of tools. Therefore, the direct mentions are low, but there is some conceptual alignment and depth in discussing TFS functionalities.",
     "level": "Ignored"
   },
@@ -325,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:38:09",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using PowerShell to interact with the TFS 2013 API, which does not align with the principles or discussions related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:33:09",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on using PowerShell with the TFS 2013 API, discussing technical aspects of managing TFS collections and services. It does not mention or align with the Agile Product Operating Model, its principles, or any related topics. The discussion is strictly technical and does not address product management or agile methodologies.",
     "level": "Ignored"
   },
@@ -353,24 +269,15 @@
     "reasoning": "Content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing technical implementations rather than discussing organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:38:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details and PowerShell scripting for TFS API, lacking discussions on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T04:47:05",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is related to software development but does not explicitly discuss the stages of the application lifecycle or best practices for application governance. While it touches on aspects of project management and configuration, it lacks a comprehensive exploration of Application Lifecycle Management principles, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
@@ -385,22 +292,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API and does not address the Definition of Done or Agile/Scrum concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T14:46:39",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which aligns with technical mastery in software craftsmanship and engineering practices. It discusses best practices for importing assemblies, connecting to TFS services, and using various API functionalities, demonstrating a solid understanding of software design principles. However, while it provides detailed code examples and explanations, it lacks a broader discussion on clean code principles or testing methodologies, which slightly lowers the alignment and depth scores.",
     "level": "Secondary"
   },
@@ -415,13 +322,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:33:16",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and code snippets for managing TFS collections and services. While it touches on aspects of software development, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of TFS (Team Foundation Server) and its API does not align with the core themes of Continuous Delivery, such as automation in testing and deployment, or rapid feedback from users. Overall, the content lacks depth in discussing Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -454,19 +361,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of PowerShell with TFS API, focusing on technical implementation and usage, not on backlog item readiness or the Definition of Ready.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on using PowerShell to interact with the TFS 2013 API and does not discuss portfolio management practices, methodologies, or principles.",
     "level": "Ignored"
   },
@@ -517,10 +424,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on using PowerShell to interact with the TFS 2013 API, which does not relate to the dynamics, roles, or collaboration techniques within a Scrum Team.",
     "level": "Ignored"
   },
@@ -580,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical aspects and API detail rather than team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -607,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T11:52:20",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is a software development practice. It discusses specific coding techniques, such as importing assemblies and creating functions to connect to TFS services, aligning well with best practices in coding and software design. The depth of discussion is significant, providing detailed code examples and explanations of various TFS components, which enhances its relevance to software development methodologies. Overall, the content is highly relevant to the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses using PowerShell with the TFS 2013 API, focusing on code and operations without delving into Agile principles or frameworks.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses using PowerShell with the TFS 2013 API, focusing on technical implementations and scripting rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -646,22 +544,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T10:26:41",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses using PowerShell to interact with the TFS 2013 API, which is a version control system. It includes specific references to version control services and functionalities, such as connecting to TFS Version Control and managing work items. However, while it touches on relevant topics, the depth of discussion on best practices, methodologies, or strategies for modern source control is limited, focusing more on technical implementation rather than broader principles or workflows.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using PowerShell to interact with the TFS 2013 API, with no significant discussion on empirical process control concepts such as transparency, inspection, or adaptation within Agile methodology.",
     "level": "Ignored"
   },
@@ -694,10 +592,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses using PowerShell to interact with TFS 2013 API, which is focused on technical implementation rather than organisational change processes.",
     "level": "Ignored"
   },
@@ -728,21 +626,12 @@
     "reasoning": "Content heavily discusses using PowerShell with the TFS 2013 API, focusing on technical implementation details without any mention of customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with the TFS 2013 API and does not address any aspects of Scaling Scrum, frameworks for scaling, or related topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of using PowerShell with TFS 2013 API, without reference to leadership or evidence-based practices.",
     "level": "Ignored"
   },
@@ -755,24 +644,15 @@
     "reasoning": "Content primarily focuses on using PowerShell with the TFS 2013 API, detailing technical steps and functions without any relevant discussion on psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on using PowerShell to interact with the TFS API, which does not relate to scaling agile principles or practices across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T04:47:01",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more about practical implementation than discussing engineering excellence or best practices in software craftsmanship. While it touches on aspects of software development, such as connecting to services and using APIs, it lacks a strong emphasis on principles of quality assurance, coding standards, or continuous improvement processes that define engineering excellence. The depth of technical detail is present, but it does not align closely with the core themes of the category.",
     "level": "Ignored"
   },
@@ -832,29 +712,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses how to interact with the TFS 2013 API using PowerShell, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on using PowerShell with the TFS API, which is unrelated to Scrum practices or product development methodologies. There is no discussion of Scrum roles, events, product backlogs, or iterative development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on using PowerShell to interact with the TFS 2013 API and does not discuss scaling Agile practices or methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -895,13 +757,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:47:01",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is a technical implementation rather than a discussion on working software principles. While it touches on aspects of functionality and operational software, it lacks a direct emphasis on delivering high-quality software that meets user needs or business objectives. The discussion is more about technical execution than the broader themes of working software in Agile or Scrum contexts.",
     "level": "Ignored"
   },
@@ -988,10 +850,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using PowerShell with the TFS 2013 API for technical implementations and does not discuss Release Management practices or processes.",
     "level": "Ignored"
   },
@@ -1033,19 +895,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on using PowerShell to interact with the TFS 2013 API and does not discuss change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than team collaboration dynamics.",
     "level": "Ignored"
   },
@@ -1067,7 +929,7 @@
     "reasoning": "Content focuses on PowerShell usage with TFS 2013 API without discussing strategic adoption or integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:30:40",
     "ai_confidence": 0,
@@ -1076,24 +938,15 @@
     "reasoning": "The content focuses on using PowerShell to interact with the TFS 2013 API, which does not directly discuss Minimum Viable Products, product development, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on PowerShell interactions with the TFS API and does not discuss AI in any context.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T18:36:11",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on using PowerShell to configure and interact with the TFS 2013 API, which aligns well with system configuration practices. It discusses importing assemblies, connecting to TFS collections, and accessing various services, all of which are essential for configuring a system to work with TFS. The depth of discussion is significant, providing detailed code examples and explanations of how to set up and manage TFS configurations. However, while it is focused on configuration, it does not delve into broader system optimisation or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -1126,33 +979,36 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on using PowerShell to interact with the TFS 2013 API, discussing technical implementations and scripting without mentioning cross-functional teams or related Agile concepts.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on using PowerShell with the TFS API to perform tasks and does not discuss Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing how to manage TFS collections and services. There is no mention of Test First Development principles, success criteria, or testing practices. The discussion is centred around API usage and scripting, which does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T04:47:03",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses using PowerShell to interact with the TFS 2013 API, which is relevant to Windows as TFS is a Microsoft product that operates within the Windows environment. However, the focus is more on PowerShell scripting and TFS functionalities rather than on Windows-specific topics like installation, configuration, or troubleshooting of the Windows operating system itself. While there are mentions of Windows paths and assemblies, the overall discussion does not deeply engage with the core themes of the Windows category, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1174,19 +1030,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details about using PowerShell with TFS APIs and does not address team dynamics, motivation, or engagement strategies.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on using PowerShell with the TFS API for project management tasks and does not discuss remote working practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1219,11 +1075,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of PowerShell with the TFS 2013 API, focusing on technical implementation and scripting rather than the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on using PowerShell with the TFS 2013 API, discussing technical aspects of managing TFS collections and services. There are no direct mentions of the Scrum Master role, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The discussion is entirely technical and does not touch upon the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1237,23 +1096,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on using PowerShell with the TFS 2013 API and does not discuss working agreements, teamwork, or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T04:47:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is a technical topic relevant to software developers. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it provides detailed code examples and explanations, it does not delve into how these practices enhance productivity or collaboration among developers, which is a key aspect of the category. Therefore, while it is relevant to software developers, it does not fully align with the core themes of the category.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1294,10 +1141,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T20:30:40",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of using PowerShell with the TFS API, without any discussion on strategic product management concepts.",
     "level": "Ignored"
   },
@@ -1330,10 +1177,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T04:47:01",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content primarily discusses the TFS 2013 API and PowerShell scripting for interacting with TFS, which is related to source control but does not specifically focus on Azure Repos. It lacks a clear emphasis on Azure Repos functionalities, best practices, or integration, making it not relevant enough.",
     "level": "Ignored"
   },
@@ -1373,15 +1220,6 @@
     "reasoning": "Content primarily focuses on using PowerShell to interact with TFS 2013 API, with no discussion of accountability, team dynamics, or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses using PowerShell to interact with the TFS 2013 API, with no mention of Kanban principles, scaling Kanban practices, or any related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:30:40",
@@ -1411,13 +1249,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:29:24",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing technical implementations and code examples. While it mentions TFS and its components, it does not discuss collaboration, decision-making, or value delivery in the context of social technologies. The discussion lacks depth in social frameworks and does not align with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1441,37 +1279,37 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:38:29",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, with no direct mentions of Scrum principles, roles, events, or artifacts. While TFS can be related to Scrum in terms of project management, the discussion does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is technical and specific to TFS API usage, lacking any reference to Scrum practices or frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:20:19",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and assemblies without discussing the Shift-Left Strategy or its principles. There are no mentions of integrating testing, security, or compliance early in the development process, nor any techniques or case studies related to Shift-Left practices. The content is more about technical implementation rather than strategic discussions relevant to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:33:02",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and code examples. While there is a mention of building a library of PowerShell statements, which could imply a form of iterative improvement, the overall discussion lacks a clear emphasis on Continuous Improvement principles such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide substantial depth or alignment with the key topics outlined for Continuous Improvement.",
     "level": "Ignored"
   },
@@ -1489,14 +1327,26 @@
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:33:06",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for using PowerShell with the TFS 2013 API. While it demonstrates a level of competence in programming and API interaction, it does not explicitly discuss the importance of continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of building a library of PowerShell statements hints at skill development but lacks depth and direct alignment with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, detailing specific functions and code snippets. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

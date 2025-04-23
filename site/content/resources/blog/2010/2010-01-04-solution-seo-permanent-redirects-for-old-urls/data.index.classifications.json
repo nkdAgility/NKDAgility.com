@@ -1,105 +1,54 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T01:41:47",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of URL redirection and database interactions, with no clear relation to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:41:01",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed exploration of practical techniques for implementing SEO permanent redirects using various tools and methodologies, including IIS7 URL Rewrite Module and UrlRewritingNet. It discusses specific coding examples, configuration settings, and best practices, aligning well with the category's focus on practical application and tooling in a technical context.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T01:41:50",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques, with no clear focus on platform engineering principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:05:25",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on SEO strategies and technical implementations for URL redirection, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:18:24",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses various coding practices related to URL redirection and the use of SQL for dynamic URL rewriting. While it touches on aspects of code quality and complexity, such as performance considerations and maintainability, the primary focus is on implementation details rather than a broader exploration of code quality principles or complexity theory. The depth of discussion is moderate, with practical examples provided, but it lacks a comprehensive analysis of the interplay between code quality and complexity as defined in the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:41:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to SEO and URL redirection, with no clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses SEO and URL redirection techniques, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T01:41:58",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques without any reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T15:05:17",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a comprehensive guide on implementing SEO permanent redirects using various methods, including IIS7 URL Rewrite Module and custom code. It includes step-by-step instructions, code snippets, and configuration details, which align closely with the 'Install and Configuration' category. The focus is on practical implementation and configuration of tools, making it highly relevant to the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:42:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses SEO techniques and URL redirection, with no focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content primarily discusses technical implementation of SEO redirects and does not address the interaction between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:42:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementations of URL redirection and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:05:10",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on SEO strategies and URL redirection techniques, which are not aligned with DevOps principles. There are no direct mentions of DevOps practices, and the discussion lacks depth in any relevant DevOps concepts such as automation, collaboration, or continuous improvement.",
     "level": "Ignored"
   },
@@ -158,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations related to SEO and URL redirection, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:42:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses SEO techniques and code implementations, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:42:17",
@@ -174,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques, which do not relate to optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:42:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation of SEO redirects and does not focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:42:23",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO techniques and URL redirection, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -223,22 +145,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:52:33",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses technical solutions for implementing SEO permanent redirects, which involves engineering practices related to URL rewriting and database interactions. However, while it touches on technical aspects, it lacks a strong focus on broader engineering methodologies like TDD, CI/CD, or modular architecture, which are central to the 'Technical Excellence' category. The depth of discussion is primarily on specific implementations rather than overarching principles of technical excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-16T01:42:30",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques without reference to complexity science or its principles.",
     "level": "Ignored"
   },
@@ -253,46 +175,37 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T01:42:34",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses SEO and URL redirection techniques, which do not align with the core principles of product delivery methodologies and practices.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T01:42:35",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO techniques and URL redirection strategies, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T01:42:36",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques, which do not relate to Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:42:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of URL redirection and does not focus on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T01:42:39",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to SEO and URL redirection, without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -325,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T01:42:45",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques, which are unrelated to the principles and practices of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:05:22",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses entirely on SEO strategies and technical implementations for URL redirection, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as product ethos, agile processes, or continuous improvement, which are central to the category.",
     "level": "Ignored"
   },
@@ -351,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of SEO redirects and does not address organisational agility or related strategies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:42:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical implementation details and code examples related to SEO and URL redirection, without addressing industry news, updates, or reviews relevant to Agile, DevOps, or technology trends.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -382,43 +286,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about implementing SEO strategies for URL redirects and does not address the Definition of Done in any way.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:41:55",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed exploration of implementing SEO permanent redirects using various technical approaches, including code examples and explanations of best practices in software design and architecture. It discusses the importance of clean code, maintainability, and the use of specific tools (like the IIS7 URL Rewrite Module) to enhance technical delivery. The depth of discussion is significant, covering multiple options and their implications, which aligns well with the principles of technical mastery.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to SEO and URL redirects, with no clear focus on product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:05:27",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses SEO strategies and URL redirection techniques, which are not related to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, automation in testing, or deployment strategies, and the focus is on maintaining SEO rather than software delivery.",
     "level": "Ignored"
   },
@@ -433,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on SEO redirects and programming examples, with no relevance to Lead Time discussions.",
     "level": "Ignored"
   },
@@ -451,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SEO permanent redirects and does not relate to Definition of Ready in the Agile framework.",
     "level": "Ignored"
   },
@@ -469,10 +373,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation of SEO URL redirection and does not discuss Product Backlog or Agile practices.",
     "level": "Ignored"
   },
@@ -487,10 +391,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SEO and URL redirection techniques, which are unrelated to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -505,13 +409,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:18:26",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses SEO techniques and URL redirection strategies, which do not directly relate to operational efficiency or practices within Agile, DevOps, or Lean frameworks. While there are mentions of process improvements and technical implementations, they are not framed within the context of operational practices aimed at enhancing efficiency or delivery in organisational settings.",
     "level": "Ignored"
   },
@@ -544,10 +448,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SEO techniques for managing URL redirects, which does not relate to validating product ideas, user testing, or gathering user feedback.",
     "level": "Ignored"
   },
@@ -580,10 +484,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T02:22:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SEO and technical website development, with no focus on agile team performance or collaboration.",
     "level": "Ignored"
   },
@@ -598,40 +502,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses URL rewriting techniques and implementation in ASP.NET, with no mention of Acceptance Test Driven Development (ATDD) principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:11:18",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on implementing SEO permanent redirects in a web application, which involves software development practices such as coding, configuration management, and database interaction. It covers various coding examples, best practices, and considerations for URL rewriting, which are all relevant to software development methodologies and practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:22:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses SEO methods for handling URL redirects and related coding practices, which is not relevant to Agile Project Management.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO techniques and URL redirection methods, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -646,28 +541,28 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO URL redirection techniques and IIS configurations, with no direct relevance to source control practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of SEO and URL management, with no mention of empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical details related to SEO and URL redirection, which does not relate to Scrum Values.",
     "level": "Ignored"
   },
@@ -691,10 +586,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of SEO, URL redirects, and coding techniques related to web development and does not address organisational change topics.",
     "level": "Ignored"
   },
@@ -725,21 +620,12 @@
     "reasoning": "Content is focused on technical implementation details regarding SEO redirects and URL rewriting, without any reference to customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:22:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical aspects of using SEO permanent redirects and is not related to Scrum or its scaling in any context.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details for URL redirects and management without any reference to leadership or evidence-based practices.",
     "level": "Ignored"
   },
@@ -752,24 +638,15 @@
     "reasoning": "Content discusses technical aspects of URL redirection in web development without any reference to psychological safety or its implications in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:22:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SEO strategies and URL management, which do not relate to scaling agile practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:18:24",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on implementing SEO permanent redirects and discusses various coding practices and configurations related to URL rewriting. While it touches on some aspects of software craftsmanship, such as code quality and best practices, it lacks a direct and explicit focus on broader engineering excellence principles. The depth of discussion on specific coding techniques is notable, but it does not comprehensively address the key topics outlined in the Engineering Excellence category.",
     "level": "Ignored"
   },
@@ -811,15 +688,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T12:07:24",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses practical solutions for implementing SEO permanent redirects, which involves real-world applications of problem-solving techniques. It provides specific examples and code snippets that demonstrate how to handle URL rewrites in a pragmatic manner. However, while it touches on practical aspects, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, which diminishes its alignment with the core themes of Pragmatic Thinking.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -832,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses SEO practices and technical solutions for URL redirection without a clear focus on the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:22:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on SEO and URL management strategies in web development, with no mention or discussion of Scrum principles, roles, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:22:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on SEO, URL redirection, and coding practices rather than Scaled Agile methodologies.",
+    "reasoning": "Content primarily discusses SEO practices and technical solutions for URL redirection without a clear focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -877,10 +736,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T02:22:53",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on SEO, URL redirects, and database interaction without discussing software testing or automation.",
     "level": "Ignored"
   },
@@ -949,10 +808,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses solely on SEO and URL redirection techniques, which are not related to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -985,28 +844,28 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses URL redirection and SEO practices rather than release management processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to URL redirection and database interactions without addressing the responsibilities, skills, or practices relevant to the Product Owner's role in Agile or Scrum.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on SEO URL redirection techniques and code implementation, which are unrelated to the measurement or implications of Cycle Time.",
     "level": "Ignored"
   },
@@ -1030,10 +889,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO techniques and URL redirection strategies, without any clear focus on change management principles or practices.",
     "level": "Ignored"
   },
@@ -1064,7 +923,7 @@
     "reasoning": "Content primarily discusses technical aspects of URL redirects and code implementations without a focus on organizational change, innovation, or the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:22:54",
     "ai_confidence": 0,
@@ -1073,33 +932,24 @@
     "reasoning": "Content focuses on SEO permanent redirects and programming details, with no relevance to Minimum Viable Product discussions.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses SEO and URL redirection techniques, with no relevance to AI, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T18:12:56",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the configuration of URL redirection in a web application, which aligns with system configuration principles. It provides detailed examples of how to set up and manage URL rewriting rules using IIS and custom code, addressing best practices and potential pitfalls. The depth of discussion is significant, covering various methods and configurations, but it does not focus on broader system configuration topics like hardware setup or security considerations, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to SEO and URL redirection without any focus on product strategy, vision, or market positioning.",
     "level": "Ignored"
   },
@@ -1132,19 +982,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:22:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily focuses on SEO permanent redirects and URL management in a web application context, and does not discuss Test First Development or related testing methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses SEO strategies and URL redirection techniques, with no direct mention or alignment to Test First Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques, along with code examples, which are not central to Windows operating system discussions.",
     "level": "Ignored"
   },
@@ -1195,15 +1048,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T17:01:52",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses various methods for implementing SEO permanent redirects, which involves identifying and resolving potential issues with URL mappings. It provides code examples and highlights the importance of maintaining Google rankings, which aligns with troubleshooting practices. However, the primary focus is on implementation rather than systematic problem-solving or diagnosing issues, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1216,11 +1069,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on SEO and technical implementation of permanent redirects, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on SEO strategies and URL redirection techniques, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1239,15 +1095,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of SEO and URL redirection rather than teamwork, collaboration, or working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T02:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on SEO and URL redirects rather than discussions on software developers, Agile, or DevOps methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,10 +1135,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T02:22:54",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details related to SEO and URL redirection, which are not aligned with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1342,10 +1189,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T02:22:55",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses URL redirects and server-side code implementation, with no clear focus on Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1367,15 +1214,6 @@
     "reasoning": "Content is primarily focused on technical implementation of SEO permanent redirects and does not discuss accountability in Agile contexts or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:22:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content revolves around SEO and web development strategies and does not discuss Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:22:55",
@@ -1387,22 +1225,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T02:22:55",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is about SEO redirects and website structure changes, with no mention of Test Driven Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:44:04",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of SEO and URL redirection, with no discussion of collaboration, decision-making, or value delivery within organisations. It lacks any mention of social technologies or their principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1417,10 +1255,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:33:40",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SEO and URL redirection techniques, which are not related to Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1447,50 +1285,62 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:34:33",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses SEO and URL redirection techniques, with no direct mention or alignment to the Shift-Left Strategy. It focuses on post-development practices rather than integrating testing, security, or compliance early in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:05:13",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details regarding SEO and URL redirection, with minimal reference to Continuous Improvement principles. While there are mentions of updates and changes made to improve the code, these are not framed within a broader context of Continuous Improvement methodologies or strategies. The discussion lacks depth in terms of fostering a culture of experimentation or learning, which are key aspects of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:05:15",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of implementing SEO redirects and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:05:19",
+    "calculated_at": "2025-04-10T15:56:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation of SEO strategies and URL redirection, with no explicit discussion on competence, continuous learning, or skill development. While it touches on best practices, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on SEO strategies and technical implementations for URL redirection, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the context of web development, they do not align with the intentional shaping of outcomes as defined in the category.",
     "level": "Ignored"
   }
 }

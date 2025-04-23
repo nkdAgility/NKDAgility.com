@@ -9,7 +9,7 @@ ResourceImportId: 10662
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
-weight: 480
+weight: 430
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,15 +30,13 @@ aliasesArchive:
 - /resources/blog/
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Azure DevOps
-- Software Developers
 - Transparency
 - Pragmatic Thinking
-- People and Process
+- Azure Boards
 - Product Owner
 - Working Software
-- Azure Boards
+- Operational Practices
 categories: []
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 

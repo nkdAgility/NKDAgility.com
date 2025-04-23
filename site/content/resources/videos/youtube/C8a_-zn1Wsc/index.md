@@ -31,19 +31,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Competence
-- Continuous Learning
 - Agile Transformation
-- Agile Project Management
-- Software Development
 - Pragmatic Thinking
-- Software Developers
+- Software Development
+- Continuous Learning
+- Competence
+- Agile Frameworks
 - Agile Values and Principles
+- Coaching
 - Continuous Improvement
+- Agile Philosophy
+- Scrum Master
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In the ever-evolving world of Agile and Scrum, one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.

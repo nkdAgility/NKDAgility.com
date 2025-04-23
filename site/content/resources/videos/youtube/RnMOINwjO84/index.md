@@ -2,7 +2,7 @@
 title: 'Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making'
 description: Unlock the secrets to agile decision-making in a complex business world. Discover how to adapt, innovate, and thrive amidst uncertainty.
 date: 2024-10-03T07:00:16Z
-weight: 995
+weight: 1000
 ResourceId: RnMOINwjO84
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,21 +27,26 @@ isShort: false
 tags:
 - Complexity Thinking
 - Business Agility
-- Organisational Agility
 - Enterprise Agility
 - Market Adaptability
-- Discovery and Learning
 - Pragmatic Thinking
+- Organisational Agility
 - Organisational Physics
-- People and Process
-- Resilience and Change
+- Decision Theory
+- Agile Philosophy
+- Agile Product Management
+- Agile Strategy
+- Continuous Learning
+- Sensemaking
+- Beta Codex
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.

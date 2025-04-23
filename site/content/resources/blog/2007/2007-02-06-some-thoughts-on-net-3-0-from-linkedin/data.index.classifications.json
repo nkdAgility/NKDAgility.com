@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:42:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses .NET 3.0 and its features, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:42:38",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses opinions and experiences related to .NET 3.0 and its features, rather than providing actionable installation or configuration guidance.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and its applications, with no focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:42:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and its features, with minimal focus on human behaviour or team processes.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:42:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and its features, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,13 +37,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-08T13:15:04",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses .NET 3.0 and its features, with no direct mention of Scrum principles, roles, events, or practices. While there is a focus on project management in a software context, it does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
     "level": "Ignored"
   },
@@ -94,15 +67,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:26:43",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the adoption and features of .NET 3.0, touching on aspects like Windows Workflow Foundation (WF) and Windows Presentation Foundation (WPF). While it mentions technical aspects and the integration of new technologies, it lacks a focused discussion on engineering practices or methodologies that enhance agility in software development. The content is more of a personal opinion and overview rather than a deep dive into technical excellence principles such as TDD, CI/CD, or modular architecture.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -115,49 +88,37 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:43:01",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and its features without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:43:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 features and its comparison with other technologies, without focusing on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:43:03",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:49:41",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses .NET 3.0 and its features, but it primarily focuses on the practical aspects of its adoption and comparison with other technologies rather than delving into the complexities of code quality or software development processes. While there are mentions of coding and integration work, the discussion lacks depth in exploring the relationship between code quality and complexity, which is central to the category.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:43:06",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no focus on Evidence-Based Management principles or practices.",
     "level": "Ignored"
   },
@@ -199,10 +160,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:43:12",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 features and comparisons, with no clear focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
@@ -215,36 +176,12 @@
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-10T19:07:00",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses .NET 3.0 and its implications for development, which aligns with technology updates. However, it lacks a broader industry context or reviews of tools and practices, focusing more on personal experiences and opinions rather than structured news or reviews.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:49:41",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses .NET 3.0 and its features, but it primarily focuses on personal experiences and opinions rather than practical techniques or tooling related to Agile or DevOps. While there are mentions of tools and frameworks, the discussion lacks depth in terms of methodologies or best practices for implementation, which are key aspects of the category.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:43:18",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 features and comparisons, rather than the management of software application lifecycles.",
     "level": "Ignored"
   },
@@ -259,95 +196,56 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:43:20",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and comparisons of .NET 3.0 and related technologies, without a clear focus on market adaptability strategies or practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:43:22",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no focus on Agile principles or the Agile Product Operating Model.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-11T12:18:49",
-    "ai_confidence": 45.0,
-    "ai_mentions": 20.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 42.0,
-    "reasoning": "The content briefly mentions presentations by Microsoft Evangelists, which aligns with the category of events and presentations. However, the primary focus is on technical discussions regarding .NET 3.0 rather than on the events themselves. The depth of discussion about the presentations is limited, focusing more on the technology than on the event context.",
-    "level": "Tertiary"
-  },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:43:26",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T09:43:27",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:43:30",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:43:32",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and its features, with no personal reflections or experiences related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:43:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and its features, without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:43:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and its features, with no focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:43:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses .NET 3.0 and its features, rather than focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -370,10 +268,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:43:39",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -397,13 +295,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T15:21:44",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses .NET 3.0 and its integration with Windows technologies, particularly in the context of Windows Vista and Office 2007. While it mentions Windows and its features, the primary focus is on .NET and its functionalities rather than a comprehensive discussion on Windows itself. The content does not delve deeply into installation, configuration, or troubleshooting of the Windows operating system, which are key aspects of the category. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
     "level": "Secondary"
   },
@@ -418,10 +316,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:09:01",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on .NET 3.0 features and comparisons, with no relation to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -436,29 +334,20 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET 3.0 adoption and features, but does not focus on release management practices or processes.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily discussing .NET 3.0 and its features, not related to empirical process control or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses .NET 3.0 and related technologies, with no focus on Scrum principles, frameworks, or scaling practices.",
+    "reasoning": "Content is primarily discussing .NET 3.0 and its features, not related to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
   "Increment": {
@@ -517,22 +406,22 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0, its features, and implementations, without any focus on Agile Planning or its principles.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:49:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses .NET 3.0 and its applications, but it primarily focuses on technical features and comparisons rather than the delivery of functional software that meets user needs. While there are mentions of using .NET 3.0 for new applications, the discussion lacks depth on best practices for ensuring software quality or customer feedback integration, which are key aspects of the 'Working Software' category.",
     "level": "Ignored"
   },
@@ -556,13 +445,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:49:48",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the adoption and implications of .NET 3.0, which is a software development framework. It provides insights into its features, comparisons with other technologies, and the impact on development practices. However, while it touches on relevant topics, the discussion lacks depth in methodologies or best practices, focusing more on personal experiences and opinions rather than structured software development processes.",
     "level": "Secondary"
   },
@@ -613,10 +502,10 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T07:49:41",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the adoption of .NET 3.0 and its integration into business processes, but it primarily focuses on specific technology features and comparisons rather than a broad digital transformation strategy.",
     "level": "Ignored"
   },
@@ -638,39 +527,30 @@
     "reasoning": "Content focuses on technical aspects of .NET 3.0 adoption rather than strategic goals or long-term objectives.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses .NET 3.0 and related technologies, with no relevance to Agile methodologies or scaling Agile practices.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 features and its implementation, with no focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET 3.0 and its features without any reference to Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on technical aspects of .NET 3.0 and its implementation, without any clear discussion related to team performance, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -739,13 +619,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:49:51",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the adoption and implications of .NET 3.0, touching on aspects of software design and architecture, particularly in relation to Windows Workflow Foundation (WF) and Windows Presentation Foundation (WPF). However, while it provides insights into the technical features and comparisons with other technologies, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is more on the practical application of .NET 3.0 rather than a comprehensive discussion on technical mastery.",
     "level": "Secondary"
   },
@@ -769,10 +649,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of .NET 3.0 rather than product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
@@ -814,10 +694,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 technology and its features, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -895,10 +775,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and related technologies, which is not relevant to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -911,7 +791,7 @@
     "reasoning": "Content primarily discusses .NET 3.0 and related technologies, with no relevant information about Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:09:02",
     "ai_confidence": 0,
@@ -922,10 +802,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses .NET 3.0 features and comparisons rather than any aspect of modern source control or version control practices.",
     "level": "Ignored"
   },
@@ -965,18 +845,6 @@
     "reasoning": "Content mainly discusses .NET 3.0 and related technologies, without mentioning Agile strategy or methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:49:41",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses .NET 3.0 and its implications for software development, touching on aspects relevant to developers, such as integration with existing systems and the impact of new technologies. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. The discussion is more about technology adoption rather than the role of developers within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-17T11:09:02",
@@ -1006,10 +874,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects and details of .NET 3.0, which are not related to product management strategies, methodologies, or frameworks.",
     "level": "Ignored"
   },
@@ -1031,30 +899,21 @@
     "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and related technologies, with no mention of Scrum values or principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses .NET 3.0 and its features, with no relevance to Kanban principles or scaling in organizations.",
-    "level": "Ignored"
-  },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and comparisons of .NET 3.0 and related technologies, without focusing on validating product ideas or user engagement.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses .NET 3.0 technologies and their implications for software development, with no focus on the Product Backlog or its management in Agile projects.",
     "level": "Ignored"
   },
@@ -1087,13 +946,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:49:41",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the adoption of .NET 3.0 and its features, but it primarily focuses on the technology itself rather than on engineering excellence practices. While there are mentions of coding and integration work, the discussion lacks depth in terms of best practices, quality assurance, or continuous improvement in engineering processes. The content does not explicitly promote high standards in software craftsmanship or delve into metrics for assessing engineering performance.",
     "level": "Ignored"
   },
@@ -1108,10 +967,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses .NET 3.0 and its features, rather than Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -1126,22 +985,22 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:49:43",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical applications of .NET 3.0 in a corporate environment, highlighting real-world considerations and decision-making processes related to technology adoption. It addresses the need for training and integration of new technologies, which aligns with pragmatic thinking in Agile and DevOps contexts. However, while it touches on practical problem-solving, it lacks a deeper exploration of Agile or Scrum methodologies, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features and implementation of .NET 3.0, with no clear focus on market share strategies or competitive advantage.",
     "level": "Ignored"
   },
@@ -1192,10 +1051,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T11:09:03",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 features and its application in software development, not related to portfolio management.",
     "level": "Ignored"
   },
@@ -1237,20 +1096,11 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T11:09:03",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET 3.0, its features, and comparisons with other technologies, but does not focus on test automation or related practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:09:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses .NET 3.0 and related technologies, without focus on Scrum or product development practices.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1264,10 +1114,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:09:03",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the adoption and technical aspects of .NET 3.0, without addressing change management principles, practices, or strategies.",
     "level": "Ignored"
   },
@@ -1291,38 +1141,20 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T11:09:03",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of .NET 3.0 and related technologies, rather than product strategy or methodologies.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:09:03",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses features and comparisons of .NET 3.0 rather than focusing on measuring or improving innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:09:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on .NET 3.0 technologies and their implications for applications, with no discussion on scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:09:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses .NET 3.0 and related technology topics, with no mention of Agile principles, methodologies, or project management practices.",
+    "reasoning": "Content heavily discusses features and comparisons of .NET 3.0 rather than focusing on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1370,15 +1202,6 @@
     "reasoning": "Content focuses on .NET 3.0, programming and technology discussions, without any relation to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses .NET 3.0 and related technologies without any focus on AI or its integration within Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:09:03",
@@ -1390,19 +1213,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T11:09:03",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses technical aspects of .NET 3.0 and related technologies, with no clear focus on Product Owner responsibilities or related themes.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:32:20",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses .NET 3.0 and its features, with no focus on Scrum, Kanban, Lean, or Agile practices.",
     "level": "Ignored"
   },
@@ -1417,10 +1240,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:54:51",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET 3.0 and its features, with no focus on Internal Developer Platforms or related topics.",
     "level": "Ignored"
   },
@@ -1435,13 +1258,13 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:51:51",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses .NET 3.0 and its features, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to software development practices, they do not align with the proactive integration of testing, security, or compliance early in the development lifecycle, which is central to the Shift-Left Strategy.",
     "level": "Ignored"
   }

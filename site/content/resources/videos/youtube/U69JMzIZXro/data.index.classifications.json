@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:28:22",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, which are tools often used in software development and project management. While it touches on aspects of setting up a development environment, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of creating a team project hints at a collaborative aspect, but it does not delve into the cultural or philosophical elements of DevOps. Overall, the content is more aligned with technical setup rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:28:47",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of installing Team Foundation Server (TFS) and SQL Server, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it briefly mentions creating a team project, it lacks depth in exploring how social technologies enhance team dynamics or value delivery. Overall, the content does not align with the core themes of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -70,10 +70,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T12:23:46",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of TFS 2013 and does not focus on metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -93,24 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on installing TFS 2013 and does not discuss Agile frameworks or their principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing TFS 2013 and does not address Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the installation of TFS 2013 and does not discuss any events, presentations, or relevant topics in the context of Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -133,13 +115,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-07T14:51:35",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) on a Windows environment, detailing the steps involved in setting up SQL Server and TFS, which are both integral to Windows systems. It discusses specific Windows features, such as service accounts and Active Directory integration, and addresses potential issues related to Windows Server configurations. The depth of discussion is substantial, covering various aspects of the installation process, including prerequisites, configurations, and troubleshooting steps, which aligns well with the key topics outlined for the Windows category.",
     "level": "Primary"
   },
@@ -190,10 +172,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T12:23:46",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of TFS 2013, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
@@ -244,13 +226,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:28:38",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, with no explicit discussion of Continuous Delivery principles or practices. While it touches on aspects of setting up a development environment, it lacks depth in Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The mention of 'agile journey' is too vague and does not directly relate to Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -301,15 +283,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:35:30",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed step-by-step guide on installing Team Foundation Server (TFS), which is a critical tool in the software development lifecycle. It discusses various aspects of the installation process, including SQL Server setup, service accounts, and configuration, which are all relevant to software development practices. The mention of creating a team project and using Git as the version control system further aligns with core themes of collaborative development and version control. Overall, the content is focused on practical software development techniques, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -464,15 +446,6 @@
     "reasoning": "Content primarily discusses the installation process of TFS 2013 and does not focus on best practices, principles, or methodologies that contribute to software craftsmanship or engineering excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on installing TFS 2013 rather than discussing Agile, DevOps, or the role of software developers.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T12:23:46",
@@ -480,15 +453,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on installing TFS 2013, which does not relate to Lean Product Development principles, waste reduction, or customer feedback.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of TFS 2013 and does not address software code quality, complexity, or related best practices.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -520,11 +484,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installing TFS 2013, which is unrelated to the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T17:49:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing Team Foundation Server (TFS) and does not discuss the role or responsibilities of a Scrum Master. While it briefly mentions creating a team project using a Scrum template, this is not a substantial discussion on Scrum Master responsibilities or their impact on team dynamics and agile practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -599,15 +566,6 @@
     "reasoning": "Content primarily discusses the installation process of TFS 2013 and does not relate to organisational change themes such as strategies, methodologies, or practices involved in transforming an organisation.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing TFS 2013 and does not discuss any aspects of scaling Agile practices or coordination among multiple teams.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T12:23:46",
@@ -615,15 +573,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of TFS 2013, which does not relate to Lean Thinking principles or discussions.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses solely on installing TFS and related technical aspects, lacking emphasis on human behavior or process methodologies.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -673,10 +622,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T12:23:46",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation of TFS 2013 and does not relate to the Definition of Ready or Agile practices.",
     "level": "Ignored"
   },
@@ -689,7 +638,7 @@
     "reasoning": "Content does not discuss Lead Time; it focuses on installing TFS 2013 and related configuration aspects.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T12:23:46",
     "ai_confidence": 0,
@@ -705,15 +654,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on the installation process of TFS 2013 and does not address any themes related to Agile leadership, team empowerment, or organizational transformation.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on the installation of TFS 2013 and does not discuss AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -761,15 +701,6 @@
     "reasoning": "Content primarily discusses the installation of TFS 2013 and does not address market adaptability or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installing TFS 2013 with no focus on AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T12:23:46",
@@ -815,15 +746,6 @@
     "reasoning": "Content is primarily about installing TFS 2013 and does not discuss the Product Backlog or related Agile practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installing TFS 2013, which is unrelated to Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T12:23:46",
@@ -842,24 +764,6 @@
     "reasoning": "Content primarily discusses the ease of installation of TFS 2013 without focusing on diagnosing or resolving issues, which is central to the Troubleshooting category.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the installation process of TFS 2013 and does not provide discussions or analyses related to Agility or DevOps principles.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on a technical installation guide for TFS 2013, which does not fit into the news or review category.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T12:23:46",
@@ -876,15 +780,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspect of installing TFS 2013, without personal anecdotes or reflections related to Agile or Scrum methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on installing TFS 2013 and does not discuss Scaling Scrum or related topics.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -925,11 +820,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing TFS 2013 and does not relate to Test First Development themes.",
+    "calculated_at": "2025-04-08T17:49:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, with no direct discussion of Test First Development principles or practices. While it touches on aspects of agile methodology, it does not address success criteria, testing practices, or the importance of feedback loops, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -952,10 +850,10 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-18T12:23:46",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the installation of TFS 2013 and lacks any discussion related to trend analysis in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
@@ -1013,15 +911,6 @@
     "reasoning": "Content primarily focuses on installation of TFS 2013, rather than methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of TFS 2013, which is unrelated to scaling agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T12:23:46",
@@ -1049,24 +938,6 @@
     "reasoning": "Content is focused on the installation process of TFS 2013 and does not discuss Portfolio Management or related themes.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the installation process of TFS 2013, which is unrelated to organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the installation process of TFS 2013 and does not address transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T12:23:46",
@@ -1085,18 +956,6 @@
     "reasoning": "Content focuses on the installation of TFS 2013, with no discussion on release frequency or principles like Continuous Delivery or DevOps.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T14:56:54",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on installing Team Foundation Server (TFS) and SQL Server, which directly relates to practical tooling in Agile and DevOps contexts. It discusses specific tools (TFS, SQL Server, Visual Studio) and methodologies (installation processes, configuration best practices) that enhance team performance and collaboration. The depth of discussion is substantial, covering various aspects of the installation and configuration process, although it could benefit from more explicit connections to Agile methodologies and metrics for measuring effectiveness.",
-    "level": "Secondary"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T12:23:46",
@@ -1108,13 +967,13 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T12:43:00",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content provides a detailed, step-by-step guide on installing and configuring Team Foundation Server (TFS) on a single server, which directly aligns with the category of System Configuration. It discusses best practices for software installation, hardware setup, and configuration management, including specific configurations for SQL Server and TFS. The depth of discussion is significant, covering various aspects of the installation process, including service accounts, firewall considerations, and system checks. The content remains focused on practical configuration tasks, making it highly relevant to the category.",
     "level": "Primary"
   },
@@ -1147,23 +1006,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:28:34",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical installation of Team Foundation Server (TFS) and SQL Server, with minimal reference to agile principles or product management. While it mentions an 'agile journey,' it does not discuss the Agile Product Operating Model or its key topics, such as product-oriented mindsets or continuous delivery. The discussion lacks depth in relation to the category, making it largely irrelevant to the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on the installation process of TFS 2013 and does not discuss any aspects of discovery, learning, or innovation methodologies.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1191,15 +1041,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS 2013 and does not address automated testing principles, practices, or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installing TFS 2013 and does not discuss Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1276,10 +1117,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T12:23:46",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of TFS 2013 and does not focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1369,22 +1210,22 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T14:45:49",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 86.0,
+    "final_score": 92.0,
     "reasoning": "The content provides a comprehensive, step-by-step guide on installing and configuring TFS (Team Foundation Server) on a single server. It explicitly discusses the installation of SQL Server, the necessary configurations, and the prerequisites for a successful TFS setup. The detailed instructions on service accounts, feature installations, and configuration checks demonstrate a strong alignment with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various aspects of the installation process, including troubleshooting potential issues and ensuring compatibility with system requirements. Overall, the content is highly relevant and focused on the technical aspects of installation and configuration.",
     "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T12:23:46",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on installing TFS 2013 and does not discuss innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -1417,62 +1258,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T04:42:10",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 50,
-    "final_score": 28.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions Scrum in the context of creating a team project within TFS, but the primary focus is on the installation and configuration of TFS rather than on Scrum principles, roles, or practices. The discussion lacks depth regarding Scrum's core themes and does not provide substantial insights into Scrum events or roles.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:19:43",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and SQL Server, with no direct mention or discussion of the Shift-Left Strategy. While it touches on aspects of software development, it does not address integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth and relevance to the category, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:28:25",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical steps for installing Team Foundation Server (TFS) and does not explicitly discuss Continuous Improvement principles. While it touches on aspects of setting up processes that could contribute to team effectiveness, it lacks a direct connection to the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integration into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:28:27",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical steps for installing Team Foundation Server (TFS) and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it mentions creating a team project, it lacks depth in connecting this to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:28:30",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical steps for installing TFS and SQL Server, with minimal direct discussion on competence or skill development. While it implies a level of competence in executing the installation process, it does not explicitly address continuous learning, quality outcomes, or fostering a culture of competence. The depth of discussion remains technical rather than reflective on professional growth or mastery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Team Foundation Server (TFS) and does not discuss Agentic Agility or its principles. While it mentions 'agile journey' in a general sense, it lacks any explicit discussion of intentionality, autonomy, or adaptability in shaping outcomes, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

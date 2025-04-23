@@ -1,74 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T19:59:55",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of application development and deployment across multiple platforms, without a focus on Agile principles or product management practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:17:56",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the use of Visual Studio for cross-platform mobile application development, which aligns with practical tooling in Agile and DevOps. It mentions specific tools (Visual Studio, Team Foundation Server) and methodologies (holistic build process, application deployment), providing a practical perspective. However, the discussion lacks depth in terms of methodologies and frameworks, focusing more on a specific tool rather than a broader exploration of techniques.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T05:49:26",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the deployment of applications across multiple platforms using Visual Studio, which touches on aspects of standardisation and developer productivity. However, it primarily focuses on external platforms and mobile application development rather than internal developer platforms (IDPs) or the core principles of platform engineering. The discussion lacks depth in terms of platform engineering concepts and does not provide a comprehensive exploration of automation or self-service capabilities, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:14:28",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio, with no explicit discussion of Evidence-Based Management principles. While it touches on aspects of value delivery and efficiency, it lacks a direct connection to empirical decision-making or the specific metrics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:00:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the deployment of applications across multiple platforms using Visual Studio, without a clear focus on code quality or the complexities of software development processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:00:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details and features of a specific development tool, without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:00:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses application deployment across multiple platforms using Visual Studio, without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,31 +43,22 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:00:06",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the capabilities and benefits of a demonstration for deploying applications across multiple platforms, rather than providing specific installation or configuration instructions.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:00:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses application development and deployment across multiple platforms, with no focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T05:49:40",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a demonstration of a technology that allows for cross-platform application development, which indirectly relates to market adaptability by enabling organisations to respond to diverse platform demands. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies, and does not provide in-depth strategies or practices for enhancing market adaptability. The discussion is more about the technical capabilities of a specific tool rather than the broader principles of market responsiveness.",
     "level": "Ignored"
   },
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily discusses technical aspects of deploying applications across multiple platforms without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:00:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementations of application development across multiple platforms without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:14:15",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio, which is more aligned with software development and application lifecycle management (ALM) rather than the core principles of DevOps. While it touches on aspects like automation in the build process and the importance of a unified technology platform, it lacks a comprehensive discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. Therefore, the confidence score reflects a low primary focus on DevOps, with some alignment to its themes.",
     "level": "Ignored"
   },
@@ -158,18 +101,6 @@
     "reasoning": "Content primarily discusses technical implementations and features of a software development tool, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T05:49:11",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses a demonstration of a software application rather than focusing on a formal event or presentation. While it mentions a demo seen by the author, it lacks details about the event itself, such as speakers, panels, or structured learning experiences. The discussion is more about the technology and its applications than about sharing insights from an event or fostering community learning.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:00:21",
@@ -177,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses application development across multiple platforms and the capabilities of Visual Studio, without a clear focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:00:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical aspects of deploying applications across multiple platforms and does not focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -199,22 +121,22 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T05:49:19",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical demonstration of a development tool for building applications across multiple platforms. While it touches on aspects of delivering value quickly and addressing customer needs, it lacks a focused discussion on the principles and practices of business agility. The mention of delivering value and the holistic build process hints at agility but does not delve into the core themes of business agility, such as leadership roles, cultural strategies, or agile methodologies.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:00:26",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses application development and deployment across multiple platforms, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -229,15 +151,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:48:47",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a demonstration of a tool that allows for cross-platform application development, which touches on aspects of technical excellence such as standardisation on a single technology platform and the benefits of a holistic build process. However, it lacks a deep exploration of specific engineering practices like TDD or CI/CD, and the discussion is more focused on the tool's capabilities rather than methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -259,13 +181,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T12:54:50",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the deployment of applications across multiple platforms using Visual Studio, which aligns with product delivery methodologies. It mentions the importance of a unified codebase and the benefits of a holistic build process, which are key aspects of delivering software products effectively. However, while it touches on deployment and development practices, it lacks a deeper exploration of methodologies like Agile or CI/CD, which would strengthen its alignment with the category.",
     "level": "Secondary"
   },
@@ -280,48 +202,36 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T20:00:39",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses application development and deployment across multiple platforms, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T05:48:49",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses a specific product (ITR Mobility's application support) and its capabilities in deploying applications across multiple platforms. It provides insights into the product's features and potential benefits for users, which aligns with the category's focus on discussions about tools and software that facilitate Agile practices and DevOps integration. However, while it mentions the product in detail, it lacks a broader analysis or review of related literature or methodologies, which limits its depth of discussion. Overall, the content is relevant but not exhaustive in its exploration of the category.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T14:54:37",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a demonstration of a technology that allows for cross-platform application development, which indirectly relates to value delivery by enabling faster and more efficient development processes. However, it primarily focuses on technical implementation details and personal opinions rather than explicitly discussing value delivery strategies or methodologies. While there are mentions of delivering value to customers, the depth and focus on value delivery principles are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T05:49:03",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the use of Visual Studio and Team Foundation Server, which are part of the Azure DevOps ecosystem. However, the primary focus is on mobile application development and deployment rather than Azure DevOps functionalities or best practices. While there are mentions of build processes and ALM capabilities, the discussion lacks depth in Azure DevOps-specific methodologies and does not provide a comprehensive overview of its services.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -343,15 +253,15 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-15T05:49:34",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a demonstration of a technology that allows for a unified codebase across multiple platforms, which aligns with the concept of standardisation in software development. However, it primarily focuses on a specific tool and its capabilities rather than the broader principles and components of the One Engineering System framework. The discussion lacks depth regarding the integration of tools and processes across teams, best practices for implementing 1ES, or challenges in adopting a unified engineering system, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -367,37 +277,25 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T05:49:43",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a technical demonstration of a software development tool and its capabilities for cross-platform deployment. While it touches on aspects of delivering value quickly to customers, it lacks a direct focus on organisational agility principles, such as cultural shifts or agile methodologies. The mention of delivering more value quickly is relevant but does not delve into the broader strategies or frameworks that enhance organisational adaptability.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T05:49:31",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily focuses on a demonstration of a specific tool (ITR Mobility) for deploying applications across multiple platforms, which is more of a technical tutorial than a news or review piece. While it mentions the capabilities of the tool and its potential benefits, it lacks a broader discussion on industry trends or evaluations of multiple tools. The content does not provide sufficient depth or analysis to align strongly with the 'News and Reviews' category.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T18:43:26",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the deployment of applications across multiple platforms and highlights the use of Visual Studio and Team Foundation Server, which are relevant to Application Lifecycle Management (ALM). It mentions capabilities such as a holistic build process and tracing changes back to requirements, which align with ALM principles. However, the primary focus is on the technical aspects of deployment and development rather than a comprehensive discussion of the entire application lifecycle, which limits the depth of the content in relation to ALM.",
     "level": "Secondary"
   },
@@ -412,43 +310,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on application development and deployment across multiple platforms, without discussion of the Definition of Done or its related concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:49:45",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the use of Visual Studio for cross-platform application development, which touches on software craftsmanship and engineering practices. However, it primarily focuses on a specific tool and its capabilities rather than broader principles of software design, clean code, or testing methodologies. While it mentions aspects of application lifecycle management (ALM) and the benefits of a unified technology stack, it lacks in-depth exploration of best practices or methodologies that would elevate it to a higher level of technical mastery discussion.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation and deployment of applications across platforms, rather than understanding customer needs or product feature definitions.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:14:31",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses deployment processes and tools related to Visual Studio, which touches on aspects of Continuous Delivery, such as automation and deployment. However, it lacks a focused discussion on the principles and practices of Continuous Delivery itself, such as rapid feedback, incremental improvements, or cultural aspects. The primary emphasis is on the capabilities of a specific tool rather than a comprehensive exploration of Continuous Delivery as a discipline.",
     "level": "Ignored"
   },
@@ -463,10 +361,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a demonstration of a development tool for mobile applications, with no clear focus on Lead Time or its measurement. It does not address lead time as defined in the provided context.",
     "level": "Ignored"
   },
@@ -481,10 +379,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses application development and deployment across platforms, with no clear mention or focus on the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -499,10 +397,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses deployment capabilities across multiple platforms and does not address Product Backlog concepts, techniques, or management in Agile projects.",
     "level": "Ignored"
   },
@@ -517,52 +415,52 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses software deployment and application lifecycle management, but does not address Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses application development and deployment processes, with no clear focus on customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:49:14",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the use of a single codebase for multiple platforms, which can enhance operational efficiency in software development. However, it primarily focuses on the demonstration of a specific tool rather than providing in-depth strategies or techniques for optimising operational practices. While there are mentions of automation and standardisation, the overall discussion lacks the depth and structured approach typically associated with operational practices in Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on application development across various platforms and not on the dynamics, roles, or collaboration of a Scrum Team.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-15T05:49:38",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of deploying applications across multiple platforms using Visual Studio, with no explicit discussion of Agile principles or philosophy. While it briefly touches on delivering value to customers, it lacks depth and does not engage with the broader implications of Agile as a mindset or ethos.",
     "level": "Ignored"
   },
@@ -577,10 +475,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technology demonstration and the capabilities of a specific development tool without focusing on methodologies for validating product ideas or user feedback.",
     "level": "Ignored"
   },
@@ -613,10 +511,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about deployment technologies and application development across multiple platforms, with no relevant discussion on team performance, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -640,31 +538,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:33:55",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the deployment of applications across multiple platforms using Visual Studio, which is a core aspect of software development. It covers methodologies for building applications, including the use of a single codebase and the implications for development teams. The discussion on ALM (Application Lifecycle Management) and the benefits of a holistic build process further aligns with software development practices. The depth of detail regarding platform-specific and generic UI approaches, as well as the integration with Team Foundation Server for source control and automated builds, demonstrates a strong focus on software engineering processes.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses mobile application development using Visual Studio and deployment strategies, with no focus on Agile project management principles, frameworks, roles, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical aspects of application development and deployment without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -679,19 +568,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a demonstration of a mobile application development platform and its deployment capabilities, without focusing on source control practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a demonstration of application development and deployment across platforms rather than on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -706,10 +595,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses deploying applications from Visual Studio across various platforms, with no focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -724,10 +613,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on software development practices and mobile application deployment, with no clear reference to organisational change or related strategies.",
     "level": "Ignored"
   },
@@ -742,35 +631,26 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T05:48:44",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the capabilities of a development tool that allows for deployment across multiple platforms, which indirectly relates to frequent releases by enabling quicker delivery of applications. However, it lacks explicit discussion on the principles of frequent releases, continuous delivery, or deployment strategies. The focus is more on the tool's features rather than the release process itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T05:48:52",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical aspects of deploying applications across multiple platforms using Visual Studio. While it briefly mentions the potential benefits for customers and hints at delivering value more quickly, it lacks a detailed exploration of customer satisfaction principles, measurement techniques, or strategies for enhancing customer experience. The discussion is more centred on technical implementation rather than customer-centric practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on application development and deployment across multiple platforms, with no discussion of Scrum principles or scaling practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -791,26 +671,17 @@
     "reasoning": "Content primarily discusses technical aspects and capabilities of a mobile application development framework, with no mention or discussion of psychological safety or its relevance in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses application development and deployment technologies, not scaling agility within organizations.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:17:50",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a demonstration of a tool that allows for cross-platform application development, which touches on aspects of engineering excellence such as standardisation and the use of a single technology platform. However, it lacks a deep exploration of best practices, coding standards, or continuous improvement processes. The focus is more on the capabilities of the tool rather than on engineering excellence principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -841,25 +712,25 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-15T05:49:28",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of deploying applications across multiple platforms using Visual Studio, with little direct mention of customer retention strategies. While it touches on delivering value to customers and improving development processes, it lacks a detailed exploration of customer engagement, satisfaction measurement, or retention methodologies. The discussion is more about technical capabilities than about retaining customers or enhancing their experience.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T05:49:21",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical solutions for deploying applications across multiple platforms using Visual Studio, which aligns with pragmatic thinking in terms of real-world application and problem-solving. It highlights the benefits of a unified codebase and the implications for development teams, showcasing adaptability and efficiency. However, while it touches on Agile and ALM principles, it lacks a deeper exploration of specific Agile methodologies or case studies, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -874,32 +745,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T05:49:08",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a demonstration of a technology that allows for cross-platform application development, which can be seen as an innovative practice. However, it lacks a direct focus on the measurement and improvement of innovation capabilities, as it primarily describes a product and its features rather than frameworks, metrics, or strategies for fostering a culture of innovation. The discussion is more about the technical capabilities of a tool rather than the broader implications of innovation within an organisation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses application deployment and development processes rather than Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses mobile application development and ALM processes, with no relevant mention of scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -940,13 +793,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T11:58:40",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a demonstration of a software solution that allows for cross-platform application development, which aligns with the concept of delivering functional software. It mentions the benefits of a unified codebase and the ability to deploy across multiple platforms, which relates to the delivery of working software. However, the discussion lacks depth in terms of best practices for ensuring software quality and does not provide specific metrics or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1033,73 +886,73 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T05:49:01",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses deployment and application lifecycle management (ALM) but lacks a focused discussion on release management strategies, scheduling, or risk management. While it touches on aspects of software delivery and mentions automated builds and deployments, it does not delve deeply into the structured processes of release management as defined in the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details and framework capabilities for multi-platform app development, without addressing the responsibilities or skills specifically related to the Product Owner role.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on mobile application development and deployment using Visual Studio, without discussing Cycle Time or its implications on efficiency or workflow.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T05:49:05",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses application development and deployment using Visual Studio and mentions Team Foundation Build, which is related to Azure DevOps. However, it does not focus specifically on Azure Pipelines or CI/CD practices. The discussion is more about application development across platforms rather than the automation of software development processes, which is the primary focus of Azure Pipelines.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T05:49:16",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses deployment in the context of using Visual Studio for building applications across multiple platforms. While it touches on aspects of deployment, such as automated builds and the ability to deploy to various app stores, it does not focus specifically on the optimisation of deployment frequency or the related Agile and DevOps practices. The discussion is more about the capabilities of a tool rather than strategies for increasing deployment frequency or the significance of frequent releases.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of deploying applications across multiple platforms using Visual Studio, without focusing on change management strategies or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of deploying applications across various platforms and does not focus on team dynamics, communication, or shared ownership within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -1114,32 +967,23 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T05:48:55",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the use of a unified codebase for multiple platforms, which aligns with the concept of leveraging digital technologies for operational efficiency. However, it lacks a strategic focus on broader digital transformation initiatives, such as change management or cultural impacts, and primarily centres on technical implementation details rather than strategic discussions.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:30:57",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses development tools and deployment across platforms, with no clear focus on Minimum Viable Product or related concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses application development and deployment across multiple platforms using Visual Studio, with no mention or discussion of AI integration in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1153,10 +997,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to application development and deployment across multiple platforms, rather than focusing on product vision, strategy, or roadmapping.",
     "level": "Ignored"
   },
@@ -1180,43 +1024,46 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused primarily on deploying applications across multiple platforms using Visual Studio, and does not address the concept of cross-functional teams in Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses application deployment and development across multiple platforms without addressing Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio 2012, with no explicit discussion of Test First Development principles, success criteria, or testing practices. It lacks any mention of TDD, ATDD, or the importance of testing in the development process, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T15:03:48",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the deployment of applications using Visual Studio, specifically mentioning Windows and Windows Phone multiple times. It aligns with the Windows category by focusing on the use of Windows as a platform for application development and deployment. However, it also covers other operating systems like iOS and Android, which slightly detracts from its primary focus on Windows. The depth of discussion regarding Windows features and integration with Visual Studio is substantial, contributing to a higher confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T05:49:23",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses deployment in a broad sense, mentioning the ability to deploy applications across multiple platforms and the use of Visual Studio for building and deploying applications. However, it lacks a focused discussion on specific deployment strategies such as Blue-Green Deployments or Canary Releases. The mention of automated builds and deployments hints at deployment practices but does not delve into methodologies or risk management associated with deployments, which are key aspects of the category.",
     "level": "Ignored"
   },
@@ -1231,19 +1078,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:30:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details and tools for application development, without any focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T21:30:58",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses mobile application deployment and development using Visual Studio, without addressing remote work practices, challenges, or solutions related to Agile methodologies.",
     "level": "Ignored"
   },
@@ -1276,11 +1123,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical details about application development and deployment using Visual Studio and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on deploying applications using Visual Studio across multiple platforms, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on aspects of application lifecycle management (ALM) and value delivery, it does not align with the core themes of the Scrum Master role, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1294,24 +1144,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T21:30:58",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses application development technologies and platforms, with no mention of working agreements or related teamwork principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T16:53:51",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content primarily discusses a specific technology and its deployment capabilities across multiple platforms, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and does not delve into best practices or collaborative strategies that are central to the category. While it mentions tools like Visual Studio and Team Foundation Server, the discussion is more about the technology itself rather than the role of developers within Agile or DevOps frameworks.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1324,13 +1162,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T05:49:47",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a demonstration of a tool for deploying applications across multiple platforms, which is more focused on the capabilities of the tool rather than the core principles of Agile engineering practices. While it touches on aspects of automation and standardisation, it lacks a detailed exploration of clean code, TDD, CI/CD, or other key topics outlined in the category. The discussion is more about the practical application of a specific technology rather than the underlying engineering practices that enhance collaboration and efficiency in Agile teams.",
     "level": "Ignored"
   },
@@ -1354,19 +1192,19 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T21:30:58",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details and tooling for mobile application development, rather than strategic aspects of product management.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T21:30:58",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on software deployment and application development across platforms, with no discussion on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1390,10 +1228,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T21:30:58",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses deployment across mobile platforms and integration with Visual Studio, with only a brief mention of storing source in Team Foundation Server, which is not the central theme.",
     "level": "Ignored"
   },
@@ -1408,10 +1246,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T21:30:58",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses application development and deployment across various platforms, without any clear focus on Lean principles or practices related to product development.",
     "level": "Ignored"
   },
@@ -1433,24 +1271,15 @@
     "reasoning": "Content primarily discusses a software demonstration and technical capabilities related to deploying applications across multiple platforms, with no clear focus on accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:30:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on application development and deployment across platforms using Visual Studio, without any mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T05:48:57",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses the capabilities of a development tool and its impact on application delivery, but it does not explicitly focus on throughput as defined in Agile or DevOps contexts. While it mentions delivering value more quickly, it lacks detailed discussions on measuring or optimising throughput, such as cycle time or lead time. The primary focus is on the technical aspects of deployment and development rather than the flow of work or throughput metrics.",
     "level": "Ignored"
   },
@@ -1465,13 +1294,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:35:55",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of deploying applications across multiple platforms using Visual Studio, with minimal discussion on collaboration, decision-making, or value delivery. While it touches on aspects of application lifecycle management (ALM) and mentions the benefits of a unified development approach, it lacks a direct focus on social technologies or the underlying frameworks that promote collaboration and continuous improvement within teams.",
     "level": "Ignored"
   },
@@ -1486,10 +1315,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:23:46",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the use of a unified codebase and deployment process across multiple platforms, which aligns with the principles of an Internal Developer Platform. However, the primary focus is on mobile application development and specific tools rather than a comprehensive discussion on IDPs.",
     "level": "Tertiary"
   },
@@ -1504,62 +1333,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:44:15",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses application development and deployment across various platforms using Visual Studio, with no direct references to Scrum principles, roles, events, or artifacts. While it touches on aspects of Agile methodologies, such as delivering value quickly, it lacks a focused discussion on Scrum as a framework or its specific practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:26:33",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the deployment of applications across multiple platforms using Visual Studio, focusing on the technical aspects of application development rather than integrating testing, security, or compliance early in the software development lifecycle. There are no explicit mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to its principles or benefits.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:14:18",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio 2012, discussing technical aspects and capabilities rather than Continuous Improvement principles. While it touches on streamlining development processes, it lacks explicit discussions on empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are core to Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:14:20",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of deploying applications across multiple platforms using Visual Studio 2012. While it touches on the benefits of standardisation and efficiency in development, it does not explicitly discuss Common Goals within Agile or DevOps frameworks. The mention of delivering value to customers is vague and does not connect to the principles of shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:14:23",
+    "calculated_at": "2025-04-10T15:55:34",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical aspects of deploying applications across multiple platforms using Visual Studio 2012. While it touches on the need for trained developers and mentions the benefits of a holistic build process, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion on competence-related themes is minimal, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on deploying applications across multiple platforms using Visual Studio, which does not directly address the concept of Agentic Agility. While it mentions the ability to streamline development and deliver value, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency. The content does not differentiate between human and AI capabilities, nor does it explore the principles of Agentic Agility in depth.",
     "level": "Ignored"
   }
 }

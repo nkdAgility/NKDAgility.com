@@ -2,7 +2,7 @@
 title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
 description: Unlock the secrets to effective leadership in driving cultural change! Discover how to set a clear vision, invest in automation, and foster collaboration.
 date: 2025-02-07T06:00:27Z
-weight: 445
+weight: 400
 ResourceId: XyprV8F_es4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,15 +30,16 @@ duration: 398
 isShort: false
 tags:
 - Organisational Change
-- Continuous Learning
-- Resilience and Change
 - Agile Leadership
 - Business Agility
 - Change Management
+- Continuous Learning
 - Enterprise Agility
 - Organisational Agility
 - Organisational Culture
-- People and Process
+- Sociotechnical Systems
+- Value Delivery
+- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

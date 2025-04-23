@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T20:50:06",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:05:12",
-    "ai_confidence": 45.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the MSDN subscription and its benefits for developers, which relates to tooling in software development. However, it primarily focuses on licensing and personal use rather than practical techniques or methodologies for Agile or DevOps practices. While it mentions the use of tools like Visual Studio and Azure, it lacks a deeper exploration of how these tools can enhance team performance or collaboration, which is central to the category. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not fully meet the criteria for a high confidence score.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:24:06",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention of Evidence-Based Management principles or metrics. While it touches on software licensing and usage, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:50:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:50:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:50:18",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:50:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with no clear focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -113,24 +65,15 @@
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for individual developers, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:50:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:23:53",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no explicit mention of DevOps principles or practices. While it touches on aspects of software development, it lacks alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is focused on licensing rather than any DevOps-related topics.",
     "level": "Ignored"
   },
@@ -152,18 +95,6 @@
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T06:02:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions a conversation at the MVP Summit, which is an event, but the primary focus is on MSDN licensing and its benefits for developers. There is minimal discussion about the event itself or any presentations related to Agile or DevOps, leading to a low confidence score.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:50:29",
@@ -171,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with no focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:50:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with minimal focus on team dynamics or processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -193,19 +115,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-15T20:50:34",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with no clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:50:35",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -247,10 +169,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T20:50:42",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, which does not align with the core principles of product delivery.",
     "level": "Ignored"
   },
@@ -272,18 +194,6 @@
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T14:56:50",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the benefits and licensing of MSDN subscriptions, which relates to software products but lacks a broader discussion on Agile methodologies or DevOps practices. While it mentions a specific product (MSDN), it does not provide a review or analysis of literature or tools that enhance understanding of Agile or DevOps principles, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T20:50:46",
@@ -295,10 +205,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:50:47",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no clear focus on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
@@ -322,22 +232,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T20:50:51",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and their benefits for developers, which is unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:24:04",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention or alignment to the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management principles, or related topics outlined in the category description.",
     "level": "Ignored"
   },
@@ -348,18 +258,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with no clear focus on organisational agility or related practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T06:02:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses MSDN licensing and its benefits for developers, which is relevant to technology updates. However, it lacks a broader industry context or recent developments in Agile or DevOps, making it more of a personal opinion piece rather than a news or review article. The depth of discussion is limited to personal experiences and observations rather than a comprehensive analysis or review.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -382,10 +280,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses MSDN subscriptions and licensing for software, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
@@ -400,22 +298,22 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing for developers and its benefits, which is not related to product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:24:09",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention of Continuous Delivery principles, practices, or related topics. It lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is focused on licensing rather than any aspect of software delivery practices.",
     "level": "Ignored"
   },
@@ -430,10 +328,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no focus on Lead Time or its related topics.",
     "level": "Ignored"
   },
@@ -448,10 +346,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses MSDN subscriptions and licenses for developers, which is unrelated to the Definition of Ready or backlog item readiness in Agile.",
     "level": "Ignored"
   },
@@ -466,10 +364,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and licensing, which is unrelated to the concept of a Product Backlog in Agile.",
     "level": "Ignored"
   },
@@ -511,10 +409,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and licensing for developers, which is unrelated to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -538,10 +436,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and their benefits for developers rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -565,19 +463,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses MSDN subscriptions and licensing for developers, without a focus on automated testing principles or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses MSDN licensing for developers and does not address team performance or collaboration strategies within agile teams.",
     "level": "Ignored"
   },
@@ -592,58 +490,49 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with a minor mention of acceptance testing, but does not focus on Acceptance Test Driven Development as a central topic.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T12:00:25",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses MSDN subscriptions and their benefits for developers, which relates to software development practices. However, it primarily focuses on licensing and personal use rather than methodologies or best practices in software development. While it touches on aspects relevant to developers, such as the ability to use software for development purposes, it lacks depth in discussing broader software engineering concepts or methodologies.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses MSDN subscriptions and their licensing, without any mention of Agile Project Management principles, methodologies, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licenses and related software benefits for developers, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions for developers, which is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licenses and their benefits to developers, with no focus on source control practices or version control systems.",
     "level": "Ignored"
   },
@@ -667,19 +556,19 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licenses and their benefits, with no mention of Azure Boards or Agile project management.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses MSDN licensing and benefits for developers without any focus on collaboration tools or enhancing Agile team communication.",
     "level": "Ignored"
   },
@@ -719,15 +608,6 @@
     "reasoning": "Content primarily discusses MSDN licensing details and benefits for developers rather than focusing on customer satisfaction or experiences.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses MSDN subscriptions and software licensing for developers, which is unrelated to Scaling Scrum or Scrum principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:28:33",
@@ -746,15 +626,6 @@
     "reasoning": "Content primarily discusses MSDN licenses and their benefits for developers, with no discussion of psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on MSDN subscriptions and their licensing details, which is unrelated to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "calculated_at": "2025-02-16T10:28:33",
@@ -766,19 +637,19 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions for developers and their benefits, with no focus on revenue per employee metrics or related financial efficiency discussions.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers rather than asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -820,29 +691,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on the details and benefits of MSDN licensing for developers, without discussing innovation or empirical data related to enhancing the ability to innovate.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses MSDN licensing and benefits for developers, which is unrelated to Scrum practices or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses MSDN licenses for developers and does not address Agile practices or scaling Agile implementations.",
+    "reasoning": "Content focuses primarily on the details and benefits of MSDN licensing for developers, without discussing innovation or empirical data related to enhancing the ability to innovate.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,19 +736,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its use for developers, which is not directly related to the delivery of functional software or the specific characteristics of working software.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses MSDN subscriptions and licensing for Microsoft development tools, which is unrelated to Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -946,10 +799,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and its benefits for developers, with no mention of hypothesis formulation, experimentation, or validated learning related to product development.",
     "level": "Ignored"
   },
@@ -982,28 +835,28 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and their usage for developers, without any mention of the Product Owner role or related responsibilities in Agile and Scrum.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licenses for developers and does not address Cycle Time or its implications in Agile or DevOps environments.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses MSDN licensing benefits for developers and does not pertain to Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
@@ -1027,19 +880,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and software benefits for individual developers, lacking a focus on team dynamics, communication, or collaboration in Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and licensing rather than Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1052,22 +905,13 @@
     "reasoning": "The content primarily discusses MSDN subscriptions and their usage for developers, without a focus on digital transformation strategies or the integration of digital technologies into business processes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and licensing for developers, without reference to Minimum Viable Products or related themes.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, which is unrelated to AI or its integration in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1081,10 +925,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licenses and their benefits for developers, not product strategy or related methodologies.",
     "level": "Ignored"
   },
@@ -1117,22 +961,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on MSDN licensing and benefits for developers, with no clear discussion on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or the impact of testing on software delivery.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:45:09",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 64.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses MSDN subscriptions, which are related to Microsoft products, including Windows. However, the primary focus is on licensing and usage rights rather than specific Windows installation, configuration, or troubleshooting. While there are mentions of Windows and its licensing, the depth of discussion does not extensively cover the core themes of the Windows operating system, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1156,10 +1003,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing for developers and does not address team motivation, engagement, or any related psychological or social aspects of team dynamics.",
     "level": "Ignored"
   },
@@ -1201,11 +1048,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on MSDN subscriptions and software licensing for developers, with no relevant discussion on Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no direct mention of Scrum Master roles or responsibilities. It does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The discussion lacks depth regarding Scrum practices or the impact of a Scrum Master on team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1224,18 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing details and benefits for developers without reference to working agreements, teamwork, or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:02:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses MSDN subscriptions and their benefits for developers, which is relevant to software developers. However, it primarily focuses on licensing and usage rights rather than Agile, DevOps, or modern engineering practices. The discussion lacks depth in terms of methodologies or practices that enhance productivity or collaboration, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1276,10 +1114,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses MSDN licensing and its benefits for developers, which is not related to the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1312,10 +1150,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN subscriptions and licensing, with no clear focus on Azure Repos or its functionalities.",
     "level": "Ignored"
   },
@@ -1330,10 +1168,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses MSDN licensing and its benefits for developers, with no clear relevance to Lean Product Development.",
     "level": "Ignored"
   },
@@ -1355,15 +1193,6 @@
     "reasoning": "Content primarily focuses on MSDN licensing and does not discuss accountability within Agile teams or principles related to ownership and team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:28:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about MSDN licensing for developers and does not discuss Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:28:33",
@@ -1375,22 +1204,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:28:33",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:37:28",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the benefits and licensing of MSDN subscriptions for developers, which does not align with the core themes of Social Technologies. While there are brief mentions of collaboration in the context of software usage, the discussion lacks depth and does not address self-organisation, collective intelligence, or value delivery within organisations. The content is more about technical licensing than social frameworks or methodologies.",
     "level": "Ignored"
   },
@@ -1405,10 +1234,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:25:35",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MSDN licensing and benefits for developers, which is not related to Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1423,62 +1252,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:41",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses MSDN licensing for developers and does not mention Scrum principles, roles, events, or any related topics. There is minimal conceptual alignment with Scrum, and the depth of discussion is focused on software licensing rather than project management frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:28:04",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses MSDN licensing and its benefits for developers, with no direct mention of the Shift-Left Strategy or its principles. While it touches on aspects of software development, it does not align with the core themes of integrating testing, security, or compliance early in the development process.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:23:58",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the benefits and licensing of MSDN subscriptions for developers, with no substantial discussion on Continuous Improvement principles or practices. While it touches on enhancing development skills, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:24:00",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the benefits and licensing of MSDN subscriptions for developers, which does not align with the principles of Common Goals in Agile and DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:24:02",
+    "calculated_at": "2025-04-10T15:55:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the benefits of MSDN subscriptions for developers, which indirectly relates to competence by enhancing development skills. However, it primarily focuses on licensing and usage rights rather than the broader themes of continuous learning, skill development, or fostering a culture of competence. The depth of discussion on competence is limited, as it does not explore strategies for skill enhancement or the impact of competence on team dynamics.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses MSDN subscriptions and their benefits for developers, with no explicit mention of Agentic Agility or its principles. While there is a brief reference to individual licensing, it does not align with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The focus is on software licensing rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

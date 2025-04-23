@@ -1,24 +1,15 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:35:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:26:26",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 85.0,
     "ai_mentions": 90.0,
     "ai_alignment": 80.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content provides a detailed step-by-step guide on installing and configuring Service Pack 1 (SP1) for Team Foundation Server (TFS), which directly aligns with the category of Install and Configuration. It explicitly mentions installation procedures and troubleshooting steps, demonstrating a strong focus on the technical aspects of setting up the software. The depth of discussion is high, as it outlines specific actions to take during the installation process and addresses potential issues that may arise, which is crucial for effective implementation. Overall, the content is highly relevant to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -27,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for installing and repairing Team Foundation Server, with no focus on decision-making processes or uncertainty.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:35:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical installation steps for Team Foundation Server and does not address human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:35:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical installation and troubleshooting of Team Foundation Server SP1, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -94,13 +67,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:49:32",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it primarily focuses on installation issues rather than the broader functionalities or best practices associated with Azure DevOps. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices, agile project management, or integration with other tools, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -115,10 +88,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:35:36",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server SP1, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -129,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, which is not central to platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:35:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server SP1, which is not related to code quality or complexity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -203,36 +167,15 @@
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server SP1, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:35:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting and installation steps for Team Foundation Server SP1, lacking a discussion on industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T19:06:52",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a practical step-by-step guide for installing and repairing Team Foundation Server (TFS) SP1, which directly relates to tooling in Agile and DevOps practices. It explicitly mentions installation procedures and troubleshooting techniques, aligning well with the category's focus on practical application. The depth of discussion is significant as it outlines specific actions to resolve issues, although it lacks broader context on Agile methodologies or frameworks. Overall, the content is primarily focused on practical techniques and tooling, justifying a high confidence score.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T10:53:49",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 35.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses specific steps related to the installation and repair of Team Foundation Server (TFS) SP1, which is relevant to the application lifecycle, particularly in the deployment and maintenance stages. However, it lacks a broader discussion on methodologies, best practices, or tools that encompass the entire application lifecycle. The mention of 'ALM' in the tags indicates some relevance, but the primary focus is on troubleshooting rather than comprehensive lifecycle management.",
     "level": "Tertiary"
   },
@@ -261,15 +204,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server SP1, with no focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:35:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server SP1, with no reference to events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -308,33 +242,6 @@
     "reasoning": "Content primarily discusses technical steps and solutions related to Team Foundation Server, with no personal reflections or experiences shared.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:36:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to Team Foundation Server and its service pack installation, with no emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:36:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting steps for Team Foundation Server SP1, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:36:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting steps for Team Foundation Server SP1, without focusing on reviews, analyses, or discussions of literature or tools related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:36:10",
@@ -346,19 +253,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:36:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, which is not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting installation issues related to Team Foundation Server (TFS) and does not engage with the core principles of DevOps. While TFS is a tool that can be used in a DevOps context, the discussion lacks explicit references to DevOps philosophy, practices, or cultural shifts. The content does not address collaboration, automation, or shared accountability, which are central to DevOps. Therefore, it only marginally touches on the category without providing substantial depth or alignment.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:36:13",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, which is not related to the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -382,13 +292,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T17:10:59",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the installation and troubleshooting of Service Pack 1 (SP1) for Team Foundation Server (TFS), which operates on the Windows environment. However, while it mentions installation procedures, it lacks a broader discussion on Windows itself, such as configuration settings or system updates. The focus is primarily on TFS rather than the Windows operating system, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -403,10 +313,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues and solutions related to Team Foundation Server and does not reference the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -437,15 +347,6 @@
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, with no focus on empirical process control principles or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on issues related to Team Foundation Server and its installation process, which is unrelated to Scaling Scrum practices.",
-    "level": "Ignored"
-  },
   "Increment": {
     "category": "Increment",
     "calculated_at": "2025-02-17T11:08:57",
@@ -466,15 +367,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:21:38",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the installation and configuration steps for Team Foundation Server (TFS) SP1, which directly aligns with the category of System Configuration. It provides a clear, step-by-step guide on how to set up the software, addressing both the installation of different tiers and troubleshooting methods. The depth of discussion is significant as it outlines specific actions to take in case of issues, demonstrating a practical approach to system configuration. Overall, the content is focused on the technical aspects of configuring a system, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -514,10 +415,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server with no focus on delivering functional software or user requirements.",
     "level": "Ignored"
   },
@@ -541,15 +442,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:49:38",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses installation and troubleshooting steps for Team Foundation Server (TFS) SP1, which is relevant to software development practices, particularly in the context of version control and application lifecycle management (ALM). However, the discussion lacks depth and does not explore broader methodologies or best practices in software development, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -571,10 +472,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical installation steps for Team Foundation Server without any focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -623,15 +524,6 @@
     "reasoning": "Content discusses technical issues related to installing and repairing TFS SP1 rather than long-term objectives or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting installation issues with Team Foundation Server and does not discuss any scaling Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:08:57",
@@ -652,10 +544,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation and troubleshooting steps for Team Foundation Server (TFS) and does not discuss team performance, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -688,22 +580,22 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:49:34",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 85.0,
     "ai_mentions": 90.0,
     "ai_alignment": 80.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
+    "final_score": 85.0,
     "reasoning": "The content explicitly discusses troubleshooting steps for issues encountered after installing SP1 for Team Foundation Server, which aligns directly with the category's focus on identifying and resolving technical issues. The detailed solution steps provided demonstrate a clear methodology for diagnosing and fixing problems, showcasing a strong alignment with the core themes of troubleshooting. The depth of discussion is substantial, as it outlines specific actions to take when encountering problems, thus providing practical insights into the troubleshooting process.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to Team Foundation Server (TFS) and its Service Pack 1, which is unrelated to Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -727,13 +619,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:49:41",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a practical solution for installing and troubleshooting Team Foundation Server (TFS) SP1, which touches on technical aspects of software installation and maintenance. However, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The focus is primarily on a specific issue rather than a comprehensive exploration of technical mastery.",
     "level": "Ignored"
   },
@@ -802,10 +694,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical installation steps for Team Foundation Server SP1, with no discussions on Agile values or principles.",
     "level": "Ignored"
   },
@@ -883,10 +775,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on troubleshooting Team Foundation Server installation issues, with no mention of Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -899,7 +791,7 @@
     "reasoning": "Content is focused on troubleshooting Team Foundation Server (TFS) SP1 installation issues and does not discuss Azure Boards or its functionalities.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:08:57",
     "ai_confidence": 0,
@@ -951,15 +843,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to Team Foundation Server (TFS) and SP1 installation, with no focus on Agile methodologies or strategy.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installation and troubleshooting of Team Foundation Server (TFS), which does not align with discussions directly about software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1014,15 +897,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on troubleshooting Team Foundation Server (TFS) and does not discuss Scrum Values or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server installation and troubleshooting, with no mention of Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1108,15 +982,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:49:32",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content provides a practical solution to a specific problem related to Team Foundation Server (TFS) and its Service Pack 1 (SP1) installation. While it does not explicitly mention Agile, Scrum, or DevOps, it demonstrates pragmatic thinking through the step-by-step troubleshooting approach. However, the discussion lacks depth in terms of broader Agile or DevOps principles and does not explore the implications of these solutions in a complex environment, which limits its alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1156,10 +1030,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation and troubleshooting of TFS SP1, which is not related to remote working or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1183,19 +1057,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses installation and troubleshooting of Team Foundation Server without any reference to working agreements or teamwork principles.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server, with no relevance to revenue per employee metrics or financial efficiency.",
     "level": "Ignored"
   },
@@ -1224,15 +1098,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses installation and troubleshooting of Team Foundation Server, without focus on test automation principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to Team Foundation Server (TFS) SP1, with no mention or relevance to Scrum principles or product development practices.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1264,13 +1129,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:49:36",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a practical solution for installing and repairing Team Foundation Server (TFS) SP1, which relates to operational practices in a technical context. However, it lacks a broader discussion on methodologies like Agile, DevOps, or Lean, and does not delve into process optimisation or continuous improvement strategies. The focus is primarily on troubleshooting rather than enhancing operational efficiency.",
     "level": "Ignored"
   },
@@ -1290,24 +1155,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on troubleshooting installation issues with Team Foundation Server and does not discuss innovation, evidence-based management, or related topics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on troubleshooting and installation steps for Team Foundation Server SP1, which does not relate to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting installation issues related to Team Foundation Server and does not discuss Agile methodologies or principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1330,10 +1177,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:08:57",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical installation steps for Team Foundation Server (TFS) and SP1, not team dynamics or collaboration.",
     "level": "Ignored"
   },
@@ -1353,15 +1200,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content predominantly discusses installation and troubleshooting of Team Foundation Server SP1, with no focus on Value Stream Mapping or related Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on installation and troubleshooting of Team Foundation Server SP1, with no discussion of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1384,11 +1222,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:32:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:15",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) SP1, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on troubleshooting technical issues related to the installation of Team Foundation Server (TFS) SP1. It does not discuss any aspects of collaboration, decision-making, or value delivery, which are central to the category of Social Technologies. While it mentions installation steps, it lacks any exploration of social frameworks or methodologies that promote teamwork or organisational improvement.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1420,26 +1261,50 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:22:59",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses installation and troubleshooting of Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related concepts. It lacks any substantial discussion on Scrum, making it only tangentially related at best.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:51:36",
+    "calculated_at": "2025-04-10T15:57:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on installation and troubleshooting of Team Foundation Server (TFS) SP1, with no direct mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting installation issues for Team Foundation Server (TFS) SP1, which does not align with the principles of Common Goals in Agile and DevOps. There are no explicit discussions of shared objectives, alignment, or strategic goals. The content lacks depth in relation to the category, as it is more of a technical guide rather than a discussion on aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on troubleshooting installation issues for Team Foundation Server (TFS) SP1, which does not directly address the principles of competence in Agile or DevOps. While it mentions steps to resolve technical problems, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is limited to procedural instructions rather than fostering a culture of competence or inspecting and adapting skills over time.",
     "level": "Ignored"
   }
 }

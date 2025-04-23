@@ -26,24 +26,25 @@ preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
 tags:
-- Agile Project Management
-- Software Development
-- People and Process
 - Agile Transformation
+- Software Development
 - Organisational Agility
+- Agile Philosophy
 - Agile Product Management
 - Agile Values and Principles
-- Agile Philosophy
 - Agile Strategy
 - Business Agility
+- Continuous Improvement
+- Organisational Culture
+- Product Delivery
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 In my journey as a Scrum trainer, I’ve often encountered a startling statistic: according to Forrester Research, around 81% of development shops claim to be agile. However, the reality is that many of these organisations are not being entirely truthful about their practices. This disconnect raises an important question: how can we discern genuine agility from mere lip service? 

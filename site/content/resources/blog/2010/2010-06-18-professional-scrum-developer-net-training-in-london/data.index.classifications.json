@@ -1,77 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-07T15:35:41",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 70.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a Professional Scrum Developer course, which is closely related to Agile methodologies, particularly Scrum. It discusses the roles within Scrum, such as the Product Owner, and emphasizes team collaboration and self-organisation, which are key aspects of Agile Product Management. However, while it touches on Agile principles, the depth of discussion on product management strategies and customer alignment is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T13:04:26",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content provides a comprehensive overview of the Professional Scrum Developer course, detailing practical techniques and tools used in Agile and DevOps practices, particularly within the Scrum framework. It explicitly mentions tools like Visual Studio 2010 and Team Foundation Server, and discusses methodologies such as Scrum, including specific practices like Test Driven Development and Continuous Integration. The depth of discussion is significant, covering various modules and hands-on activities that enhance team performance and collaboration, aligning well with the category's focus.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T00:30:19",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on a training course rather than platform engineering principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:53:46",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a Scrum training course, discussing roles, practices, and tools without any explicit mention of Evidence-Based Management principles or metrics. While it touches on Agile practices, it lacks a direct connection to data-informed decision-making or empirical evidence, which are central to EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:55:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on a Scrum training course, which is more about project management and team dynamics than the complexities of code quality and software development processes. While it touches on some relevant topics like self-organising teams and best practices in software development, it lacks a deep exploration of code quality principles, complexity theory, or specific strategies for managing complexity in codebases. Therefore, it does not align closely with the core themes of the 'Code and Complexity' category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Professional Scrum Developer course, which includes elements of learning and team dynamics, but primarily focuses on the course structure and technical details rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:30:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on a Scrum Developer training course, discussing Scrum roles, practices, and tools without any mention of AI or automation technologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,20 +43,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:30:34",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course on Scrum development rather than installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:30:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum Developer course details, including structure, modules, and logistics, without a clear emphasis on transparency and accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -112,31 +61,22 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses team dynamics, self-organising teams, and the interaction between social and technical aspects in the context of a Scrum training course, making it a major but secondary theme.",
     "level": "Tertiary"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:30:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical training course for software developers, detailing Scrum practices and tools, without a clear emphasis on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:53:31",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a Scrum training course, which is more aligned with Agile methodologies than DevOps principles. While there are mentions of collaboration and self-organising teams, the core themes of DevOps, such as automation, continuous integration, and shared accountability across development and operations, are not adequately addressed. The discussion lacks depth in terms of DevOps practices and does not explore the cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
@@ -158,38 +98,14 @@
     "reasoning": "Content primarily focuses on a Scrum training course, detailing its structure, modules, and logistics, without a clear emphasis on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T15:02:50",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content primarily focuses on a specific training event, the Professional Scrum Developer course, which is a structured learning experience involving presentations, hands-on exercises, and team collaboration. It explicitly mentions the event's details, the instructors, and the course structure, aligning well with the key topics of the category. The depth of discussion is significant, covering various modules and learning outcomes, which further supports a high confidence score.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum practices and team dynamics, which are related to flow efficiency, but the primary focus is on the training course rather than optimising work throughput.",
     "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T18:50:39",
-    "ai_confidence": 87.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 90.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 30,
-    "final_score": 81.0,
-    "reasoning": "The content extensively discusses the Professional Scrum Developer course, which focuses on team dynamics, self-organisation, and collaboration within Agile frameworks. It highlights the importance of team roles, effective communication, and the human factors involved in Scrum practices. The depth of discussion on how teams are formed, the emphasis on retrospectives, and the identification of dysfunctions within teams aligns closely with the core themes of the 'People and Process' category.",
-    "level": "Primary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -211,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:30:57",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the Professional Scrum Developer course, detailing its structure, modules, and training methods, without a clear emphasis on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -229,22 +145,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T10:40:11",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on a training course for Scrum developers, which includes various technical practices such as Test-Driven Development (TDD), Continuous Integration, and emergent architecture. While these topics align with the principles of Technical Excellence, the overall emphasis is more on the course structure and logistics rather than a deep exploration of technical methodologies. The mentions of technical practices are present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses self-organising teams and emergent architecture within the context of the Scrum framework, which relates to complexity thinking. However, the primary focus is on the training course and Scrum practices rather than a deep exploration of complexity science.",
     "level": "Tertiary"
   },
@@ -259,15 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T12:05:30",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which is fundamentally focused on product delivery methodologies, particularly through the Scrum framework. It covers key aspects such as team dynamics, sprint planning, and the iterative development process, aligning well with the core themes of product delivery. The depth of discussion is significant, detailing various modules that address planning, testing, and deployment practices, which are essential for delivering software products effectively.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -287,36 +203,24 @@
     "reasoning": "Content heavily discusses the Professional Scrum Developer course and Scrum practices, which are not directly related to Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-11T15:09:40",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on a specific training course for the Professional Scrum Developer, which is a product related to Agile methodologies. It discusses the course structure, benefits, and the tools used, aligning with the category's focus on products that facilitate Agile practices. However, while it mentions the course and its details, it lacks in-depth analysis or reviews of the course materials or methodologies, which limits its depth of discussion.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-11T17:00:04",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a training course for Scrum developers, which includes elements of iterative development and team collaboration. However, while it mentions Scrum practices and team dynamics, it lacks a strong emphasis on strategies for measuring and maximising customer value or continuous delivery practices. The discussion is more about the course structure and logistics rather than a deep exploration of value delivery principles.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Professional Scrum Developer course, which includes the use of Visual Studio and Team Foundation Server, both of which are part of the Azure DevOps ecosystem. However, the primary focus is on Scrum methodology rather than Azure DevOps specifically.",
     "level": "Tertiary"
   },
@@ -340,121 +244,112 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:31:19",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the Professional Scrum Developer course and Scrum framework, with no clear discussion on the One Engineering System (1ES) principles or practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:53:43",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific training course for Professional Scrum Developers, which is more aligned with Scrum practices than the broader Agile Product Operating Model. While it mentions Agile practices and Scrum, it does not delve into the principles of the Agile Product Operating Model or discuss transitioning to a product-oriented mindset. The depth of discussion on Scrum roles and events is significant, but it lacks a direct connection to the APOM framework, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Developer course, which includes elements of Agile methodologies and self-organising teams, but it is more about the course details than a broader discussion on organisational agility.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific training course related to Scrum, which is relevant to Agile methodologies. However, it lacks broader industry news or reviews, making it a secondary theme.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:31:25",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the Professional Scrum Developer course, discussing Scrum roles, practices, and training rather than the comprehensive management of the application lifecycle.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a Professional Scrum Developer training course and does not focus specifically on the Daily Scrum event.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-03-15T06:54:13",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content briefly mentions the concept of 'done' in the context of defining quality attributes and acceptance criteria during the course. However, it does not provide a comprehensive discussion on the Definition of Done itself, nor does it explore its importance or best practices in detail. The focus is primarily on the course structure and logistics rather than a thorough exploration of the Definition of Done.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:54:16",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 75.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on a Professional Scrum Developer course, which is deeply rooted in technical practices and methodologies relevant to software craftsmanship. It discusses various aspects of software development, including Scrum roles, team dynamics, and technical practices such as Test Driven Development, continuous integration, and emergent architecture. The depth of discussion is significant, covering specific modules and learning outcomes that align closely with the principles of technical mastery. While there are mentions of team dynamics, they are framed within the context of improving technical delivery, thus maintaining a strong focus on technical excellence.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course on Scrum development practices without focusing on identifying customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:53:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on a Scrum training course, which is related to Agile methodologies but does not explicitly discuss Continuous Delivery principles. While it mentions concepts like 'potentially shippable increments' and 'continuous integration', these are secondary to the main focus on Scrum roles and practices. The depth of discussion on Continuous Delivery is minimal, lacking detailed exploration of its principles, automation, or cultural aspects.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes a technical training course for Scrum developers, focusing on practical skills and course details. It does not address long-term objectives or strategic business goals.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes a training course for Scrum and software development, but does not focus on Lead Time or its metrics.",
     "level": "Ignored"
   },
@@ -469,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a professional training course for Scrum developers, with no focus on the Definition of Ready concepts or criteria.",
     "level": "Ignored"
   },
@@ -487,31 +382,31 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content includes several mentions of the Product Backlog, particularly in the context of sprint planning and defining product requirements, but the primary focus is on the training course itself rather than detailed discussions about backlog management.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T06:54:26",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 75.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which is fundamentally rooted in Agile principles and practices. It covers key aspects of Agile Planning, such as sprint planning, backlog management, and the importance of self-organising teams. The depth of discussion includes specific modules on planning, release planning, and sprint planning, which are critical components of Agile methodologies. The content aligns well with the core themes of Agile Planning, focusing on flexibility, iterative processes, and team collaboration.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Professional Scrum Developer course, focusing on Scrum roles and practices, without mentioning Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -526,64 +421,64 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Developer course, which is designed to enhance operational practices within Agile frameworks. It discusses various Scrum methodologies, team dynamics, and practical applications of Agile principles, such as self-organisation, timeboxing, and continuous improvement. The depth of discussion is significant, covering multiple modules that detail specific practices and techniques aimed at improving operational efficiency in software development. However, while the course content aligns well with operational practices, it is somewhat promotional in nature, which slightly detracts from its primary focus on operational efficiency.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T18:11:09",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which focuses on Scrum teams, their roles, and dynamics. It highlights team collaboration, self-organisation, and the importance of effective communication within Scrum teams. The course structure includes practical applications of Scrum roles, sprints, and retrospectives, aligning closely with the key topics of the Scrum Team category. The depth of discussion is significant, covering various aspects of team dynamics and practices in detail.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a specific training course related to Scrum, a framework within Agile, emphasizing practical skills and processes rather than the underlying philosophies or principles of Agile itself.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T06:54:04",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 30,
     "non_ai_confidence": 50,
-    "final_score": 32.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily focuses on a professional training course for Scrum developers, with a strong emphasis on executing Scrum practices and developing software. It discusses course structure and roles in Scrum rather than strategic alignment or optimising delivery processes within Agile frameworks.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course related to Scrum and software development, rather than discussing methodologies and practices for product validation with real users.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T06:54:07",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on a Professional Scrum Developer course, which is closely related to Agile transformation principles and practices. It discusses Scrum roles, sprints, and team dynamics, aligning well with Agile methodologies. However, while it provides substantial detail on Scrum, it lacks broader discussions on organisational agility, change management, and leadership roles in Agile transformations, which are key aspects of the category. Therefore, while the content is relevant, it does not fully encompass the wider scope of Agile transformation.",
     "level": "Secondary"
   },
@@ -598,34 +493,34 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of automated testing, specifically in relation to Test Driven Development and Continuous Integration within a Scrum framework, but it primarily focuses on the Professional Scrum Developer course and its structure rather than solely on automated testing principles.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T06:54:10",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which focuses on team dynamics, self-organisation, and collaboration within Agile frameworks. It highlights the importance of forming effective teams, conducting retrospectives, and managing sprints, all of which are key aspects of team performance in Agile. The depth of discussion on team roles, responsibilities, and the collaborative nature of the course supports a high confidence score, as it aligns closely with the category's focus on enhancing team effectiveness and communication.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-15T06:54:30",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which focuses on delivering potentially shippable increments of software through practical exercises and team collaboration. It highlights the importance of Scrum practices, including sprints, planning, and retrospectives, all of which are integral to producing increments. The course structure and objectives align closely with the Increment category, providing detailed insights into how attendees will learn to create valuable software increments. However, while the content is rich in relevant information, it does not delve deeply into measuring the value of increments or strategies for incorporating feedback, which slightly lowers the depth score.",
     "level": "Primary"
   },
@@ -643,73 +538,61 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T06:54:21",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content primarily focuses on a Professional Scrum Developer course, which is deeply rooted in software development practices, particularly within the Agile framework. It discusses various aspects of the Scrum methodology, including team dynamics, sprint planning, and the use of Visual Studio for software development. The detailed breakdown of course modules highlights best practices, tools, and techniques relevant to software engineering, aligning closely with the key topics of the Software Development category. The depth of discussion is substantial, covering multiple facets of the development process, which further supports a high confidence score.",
     "level": "Primary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T06:54:32",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content extensively discusses the Professional Scrum Developer course, which is centred around the Scrum framework, a key aspect of Agile Project Management. It covers various Scrum roles, ceremonies, and practices, demonstrating a strong alignment with agile principles. The depth of discussion is significant, detailing course modules that include sprint planning, team dynamics, and iterative development, all of which are core to agile methodologies. Overall, the content is highly relevant and focused on Agile Project Management.",
-    "level": "Secondary"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a Scrum Developer training course that highlights concepts like self-organizing teams, timeboxing, and retrospectives, which are aligned with Agile principles. However, the primary focus is on the course details and Scrum framework, rather than a thorough exploration of Agile values themselves.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T06:54:18",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 92.0,
     "ai_mentions": 85.0,
     "ai_alignment": 95.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Developer course, detailing its structure, objectives, and the Scrum framework's application in a practical setting. It explicitly mentions Scrum roles, events, and artifacts, aligning closely with the core themes of the Professional Scrum category. The depth of discussion is significant, covering various modules and learning outcomes related to Scrum, making it a comprehensive resource for professionals looking to enhance their Scrum knowledge and skills.",
     "level": "Primary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the implementation of Scrum and mentions the use of Visual Studio and Team Foundation Server for managing software development, which includes aspects of source control practices like branching and collaboration. However, the primary focus of the content is on Scrum training rather than source control methodologies.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Professional Scrum Developer course which emphasizes the Scrum framework, including concepts such as self-organizing teams, inspection and adaptation through retrospectives, and delivering potentially shippable increments. While these elements relate to empirical process control, the primary focus appears to be on the course details and structure rather than a deep discussion of empirical process control principles.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T10:28:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Developer course, discussing course details, modules, and logistics rather than the Scrum values themselves.",
     "level": "Ignored"
   },
@@ -724,10 +607,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a training course for Scrum that emphasizes teamwork, self-organization, and collaboration, making collaboration a significant theme, but it does not primarily focus on specific collaboration tools.",
     "level": "Tertiary"
   },
@@ -751,10 +634,10 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily focuses on a Scrum training course, it discusses concepts related to delivering increments of software in sprints, which aligns with the principles of frequent releases. However, it is not the clear primary topic.",
     "level": "Tertiary"
   },
@@ -765,15 +648,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a training course for Scrum developers, focusing on technical aspects, roles, and processes, with no mention of customer satisfaction metrics or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:28:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on a specific Scrum training course for developers and does not discuss Scaling Scrum principles, frameworks, or practices relevant to larger organizations.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -794,26 +668,17 @@
     "reasoning": "The content focuses primarily on a Professional Scrum Developer training course, detailing course logistics, schedules, modules, and content. There is little to no direct discussion on psychological safety or its importance in team dynamics, which does not align with the specified category.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:28:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on a specific training course for the Scrum framework, which is centered on team-level agility rather than scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:35:36",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on a Professional Scrum Developer course, which is directly related to software craftsmanship and development practices. It discusses various aspects of Scrum, including team dynamics, coding standards, and best practices in software development. The course content covers essential topics such as continuous integration, automated builds, and technical debt management, aligning well with the principles of engineering excellence. The depth of discussion is significant, providing detailed insights into the course structure and expected outcomes, which further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -826,10 +691,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum training course, which emphasizes synchronous development practices and co-located team dynamics rather than asynchronous collaboration.",
     "level": "Ignored"
   },
@@ -853,53 +718,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:54:34",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which focuses on practical applications of Scrum principles in a real-world training environment. It highlights hands-on experiences, team dynamics, and practical problem-solving strategies, aligning well with the core themes of Pragmatic Thinking. The depth of discussion is significant, covering various modules and techniques that enhance collaboration and efficiency in software development, thus demonstrating a strong alignment with the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses elements of Sprint Planning and backlog management relevant to a Professional Scrum Developer course, indicating that backlog refinement is a part of the training; however, the primary focus is on the course and overall Scrum training.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a specific Scrum training course rather than discussing the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T06:55:04",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 30,
-    "final_score": 81.0,
-    "reasoning": "The content extensively discusses the Professional Scrum Developer course, which is centred around Scrum principles and practices. It covers key aspects such as Scrum roles, sprint planning, execution, and review processes, as well as the importance of self-organising teams and iterative development. The depth of discussion is significant, detailing course modules that align closely with Scrum methodologies, making it a strong fit for the category.",
-    "level": "Primary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:28:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Developer course which focuses on Scrum as an individual Agile practice, rather than scaling Agile across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -922,13 +766,13 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-15T06:55:19",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Professional Scrum Developer course, which includes elements of test automation such as Test Driven Development (TDD) and continuous integration. However, the primary focus is on Scrum practices and team dynamics rather than a dedicated exploration of test automation principles or frameworks. While there are mentions of automated testing and related practices, they are not the central theme of the content.",
     "level": "Secondary"
   },
@@ -943,37 +787,37 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:54:52",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which focuses on delivering potentially shippable increments of software using the Scrum framework. It covers key aspects such as team dynamics, quality attributes, and iterative development, aligning well with the principles of working software. The depth of discussion on practical applications, hands-on exercises, and the importance of self-organising teams further supports its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-15T06:54:39",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Professional Scrum Developer course, which includes elements of Agile planning such as sprint planning and backlog management. However, the primary focus is on the course structure and experience rather than a detailed exploration of Agile Planning Tools themselves. While there are mentions of planning techniques and tools like Visual Studio, the depth of discussion on Agile Planning Tools is limited, making it a secondary focus.",
     "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T06:54:56",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 75.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
+    "final_score": 75.0,
     "reasoning": "The content discusses the Professional Scrum Developer course, which includes a module on Continuous Integration. However, the primary focus of the content is on Scrum practices and training rather than CI itself. While CI is mentioned and its importance is acknowledged, it is not explored in depth, and the overall emphasis remains on Scrum methodologies and team dynamics.",
     "level": "Secondary"
   },
@@ -988,10 +832,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on a specific training course for software developers using the Scrum framework, without addressing leadership roles or practices within Agile contexts.",
     "level": "Ignored"
   },
@@ -1006,19 +850,19 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Scrum training course, which focuses on Scrum methodology and software development practices rather than Site Reliability Engineering principles.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Developer course and its structure, emphasizing Scrum roles, practices, and team collaboration rather than on hypothesis formulation, experimentation, or data-driven development decision-making.",
     "level": "Ignored"
   },
@@ -1042,28 +886,28 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects related to planning and managing releases, such as defining quality attributes, acceptance criteria, and release vs. sprint planning, making it a major but secondary theme.",
     "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Professional Scrum Developer course that involves Product Owners and mentions their role in backlog presentations and sprint planning, but the main focus is on developer training and Scrum principles.",
     "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Scrum training course without a focus on Cycle Time as a measurement of workflow efficiency.",
     "level": "Ignored"
   },
@@ -1078,10 +922,10 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Professional Scrum Developer course, which includes concepts related to Agile practices and mentions some aspects of planning releases and sprints. However, it primarily focuses on the course structure and teaching methods rather than specifically on the frequency of deployments or optimization strategies.",
     "level": "Tertiary"
   },
@@ -1096,53 +940,44 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T06:54:37",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 75.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which focuses on team dynamics, self-organisation, and collaboration within Agile frameworks. It highlights the importance of working in cross-functional teams, the role of shared ownership, and techniques for effective communication and collaboration during sprints. The depth of discussion on team formation, roles, and the collaborative nature of the course supports a high confidence score in the Team Collaboration category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum roles, practices, and training but does not specifically address Behaviour Driven Development principles, practices, or techniques.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T06:55:21",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific training course for Scrum developers, detailing the course structure, modules, and expected outcomes. While it touches on Agile methodologies and team dynamics, it lacks a direct discussion on the strategic adoption of digital technologies for business transformation. The mention of tools like Visual Studio and Scrum practices indicates some alignment with digital transformation concepts, but the overall focus is more on training and technical skills rather than broader organisational change or digital strategy.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:28:50",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a Scrum training course rather than topics relating to Minimum Viable Products.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:28:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly focuses on a Professional Scrum Developer course without any reference to AI applications or methodologies in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1156,61 +991,64 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on the details of a Professional Scrum Developer course, including its structure, roles, and implementation aspects, which do not align with product strategy methodologies and frameworks.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a training course focused on Scrum practices and principles, which are related to the theme of technical leadership in guiding teams, but it primarily serves as an advertisement for the course rather than a detailed discussion of technical leadership itself.",
     "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-15T06:55:07",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions estimation in the context of the Professional Scrum Developer course, specifically in the planning module where it discusses estimating product backlog items. However, the overall focus of the content is on the course structure and logistics rather than a deep exploration of estimation techniques or practices. While there is some alignment with the category through the mention of planning and estimation, the depth of discussion is limited, and the primary focus remains on the course itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-03-15T06:54:42",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the formation of cross-functional Scrum teams in the context of a Professional Scrum Developer course. It highlights the importance of diverse skills within teams and the collaborative nature of Scrum, aligning well with the core themes of cross-functional teams. However, while it provides a good overview, it lacks in-depth exploration of best practices and challenges faced by such teams, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content briefly discusses Test Driven Development (TDD) as part of a broader training on Scrum practices, but it is primarily focused on delivering software in a Scrum framework rather than emphasizing Test First Development as a core theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Professional Scrum Developer course, which includes elements of Test First Development, particularly through the mention of Test Driven Development (TDD) as a design tool. However, the primary focus of the content is on Scrum practices and the course structure rather than a dedicated exploration of Test First Development principles. While there are relevant mentions and some depth regarding TDD, the overall emphasis is more on Scrum and Agile methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Visual Studio 2010, a Windows-based application, in the context of a course about Scrum for developers, making Windows a secondary theme.",
     "level": "Tertiary"
   },
@@ -1234,31 +1072,31 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses a training course focused on Scrum and team dynamics, including self-organizing teams and collaboration. While it touches upon the importance of team interaction and developing potentially shippable increments, it is more centered around course structure and technical skills, making Team Motivation a significant but secondary theme.",
     "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a Professional Scrum Developer training course, discussing the course structure, topics, and logistics without addressing remote work practices or challenges directly.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T06:55:01",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on a specific training course for Scrum developers, which includes elements of team collaboration and self-organisation. While it mentions aspects of learning and improvement through hands-on exercises and retrospectives, it lacks a strong emphasis on the broader principles of Continuous Learning, such as fostering a growth mindset or effective knowledge sharing. The depth of discussion on Continuous Learning practices is moderate, but the primary focus remains on the course structure and content rather than on continuous improvement philosophies.",
     "level": "Secondary"
   },
@@ -1282,130 +1120,121 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the Professional Scrum Developer course which includes aspects related to Scrum roles and ceremonies, making Scrum Master a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on a training course for software developers using the Scrum framework, with only brief mentions of the Scrum Master role. While it discusses Scrum principles and team dynamics, it lacks in-depth exploration of the Scrum Master's responsibilities, techniques, or influence on organisational change, which are key aspects of the category.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily focuses on promoting the Professional Scrum Developer course and its structure, it discusses aspects of transparency in terms of teamwork and self-organization. However, it lacks a dedicated emphasis on transparency as a primary theme in Agile processes.",
     "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Professional Scrum Developer course, detailing its structure, modules, and training aspects without direct focus on working agreements.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:54:58",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content primarily focuses on a Professional Scrum Developer course aimed at software developers, detailing how they can apply Agile and Scrum methodologies in their work. It discusses specific practices such as Test-Driven Development, Continuous Integration, and team dynamics within the Scrum framework, aligning closely with the key topics outlined for the Software Developers category. The depth of discussion is significant, covering various modules and expectations for attendees, which further supports a high confidence score.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses elements of coaching within the context of the Professional Scrum Developer course, but the primary focus is on course details and software development practices rather than coaching techniques.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:54:54",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, which is deeply rooted in Agile methodologies and engineering practices. It covers key topics such as Test-Driven Development (TDD), Continuous Integration, and the importance of clean code, all of which align closely with the principles of Engineering Practices. The depth of discussion is significant, detailing various modules that focus on practical applications of these concepts, thus providing a comprehensive overview of Agile engineering practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-15T06:55:12",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content briefly mentions 'technical debt' in the context of using emergent architecture to avoid it, which indicates some awareness of the concept. However, the primary focus of the content is on a Scrum training course, with extensive details about course structure, modules, and Scrum practices. While there is some alignment with the themes of technical debt, such as the importance of maintainable code and addressing legacy architecture, the overall depth of discussion on technical debt itself is limited. Therefore, while it is relevant, it does not constitute a primary focus.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions the 'Sprint Review meeting' in a significant way as part of the course structure, but the overall focus is primarily on a training course rather than a discussion solely on Sprint Reviews.",
     "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T06:54:04",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a training course for software developers using the Scrum framework, which is more aligned with technical training than strategic product management. While it mentions Scrum roles and processes, it lacks a direct discussion on product management methodologies, customer feedback prioritisation, or business strategy alignment. The depth of discussion on Scrum practices is significant, but it does not delve into the strategic aspects of product management as defined in the category.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-15T06:54:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the Professional Scrum Developer course, which emphasises self-organising teams and their role in Agile methodologies. It mentions self-organisation explicitly and describes how teams will self-manage their work during sprints. However, while the concept is present, the overall focus is more on the course structure and logistics rather than a deep exploration of self-organisation principles or practices. Thus, while it aligns well with the category, it does not delve deeply into the broader implications or techniques of self-organisation.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T06:54:47",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the Professional Scrum Developer course, which is explicitly centred around the Scrum framework. It discusses various aspects of Scrum, including roles, timeboxes, and practical applications in a training context. The depth of discussion is significant, covering detailed course modules and learning outcomes related to Scrum practices, which aligns well with the category of Agile Frameworks.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T06:55:14",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific training course for Scrum developers, detailing the course structure, modules, and activities. While it mentions Scrum principles and practices, it lacks a broader discussion on Agile strategy, such as organisational alignment, strategic planning, or leadership roles in fostering an Agile culture. The depth of discussion on Agile practices is significant, but it remains technical and instructional rather than strategic.",
     "level": "Ignored"
   },
@@ -1429,70 +1258,61 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the Professional Scrum Developer course and Scrum methodologies without a clear emphasis on Lean Product Development principles, value delivery, or waste reduction.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-16T10:28:50",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a specific training course for Scrum developers without discussing trend analysis or identifying patterns in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the expectations for team members to commit to work and participate collaboratively in a Scrum environment, which aligns with accountability, but it primarily focuses on the course structure and technical content.",
     "level": "Tertiary"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:28:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Developer course, focusing on the Scrum framework and does not address Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses elements of Scrum that relate to work completion, such as sprints and timeboxing, but primarily focuses on the training course itself rather than a clear, in-depth analysis of throughput measurement or optimization.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-15T06:54:44",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Test Driven Development (TDD) as part of a broader training course on Scrum and software development practices. While TDD is mentioned explicitly and is included as a module in the course, the primary focus of the content is on Scrum methodologies and the overall structure of the training. The discussion of TDD lacks depth and is not the central theme of the content, which primarily revolves around Scrum practices and team dynamics.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:42:14",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Professional Scrum Developer course, which includes elements of self-organisation, team dynamics, and collaboration. However, while it touches on these themes, the primary focus is on the technical aspects of the course and the tools used, rather than a deep exploration of social technologies as frameworks for collaboration and decision-making. The mention of self-organising teams and collaborative work is relevant, but the overall emphasis leans more towards technical training than the broader implications of social technologies in organisational contexts.",
     "level": "Secondary"
   },
@@ -1507,10 +1327,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:31:35",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1525,62 +1345,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:50:28",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 38,
     "ai_depth": 40,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
+    "final_score": 92.0,
     "reasoning": "The content extensively discusses the Professional Scrum Developer course, detailing its structure, objectives, and the Scrum framework. It includes direct mentions of Scrum roles, events, and practices, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, covering various aspects of Scrum implementation and team dynamics, which reinforces its primary focus on Scrum.",
     "level": "Primary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:32:49",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a Scrum training course, discussing roles, practices, and tools within the Scrum framework. While it touches on aspects of software development processes, such as testing and team collaboration, it does not explicitly address the Shift-Left Strategy or its principles. The mention of testing and quality attributes is too general and does not delve into integrating these processes earlier in the development lifecycle, which is central to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:53:35",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a training course for Scrum developers, which includes elements of Agile practices and team collaboration. While it mentions retrospectives and improving processes, these concepts are not explored in depth or framed within a broader context of Continuous Improvement. The course details are more about the structure and content of the training rather than a discussion on Continuous Improvement as a philosophy or practice.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:53:37",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific training course for Scrum developers, detailing the course structure, modules, and expected outcomes. While it mentions team collaboration and self-organisation, which are relevant to Common Goals, it lacks a direct discussion on the significance of aligning strategy with execution or the broader implications of Common Goals within Agile and DevOps frameworks. The depth of discussion on these themes is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:53:40",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on a training course designed to enhance skills in Scrum and .NET development. It discusses the importance of self-organising teams and the necessity for participants to commit to collaborative work, which aligns with the principles of competence. However, while it mentions skill development and teamwork, it lacks a deeper exploration of continuous learning and the broader implications of competence in Agile methodologies. The discussion is more promotional than analytical, which limits its depth.",
     "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Scrum Developer training course, discussing roles, practices, and tools within the Scrum framework. While it mentions self-organising teams, it does not explicitly address the concept of Agentic Agility or its principles. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities, which are central to the category.",
+    "level": "Ignored"
   }
 }

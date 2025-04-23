@@ -1,77 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T01:21:57",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and server configurations, which are not directly related to Agile Product Management principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:39:14",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed discussion on the implementation of build servers and the specific types of builds (Gate, CI, Nightly) that should be established in a team project. It aligns well with the category by focusing on practical techniques for enhancing collaboration and delivery outcomes in a development environment. The mention of build workflows and testing strategies demonstrates a clear application of tooling within Agile and DevOps practices. The depth of the discussion is substantial, offering insights into the rationale behind different build types and their respective testing requirements.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T07:10:14",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses build servers and the importance of setting up builds for team projects, which relates to automation in the application lifecycle. However, it lacks a direct focus on Platform Engineering principles, such as Internal Developer Platforms or enhancing developer productivity through standardised tools. The discussion is more about build processes than the broader context of platform engineering.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:01:05",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses build processes and server setups for software development, which does not directly relate to Evidence-Based Management principles. While it touches on aspects of quality assurance and testing, it lacks explicit references to empirical decision-making, value delivery metrics, or any of the key topics outlined in the EBM definition. The focus is more on technical implementation rather than strategic management based on evidence.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:09:54",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the importance of build processes in software development, which relates to code quality and maintainability. However, it primarily focuses on practical aspects of setting up builds rather than exploring the complexities of code or architecture. While it mentions testing and build strategies, it lacks a deeper exploration of how these practices relate to complexity theory or broader software design principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:22:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and project management without a focus on learning or discovery methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:22:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses build processes and server setups without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:10:16",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the setup of build servers and the configuration of different types of builds (Gate, CI, Nightly) for a team project, which aligns with the category of Install and Configuration. It provides actionable insights on how to structure builds and the purpose of each type, which is relevant to the installation and configuration of CI/CD processes. However, it lacks a comprehensive step-by-step guide or troubleshooting tips, which slightly lowers the depth of discussion.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:22:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and configurations without addressing transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -122,26 +71,17 @@
     "reasoning": "Content primarily discusses build processes and technical setups without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses build processes and technical implementations without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:00:49",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the setup of build servers and the importance of continuous integration (CI) and automated testing, which are key practices in the DevOps philosophy. However, it lacks a broader discussion on the cultural and collaborative aspects of DevOps, focusing primarily on technical implementation without addressing the principles of shared accountability or continuous improvement. Therefore, while it aligns with some core themes, it does not provide a comprehensive exploration of DevOps as a philosophy.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -161,34 +101,16 @@
     "reasoning": "Content primarily discusses build processes and server setups in software development, with no focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and server setups, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-15T07:10:12",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses build processes and their importance in a development environment, which indirectly relates to flow efficiency by ensuring that code integration is smooth and efficient. However, it lacks a direct focus on optimising throughput or eliminating bottlenecks in the value stream, which are core aspects of flow efficiency. The discussion is more about build management rather than the principles of flow efficiency in Lean and Agile methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and technical setups without focusing on human behaviour or team dynamics.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -211,15 +133,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T07:10:06",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of build servers and the types of builds necessary for a team project, which indirectly relates to metrics in terms of performance testing and feedback mechanisms. However, it lacks explicit discussions on metrics, data analysis, or continuous improvement methodologies, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -232,13 +154,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:06:16",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds in a team project, which aligns with Continuous Integration practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility and does not delve deeply into the technical excellence aspects such as TDD or modular architecture.",
     "level": "Secondary"
   },
@@ -262,13 +184,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T15:04:19",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with the methodologies of product delivery. It provides specific details on different types of builds (Gate, CI, Nightly) and their purposes, which reflects an understanding of testing and quality assurance practices. However, while it touches on deployment aspects, it lacks broader discussions on planning, iterative development, and cross-functional team roles, which limits its overall depth in the context of product delivery.",
     "level": "Secondary"
   },
@@ -290,36 +212,27 @@
     "reasoning": "Content primarily discusses build processes and server setups, which are not directly related to Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and server setups, with no focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T07:10:02",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical implementation of build servers and their configurations, which is more focused on the mechanics of software development rather than the strategic delivery of value to customers. While it touches on aspects of continuous integration, it lacks a clear connection to customer value or Agile methodologies, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T18:51:57",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the setup of build servers and the importance of builds in a team project context, which aligns with Azure DevOps practices. It provides specific details about different types of builds (Gate, CI, Nightly) and their purposes, indicating a good depth of discussion. However, it lacks explicit mention of Azure DevOps as a platform, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -343,13 +256,13 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-15T07:10:20",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses build processes and the importance of having multiple builds in a team project, which relates to software development practices. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The discussion is more focused on specific build strategies rather than the integration and standardisation of engineering processes across teams, which is the core of 1ES. Therefore, while there is some conceptual alignment, the lack of direct mention and depth regarding 1ES leads to a lower confidence score.",
     "level": "Ignored"
   },
@@ -374,26 +287,17 @@
     "reasoning": "Content primarily discusses build processes and server setups, which are not central to organisational agility.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:22:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and configurations rather than industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T10:41:17",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of build servers and outlines specific types of builds (Gate, CI, Nightly) that are essential for managing the software development process. While it does touch on aspects of application lifecycle management, such as testing and build processes, it lacks a comprehensive discussion on the broader stages of the application lifecycle or governance practices. The focus is primarily on build strategies rather than the overall management of the application lifecycle.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -406,43 +310,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T01:51:51",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and related technical practices, which are unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T15:10:42",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds in a team project, which aligns with best practices in software engineering. However, while it touches on aspects of technical delivery and testing, it lacks a deeper exploration of broader principles of software craftsmanship and clean code practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T01:51:51",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on build processes and server setups rather than product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:01:07",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the setup of builds (Gate, CI, Nightly) which are integral to Continuous Delivery practices. It explains how these builds contribute to code quality and collaboration, aligning with the principles of Continuous Delivery. However, the discussion lacks depth in exploring broader Continuous Delivery concepts such as automation, rapid feedback, and cultural aspects, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -457,10 +361,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T01:51:51",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and server configurations without addressing Lead Time or its measurement, impact, or strategies.",
     "level": "Ignored"
   },
@@ -475,10 +379,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses build processes for software projects and does not address the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -493,10 +397,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on build processes and server setup in software development, which does not relate to Product Backlog discussions.",
     "level": "Ignored"
   },
@@ -529,22 +433,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:09:29",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with operational practices in software development. However, while it touches on aspects of workflow management and testing strategies, it lacks a broader discussion on process optimisation or continuous improvement principles, which are key themes in the category.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on build processes and automated testing in software development, which does not align with the primary topics related to Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -568,10 +472,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and server setups for software development without addressing product validation methodologies or user engagement.",
     "level": "Ignored"
   },
@@ -595,25 +499,25 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-15T07:09:27",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of build servers and outlines different types of builds (Gate, CI, Nightly) that incorporate automated tests, particularly unit tests and automated UI tests. However, while it touches on automated testing, the primary focus is on the build process rather than a comprehensive exploration of automated testing principles, practices, or methodologies. The discussion lacks depth in terms of best practices, tools, and the broader impact of automated testing on software quality.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T07:09:59",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of build servers and the setup of builds in a team project, which indirectly relates to team performance by ensuring code integration and collaboration among developers. However, it lacks a direct focus on team dynamics, communication, or Agile methodologies, which are central to the 'Team Performance' category. The discussion is more technical and operational rather than strategic or methodological in enhancing team effectiveness.",
     "level": "Ignored"
   },
@@ -637,31 +541,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:09:32",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 40.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content discusses the importance of build servers in a multi-developer environment, which directly relates to Continuous Integration (CI) practices in software development. It provides specific details on the types of builds (Gate, CI, Nightly) and their purposes, aligning well with best practices in coding and software design. The depth of discussion is moderate, offering insights into the setup and testing of builds, but it could benefit from more comprehensive coverage of related methodologies or frameworks.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build servers and testing strategies, which are more related to software development processes rather than agile project management principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on build processes and server setups, not Agile values or principles.",
     "level": "Ignored"
   },
@@ -676,25 +571,25 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T18:12:14",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of build servers in a multi-developer environment, which is a key aspect of modern source control practices. It outlines specific build types (Gate, CI, Nightly) and their purposes, aligning well with continuous integration and deployment practices. The depth of discussion on how to structure builds for effective collaboration and testing further supports its relevance to the category. However, it lacks a broader discussion on version control systems or branching strategies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T07:10:27",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses build processes and testing strategies, which are related to empirical process control in terms of inspection and adaptation. However, it lacks explicit references to Agile principles or empirical process control as a primary focus. The discussion is more technical and procedural rather than conceptual, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -745,13 +640,13 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T07:10:25",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project. While it touches on aspects of continuous integration, it does not explicitly focus on the principles of frequent releases or continuous delivery. The discussion is more about build processes rather than the broader context of frequent software updates and user feedback integration, which are central to the category of Frequent Releases.",
     "level": "Ignored"
   },
@@ -762,15 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses build processes and technical implementation details without any reference to customer satisfaction or experience.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build processes and methods in software development without direct reference to Scrum principles, scaling practices, or multiple teams.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -791,24 +677,15 @@
     "reasoning": "Content primarily discusses build processes and setup for software development, not relating to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the setup of build servers and CI/CD processes, which is unrelated to scaling agile practices or organizational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:06:13",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds in a team project, which aligns with best practices in continuous integration (CI) and quality assurance. However, while it touches on relevant topics, it lacks a broader discussion on engineering excellence principles and does not delve deeply into metrics or the impact on business agility.",
     "level": "Secondary"
   },
@@ -850,13 +727,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:09:40",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the practical implementation of build servers in a development environment, which aligns with pragmatic problem-solving in Agile and DevOps contexts. It provides specific strategies for setting up builds and testing, demonstrating real-world applications of these principles. However, while it touches on relevant topics, it lacks a deeper exploration of the broader implications or case studies that would strengthen its alignment with the category.",
     "level": "Secondary"
   },
@@ -871,29 +748,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses build processes and testing strategies without a focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses build processes and server setups for software projects, without a clear focus on Scrum principles, roles, or iterative product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses build processes and server setups, without reference to Agile scaling frameworks, coordination among teams, or enterprise-level Agile practices.",
+    "reasoning": "Content primarily discusses build processes and testing strategies without a focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -916,15 +775,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-15T07:09:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of build servers and the types of builds (Gate, CI, Nightly) that should be set up in a project, which indirectly relates to test automation. However, it does not explicitly focus on test automation principles, frameworks, or best practices. The mention of running unit tests and automated UI tests indicates some alignment with test automation, but the overall depth and focus on the topic are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -937,13 +796,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:09:37",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of build servers and the setup of builds in a software development context, which relates to ensuring the functionality and quality of software. However, it lacks a direct focus on the broader themes of working software, such as customer feedback or iterative development. The discussion is somewhat technical and specific to build processes, which may not fully encapsulate the essence of working software as defined in the category.",
     "level": "Secondary"
   },
@@ -958,15 +817,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T07:09:42",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns closely with Continuous Integration principles. It details the types of builds (Gate, CI, Nightly) and their purposes, demonstrating a clear understanding of CI practices. The depth of discussion is substantial, providing specific recommendations and considerations for implementing CI effectively. Overall, the content is highly relevant to the Continuous Integration category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1033,57 +892,57 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:09:47",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with release management practices. It mentions specific types of builds (Gate, CI, Nightly) and their purposes, indicating a focus on the release process. However, it lacks a broader discussion on release management strategies, risk management, or coordination with stakeholders, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and testing strategies, with no mention of the Product Owner role or related responsibilities.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about build processes and strategies in software development, without a clear focus on Cycle Time as a metric of workflow efficiency.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T07:09:25",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 70.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of build servers and outlines specific types of builds (Gate, CI, Nightly) that are relevant to Azure Pipelines. It provides a structured approach to setting up builds for a team project, which aligns with CI/CD practices. However, it lacks explicit mention of Azure Pipelines and does not delve deeply into configuration or management aspects, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T07:10:31",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of build servers and outlines different types of builds (Gate, CI, Nightly) that can be set up for a project. While it touches on aspects of deployment frequency by mentioning the need for multiple builds to ensure code integration and testing, it does not explicitly focus on optimising deployment intervals or the broader implications of deployment frequency in Agile or DevOps practices. The discussion is more about build processes rather than the frequency of deployments, which limits its alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1096,10 +955,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses build processes and technical implementation details rather than team dynamics or collaboration.",
     "level": "Ignored"
   },
@@ -1121,7 +980,7 @@
     "reasoning": "Content discusses build processes and practices in software development without a focus on digital transformation strategies or their impact on business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:51:52",
     "ai_confidence": 0,
@@ -1130,33 +989,24 @@
     "reasoning": "Content primarily discusses build processes in software development rather than Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build servers and testing workflows in software development, with no focus on AI integration.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:10:33",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the setup of build servers and the configuration of different types of builds (Gate, CI, Nightly) for a team project. While it does not explicitly mention 'system configuration', it aligns with the principles of configuring systems for optimal performance and reliability. The depth of discussion on build types and their purposes indicates a moderate level of detail, but the primary focus is on build processes rather than broader system configuration practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and server configurations, which are technical implementation details unrelated to product strategy.",
     "level": "Ignored"
   },
@@ -1189,14 +1039,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-15T07:10:04",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the importance of builds and testing in a team environment, mentioning unit tests and automated UI tests. However, it does not explicitly focus on Test First Development principles or the practice of writing tests before code. The discussion is more about build processes rather than the core concepts of TDD or embedding quality from the outset, leading to a lower confidence score.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of builds in a project and mentions running tests as part of the build process. However, it does not explicitly focus on Test First Development principles, such as defining success criteria before implementation or the specific practices of TDD or ATDD. The discussion is more about build processes and CI/CD rather than the Test First approach itself.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,31 +1060,31 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:10:09",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses build processes and the importance of having multiple builds for a project, which is somewhat related to deployment strategies. However, it primarily focuses on build servers and testing rather than specific deployment methodologies like Blue-Green Deployments or Canary Releases. The discussion lacks depth in terms of deployment strategies and does not provide actionable insights directly related to deploying software into production.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and strategies for project development, which does not align with large scale Agile practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses build servers and their configuration, without addressing team dynamics or motivational practices.",
     "level": "Ignored"
   },
@@ -1258,15 +1108,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:10:22",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project. While it touches on aspects of ensuring code compatibility and testing, it lacks a direct focus on troubleshooting specific issues or methodologies for diagnosing problems. The discussion is more about best practices for build management rather than resolving technical issues, which diminishes its alignment with the troubleshooting category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1279,11 +1129,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses build processes and does not relate to Scrum Master responsibilities or the Scrum framework.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on build processes and CI/CD practices, which are not directly related to the role or responsibilities of a Scrum Master. There are no explicit mentions of Scrum principles, team dynamics, or the Scrum Master's influence on organisational change. The discussion is technical and operational, lacking any connection to the core themes of Scrum or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1304,18 +1157,6 @@
     "reasoning": "Content primarily discusses build servers and testing procedures rather than working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:01:17",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of build servers and outlines specific types of builds (Gate, CI, Nightly) that are relevant to software development practices. While it does not explicitly mention Agile or DevOps methodologies, it aligns with modern engineering practices by focusing on Continuous Integration (CI) and the testing processes that support collaboration among developers. However, the discussion lacks depth in terms of Agile principles and does not address broader team dynamics or tools that facilitate Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T01:51:52",
@@ -1327,13 +1168,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T07:09:35",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the importance of build servers and the setup of different types of builds (Gate, CI, Nightly) in a software development context. This aligns well with the principles of Continuous Integration and Continuous Delivery (CI/CD), which is a key topic under Engineering Practices. The content provides specific details on how to implement these builds, demonstrating a good depth of discussion. However, it does not explicitly mention other core themes such as Clean Code or Test-Driven Development, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -1357,10 +1198,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes for software development rather than product management strategies or frameworks.",
     "level": "Ignored"
   },
@@ -1393,15 +1234,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T07:09:57",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of build servers and outlines a strategy for setting up builds in a team project context, which is relevant to CI/CD practices. However, it lacks direct references to Azure Repos specifically, and the discussion is more focused on build processes rather than the functionalities and features of Azure Repos itself. While it touches on concepts that could be integrated with Azure Repos, it does not provide a comprehensive exploration of Azure Repos as a source control management tool.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1414,10 +1255,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T01:51:52",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on build processes and CI/CD practices, not on Lean principles or minimizing waste in product development.",
     "level": "Ignored"
   },
@@ -1439,48 +1280,39 @@
     "reasoning": "Content mostly discusses build processes and workflow in software development without focusing on accountability in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build servers and CI/CD practices, not relevant to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T07:09:49",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses build processes and their importance in validating code across multiple developers, which indirectly relates to throughput by ensuring that work items (code changes) are validated efficiently. However, it lacks a direct focus on measuring or optimising throughput as defined in Agile and DevOps contexts. The discussion is more about build management rather than the flow of work or throughput metrics.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-15T07:09:44",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses build processes and testing strategies but does not explicitly mention Test Driven Development (TDD) or its core principles. While it touches on unit tests and automated testing, it lacks a focus on the TDD cycle (Red-Green-Refactor) and does not advocate for writing tests before code implementation, which are central to TDD. Therefore, the content is only tangentially related to TDD, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:43:25",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of setting up build servers and the types of builds (Gate, CI, Nightly) necessary for code quality. While it touches on collaboration by mentioning how builds help multiple developers work together, it lacks a deeper exploration of social technologies, self-organisation, or collective intelligence. The discussion is more about technical processes than the underlying social frameworks that promote collaboration and decision-making within teams.",
     "level": "Ignored"
   },
@@ -1495,10 +1327,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:33:02",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses build processes and server setups, which are relevant to Internal Developer Platforms, but the primary focus is on specific build configurations rather than the broader concept of IDPs.",
     "level": "Tertiary"
   },
@@ -1513,62 +1345,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:09:23",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses build processes and server setups for software development, which are not directly related to Scrum principles, roles, or events. While it touches on team collaboration indirectly, it lacks explicit references to Scrum concepts or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:33:58",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses build processes and testing strategies, which are relevant to the Shift-Left Strategy. However, it does not explicitly mention the Shift-Left concept or its principles. The focus is primarily on build configurations rather than integrating testing and security earlier in the development lifecycle. While there is some alignment with the idea of early testing, the depth of discussion is limited and lacks a comprehensive exploration of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:00:53",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of build processes in software development, which can contribute to quality assurance and team collaboration. However, it lacks a direct focus on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for integrating improvement into organisational processes. The discussion is more about technical setup rather than a broader commitment to ongoing enhancement and learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:00:56",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of setting up build servers and the types of builds (Gate, CI, Nightly) necessary for project collaboration. While it touches on collaboration, it does not explicitly discuss the concept of Common Goals or how these builds align with strategic objectives within Agile or DevOps frameworks. The discussion lacks depth in connecting these practices to overarching goals, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:01:00",
+    "calculated_at": "2025-04-10T15:56:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of setting up builds in a project, which indirectly relates to competence by ensuring code quality and collaboration among developers. However, it lacks a direct focus on continuous learning, skill development, or the broader implications of competence in Agile or DevOps methodologies. The discussion is primarily technical and procedural, with limited depth on the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on build processes and CI/CD practices, which do not directly address the concept of Agentic Agility. While there is a mention of collaboration and code quality, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

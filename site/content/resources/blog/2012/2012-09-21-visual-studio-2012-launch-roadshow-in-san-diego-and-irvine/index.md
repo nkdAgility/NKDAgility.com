@@ -9,7 +9,7 @@ ResourceImportId: 8834
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-21
-weight: 715
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,7 @@ aliasesArchive:
 - /visual-studio-2012-launch-roadshows-around-the-world
 - /blog/visual-studio-2012-launch-roadshows-around-the-world
 - /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: metro-event-icon-3-3.png
 

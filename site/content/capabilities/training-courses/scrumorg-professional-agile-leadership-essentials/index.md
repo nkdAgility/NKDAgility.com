@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2017-05-07
-weight: 635
+weight: 600
 creator: Martin Hinshelwood
 type: course
 slug: professional-agile-leadership-essentials-pal-e-with-certification
@@ -37,19 +37,18 @@ delivery-audiences:
 - Managers
 - Entrepreneurs
 tags:
-- Agile Leadership
-- Agile Project Management
-- Agile Transformation
 - Agile Frameworks
+- Agile Leadership
 - Agile Strategy
+- Agile Transformation
 - Business Agility
-- Events and Presentations
 - Organisational Agility
 - Organisational Change
-- People and Process
+- Value Delivery
+- Social Technologies
 categories:
 - Leadership
-- Social Technologies
+- Technical Leadership
 preview: naked-agility-Professional-Scrum-PALE-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PALE-400x.png
 brandColour: 

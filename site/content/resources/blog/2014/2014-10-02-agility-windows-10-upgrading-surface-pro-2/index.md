@@ -9,7 +9,7 @@ ResourceImportId: 10746
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-02
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,9 @@ aliasesArchive:
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags:
 - Windows
-- Continuous Delivery
 - Frequent Releases
+- Continuous Delivery
+- Deployment Frequency
 categories: []
 preview: nakedalm-windows-logo-12-12.png
 

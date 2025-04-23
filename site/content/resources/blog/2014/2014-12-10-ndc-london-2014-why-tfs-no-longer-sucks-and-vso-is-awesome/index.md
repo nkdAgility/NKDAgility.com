@@ -9,7 +9,7 @@ ResourceImportId: 10980
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-10
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,14 +28,10 @@ aliasesArchive:
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 tags:
-- Events and Presentations
-- Practical Techniques and Tooling
 - Software Development
-- Release Management
 - Azure DevOps
-- News and Reviews
+- Release Management
 - Troubleshooting
-- Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

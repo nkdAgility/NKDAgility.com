@@ -28,12 +28,13 @@ isShort: false
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
-- Metrics and Learning
 - Value Delivery
 - Decision Making
+- Metrics and Learning
 - Pragmatic Thinking
 - Ability to Innovate
-- People and Process
+- Current Value
+- Unrealised Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,8 +42,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
+- Leadership
 
 ---
 When I think about evidence-based management, I can't help but reflect on how crucial it is to bring a scientific approach to leadership. In my experience, many organisations still rely heavily on gut feelings or vanity metrics—those numbers that make us look good but don’t actually drive meaningful change. This is where evidence-based management steps in, helping us focus on delivering real business value.

@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T21:22:49",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies and technical aspects of source control management, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:35:57",
-    "ai_confidence": 82.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed exploration of implementing branch policies in TFVC, which directly relates to tooling and practical techniques in Agile and DevOps. It discusses specific policies, their implementation, and the challenges faced, aligning well with the core themes of the category. The depth of discussion is significant, covering various policies and their applications, which enhances the overall confidence score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -41,36 +29,6 @@
     "reasoning": "The content primarily discusses branch policies for TFVC and does not explicitly mention Evidence-Based Management or its key topics. While there are elements of process improvement and quality checks, they are not grounded in empirical evidence or metrics related to EBM. The focus is on technical implementation rather than data-informed decision-making.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T03:52:59",
-    "ai_confidence": 42.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 20,
-    "final_score": 40.0,
-    "reasoning": "The content discusses branch policies in TFVC, which relates to code quality and complexity management. It mentions the need for policies to ensure code quality, such as code reviews and work item requirements, aligning with best practices in software development. However, the focus is more on implementation details rather than a deep exploration of complexity theory or its principles, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T21:23:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to branch policies in TFVC without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T21:23:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses branch policies in TFVC and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-14T21:23:05",
@@ -82,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T03:52:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which relates to configuring source control systems. It provides insights into the challenges faced during the transition from TFVC to Git and outlines specific policies that can be applied, which aligns with configuration best practices. However, the focus is more on the specific implementation details rather than a comprehensive guide on installation or configuration processes, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T21:23:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses branch policies and technical implementation details related to TFVC, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content primarily discusses technical aspects of branch policies in TFVC without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T21:23:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementations of branch policies in TFVC without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:20:34",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses branch policies for TFVC, which is more focused on source control management rather than the broader principles of DevOps. While there are mentions of improving code quality and implementing checks, these aspects do not fully align with the core themes of DevOps such as collaboration, automation, and shared accountability. The discussion lacks depth in terms of DevOps culture and practices, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -151,46 +91,46 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-03-15T03:52:55",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses branch policies and practices related to source control in TFVC, but it does not explicitly mention the Definition of Done or its criteria. While there are references to practices like code reviews and work items, which could relate to a Definition of Done, the primary focus is on implementing branch policies rather than defining completion criteria for product increments. Therefore, the alignment and depth of discussion regarding the Definition of Done are minimal.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T11:47:36",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which relates to software engineering practices. However, while it touches on technical aspects, such as code reviews and work item requirements, it lacks a broader discussion on software craftsmanship principles or methodologies. The focus is more on specific implementation details rather than overarching best practices or principles of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of branch policies in TFVC and customer requirements for code management, which does not align with understanding customer needs or product feature definition.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:20:50",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses branch policies for TFVC, focusing on code quality and development processes rather than Continuous Delivery principles. While it touches on aspects like code reviews and work item requirements, it lacks a direct focus on Continuous Delivery practices such as automation, rapid feedback, or incremental improvements. The discussion is more about managing code quality in a version control system than about the broader Continuous Delivery framework.",
     "level": "Ignored"
   },
@@ -205,10 +145,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on branch policies and implementation details in TFVC, with no discussion on lead time or its measurement.",
     "level": "Ignored"
   },
@@ -223,10 +163,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on branch policies and source control, with no mention of the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -241,10 +181,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies and TFVC, with no focus on Product Backlog or Agile framework discussions.",
     "level": "Ignored"
   },
@@ -268,34 +208,34 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-15T03:53:05",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses branch policies and the implementation of a system for managing code changes, but it only briefly mentions the concept of feedback in the context of user input on the policies. The primary focus is on technical implementation rather than on integrating customer feedback into the product development process. While there is a call for feedback at the end, it does not delve into methods for collecting or analysing feedback, nor does it explore how this feedback influences product development, which are key aspects of customer feedback loops.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T10:21:58",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which relates to operational practices in terms of workflow management and process optimisation. However, it lacks a broader discussion on operational efficiency and does not delve deeply into metrics or continuous improvement strategies, which are key aspects of the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies for TFVC in a source control context and does not focus on Scrum roles, collaboration, or dynamics within a Scrum Team.",
     "level": "Ignored"
   },
@@ -319,10 +259,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies in TFVC and is focused on source control management rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -355,10 +295,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses branch policies for TFVC and the technical implementation of version control strategies, rather than focusing directly on team performance or collaboration practices within Agile teams.",
     "level": "Ignored"
   },
@@ -382,31 +322,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:52:44",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the implementation of branch policies in TFVC, which is a crucial aspect of version control systems in software development. It provides detailed insights into the challenges faced when transitioning from TFVC to Git, the need for effective branch management, and the specific policies that can be applied to ensure code quality and compliance. The depth of discussion on policies such as branch locking, code reviews, and work item requirements demonstrates a strong alignment with best practices in software development, particularly in the context of collaborative development and code quality assurance.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses branch policies for TFVC and does not focus on Agile Project Management principles or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses specific implementation details related to branch policies in TFVC, not about Agile values or principles.",
     "level": "Ignored"
   },
@@ -421,22 +352,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-10T18:30:40",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses branch policies within TFVC, which is a version control system. It explicitly mentions the need for policies related to branches, code reviews, and work items, aligning well with the core themes of modern source control. The depth of discussion is significant, detailing specific policies and their implementation, which indicates a thorough exploration of the topic. Overall, the content is focused on version control practices, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses branch policies and practical implementation details for TFVC, with no clear focus on empirical process control principles, Agile methodologies, or practices of transparency, inspection, and adaptation.",
     "level": "Ignored"
   },
@@ -496,28 +427,19 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details of branch policies in TFVC without focusing on customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses source control policies in TFVC, which is not related to Scaling Scrum or its frameworks, roles, or practices.",
+    "reasoning": "Content heavily discusses technical implementation details of branch policies in TFVC without focusing on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical implementations and policies for source control management in TFVC, without reference to empirical evidence or leadership decision-making.",
     "level": "Ignored"
   },
@@ -530,24 +452,15 @@
     "reasoning": "Content heavily discusses TFVC branch policies and source control management without any mention of psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branch policies for TFVC and their implementation, with no clear focus on scaling agility principles or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:35:41",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 68.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which relates to coding standards and quality assurance practices. It mentions specific policies like Code Review and Branch Lock, aligning with best practices in software craftsmanship. However, the focus is more on the technical implementation rather than a broader discussion of engineering excellence principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -580,22 +493,22 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of branch policies and source control management without a clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:40:12",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical solutions for implementing branch policies in TFVC, which aligns with pragmatic thinking in Agile environments. It highlights real-world challenges faced by a customer and the author's experience in developing a simplified approach to policy management. However, while it touches on problem-solving strategies, it lacks a deeper exploration of Agile or Scrum principles and does not explicitly mention them, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -610,32 +523,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T03:53:01",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which is more focused on technical solutions rather than the broader concept of innovation within an organisation. While there are elements of problem-solving and improving processes, the discussion lacks a clear emphasis on measuring or enhancing the organisation's capacity to innovate. The mention of policies and practices does not directly relate to the core themes of the Ability to Innovate category, such as Evidence-Based Management or fostering a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses source control and branch policies without any clear connection to Scrum principles, roles, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branch policies in TFVC and the management of source control systems, without any reference to scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -676,15 +571,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T03:52:45",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses branch policies in TFVC, which relates to ensuring software quality and functionality. However, it primarily focuses on implementation details rather than the broader themes of working software, such as customer feedback or iterative development. While it touches on aspects of software delivery, it lacks depth in discussing how these policies contribute to delivering functional software that meets user needs.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -697,13 +592,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T03:52:48",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses branch policies in TFVC, which relates to code management practices that can support CI. However, it lacks a direct focus on CI principles, tools, or practices. While it touches on aspects like code reviews and work items, it does not delve into CI's core themes such as automated testing or integration strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -772,31 +667,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T03:52:53",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses branch policies and their implementation in a source control system, which relates to release management practices. It mentions the need for policies that ensure code quality and compliance before releases, aligning with risk management and coordination aspects of release management. However, the focus is more on technical implementation rather than a comprehensive discussion of release management strategies, which limits the depth of the content in this category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of branch policies in TFVC and does not relate to the role of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses branch policies for TFVC, focusing on the implementation of policies and management of code changes, without any direct reference to Cycle Time measurements or implications.",
     "level": "Ignored"
   },
@@ -829,10 +724,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies and code management techniques, without a focus on team collaboration dynamics or Agile/Scrum practices.",
     "level": "Ignored"
   },
@@ -854,7 +749,7 @@
     "reasoning": "Content discusses branch policies in version control systems, focusing on technical implementation rather than strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T22:59:46",
     "ai_confidence": 0,
@@ -863,33 +758,24 @@
     "reasoning": "Content heavily discusses branch policies and source control management without addressing Minimum Viable Product development or validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses source control policies and practices related to TFVC and Git, without any mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T03:52:30",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses branch policies in TFVC, which relates to system configuration in terms of managing source control and applying policies to branches. However, the focus is more on the implementation of policies rather than the broader aspects of system configuration such as optimisation, monitoring, or security considerations. While it does touch on configuration management, it lacks depth in discussing best practices or methodologies for system configuration as a whole.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses branch policies in TFVC and technical implementation, which do not align with product strategy themes.",
     "level": "Ignored"
   },
@@ -922,11 +808,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branch policies and source control management rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC and does not explicitly mention Test First Development or its principles. While there are references to code quality and checks, these are not directly related to the Test First approach, which focuses on defining success criteria and testing practices. The discussion lacks depth in terms of Test First methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -949,28 +838,28 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies and source control practices in TFVC without a focus on scaling Agile methodologies or the principles of Large Scale Agility.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details and branch policies for source control, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on branch policies in source control systems and does not address remote working, Agile practices, or related challenges.",
     "level": "Ignored"
   },
@@ -985,15 +874,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T03:52:41",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC and addresses issues related to managing policies across multiple branches. While it touches on problem-solving aspects, such as the need for a simpler solution and the identification of policy failures, it lacks a focused discussion on troubleshooting techniques or methodologies. The primary focus is on the implementation of features rather than diagnosing and resolving technical issues, which diminishes its alignment with the troubleshooting category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1006,11 +895,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses TFVC branch policies and technical implementation, with no clear relevance to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on branch policies for TFVC and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, team dynamics, or agile principles, which are essential for alignment with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1024,24 +916,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies and technical aspects of source control in TFVC, which does not align with team collaboration or working agreements.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T03:53:03",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses branch policies in TFVC, which is relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, and while it touches on developer responsibilities and policies, it does not delve deeply into the collaborative or iterative aspects of Agile practices. The focus is more on technical implementation rather than the broader role of developers within Agile or DevOps frameworks.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1054,13 +934,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T03:53:08",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses branch policies in TFVC, which relates to automation and code quality practices. However, it primarily focuses on specific implementation details rather than broader engineering principles like clean code or TDD. The mention of policies like Code Review and Branch Lock aligns somewhat with engineering practices, but the overall discussion lacks depth in Agile methodologies and does not explicitly cover key topics such as TDD or CI/CD.",
     "level": "Ignored"
   },
@@ -1084,10 +964,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to branch policies in TFVC and does not focus on strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1120,15 +1000,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-10T12:34:39",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses branch policies in TFVC, which is a key aspect of Azure Repos. It explicitly mentions the need for policies in a TFVC context and explores the implementation of these policies in detail. The discussion aligns well with the core themes of Azure Repos, particularly in source control management and collaboration features. The depth of the discussion is significant, providing specific examples of policies and their intended use, which enhances the overall relevance to Azure Repos.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1141,10 +1021,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T22:59:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies and management in TFVC, without clear reference to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1164,15 +1044,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses branch policies in TFVC and tools for source control, with little focus on accountability in team dynamics or ownership principles in Agile.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses branch policies and source control in TFVC, not relating to Kanban principles or scaling methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1195,15 +1066,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T16:42:32",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which relates to engineering practices that enhance code quality and reliability. However, while it touches on aspects of technical excellence, such as the need for code reviews and work item requirements, it lacks a comprehensive exploration of broader methodologies like TDD or CI/CD. The focus is primarily on a specific solution rather than a deep dive into technical excellence principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1217,18 +1088,6 @@
     "reasoning": "The content primarily discusses branch policies for TFVC and does not address the Agile Product Operating Model or its principles. While it touches on aspects of development processes, it lacks a focus on product management, agile methodologies, or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T03:52:35",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses a technical implementation of branch policies in TFVC, which is more focused on a specific tool rather than a broader discussion of products or literature related to Agile or DevOps. While it mentions a downloadable tool and provides some insights into its functionality, it lacks a comprehensive review or analysis of the tool in the context of Agile methodologies. The discussion is technical and practical but does not delve into how this tool enhances understanding or implementation of Agile principles, which is a key requirement for the 'Products and Books' category.",
-    "level": "Ignored"
-  },
   "Value Stream Management": {
     "category": "Value Stream Management",
     "calculated_at": "2025-02-15T08:56:41",
@@ -1236,15 +1095,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on branch policies for TFVC in source control management, not on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T08:56:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical implementation details of branch policies in TFVC, lacking industry news or reviews.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1258,10 +1108,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T08:56:41",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses branch policies and source control in TFVC, which does not directly pertain to the broader methodologies, practices, or strategies surrounding product delivery.",
     "level": "Ignored"
   },
@@ -1285,23 +1135,11 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T08:56:41",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on branching policies in TFVC and the implementation of check-in policies, without discussing metrics, data analysis, or learning cycles typical of 'Metrics and Learning.'",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T03:52:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses technical aspects of implementing branch policies in TFVC, with limited focus on the human factors or processes involved. While it touches on the expectations of developers and the importance of due diligence, it lacks a deeper exploration of team dynamics, collaboration, or leadership roles in the context of these processes. The mention of feedback and contributions hints at some level of team interaction, but overall, the content is more technical than process-oriented.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -1342,13 +1180,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T17:54:42",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the implementation of branch policies within Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific details about the challenges faced when transitioning from TFVC to Git, and outlines various policies that can be applied to branches, demonstrating a clear focus on Azure DevOps functionalities. While it does not explicitly mention Azure DevOps frequently, the context and depth of the discussion align well with the category's core themes, particularly in relation to CI/CD practices and project management within Azure DevOps. The content is detailed and offers practical insights, which enhances its relevance to the Azure DevOps category.",
     "level": "Secondary"
   },
@@ -1379,26 +1217,17 @@
     "reasoning": "Content primarily discusses branch policies and technical implementations related to TFVC and does not address enterprise agility principles or broader organisational adaptability.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T08:56:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical implementations and policies related to source control systems, which does not align with events, presentations, or discussions about Agile, DevOps, or software engineering seminars.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T03:52:33",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses branch policies in the context of TFVC, which relates to the management of software applications. However, it primarily focuses on specific implementation details and technical solutions rather than the broader aspects of Application Lifecycle Management. While it touches on governance through policies, it lacks a comprehensive discussion on the entire application lifecycle, making it a secondary focus rather than a primary one.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1438,13 +1267,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:23:55",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of implementing branch policies in TFVC, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions the need for code reviews and work items, it lacks a broader exploration of social technologies or frameworks that enhance team dynamics or organisational culture.",
     "level": "Ignored"
   },
@@ -1468,74 +1297,86 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T03:52:30",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses branch policies in TFVC and does not mention Scrum roles, events, or principles. While it touches on aspects of project management, it lacks direct references to Scrum or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:15:12",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses branch policies and their implementation in a source control system, which is related to software development processes. However, it does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements of proactive measures (like code reviews and work item requirements) that could align with Shift-Left practices, the focus is primarily on branch management rather than integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the confidence score reflects a low alignment with the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:20:36",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which can contribute to improving code quality and streamlining development processes. However, it lacks a strong focus on Continuous Improvement principles such as empirical evidence, a culture of experimentation, or systematic strategies for integrating improvements into organisational processes. While there are mentions of feedback and iterative enhancements, the overall discussion is more about technical implementation rather than a broader commitment to Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:20:40",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of implementing branch policies in TFVC, with little to no direct mention of Common Goals or their significance in Agile or DevOps. While there are elements of collaboration and process improvement, they are not framed within the context of shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:20:42",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 66.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the implementation of branch policies in TFVC, which indirectly relates to competence by emphasising the expectation of due diligence and competence from developers. However, the primary focus is on technical implementation rather than a deep exploration of competence as a principle in Agile or DevOps. The mention of competence is brief and not the main theme, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:20:44",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on branch policies for TFVC and does not explicitly discuss the One Engineering System framework or its principles. While there are mentions of improving code quality and streamlining development processes, these are not directly tied to the integration and standardisation of engineering practices as outlined in the 1ES category. The discussion lacks depth regarding the core themes of 1ES, such as collaboration across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses branch policies for TFVC and does not explicitly address Agentic Agility or its key themes. While there are mentions of intent and policies, they are not framed within the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is on technical implementation rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

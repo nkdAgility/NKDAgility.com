@@ -9,7 +9,7 @@ ResourceImportId: 63
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-15
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,21 @@ aliasesArchive:
 - /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
 tags:
-- Scrum Product Development
 - Scrum Team
-- Software Developers
-- People and Process
 - Software Development
-- Agile Project Management
 - Agile Frameworks
-- Professional Scrum
 - Agile Planning
 - Agile Product Management
+- Pragmatic Thinking
+- Professional Scrum
+- Team Performance
+- Scrum Master
+- Team Collaboration
+- Agile Transformation
+- Transparency
+- Working Software
+- Increment
+- Product Delivery
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png

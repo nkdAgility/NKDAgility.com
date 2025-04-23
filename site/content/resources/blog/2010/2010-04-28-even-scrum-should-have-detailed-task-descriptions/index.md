@@ -9,7 +9,7 @@ ResourceImportId: 46
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,7 @@ aliasesArchive:
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
 tags:
 - Software Development
-- People and Process
 - Agile Frameworks
-- Agile Project Management
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-1-1.png

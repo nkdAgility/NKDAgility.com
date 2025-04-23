@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:39:35",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions ALM in the context of Visual Studio 2008 but does not provide substantial discussion on the application lifecycle stages, governance, or tools. The focus is more on a specific feature of the software rather than a comprehensive exploration of Application Lifecycle Management principles.",
     "level": "Ignored"
   },
@@ -83,15 +83,6 @@
     "reasoning": "Content primarily discusses Visual Studio 2008 features and limitations, with no direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:44:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical aspects of Visual Studio 2008 and its features, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T20:44:12",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of Visual Studio 2008 and its features, with no clear reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:44:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific issue with Visual Studio 2008 and does not focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -157,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:44:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 and its features, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. There are no direct mentions of Evidence-Based Management or its key topics. The discussion does not align with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is minimal and does not provide any insights into evidence-based practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:44:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 and its features, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:44:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific feature of Visual Studio 2008 without providing broader industry news or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. There are no direct mentions of Agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. The focus is entirely on a software tool and its features, which does not relate to the core themes of the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -193,10 +172,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T20:44:37",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of Visual Studio 2008 and its features, with no clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -207,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2008 and its features, with no clear focus on platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:44:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 and its features, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:44:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific feature of Visual Studio 2008 and its limitations, without addressing the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:44:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of Visual Studio 2008 and does not focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:44:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical aspects of Visual Studio 2008 and its features, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -310,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:44:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 features and limitations, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. There are no direct mentions of DevOps principles, practices, or cultural shifts. The discussion does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is minimal and focused on a specific tool rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific issue with Visual Studio 2008 and its support for Windows Communication Foundation, which does not align with the principles of technical excellence or engineering practices.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:45:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of Visual Studio 2008 and its features, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:45:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific feature of Visual Studio 2008 and its limitations, without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:45:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific feature of Visual Studio 2008 without focusing on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -382,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:53:34",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses limitations in a specific software version and does not address innovation practices or the measurement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -414,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mainly discusses Visual Studio 2008 features and architecture concerns, with no clear relevance to portfolio management or strategic alignment of projects.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Visual Studio 2008 and its features, with no mention or relevance to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -497,15 +407,6 @@
     "reasoning": "Content focuses on Visual Studio 2008 features and lacks any discussion on Definition of Done.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Visual Studio 2008 and its features, with no relevant discussion on scaled Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-16T21:53:34",
@@ -569,26 +470,17 @@
     "reasoning": "Content does not discuss collaboration tools or their impact on Agile teams, and instead focuses on a specific issue related to Visual Studio 2008.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific issue in Visual Studio 2008 related to application diagrams and Windows Communication Foundation, which does not align with the themes of Agile, DevOps, or the role of software developers in those contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:39:35",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Visual Studio 2008 and its limitations regarding the Application diagram and Windows Communication Foundation, which are relevant to software development tools. However, the discussion lacks depth and does not explore methodologies, best practices, or detailed software engineering concepts, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -617,7 +509,7 @@
     "reasoning": "Content primarily discusses technical features of Visual Studio 2008 and does not address estimation practices within Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:53:34",
     "ai_confidence": 0,
@@ -691,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Visual Studio 2008 and its features, without discussing Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -741,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Visual Studio and its features without any focus on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 and its features, without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -871,10 +757,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T21:53:34",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses specific issues related to Visual Studio software architecture rather than team dynamics or performance.",
     "level": "Ignored"
   },
@@ -916,10 +802,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T21:53:34",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses Visual Studio 2008 and its features, which are not related to team collaboration or Agile practices.",
     "level": "Ignored"
   },
@@ -968,15 +854,6 @@
     "reasoning": "Content primarily discusses Visual Studio 2008 and does not relate to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 and its features, with no relevance to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:53:34",
@@ -984,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of Visual Studio 2008 and does not relate to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses features and shortcomings of Visual Studio 2008, with no clear focus on Agile Project Management or its related principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1087,13 +955,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T13:20:24",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 41.0,
+    "final_score": 42.0,
     "reasoning": "The content mentions Windows Communication Foundation, which is related to the Windows environment, but the primary focus is on Visual Studio 2008 and its features. While there is a connection to Windows, the discussion does not delve deeply into installation, configuration, or troubleshooting of the Windows operating system itself. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Tertiary"
   },
@@ -1207,19 +1075,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T21:53:34",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses software architecture and a specific tool (Visual Studio 2008) without any reference to Scrum, Scrum Team roles, or team dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T21:53:34",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of Visual Studio and its features without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1268,15 +1136,6 @@
     "reasoning": "Content primarily discusses features and issues related to Visual Studio 2008 without addressing asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Visual Studio 2008 and related architecture, with no mention of Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:53:34",
@@ -1313,22 +1172,16 @@
     "reasoning": "Content is primarily focused on Visual Studio 2008 and its features, with no discussion on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to Visual Studio 2008 and does not address scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Visual Studio 2008 and its features rather than Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical limitations of Visual Studio 2008 and does not mention the Scrum Master role or any related concepts. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is non-existent regarding Scrum practices or responsibilities.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,22 +1204,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on features of Visual Studio 2008 and does not discuss Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The focus is on a specific software tool rather than the Test First Development methodology, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:55:53",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding technical aspects like WCF support. There are no direct mentions of social technologies, collaboration, or decision-making frameworks. The discussion lacks alignment with the core themes of social technologies, and the depth of discussion is minimal, focusing solely on a technical tool without addressing any underlying social frameworks.",
     "level": "Ignored"
   },
@@ -1399,26 +1255,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:39:35",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It focuses on Visual Studio 2008 and its features, which are unrelated to Scrum. There is no discussion of Agile principles, team dynamics, or continuous improvement, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:46:36",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses a specific feature of Visual Studio 2008 and does not mention the Shift-Left Strategy or its principles. There is no alignment with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The focus is on a technical oversight rather than a strategic approach to software development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. It does not address the concept of Common Goals, nor does it relate to Agile or DevOps principles. The focus is on a technical issue rather than shared objectives or alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. While it touches on a technical aspect of a tool, it does not explicitly address competence, continuous learning, or skill development. The discussion lacks depth and does not align with the core themes of competence in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. There are no direct mentions of Continuous Improvement principles, nor does it align with the core themes such as empirical evidence, experimentation, or team effectiveness. The discussion lacks depth and does not provide insights into Continuous Improvement strategies or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the limitations of Visual Studio 2008 Team Edition for Architects, specifically regarding WCF support. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability. The discussion lacks depth on any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

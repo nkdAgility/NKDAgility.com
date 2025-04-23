@@ -9,7 +9,7 @@ ResourceImportId: 39852
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-09
-weight: 585
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,19 +28,28 @@ aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
-- Agile Project Management
 - Pragmatic Thinking
-- Events and Presentations
-- Throughput
-- People and Process
-- Metrics and Learning
 - Software Development
+- Throughput
 - Forecasting
-- Scrum Product Development
+- Metrics and Learning
+- Agile Frameworks
+- Agile Planning
 - Agile Product Management
+- Agile Transformation
+- Agile Strategy
+- Cycle Time
+- Decision Making
+- Operational Practices
+- Organisational Agility
+- Organisational Change
+- Product Delivery
+- Professional Scrum
+- Value Delivery
+- Estimation
+- Flow Efficiency
 categories:
 - Scrum
-- Social Technologies
 - Product Management
 preview: 993957510-1-1.jpg
 

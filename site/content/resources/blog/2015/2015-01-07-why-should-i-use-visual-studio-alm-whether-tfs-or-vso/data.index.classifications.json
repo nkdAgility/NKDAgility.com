@@ -10,22 +10,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools and their functionalities, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T12:36:57",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, and compares it with other tools like Git and Jenkins. It touches on various aspects of software development, such as requirements management, project management, and quality management, which are relevant to technical mastery. However, the primary focus is on tool comparison and organisational decision-making rather than deep technical principles or practices. While it does mention some key areas of software craftsmanship, the depth of discussion on best practices and methodologies is limited.",
     "level": "Secondary"
   },
@@ -40,25 +40,25 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:29:34",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than Continuous Delivery specifically. While it touches on aspects like build management and release management, which are relevant to Continuous Delivery, the overall emphasis is on tool selection and comparison rather than the principles and practices of Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-15T04:09:16",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the considerations for replacing ALM tools and highlights the importance of understanding what functionalities are strategically important for an organisation. However, it primarily focuses on operational aspects of tool selection rather than articulating long-term strategic goals or aligning with Agile principles. The discussion lacks depth in exploring how these decisions impact business agility or competitive advantage.",
     "level": "Ignored"
   },
@@ -73,28 +73,28 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses application lifecycle management tools and considerations for tool selection, but does not address organisational culture, its impact, or related themes.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the comparison of ALM tools and their functionalities, without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses ALM tools and their functionalities, rather than focusing on the strategic alignment and management of a portfolio of projects.",
     "level": "Ignored"
   },
@@ -109,76 +109,76 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T04:10:13",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) and touches on project management and agile planning tools. However, it primarily focuses on the comparison of tools rather than the principles and practices of Agile Planning itself. While there are mentions of agile planning tools and project management, the depth of discussion on Agile Planning principles is limited, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Application Lifecycle Management (ALM) tools and their comparison, without discussing Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions 'Feedback management' as part of Application Lifecycle Management (ALM) but does not delve into the mechanisms or practices of integrating customer feedback into product development. While it touches on the importance of understanding customer needs, it primarily focuses on tool comparisons and ALM functionalities rather than exploring customer feedback loops in detail.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T04:09:41",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the considerations and implications of using Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, in the context of organisational tooling decisions. While it touches on operational practices related to tool selection and management, it lacks a focused discussion on specific operational efficiency techniques or methodologies within Agile, DevOps, or Lean frameworks. The depth of discussion on operational practices is moderate, primarily revolving around the comparison of tools rather than detailed strategies for process optimisation or continuous improvement.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) tools and considerations for transitioning between different toolsets. It does not focus on Scrum teams, their roles, collaboration, or any dynamics specific to the Scrum framework.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on application lifecycle management (ALM) tools and their comparisons, with no substantial discussion of Agile principles or philosophy.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T04:10:09",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the considerations for selecting and replacing ALM tools, which touches on strategic decision-making in the context of Agile and DevOps. However, it primarily focuses on tool comparisons and specific functionalities rather than a broader strategic framework or alignment with organisational goals. While it does mention strategic intent, the depth of discussion on strategic alignment and optimisation of delivery processes is limited.",
     "level": "Ignored"
   },
@@ -193,10 +193,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the features and considerations of Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, rather than focusing on Agile transformation practices, methodologies, or principles.",
     "level": "Ignored"
   },
@@ -211,19 +211,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and tool comparisons, with only a brief mention of automated testing within the larger context of quality management. Automated testing is not central to the main discussion.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses application lifecycle management (ALM) tools and considerations for tool comparison, without a focus on team performance, dynamics, or collaboration in an Agile context.",
     "level": "Ignored"
   },
@@ -238,43 +238,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio ALM and its comparison with other tools, without a clear focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T14:41:45",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, and compares it with other tools like Git and Jenkins. It addresses key aspects of software development such as requirements management, project management, change management, and quality management, which are all integral to the software development lifecycle. The depth of discussion is significant, providing detailed insights into the functionalities and considerations when choosing ALM tools, thus aligning well with the core themes of software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T04:09:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 45.0,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) tools, including project management aspects, but it primarily focuses on the comparison of Visual Studio ALM with other tools like Git and Jenkins. While there are mentions of project management and agile planning tools, the discussion lacks a strong emphasis on agile methodologies, principles, or frameworks such as Scrum or Kanban. The depth of discussion on agile-specific practices is minimal, leading to a lower confidence score in alignment with the Agile Project Management category.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the comparison and considerations of application lifecycle management tools, specifically Visual Studio ALM, without a focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -289,15 +277,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T04:09:26",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the transition from Visual Studio ALM to Git and Jenkins, highlighting the importance of code management and version control in the context of Application Lifecycle Management (ALM). It mentions Git explicitly and touches on code management as a critical aspect of software development. However, the primary focus is on ALM as a broader concept rather than solely on modern source control practices, which slightly dilutes its alignment with the category. The depth of discussion on version control is moderate, as it is part of a larger conversation about ALM tools and their functionalities.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -319,34 +307,34 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T04:09:04",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 25.0,
     "ai_mentions": 15.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses Visual Studio ALM and its features, which include aspects of project management and work item tracking. However, it does not specifically focus on Azure Boards or its functionalities within Agile project management. While there are mentions of work items and project management, the primary focus is on comparing Visual Studio ALM with other tools, which detracts from a concentrated discussion on Azure Boards.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:08:45",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Visual Studio ALM and its features, mentioning how it supports project management, task management, requirements management, and other collaboration-related aspects. While it outlines various elements of ALM that can facilitate collaboration, the primary focus is on comparing tools rather than a direct discussion of collaboration tools specifically.",
     "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T04:09:09",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the transition from Visual Studio ALM to other tools like Git and Jenkins, which implies a form of organisational change. However, the focus is primarily on technical aspects of ALM tools rather than on broader strategies or methodologies for organisational change. While it touches on considerations for changing tooling, it lacks a deep exploration of change management principles, frameworks, or the role of leadership in driving change, which are central to the category of Organisational Change.",
     "level": "Ignored"
   },
@@ -361,32 +349,23 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T04:10:06",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) tools and their functionalities, including release management, but it does not focus on the principles of frequent releases or continuous delivery. While it touches on aspects of release management, it primarily centres on comparing tools and their features rather than the practice of delivering software updates frequently. Therefore, it does not meet the criteria for a primary focus on Frequent Releases.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
-    "final_score": 19.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses tool comparisons and decision-making regarding Application Lifecycle Management, with a minor mention of 'feedback management' related to customer inputs. However, the main focus is on technical aspects and not primarily about customer satisfaction.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T08:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management tooling, specifically the evaluation of Visual Studio ALM versus Git and Jenkins, and does not focus on Scaling Scrum practices, frameworks, or challenges.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -407,24 +386,15 @@
     "reasoning": "Content heavily focuses on Application Lifecycle Management (ALM) tools and their functionalities, with no mention or discussion of psychological safety within teams.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T08:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the comparison and evaluation of Application Lifecycle Management (ALM) tools, rather than focusing on scaling agile principles or practices at an organizational level.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:38:59",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) tools and their role in software development, touching on aspects like requirements management, project management, and quality management. However, while it mentions some best practices and considerations for tool selection, it lacks a focused discussion on engineering excellence principles, such as coding standards or continuous integration practices. The depth of discussion on engineering processes is moderate, but it does not fully align with the core themes of engineering excellence.",
     "level": "Secondary"
   },
@@ -439,42 +409,42 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T08:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on application lifecycle management tools and comparisons rather than asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "While the content discusses organizational tools and considerations for ALM, it focuses primarily on specific tools and their functionalities rather than on systems thinking or the dynamics within the organization as required by the Organisational Physics category.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the comparison and evaluation of Visual Studio ALM and other tooling options, focusing on features, migration challenges, and project management aspects rather than strategies for retaining customers or enhancing user engagement.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:22:57",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses practical considerations for evaluating and transitioning between ALM tools, which aligns with pragmatic thinking in Agile and DevOps contexts. It addresses real-world decision-making processes, such as assessing what functionality is lost or gained when changing tools, and highlights the importance of understanding the broader implications of such changes. However, while it touches on these themes, the depth of discussion on specific pragmatic strategies or case studies is limited, leading to a high but not perfect confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -487,29 +457,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses tools related to Application Lifecycle Management and comparisons between them, without focusing on measuring or enhancing innovation capabilities or strategies to foster a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Visual Studio ALM and its functionalities, with little to no direct focus on Scrum principles or product development processes specific to Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools and their comparison, with no clear focus on scaling Agile practices across multiple teams or at the enterprise level.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -532,10 +484,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "While the content discusses various aspects of Application Lifecycle Management (ALM), including quality management and testing, it does not primarily focus on test automation. The discussion covers a broad range of ALM functionalities rather than specifically on automating the testing processes.",
     "level": "Ignored"
   },
@@ -550,15 +502,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:09:48",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, in delivering functional software. It addresses key aspects such as requirements management, project management, and quality management, which are essential for ensuring working software. However, while it touches on these topics, the primary focus is on comparing tools rather than on the delivery of working software itself, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -574,13 +526,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T04:09:36",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Visual Studio ALM and its comparison with Git and Jenkins, touching on aspects of build management and the integration of tools. However, it primarily focuses on the broader topic of Application Lifecycle Management (ALM) rather than Continuous Integration specifically. While CI is mentioned, it is not the primary focus, and the depth of discussion on CI principles and practices is limited.",
     "level": "Ignored"
   },
@@ -595,10 +547,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Application Lifecycle Management (ALM) tools and comparison among them, without addressing leadership roles or Agile practices.",
     "level": "Ignored"
   },
@@ -622,22 +574,22 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) tools and considerations for tool selection rather than hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-11T11:48:41",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses decision-making in the context of evaluating ALM tools, specifically comparing Visual Studio ALM with alternatives like Git and Jenkins. It outlines key considerations for making informed choices, such as what functionalities are being replaced, what new features are gained, and what functionalities may be lost. However, while it touches on decision-making, the focus is more on tool comparison and personal experiences rather than structured, evidence-based methodologies. The depth of discussion on decision-making principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -652,13 +604,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-10T18:31:52",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM), including release management as one of the key areas. While it does mention release management explicitly, the primary focus is on comparing tools and their functionalities rather than on the strategies and practices of managing software releases. The depth of discussion on release management is limited compared to other areas like requirements and project management, which detracts from its overall alignment with the category.",
     "level": "Secondary"
   },
@@ -682,65 +634,65 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses Visual Studio ALM and its various features, but it primarily focuses on ALM as a whole without a specific emphasis on Azure Pipelines. While there are mentions of build and release management, they are not the central theme. The discussions related to Azure Pipelines are too brief and peripheral to classify this content under the Azure Pipelines category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on comparing ALM tools and discussing their functionalities, rather than specifically addressing deployment frequency or related Agile/DevOps practices.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-15T04:09:02",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses change management in the context of transitioning from Visual Studio ALM to other tools, highlighting the importance of understanding what is being replaced, what is gained, and what is lost. While it touches on change management, it does not delve deeply into strategies or practices that facilitate effective transitions in organisations, which is a core focus of the category. The discussion is more about tool comparison and less about the broader implications of change management in an Agile context.",
     "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management and tool comparisons rather than team collaboration dynamics, communication, or Agile methodologies.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Visual Studio ALM and related tools, without a focus on Behaviour Driven Development principles, practices, or collaboration aspects central to BDD.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T04:09:18",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) tools and their functionalities, which are relevant to digital transformation in terms of enhancing operational efficiency and project management. However, it lacks a direct focus on strategic adoption of digital technologies for broader business transformation, and instead centres on specific tools and their comparisons. While it touches on aspects of change management and the importance of integrating tools, it does not provide a comprehensive view of digital transformation strategies or case studies, leading to a lower confidence score.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T08:56:47",
     "ai_confidence": 0,
@@ -749,21 +701,12 @@
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools and considerations for transitioning between them, rather than focusing on Minimum Viable Products or related MVP concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools and comparisons, with no clear focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools and their comparison, not focusing on system configuration methodologies or practices.",
     "level": "Ignored"
   },
@@ -796,20 +739,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the evaluation and comparison of various Application Lifecycle Management (ALM) tools, without a focus on cross-functional teams or Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content focuses on discussing Application Lifecycle Management (ALM) tools and the process of evaluating and comparing tools like Visual Studio ALM, Git, and Jenkins. It does not primarily discuss Test First Development or its principles, practices, or benefits. Instead, it provides an overview of various elements related to ALM, making it not relevant to Test First Development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the principles of Test First Development. While it briefly touches on quality management and test cases, it does not delve into Test First practices or the importance of defining success criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -823,31 +769,31 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the tooling and considerations around Application Lifecycle Management (ALM) and software deployment but primarily focuses on comparison and functionality rather than specific deployment strategies.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-03-15T04:09:51",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) tools and their functionalities, with a focus on Visual Studio ALM. While it touches on aspects of organisational workflow and tool integration, it lacks a direct focus on scaling Agile methodologies across an organisation. The mention of scaling in the context of ALM tools is minimal and does not delve into frameworks or strategies for large-scale Agile transformation, which are central to the category of Large Scale Agility.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on tool selection and technical details related to Application Lifecycle Management rather than strategies for enhancing team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -862,10 +808,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the considerations and comparisons of ALM tools rather than focusing on principles of Continuous Learning, growth mindset, or knowledge sharing within teams.",
     "level": "Ignored"
   },
@@ -889,11 +835,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Application Lifecycle Management tooling and comparisons between specific tools, without any clear reference or discussion related to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its features, with no direct mention of the Scrum Master role or its responsibilities. While it touches on project management and tool selection, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -914,18 +863,6 @@
     "reasoning": "The content primarily discusses Visual Studio ALM and its comparison with other tools, without addressing working agreements, team communication or collaboration norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T04:09:07",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the role of Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, in the context of software development. It addresses key considerations for developers when evaluating and transitioning between tools, which aligns with Agile and DevOps principles. The depth of discussion on various aspects of ALM, such as requirements management, project management, and build management, indicates a strong focus on the developer's perspective. However, while it touches on relevant topics, it does not explicitly delve into Agile methodologies or DevOps practices, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T08:56:47",
@@ -937,10 +874,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:45",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) and touches on automation, code management, and quality management, which are relevant to engineering practices. However, it is primarily focused on comparing tools and lacks deep engagement with core engineering practices principles.",
     "level": "Tertiary"
   },
@@ -964,13 +901,13 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) tools and their functionalities, which are relevant to product management. However, it primarily focuses on technical comparisons and implementation details rather than strategic alignment of customer needs and business objectives. While it touches on aspects like requirements management and project management, it lacks a deep exploration of methodologies or frameworks that guide product managers in making informed decisions. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Ignored"
   },
@@ -985,22 +922,22 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
-    "final_score": 19.0,
+    "final_score": 20.0,
     "reasoning": "While there are mentions of agile planning tools and some principles related to Agile concepts in the context of Application Lifecycle Management (ALM), the primary focus of the content is on comparing tooling options and discussing the functionalities of Visual Studio ALM versus Git and Jenkins, rather than a focused discussion on Agile frameworks themselves.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T04:09:12",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) tools and their functionalities, which are relevant to Agile practices. However, it primarily focuses on technical comparisons and considerations for tool selection rather than a strategic discussion on Agile methodologies or their implementation at an organisational level. While there are mentions of project management and requirements management, the content lacks a clear alignment with the core themes of Agile Strategy, such as continuous value delivery or leadership roles in fostering an Agile culture.",
     "level": "Ignored"
   },
@@ -1024,19 +961,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Application Lifecycle Management tooling and the comparison of Visual Studio ALM with other tools like Git and Jenkins, rather than discussing Lean Product Development principles, waste reduction, or continuous improvement.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the comparison and evaluation of different Application Lifecycle Management tools rather than analyzing trends in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
@@ -1047,15 +984,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the evaluation and comparison of Application Lifecycle Management tools, rather than discussing accountability or team dynamics within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T08:56:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on comparing ALM tools and evaluating features rather than discussing Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1069,45 +997,33 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T08:56:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM), tools evaluation, and the comparison between Visual Studio ALM, Git, and Jenkins. It does not focus on Test Driven Development or its principles, practices, or any specific TDD cycles.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T09:56:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Application Lifecycle Management (ALM) tools and their functionalities, rather than discussing Agile Product Management methodologies or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T04:08:57",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content provides a detailed exploration of Visual Studio ALM and its comparison with other tools like Git and Jenkins, focusing on practical considerations for tool selection and integration. It discusses various aspects of Application Lifecycle Management (ALM), including requirements management, project management, and build management, which are all relevant to the category. The author outlines key questions to consider when evaluating tooling, demonstrating a strong alignment with the core themes of practical techniques and tooling in Agile and DevOps. The depth of discussion is substantial, covering multiple facets of ALM and providing insights into effective implementation.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T04:09:55",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, and compares it with other tools like Git and Jenkins. While it touches on aspects of platform engineering, such as enhancing developer productivity and managing the application lifecycle, it primarily focuses on the features and comparisons of specific tools rather than the broader principles of platform engineering. The discussion is detailed but does not fully align with the core themes of platform engineering, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1121,36 +1037,6 @@
     "reasoning": "The content primarily discusses Visual Studio ALM and its features without a focus on Evidence-Based Management principles. While it touches on decision-making regarding tool selection, it lacks empirical evidence and metrics that are central to EBM. The discussion is more about tool comparison and project management rather than data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T04:08:54",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content discusses tools for Application Lifecycle Management (ALM) with an emphasis on their capabilities and comparisons, but it lacks a central focus on code quality or software complexity principles. It primarily addresses project management and tool selection rather than the deeper aspects of code and complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T04:09:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the comparison of ALM tools and the considerations for tool selection, which aligns more with project management than with discovery and learning. While there are brief mentions of understanding features and strategic intent, the focus is not on fostering innovation or continuous learning processes. The depth of discussion on learning methodologies is minimal, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T09:56:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the advantages and considerations of using Visual Studio ALM and evaluating various tools for Application Lifecycle Management. It does not focus on AI or automation in the context of Agile methodologies.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-15T09:56:44",
@@ -1162,67 +1048,46 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:56:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the comparison of ALM tools and strategic considerations in choosing and evaluating them, rather than providing specific installation or configuration guidance.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T09:56:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the comparison of ALM tools, specifically Visual Studio ALM versus Git and Jenkins, without addressing transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T04:10:04",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the considerations for choosing ALM tools and the implications of tool changes, which indirectly relates to market adaptability. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies, and does not provide substantial depth on strategies for enhancing market responsiveness.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T04:09:28",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical aspects of Application Lifecycle Management (ALM) tools, specifically Visual Studio ALM, and their functionalities. While it touches on organisational considerations when changing tools, such as strategic intent and project management, it lacks a comprehensive exploration of the interplay between social and technical systems. The focus remains heavily on the technical features and comparisons of tools rather than a deep analysis of how these tools affect team dynamics, organisational culture, or overall software delivery effectiveness.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T04:10:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the considerations for changing tooling in the context of Application Lifecycle Management (ALM), which touches on aspects of change management. However, it primarily focuses on technical comparisons and functionalities rather than strategies for organisational resilience or adaptive change. While there are mentions of change management, they are not the primary focus, and the depth of discussion on resilience and change is limited.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:29:15",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the broader principles of DevOps. While it touches on aspects like tool integration and project management, it lacks a direct emphasis on DevOps philosophy, such as collaboration, automation, and shared accountability. The depth of discussion on ALM tools is significant, but it does not align closely with the core themes of DevOps.",
     "level": "Ignored"
   },
@@ -1237,24 +1102,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-15T04:09:20",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses decision-making processes related to the evaluation and selection of Application Lifecycle Management (ALM) tools, which aligns with the core themes of Decision Theory. It explicitly mentions considerations for making informed choices, such as what to replace, what to gain, and what to lose, which reflects the decision-making frameworks and models aspect of the category. However, while it touches on decision-making, the primary focus is on tool comparison and technical details rather than a deeper exploration of decision theory principles, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T09:56:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Visual Studio ALM and its functionalities without focusing on specific events, presentations, or workshops related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1265,27 +1121,15 @@
     "reasoning": "Content primarily discusses the considerations and functionalities of Application Lifecycle Management tools, without a focus on optimizing throughput or addressing flow efficiency principles.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T04:10:11",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the technical aspects of Application Lifecycle Management (ALM) tools, focusing on comparisons between Visual Studio ALM and other tools like Git and Jenkins. While it touches on organisational considerations and decision-making processes regarding tool selection, it lacks a strong emphasis on team dynamics, collaboration, or the human factors influencing these decisions. The discussion is more technical than process-oriented, leading to a lower confidence score in the 'People and Process' category.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-15T04:09:34",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the comparison of ALM tools and their functionalities, focusing on Visual Studio ALM versus Git and Jenkins. While it touches on aspects of organisational change and decision-making regarding tooling, it lacks a direct focus on enterprise agility principles such as scaling agility frameworks, fostering a culture of adaptability, or organisational structures that support agility. The discussion is more about tool selection and project management rather than broader organisational agility, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1300,13 +1144,13 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T04:09:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) tools, including project management, change management, and feedback management. However, it lacks a strong focus on metrics and learning as defined in the category. While it touches on the importance of understanding what is gained or lost when changing tools, it does not delve deeply into evidence-based decision-making or the iterative learning cycle. The discussion is more about tool comparison and features rather than metrics and continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -1321,13 +1165,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:09:57",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) and compares tools like Visual Studio ALM with Git and Jenkins. It touches on key areas such as requirements management, project management, and build management, which are relevant to technical excellence. However, the focus is more on tool comparison and organisational decision-making rather than deep engineering practices or methodologies that enhance agility in software development. While it does mention some technical aspects, the depth of discussion on core themes of technical excellence is limited.",
     "level": "Secondary"
   },
@@ -1342,24 +1186,24 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-15T09:56:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on application lifecycle management tools and comparisons, with little to no emphasis on psychological principles or theories related to motivation, leadership, or team dynamics.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T17:55:48",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, and their role in the product delivery process. It covers key aspects such as requirements management, project management, change management, and release management, which are all integral to delivering software products effectively. The depth of discussion on these topics indicates a strong alignment with the principles of product delivery, making it a primary focus rather than a secondary mention.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1372,55 +1216,43 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T09:56:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tooling and considerations for choosing and replacing these tools, rather than focusing on value stream management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-11T14:53:51",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 35,
-    "ai_depth": 30,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses Visual Studio ALM as a product, comparing it with other tools like Git and Jenkins. It provides a detailed analysis of the functionalities of ALM tools, which aligns well with the category's focus on discussions about products relevant to Agile and DevOps. The depth of discussion is significant, covering various aspects of ALM, including requirements management, project management, and more, which supports the category's intent. However, while the content is rich in product analysis, it lacks direct references to specific literature or books, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T04:09:23",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) tools and their functionalities, which indirectly relates to value delivery by emphasising the need for effective tools that enhance project management and customer satisfaction. However, it primarily focuses on technical comparisons and personal experiences rather than on strategies or methodologies for delivering value in an Agile or DevOps context.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T16:43:48",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Visual Studio ALM, which is closely related to Azure DevOps, particularly in the context of Application Lifecycle Management (ALM). It provides a detailed comparison of Visual Studio ALM with other tools like Git and Jenkins, highlighting the functionalities and features of Visual Studio ALM that align with Azure DevOps services. However, while it touches on relevant topics, it does not explicitly focus on Azure DevOps itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content predominantly discusses Visual Studio ALM and its comparison with other tools, rather than personal experiences with Agile methodologies. There's a minor reference to the author's experiences and perspectives, but it's not the central theme.",
     "level": "Ignored"
   },
@@ -1447,34 +1279,22 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T09:56:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) tools, specifically Visual Studio ALM, and compares various features and functionalities of these tools. While there are aspects of project and change management mentioned, the content does not focus on principles, practices, or frameworks related to organisational agility as expressly defined in the category. Hence, it is not relevant enough.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T04:10:00",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the comparison of Visual Studio ALM with other tools like Git and Jenkins, which aligns with industry updates and evaluations. However, it primarily focuses on personal insights and experiences rather than providing a broad review or news update. While it touches on relevant topics, the depth of discussion is more about personal opinion and specific use cases rather than a comprehensive review or news analysis.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-13T17:02:49",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 92.0,
     "ai_mentions": 85.0,
     "ai_alignment": 95.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 86.0,
+    "final_score": 92.0,
     "reasoning": "The content extensively discusses Visual Studio ALM and its various components, including requirements management, project management, change management, and more, which are all integral to Application Lifecycle Management. It provides a detailed analysis of the considerations when evaluating ALM tools, aligning closely with the core themes of the category. The depth of discussion is significant, covering multiple aspects of ALM and offering insights into best practices and strategic considerations, thus justifying a high confidence score.",
     "level": "Primary"
   },
@@ -1489,22 +1309,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:25:22",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of Application Lifecycle Management (ALM) tools, specifically Visual Studio ALM, and does not engage deeply with the principles of collaboration, decision-making, or value delivery that characterise social technologies. While it touches on project management and team dynamics, these discussions are secondary to the technical evaluation of tools and their functionalities. The content lacks a thorough exploration of social frameworks or methodologies that promote collective intelligence or emergent problem-solving, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:11:52",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) tools and their functionalities, rather than focusing on Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1519,25 +1339,25 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T04:08:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) tools, specifically Visual Studio ALM, and does not focus on Scrum principles, roles, events, or artifacts. While it touches on project management and agile planning, it lacks a direct connection to Scrum's framework and practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:16:24",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the comparison of Visual Studio ALM with other tools like Git and Jenkins, focusing on the features and functionalities of ALM tools rather than explicitly addressing the Shift-Left Strategy. While there are mentions of project management and quality management, which are relevant to the Shift-Left concept, the overall discussion does not centre on integrating testing, security, or compliance earlier in the development lifecycle. Therefore, the alignment with the Shift-Left Strategy is minimal.",
     "level": "Ignored"
   },
@@ -1555,38 +1375,50 @@
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:29:20",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the features and considerations of Visual Studio ALM and its comparison with other tools like Git and Jenkins. While it touches on aspects of project management and tool selection, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. The focus is more on technical details and personal experiences rather than on aligning strategy with execution or fostering collaboration towards shared objectives.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:29:25",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the features and considerations of Visual Studio ALM and its comparison with other tools like Git and Jenkins. While it touches on aspects of project management and tool selection, it lacks a direct focus on the continuous development of skills or the fostering of a culture of competence. The discussion is more about tool functionality than about competence in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:29:27",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Visual Studio ALM and its features, focusing on application lifecycle management rather than the One Engineering System framework. While it touches on integration and tool selection, it does not explicitly mention 1ES principles or provide a comprehensive discussion on standardising engineering practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and its comparison with other tools like Git and Jenkins. While it touches on decision-making and considerations for tool selection, it does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. The focus is more on practical aspects of application lifecycle management rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Software Development
 categories: []

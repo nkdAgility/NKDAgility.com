@@ -37,27 +37,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T17:44:12",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions agile principles and practices, which are related to Scrum, but does not delve into specific Scrum roles, events, or artifacts. The focus is more on broader agile approaches and portfolio management rather than an in-depth exploration of Scrum itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T17:44:20",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agile approaches and their impact on organisational responsiveness, which aligns with the principles of systems thinking. However, it primarily focuses on agile practices rather than a comprehensive exploration of organisational dynamics or systems thinking. The mention of traditional management practices suggests an awareness of organisational structure but lacks depth in discussing the interplay of various organisational elements. Overall, while there are relevant themes, the content does not fully engage with the core aspects of Organisational Physics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -70,15 +70,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T17:43:55",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of evidence-based portfolio management in achieving better business outcomes, which aligns with the principles of Evidence-Based Leadership. It mentions the need for agile practices to extend beyond teams, indicating a conceptual link to leadership decisions. However, the discussion lacks specific techniques or metrics related to leadership, resulting in a moderate depth of discussion.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -91,91 +91,94 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T13:31:35",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses agile approaches and their impact on business agility, which aligns with product management principles. However, it lacks direct mentions of product management frameworks or specific methodologies, focusing instead on broader agile practices. The depth of discussion is moderate, touching on the need for agile principles to extend beyond teams, but it does not delve deeply into product management strategies or metrics.",
     "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-14T17:44:32",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the need for organizations to adopt agile principles beyond the team level, which aligns with the concept of leadership facilitating change. However, it lacks direct mentions of leadership roles or practices, focusing more on the broader organizational context and management practices. The depth of discussion on Agile Leadership specifically is limited, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T14:01:42",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on agile principles and practices at an organisational level, without specific reference to the Daily Scrum event.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T14:01:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:40:16",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile methodologies and business agility rather than system configuration.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on business agility and agile methodologies, with no direct mention of system configuration or related topics. While there is a brief reference to improving responsiveness and competitiveness, it does not delve into the specifics of system setup, integration, or configuration management. The discussion lacks depth and detail on any relevant themes, leading to a very low confidence score in alignment with the category.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T17:43:32",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing business responsiveness, which aligns with the core themes of digital transformation, particularly in terms of improving business agility. However, it lacks explicit mentions of digital technologies or comprehensive strategies for digital transformation initiatives. The depth of discussion is moderate, focusing on agile principles without delving into broader digital transformation frameworks or case studies.",
     "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T17:44:01",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agile approaches and the need for broader application of agile principles beyond Scrum teams, which indirectly relates to working software. However, it lacks explicit focus on the delivery of functional software, quality assurance, or customer feedback mechanisms, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-10T13:56:19",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of agile approaches and evidence-based portfolio management, which aligns with the principles of structured decision-making. However, it lacks explicit discussions on specific decision-making frameworks or techniques, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-13T16:30:44",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 52.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content discusses the need for agile approaches to improve responsiveness and mentions traditional management practices as impediments to deeper change. However, it does not explicitly focus on self-organisation principles or practices, making it a secondary mention rather than a primary focus. The alignment with self-organisation is present but not deeply explored, and the depth of discussion is moderate, lacking specific techniques or case studies related to self-organisation.",
     "level": "Tertiary"
   },
@@ -199,15 +202,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T15:08:37",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the need for organizations to adopt agile approaches to improve responsiveness and competitiveness, which indirectly touches on aspects of organisational culture. However, it primarily focuses on agile practices and management rather than explicitly addressing cultural elements or their impact on agility. The mention of traditional management practices suggests a cultural barrier but lacks depth in exploring how culture shapes or hinders agility.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -238,24 +241,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T14:02:01",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on business agility and portfolio management rather than the Definition of Done.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-14T17:44:10",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile approaches and their impact on business agility, which is tangentially related to product strategy. However, it primarily focuses on agile practices and management rather than explicitly addressing product vision, roadmapping, or customer-centric strategies. The mention of improving competitiveness aligns somewhat with product strategy, but the depth of discussion lacks specific methodologies or frameworks relevant to the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -277,63 +280,51 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-10T17:52:41",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing responsiveness and competitiveness, which aligns with strategic themes. However, it lacks explicit discussions on specific strategic frameworks or detailed techniques for optimising delivery and enhancing team performance, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T17:43:50",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
+    "calculated_at": "2025-04-10T17:40:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses agile approaches and the need for evidence-based management to improve responsiveness and competitiveness, which aligns with the core themes of the Ability to Innovate category. However, it lacks detailed exploration of frameworks, metrics, or specific strategies for fostering innovation, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses business agility and the need for agile principles to extend beyond teams, which hints at the importance of innovation in achieving better outcomes. However, it lacks direct mentions of innovation practices, metrics, or specific strategies for fostering innovation. The focus is more on agility and management practices rather than on the mechanisms that enable innovation, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-14T17:43:53",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses agile approaches and principles, highlighting the need for broader implementation beyond Scrum teams to achieve business agility. However, it lacks a detailed exploration of specific Agile frameworks or a comparative analysis, which limits its depth and direct mentions of the category.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-11T00:20:03",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the need for agile principles to extend beyond individual teams, which aligns with the core theme of scaling agility. However, it lacks specific frameworks or detailed strategies for implementing these principles at an organisational level, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T17:44:06",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile approaches and the need for agile principles to extend beyond the Scrum Team, which touches on team dynamics and collaboration. However, it primarily focuses on business agility and management practices rather than specific techniques or strategies for enhancing team collaboration. The discussion lacks depth in exploring the core themes of team communication, shared ownership, or psychological safety, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -364,36 +355,36 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T14:02:23",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile approaches and management practices rather than specific engineering practices like clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-03-11T09:51:32",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing business agility, which indirectly relates to portfolio management. It mentions the need for agile principles to extend beyond team-level practices, suggesting a connection to strategic alignment and organisational agility. However, it lacks explicit discussions on prioritisation frameworks, metrics, or risk management, which are crucial for a deeper understanding of portfolio management. Therefore, while there is a relevant focus, it does not delve deeply into the specific methodologies or practices of portfolio management.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T17:43:26",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agile approaches and their impact on business agility, which aligns with software development practices. However, the primary focus is on business outcomes rather than specific software development methodologies or practices. The mention of agile principles is relevant but lacks depth in discussing software engineering techniques or frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -406,11 +397,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T14:02:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:40:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices for improving business agility, without a clear focus on throughput measurement or optimisation.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses business agility and the need for agile practices beyond team levels, but it does not explicitly mention throughput as a delivery metric. While it touches on themes of responsiveness and improvement, it lacks a direct focus on measuring or analysing throughput, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -424,13 +418,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T11:14:47",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing responsiveness to change, which aligns with Agile principles. It mentions the need for agile principles to extend beyond team levels, indicating a conceptual understanding of Agile values. However, the discussion lacks depth and specific references to the Agile Manifesto or its core values, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -463,15 +457,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T14:48:43",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the need for organizations to adopt agile approaches to improve responsiveness to change, which aligns with the principles of change management. However, it primarily focuses on the challenges of traditional management practices and the need for agile principles to spread beyond teams, rather than providing in-depth strategies or practices for effective change management. The discussion is somewhat relevant but lacks the depth and specific focus required for a high confidence score in the Change Management category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -484,15 +478,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T17:44:22",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agile approaches and the need for evidence-based practices, which aligns with empirical process control principles. However, it lacks direct mentions of key topics such as transparency, inspection, and adaptation, and does not delve deeply into the specifics of empirical process control or its implementation in Agile frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -521,22 +515,16 @@
     "reasoning": "Content heavily discusses agile approaches and management practices without any focus on revenue per employee metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T14:02:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses business agility and management practices rather than the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:02:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on business agility and management practices rather than Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses business agility and evidence-based portfolio management, with no explicit mention of Test First Development principles or practices. It does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development roles. The discussion lacks depth regarding any aspect of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -595,34 +583,25 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T14:03:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:59:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices for business agility, without a clear focus on Lead Time as a metric.",
+    "final_score": 12.0,
+    "reasoning": "The content discusses business agility and the need for agile practices beyond team levels, but it does not explicitly mention Lead Time or its importance as an observability metric. The focus is more on general agility and management practices rather than on Lead Time, its measurement, or optimisation strategies.",
     "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-03-14T17:43:35",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the need for agile principles to extend beyond individual teams, hinting at the importance of scaling Agile practices for broader organisational impact. However, it lacks specific references to frameworks for scaling Agile, coordination among multiple teams, or detailed strategies for enterprise-level transformation, which are crucial for a higher confidence score in the Scaled Agile category.",
-    "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T13:09:20",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing responsiveness and achieving business agility, which aligns with pragmatic thinking. It highlights the need for agile principles to extend beyond Scrum teams, indicating a practical application of Agile concepts. However, the discussion lacks specific problem-solving strategies or detailed case studies, which limits the depth of the content in relation to the category.",
     "level": "Secondary"
   },
@@ -635,18 +614,6 @@
     "reasoning": "Content primarily discusses agile approaches and management practices for business agility, without a clear focus on deployment frequency or related optimisation strategies.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T17:44:29",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses agile approaches and principles, highlighting the need for broader application beyond Scrum teams. However, it lacks detailed exploration of specific agile frameworks, roles, or practices, which limits its depth of discussion.",
-    "level": "Secondary"
-  },
   "Continuous Integration": {
     "category": "Continuous Integration",
     "calculated_at": "2025-02-12T14:03:19",
@@ -658,25 +625,25 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T14:19:35",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the need for organizations to adopt agile approaches to enhance responsiveness and competitiveness, which aligns with the core themes of Agile Strategy. It highlights the importance of spreading Agile principles beyond team levels to achieve broader business agility, indicating a strategic perspective. However, while it touches on key aspects of Agile Strategy, such as adaptability and the need for change, it lacks detailed exploration of specific strategies or case studies, which affects the depth of discussion.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:12:44",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agile approaches and business agility but does not explicitly mention Continuous Delivery or its principles. While there is a focus on improving responsiveness and competitiveness, which are relevant to Continuous Delivery, the discussion lacks depth in terms of specific practices, tools, or case studies related to Continuous Delivery. The primary focus is on agile methodologies rather than the delivery aspect, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -691,59 +658,41 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T14:03:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses business agility and the need for agile practices beyond the Scrum Team, without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-14T17:43:22",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile approaches and their impact on organizational responsiveness, which relates to sensemaking in terms of adapting to change. However, it primarily focuses on agile practices rather than explicitly addressing sensemaking principles or frameworks. The discussion lacks depth in exploring how organizations interpret complexity or make informed decisions, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T14:03:31",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile approaches and management practices without a clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T14:03:33",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the broader concept of business agility and the need for agile practices beyond the team level, rather than focusing specifically on team performance or collaboration.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T14:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices without a focus on AI integration or applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T14:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile principles and practices, focusing on Scrum and traditional management practices, without a clear emphasis on Kanban or its scaling in large organisations.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -766,22 +715,22 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T14:03:42",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile approaches and the need for broader application of agile principles, rather than focusing on Lean principles or waste reduction.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-11T16:08:43",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the need for organizations to adopt agile approaches to enhance responsiveness and competitiveness, which aligns well with the principles of Agile transformation. It highlights the importance of spreading Agile practices beyond individual teams, indicating a focus on organisational change. The depth of discussion is substantial, as it addresses the limitations of traditional management practices and the necessity for a broader cultural shift towards Agile methodologies. However, it does not delve deeply into specific frameworks or detailed strategies for Agile transformation, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -796,22 +745,22 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T14:03:47",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile approaches and management practices rather than focusing on Scrum Values.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-11T17:21:48",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the need for organisations to adopt agile approaches to enhance responsiveness and competitiveness, which aligns with the themes of organisational change. However, while it mentions the importance of spreading agile principles beyond the team level, it lacks detailed exploration of specific frameworks or methodologies for implementing change, such as the ADKAR model or Kotter's 8-Step Process. The discussion is primarily focused on agile practices rather than a comprehensive examination of organisational change strategies.",
     "level": "Secondary"
   },
@@ -824,36 +773,27 @@
     "reasoning": "Content focuses on business agility and agile principles rather than test automation or related practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T14:03:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses agile approaches and business agility but does not focus specifically on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T17:43:57",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the need for agile approaches to enhance responsiveness and mentions the importance of spreading agile principles beyond Scrum Teams. However, it lacks detailed techniques or strategies specifically aimed at operational efficiency, such as process optimisation or metrics for measuring efficiency. The focus is more on the concept of agility rather than practical operational practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:12:47",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses evidence-based portfolio management, which aligns with the principles of Evidence-Based Management by focusing on improving business agility and responsiveness. However, it does not delve deeply into specific metrics or empirical decision-making processes, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -866,36 +806,27 @@
     "reasoning": "Content primarily discusses the broader concept of business agility and the need for agile principles beyond the Scrum Team, rather than focusing specifically on backlog refinement practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-03-14T17:43:48",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the need for agile principles to extend beyond individual Scrum teams, which aligns with the concept of scaling Scrum. However, it lacks specific frameworks or detailed discussions on coordination among multiple teams, which limits its depth and direct mentions of scaling practices.",
-    "level": "Tertiary"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:03:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile approaches and business agility without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile approaches and the need for agility beyond teams, which aligns with the broader principles of Scrum. However, it does not explicitly mention the role of the Scrum Master or delve into specific responsibilities or techniques associated with that role. The focus is more on organisational agility rather than the Scrum Master’s influence or practices.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-03-14T17:44:08",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the need for agile principles to extend beyond individual teams to achieve broader business agility, which aligns with the core themes of scaling Agile. However, it primarily focuses on team-level practices and does not delve deeply into specific frameworks or enterprise-level strategies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -937,13 +868,13 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T17:44:24",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of agile approaches for improving responsiveness and mentions the need for agile principles to extend beyond Scrum teams. However, it lacks a detailed exploration of specific Agile Planning techniques, such as user stories, backlogs, or iterative planning, which are crucial for a higher confidence score.",
     "level": "Secondary"
   },
@@ -956,7 +887,7 @@
     "reasoning": "Content primarily discusses the need for agile principles to extend beyond Scrum teams and focuses on improving business outcomes rather than accountability within teams.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T14:04:13",
     "ai_confidence": 0,
@@ -994,10 +925,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T14:04:18",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile approaches at an organisational level rather than focusing specifically on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -1012,10 +943,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T14:04:20",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses agile principles and practices without a clear focus on release management processes.",
     "level": "Ignored"
   },
@@ -1030,25 +961,25 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-14T17:43:46",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 52.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content discusses the need for organizations to adopt agile approaches to enhance responsiveness, which aligns with the theme of business agility trends. However, it lacks a detailed exploration of specific trends or case studies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T15:22:33",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile principles in enhancing business agility and responsiveness to change, which aligns with the core themes of the Agile Philosophy. It highlights the need for a cultural shift beyond team-level practices, indicating a deeper understanding of Agile as a mindset rather than just a set of practices. However, the discussion is somewhat general and lacks detailed exploration of specific Agile principles or the Agile Manifesto, which limits the depth of the analysis.",
     "level": "Secondary"
   },
@@ -1063,10 +994,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T14:04:30",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the broader concept of business agility and the need for agile principles beyond team levels, rather than focusing specifically on Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -1099,15 +1030,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-13T16:22:33",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing business responsiveness and competitiveness, which aligns with the core themes of strategic goals. However, it primarily focuses on the application of agile practices rather than explicitly defining long-term strategic objectives. The depth of discussion on how these practices can lead to improved business outcomes suggests a moderate level of engagement with the category, but it lacks a thorough exploration of frameworks or techniques for setting strategic goals.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1129,13 +1060,13 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-06T13:31:38",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the need for organizations to extend agile practices beyond individual teams to achieve true business agility, which aligns well with the core themes of Enterprise Agility. It mentions the importance of responsiveness to change and the limitations of traditional management practices, indicating a conceptual understanding of the broader implications of agility. However, the depth of discussion is somewhat limited, focusing primarily on the transition from team-level agility to organisational agility without delving into specific frameworks or metrics.",
     "level": "Secondary"
   },
@@ -1148,34 +1079,13 @@
     "reasoning": "Content heavily discusses Agile principles and practices without a clear focus on Lean methodologies or principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-14T17:44:18",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the need for organizations to improve their responsiveness to change through agile approaches, which aligns with the themes of resilience and adaptability. However, it primarily focuses on agile practices and their implementation rather than providing a comprehensive discussion on resilience strategies or change management methodologies. The mention of traditional management practices as impediments to deeper change hints at the need for resilience but lacks depth in exploring frameworks or leadership roles in guiding change.",
-    "level": "Secondary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T14:00:32",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile principles and practices rather than installation and configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T14:00:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses agile methodologies and business agility, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1187,50 +1097,29 @@
     "reasoning": "Content primarily discusses agile approaches and management practices for achieving business agility, rather than focusing on flow efficiency or optimising work throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T14:00:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices without a focus on AI or automation technologies.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T17:44:03",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agile approaches and their impact on business agility, which relates to product delivery. However, it primarily focuses on the broader concept of business agility rather than the specific methodologies and practices of product delivery. The mention of agile principles is relevant, but the depth of discussion on product delivery practices is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T17:43:24",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses agile approaches and the need for agile principles to extend beyond Scrum teams, which aligns with the broader themes of Agile Product Management. However, it lacks specific details on product management practices, such as the role of the Product Owner or techniques for prioritising product backlogs, resulting in a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T17:43:43",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses agile approaches and their impact on business agility, which touches on the importance of adapting to change and improving responsiveness. However, it primarily focuses on management practices rather than explicitly exploring discovery and learning methodologies. The mention of agile principles suggests some alignment with the category, but the depth of discussion on experimentation, feedback loops, or continuous learning is limited.",
-    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1243,52 +1132,25 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-14T17:44:27",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agile approaches and their impact on organizational responsiveness, which aligns with complexity thinking principles. However, it lacks direct references to complexity science or frameworks like Cynefin, and the depth of discussion on complexity concepts is minimal.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T14:00:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices without a clear focus on transparency and accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T14:00:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the need for agile principles to spread beyond the team level and focuses on traditional management practices rather than specific tools or methodologies.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T14:00:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile approaches and management practices without reference to specific events, presentations, or discussions.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-06T14:44:48",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing responsiveness to change, which aligns with the core themes of market adaptability. However, while it mentions the need for agile principles to extend beyond team levels, it lacks detailed exploration of specific strategies or methodologies that directly enhance market adaptability, such as continuous feedback loops or data analytics. The discussion is relevant but not exhaustive, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -1303,13 +1165,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:12:58",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on agile approaches and evidence-based portfolio management, which are not directly aligned with the core principles of DevOps. While it touches on themes of responsiveness and agility, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The depth of discussion is limited, focusing more on agile practices rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
@@ -1322,29 +1184,17 @@
     "reasoning": "Content heavily discusses agile principles and practices without specific reference to Azure DevOps services or tools.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-14T17:43:29",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content explicitly mentions a book titled 'Investing for Business Agility' and discusses its relevance to improving business agility through agile principles. This direct mention contributes significantly to the confidence score. The conceptual alignment is strong as it relates to Agile methodologies and their application in business contexts, but it lacks a detailed analysis of the book's content or methodologies, which affects the depth score. Overall, the content is focused on a product (the book) and its implications for Agile practices, justifying a high confidence score.",
-    "level": "Secondary"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-06T15:44:28",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the need for organizations to adopt agile approaches to enhance responsiveness to change, which directly aligns with the principles of business agility. It highlights the importance of spreading agile practices beyond individual teams to achieve broader organizational improvements, indicating a strong conceptual alignment with the category. The depth of discussion is substantial, as it addresses both the challenges of traditional management practices and the necessity for a shift towards agile principles for better business outcomes.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1357,13 +1207,13 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T17:43:37",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agile approaches in enhancing responsiveness and achieving business agility, which aligns with the core themes of value delivery. However, it lacks explicit discussions on specific methodologies or practices related to value management, such as CI/CD or value stream mapping. The mention of evidence-based portfolio management hints at value delivery but does not delve deeply into the strategies or techniques for maximising customer value.",
     "level": "Secondary"
   },
@@ -1378,13 +1228,13 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-07T12:50:45",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the need for organizations to adopt agile approaches to enhance responsiveness to change, which aligns with the core themes of organisational agility. It highlights the limitations of traditional management practices and the necessity for agile principles to extend beyond team levels, indicating a deeper understanding of the cultural shifts required for true agility. However, while it touches on key aspects, the depth of discussion on specific strategies, frameworks, or case studies is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
@@ -1397,69 +1247,45 @@
     "reasoning": "Content primarily discusses agile approaches and management practices without personal anecdotes or insights.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T11:39:28",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the need for agile approaches to enhance responsiveness and competitiveness, which aligns with the core themes of team dynamics and the role of leadership in fostering effective processes. It highlights the importance of spreading agile principles beyond the Scrum Team, indicating a focus on organisational structure and the human factors involved in achieving business agility. However, while it touches on these themes, it does not delve deeply into specific strategies or evidence-based approaches, which slightly limits the depth of discussion.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T17:43:40",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the need for agile principles to extend beyond individual teams, hinting at the interplay between organisational structures and technology adoption. However, it lacks explicit references to sociotechnical systems and does not delve deeply into the social aspects or team dynamics that influence software delivery.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-14T17:44:15",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of agile approaches in improving business responsiveness, which aligns with the core themes of Agile methodologies. However, it primarily focuses on the theoretical aspects of agile practices rather than providing specific news updates or reviews. The mention of a resource link suggests some relevance, but the overall depth of discussion lacks concrete examples or evaluations of tools and trends in the industry.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-14T17:43:59",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the importance of agile approaches and evidence-based management but lacks a detailed discussion on metrics, data analysis, or feedback mechanisms. While it aligns conceptually with the need for evidence-based practices, it does not delve into specific metrics or continuous improvement methodologies, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T14:01:21",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile approaches and business agility rather than the specific methodologies, practices, and tools involved in managing the application lifecycle.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T14:01:22",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile approaches and portfolio management rather than focusing on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
@@ -1483,48 +1309,48 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T12:08:47",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile approaches and the need for organisational change towards improved responsiveness, which aligns with the principles of BetaCodex, but it primarily focuses on agile practices rather than a deep exploration of BetaCodex itself.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:13:01",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agile approaches and the need for broader application beyond team levels, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on portfolio management rather than the specific elements of the APOM framework, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-14T17:43:20",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for organizations to adopt agile approaches to improve responsiveness and competitiveness, which indirectly relates to leadership in fostering an agile environment. However, it primarily focuses on the challenges of traditional management practices and the need for agile principles to spread beyond teams, rather than explicitly addressing leadership strategies or practices. The discussion lacks depth in exploring leadership roles or frameworks, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:48:50",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the need for agile principles to extend beyond team levels to achieve business agility, which aligns with the themes of collaboration and decision-making. However, it lacks direct mentions of social technologies and does not delve deeply into specific frameworks or methodologies that promote collaboration or transparency within organisations.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1546,74 +1372,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:42:02",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions agile principles and practices, which are related to Scrum, but does not delve into specific Scrum roles, events, or artifacts. The focus is more on the broader concept of business agility rather than a detailed discussion of Scrum itself. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Scrum category.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:41:15",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses agile approaches and business agility, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on the need for responsiveness and improvement in management practices, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:12:34",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the need for organisations to improve their responsiveness and competitiveness through agile approaches, which aligns with the principles of Continuous Improvement. However, it primarily focuses on evidence-based portfolio management rather than directly addressing Continuous Improvement practices or methodologies. The mention of agile principles suggests a connection, but the depth of discussion on Continuous Improvement itself is moderate, leading to a confidence score that reflects a significant but not primary focus on the category.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:12:37",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of agile approaches for improving responsiveness and competitiveness, which aligns with the concept of Common Goals in terms of organisational objectives. However, it lacks direct mentions of specific Common Goals or frameworks like OKRs, and the depth of discussion on aligning strategy with execution is limited. Overall, while it touches on relevant themes, it does not provide a comprehensive exploration of Common Goals.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:12:39",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the need for agile approaches to enhance business agility and responsiveness, which indirectly relates to competence. However, it lacks direct mentions of continuous learning, skill development, or the role of competence in delivering quality outcomes. The focus is more on organisational agility rather than individual or team competence, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:12:42",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses agile approaches and business agility but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on improving responsiveness and competitiveness, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about agile practices at a broader organisational level rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses business agility and the need for agile principles to extend beyond teams, but it does not explicitly address the concept of Agentic Agility or its key themes such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. The focus is more on general agile practices rather than the specific transformative capacity associated with Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:39:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agile approaches and evidence-based portfolio management, which are relevant to product development. However, while it touches on the need for agility beyond teams, it lacks a detailed exploration of specific product development methodologies or practices. The focus is more on business agility rather than the iterative and customer-centric aspects of product development, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:39:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses business agility and the need for agile practices to extend beyond teams, which indirectly relates to Time to Market by implying a need for improved responsiveness and competitiveness. However, it lacks direct mentions of Time to Market metrics or specific strategies for improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:39:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile principles and portfolio management without any direct mention of GitHub or its functionalities. While it touches on themes of business agility, it does not align with GitHub's core topics such as version control, collaboration features, or CI/CD pipelines. The depth of discussion is also minimal regarding GitHub, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:39:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the need for agility beyond team levels and mentions agile principles, which aligns with the idea of adapting practices for broader organisational change. However, it primarily focuses on traditional management practices and does not explicitly reference Agnostic Agile principles or provide a detailed exploration of its philosophy. The mention of Scrum suggests a more traditional framework focus rather than a critical examination of Agnostic Agile's context-driven approach.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:39:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the need for organisations to improve their responsiveness and competitiveness through agile approaches, which aligns with the principles of CaaP. However, it primarily focuses on agile practices at the team level and traditional management practices, lacking a direct discussion on treating the organisation as a product or integrating customer feedback into organisational design. The depth of discussion is limited, as it does not provide specific strategies or examples related to CaaP.",
+    "level": "Tertiary"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:39:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses improving business agility and mentions agile principles, but it primarily focuses on traditional management practices and evidence-based portfolio management rather than the specific concepts of Cell Structure Design. There are no direct mentions of cells, decentralisation, or the Beta Codex, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:39:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses agile approaches and the need for deeper change in management practices to achieve business agility. However, it does not explicitly mention Liberating Structures or any specific techniques associated with them. The focus is more on general agile principles rather than the facilitation techniques that promote participation and collaboration, which are central to Liberating Structures. Therefore, while there is some conceptual alignment with the idea of enhancing responsiveness and collaboration, the lack of direct mentions and depth in discussing Liberating Structures results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:39:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the need for agile principles to extend beyond team levels, hinting at the challenges of traditional management practices in achieving true business agility. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The focus is more on enhancing business agility rather than the specific pitfalls of Hybrid Agile, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:39:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of agile approaches and evidence-based portfolio management for improving business agility and competitiveness. However, it does not explicitly mention 'Unrealised Value' or delve into the specific indicators, strategies, or tools associated with identifying untapped opportunities. While there is a conceptual alignment with the idea of improving responsiveness and competitiveness, the discussion lacks depth and direct references to the core themes of Unrealised Value, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:39:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses enhancing business agility and the need for agile principles to extend beyond individual teams, which aligns with the concept of scaling. However, it lacks specific frameworks, strategies, or detailed discussions on cross-team collaboration and integration challenges that are central to the Scaling category. The mention of 'agility at the team level' is too general and does not delve into the complexities of scaling practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:40:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of agile approaches for improving responsiveness and competitiveness, which indirectly relates to the concept of Current Value. However, it lacks explicit mentions of Current Value metrics or indicators, and the depth of discussion on how these agile practices translate into measurable value is minimal. The focus is more on the broader concept of business agility rather than a detailed exploration of Current Value in the context of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:40:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile approaches and the need for broader application of agile principles beyond team levels, which aligns with project management themes. However, it lacks direct mentions of core project management principles, methodologies, or detailed discussions on project lifecycle phases, tools, or roles. The focus is more on business agility rather than comprehensive project management strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:40:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses business agility and the need for agile principles to extend beyond team levels, which aligns with the broader theme of organisational agility. However, it does not explicitly mention Open Space Agile or its principles, nor does it delve into the specific practices or concepts associated with Open Space Technology. The focus is more on traditional agile practices and portfolio management rather than the collaborative and emergent nature of Open Space Agile.",
     "level": "Ignored"
   }
 }

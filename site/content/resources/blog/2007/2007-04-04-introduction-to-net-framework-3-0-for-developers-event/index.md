@@ -27,8 +27,7 @@ aliasesArchive:
 - /introduction-to--net-framework-3-0-for-developers-event
 - /blog/introduction-to--net-framework-3-0-for-developers-event
 - /resources/blog/introduction-to-net-framework-3-0-for-developers-event
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

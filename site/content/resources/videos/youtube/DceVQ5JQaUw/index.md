@@ -28,13 +28,10 @@ isShort: false
 tags:
 - Change Management
 - Organisational Culture
-- People and Process
-- Resilience and Change
-- Agile Transformation
-- Discovery and Learning
 - Organisational Agility
 - Agile Leadership
 - Agile Philosophy
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

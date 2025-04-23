@@ -2,7 +2,7 @@
 title: 'The Overlooked Virtue of Agility: Diligence'
 description: Unlock the power of diligence in Agile! Discover how attention to detail can elevate your projects and drive success. Watch now for essential insights!
 date: 2023-12-07T07:00:02Z
-weight: 415
+weight: 355
 ResourceId: 3S0zghhDPwc
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,20 +29,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Definition of Done
 - Software Development
-- Agile Values and Principles
-- Product Delivery
+- Definition of Done
 - Agile Transformation
 - Operational Practices
 - Competence
+- Agile Values and Principles
+- Product Delivery
 - Agile Product Management
 - Agile Frameworks
+- Agile Strategy
+- Organisational Agility
+- Value Delivery
+- Working Software
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 When we talk about Agile practices, we often highlight flexibility, collaboration, and continuous improvement. However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done—no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.

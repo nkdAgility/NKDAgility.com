@@ -1,25 +1,25 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T13:16:31",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a project related to Team Foundation Server (TFS) and its application in displaying project statuses, which aligns with some aspects of Application Lifecycle Management (ALM). However, it primarily focuses on a specific tool and its implementation rather than the broader methodologies, practices, and governance associated with ALM. The mention of 'ALM' in the tags indicates some relevance, but the overall discussion lacks depth in covering the lifecycle stages or best practices in application governance.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-15T07:35:23",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a digital whiteboard application that displays project statuses and work items, which could relate to flow efficiency through visual management. However, it lacks explicit discussions on optimising throughput or eliminating bottlenecks, and the depth of analysis on flow efficiency principles is minimal.",
     "level": "Ignored"
   },
@@ -43,10 +43,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:39:49",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific project related to Team Foundation Server and digital whiteboards, without a clear focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -61,10 +61,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:39:52",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept and features of a digital whiteboard application without providing specific installation or configuration instructions.",
     "level": "Ignored"
   },
@@ -86,15 +86,6 @@
     "reasoning": "Content primarily discusses the development of a specific application related to Team Foundation Server, which aligns with technical practices rather than miscellaneous topics.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:39:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a digital whiteboard application for project management, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:39:57",
@@ -103,18 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a digital whiteboard application for project management, focusing on technical implementation rather than complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T15:13:12",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the development of a tool (Digital Whiteboard) that integrates with Team Foundation Server (TFS) to enhance team collaboration and project visibility. It explicitly mentions the use of TFS and outlines the functionality of the application, which aligns well with the category's focus on practical techniques and tooling. The depth of discussion is significant, detailing how the tool will operate and the rules for displaying work item statuses, which supports the exploration of methodologies for implementing Agile practices. Overall, the content is highly relevant and provides a clear example of practical application in a DevOps context.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -127,15 +106,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T07:35:10",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a tool that visualises project status and work items, which indirectly relates to metrics and learning by providing visibility into project progress. However, it lacks explicit discussions on metrics, data analysis, or feedback mechanisms, making it a secondary focus rather than a primary one.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -166,42 +145,39 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:40:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a digital whiteboard application for displaying project status, without a focus on evidence-based management principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a digital whiteboard project for Team Foundation Server, focusing on project visibility and team collaboration. While it touches on aspects of project management, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in empirical decision-making or metrics that assess current value, time to market, or ability to innovate, which are central to EBM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:40:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a digital whiteboard application for displaying project status in Team Foundation Server, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:40:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a specific application related to Team Foundation Server, lacking broader industry news or reviews.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a digital whiteboard solution for Team Foundation Server, focusing on project visibility and team collaboration. While it touches on aspects of agile practices, such as displaying work items and their statuses, it does not explicitly mention the Agile Product Operating Model or its core principles. The discussion is more aligned with project management tools rather than the product-oriented mindset and continuous delivery emphasized in APOM.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:35:19",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the development of a digital whiteboard application that integrates with Team Foundation Server (TFS) to display project statuses, which aligns with product delivery practices. It mentions aspects of project management, such as displaying work items and their statuses, which are relevant to the planning and tracking phases of product delivery. However, the discussion lacks depth in methodologies like Agile or CI/CD practices, and while it touches on relevant topics, it does not provide a comprehensive exploration of product delivery principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -219,45 +195,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a digital whiteboard application for Team Foundation Server, focusing on project management rather than platform engineering principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:40:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a digital whiteboard application for Team Foundation Server, focusing on project status display rather than AI and automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:40:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a digital whiteboard application using Team Foundation Server, focusing on its features and functionality rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a software application rather than events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-15T07:34:45",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses a digital whiteboard application that aims to display project statuses, which indirectly relates to transparency by providing visibility into work items and their statuses. However, it lacks explicit discussions on accountability or the principles of openness and responsibility within Agile teams. The mention of displaying information does not delve into how this fosters trust or aligns team goals with organisational objectives, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -298,22 +235,22 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:40:32",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a software application related to Team Foundation Server, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:35:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 68.0,
     "ai_mentions": 80.0,
     "ai_alignment": 60.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a project related to Team Foundation Server (TFS), which is a component of Azure DevOps. It provides a detailed description of a tool that integrates with TFS to enhance project visibility and management, aligning with Azure DevOps functionalities. However, it lacks broader discussions on Azure DevOps services and methodologies, focusing primarily on a specific implementation without addressing the wider context of Azure DevOps practices.",
     "level": "Secondary"
   },
@@ -328,60 +265,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-15T07:34:43",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a tool related to Team Foundation Server (TFS) that aims to improve project visibility and management, which aligns with some DevOps principles. However, it primarily focuses on project management aspects rather than the broader DevOps practices such as CI/CD, automation, or cultural shifts. The mention of TFS and work items indicates a connection to development processes, but it lacks depth in discussing DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific project related to Team Foundation Server (TFS) and its application in enhancing project visibility and team collaboration. While it touches on themes of collaboration and project management, it does not explicitly address the broader principles of DevOps, such as automation, shared accountability, or continuous improvement. The focus is more on a tool and its functionalities rather than the cultural and philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:35:25",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a digital whiteboard application that integrates with Team Foundation Server (TFS) to display project statuses. While it touches on aspects of software development and project management, it lacks a direct focus on engineering practices that enhance agility, such as TDD or CI/CD. The mention of querying TFS and displaying work items indicates some technical detail, but the overall discussion is more about the application concept rather than deep technical excellence principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:35:29",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses a technical implementation of a digital whiteboard for project management using Team Foundation Server (TFS). While it touches on aspects of team visibility and project status, it lacks a direct focus on human behaviour, team dynamics, or structured methodologies that enhance collaboration and communication. The mention of displaying work items and their statuses does not delve into the human factors or processes that influence team performance, which are central to the 'People and Process' category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:40:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a digital whiteboard application for project management, lacking a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T07:35:32",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the development of a specific application related to Team Foundation Server, which aligns with the category's focus on tools that facilitate Agile practices. However, it lacks explicit reviews or analyses of existing products or literature, and the discussion is more about the application being developed rather than a comprehensive exploration of Agile methodologies or DevOps principles.",
-    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -412,22 +316,22 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T07:35:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the creation of a digital whiteboard application that aims to enhance team visibility and project management within the context of Team Foundation Server. While it touches on innovative practices by proposing a new tool, it lacks a direct focus on the broader themes of the Ability to Innovate category, such as Evidence-Based Management or frameworks for measuring innovation. The discussion is more about a specific project rather than a comprehensive exploration of innovation capabilities.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a tool for displaying project information but does not focus on the concept of cross-functional teams or their dynamics and practices.",
     "level": "Ignored"
   },
@@ -447,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on the creation of a tool for displaying project status in Team Foundation Server, with emphasis on work items and iterations, rather than on portfolio management practices or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily describes a digital tool (TFS Sticky Buddy) that visualizes project status and work items without explicitly discussing Scrum principles, roles, or product development processes.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -487,10 +382,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical project involving Team Foundation Server tools and a Digital Whiteboard application rather than Agile Values and Principles.",
     "level": "Ignored"
   },
@@ -523,20 +418,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a software project and its features related to Team Foundation Server, without addressing the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a digital whiteboard application for Team Foundation Server without focusing on scaling Agile practices or frameworks.",
+    "reasoning": "Content heavily discusses a software project and its features related to Team Foundation Server, without addressing the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -559,34 +445,34 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-03-15T07:34:56",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a digital whiteboard application that displays project status and work items, which could indirectly relate to forecasting by providing visibility into project progress. However, it lacks a direct focus on forecasting methodologies, empirical data usage, or specific Agile practices related to predicting delivery timelines. The mention of risks and overdue items hints at some aspects of forecasting, but the overall discussion is more about project tracking and visualisation rather than forecasting itself.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T07:35:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the display of project status and work items, which could relate to transparency in Agile methodologies. However, it lacks a direct discussion on empirical process control principles, such as inspection and adaptation. The focus is more on the technical implementation of a tool rather than on the underlying Agile principles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project related to Team Foundation Server and Agile practices, without any mention of the TDD methodology or its principles.",
     "level": "Ignored"
   },
@@ -601,37 +487,25 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-10T18:59:18",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the creation of a digital whiteboard application that integrates with Team Foundation Server (TFS) to enhance team visibility and communication regarding project statuses. It directly mentions the use of a tool designed to facilitate collaboration within Agile teams, aligning well with the category's focus. The depth of discussion includes specific features and functionalities that support team dynamics, such as displaying work item statuses and iteration trees, which are crucial for Agile methodologies. However, while the content is relevant, it does not provide a comprehensive overview of multiple collaboration tools or best practices, which slightly limits its depth.",
     "level": "Secondary"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:34:52",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the development of a tool that integrates with Team Foundation Server (TFS) to enhance project visibility, which aligns with Agile practices. However, it lacks explicit discussions on Agile methodologies or DevOps principles, and while it touches on project management aspects, it does not delve deeply into the role of software developers or their practices.",
-    "level": "Tertiary"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:06:17",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the development of a digital whiteboard application that integrates with Team Foundation Server (TFS), which is relevant to software development practices. It mentions specific features and functionalities that relate to project management and tracking within a software development context. However, while it touches on aspects of Agile methodologies and project management, it lacks a deeper exploration of software development methodologies or best practices, which limits its overall depth and alignment with the category.",
     "level": "Secondary"
   },
@@ -662,7 +536,7 @@
     "reasoning": "Content heavily discusses the development of a digital whiteboard application and the display of work items, but does not focus on estimation techniques or practices within Agile and Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:10:03",
     "ai_confidence": 0,
@@ -718,12 +592,12 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T07:34:43",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content mentions tracking of 'Change Requests' and 'Requirements' within iterations, which aligns with Agile Planning concepts, but the focus is predominantly on technical implementation details and does not primarily discuss Agile Planning principles or methodologies.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -736,19 +610,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a digital whiteboard project for Team Foundation Server, focusing on its display and project management features rather than Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a digital whiteboard project for Team Foundation Server, focusing on project visibility and team collaboration. While it touches on aspects of project management and work item tracking, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion lacks depth in Continuous Delivery topics and does not provide relevant strategies or case studies related to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a digital application using Team Foundation Server, focusing on the display of project statuses and work items without a clear discussion on Lead Time.",
     "level": "Ignored"
   },
@@ -772,32 +649,23 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T07:34:54",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the creation of a digital whiteboard application that integrates with Team Foundation Server (TFS) to enhance project visibility and team collaboration. While it mentions digital tools and their application in a business context, the focus is primarily on the technical implementation rather than a strategic discussion of digital transformation. The content lacks depth in exploring how this tool contributes to broader themes of business agility, innovation, or operational efficiency, which are central to the category of Digital Transformation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a digital whiteboard tool related to project management using Team Foundation Server, without a focus on hypothesis formulation, experimentation, or validated learning.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the creation of a digital whiteboard for project management, focusing on Team Foundation Server and Agile project statuses without addressing AI applications.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -838,10 +706,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a digital whiteboard tool for managing project status in Team Foundation Server, without focusing on Lean principles or waste reduction.",
     "level": "Ignored"
   },
@@ -856,10 +724,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation of a digital whiteboard application using Team Foundation Server, with no focus on evidence-based leadership or decision-making.",
     "level": "Ignored"
   },
@@ -883,25 +751,25 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-15T07:35:12",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a tool related to Team Foundation Server (TFS) that aims to enhance visibility of project status, which aligns with Agile planning concepts. However, it lacks a direct focus on Agile methodologies and does not delve deeply into Agile planning techniques or tools. The mention of displaying work items and their statuses is relevant but does not comprehensively cover the broader themes of Agile planning tools.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T07:35:02",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a project related to Team Foundation Server (TFS), which is a version control system. However, the focus is more on the application and its features rather than on modern source control practices, methodologies, or strategies. While it mentions querying a TFS server and displaying work items, it lacks a detailed exploration of version control principles or best practices, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
@@ -925,36 +793,36 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T07:34:58",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a tool designed to enhance team visibility and project status, which indirectly relates to team performance. However, it lacks explicit discussions on team dynamics, collaboration strategies, or Agile methodologies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-15T07:34:43",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 25,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses features related to Team Foundation Server (TFS) and work items within an iteration, but it does not primarily focus on the concept of a Product Backlog or its management in Agile frameworks.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T07:35:36",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a project related to Team Foundation Server (TFS), which is closely associated with Azure Boards. It mentions work items and their statuses, which aligns with the functionalities of Azure Boards. However, the focus is more on a specific application rather than a comprehensive discussion of Azure Boards' features or best practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -976,55 +844,55 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T10:47:38",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the creation of a digital whiteboard application that aims to enhance team visibility and communication regarding project statuses. While it does not explicitly mention 'team collaboration' as a primary focus, it aligns with the core themes of improving team communication and shared ownership by providing a visual tool for tracking work items. The depth of discussion includes details about the functionality of the application and its intended use in a team environment, which supports collaboration. However, it lacks a broader discussion on team dynamics or strategies for fostering a collaborative culture.",
     "level": "Secondary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a digital whiteboard application and its integration with Team Foundation Server, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a digital whiteboard application and project management aspects rather than discussing acceptance testing or ATDD principles.",
     "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-11T15:16:17",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the creation of a digital whiteboard that aims to enhance visibility of project status and work items, which aligns with the core themes of transparency in Agile. It mentions displaying information about work items and their statuses, which promotes openness and accountability. However, the discussion lacks depth in exploring the broader implications of transparency in Agile processes and does not explicitly address team dynamics or trust-building.",
     "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:34:49",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a digital whiteboard application that integrates with Team Foundation Server (TFS), which touches on software engineering practices. However, it primarily focuses on the application’s functionality and user interface rather than delving into best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While there are elements of technical implementation, the discussion lacks depth in terms of software architecture and engineering excellence, leading to a moderate confidence score.",
     "level": "Ignored"
   },
@@ -1037,15 +905,6 @@
     "reasoning": "Content focuses on creating a tool for displaying project status in an office environment, not discussing remote work or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a digital whiteboard application for displaying project statuses, and does not discuss Kanban principles, scaling, or frameworks relevant to scaling Kanban in large organizations.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:10:03",
@@ -1055,27 +914,15 @@
     "reasoning": "Content primarily discusses the development and functionality of a digital whiteboard for project management, with no focus on customer retention strategies or user engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T07:35:40",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses a tool that integrates with Team Foundation Server to display project status, which aligns with agile principles of visibility and iterative progress. However, it lacks explicit references to agile methodologies, frameworks, or roles, and does not delve deeply into agile concepts, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T07:35:34",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a tool that displays work items and their statuses, which indirectly relates to throughput by providing visibility into work progress. However, it lacks explicit discussions on measuring or optimising throughput, and the focus is more on the tool's functionality rather than the core themes of throughput in Agile or DevOps contexts.",
     "level": "Ignored"
   },
@@ -1090,10 +937,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a digital whiteboard application and its features in displaying project status, rather than on measuring or discussing Cycle Time specifically.",
     "level": "Ignored"
   },
@@ -1162,10 +1009,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project related to Team Foundation Server and agile management, with no clear focus on Windows operating system topics.",
     "level": "Ignored"
   },
@@ -1243,10 +1090,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a digital whiteboard application for displaying project statuses, with no mention of Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1261,15 +1108,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:35:14",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the development of a software application that integrates with Team Foundation Server to display project statuses, which aligns with the concept of delivering functional software. However, it lacks detailed exploration of best practices, customer feedback, or iterative development, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1282,31 +1129,31 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project related to a digital whiteboard and Team Foundation Server without focusing on Scrum teams, roles, or collaboration dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a project related to Team Foundation Server and the display of development status, without focusing on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:35:21",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the development of a digital whiteboard application that integrates with Team Foundation Server (TFS) to enhance project visibility and management. While it touches on practical applications of Agile principles, such as displaying project status and managing work items, the discussion lacks depth in terms of problem-solving strategies or critical thinking techniques. The focus is more on the technical implementation rather than on pragmatic approaches to navigating complexity or uncertainty in project management.",
     "level": "Secondary"
   },
@@ -1339,20 +1186,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software project involving Team Foundation Server and digital whiteboarding without a clear focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific application for displaying project information using Team Foundation Server, which does not directly relate to scaling Scrum frameworks, principles, or methodologies.",
+    "reasoning": "Content primarily discusses a software project involving Team Foundation Server and digital whiteboarding without a clear focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1366,15 +1204,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T12:13:10",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the creation of a digital whiteboard application that integrates with Team Foundation Server (TFS) to display project statuses, which aligns with operational practices in terms of workflow management and visualisation of work items. However, it lacks a detailed exploration of techniques or strategies for enhancing operational efficiency, focusing more on the application itself rather than broader operational practices. The mention of rules for item status provides some depth, but overall, the content does not delve deeply into the methodologies or principles of Agile, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1394,22 +1232,16 @@
     "reasoning": "Content primarily discusses a digital whiteboard application related to Team Foundation Server, with no clear emphasis on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a digital tool for displaying project status information and does not address the central themes of scaling agility across an organization or related frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses a digital tool for project management and does not focus on Scrum Master roles or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a digital whiteboard solution for Team Foundation Server, focusing on project visibility and collaboration. While it may indirectly relate to Scrum practices, it does not explicitly mention the role or responsibilities of a Scrum Master, nor does it delve into the core themes of Scrum methodology. The discussion lacks depth regarding Scrum principles, making it only tangentially relevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1423,31 +1255,34 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T19:10:03",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on a specific application for Team Foundation Server that displays project status information rather than discussing principles or practices of scaling Agile methodologies across an organization.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:04:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a digital whiteboard application for displaying project statuses and does not address Test First Development practices or principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a digital whiteboard project for Team Foundation Server, focusing on project visibility and team collaboration. It does not explicitly mention Test First Development principles, success criteria, or testing practices. While it touches on project management aspects, it lacks depth in discussing any testing methodologies or the importance of defining success criteria before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:52:39",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a digital whiteboard solution aimed at enhancing project visibility and team collaboration, which aligns with the principles of social technologies. However, it primarily focuses on the technical aspects of the TFS Sticky Buddy project rather than deeply exploring the underlying social frameworks or methodologies that promote collaboration and decision-making. While there are mentions of team collaboration and project visibility, the depth of discussion on these themes is limited, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1462,10 +1297,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:44:04",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a tool that integrates with Team Foundation Server to enhance project visibility and management, which aligns with the concept of an Internal Developer Platform, but it primarily focuses on a specific application rather than the broader IDP framework.",
     "level": "Tertiary"
   },
@@ -1480,26 +1315,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:34:43",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a tool related to Team Foundation Server (TFS) that aims to enhance project visibility and management, which can be tangentially related to Scrum practices. However, it does not explicitly mention Scrum roles, events, or principles, and focuses more on the technical implementation of a digital whiteboard rather than Scrum's core themes. The discussion lacks depth in Scrum-specific concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:57",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a project related to Team Foundation Server and the development of a digital whiteboard for project management. While it touches on aspects of project tracking and work item management, it does not explicitly mention the Shift-Left Strategy or its principles. The focus is more on visualisation and project status rather than integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the development of a digital whiteboard for Team Foundation Server, focusing on project visibility and collaboration. While it touches on aspects of team collaboration, it lacks explicit discussions on Common Goals, strategic alignment, or frameworks like OKRs. The mention of displaying project status could relate to team objectives, but it does not delve into the significance of aligning these with organisational goals, which is central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a digital whiteboard project for Team Foundation Server, focusing on its features and functionalities rather than on competence, continuous learning, or skill development. While it touches on project visibility and team collaboration, these aspects are not directly tied to the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a digital whiteboard solution for enhancing project visibility and team collaboration within Team Foundation Server. While it touches on aspects of team effectiveness and project management, it lacks a direct focus on Continuous Improvement principles. The mention of displaying work item statuses and rules for visual indicators hints at a desire for process enhancement, but it does not delve into empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to Continuous Improvement. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses a digital whiteboard solution for Team Foundation Server, focusing on project visibility and team collaboration. While it touches on aspects of project management, it does not explicitly mention Agentic Agility or its principles. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic, which are central to the category. Therefore, the content does not align well with the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

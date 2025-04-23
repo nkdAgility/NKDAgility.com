@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2018-11-28
-weight: 410
+weight: 350
 creator: Martin Hinshelwood
 type: course
 slug: continuous-delivery-using-azure-devops-services-training
@@ -31,14 +31,17 @@ delivery-audiences:
 tags:
 - Azure DevOps
 - Continuous Learning
+- Engineering Practices
+- Frequent Releases
+- Market Adaptability
+- Operational Practices
 - Product Delivery
 - Software Development
+- Team Collaboration
+- Technical Excellence
+- Technical Mastery
 - Value Delivery
 - Working Software
-- Engineering Practices
-- Operational Practices
-- Practical Techniques and Tooling
-- Software Developers
 categories:
 - Engineering Excellence
 preview: pipelines-icon-80.png

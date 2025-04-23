@@ -9,7 +9,7 @@ ResourceImportId: 10041
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,11 +24,10 @@ aliasesArchive:
 - /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
-- Install and Configuration
 - Software Development
+- Install and Configuration
 - Windows
 - System Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 categories: []
 

@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:46:07",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is a personal narrative about the birth of the author's daughter and does not discuss any principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:46:10",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is a personal narrative about the author's experience during the birth of their daughter, with no relevance to installation or configuration topics.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:23:04",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 92.0,
     "ai_mentions": 10.0,
     "ai_alignment": 95.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
+    "final_score": 92.0,
     "reasoning": "The content is a personal narrative about the author's experience during the birth of their daughter, which does not reference any Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks. It provides a detailed account of a personal event, aligning well with the Miscellaneous category as it lacks a direct connection to established theories or practices in the specified fields. The primary focus is on a personal experience rather than any professional or technical discussion.",
     "level": "Primary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:46:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily recounts a personal experience of childbirth, with no discussion of organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -101,30 +92,21 @@
     "reasoning": "Content primarily recounts a personal experience of childbirth and does not discuss complexity science or its principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:46:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily recounts a personal experience related to childbirth, with no discussion of practical techniques or tooling relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T21:46:19",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a personal experience of childbirth and does not discuss value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:46:20",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a personal experience related to the birth of a child, with no discussion of metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -157,37 +139,34 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:46:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:16",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily recounts a personal experience related to the birth of a child, with no discussion of Evidence-Based Management principles or practices.",
+    "reasoning": "The content is a personal narrative about the author's experience during the birth of his daughter. It does not discuss Evidence-Based Management or any related concepts, metrics, or decision-making processes. The focus is entirely on a personal event, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:46:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:11",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal narrative about the birth of a child and does not discuss Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:46:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal experience of childbirth rather than industry news or reviews related to Agile, DevOps, or technology.",
+    "reasoning": "The content is a personal narrative about the author's experience during the birth of his daughter, which has no relevance to the Agile Product Operating Model or its principles. There are no mentions of agile methodologies, product management, or any related concepts, making it entirely unrelated to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T21:46:32",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily recounts a personal experience of childbirth and does not discuss methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
@@ -207,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is a personal narrative about the birth of a child and does not discuss platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:46:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is a personal narrative about the birth of the author's daughter and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:46:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is a personal narrative about the birth of the author's daughter, with no discussion of software code or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:46:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily recounts a personal experience of childbirth, with no relevance to events or presentations in Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:46:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily recounts a personal experience of childbirth and does not address transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -283,15 +226,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T15:19:02",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 85.0,
     "ai_mentions": 90.0,
     "ai_alignment": 80.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
+    "final_score": 85.0,
     "reasoning": "The content is a personal narrative detailing the author's experience of the birth of their daughter, which aligns well with the Personal category. It includes direct mentions of personal feelings, reflections on the experience, and insights into the challenges faced during the event. The depth of discussion is significant, as it provides a detailed account of the events leading up to and during the birth, showcasing the emotional and physical challenges encountered. Overall, the content strongly embodies the essence of personal reflection and experience.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -313,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:46:54",
+    "calculated_at": "2025-04-08T21:00:53",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is a personal narrative about the birth of the author's daughter and does not discuss any DevOps principles, practices, or related topics.",
+    "reasoning": "The content is a personal narrative about the author's experience during the birth of his daughter, which does not relate to DevOps principles, practices, or discussions. There are no mentions of DevOps concepts, and the content does not align with any of the key topics outlined for the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -327,33 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is a personal narrative about the birth of a child and does not discuss any technical practices or methodologies related to software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:46:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal experience of childbirth rather than discussions on team dynamics, leadership, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily recounts a personal experience of childbirth, with no focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:46:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily recounts a personal experience of childbirth and does not discuss any products, books, or relevant methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,10 +304,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is a personal narrative about childbirth and does not discuss innovation or related themes.",
     "level": "Ignored"
   },
@@ -417,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is a personal story about the birth of a child and has no relevance to portfolio management or related topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses entirely on a personal experience related to childbirth and does not mention anything about Scrum, product development, or related methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -457,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily shares a personal story about the birth of a child and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -493,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is a personal story about the birth of a child and does not relate to the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is a personal narrative about the birth of the author's daughter and does not discuss any topics related to Scaled Agile or scaling Agile methodologies.",
+    "reasoning": "Content is a personal story about the birth of a child and does not relate to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -572,15 +473,6 @@
     "reasoning": "Content primarily revolves around a personal story of childbirth and does not discuss collaboration tools or related topics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about the personal experience of the author's daughter's birth, with no relevance to software development, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T22:14:44",
@@ -617,7 +509,7 @@
     "reasoning": "Content heavily focuses on a personal narrative about the birth of a child and does not discuss estimation practices in Agile or Scrum contexts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T22:14:44",
     "ai_confidence": 0,
@@ -691,19 +583,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a personal story about the birth of the author's child and does not relate to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content is a personal narrative about the author's experience during the birth of his daughter, which does not relate to Continuous Delivery principles, practices, or discussions. There are no direct mentions of Continuous Delivery, and the themes discussed are entirely unrelated to software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily a personal story about childbirth and does not discuss Lead Time as defined.",
     "level": "Ignored"
   },
@@ -718,10 +613,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is a personal narrative about the birth of a child and does not discuss organisational change or related topics.",
     "level": "Ignored"
   },
@@ -743,15 +638,6 @@
     "reasoning": "The content narrates a personal experience of a birth and does not relate to hypothesis driven development or its practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is a personal story about the author's experience during the birth of their child, which has no relevance to AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-16T22:14:44",
@@ -763,10 +649,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is a personal narrative about the author's experience with the birth of their daughter and does not discuss change management or related themes.",
     "level": "Ignored"
   },
@@ -925,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is a personal story about a childbirth experience and does not discuss the Definition of Ready or any related Agile practices.",
     "level": "Ignored"
   },
@@ -968,15 +854,6 @@
     "reasoning": "Content is a personal story about the birth of the author's child and does not discuss any topics related to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal story about a childbirth experience, with no relevance to scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T22:14:44",
@@ -984,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is a personal narrative about the birth of the writer's daughter and does not discuss customer retention strategies or related topics.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal story about the birth of a child, with no relation to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1015,10 +883,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T22:14:44",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is a personal account of a childbirth experience and does not discuss Cycle Time or its implications in any context.",
     "level": "Ignored"
   },
@@ -1265,15 +1133,6 @@
     "reasoning": "Content recounts a personal experience of childbirth and does not discuss asynchronous development or related topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily recounts a personal story about the birth of a child and does not address Scrum principles, practices, or scaling at all.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T22:14:44",
@@ -1310,22 +1169,16 @@
     "reasoning": "The content is a personal account of the author's daughter being born, with no relevance to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal narrative about a childbirth experience and does not discuss scaling agility or related topics.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on a personal story about the author's experience with the birth of their child and does not discuss anything related to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content is a personal narrative about the author's experience during the birth of his daughter, which does not relate to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum, agile principles, or any relevant discussions that align with the category. The focus is entirely on a personal life event, making it irrelevant to the Scrum Master classification.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1348,20 +1201,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:14:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:01:19",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses entirely on a personal experience related to childbirth and does not discuss Test First Development or related software development practices.",
+    "reasoning": "The content is a personal narrative about the author's experience during the birth of his daughter, which has no relevance to Test First Development or its principles. There are no mentions of testing practices, success criteria, or any related topics that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal experience of childbirth and does not discuss any frameworks or principles related to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative about the author's experience during the birth of his daughter. It does not discuss any aspects of social technologies, collaboration, decision-making, or value delivery within organisations. The themes of self-organisation, adaptability, and continuous improvement are absent, and there is no mention of frameworks or methodologies relevant to the category. Therefore, the confidence score is very low.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1393,13 +1252,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:20:16",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content is a personal narrative about the birth of the author's daughter and does not mention Scrum or any related concepts. There is no alignment with Scrum principles, roles, events, or practices, and the depth of discussion regarding Scrum is non-existent.",
     "level": "Ignored"
   },
@@ -1413,6 +1272,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is a personal narrative about the author's experience during the birth of their child, with no discussion of software development processes, testing, security, or compliance. It does not relate to the Shift-Left Strategy in any way.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content is a personal anecdote about the author's experience during the birth of his daughter. It does not discuss any concepts related to Common Goals, Agile, or DevOps. The focus is entirely on a personal milestone, lacking any connection to shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal story about the author's daughter's birth, with no direct discussion of competence, continuous learning, or professional development. While there are mentions of the midwives' efforts, it does not delve into the principles of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative about the author's experience during the birth of his daughter. There are no direct mentions of Continuous Improvement principles, nor does it align with the core themes of the category. The discussion lacks depth and detail related to Continuous Improvement, making it irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative about the author's experience during the birth of his daughter. It does not discuss Agentic Agility, its principles, or any related concepts. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

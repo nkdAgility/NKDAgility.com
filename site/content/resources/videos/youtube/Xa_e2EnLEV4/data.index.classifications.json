@@ -46,13 +46,13 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-14T19:24:06",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which touches on organisational dynamics and the consequences of ignoring issues. However, it primarily focuses on individual behaviours and team practices rather than a holistic view of organisational systems or the application of systems thinking principles. While there are mentions of workflow and team dynamics, the depth of discussion does not sufficiently explore the broader themes of Organisational Physics.",
     "level": "Ignored"
   },
@@ -112,11 +112,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-11T23:13:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:24:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to team dynamics and project management, specifically focusing on the concept of 'sweeping problems under the rug' in a CAD strategy context, rather than system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which is related to project management rather than system configuration. There are no direct mentions of system configuration, and while it touches on maintaining workflows, it does not delve into the specific tools, methodologies, or best practices associated with system setup or configuration management. The discussion lacks depth in terms of system performance, integration, or automation, which are key aspects of the System Configuration category.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -139,10 +142,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-11T23:13:37",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the negative consequences of ignoring problems and the importance of addressing issues, but it does not focus on structured, evidence-based methodologies for decision-making.",
     "level": "Ignored"
   },
@@ -175,15 +178,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T14:53:00",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly touches on aspects of organisational culture, such as creating a culture of transparency and encouraging team members to raise issues. However, the primary focus is on technical practices and problem-solving strategies rather than a deep exploration of organisational culture itself. The mentions of culture are present but not the main focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -205,31 +208,31 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-14T19:23:53",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of addressing issues in a Kanban strategy and highlights the need for a culture of transparency. While it does mention transparency as a key aspect of problem-solving, the primary focus is on the consequences of ignoring problems rather than on transparency itself. The discussion provides some depth on how to foster transparency but lacks extensive exploration of its broader implications in Agile processes.",
     "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-11T23:13:48",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the negative impacts of ignoring problems and the importance of addressing issues, but does not mention the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-11T23:13:49",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of ignoring problems in processes and does not focus on product strategy methodologies, frameworks, or customer-centric approaches.",
     "level": "Ignored"
   },
@@ -253,23 +256,26 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-13T15:27:07",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with the strategic focus on optimising delivery processes and enhancing team performance. It provides practical steps for teams to improve their workflow, reflecting a value-driven approach. However, while it touches on strategic concepts, it does not delve deeply into broader strategic alignment or leadership roles, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-11T23:13:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the negative impact of ignoring problems and the importance of addressing issues within processes, rather than focusing on the measurement and improvement of innovation capabilities.",
+    "calculated_at": "2025-04-10T22:24:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy rather than discussing innovation or the mechanisms that foster it. While it touches on the importance of addressing issues, it does not provide insights into innovation processes, metrics, or strategies for enhancing innovation capacity. The discussion is more about maintaining existing processes rather than innovating or creating new solutions, which is the core of the 'Ability to Innovate' category.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -281,26 +287,17 @@
     "reasoning": "The content primarily discusses the negative behaviours associated with problem-solving in a general context, using a personal anecdote rather than focusing on Agile frameworks or their principles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-11T23:13:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impacts of ignoring problems within a team context, focusing on individual behaviours rather than organisational scaling of agile practices.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the negative impact of ignoring problems within a team context, which aligns with the themes of team dynamics and the importance of addressing issues collaboratively. However, it lacks direct mentions of Agile, Scrum, or DevOps frameworks, and the depth of discussion on team collaboration techniques is limited. The anecdote about cleaning the grill serves as a metaphor but does not provide substantial insights into fostering collaboration or shared ownership within a team.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -313,15 +310,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T17:26:26",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with Lean principles of continuous improvement and waste reduction. However, it primarily focuses on the consequences of ignoring issues rather than a comprehensive exploration of Lean Thinking concepts. While it mentions Kanban, a Lean tool, the discussion lacks depth in Lean principles such as value stream mapping or waste identification, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -352,13 +349,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T19:23:37",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which is a key Agile framework in software development. It provides practical steps for improving workflow and maintaining efficiency, aligning well with the core themes of software development methodologies. However, the focus is more on the consequences of ignoring problems rather than a deep exploration of Kanban itself or broader software development practices, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
@@ -373,11 +370,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T23:14:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:24:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impact of ignoring problems and the importance of addressing issues, rather than focusing on the measurement or optimisation of throughput in Agile or DevOps contexts.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly relates to throughput by highlighting how ignored issues can lead to blockages and inefficiencies in workflow. However, it does not explicitly mention throughput as a metric or focus on its analysis, calculation, or visualisation. The primary focus is on the consequences of ignoring problems rather than on throughput as a delivery metric, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -391,13 +391,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T19:24:08",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the pitfalls of ignoring problems within a Kanban strategy, which is a specific Agile framework. While it touches on the importance of addressing issues and maintaining workflow, it does not explicitly reference Agile values or principles, such as customer collaboration or responding to change. The discussion lacks a direct focus on the foundational beliefs of Agile methodologies, leading to a low confidence score in alignment with the category.",
     "level": "Ignored"
   },
@@ -430,13 +430,13 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly relates to change management by emphasising the need for continuous improvement and proactive problem-solving. However, it primarily focuses on Kanban practices rather than the broader principles of change management in Agile contexts. The discussion lacks depth in terms of change management strategies, stakeholder engagement, and leadership roles, which are critical to the category.",
     "level": "Ignored"
   },
@@ -451,15 +451,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T19:24:11",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with the principles of empirical process control, particularly in fostering transparency and continuous improvement. It mentions techniques like regular retrospectives and creating a culture of transparency, which are key aspects of empirical process control. However, the primary focus is on the consequences of ignoring problems rather than a deep exploration of empirical process control itself, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -488,22 +488,16 @@
     "reasoning": "Content heavily discusses the importance of addressing problems in processes and the consequences of ignoring them, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-11T23:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal anecdotes and general behaviours related to problem-solving, without a clear focus on software development practices, Agile methodologies, or DevOps principles.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T23:14:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of addressing problems and maintaining discipline in processes, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the pitfalls of ignoring problems in a Kanban strategy, which is unrelated to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies. The discussion is centred around addressing issues in workflow rather than defining success criteria before implementation, which is a core aspect of Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -562,33 +556,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-11T23:14:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impact of ignoring problems in processes, using a personal anecdote about cleaning and maintenance, without any focus on Lead Time as a metric or its relevance to delivery efficiency.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-11T23:14:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses individual behaviours and challenges related to problem-solving in a team context, without reference to scaling Agile practices or frameworks.",
+    "calculated_at": "2025-04-11T09:14:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of ignoring problems within a Kanban strategy, focusing on the consequences of avoidance and the importance of addressing issues. While it touches on workflow efficiency, it does not explicitly mention Lead Time or its measurement, nor does it explore its relationship with Cycle Time. The discussion lacks depth regarding Lead Time as an observability metric, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-06T15:48:42",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the negative impact of ignoring problems in a practical context, using a personal anecdote to illustrate the consequences of 'sweeping problems under the rug.' It touches on the importance of addressing issues directly, which aligns with pragmatic thinking in Agile and Scrum. However, while it mentions practical problem-solving, it lacks a structured discussion on specific Agile or DevOps strategies, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -597,15 +585,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of addressing problems and maintaining discipline in processes, but does not focus on deployment frequency or related Agile/DevOps practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T23:14:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the negative impacts of ignoring problems and the importance of addressing issues, but it does not focus specifically on Agile Project Management principles, frameworks, or practices. It uses a metaphor related to cleaning but does not engage with agile methodologies or concepts directly.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -619,99 +598,81 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T19:23:39",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which is a part of Agile methodologies. However, it primarily focuses on the consequences of ignoring issues rather than providing a comprehensive discussion on Agile strategy as a whole. While it touches on some Agile principles, such as transparency and regular retrospectives, it lacks a broader strategic context and does not delve deeply into the alignment of organisational vision or the implementation of Agile methodologies at scale.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:41:23",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Kanban and the pitfalls of ignoring problems within that framework. While it touches on aspects of workflow management, it does not explicitly mention Continuous Delivery or its principles. The focus is on addressing issues in Kanban rather than on Continuous Delivery practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-11T23:14:49",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the negative impacts of ignoring problems and the importance of addressing issues within a team context, but does not focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-11T23:14:52",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the consequences of ignoring problems and the importance of addressing issues within processes, without any mention of Definition of Ready or related criteria for backlog items.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which touches on aspects of sensemaking, such as recognising and interpreting issues in complex workflows. However, it primarily focuses on the consequences of ignoring problems and practical steps for improvement rather than exploring the broader principles of sensemaking or decision-making frameworks. The discussion lacks depth in terms of theoretical frameworks or models related to sensemaking, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-14T19:23:58",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly relates to team dynamics and motivation. However, it primarily focuses on the technical aspects of problem-solving rather than explicitly exploring team motivation strategies or practices. While it mentions creating a culture of transparency, which aligns with team dynamics, the overall emphasis is on process rather than motivation.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T17:57:52",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the negative impact of ignoring problems within a team context, which aligns with the themes of team dynamics and the importance of addressing issues for effective collaboration. However, it lacks direct mentions of Agile practices or specific methodologies, and the depth of discussion is limited to a personal anecdote rather than a comprehensive exploration of team performance strategies.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-11T23:14:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses the importance of addressing problems in processes and does not mention AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-11T23:14:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the negative impacts of ignoring problems and the importance of addressing issues within processes, without a clear focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -733,15 +694,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-14T19:23:34",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with Lean principles of continuous improvement and waste reduction. It highlights the consequences of ignoring issues, which can lead to inefficiencies, a core concern of Lean thinking. However, while it touches on relevant themes, it primarily focuses on Kanban rather than Lean principles directly, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -754,37 +715,37 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-14T19:24:15",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the consequences of ignoring problems, which can relate to technical debt, but it primarily focuses on Kanban strategies and general problem-solving rather than explicitly addressing technical debt management. While it mentions technical debt as a consequence of ignoring issues, it does not delve deeply into strategies for managing or measuring it, nor does it provide a comprehensive discussion on the topic.",
     "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-14T19:23:45",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 100.0,
     "ai_alignment": 40.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems and fostering a culture of transparency, which aligns with the Scrum Values of Courage and Openness. However, the primary focus is on Kanban strategies rather than Scrum Values themselves, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems within a team and the consequences of ignoring issues, which can relate to organisational change. However, it primarily focuses on personal anecdotes and the metaphor of 'sweeping problems under the rug' rather than providing a structured discussion on organisational change methodologies or frameworks. The mention of a CAD strategy hints at a broader context of organisational processes, but it lacks depth and direct references to established change management principles or practices.",
     "level": "Ignored"
   },
@@ -797,36 +758,27 @@
     "reasoning": "Content heavily discusses the importance of addressing problems in processes and does not mention test automation or related topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T23:15:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Kanban and general problem-solving behaviours, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T19:24:13",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content focuses on the importance of addressing problems within a Kanban strategy, which directly relates to operational practices. It discusses the consequences of ignoring issues, the need for regular maintenance, and practical steps to improve workflow efficiency. The depth of discussion is substantial, providing specific strategies for problem identification and resolution, aligning well with the core themes of operational efficiency and continuous improvement.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:41:26",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the pitfalls of ignoring problems within a Kanban strategy, focusing on the consequences of avoidance rather than on evidence-based management principles. While it touches on the importance of addressing issues, it does not provide empirical evidence or metrics related to value delivery, innovation, or decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -839,22 +791,16 @@
     "reasoning": "Content primarily discusses the negative impacts of ignoring problems and the importance of addressing issues, without any clear focus on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-11T23:15:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Kanban and personal anecdotes, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T23:15:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Kanban and general problem-solving behaviours, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban, discussing pitfalls and strategies for addressing problems within that framework. While it touches on themes of team dynamics and problem-solving, it does not explicitly mention the role of a Scrum Master or align with the core responsibilities and impact of a Scrum Master in a Scrum context. Therefore, the confidence score reflects minimal relevance to the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -877,10 +823,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-11T23:15:26",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the consequences of ignoring problems and personal anecdotes rather than focusing on technical leadership principles or agile methodologies.",
     "level": "Ignored"
   },
@@ -913,17 +859,17 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-11T14:24:39",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with the concept of accountability in terms of ownership and responsibility for team dynamics. It highlights the need for teams to take proactive steps to identify and solve issues, fostering a culture of transparency and collaboration. However, the primary focus is on the consequences of ignoring problems rather than a direct exploration of accountability as a principle, which limits its depth in that specific area.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-11T23:15:39",
     "ai_confidence": 0,
@@ -961,19 +907,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T23:15:44",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Kanban and general problem-solving behaviours, with no clear focus on Scrum roles, team dynamics, or practices specific to a Scrum Team.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-11T23:15:45",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of ignoring problems in processes, using personal anecdotes and metaphors, rather than focusing on software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
@@ -1006,13 +952,13 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Kanban framework and specific practices related to it, such as addressing problems and maintaining workflow efficiency. While it touches on the importance of transparency and regular retrospectives, which align with Agile principles, it does not explicitly discuss the broader Agile Philosophy or its foundational values. The discussion is more about practical implementation rather than the underlying mindset of Agile.",
     "level": "Ignored"
   },
@@ -1072,15 +1018,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the negative impact of ignoring problems and the importance of addressing issues within a team context, which aligns with the principles of Continuous Learning. However, it primarily focuses on the consequences of inaction rather than promoting a growth mindset or specific techniques for knowledge sharing. While it touches on reflection and the need for discipline, it lacks depth in exploring continuous improvement practices or frameworks that support ongoing education.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1102,44 +1048,23 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-14T19:23:41",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with Lean principles of continuous improvement and waste reduction. However, it primarily focuses on Kanban without explicitly connecting to broader Lean methodologies or principles. While it mentions concepts like transparency and regular maintenance, it lacks a comprehensive exploration of Lean tools or techniques, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-14T19:24:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 12,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly relates to resilience by highlighting the need for teams to adapt and improve processes. However, it primarily focuses on the consequences of ignoring issues rather than providing a comprehensive discussion on organisational resilience or change management. The mention of creating a culture of transparency and conducting regular retrospectives aligns with some aspects of adaptability, but the overall depth and focus remain limited to specific practices rather than broader organisational strategies.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-11T23:12:27",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the negative impacts of ignoring problems in processes rather than providing actionable installation or configuration guidance.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-11T23:12:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to team dynamics and problem-solving in a Kanban context, without a clear focus on software code quality or complexity theory.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1149,15 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the negative impact of ignoring problems and the importance of addressing issues, but does not focus on flow efficiency principles, techniques, or metrics related to optimising work throughput.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-11T23:12:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of addressing problems in processes and does not mention AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1178,18 +1094,6 @@
     "reasoning": "Content primarily discusses the negative impacts of ignoring problems in processes, using a personal anecdote, without a clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-14T19:23:49",
-    "ai_confidence": 42.0,
-    "ai_mentions": 5,
-    "ai_alignment": 15,
-    "ai_depth": 20,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly relates to learning from failures and successes. However, it primarily focuses on project management aspects and does not delve deeply into methodologies that foster innovation or continuous learning. The mention of regular retrospectives and creating a culture of transparency hints at learning processes, but these are not the primary focus of the content.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
     "calculated_at": "2025-02-11T23:12:40",
@@ -1201,47 +1105,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems rather than ignoring them, which aligns with the themes of complexity thinking, particularly in relation to organisational behaviour and the implications of neglecting issues. However, it does not explicitly reference complexity science or frameworks like the Cynefin Framework, nor does it delve deeply into the non-linear dynamics or emergent behaviours characteristic of complex adaptive systems. The discussion is more anecdotal and lacks the depth required for a strong alignment with the category.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-11T09:56:42",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the negative impact of ignoring problems and the importance of addressing issues within a team, which aligns with the principles of accountability. However, it does not explicitly mention transparency or provide a detailed exploration of how transparency can enhance team dynamics. The anecdote serves as a metaphor for the consequences of a lack of accountability, but it lacks a direct focus on transparency as a core theme.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-14T19:23:55",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with practical techniques for improving workflow. It provides actionable steps such as identifying and visualising problems, conducting retrospectives, and fostering a culture of transparency. However, while it touches on practical techniques, the focus is more on the consequences of ignoring issues rather than a comprehensive exploration of specific tools or methodologies. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-11T23:12:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal anecdotes and reflections on ignoring problems rather than focusing on events or presentations related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1264,13 +1135,13 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:41:09",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban, a specific methodology, rather than discussing DevOps principles or practices. While it touches on issues related to workflow and team dynamics, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1281,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of ignoring problems in processes, using personal anecdotes and metaphors, without any specific reference to Azure DevOps or its functionalities.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-11T23:12:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the negative impacts of ignoring problems in processes, using personal anecdotes and metaphors, without reference to specific products, books, or methodologies related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1303,10 +1165,10 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-11T23:12:55",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the negative impacts of ignoring problems and the importance of addressing issues, but does not focus on Kanban principles or practices. It lacks clear references to Kanban methodologies, visualisation of work, or flow management.",
     "level": "Ignored"
   },
@@ -1321,76 +1183,55 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T23:12:58",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the negative impacts of ignoring problems in processes, using personal anecdotes and metaphors, without a clear focus on engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 42.0,
     "ai_mentions": 2,
     "ai_alignment": 3,
     "ai_depth": 4,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with the principles of organisational agility by emphasising the need for continuous improvement and a culture of transparency. However, it primarily focuses on the pitfalls of ignoring issues rather than exploring broader agile methodologies or organisational structures, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T13:46:57",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content includes a personal anecdote about the author's experience with neglecting household chores, which serves as a metaphor for ignoring problems in Agile practices. This aligns with the Personal category as it reflects on individual experiences and insights related to broader themes of Agile and team dynamics. The direct mention of personal experiences and reflections contributes positively to the confidence score, although the depth of discussion on Agile principles is somewhat limited, focusing more on the anecdote than on detailed Agile practices.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-06T14:54:31",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses the human behaviour of ignoring problems and the consequences of such actions within a process context. It highlights the importance of retrospectives and reflection, which are key elements in Agile methodologies. The narrative illustrates how team dynamics can affect process efficiency, aligning well with the category's focus on human factors and collaboration. However, while it provides a personal anecdote that connects to broader themes, the depth of discussion on structured methodologies is somewhat limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T19:23:47",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which touches on team dynamics and the need for a culture of transparency. However, it primarily focuses on technical processes and does not explicitly address the interplay between social and technical systems, nor does it provide a comprehensive exploration of sociotechnical principles.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-11T23:13:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal anecdotes and reflections on ignoring problems rather than providing industry news or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-11T23:13:13",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the negative impact of ignoring problems and the importance of addressing issues within processes, but does not focus on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -1441,13 +1282,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:41:21",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Kanban, discussing the pitfalls of ignoring problems within that framework. While it touches on agile principles, it does not explicitly address the Agile Product Operating Model or its core themes, such as product management or continuous delivery. The discussion is more aligned with general agile practices rather than the specific integration of agile methodologies with product management principles.",
     "level": "Ignored"
   },
@@ -1462,15 +1303,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:55:25",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which touches on themes of transparency and collective problem-solving. However, it primarily focuses on the pitfalls of ignoring issues rather than fostering collaboration or enhancing decision-making. While it mentions creating a culture of transparency and conducting retrospectives, these points are not explored in depth, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1492,13 +1333,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T19:23:32",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to Kanban and does not explicitly mention Scrum or its principles. While it touches on themes of reflection and continuous improvement, which are relevant to Agile methodologies, it lacks a direct focus on Scrum roles, events, or artifacts. The discussion is more anecdotal and does not provide substantial detail on Scrum practices, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1516,13 +1357,13 @@
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:41:12",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which aligns with the principles of Continuous Improvement. It highlights the consequences of ignoring issues and suggests practical steps for proactive problem-solving, reflecting a commitment to enhancing processes. However, the primary focus is on the pitfalls of ignoring problems rather than a broader discussion on Continuous Improvement methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1540,15 +1381,15 @@
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:41:17",
+    "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 42.0,
     "ai_mentions": 2,
     "ai_alignment": 3,
     "ai_depth": 4,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which indirectly relates to competence by emphasising the need for teams to develop skills in problem-solving and maintaining workflow efficiency. However, it does not explicitly focus on continuous learning or skill development, which are core themes of competence. The depth of discussion on addressing issues is substantial, but the primary focus remains on the consequences of ignoring problems rather than on competence itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1560,6 +1401,174 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content focuses exclusively on Kanban and its pitfalls, without any mention of the One Engineering System or its principles. While it discusses issues related to workflow and process improvement, it does not align with the core themes of 1ES, such as integration across teams or standardisation of practices. The depth of discussion is also limited to Kanban, further distancing it from the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which does not align with the core themes of Agentic Agility. While it discusses the importance of addressing issues and maintaining workflows, it lacks explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of both human and AI systems. The content does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:23:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of addressing problems within a Kanban strategy, which is a methodology relevant to product development. However, it primarily focuses on the pitfalls of ignoring issues rather than exploring broader product development methodologies or practices. While it touches on concepts like regular maintenance and transparency, it lacks a comprehensive exploration of Agile principles or customer feedback integration, which are central to the Product Development category. Therefore, while there is some alignment, the depth and breadth of discussion are limited.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:23:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, discussing the importance of addressing issues and maintaining workflow efficiency. However, it does not mention Liberating Structures or any specific facilitation techniques related to group dynamics. The discussion is centred around Kanban and does not align with the core themes of Liberating Structures, which are about enhancing participation and collaboration in groups. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:23:49",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 55.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which is a specific agile methodology. While it discusses the importance of addressing issues and maintaining workflow, it does not delve into broader project management principles or methodologies beyond Kanban. The discussion is somewhat aligned with project management concepts, particularly in terms of risk management and continuous improvement, but lacks depth in covering the full scope of project management practices. Therefore, it receives a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:23:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on Kanban and the pitfalls of ignoring problems within that framework. It does not mention Open Space Agile or its principles, nor does it discuss themes such as psychological safety, co-creation, or iterative dialogue that are central to Open Space Agile. The discussion is primarily about addressing issues in a Kanban context, which is outside the scope of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:23:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, discussing the consequences of such avoidance and the importance of addressing issues. While it touches on the need for improvement and proactive problem-solving, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore potential innovations or untapped opportunities. The discussion is more about operational challenges rather than the strategic identification of unrealised value.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:24:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the pitfalls of ignoring problems within a Kanban strategy, focusing on the consequences of such behaviour and the importance of addressing issues. While it touches on workflow efficiency, it does not explicitly mention Time to Market or related metrics. The discussion lacks depth in terms of strategies for improving Time to Market or its impact on customer satisfaction, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:24:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the pitfalls of ignoring problems within a Kanban strategy, focusing on the importance of addressing issues to maintain workflow efficiency. While it touches on the consequences of neglecting problems, it does not explicitly mention Current Value or its metrics, nor does it provide a real-time assessment of value delivered. The discussion is more about process management than about evaluating tangible benefits or customer satisfaction, which are core to the Current Value category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:24:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which is a specific project management methodology. It does not discuss the concept of treating the organisation as a product, nor does it address customer-centric strategies or organisational design. While it touches on the importance of addressing issues and maintaining workflows, these points do not align with the core themes of CaaP, which emphasises organisational evolution based on customer insights and cross-functional collaboration. Therefore, the content lacks direct mentions, has minimal conceptual alignment, and provides limited depth regarding the CaaP framework.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:24:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which is more about general process improvement rather than scaling methodologies or frameworks. While it touches on the importance of addressing issues and maintaining workflow efficiency, it does not discuss scaling Agile practices, cross-team collaboration, or any of the key topics outlined in the Scaling category. The discussion lacks depth in terms of scaling concepts and does not provide a framework or strategies for scaling, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:24:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which is a specific agile methodology. It does not mention Hybrid Agile or discuss the integration of traditional project management with agile practices. The themes of accountability and transparency are relevant to agile but do not align with the critical examination of Hybrid Agile as defined in the category. Therefore, while there are some tangential connections to agile principles, the content does not meet the criteria for a primary focus on Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:24:19",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the pitfalls of ignoring problems within a Kanban strategy, which is a specific framework. It does not mention Agnostic Agile or its principles, nor does it discuss the importance of adapting agile practices based on context. The discussion is limited to the mechanics of Kanban without any reference to broader agile philosophies or comparisons with other methodologies. Therefore, it does not align well with the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:24:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on Kanban strategies and the consequences of ignoring problems within that framework. It does not mention GitHub or its functionalities, nor does it discuss any GitHub-related practices or tools. The discussion is centred around general project management principles rather than specific GitHub methodologies or features, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:24:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and the consequences of ignoring problems within that framework. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or autonomous cells. The depth of discussion is also limited to Kanban, which is unrelated to the specified category.",
     "level": "Ignored"
   }
 }

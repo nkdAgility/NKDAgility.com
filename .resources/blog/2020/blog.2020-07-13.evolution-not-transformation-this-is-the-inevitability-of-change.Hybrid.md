@@ -9,7 +9,7 @@ ResourceImportId: 44511
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
-weight: 500
+weight: 450
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,18 +28,29 @@ aliasesArchive:
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
-- People and Process
+- Agile Philosophy
 - Business Agility
 - Change Management
-- Resilience and Change
-- Continuous Learning
-- Discovery and Learning
-- Agile Leadership
-- Agile Philosophy
+- Continuous Improvement
 - Enterprise Agility
 - Market Adaptability
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
+- Continuous Learning
+- Agile Leadership
+- Pragmatic Thinking
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Complexity Thinking
+- Organisational Physics
+- Beta Codex
+- Empirical Process Control
+- Sociotechnical Systems
 categories:
 - Leadership
+- Technical Leadership
 preview: image-15-5-4.png
 
 ---

@@ -9,7 +9,7 @@ ResourceImportId: 39851
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-07
-weight: 650
+weight: 610
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,19 +28,21 @@ aliasesArchive:
 - /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 tags:
-- People and Process
-- Scrum Master
-- Scrum Team
 - Team Performance
-- Agile Project Management
+- Scrum Team
 - Software Development
-- Events and Presentations
 - Professional Scrum
 - Team Collaboration
+- Scrum Master
+- Pragmatic Thinking
+- Agile Frameworks
+- Agile Product Management
+- Agile Transformation
 - Coaching
+- Social Technologies
 categories:
 - Scrum
-- Social Technologies
+- Technical Leadership
 preview: 1061204442-1-1.jpg
 
 ---

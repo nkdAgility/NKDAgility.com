@@ -9,7 +9,7 @@ ResourceImportId: 27
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-09
-weight: 700
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,10 +27,9 @@ tags:
 - Software Development
 - Troubleshooting
 - Azure Pipelines
-- Practical Techniques and Tooling
 - Azure DevOps
-- Install and Configuration
 - Continuous Integration
+- Install and Configuration
 - Windows
 preview: metro-SSWLogo-128-link-11-11.png
 categories: []

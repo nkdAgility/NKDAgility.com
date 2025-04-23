@@ -29,7 +29,8 @@ aliasesArchive:
 - /resources/blog/teamplain-error-tf14002
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
-tags: []
+tags:
+- Troubleshooting
 
 ---
 Some prople have encountered this error when viewing the source control tab in TeamPlain:

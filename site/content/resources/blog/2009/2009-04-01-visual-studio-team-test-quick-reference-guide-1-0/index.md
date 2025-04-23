@@ -9,7 +9,7 @@ ResourceImportId: 133
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-01
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,11 +24,9 @@ aliasesArchive:
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
-- Practical Techniques and Tooling
-- Products and Books
-- Pragmatic Thinking
 - Software Development
 - Troubleshooting
+- Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

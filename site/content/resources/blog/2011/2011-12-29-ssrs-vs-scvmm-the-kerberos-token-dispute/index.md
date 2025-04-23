@@ -28,9 +28,9 @@ aliasesArchive:
 - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 tags:
+- Troubleshooting
 - System Configuration
 - Install and Configuration
-- Troubleshooting
 - Windows
 categories: []
 

@@ -9,7 +9,7 @@ ResourceImportId: 393
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-30
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,10 +24,10 @@ aliasesArchive:
 - /creating-wcf-service-host-programmatically
 - /resources/blog/creating-wcf-service-host-programmatically
 tags:
-- Windows
 - Software Development
-- Install and Configuration
+- Windows
 - Technical Mastery
+- Install and Configuration
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

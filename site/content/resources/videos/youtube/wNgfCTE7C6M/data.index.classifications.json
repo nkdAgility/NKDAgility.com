@@ -13,22 +13,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:14:28",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses collaboration between design and engineering teams, which aligns with the principles of social technologies. It emphasises the importance of collective intelligence and decision-making through a hypothesis-driven approach, which is relevant to the category. However, while it touches on these themes, the primary focus is on product development techniques rather than a broader discussion of social technologies as a framework. The depth of discussion on collaboration and iterative processes is significant, but it does not fully explore the organisational culture or behaviour aspects, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T08:18:14",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSU course and its impact on product development decisions, focusing on Scrum and Agile methodologies rather than engineering excellence or software craftsmanship.",
     "level": "Ignored"
   },
@@ -43,97 +43,73 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:17:00",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the hypothesis-driven approach to product development, emphasising the importance of aligning product features with customer needs and business value. It highlights the role of collaboration between design and engineering teams, which is crucial for effective product management. The discussion includes methods for validating hypotheses and integrating feedback into the product development process, aligning well with key topics in product management. The depth of the discussion is significant, covering both strategic and practical aspects of product management, thus justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and the integration of design and engineering rather than asynchronous development principles and practices.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a course designed for collaboration among design and engineering teams rather than specifically addressing the role or responsibilities of a Product Owner.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the PSU course and its benefits for product development rather than on metrics and learning principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T00:49:16",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the Professional Scrum with User Experience (PSU) course, which is relevant to Scrum principles and practices. It mentions key aspects such as hypothesis-driven approaches, collaboration between teams, and continuous delivery, which align with Scrum values and practices. However, the focus is more on product development strategies rather than a deep exploration of Scrum roles, events, or artifacts, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T00:48:42",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Professional Scrum with User Experience (PSU) course, which is directly related to Agile frameworks, particularly Scrum. It explores the hypothesis-driven approach, collaboration between teams, and continuous delivery, all of which are key aspects of Agile methodologies. The mention of Scrum and the emphasis on Agile principles indicate a strong alignment with the category. However, while the content is rich in detail regarding the PSU course and its applications, it does not provide a comparative analysis of different Agile frameworks or delve deeply into the principles of the Agile Manifesto, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T00:48:22",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with Scrum principles of iterative development and customer feedback. It mentions collaboration between design and engineering, which is relevant to Scrum teams. However, while it touches on Scrum concepts, it does not explicitly detail Scrum roles or processes, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T00:48:15",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses a PSU course and its value in product development, which implies a connection to learning and structured experiences. However, it lacks explicit references to specific events, presentations, or discussions that are central to the category. While it touches on Agile and Scrum concepts, the primary focus is on the hypothesis-driven approach rather than on events or presentations themselves.",
-    "level": "Ignored"
-  },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSU course and its benefits for product development decisions without directly addressing methodologies for validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -166,10 +142,10 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T00:48:15",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
-    "final_score": 19.0,
+    "final_score": 20.0,
     "reasoning": "While the content mentions the importance of a happy and inspired workforce impacting customer experience, it primarily discusses a training course and its role in improving product development decisions, which is not central to customer satisfaction.",
     "level": "Ignored"
   },
@@ -202,10 +178,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a course about product development decisions and team dynamics, without discussing the Definition of Done.",
     "level": "Ignored"
   },
@@ -256,49 +232,49 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:07:55",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development and mentions integrating strategies into a continuous delivery model. However, the primary focus is on product development practices rather than Continuous Delivery itself. While there are relevant elements, such as the importance of feedback loops and running experiments, the overall discussion does not delve deeply into Continuous Delivery principles or practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the PSU course and Scrum roles without a focus on customer feedback integration.",
     "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and the PSU course, which focuses on integrating design and engineering rather than core engineering practices such as clean code or TDD.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSU course related to Scrum and Agile methodologies, not Test Driven Development.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the PSU course, focusing on product development decisions without a clear emphasis on customer retention strategies.",
     "level": "Ignored"
   },
@@ -313,61 +289,61 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T00:48:46",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses a hypothesis-driven approach to software engineering, which aligns closely with Agile methodologies and practices. It covers key aspects such as user needs assessment, collaboration between design and engineering, and continuous delivery, all of which are central to effective software development. The depth of discussion on integrating strategy with delivery and the emphasis on experimentation further solidify its relevance to the Software Development category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-15T00:48:38",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on product development methodologies and the hypothesis-driven approach rather than on coaching practices. While it touches on collaboration and team dynamics, it lacks explicit discussions on coaching techniques, the role of a coach, or fostering a growth mindset, which are central to the Coaching category. The mention of collaboration hints at some coaching principles, but it does not delve deeply into coaching as a practice.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T00:49:12",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with Agile principles of iterative planning and user feedback. However, it primarily focuses on user experience and collaboration rather than explicitly detailing Agile Planning methodologies or practices. While Agile concepts are present, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T00:48:19",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with Agile principles of continuous value delivery and adaptability. It mentions the importance of collaboration and integrating strategies into a continuous delivery model, which are key aspects of Agile strategy. However, the focus is more on practical implementation and user experience rather than a comprehensive discussion of Agile strategy itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T00:48:24",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses collaboration between design and engineering teams, which aligns with team dynamics and performance. It also touches on the importance of running experiments and integrating strategies, which can enhance team effectiveness. However, the primary focus is on product development rather than directly on team performance, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -400,10 +376,10 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles, Agile methodologies, and a specific training course, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
@@ -436,13 +412,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T00:48:59",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with the principles of Continuous Learning, particularly in the context of Agile methodologies. It mentions the importance of running experiments and feedback loops, which are key aspects of continuous improvement. However, while it touches on collaboration and knowledge sharing, the primary focus is more on product development strategies rather than a deep exploration of Continuous Learning principles. Therefore, while there is significant relevance, it does not fully meet the criteria for a primary focus on Continuous Learning.",
     "level": "Secondary"
   },
@@ -482,34 +458,13 @@
     "reasoning": "Content heavily discusses agile methodologies and training but does not focus on technical mastery, software craftsmanship, or engineering excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:08:05",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a hypothesis-driven approach to product development, which is relevant to software developers, particularly in Agile contexts. It touches on team collaboration and the integration of design and engineering roles, aligning with Agile principles. However, the focus is more on product management and user experience rather than directly on software development practices, which limits its depth in the specific category of Software Developers.",
-    "level": "Secondary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the PSU course, Scrum roles, and Agile methodologies, without a clear emphasis on Lean principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the PSU course and its implications for product development and Scrum, without addressing topics related to code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -532,54 +487,57 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and practices, focusing on Agile and product development rather than Site Reliability Engineering principles.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the PSU course and its benefits for product development decisions, with only a brief mention of Scrum, and does not focus on Scrum Master responsibilities or practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development and mentions the Professional Scrum with User Experience (PSU) course, which is related to Scrum principles. However, the primary focus is on product development techniques rather than the specific role and responsibilities of a Scrum Master. While there are elements of collaboration and continuous improvement that align with Scrum values, the content does not delve deeply into the Scrum Master's role or their impact on team dynamics and organisational change.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a specific course focused on Scrum for individual teams rather than large scale Agile practices or frameworks for enterprise-level implementation.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T00:48:26",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses a hypothesis-driven approach to product development, which aligns closely with the principles of iterative development and continuous delivery. It highlights the importance of understanding user needs, creating hypotheses, running experiments, and fostering collaboration between teams, all of which are key aspects of delivering value. The depth of discussion on integrating strategy with continuous delivery practices further supports its relevance to the Value Delivery category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T00:48:15",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development and highlights the importance of collaboration between design and engineering teams. While it touches on agile principles and continuous delivery, it lacks a direct focus on technical leadership roles, mentoring, or specific agile practices. The discussion is more centred on product development strategies rather than the nuances of leading technical teams or fostering a culture of continuous improvement.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -619,23 +577,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T00:48:15",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development and the importance of collaboration between design and engineering teams. While it touches on aspects of organisational change, such as team dynamics and continuous delivery, it primarily focuses on product development practices rather than the broader strategies and methodologies of organisational change. The mention of integrating teams and improving decision-making processes aligns somewhat with the category, but the depth of discussion remains more centred on operational practices rather than transformative organisational strategies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSU course focused on Scrum and integrating user experience with product development, without addressing scaling Agile practices across multiple teams or enterprise levels.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -647,38 +596,26 @@
     "reasoning": "Content primarily discusses Scrum training and Agile methodologies, lacking a clear focus on Lean Thinking principles.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T00:49:08",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 30,
-    "non_ai_confidence": 20,
-    "final_score": 76.0,
-    "reasoning": "The content extensively discusses the interplay between human behaviour and structured methodologies in product development, particularly through the lens of the Professional Scrum with User Experience course. It highlights the importance of collaboration between design and engineering teams, the role of hypothesis-driven approaches in decision-making, and the need for effective communication and feedback loops. These elements align closely with the core themes of the 'People and Process' category, demonstrating a strong focus on team dynamics and the human factors influencing product development processes.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events related to Agile training and coaching, with no mention of platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T00:48:48",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with the principles of business agility by emphasising the importance of understanding user needs and adapting to feedback. However, the primary focus is on Scrum and user experience rather than directly addressing broader business agility principles. While it touches on collaboration and continuous delivery, it lacks a comprehensive exploration of business agility as a whole.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -709,23 +646,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the PSU course and its benefits for product development decisions, not the Definition of Ready.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:47:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the PSU course's role in product development and integration of design with engineering, with no clear discussion on Lead Time.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and collaboration between design and engineering teams. While it discusses aspects of product development and decision-making, it does not explicitly mention Lead Time or its significance as an observability metric. The themes of the content do not align with the core topics of Lead Time, such as measuring efficiency or optimising workflows. Therefore, the confidence score reflects a very low relevance to the category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:22:06",
     "ai_confidence": 0,
@@ -743,15 +683,6 @@
     "reasoning": "Content primarily discusses a course on Scrum and product development without focusing on Agile leadership roles or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on a training course related to Scrum and product development decisions without mention of AI, automation, or their integration into Agile frameworks.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-02-18T10:22:06",
@@ -763,13 +694,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T00:49:02",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with empirical process control principles by emphasising decision-making based on observed evidence and experimentation. However, it does not explicitly mention empirical process control or its key figures, and while it touches on Agile concepts, it lacks depth in discussing the core themes of transparency, inspection, and adaptation. The focus is more on product development strategies rather than a thorough exploration of empirical process control.",
     "level": "Secondary"
   },
@@ -784,36 +715,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T18:18:57",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of collaboration between design and engineering teams, highlighting the need for shared understanding and communication to improve product development. It touches on the role of the entire team in hypothesis-driven approaches and the integration of different skill sets. However, while it mentions team dynamics and collaboration, the primary focus is more on product development strategies rather than explicitly enhancing team collaboration within Agile frameworks.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T00:48:57",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with the principles of Agile methodologies and continuous feedback loops. It highlights the importance of collaboration between design and engineering teams, which is crucial for market adaptability. The emphasis on running small experiments and integrating feedback into product strategy demonstrates a clear understanding of how to respond to user needs and market demands. However, while the content touches on relevant themes, it does not explicitly focus on broader market adaptability strategies or case studies, which slightly limits its depth in this specific category.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the PSU course and the integration of design with scrum and agile methodologies without any focus on AI applications or implications.",
-    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -826,51 +748,39 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a Scrum course (PSU) and does not focus on the Daily Scrum event or its specific characteristics.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the PSU course, Scrum roles, and the integration of design and engineering, with no mention of Continuous Integration principles or practices.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a specific Scrum course and team-level agile practices without addressing broader organisational agility.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course related to Agile and Scrum, but does not focus on the Product Backlog or its management.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T00:49:19",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 0,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the Professional Scrum with User Experience course, which aligns with agile principles, particularly in the context of collaboration and iterative development. It mentions Scrum and the importance of running experiments, which are key aspects of agile methodologies. However, while it touches on agile concepts, the primary focus is on product development rather than a comprehensive exploration of Agile Project Management principles, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -890,36 +800,15 @@
     "reasoning": "Content primarily discusses the PSU course and its benefits for product development, not troubleshooting technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses the PSU course and its benefits for product development, without focusing on specific products or books.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T00:48:53",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 45.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content primarily focuses on personal experiences and insights gained from the Professional Scrum with User Experience course, which does not directly discuss industry news or reviews. While it touches on Agile methodologies and the importance of collaboration in product development, it lacks explicit references to recent developments or evaluations of tools and practices in the Agile or DevOps space. The discussion is more reflective and personal rather than informative about broader industry trends or updates.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-15T00:48:55",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on product development methodologies and the hypothesis-driven approach rather than directly addressing team motivation. While it touches on collaboration between design and engineering teams, which is relevant to team dynamics, the overall emphasis is on technical processes and user experience rather than strategies for enhancing team engagement or motivation. The discussion lacks depth in exploring psychological aspects or team dynamics that drive motivation.",
     "level": "Ignored"
   },
@@ -932,64 +821,58 @@
     "reasoning": "Content primarily discusses the PSU course and its benefits for teams, without providing personal experiences or insights.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a specific course designed to improve product development decisions without addressing scaling Scrum practices or the application of Scrum in large organizations.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-03-15T00:48:50",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses collaboration between design and engineering teams, which aligns with the concept of cross-functional teams. However, it primarily focuses on a hypothesis-driven approach to product development rather than explicitly addressing the characteristics, formation, or management of cross-functional teams. The mention of silos and the need for collaboration indicates some relevance, but the overall focus is more on product strategy and user experience than on cross-functional team dynamics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a course and its benefits for product development but does not focus on Scrum Values or their significance.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T17:45:55",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses Agile principles, particularly through the lens of the Professional Scrum with User Experience course. It directly addresses the importance of understanding user needs, creating hypotheses, running experiments, and fostering collaboration between design and engineering teams, all of which align closely with Agile Product Management practices. The depth of discussion on integrating strategy with continuous delivery further reinforces its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSU course related to Scrum and Agile frameworks, without a focus on Behaviour Driven Development.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the PSU course and Scrum practices, without addressing Test First Development or its principles.",
+    "calculated_at": "2025-04-10T15:54:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which is somewhat related to defining success criteria, but it does not explicitly mention Test First Development or its principles. The focus is more on collaboration and experimentation rather than on testing practices or the importance of success criteria in guiding design and implementation. While there are elements of alignment with the iterative nature of testing, the depth of discussion on Test First Development is minimal.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1003,15 +886,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T00:48:15",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Professional Scrum with User Experience course and touches on collaboration between design and engineering teams, which aligns with Scrum principles. However, it primarily focuses on product development and hypothesis-driven approaches rather than the specific dynamics and roles within a Scrum Team. The mention of Scrum is limited and does not delve deeply into Scrum roles or team dynamics, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1060,58 +943,49 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T16:53:07",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 67.0,
     "ai_mentions": 50.0,
     "ai_alignment": 80.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the hypothesis-driven approach and its implications for product development, which aligns with Agile principles of value delivery and continuous improvement. However, it primarily focuses on specific practices related to Scrum and user experience rather than the broader Agile philosophy. While Agile concepts are present, they are not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T00:48:44",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content extensively discusses methodologies related to product delivery, particularly through the lens of a hypothesis-driven approach and the importance of collaboration between design and engineering teams. It aligns well with key topics such as iterative development, planning, and the integration of feedback loops. However, while it touches on these themes, it does not delve deeply into specific practices like CI/CD or metrics for measuring delivery performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific Scrum course aimed at improving team-level skills and collaboration, without addressing broader scaling agility or organizational level practices.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T15:31:01",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with agile principles of adaptability and responsiveness. It mentions collaboration between design and engineering teams, reflecting the importance of cross-functional teams in enhancing organisational agility. However, while it touches on agile concepts, the primary focus is on product development techniques rather than a broader exploration of organisational agility strategies and cultural shifts.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:44:40",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach within the context of the Professional Scrum with User Experience course, which aligns with Agile principles. It mentions Scrum and emphasises collaboration, continuous delivery, and feedback loops, which are relevant to Agile transformation. However, the primary focus is on product development rather than a comprehensive discussion of Agile transformation strategies, limiting the depth of the discussion.",
     "level": "Secondary"
   },
@@ -1122,24 +996,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile methodologies and the PSU course, without discussing portfolio management or strategic project alignment.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the PSU course, Agile principles, and Scrum practices rather than directly addressing organisational resilience or change management themes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the PSU course and its benefits for product development, with no clear emphasis on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -1160,18 +1016,6 @@
     "reasoning": "Content primarily discusses the PSU course and its benefits for product development decisions but does not focus on frequent releases or related practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T00:48:35",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with Agile methodologies. It mentions the Professional Scrum with User Experience course, indicating a focus on practical techniques. However, while it touches on collaboration and experimentation, it lacks specific references to tools or frameworks commonly associated with Agile and DevOps practices, such as CI/CD or specific software tools. The discussion is insightful but does not delve deeply into practical tooling or methodologies, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T10:22:06",
@@ -1183,19 +1027,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:47:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and agile practices related to product development, not system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product development methodologies, specifically a hypothesis-driven approach, and does not discuss system configuration, tools, or practices related to system setup or maintenance. While there are mentions of collaboration and integration, these are framed within the context of product development rather than system configuration. Therefore, the content does not align with the key topics outlined for the 'System Configuration' category.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the PSU course and its benefits for teams in product development, but does not specifically address methodologies or practices for product discovery.",
     "level": "Ignored"
   },
@@ -1210,35 +1057,23 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on a Scrum training course and the integration of design and engineering within Agile environments, without discussing hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:07:49",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with agile principles and continuous delivery. However, it primarily focuses on Scrum and user experience rather than the broader Agile Product Operating Model. While it touches on collaboration and iterative processes, it lacks a comprehensive exploration of APOM's core themes, such as operational stability and governance.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T00:48:33",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content explicitly discusses a hypothesis-driven approach to product development, which aligns closely with the principles of experimentation and learning. It highlights the importance of running small experiments, gathering user feedback, and fostering collaboration between teams, all of which are key themes in the Discovery and Learning category. The depth of discussion is substantial, providing insights into methodologies that enhance product quality and team performance. However, while the category is a primary focus, there are elements of project management and technical implementation that slightly detract from a perfect alignment.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -1268,26 +1103,17 @@
     "reasoning": "Content primarily discusses the PSU course related to Scrum and Agile practices, with no mention of automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSU course related to Scrum and Agile, without a focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:24:02",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 40.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with pragmatic thinking by emphasising practical problem-solving and real-world applications in Agile contexts. It highlights the importance of collaboration between design and engineering teams, which is crucial for effective decision-making in complex environments. The depth of discussion on integrating these practices into a continuous delivery cycle further supports its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1300,15 +1126,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T00:49:10",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses decision-making processes in product development, particularly through a hypothesis-driven approach. It aligns well with the core themes of evidence-based methodologies, emphasising the importance of data and user needs in decision-making. The depth of discussion is substantial, covering aspects like creating hypotheses, running experiments, and integrating feedback loops, which are all critical to structured decision-making. Overall, the content is focused on enhancing decision quality through empirical evidence and collaboration.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1339,51 +1165,51 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a training course for Scrum without any specific mention or focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Agile training and Scrum roles rather than on product strategy frameworks or methodologies.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific Agile course and Scrum training, which are not the core values and principles of Agile itself.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSU course and Scrum principles, with no clear focus on Value Stream Mapping.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T00:48:30",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of collaboration between design and engineering teams, which aligns with sociotechnical principles. However, it primarily focuses on a hypothesis-driven approach to product development and does not deeply explore the interplay between social and technical systems. The mention of team dynamics and collaboration is present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1423,11 +1249,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:47:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a course and its impact on integrating design and engineering in product development, without directly addressing throughput concepts or metrics relevant to work completion rates.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and collaboration between design and engineering teams. While it touches on concepts like running experiments and integrating strategies into continuous delivery, it does not explicitly discuss throughput as a delivery metric or provide any analysis or visualisation of throughput. The discussion lacks depth in terms of throughput metrics, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1441,45 +1270,45 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:07:52",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with the principles of Evidence-Based Management by emphasising data-informed decision-making and experimentation. However, it primarily focuses on the practical application of these concepts in a Scrum context rather than explicitly addressing the broader themes of EBM. While it mentions the importance of measuring success and running experiments, it does not delve deeply into the specific metrics or outcomes associated with EBM, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a training course related to Scrum and Agile practices rather than installation or configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:22:06",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a specific Scrum course and its role in enhancing product development decisions, which does not focus on measuring or improving the ability to innovate in a broader context.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T00:48:17",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which aligns with operational practices by emphasising experimentation and continuous improvement. However, while it touches on collaboration and integration of strategies, it lacks a direct focus on specific operational efficiency techniques or metrics, which limits its depth in the context of the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1501,74 +1330,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:25:55",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the integration of hypothesis-driven approaches in product development, which aligns with Scrum principles of iterative progress and team collaboration. It mentions the importance of team dynamics and the roles of team members, particularly in relation to the Scrum framework. However, while Scrum is referenced, the focus is more on product development strategies rather than a deep dive into Scrum practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:06:00",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which touches on aspects of early testing and user feedback, but does not explicitly mention the Shift-Left Strategy or its core principles. While there is some alignment with the idea of integrating user needs and continuous feedback, the focus is primarily on product development methodologies rather than the specific integration of testing, security, and compliance earlier in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:07:31",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a hypothesis-driven approach and the importance of running experiments, which aligns with the principles of Continuous Improvement. However, while it touches on aspects of iterative processes and feedback loops, it does not deeply explore the broader implications of Continuous Improvement or provide extensive detail on its integration into organisational processes. The focus is more on product development and user experience rather than a comprehensive discussion on Continuous Improvement itself.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:07:36",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a hypothesis-driven approach to product development, which indirectly relates to aligning team efforts with user needs and strategic goals. However, it primarily focuses on personal experiences and methodologies rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The mention of collaboration and integration of strategy hints at alignment but lacks depth in discussing how these contribute to shared objectives across teams.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:07:43",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 70.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of informed decision-making and continuous learning through the PSU course, which aligns with the principles of competence. It mentions the need for collaboration and understanding across disciplines, which supports the idea of developing skills and capabilities. However, while competence is a significant theme, the focus is more on product development strategies rather than a deep exploration of competence itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:07:46",
+    "calculated_at": "2025-04-10T15:54:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and the Professional Scrum with User Experience course, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and integration, they are not explicitly tied to the principles of 1ES, and the discussion lacks depth regarding the standardisation and integration of engineering processes across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which touches on aspects of intentional decision-making and user-centric design. However, it primarily focuses on Scrum practices and collaboration rather than explicitly addressing Agentic Agility principles. The discussion lacks a clear distinction between human and AI capabilities and does not delve deeply into the transformative capacity of individuals or systems in shaping outcomes.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:46:32",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 20,
+    "final_score": 92.0,
+    "reasoning": "The content extensively discusses a hypothesis-driven approach to product development, emphasising the importance of user needs, collaboration between teams, and iterative experimentation. It aligns closely with key topics such as customer feedback loops, continuous improvement, and the integration of strategy with delivery. The depth of discussion is significant, providing detailed insights into methodologies that enhance product development practices, making it a strong fit for the category.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:46:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development within the context of Scrum and user experience, which does not directly address Open Space Agile principles. While it mentions collaboration and iterative processes, it lacks explicit discussions on Open Space Technology, psychological safety, or shared ownership, which are core to Open Space Agile. The depth of discussion on Agile practices is present, but it does not align closely with the specific themes of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:46:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and the Professional Scrum with User Experience course. While it discusses collaboration and decision-making, which are relevant to group dynamics, it does not explicitly mention Liberating Structures or their specific techniques. The alignment with the core themes is moderate, as it touches on collaboration and experimentation, but lacks depth in discussing Liberating Structures as a facilitation technique. Overall, the content does not meet the criteria for a strong alignment with the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:46:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which indirectly relates to assessing value through user feedback and experimentation. However, it lacks explicit metrics or indicators of Current Value, such as customer satisfaction or revenue impact. While it touches on the importance of making informed decisions and running experiments to validate hypotheses, it does not provide a comprehensive analysis of Current Value as defined in Evidence-Based Management. The discussion is more focused on methodologies and collaboration rather than on the real-time assessment of value delivered.",
+    "level": "Tertiary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:46:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which indirectly relates to Time to Market by emphasising the importance of making informed decisions and running small experiments. However, it lacks explicit mentions of Time to Market metrics or strategies specifically aimed at reducing delivery time. The focus is more on collaboration and user experience rather than on optimising processes for quicker delivery, which diminishes its alignment with the core themes of Time to Market.",
+    "level": "Tertiary"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:46:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a specific framework (Professional Scrum) and its methodologies, discussing the hypothesis-driven approach and collaboration between design and engineering teams. While it touches on agile principles, it does not explicitly mention Agnostic Agile or its core themes, such as ethical considerations or the importance of adapting methods based on context. The discussion lacks depth in exploring the principles of Agnostic Agile, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:46:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and the importance of collaboration between design and engineering teams. While it touches on concepts like collaboration and decision-making, it does not explicitly mention or align with the principles of Cell Structure Design, such as decentralisation, autonomous cells, or the Beta Codex. The discussion is more aligned with traditional agile methodologies rather than the specific themes of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:46:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on product development methodologies, particularly a hypothesis-driven approach, and the importance of collaboration between design and engineering teams. While it touches on user needs and feedback loops, which are relevant to the CaaP concept, it does not explicitly discuss the organisation as a product or the broader implications of CaaP principles. The discussion lacks depth in terms of organisational strategy and culture, which are central to the CaaP framework. Therefore, while there are elements that align with CaaP, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:46:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development, which indirectly relates to the concept of Unrealised Value by emphasising the importance of understanding user needs and testing ideas before full implementation. However, it lacks direct mentions of Unrealised Value and does not focus on identifying or measuring untapped opportunities within an organisation. The discussion is more centred on product development processes rather than exploring potential value capture or strategic decision-making related to unrealised opportunities.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:47:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product development methodologies, specifically a hypothesis-driven approach and collaboration between design and engineering teams. While it touches on Agile principles, it does not mention GitHub or its functionalities, services, or tools. The discussion is centred around Scrum and user experience rather than GitHub's features or best practices, leading to a low confidence score in alignment with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:47:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development, which is more aligned with agile methodologies than with broader project management principles. While it touches on collaboration and iterative processes, it lacks direct discussions on core project management topics such as scope, time, cost, and quality management. The depth of discussion is limited to specific practices within agile, without addressing the overall project lifecycle or governance structures, which are essential for a comprehensive project management perspective.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:47:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and the importance of collaboration between design and engineering teams. While it touches on agile concepts, it does not explicitly discuss Hybrid Agile or its challenges. The mention of agile and scrum is brief and does not delve into the critical examination of merging traditional and agile methodologies, which is essential for the Hybrid Agile category. Therefore, the confidence score reflects a low alignment with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:47:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a hypothesis-driven approach to product development and collaboration between design and engineering teams. While it touches on aspects of collaboration and alignment, it does not explicitly discuss scaling methodologies or frameworks, nor does it delve into the complexities of coordinating multiple teams or managing dependencies at scale. The discussion is more aligned with general Agile practices rather than the specific challenges and strategies involved in scaling Agile across an enterprise.",
     "level": "Ignored"
   }
 }

@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:40:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific error related to Team Foundation Server and SharePoint, providing troubleshooting steps rather than discussing the broader aspects of Application Lifecycle Management. While it briefly mentions ALM in the tags, the main discussion does not align with the key topics of application lifecycle stages, governance, or best practices. The depth of discussion is limited to error resolution, lacking comprehensive insights into ALM methodologies or tools.",
     "level": "Ignored"
   },
@@ -40,10 +40,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T20:50:19",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting a specific error related to Team Foundation Server and SharePoint, without addressing the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -58,13 +58,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:20:42",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content provides a detailed discussion on troubleshooting a specific error related to the installation and configuration of Team Foundation Server (TFS) and SharePoint integration. It includes step-by-step guidance on checking logs, identifying issues, and modifying managed paths, which aligns well with the key topics of installation and configuration. The content is primarily focused on resolving a technical issue, demonstrating a clear understanding of the installation process and configuration best practices. However, while it is rich in detail, it could benefit from a more structured approach to installation procedures, which slightly affects the overall confidence score.",
     "level": "Secondary"
   },
@@ -86,15 +86,6 @@
     "reasoning": "Content primarily discusses a specific error related to Team Foundation Server and SharePoint, providing technical details and troubleshooting steps, which are not aligned with the Miscellaneous category.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and SharePoint, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T20:50:28",
@@ -103,18 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting a specific error in Team Foundation Server and SharePoint, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T15:16:47",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a detailed discussion on troubleshooting a specific error related to Team Foundation Server and SharePoint integration. It includes practical steps for debugging, such as checking log files and managing SharePoint paths, which aligns well with the category's focus on practical techniques and tooling. The content explicitly mentions tools and methodologies relevant to Agile and DevOps practices, such as TFS and SharePoint, and offers actionable insights. However, while it is rich in practical advice, it lacks broader discussions on Agile or DevOps frameworks, which slightly lowers the alignment score.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -127,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:50:34",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting a specific error related to Team Foundation Server and SharePoint, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,38 +133,35 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T20:50:38",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting Team Foundation Server and SharePoint issues, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:50:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting a specific error related to Team Foundation Server and SharePoint, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct mention or discussion of Evidence-Based Management principles or metrics. While it may touch on aspects of project management, it lacks any empirical evidence or data-informed decision-making discussions that are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:50:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting Team Foundation Server errors related to SharePoint, with no focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:50:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, lacking broader industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. The discussion is technical and project-specific, lacking any alignment with the core themes of the APOM.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -213,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting a specific error related to Team Foundation Server and SharePoint, without a clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:50:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses troubleshooting a Team Foundation Server error related to SharePoint, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:50:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting a specific error related to Team Foundation Server and SharePoint, without addressing the principles of code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:50:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to Team Foundation Server and SharePoint, with no mention of events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:50:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and SharePoint, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -298,71 +238,47 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:40:22",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, the focus is primarily on troubleshooting a SharePoint integration issue rather than on Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth regarding Azure DevOps services and does not explore broader themes such as CI/CD or agile project management within Azure DevOps.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T20:51:05",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting Team Foundation Server and SharePoint issues, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:51:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting a specific error related to Team Foundation Server and SharePoint, without a focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, which does not align with the core principles of DevOps. While it touches on aspects of project management and server configuration, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of Team Foundation Server is more about resolving technical issues rather than exploring DevOps practices.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:40:20",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, which does not directly discuss engineering practices or methodologies that enhance agility in software development. While it provides some technical details and insights into debugging, it lacks a broader discussion on principles like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The mention of managed paths and site creation is more operational than methodological, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:51:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and SharePoint without focusing on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:51:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical error debugging related to Team Foundation Server and SharePoint, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:51:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to Team Foundation Server and SharePoint, without focusing on products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,22 +301,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:15:33",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses troubleshooting a specific error related to the configuration of Team Foundation Server and SharePoint integration. It provides detailed logs and error messages, which are crucial for understanding system configuration issues. The discussion includes practical steps for modifying managed paths in SharePoint, which directly relates to system configuration best practices. However, while the content is focused on a specific error, it does not extensively cover broader configuration management tools or strategies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on troubleshooting a specific error in Team Foundation Server related to SharePoint integration, and does not discuss the ability to innovate or related frameworks, metrics, or strategies.",
     "level": "Ignored"
   },
@@ -429,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and SharePoint errors, which are not related to portfolio management practices or strategies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical errors and troubleshooting related to Team Foundation Server and SharePoint, with no connection to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -469,10 +376,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and SharePoint, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -505,20 +412,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses troubleshooting an error related to Team Foundation Server and SharePoint, with no mention of the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Team Foundation Server and SharePoint, with no significant focus on Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses troubleshooting an error related to Team Foundation Server and SharePoint, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,19 +448,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on debugging a technical error related to Team Foundation Server and SharePoint, without discussing empirical process control or Agile principles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error related to Team Foundation Server and SharePoint, with no reference to Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -584,33 +482,24 @@
     "reasoning": "Content focuses on a specific error related to Team Foundation Server and SharePoint, with no discussion on collaboration tools or team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server and SharePoint integration, without a clear focus on the role of software developers within Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:18:39",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS) and SharePoint, which are tools used in software development. It provides detailed logs and troubleshooting steps, indicating a focus on resolving a software development issue. However, while it touches on aspects of the software development lifecycle and project management, it lacks broader discussions on methodologies or best practices, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting an error related to Team Foundation Server and SharePoint, which does not align with Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -632,7 +521,7 @@
     "reasoning": "Content heavily discusses SharePoint and Team Foundation Server errors, with no reference to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:42:49",
     "ai_confidence": 0,
@@ -706,11 +595,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses errors and issues related to Team Foundation Server and SharePoint, with no relation to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct discussion or alignment with Continuous Delivery principles or practices. It lacks any mention of automation, incremental improvements, or rapid feedback, which are key aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -733,10 +625,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Team Foundation Server and SharePoint, with no focus on organisational change processes or agility.",
     "level": "Ignored"
   },
@@ -758,15 +650,6 @@
     "reasoning": "The content primarily discusses a technical error related to Team Foundation Server and SharePoint, with no mention of hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily revolves around troubleshooting Team Foundation Server and SharePoint errors, with no mention of AI or its integration with Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-16T21:42:49",
@@ -778,10 +661,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debugging related to Team Foundation Server and SharePoint, with no significant focus on change management practices or principles.",
     "level": "Ignored"
   },
@@ -823,10 +706,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical error messages related to Team Foundation Server and SharePoint without reference to evidence-based leadership practices or decision-making.",
     "level": "Ignored"
   },
@@ -886,10 +769,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical error related to Team Foundation Server and SharePoint, with no clear links to team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -913,10 +796,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no relevance to the responsibilities or skills of a Product Owner.",
     "level": "Ignored"
   },
@@ -931,28 +814,28 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to Team Foundation Server and SharePoint, with no clear focus on team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses debugging a Team Foundation Server error related to site creation in SharePoint, without any mention of the Definition of Ready or its principles.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses debugging a Team Foundation Server error and issues related to SharePoint project creation, with no relevance to Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
@@ -967,15 +850,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:40:25",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, which does not directly address broader principles of software craftsmanship or engineering practices. While it provides some technical details and debugging steps, it lacks a comprehensive discussion on best practices, clean code principles, or methodologies that contribute to high-quality software development. The mention of managed paths and site creation is relevant but does not delve into the overarching themes of technical mastery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -986,15 +869,6 @@
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Server and SharePoint, with no focus on remote working practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Kanban principles or their application in large organisations. It focuses on technical issues related to Team Foundation Server and SharePoint.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:42:49",
@@ -1002,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses error troubleshooting related to Team Foundation Server and SharePoint, with no focus on customer retention strategies, user engagement, or minimizing churn.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on technical issues related to Team Foundation Server and SharePoint, with no discussion of Agile principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1024,10 +889,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and SharePoint error debugging, without any mention of Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -1105,15 +970,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:50:27",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses an error related to Team Foundation Server and its interaction with Windows SharePoint Services, which is a component of the Windows ecosystem. It provides detailed troubleshooting steps and insights into the error messages, aligning well with the core themes of installation, configuration, and troubleshooting within the Windows environment. The depth of discussion is significant, as it includes specific log entries and error messages, which are crucial for diagnosing the issue. Overall, the content is focused on Windows-related topics, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1126,15 +991,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T17:08:11",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses troubleshooting a specific error (TF30177) related to Team Foundation Server and SharePoint integration. It provides detailed logs, error messages, and steps to identify and resolve the issue, aligning well with the core themes of the Troubleshooting category. The depth of discussion includes practical advice on checking managed paths and modifying settings, which enhances its relevance to troubleshooting methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1165,10 +1030,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error related to Team Foundation Server and SharePoint, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -1210,10 +1075,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:40:15",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses a specific error related to Team Foundation Server and SharePoint, which may be about software operational issues but does not focus on the delivery of high-quality software or customer value.",
     "level": "Ignored"
   },
@@ -1228,33 +1093,33 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical error related to Team Foundation Server and SharePoint, without any focus on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T21:42:49",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Team Foundation Server and SharePoint rather than team motivation or dynamics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T19:02:40",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific technical issue related to Team Foundation Server and SharePoint, providing practical troubleshooting steps. However, while it does touch on problem-solving in a real-world context, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The focus is primarily on a specific error and its resolution rather than on the application of pragmatic thinking strategies in complex environments.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1290,15 +1155,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a specific Team Foundation Server error and debugging steps rather than discussing asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on troubleshooting technical issues related to Team Foundation Server and SharePoint, with no discussion of Scrum principles, practices, or scaling methodologies.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1337,22 +1193,16 @@
     "reasoning": "The content discusses Team Foundation Server (TFS) and SharePoint errors, which are unrelated to Scrum principles, roles, and practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical errors related to Team Foundation Server and SharePoint management, without any focus on scaling agile practices or principles.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to SharePoint and Team Foundation Server, without mention of the Scrum Master role or related Scrum practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct mention of the Scrum Master role or its responsibilities. The discussion does not align with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The depth of discussion is focused on technical issues rather than any aspects related to Scrum or the Scrum Master's influence on team dynamics.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,22 +1225,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server and SharePoint without mentioning Test First Development or any related concepts like Test-Driven Development (TDD).",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It lacks any reference to success criteria, testing practices, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:56:10",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no discussion of social technologies, collaboration, or decision-making frameworks. It lacks any mention of self-organisation, collective intelligence, or value delivery, which are core themes of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1423,26 +1276,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:23",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and SharePoint, with no direct mentions of Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:46:53",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct mention or discussion of the Shift-Left Strategy. While there are elements of software development processes, they do not align with the proactive integration of testing, security, or compliance that characterises the Shift-Left approach. The content lacks depth in discussing any principles, techniques, or benefits associated with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project creation and server management, it lacks alignment with the core themes of shared objectives and strategic alignment, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no direct discussion of competence or its importance in Agile or DevOps methodologies. While it does touch on problem-solving skills, it lacks a broader context of continuous learning or professional development, which are key aspects of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:40:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no explicit discussion of Continuous Improvement principles. While it touches on problem-solving, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The content does not provide strategies, case studies, or tools related to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, with no explicit discussion of Agentic Agility or its principles. While there are mentions of problem-solving and debugging, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The content lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

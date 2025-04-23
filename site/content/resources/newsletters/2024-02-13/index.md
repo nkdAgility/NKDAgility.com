@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2024-02-13
-weight: 700
+weight: 665
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -21,12 +21,9 @@ aliasesArchive:
 - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 categories: []
 tags:
-- Agile Project Management
-- Events and Presentations
 - Software Development
 - Agile Product Management
-- Products and Books
-- People and Process
+- Agile Transformation
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from Scrum.org as well as the new Agile Kata class and we have them all.

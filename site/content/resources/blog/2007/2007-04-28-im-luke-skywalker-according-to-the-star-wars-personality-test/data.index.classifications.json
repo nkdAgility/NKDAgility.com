@@ -1,13 +1,4 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T08:23:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to AI, automation, or Agile practices, focusing instead on a personality test related to Star Wars.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-17T08:23:41",
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personality test and personal reflection, with no focus on decision-making processes or related themes.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T08:23:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss team dynamics, collaboration, or any relevant processes; it focuses on a personality test related to a fictional character.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T08:23:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personality test related to a fictional character, with no discussion of organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -125,22 +98,16 @@
     "reasoning": "Content is unrelated to platform engineering and focuses on a personality test related to Star Wars.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T08:24:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to software code or complexity, focusing instead on a personality test related to Star Wars.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T08:24:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personality test related to Star Wars and does not discuss Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a personality test related to Star Wars and does not discuss any aspects of Evidence-Based Management. There are no direct mentions, and it lacks any alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -197,24 +164,6 @@
     "reasoning": "Content is unrelated to Lean methodologies and focuses on a personality test.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T08:24:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personality test related to Star Wars, which is not relevant to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T08:24:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Agile or DevOps practices and focuses on a personality test.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T08:24:16",
@@ -244,20 +193,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T08:24:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Agile principles or product development, focusing instead on a personality test.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T08:24:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any events or presentations related to Agile, DevOps, or software engineering.",
+    "final_score": 5.0,
+    "reasoning": "The content is entirely focused on a personality test related to Star Wars, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any aspects of agile methodologies, product management, or related frameworks, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -289,38 +232,11 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T08:24:27",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personality test related to Star Wars, with no significant connection to Agile, Scrum, DevOps, or Lean methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T08:24:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personality test related to Star Wars, with no discussion on discovery, learning, or related methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T08:24:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personality test and does not address transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T08:24:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personality test related to Star Wars, which does not align with discussions on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -334,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:24:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personality test related to Star Wars and does not discuss any DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content is focused on a personality test related to Star Wars, with no direct mentions or discussions of DevOps principles, practices, or cultural shifts. It does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability, and lacks any depth in discussing these topics.",
     "level": "Ignored"
   },
   "One Engineering System": {
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personal personality test related to Star Wars, which has no relevance to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content is focused on a personality test related to Star Wars, with no direct mentions or discussions about Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery and lacks any depth in this area.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -420,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to Empirical Process Control and discusses a personality test instead.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personality test related to a fictional character and does not discuss Scrum or scaling Scrum practices.",
     "level": "Ignored"
   },
   "Increment": {
@@ -532,11 +445,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Test First Development and focuses on a personality test related to Star Wars.",
+    "final_score": 5.0,
+    "reasoning": "The content is focused on a personality test related to Star Wars and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -600,15 +516,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to strategic goals or business agility; it focuses on a personality test.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaled Agile methodologies, frameworks, or any related topics; it focuses on a personality test.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -872,7 +779,7 @@
     "reasoning": "Content does not discuss Azure Boards or any relevant Agile project management topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T09:13:43",
     "ai_confidence": 0,
@@ -924,15 +831,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to Agile methodologies or strategies and focuses on a personal personality test.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is not relevant at all to software development, Agile, or DevOps practices, focusing instead on a personality test related to Star Wars.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -987,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum values or directly relate to the principles guiding Scrum teams.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any Kanban principles or their scaling; it relates to a personality test based on a fictional character.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1196,15 +1085,6 @@
     "reasoning": "Content is focused on a personality test related to Star Wars, which does not align with test automation principles or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum principles or practices and discusses a personality test.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T09:13:43",
@@ -1225,11 +1105,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is unrelated to the Scrum Master role and discusses a personality test related to a fictional character.",
+    "final_score": 5.0,
+    "reasoning": "The content is entirely focused on a personality test related to Star Wars and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. There is no alignment with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1252,29 +1135,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:13:43",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is irrelevant to innovation capabilities and focuses on a personality test rather than any innovative practices or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to scaling agility and focuses on a personality test related to Star Wars.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is not related to Agile Project Management; it discusses a personality test unrelated to project management methodologies.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1322,15 +1187,6 @@
     "reasoning": "Content is unrelated to Value Stream Mapping and focuses on a personality test based on a fictional character.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T09:13:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personality test and does not discuss AI in any relevant context related to Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T09:13:43",
@@ -1351,11 +1207,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:31:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personality test related to Star Wars and does not discuss any frameworks or principles of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a personality test related to Star Wars, which does not discuss collaboration, decision-making, or value delivery. It lacks any direct mention of social technologies or their principles, and the discussion is superficial with no depth on relevant topics.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1387,13 +1246,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:22:08",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a personality test related to Star Wars, which is entirely unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
@@ -1407,6 +1266,54 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is entirely unrelated to software development processes and does not mention or discuss the Shift-Left Strategy in any capacity.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a personal personality test related to Star Wars, which does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks any depth related to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a personality test related to Star Wars and does not discuss any aspects of competence, continuous learning, or professional development. It lacks any relevant mentions or alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a personality test related to Star Wars and does not discuss any principles or practices of Continuous Improvement. There are no direct mentions or relevant themes present.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a personality test related to Star Wars and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }
 }

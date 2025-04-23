@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T01:56:31",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the configuration of Team Foundation Server and does not discuss Agile principles or product management.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:42:00",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a detailed walkthrough of configuring Team Foundation Server (TFS) 2010, which is a practical tool relevant to Agile and DevOps practices. It discusses specific steps, options, and considerations during the installation process, demonstrating a clear application of tooling. The mention of SQL Express and the importance of compatibility with Visual Studio versions further aligns with the category's focus on practical techniques. However, while the content is rich in practical detail, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the alignment score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:09:16",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion is largely practical and technical, lacking any depth related to empirical evidence or management strategies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:56:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration of Team Foundation Server and does not address code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:56:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical configuration of Visual Studio Team Foundation Server, lacking discussions on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:56:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the configuration of Team Foundation Server and does not relate to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:07:58",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 81.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed step-by-step guide on configuring Visual Studio 2010 Team Foundation Server, which aligns closely with the category of Install and Configuration. It explicitly discusses the installation prerequisites, configuration options, and system requirements, demonstrating a strong focus on actionable instructions. The depth of discussion is significant, as it includes personal experiences, specific configuration choices, and troubleshooting tips, all of which are relevant to the installation and configuration process. The content does not stray into unrelated topics, maintaining a clear focus on the technical aspects of setting up the software.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:56:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical configuration of Visual Studio Team Foundation Server, with no clear discussion on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on the technical configuration of Team Foundation Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the technical configuration of Team Foundation Server without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:09:04",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the configuration of Visual Studio Team Foundation Server, which is a tool related to software development and project management. While it touches on aspects of streamlining development processes, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and does not provide insights into cultural shifts or practices necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily focuses on the configuration of Visual Studio Team Foundation Server, with no discussion of decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:56:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the configuration of Team Foundation Server and does not discuss any events, presentations, or related topics.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:56:53",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration process of Team Foundation Server, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the technical configuration of Team Foundation Server and does not discuss human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:56:57",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the configuration process of Team Foundation Server and does not discuss metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -247,10 +172,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T01:57:03",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the configuration of Team Foundation Server rather than the methodologies and practices involved in delivering software products.",
     "level": "Ignored"
   },
@@ -272,15 +197,6 @@
     "reasoning": "Content primarily discusses the configuration of Team Foundation Server and does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:57:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration process of Team Foundation Server 2010, with no focus on reviews, analyses, or discussions of literature or tools related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T01:57:07",
@@ -292,15 +208,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:20:36",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) 2010, which is part of the Azure DevOps suite. However, it lacks a broader discussion on Azure DevOps functionalities, methodologies, or best practices. While TFS is mentioned, the focus is more on installation and personal experience rather than on CI/CD practices or integration with other tools, which are key topics in the Azure DevOps category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -322,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T01:57:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Team Foundation Server (TFS) and does not discuss the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:09:14",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring Visual Studio Team Foundation Server, which is a technical setup guide rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics associated with APOM. The content lacks depth in relation to the category, providing minimal relevance to agile practices or product-oriented mindsets.",
     "level": "Ignored"
   },
@@ -350,24 +266,15 @@
     "reasoning": "Content primarily focuses on the configuration of Team Foundation Server and does not discuss organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:57:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for configuring Team Foundation Server, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:20:38",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the configuration of Team Foundation Server (TFS) rather than discussing the broader aspects of Application Lifecycle Management (ALM). While it touches on deployment and mentions TFS, it lacks a comprehensive exploration of the application lifecycle stages, governance, or best practices. The discussion is more about installation and configuration specifics, which does not align closely with the core themes of ALM.",
     "level": "Ignored"
   },
@@ -382,43 +289,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses installation and configuration of Team Foundation Server, unrelated to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:20:43",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the configuration of Team Foundation Server (TFS) rather than discussing broader principles of software craftsmanship or engineering practices. While it does touch on aspects of installation and configuration, it lacks a deep exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The discussion is more practical and procedural, which does not align closely with the core themes of Technical Mastery.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical installation and configuration details of Team Foundation Server rather than discussing methodologies for product discovery or understanding customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:09:18",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the configuration of Visual Studio 2010 Team Foundation Server, which is a specific setup task rather than a discussion on Continuous Delivery principles or practices. While it may touch on aspects of software deployment, it lacks explicit mentions of Continuous Delivery concepts, automation, or the cultural aspects associated with it. The discussion is more about installation and configuration rather than the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -433,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring Visual Studio and Team Foundation Server and does not discuss Lead Time or related concepts.",
     "level": "Ignored"
   },
@@ -451,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses configuration of Visual Studio Team Foundation Server and does not relate to the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -469,10 +376,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Team Foundation Server and does not discuss the Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -514,10 +421,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuration procedures for Team Foundation Server and does not address any aspects related to Scrum teams, roles, or dynamics.",
     "level": "Ignored"
   },
@@ -541,10 +448,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Team Foundation Server without any focus on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -577,10 +484,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses solely on the technical configuration of Team Foundation Server rather than discussing team performance or collaborative practices.",
     "level": "Ignored"
   },
@@ -604,31 +511,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:53:05",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the configuration of Team Foundation Server (TFS) within the context of Visual Studio, which is a relevant aspect of software development. It discusses installation steps, configuration options, and compatibility issues, which are pertinent to the software development lifecycle. However, while it touches on important topics like version control and deployment, the depth of discussion is more practical and anecdotal rather than theoretical or methodological, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:03:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring Team Foundation Server without any mention of Agile principles, methodologies, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical configuration of Visual Studio and Team Foundation Server without referencing Agile values or principles.",
     "level": "Ignored"
   },
@@ -643,22 +541,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T07:20:36",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring Team Foundation Server (TFS), which is a version control system. However, it lacks a comprehensive discussion on modern source control practices such as branching strategies, code review processes, or integration with DevOps. While TFS is mentioned, the content does not delve into best practices or methodologies associated with modern source control, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T02:03:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on configuring Team Foundation Server and does not discuss empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -725,15 +623,6 @@
     "reasoning": "Content primarily discusses the technical configuration of Visual Studio 2010 Team Foundation Server without any focus on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on configuring Team Foundation Server and does not discuss scaling Scrum or any related topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:03:12",
@@ -750,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on configuring software and does not discuss psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on configuring Team Foundation Server, which is primarily technical installation guidance and does not discuss scaling agile practices or principles.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -808,13 +688,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:20:36",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the practical steps for configuring Team Foundation Server, which aligns with pragmatic problem-solving in a technical context. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the complexities or adaptability required in those frameworks. The mention of personal experience adds some value, but overall, the content is more instructional than analytical.",
     "level": "Ignored"
   },
@@ -829,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration process of Team Foundation Server, with no clear focus on innovation capabilities or related metrics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server, which is unrelated to Scrum practices and product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on the installation and configuration of Team Foundation Server and is not related to Agile practices or scaling Agile methodologies.",
+    "reasoning": "Content primarily discusses the installation and configuration process of Team Foundation Server, with no clear focus on innovation capabilities or related metrics.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -991,19 +853,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the technical installation and configuration of Visual Studio Team Foundation Server, which does not relate to the responsibilities or role of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installation and configuration of Team Foundation Server with no discussion of Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1036,10 +898,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the installation and configuration process of Team Foundation Server rather than on team collaboration dynamics or methodologies.",
     "level": "Ignored"
   },
@@ -1061,42 +923,33 @@
     "reasoning": "Content is focused on the configuration of Team Foundation Server and does not address digital transformation themes such as business agility, innovation, or operational efficiency.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content is solely focused on configuring Team Foundation Server and does not discuss Minimum Viable Products or related concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content predominantly focuses on configuring Team Foundation Server and Visual Studio, with no discussions related to AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:08:00",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the configuration of Visual Studio 2010 Team Foundation Server, detailing the steps and considerations involved in the setup process. It explicitly discusses configuration options, such as choosing between basic and advanced setups, and highlights the importance of security and compatibility with previous versions. The depth of discussion includes practical insights and personal experiences, which align well with the core themes of system configuration. Overall, the content is highly relevant to the category, with a strong emphasis on practical configuration methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the configuration of Visual Studio and Team Foundation Server, which is not relevant to product strategy.",
     "level": "Ignored"
   },
@@ -1129,31 +982,34 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on configuring Visual Studio and Team Foundation Server, with no mention of Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Visual Studio 2010 Team Foundation Server and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of TDD, ATDD, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:42:24",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on configuring Team Foundation Server (TFS) on a Windows Vista environment, which directly relates to the Windows operating system. It discusses installation and configuration steps, which are key topics in the Windows category. However, while it mentions Windows and provides some relevant details, the depth of discussion on broader Windows functionalities, troubleshooting, or system updates is limited. The content is more focused on TFS rather than a comprehensive exploration of Windows itself.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:20:36",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "Content primarily focuses on configuring Team Foundation Server and does not delve deeply into deployment methodologies.",
     "level": "Ignored"
   },
@@ -1168,10 +1024,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical installation and configuration of Team Foundation Server rather than any motivational aspects related to teams.",
     "level": "Ignored"
   },
@@ -1195,15 +1051,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:20:40",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the configuration of Team Foundation Server (TFS) and highlights potential issues, such as compatibility with older versions of Visual Studio. It provides insights into the installation process and mentions the importance of checking system requirements, which aligns with troubleshooting themes. However, the primary focus is on the configuration process rather than a systematic approach to diagnosing and resolving issues, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1216,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the configuration of Visual Studio Team Foundation Server and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on configuring Visual Studio Team Foundation Server and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1239,18 +1098,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Visual Studio Team Foundation Server and does not discuss working agreements, teamwork, or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:20:36",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on the configuration of Team Foundation Server (TFS) and does not explicitly discuss the role of software developers within Agile or DevOps frameworks. While it mentions TFS, which is a tool relevant to developers, it lacks a discussion on best practices, methodologies, or the impact of Agile on team dynamics. The depth of discussion is limited to installation steps and personal experiences, which do not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1291,10 +1138,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on configuring Team Foundation Server and Visual Studio, with detailed steps and personal installation experiences, which does not relate to strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1327,10 +1174,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 10,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "While the content discusses Team Foundation Server (TFS), it primarily focuses on installation and configuration rather than Azure Repos functionalities or best practices. There is no clear primary discussion around Azure Repos specifically.",
     "level": "Ignored"
   },
@@ -1345,10 +1192,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T02:03:12",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration process of Team Foundation Server, which is unrelated to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1368,15 +1215,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on the configuration of Visual Studio and Team Foundation Server, with no discussion on accountability concepts or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring Team Foundation Server and does not discuss Kanban principles or scaling Kanban in any capacity.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1399,13 +1237,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:44:39",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions aspects of configuration that could relate to team dynamics, it lacks depth and does not align with the core themes of social technologies.",
     "level": "Ignored"
   },
@@ -1438,62 +1276,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:52:55",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring Team Foundation Server (TFS) and does not explicitly mention Scrum or its principles, roles, events, or artifacts. While TFS can be used in Scrum environments, the discussion lacks any direct references to Scrum practices or frameworks, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:35:05",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the configuration of Team Foundation Server and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The discussion is entirely centred around installation and configuration steps, which are unrelated to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:09:07",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with no explicit discussion of Continuous Improvement principles. While it mentions streamlining the development process, it lacks depth in exploring how this relates to ongoing improvement or empirical evidence. The content does not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or integrating improvement strategies into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:09:09",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of configuration that may relate to team collaboration, it lacks depth and does not connect to the overarching strategic objectives or frameworks like OKRs. The discussion is largely technical and personal, deviating from the core concept of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:09:11",
+    "calculated_at": "2025-04-10T15:56:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server, with minimal discussion on competence or skill development. While it touches on the importance of understanding system requirements and the implications of using outdated software, it lacks a thorough exploration of continuous learning or professional growth, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical setup of Visual Studio 2010 Team Foundation Server and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

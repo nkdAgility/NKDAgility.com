@@ -9,7 +9,7 @@ ResourceImportId: 10019
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 tags:
 - Software Development
-- News and Reviews
 categories: []
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 

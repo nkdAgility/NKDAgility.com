@@ -9,7 +9,7 @@ ResourceImportId: 49507
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-03
-weight: 415
+weight: 355
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -27,13 +27,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Philosophy
-- People and Process
-- Agile Values and Principles
+- Organisational Agility
 - Agile Transformation
-- Agile Project Management
-- Software Developers
-categories:
-- Social Technologies
+- Agile Values and Principles
+- Pragmatic Thinking
+categories: []
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

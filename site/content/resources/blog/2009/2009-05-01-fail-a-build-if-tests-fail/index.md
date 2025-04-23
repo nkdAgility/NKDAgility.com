@@ -9,7 +9,7 @@ ResourceImportId: 127
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-01
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,9 @@ aliasesArchive:
 - /fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Technical Excellence
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

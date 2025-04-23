@@ -1,26 +1,14 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T18:11:22",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 62.0,
     "ai_mentions": 70.0,
     "ai_alignment": 55.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Scrum and its application with Team Foundation Server, which aligns with Agile methodologies. However, it primarily focuses on project management aspects rather than product management specifically. While it mentions Scrum practices and rules, it lacks a detailed exploration of product value maximisation, customer feedback integration, and the role of the Product Owner, which are crucial for Agile Product Management. Therefore, while there is a relevant connection to Agile principles, the depth and focus on product management are insufficient for a higher confidence score.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:36:29",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in conjunction with Scrum, which aligns with the category's focus on practical techniques and tooling. However, while it mentions Scrum and TFS, the discussion lacks depth in exploring methodologies or frameworks in detail. The content primarily recounts personal experiences and presentations rather than providing a comprehensive analysis or best practices related to Agile and DevOps tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -44,33 +32,6 @@
     "reasoning": "The content primarily discusses Scrum and Team Foundation Server 2010, focusing on project management practices rather than evidence-based management principles. While it mentions Scrum, it does not provide empirical evidence or metrics related to value delivery, decision-making, or outcomes, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:38:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and project management methodologies, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:38:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:38:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server without any mention of AI or automation technologies.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
     "calculated_at": "2025-02-16T00:38:16",
@@ -82,20 +43,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:38:18",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum practices and presentations rather than installation or configuration of tools.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:38:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and project management practices without a clear focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -116,24 +68,15 @@
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server without a focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:55:19",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and Team Foundation Server 2010, which are methodologies and tools related to project management rather than the core principles of DevOps. While there are mentions of project management practices, the discussion lacks depth in terms of DevOps philosophy, automation, collaboration, and shared accountability, which are central to the DevOps category.",
     "level": "Ignored"
   },
@@ -155,18 +98,6 @@
     "reasoning": "Content heavily discusses Scrum and project management with Team Foundation Server, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T13:04:53",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses the author's experience presenting at DDD Scotland, which is a clear event related to Agile and software engineering. It details the submission process for sessions, the content of the presentations, and the context of the event, aligning well with the category's focus on sharing insights and experiences from industry events. The depth of discussion is significant, as it includes personal anecdotes about preparation and the impact of the sessions, which enhances the overall relevance to the category.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:38:28",
@@ -175,18 +106,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, without a clear focus on flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T06:58:21",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the author's experiences with Scrum and Team Foundation Server, highlighting mentorship, collaboration, and the adaptation of processes in a team setting. It mentions the role of leadership in the form of mentorship from Adam Cogan and the importance of presenting and sharing knowledge within the community. However, while it touches on team dynamics and project management, it lacks a deeper exploration of the human factors influencing these processes, which slightly limits its alignment with the category.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -208,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:38:34",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a presentation on Scrum and Team Foundation Server, with no clear focus on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -253,15 +172,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:57:58",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Scrum and its application with Team Foundation Server, which relates to product delivery methodologies. However, it primarily focuses on personal experiences and presentations rather than providing in-depth insights into the end-to-end product delivery process. While Scrum is mentioned, the discussion lacks comprehensive coverage of key topics such as testing, deployment, or metrics, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -274,34 +193,22 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T00:38:43",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and project management practices, with no clear focus on Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T06:58:27",
-    "ai_confidence": 68.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses a presentation on 'Scrum with Team Foundation Server 2010', which directly relates to tools and methodologies in Agile practices. It mentions specific sessions and resources that aim to improve project management using TFS, aligning well with the category's focus on products and tools relevant to Agile and DevOps. However, while it provides some insights into the application of Scrum and TFS, it lacks a detailed review or analysis of the tools themselves, which slightly lowers the depth score.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T06:57:49",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a presentation on Scrum and Team Foundation Server, which is related to project management rather than directly addressing value delivery principles. While it mentions Scrum, it lacks a focused discussion on iterative development, customer value measurement, or strategies for aligning product development with customer needs. The depth of discussion is limited to the context of a presentation rather than a thorough exploration of value delivery methodologies.",
     "level": "Ignored"
   },
@@ -316,13 +223,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T06:58:09",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content includes personal experiences related to presenting at DDD Scotland and mentions the author's journey with Scrum and Team Foundation Server. However, the primary focus is on technical aspects of Scrum and TFS rather than personal reflections or insights. While there are personal anecdotes, they are secondary to the technical discussion, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -337,73 +244,61 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:38:52",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:55:29",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and its application with Team Foundation Server 2010, which aligns more with traditional project management practices rather than the Agile Product Operating Model. While it mentions agile practices, it does not delve into the core principles of APOM or discuss product management integration, limiting its relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T06:57:39",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and its implementation with Team Foundation Server, which aligns with Agile methodologies. However, it lacks a broader discussion on organisational agility principles, such as leadership roles, cultural shifts, or strategies for continuous improvement. The focus is more on project management rather than the adaptability and responsiveness of the organisation as a whole.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T06:58:13",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses a presentation on Scrum and Team Foundation Server 2010, which aligns with Agile methodologies. However, it primarily focuses on personal experiences and event participation rather than providing a comprehensive review or analysis of industry news or trends. While it mentions Scrum and its application, the depth of discussion on broader industry implications is limited.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:38:57",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, focusing on project management rather than the full application lifecycle.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a presentation about Scrum and Team Foundation Server, without a specific focus on the Daily Scrum event or its key elements.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and experience but doesn't focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -427,13 +322,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:55:34",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum and Team Foundation Server, which are related to project management and Agile practices rather than Continuous Delivery specifically. While there are mentions of improving project management and some principles of Scrum, the focus is not on Continuous Delivery practices, automation, or the specific benefits of delivering software in short cycles. The discussion lacks depth in Continuous Delivery concepts and does not provide substantial insights into its principles or practices.",
     "level": "Ignored"
   },
@@ -448,10 +343,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and project management using Team Foundation Server without a focus on Lead Time or its related metrics.",
     "level": "Ignored"
   },
@@ -466,19 +361,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a presentation and experiences with Scrum and Team Foundation Server, with no specific discussion of the Definition of Ready.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, focusing on team-level practices rather than portfolio management.",
     "level": "Ignored"
   },
@@ -493,15 +388,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T06:58:24",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Scrum in the context of project management with Team Foundation Server, which aligns with Agile Planning principles. However, it primarily focuses on the presentation aspect and personal experiences rather than providing in-depth discussions on Agile Planning methodologies or practices. The mention of Scrum and its application indicates some relevance, but the overall depth and focus on Agile Planning are moderate.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -523,27 +418,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:57:53",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Scrum and its application with Team Foundation Server, which relates to operational practices in Agile methodologies. However, it primarily focuses on personal experiences and presentations rather than providing detailed techniques or strategies for enhancing operational efficiency. The mention of 'Rules to better Scrum Using TFS' suggests some alignment with operational practices, but the overall depth and focus on practical application are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T15:09:56",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content mentions Scrum and discusses its application with Team Foundation Server, but it lacks a focused exploration of Scrum Team dynamics, roles, or collaboration techniques. While it references Scrum, it does not delve into the specific themes outlined in the category, such as team roles or communication strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -556,13 +451,13 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T06:58:18",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a personal experience related to presenting on Scrum and Team Foundation Server, with limited discussion on strategic alignment or optimisation of delivery processes. While it mentions Scrum, it does not delve into strategic approaches or the development of a value-driven strategy within Agile frameworks. The depth of discussion is more anecdotal than analytical, lacking a thorough exploration of strategic concepts.",
     "level": "Ignored"
   },
@@ -577,25 +472,25 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T06:58:11",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 62.0,
     "ai_mentions": 75.0,
     "ai_alignment": 55.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Scrum in the context of Team Foundation Server 2010, which is relevant to Agile practices. However, it primarily focuses on a specific tool rather than broader Agile transformation strategies. While it mentions Scrum and its application, it lacks a comprehensive exploration of Agile principles, frameworks, or change management strategies, which are crucial for a full Agile transformation discussion.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-15T06:58:02",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the author's experience of being mentored by Adam Cogan, which directly relates to the mentoring process. However, the primary focus of the content is on the author's presentations and the technical aspects of Scrum and Team Foundation Server, rather than on mentoring techniques or strategies. While there are mentions of mentoring, they are not the central theme, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -610,15 +505,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T06:58:29",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a presentation on Scrum and its application with Team Foundation Server, which relates to team performance in an Agile context. However, it primarily focuses on the author's experience and the presentation itself rather than providing in-depth strategies or methodologies for enhancing team dynamics or performance. The mention of 'Rules to better Scrum' suggests some alignment with team performance, but the overall depth and focus on specific team performance strategies are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -640,48 +535,36 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:40:26",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses Scrum methodology in the context of project management using Team Foundation Server (TFS), which is a software development tool. It explicitly mentions Scrum and its application in project management, aligning well with the core themes of software development practices. The depth of discussion includes personal experiences and insights into presenting on Scrum, indicating a strong engagement with the topic. Overall, the content is focused on software development methodologies, particularly Agile practices, which justifies a high confidence score.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T12:05:50",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Scrum in the context of Team Foundation Server 2010, highlighting its application in project management. It mentions Scrum roles and practices, which aligns well with agile principles. However, the focus is more on the presentation aspect rather than a deep exploration of agile methodologies, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Project Management using Team Foundation Server, rather than focusing on Agile Values and Principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T06:58:06",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content mentions Scrum in the context of a presentation and discusses its application with Team Foundation Server 2010. However, it lacks a detailed exploration of Scrum principles, roles, and practices. The focus is more on the author's experience and the event rather than a thorough examination of Scrum as outlined in the Scrum Guide.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -703,10 +586,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum implementation with Team Foundation Server and project management techniques; Scrum values are not the primary focus.",
     "level": "Ignored"
   },
@@ -764,18 +647,6 @@
     "reasoning": "Content heavily discusses Scrum methodology and project management with Team Foundation Server without any focus on customer satisfaction or related metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-03-15T06:57:51",
-    "ai_confidence": 42.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses Scrum in the context of Team Foundation Server 2010, which implies a focus on project management practices. However, it lacks explicit discussions on scaling Scrum principles or frameworks. While it mentions Scrum roles and practices, it does not delve into the complexities of scaling Scrum across multiple teams or organisational structures, which is essential for a higher confidence score in this category.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T01:18:08",
@@ -792,15 +663,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and project management tools without focus on psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and team-level usage of Team Foundation Server, without addressing scaling agility within organizations.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -850,15 +712,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:58:04",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a presentation on Scrum and Team Foundation Server, indicating a focus on practical applications of Scrum in project management. However, while it mentions Scrum and its implementation, the discussion lacks depth in terms of specific pragmatic strategies or techniques. The content primarily recounts personal experiences and events rather than providing a thorough exploration of pragmatic thinking principles in Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -871,32 +733,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum practices and project management tools rather than measuring or improving innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T06:57:44",
-    "ai_confidence": 68.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Scrum in the context of a presentation on project management using Team Foundation Server 2010. It mentions Scrum principles and practices, indicating a focus on Scrum methodologies. However, the primary emphasis is on the presentation and personal experiences rather than a detailed exploration of Scrum product development processes. While it aligns with the category, it lacks depth in discussing specific Scrum roles, sprint processes, or product backlog management.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum with a focus on Team Foundation Server 2010, but does not address scaling Agile practices or coordinating multiple teams.",
+    "reasoning": "Content primarily focuses on Scrum practices and project management tools rather than measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -937,15 +778,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:57:55",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Scrum and its application with Team Foundation Server, which relates to the delivery of functional software. However, it primarily focuses on the author's experiences and presentations rather than providing in-depth insights into working software principles or practices. While there are mentions of Scrum, the discussion lacks detailed exploration of software quality, customer feedback, or iterative development, which are crucial for the 'Working Software' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1030,10 +871,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on project management rather than release management processes.",
     "level": "Ignored"
   },
@@ -1048,10 +889,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum implementation with Team Foundation Server but does not focus on Cycle Time as a primary topic.",
     "level": "Ignored"
   },
@@ -1075,22 +916,22 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, focusing on project management rather than change management principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T06:58:00",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a presentation on Scrum and its application with Team Foundation Server, which relates to team collaboration in an Agile context. However, it primarily focuses on the author's experience and the presentation itself rather than providing in-depth strategies or techniques for improving team dynamics or collaboration. While it mentions Scrum and the importance of project management, it lacks detailed exploration of team communication, shared ownership, or psychological safety, which are key themes in the Team Collaboration category.",
     "level": "Secondary"
   },
@@ -1112,22 +953,13 @@
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, which are project management tools, but does not focus on digital transformation or the strategic adoption of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:18:08",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events but does not address Minimum Viable Products or related concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server, with no mention of AI's role in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1150,15 +982,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T06:57:37",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Scrum and the author's experience with Team Foundation Server, which relates to agile methodologies. However, it primarily focuses on personal experiences and presentations rather than providing in-depth discussions on technical leadership principles, mentoring, or team dynamics. The connection to technical leadership is present but not the primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1180,19 +1012,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:18:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server without addressing Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and project management with Team Foundation Server 2010, with no explicit mention of Test First Development principles or practices. While it touches on agile practices, it does not delve into success criteria, testing methodologies, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and Team Foundation Server 2010, rather than the Windows operating system.",
     "level": "Ignored"
   },
@@ -1216,10 +1051,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without a central focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1234,13 +1069,13 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T06:58:16",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the author's experience with mentoring and presenting at DDD Scotland, which aligns with the idea of sharing knowledge. However, it primarily focuses on the author's personal journey and specific events rather than exploring broader principles of Continuous Learning. The discussion lacks depth in terms of techniques for knowledge sharing, feedback loops, or creating a culture of experimentation, which are key aspects of the category.",
     "level": "Ignored"
   },
@@ -1264,15 +1099,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-15T06:57:47",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content mentions Scrum in the context of a presentation about project management with Team Foundation Server 2010. However, it lacks a direct focus on the role of the Scrum Master, their responsibilities, or specific practices related to Scrum ceremonies. While there are references to Scrum principles, the discussion is primarily about project management tools rather than the Scrum Master role itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions Scrum and discusses project management practices related to Scrum and Team Foundation Server 2010. However, it lacks a direct focus on the role and responsibilities of the Scrum Master, which is essential for a higher confidence score. The discussion is more about project management tools rather than the Scrum Master's influence or techniques in fostering team effectiveness.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1291,18 +1126,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and project management without focusing on working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-10T15:03:07",
-    "ai_confidence": 72.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 0,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the author's experience with Scrum and Team Foundation Server (TFS), which are relevant to software development practices. It mentions the integration of Scrum methodologies and the author's efforts to improve project management using TFS, aligning well with Agile principles. However, while it touches on important themes, the focus is more on personal experiences and presentations rather than a deep exploration of the role of software developers in Agile and DevOps contexts. Thus, while it is relevant, it does not fully meet the criteria for a primary focus on software developers.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1342,10 +1165,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T01:18:08",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum and Team Foundation Server, focusing on project management rather than the strategic alignment aspects of product management.",
     "level": "Ignored"
   },
@@ -1360,25 +1183,25 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T18:50:56",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses Scrum, a key Agile framework, and its application with Team Foundation Server 2010. It includes direct mentions of Scrum practices and principles, indicating a strong focus on Agile methodologies. The discussion aligns well with the core themes of Agile frameworks, particularly in terms of project management and team dynamics. However, while it provides some depth regarding the implementation of Scrum, it lacks extensive comparative analysis or case studies that would further enhance its alignment with the category.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T06:57:42",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a presentation on Scrum and Team Foundation Server, which focuses on technical practices rather than strategic alignment or broader Agile methodologies. While it mentions Scrum, it lacks a clear connection to Agile strategy concepts such as organisational vision alignment or continuous value delivery. The depth of discussion is moderate, but it does not provide substantial insights into Agile strategy implementation or leadership roles, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1427,15 +1250,6 @@
     "reasoning": "Content heavily discusses presentation experiences and Scrum implementation but does not focus on accountability within team dynamics or ownership.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:18:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Team Foundation Server, with no focus on Kanban principles or their scaling.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T01:18:08",
@@ -1456,13 +1270,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:42:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and Team Foundation Server 2010, which are technical tools rather than frameworks that promote collaboration and decision-making. While there are mentions of project management and Scrum practices, the discussion lacks depth in exploring the underlying social frameworks and methodologies that characterise social technologies. The content does not sufficiently address themes such as self-organisation, collective intelligence, or transparency, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1477,10 +1291,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:31:54",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and Team Foundation Server, which are not central to the concept of Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1495,62 +1309,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:50:45",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Scrum in the context of a presentation about project management with Team Foundation Server 2010. It mentions Scrum directly and references rules for better Scrum practices. However, the discussion lacks depth regarding Scrum principles, roles, and events, focusing more on the author's experience and the presentation context rather than a thorough exploration of Scrum itself.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:33:05",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Scrum and Team Foundation Server without any explicit mention or focus on the Shift-Left Strategy. While it touches on project management and Scrum practices, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:55:20",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and project management using Team Foundation Server 2010, with only brief references to improvement through mentoring and session presentations. While it touches on aspects of Agile practices, it lacks a comprehensive discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:55:25",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a personal experience related to presenting at a conference and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions Scrum and project management, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more anecdotal and does not delve into the significance or operationalisation of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:55:27",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the author's personal development and mentorship in the context of Scrum and project management, which aligns with the theme of competence. However, it lacks a detailed exploration of continuous learning or strategies for fostering a culture of competence. The focus is more on the author's experiences and presentations rather than a comprehensive discussion on competence as a foundational principle.",
+    "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and Team Foundation Server 2010, focusing on project management practices rather than the intentional shaping of outcomes through autonomy and adaptability. While it mentions Scrum, it does not delve into the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

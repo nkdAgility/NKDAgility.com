@@ -33,9 +33,8 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
-- People and Process
-- Organisational Agility
 - Sociotechnical Systems
+- Organisational Agility
 - Organisational Culture
 - Organisational Physics
 - Organisational Change

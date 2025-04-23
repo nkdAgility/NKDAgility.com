@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2019-05-25
-weight: 640
+weight: 600
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-master-advanced-psm-a-with-certification
@@ -40,17 +40,17 @@ delivery-audiences:
 - Lean Agile Practitioners
 tags:
 - Scrum Master
-- Coaching
-- Agile Project Management
-- People and Process
-- Professional Scrum
-- Scrum Team
 - Agile Frameworks
 - Agile Transformation
-- Events and Presentations
-- Products and Books
+- Coaching
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Team Performance
+- Pragmatic Thinking
 categories:
 - Scrum
+- Technical Leadership
 preview: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSMII-400x.png
 brandColour: 

@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:41:59",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges faced during the deployment stage of an application lifecycle, particularly focusing on installation documentation. However, it lacks explicit mentions of broader ALM concepts such as governance, compliance, or integration with Agile/DevOps principles. The discussion is primarily anecdotal and does not delve into best practices or tools that support ALM, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -22,10 +22,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T21:13:22",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to installation documentation and does not address enterprise agility principles or organisational responsiveness.",
     "level": "Ignored"
   },
@@ -40,10 +40,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:13:25",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges faced during application deployment and documentation issues, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -58,15 +58,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:41:57",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges faced during the installation of a complex application, highlighting issues with documentation and configuration files. While it touches on installation processes, the focus is more on frustrations and the inadequacies of the documentation rather than providing clear, actionable instructions or best practices. Therefore, it does not fully align with the core themes of the 'Install and Configuration' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -79,24 +79,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:21:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the challenges faced during an application deployment, focusing on the inadequacies of installation documentation. While it does not reference specific Agile, Scrum, DevOps, or Lean methodologies, it touches on general frustrations related to documentation practices in a deployment context. The discussion is anecdotal and lacks actionable insights, aligning with the Miscellaneous category. However, the depth of the discussion is significant, providing detailed personal experiences, which contributes to a higher confidence score.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:13:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and the difficulties faced during deployment, without addressing organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -105,15 +96,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to installation documentation and the difficulties faced during deployment, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:13:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of following poor documentation for application deployment, without focusing on specific tools, methodologies, or practical techniques related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -127,10 +109,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:13:38",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges with installation documentation and the difficulties faced during application deployment, without focusing on metrics, data analysis, or learning processes.",
     "level": "Ignored"
   },
@@ -163,40 +145,37 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:13:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges faced during application deployment and documentation issues, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of application deployment and the issues arising from poor documentation. It does not explicitly mention Evidence-Based Management or its key topics. While there is a focus on the difficulties faced during installation, it lacks any reference to data-informed decision-making or metrics that would align with EBM principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:13:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and does not address Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:13:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with installation documentation rather than providing industry news or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses challenges related to application deployment and documentation issues, which are not aligned with the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The focus is on installation difficulties rather than product delivery or agile methodologies.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:41:57",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses challenges related to application deployment and documentation, which are relevant to product delivery. However, it lacks a structured approach to methodologies or best practices, focusing instead on personal experiences and frustrations. While it touches on deployment issues, it does not provide a comprehensive discussion on the core themes of product delivery, such as planning, testing, or iterative development.",
     "level": "Ignored"
   },
@@ -216,42 +195,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to installation documentation and the difficulties faced during application deployment, without a clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:13:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:13:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and the impact of incomplete documentation on deployment, rather than focusing on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:13:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges faced during application deployment and documentation issues, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:13:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to documentation quality and the challenges faced during application deployment, rather than focusing on transparency and accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -292,13 +235,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T07:41:57",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a personal anecdote about the challenges faced during an application deployment, which aligns with the Personal category. However, it primarily focuses on technical issues and frustrations rather than deeper reflections on Agile, Scrum, or DevOps methodologies. The mention of documentation and the impact of tired developers hints at personal experiences but lacks a broader insight into Agile practices or team dynamics.",
     "level": "Ignored"
   },
@@ -322,11 +265,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:14:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and the difficulties faced during deployment, without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges related to application deployment, which is a component of the DevOps process. However, it primarily focuses on the issues of documentation and installation rather than the broader principles of DevOps such as collaboration, automation, or shared accountability. The mention of deployment is too vague and does not delve into the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -336,36 +282,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of installation documentation and the difficulties faced during deployment, without focusing on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T19:03:26",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the challenges faced by developers in producing documentation under pressure, highlighting the human factors involved in the process. However, while it touches on the impact of documentation quality on team performance and customer perception, it lacks a structured discussion on methodologies or team dynamics, which limits its depth and alignment with the category.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:14:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to installation documentation and the difficulties faced during deployment, without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges faced during application deployment and documentation issues, without focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,22 +304,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:16:11",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges faced during the installation of a complex enterprise solution, which touches on aspects of system configuration, such as installation documentation and configuration files. However, the focus is more on the frustrations of the installation process rather than a structured discussion of best practices or methodologies for system configuration. The direct mentions of configuration are limited, and while there is some alignment with the category's themes, the depth of discussion is minimal, primarily highlighting issues rather than providing solutions or strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T22:09:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to documentation and installation processes, with no clear focus on innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -432,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses challenges faced during application deployment and documentation issues, which are not related to the management of a portfolio of projects.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges faced during application deployment and documentation issues, with no clear connection to Scrum principles or product development practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -472,10 +379,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T22:09:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on challenges related to installation documentation and its quality, with no clear discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -508,20 +415,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T22:09:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges related to documentation and installation issues, without addressing the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges with application deployment and documentation issues rather than Agile scaling practices or coordination among multiple teams.",
+    "reasoning": "Content primarily discusses challenges related to documentation and installation issues, without addressing the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -587,24 +485,15 @@
     "reasoning": "Content discusses issues with application deployment and documentation, not collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges with installation documentation and vendor communication rather than the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:42:04",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges faced during the installation of an application, which touches on aspects of software deployment and documentation. However, it lacks a structured discussion on methodologies or best practices in software development. The focus is more on personal experiences and frustrations rather than on systematic software engineering principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -635,7 +524,7 @@
     "reasoning": "Content heavily discusses challenges in installation documentation and lacks focus on estimation techniques or processes within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T22:09:56",
     "ai_confidence": 0,
@@ -709,11 +598,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with installation documentation and challenges in deploying a complex application, without addressing principles or practices of Continuous Delivery.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses challenges related to application deployment, which is tangentially related to Continuous Delivery. However, it lacks explicit mentions of Continuous Delivery principles, automation, or strategies for improving software quality. The focus is primarily on documentation issues rather than the broader practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -761,15 +653,6 @@
     "reasoning": "Content primarily discusses challenges in application deployment and documentation issues without any mention of hypothesis formulation, experimentation, or data-driven decision-making related to product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses the challenges of following installation documentation for software deployment without any focus on AI or related methodologies.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-16T22:09:56",
@@ -799,10 +682,10 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T22:09:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on challenges related to installation documentation and the experience of deploying a complex application, rather than discussing deployment frequency or practices to optimize it.",
     "level": "Ignored"
   },
@@ -943,10 +826,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T22:09:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses difficulties encountered with incomplete application documentation and deployment challenges, rather than focusing on the readiness criteria for backlog items in Agile practices.",
     "level": "Ignored"
   },
@@ -986,15 +869,6 @@
     "reasoning": "Content discusses installation documentation challenges and lacks relevance to remote working or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the challenges of documentation and installation in a complex enterprise solution, without discussing Kanban principles or their application at scale.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T22:09:56",
@@ -1002,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of installation documentation and the complexity of deploying an application, which does not relate to strategies for customer retention.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to application deployment and documentation, with no clear connections to Agile Project Management principles or frameworks.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1123,15 +988,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:42:02",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses challenges faced during the installation of an application due to poor documentation, which hints at troubleshooting issues. However, it primarily focuses on frustrations rather than providing structured methodologies or solutions for diagnosing and resolving the problems. The mention of notes for the vendor indicates some level of troubleshooting, but the overall depth and focus on practical problem-solving techniques are lacking.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1153,10 +1018,10 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T22:09:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with installation documentation and challenges faced during an application deployment, but does not cover deployment methodologies or strategies in detail.",
     "level": "Ignored"
   },
@@ -1243,15 +1108,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T15:17:37",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical challenges faced during application deployment, highlighting the issues with poorly written documentation and the impact on the installation process. It reflects on real-world experiences and the difficulties of navigating complex environments, which aligns with the core themes of pragmatic thinking. However, while it touches on relevant topics, it lacks a structured approach to problem-solving strategies and does not delve deeply into Agile or DevOps principles, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1273,10 +1138,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-16T22:09:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges of application documentation and installation processes, with no mention or relevance to revenue per employee metrics, productivity analysis, or financial efficiency.",
     "level": "Ignored"
   },
@@ -1287,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses challenges related to installation documentation and communication issues, but does not focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses challenges related to application deployment and documentation, but does not address Scrum principles, scaling frameworks, or coordination among Scrum teams.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1334,22 +1190,16 @@
     "reasoning": "The content focuses on installation documentation challenges rather than Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges with installation documentation and does not address scaling agile practices or related themes.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to application deployment and documentation, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses challenges related to application deployment and documentation, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of navigating complex installations, it does not align with the core themes of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,22 +1222,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the challenges of installation documentation and does not address Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses challenges related to application deployment and documentation, with no explicit mention of Test First Development principles or practices. While it touches on the importance of clear documentation, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:56:56",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the challenges of application deployment and documentation issues, which are not directly related to social technologies. While it touches on the impact of poor documentation on collaboration, it lacks explicit discussions on self-organisation, collective intelligence, or value delivery. The depth of discussion is minimal, primarily recounting personal experiences without exploring broader themes relevant to social technologies.",
     "level": "Ignored"
   },
@@ -1420,26 +1273,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:41:57",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses challenges related to application deployment and documentation, with no explicit mention of Scrum principles, roles, or events. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is limited to personal experiences rather than a structured exploration of Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:47:38",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of installation documentation and the difficulties faced by developers, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on issues related to software deployment, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth and detail regarding the Shift-Left approach, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of application deployment and the issues arising from poor documentation. While it touches on the difficulties faced during the installation process, it does not explicitly mention or align with the concept of Common Goals within Agile or DevOps frameworks. The focus is on personal experiences and frustrations rather than on shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges related to application deployment and the impact of poor documentation, which indirectly touches on competence. However, it lacks explicit discussions on continuous learning, skill development, or strategies for fostering a culture of competence. The focus is more on the frustrations of installation rather than on the principles of professionalism and quality delivery associated with competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses challenges related to application deployment and documentation but does not explicitly mention Continuous Improvement principles. While it touches on the need for better documentation, it lacks a focus on systematic improvement processes or strategies for fostering a culture of learning and experimentation. The discussion is primarily anecdotal and does not provide depth on Continuous Improvement methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of application deployment and the issues arising from poor documentation. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The focus is on practical difficulties rather than the transformative capacity of individuals or systems, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

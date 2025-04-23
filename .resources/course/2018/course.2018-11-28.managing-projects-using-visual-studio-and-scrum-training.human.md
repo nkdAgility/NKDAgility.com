@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2018-11-28
-weight: 770
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: managing-projects-using-visual-studio-and-scrum-training
@@ -30,16 +30,14 @@ delivery-audiences:
 - Product Managers
 - Teams
 tags:
-- Agile Product Management
-- Agile Project Management
-- Scrum Product Development
-- Agile Planning
-- Software Development
 - Agile Frameworks
-- Events and Presentations
-- Practical Techniques and Tooling
+- Agile Planning
+- Agile Product Management
 - Product Delivery
-- Products and Books
+- Professional Scrum
+- Software Development
+- Team Collaboration
+- Working Software
 categories: []
 preview: 
 previewIcon: A-MPVS.png

@@ -9,7 +9,7 @@ ResourceImportId: 45309
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-21
-weight: 770
+weight: 750
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,16 +25,26 @@ aliasesArchive:
 - /product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
-- Experimentation
-- Discovery and Learning
-- Evidence Based Leadership
-- Evidence Based Management
-- Value Delivery
 - Agile Strategy
 - Business Agility
-- Decision Making
 - Continuous Improvement
+- Decision Making
+- Evidence Based Leadership
 - Organisational Agility
+- Hypothesis Driven Development
+- Evidence Based Management
+- Pragmatic Thinking
+- Experimentation
+- Value Delivery
+- Ability to Innovate
+- Agile Product Management
+- Common Goals
+- Enterprise Agility
+- Product Discovery
+- Agile Philosophy
+- Agile Product Operating Model
+- Agile Transformation
+- Empirical Process Control
 categories:
 - Product Management
 - Leadership

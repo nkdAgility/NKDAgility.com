@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T20:21:43",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to the installation of a specific application and does not address the management of the application lifecycle.",
     "level": "Ignored"
   },
@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T20:21:48",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to software installation and corporate IT policies, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,15 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T10:49:48",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 65.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses installation issues related to Windows Live Writer, including the challenges faced with bundled installers and the need for direct download links. It mentions specific installation experiences and troubleshooting efforts, which align with the category's focus on installation and configuration. However, the discussion lacks a structured guide or detailed best practices, which affects the depth of the content.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -83,15 +83,6 @@
     "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:21:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T20:21:58",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to software installation and organisational restrictions, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues with software installation and corporate IT policies, without focusing on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:22:02",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -157,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:22:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. There are no direct mentions of Evidence-Based Management principles, nor does it align with the core themes such as data-informed decision-making or metrics related to value delivery. The discussion lacks depth regarding any evidence-based practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:22:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:22:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and frustrations with installing Windows Live Writer, lacking a focus on industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on software installation issues rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM framework. The discussion is entirely centred on technical frustrations and does not align with the category's focus.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -193,10 +172,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T20:22:12",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -207,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to software installation and corporate IT infrastructure, with no clear focus on platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses issues related to software installation and corporate IT policies, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:22:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and frustrations with software bundling, without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses issues related to software installation and company policies, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -310,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to software installation and corporate IT policies, with no clear focus on DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on issues related to bundled software installations and corporate IT policies. It does not address any DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. Therefore, the content does not align with the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,36 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and frustrations with software bundling, lacking focus on engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:38:37",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses issues related to software installation in a workplace context, highlighting the impact of organisational policies on individual users. While it touches on human factors, such as the frustrations of employees and the role of the Infrastructure team, it lacks a structured discussion on team dynamics, leadership, or process methodologies. The focus is more on technical challenges and personal experiences rather than a comprehensive exploration of people and processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:22:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and frustrations with software, lacking a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:22:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses installation issues and frustrations with Windows Live Writer, rather than providing insights or reviews related to Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -376,22 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:38:37",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses issues related to the installation of Windows Live Writer and the challenges faced due to bundled applications, which touches on system configuration aspects. However, it primarily focuses on personal experiences and frustrations rather than providing a structured discussion on best practices or methodologies for system configuration. While there are mentions of installation issues and the need for specific configurations, the depth of technical discussion is limited, and the content does not explore broader themes of system optimisation or management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installation issues and frustrations with Windows Live Writer rather than discussing innovation practices or metrics.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses installation issues of a software application, which is unrelated to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installation issues and permissions related to Windows Live Writer, with no mention of Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to software installation and corporate policies, without any reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses issues with software installation and company policies, with no mention or relation to the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses issues related to software installation and company infrastructure, with no mention of Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content discusses issues with software installation and company policies, with no mention or relation to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +473,6 @@
     "reasoning": "Content discusses installation issues with Windows Live Writer and does not relate to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to installing a specific software application and does not address software developers' roles in Agile and DevOps practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T21:29:10",
@@ -620,7 +509,7 @@
     "reasoning": "Content is primarily about issues with software installation and company policies, with no relevance to estimation in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:29:10",
     "ai_confidence": 0,
@@ -694,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses issues related to software installation and administration, but does not mention Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on installation issues and frustrations with bundled software. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, incremental improvements, or rapid feedback, which are key topics of the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with software installation and user experiences, without focusing on hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses Windows Live Writer and installation issues, with no relevance to AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -874,10 +757,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to software and does not address team performance or collaboration.",
     "level": "Ignored"
   },
@@ -919,19 +802,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with software installation processes and troubleshooting, not team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on issues related to software installation and company policies, with no relevance to the Definition of Ready in Agile or backlog item readiness.",
     "level": "Ignored"
   },
@@ -971,15 +854,6 @@
     "reasoning": "Content discusses issues related to software installation and company policies, with no relevance to remote working or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to software installation and workplace restrictions, with no relevance to Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:29:10",
@@ -987,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses issues related to software installation and permissions but does not focus on customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to the installation of Windows Live Writer and does not address Agile Project Management or any relevant topics associated with it.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,13 +955,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T13:19:32",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 66.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses Windows Live Writer, which is a Windows application, and touches on installation issues related to it. However, the focus is more on the frustrations with the installation process and the implications of using a bundled installer rather than providing in-depth guidance or insights on Windows itself. While there are mentions of Windows and some relevant issues, the overall discussion lacks depth and does not comprehensively cover the key topics outlined for the Windows category.",
     "level": "Secondary"
   },
@@ -1111,13 +976,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T15:15:41",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses issues related to the installation of Windows Live Writer Beta 3, highlighting specific problems encountered due to bundled applications and restrictions in a corporate environment. It mentions troubleshooting efforts by the Infrastructure team, including various hypotheses about the cause of the installation failure. However, while it touches on troubleshooting, the focus is more on frustrations with the installation process rather than providing systematic methodologies or detailed insights into resolving technical issues. Therefore, while it aligns with the category, it does not do so comprehensively.",
     "level": "Secondary"
   },
@@ -1213,19 +1078,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on software installation issues and experiences related to Windows Live Writer, with no discussion on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues with software and does not relate to team dynamics or motivation in an agile context.",
     "level": "Ignored"
   },
@@ -1274,15 +1139,6 @@
     "reasoning": "Content primarily discusses installation issues related to software without any focus on asynchronous development principles, tools, or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses issues related to the installation of software and permissions in a corporate environment, which is unrelated to Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:29:10",
@@ -1319,30 +1175,24 @@
     "reasoning": "Content is primarily about technical issues related to software installation and is not related to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to software installation and corporate IT policies, with no reference to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to software installation and corporate restrictions, without any mention or relevance to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the challenges of installing software in a corporate environment and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or the responsibilities of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T21:29:10",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses installation issues and personal experiences with software, with no focus on automated testing principles or methodologies.",
     "level": "Ignored"
   },
@@ -1357,22 +1207,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related practices; it focuses on installation issues of Windows Live Writer.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses installation challenges of Windows Live Writer Beta 3 in a corporate environment, with no direct mention or alignment to Test First Development principles. It focuses on frustrations with bundled software installations and does not address any testing practices or success criteria related to software development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:55:16",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. While it touches on issues related to corporate IT processes, it does not explicitly address social technologies, collaboration, or decision-making frameworks. The discussion lacks depth and does not align with the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
@@ -1405,26 +1258,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:17:17",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It focuses on issues with software installation and corporate IT policies, which are unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:45:53",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses issues related to software installation and user experience with Windows Live Writer, with no mention of testing, security, or compliance processes. It does not align with the Shift-Left Strategy, which focuses on integrating these critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. It does not address any aspects of Common Goals, Agile, or DevOps principles. The discussion is centred around personal experiences and technical issues rather than shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses installation challenges and frustrations with software, which does not directly relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of team dynamics and problem-solving, these are not framed within the context of competence or skill development, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. While it touches on issues that could relate to process improvement, it does not explicitly mention Continuous Improvement principles or practices. The discussion lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or strategies for enhancing processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of installing Windows Live Writer Beta 3 in a corporate environment, focusing on frustrations with bundled software installations. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in shaping outcomes. The discussion is centred around technical issues and corporate policies, lacking any connection to the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

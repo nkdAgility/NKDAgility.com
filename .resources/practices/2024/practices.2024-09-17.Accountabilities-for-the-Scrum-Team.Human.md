@@ -23,9 +23,7 @@ card:
     content: Learn More
   content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
   title: Accountabilities for the Scrum Team
-categories:
-- Scrum
-- Social Technologies
+categories: []
 tags: []
 
 ---

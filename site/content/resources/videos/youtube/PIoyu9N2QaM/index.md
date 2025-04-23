@@ -2,7 +2,7 @@
 title: What is the difference between a newbie scrum master and a professional Scrum Master?
 description: "Discover the key differences between newbie and seasoned Scrum Masters with Agile Coach Martin. Elevate your Scrum skills and insights today! \U0001F31F\U0001F680"
 date: 2023-04-06T07:00:08Z
-weight: 720
+weight: 690
 ResourceId: PIoyu9N2QaM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -33,14 +33,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Project Management
 - Scrum Master
-- Competence
-- Scrum Team
-- Professional Scrum
 - Agile Frameworks
+- Scrum Team
 - Software Development
+- Professional Scrum
+- Competence
 resourceTypes:
 - video
 categories:

@@ -8,67 +8,28 @@
     "reasoning": "Content primarily discusses technical aspects of Team Foundation Server (TFS) and build configurations, which are not directly related to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:35:22",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed walkthrough of configuring the Team Build Controller in Team Foundation Server 2010, which directly relates to practical tooling in a DevOps context. It discusses specific steps and considerations for managing build configurations, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is substantial, covering various aspects of the configuration process, but it could benefit from more explicit connections to broader Agile or DevOps methodologies.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T06:52:28",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and Project Collections within Team Foundation Server (TFS), which relates to the management of internal development processes. However, it lacks a direct focus on broader platform engineering principles such as enhancing developer productivity or automation in the application lifecycle. The discussion is primarily technical and operational, with limited depth on the strategic aspects of platform engineering.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:53:06",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for managing Team Project Collections in TFS 2010, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:28:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration and management of Team Foundation Server (TFS) and its build controllers, which does not directly address code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:28:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to Team Foundation Server and build configurations, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:28:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Team Foundation Server (TFS) configuration and build management, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:04:11",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed step-by-step guide on changing the Team Project Collection of the Team Build Controller in TFS 2010. It explicitly discusses the configuration process, including the relationship between Team Build Controllers and Team Project Collections, and offers actionable instructions on how to alter settings within the Team Foundation Server Administration Console. The depth of discussion is significant, covering various aspects of the configuration process, which aligns well with the key topics of the 'Install and Configuration' category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:28:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Team Build Controllers in TFS 2010, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily discusses technical aspects of Team Foundation Server 2010 and build configurations without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:28:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical configurations of Team Foundation Server without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:52:54",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of configuring the Team Build Controller in TFS 2010, which is more aligned with specific tools and processes rather than the broader DevOps philosophy. While it touches on aspects of build management that could relate to DevOps practices, it lacks a discussion on collaboration, automation, or cultural shifts that are central to the DevOps ethos. The content does not explicitly mention DevOps principles, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -158,15 +101,6 @@
     "reasoning": "Content primarily discusses technical aspects of configuring Team Foundation Server and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:28:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details and configurations related to Team Foundation Server 2010, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:28:37",
@@ -174,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of Team Build Controllers and Project Collections in TFS 2010, without a focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:28:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Team Build Controllers and Project Collections in TFS 2010, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:28:43",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and management of Team Project Collections and Build Controllers in TFS 2010, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -223,15 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:52:26",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the configuration of Team Build Controllers in TFS 2010, which is a technical topic. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it touches on aspects of build management, it does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there is some relevance, the depth and alignment with the core themes are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,13 +178,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:52:32",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and Team Project Collections in TFS 2010, which relates to deployment and build management aspects of product delivery. However, it lacks a broader discussion on methodologies, practices, or strategies that encompass the entire product delivery process. The focus is primarily on technical setup rather than the overarching principles of delivering software products effectively.",
     "level": "Ignored"
   },
@@ -281,15 +206,6 @@
     "reasoning": "Content primarily discusses Team Foundation Server (TFS) configuration and build processes, which are not directly related to Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:28:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Team Foundation Server 2010, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T00:28:54",
@@ -301,13 +217,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T15:02:37",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the configuration of the Team Build Controller within Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed instructions on managing build configurations and the relationship between Team Project Collections and Build Controllers. While it does not explicitly mention Azure DevOps, it is closely related to its functionalities, particularly in the context of CI/CD practices. The depth of discussion is substantial, focusing on specific configurations and operational details, which aligns well with the category's themes.",
     "level": "Secondary"
   },
@@ -331,22 +247,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:29:04",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and management of Team Project Collections and Team Build Controllers in TFS 2010, which does not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:53:04",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of configuring Team Foundation Server (TFS) 2010 and managing Team Project Collections, which is more aligned with traditional project management practices rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the core themes of APOM. The discussion lacks depth in relation to agile methodologies and does not address the transition to a product-oriented mindset.",
     "level": "Ignored"
   },
@@ -359,26 +275,17 @@
     "reasoning": "Content primarily discusses the technical configuration of Team Foundation Server and its build controllers, without addressing organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions for configuring Team Foundation Server, lacking discussions on news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T18:50:27",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses specific aspects of managing build configurations within Team Foundation Server (TFS), which is relevant to the application lifecycle management process, particularly in the deployment and maintenance stages. However, it lacks a broader discussion on the overall lifecycle stages, best practices, or governance, which limits its depth and alignment with the core themes of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -391,24 +298,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Team Foundation Server setups and configurations, with no mention of Definition of Done criteria or Agile practices.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T18:11:02",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the technical aspects of configuring Team Build Controllers and Project Collections in TFS 2010. While it provides specific instructions and details about the setup process, it lacks broader discussions on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The technical details are relevant but do not deeply engage with the core themes of Technical Mastery, such as clean code, testing practices, or architectural principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -421,13 +328,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:53:09",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the configuration of the Team Build Controller in TFS 2010, which is related to build processes but does not explicitly address Continuous Delivery principles or practices. While it mentions aspects of build management, it lacks a focus on automation, rapid feedback, or cultural aspects of Continuous Delivery. The discussion is primarily technical and procedural, making it a secondary mention rather than a primary focus on Continuous Delivery.",
     "level": "Ignored"
   },
@@ -460,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and build configurations, without mentioning the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -514,22 +421,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:52:18",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and their relationship with Team Project Collections in TFS 2010. While it touches on operational aspects of managing builds, it lacks a broader discussion on operational efficiency or strategies for improvement within Agile or DevOps frameworks. The focus is more on specific technical configurations rather than overarching operational practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of Team Foundation Server 2010 configurations without relating to Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -589,10 +496,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of configuring the Team Build Controller and Build Service in Team Foundation Server 2010, and does not directly address team performance, collaboration, or agile practices.",
     "level": "Ignored"
   },
@@ -616,31 +523,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T06:52:21",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on configuring the Team Build Controller in Team Foundation Server 2010, which is a specific aspect of the software development lifecycle and continuous integration practices. It explicitly mentions the relationship between Team Project Collections and Build Controllers, aligning well with the core themes of software development methodologies and practices. The depth of the discussion is substantial, offering step-by-step instructions and considerations for managing builds, which enhances its relevance to the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and build configurations without a clear focus on Agile Project Management principles or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mostly focuses on technical aspects of Team Foundation Server 2010, specifically managing Team Project Collections and Build Controllers, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -655,22 +553,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T06:52:37",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the configuration of Team Build Controllers in Team Foundation Server (TFS) 2010, which relates to modern source control practices, particularly in the context of build management and continuous integration. It explicitly mentions the relationship between Team Project Collections and Build Controllers, which is relevant to version control systems. However, while it touches on important aspects of build configuration, it lacks a broader discussion on version control methodologies, branching strategies, or collaboration workflows, which limits its depth of discussion. Overall, the content aligns well with the category but does not provide extensive detail on the broader principles of modern source control.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the configuration of Team Build Controllers in TFS 2010 without focus on empirical process control principles such as transparency, inspection, or adaptation in Agile practices.",
     "level": "Ignored"
   },
@@ -703,10 +601,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical configuration of Team Foundation Server (TFS) build processes, which is unrelated to the principles and practices of organisational change.",
     "level": "Ignored"
   },
@@ -737,15 +635,6 @@
     "reasoning": "Content heavily discusses technical implementation details of Team Foundation Server and build configurations without any reference to customer satisfaction or experiences.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses configurations and management of Team Project Collections and Build Controllers in TFS 2010, with no mention of Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:54:24",
@@ -764,33 +653,24 @@
     "reasoning": "Content heavily discusses technical details related to Team Foundation Server (TFS) and build configurations, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details related to Team Foundation Server and build configurations, with no clear relevance to scaling agility practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:52:16",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical aspects of configuring Team Build Controllers in TFS 2010, which is more focused on operational procedures rather than broader engineering excellence principles. While it touches on aspects of build configuration, it lacks a strong emphasis on best practices, quality assurance, or continuous improvement, which are central to the category of Engineering Excellence.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring Team Foundation Server build controllers and project collections, with no mention of revenue metrics, employee productivity, or related financial topics.",
     "level": "Ignored"
   },
@@ -823,15 +703,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T06:52:30",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical steps for configuring Team Build Controllers in TFS 2010, which aligns with pragmatic problem-solving in a DevOps context. However, it lacks a broader discussion on Agile or Scrum principles and does not delve deeply into the complexities of project management or decision-making processes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -844,29 +724,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and configuration of Team Foundation Server 2010, with no clear focus on innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the configuration of Team Foundation Server and build processes, which are not directly related to Scrum principles and practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the configuration of Build Controllers in Team Foundation Server 2010, which is not directly related to Scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -907,15 +769,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:52:34",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the configuration of Team Build Controllers and Project Collections in TFS 2010, which is more focused on technical setup rather than the delivery of functional software. While it touches on aspects of build management, it lacks a direct emphasis on working software principles, customer value, or iterative development, which are central to the 'Working Software' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -928,15 +790,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-11T12:05:23",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and Project Collections within Team Foundation Server (TFS), which is related to Continuous Integration practices. However, it primarily focuses on the technical setup rather than broader CI principles or best practices. While it mentions build processes, it lacks depth in discussing CI's impact on collaboration, automated testing, or integration with other practices like Continuous Delivery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1003,15 +865,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:52:39",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and their relationship with Team Project Collections in TFS 2010, which is relevant to release management practices. However, it lacks a broader discussion on release strategies, risk management, or CI/CD practices, making it more of a technical guide than a comprehensive exploration of release management.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1033,13 +895,13 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-11T16:59:58",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and Team Project Collections in the context of Team Foundation Server (TFS) 2010, which is related to Azure Pipelines. However, it primarily focuses on TFS rather than Azure Pipelines specifically. While it touches on build processes, it lacks depth in CI/CD practices and does not mention Azure Pipelines directly, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1054,19 +916,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses configuration and management of Team Foundation Server (TFS) build controllers, with no focus on change management principles, strategies, or the cultural aspects of navigating organizational change.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configurations related to Team Foundation Server (TFS) and build controllers, with no clear focus on team dynamics or collaboration in Agile, Scrum, or DevOps contexts.",
     "level": "Ignored"
   },
@@ -1088,7 +950,7 @@
     "reasoning": "Content primarily discusses technical aspects of configuring build controllers and project collections in Team Foundation Server, without a clear focus on digital transformation strategies or technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:54:24",
     "ai_confidence": 0,
@@ -1097,26 +959,17 @@
     "reasoning": "Content focuses on configuring Team Foundation Server and build controllers, which is not related to Minimum Viable Products.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on the Team Foundation Server 2010 and its build configurations, which does not involve discussions about AI in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:40:05",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the configuration of Team Project Collections and Team Build Controllers within Team Foundation Server 2010. It discusses the one-to-one relationship between Team Build Controllers and Team Project Collections, detailing the steps required to reconfigure the Build Controller and manage builds effectively. This aligns well with the key topics of system configuration, such as configuration management tools and techniques, and troubleshooting common configuration issues. The depth of discussion is substantial, providing specific instructions and considerations for optimal performance, which further supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1156,22 +1009,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuration and management of Team Foundation Server builds and does not address Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the configuration of Team Project Collections and Build Controllers in TFS 2010, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and does not provide any depth on related topics.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:52:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) 2010, which operates within the Windows environment. While it does not explicitly mention Windows, it focuses on configuration and management tasks relevant to TFS, which is a Microsoft product. The discussion aligns with the category's themes of configuration and troubleshooting, but lacks depth in terms of broader Windows operating system topics. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Secondary"
   },
@@ -1195,19 +1051,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical details and configuration of Team Foundation Server, with no mention of team dynamics, motivation, or engagement strategies.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Team Foundation Server configuration and build management without discussing remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1222,13 +1078,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T15:09:34",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and the issues that arise when managing multiple Team Project Collections in TFS 2010. It provides insights into the relationship between Team Build Controllers and Team Project Collections, which is relevant to troubleshooting integration issues. However, while it touches on problem resolution, it lacks a comprehensive exploration of troubleshooting techniques or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1243,11 +1099,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configuration of Team Foundation Server (TFS) and build processes, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of Team Foundation Server (TFS) and build configurations, with no direct mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The content is strictly technical and does not address any aspects of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1261,24 +1120,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T00:54:24",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring Team Foundation Server for build processes and does not discuss working agreements or team norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:52:44",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the configuration of Team Build Controllers in Team Foundation Server (TFS) 2010, which is relevant to software developers working within Agile and DevOps frameworks. It touches on the relationship between Team Project Collections and Build Controllers, which is a technical aspect of software development and deployment. However, it lacks a broader discussion on Agile methodologies or DevOps principles, focusing instead on specific technical configurations. This results in a moderate confidence score, as it is relevant but not comprehensive in addressing the role of software developers in Agile and DevOps contexts.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1291,15 +1138,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:52:46",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses the configuration of Team Build Controllers and Project Collections in Team Foundation Server (TFS) 2010. While it touches on aspects of build management, which is related to Continuous Integration (CI), it lacks a direct focus on broader engineering practices such as clean code, TDD, or automation principles. The discussion is more technical and operational rather than aligned with the core themes of Agile engineering practices, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1357,10 +1204,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T06:52:16",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "Content primarily discusses Team Foundation Server (TFS) and build configuration, which is indirectly related to Azure Repos, but does not primarily focus on Azure Repos functionalities or features.",
     "level": "Ignored"
   },
@@ -1400,24 +1247,15 @@
     "reasoning": "Content is primarily focused on technical details of Team Foundation Server 2010 build configurations, with no mention of accountability principles or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuration and management of Team Foundation Server (TFS) build processes, with no clear alignment to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T06:52:41",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and their relationship with Team Project Collections, which indirectly touches on throughput by mentioning server load and the need for multiple servers to manage builds. However, it lacks a direct focus on measuring or optimising throughput, and does not provide detailed strategies or metrics related to work completion rates.",
     "level": "Ignored"
   },
@@ -1432,13 +1270,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:42:07",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of configuring Team Foundation Server (TFS) and managing build controllers, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on project management, it does not align with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is limited to technical instructions, lacking any exploration of the underlying social frameworks.",
     "level": "Ignored"
   },
@@ -1453,10 +1291,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:31:27",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the configuration of Team Build Controllers and Project Collections within Team Foundation Server, which relates to the management of build processes in a controlled environment, a key aspect of Internal Developer Platforms. However, the primary focus is on TFS specifics rather than a broader discussion of IDPs.",
     "level": "Tertiary"
   },
@@ -1471,62 +1309,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:52:16",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its build controller configurations, which are not directly related to Scrum principles, roles, or practices. While it touches on project management aspects, it does not mention Scrum roles, events, or artifacts, nor does it align with the core themes of Scrum. The focus is on technical setup rather than Scrum methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:32:42",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and its build controller, without any explicit mention of the Shift-Left Strategy or its principles. While it touches on build processes, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:52:57",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for configuring the Team Build Controller in TFS 2010, with no explicit discussion of Continuous Improvement principles. While it touches on project management and build efficiency, it lacks a commitment to ongoing reflection, adaptation, or empirical evidence, which are core to Continuous Improvement. The content does not foster a culture of experimentation or learning, nor does it provide strategies for integrating Continuous Improvement into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:52:59",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for configuring the Team Build Controller in TFS 2010, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management aspects, it lacks a connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:53:02",
+    "calculated_at": "2025-04-10T15:55:57",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for configuring Team Foundation Server (TFS) and does not explicitly discuss competence or its importance in Agile or DevOps contexts. While it touches on aspects of project management and build processes, it lacks a direct connection to continuous learning, skill development, or fostering a culture of competence. The discussion is more about operational procedures than about the principles of professionalism and quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring Team Project Collections and Build Controllers in TFS 2010. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

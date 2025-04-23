@@ -2,7 +2,7 @@
 title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics'
 description: Discover how to transform your agile environment by addressing systemic issues rather than individual behaviours. Learn to foster adaptability and innovation today!
 date: 2023-09-29T07:00:14Z
-weight: 700
+weight: 665
 ResourceId: LxM_F_JJLeg
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,22 @@ preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
 tags:
-- Personal
-- People and Process
 - Agile Philosophy
+- Personal
 - Organisational Physics
-- Agile Project Management
-- Organisational Culture
 - Agile Transformation
+- Organisational Culture
 - Systems Thinking
-- Software Developers
+- Organisational Agility
+- Pragmatic Thinking
+- Sociotechnical Systems
 - Agile Values and Principles
+- Change Management
+- Coaching
+- Continuous Improvement
+- Operational Practices
+- Social Technologies
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +49,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, Scrum Master, or product owner.

@@ -26,24 +26,6 @@
     "reasoning": "Content primarily discusses the concept of 'fake agilists' and their impact on teams, rather than focusing on leadership practices or strategies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:52:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of fake agilists without reference to specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:52:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of fake agilists and their impact on teams, without addressing discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "calculated_at": "2025-02-17T15:52:10",
@@ -53,15 +35,6 @@
     "reasoning": "Content primarily discusses the concept of fake agilists and their impact on teams, which is not directly related to engineering practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T15:52:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of fake agilists and their impact on agile practices, without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
     "calculated_at": "2025-02-17T15:52:13",
@@ -69,15 +42,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'fake agilists' and does not focus on strategic aspects of product management.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:52:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'fake agilists' and their impact on Agile practices, but lacks a focus on news, updates, or reviews relevant to Agile methodologies.",
     "level": "Ignored"
   },
   "Personal": {
@@ -91,13 +55,13 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-14T21:10:39",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the concept of 'fake agilists' in a somewhat anecdotal manner, which aligns with the Miscellaneous category. However, it does reference Agile principles and critiques a specific aspect of Agile practice, which detracts from its classification as purely Miscellaneous. The discussion lacks depth and actionable insights, focusing instead on personal opinion without a clear connection to established Agile frameworks.",
     "level": "Ignored"
   },
@@ -110,41 +74,29 @@
     "reasoning": "Content primarily discusses the concept of 'fake agilists' and does not focus on engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-14T21:10:39",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content briefly mentions the concept of 'fake agilists' and their impact on teams, which touches on human behaviour in Agile environments. However, it lacks a detailed exploration of team dynamics, leadership, or structured methodologies, resulting in a low confidence score. The discussion is more focused on criticism rather than constructive insights into processes or collaboration.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T18:28:17",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Agile methodologies and the issues surrounding fake agilists, which is not directly related to DevOps. While there are mentions of continuous improvement and collaboration, which are relevant to DevOps, the focus remains on Agile practices rather than the integration of people, processes, and technology that characterises DevOps. The depth of discussion on DevOps principles is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:01:59",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the impact of fake agilists on Agile methodologies, touching on themes of trust, collaboration, and continuous improvement, which are relevant to social technologies. However, it primarily focuses on the dangers posed by individuals lacking genuine expertise rather than providing a comprehensive exploration of social technologies themselves. While it mentions fostering a culture of learning and open dialogue, these points are not deeply elaborated upon, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -166,23 +118,26 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T18:28:35",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the dangers of fake agilists within Agile methodologies, focusing on leadership and team dynamics rather than Continuous Delivery principles. While it touches on continuous improvement, it does not explicitly address Continuous Delivery practices, automation, or deployment strategies, which are central to the category. The discussion lacks depth in terms of Continuous Delivery specifics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on criticisms of fake agilists and does not discuss Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:23:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists in Agile methodologies, focusing on leadership, trust, and continuous improvement rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -196,10 +151,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to fake agilists and their impact on teams, without any focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -259,28 +214,19 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'fake agilists' and critiques individuals lacking genuine understanding of Agile practices, without central focus on leadership roles or practices within Agile contexts.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the concept of 'fake agilists' and their impact on teams, which does not align closely with core agile practices or methodologies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on discrediting fake agilists and does not discuss cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
@@ -295,11 +241,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses fake agilists and their impact on teams, lacking any reference to Lead Time or its related concepts.",
+    "calculated_at": "2025-04-11T08:44:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists and their impact on Agile methodologies, focusing on leadership, trust, and continuous improvement. While it touches on the importance of delivering value to customers, it does not explicitly mention Lead Time or provide any techniques for measuring it, nor does it discuss its relationship with other metrics. The discussion is more about the quality of Agile leadership rather than the efficiency of processes or delivery timelines, which are central to the concept of Lead Time.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -336,15 +285,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the concept of 'fake agilists' and does not engage with coaching practices or support development within teams.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to fake agility and certifications in the Agile context, with no reference to Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -390,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the issue of fake agilists and not the validation of product ideas.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of fake agilists and their negative impact on teams, with little relevance to organisational resilience or change management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -448,19 +379,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the issue of fake agilists and their impact on software teams, but does not focus on team collaboration techniques, shared ownership, or Agile dynamics.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'fake agilists' and does not focus on metrics, data, learning, or Agile practices in a measurable way.",
     "level": "Ignored"
   },
@@ -545,15 +476,6 @@
     "reasoning": "Content primarily discusses the concept of fake agilists and their impact on software teams, which does not relate to product strategy.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on 'fake agilists' and their impact on team interactions rather than discussing scaling agility practices, frameworks, or organizational strategies.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
     "calculated_at": "2025-02-17T23:35:58",
@@ -572,31 +494,13 @@
     "reasoning": "Content heavily discusses Agile practices and the critique of individuals claiming to be Agile experts, which does not focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on the concept of fake agilists and does not address AI or automation within Agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the issues with individuals misrepresenting their knowledge of Agile, rather than focusing on Scrum Team dynamics or roles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of fake agilists and critiques their qualifications, rather than focusing on practical techniques or tooling associated with Agile or DevOps.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -610,12 +514,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general themes of Agile and criticisms of Agile practitioners but does not specifically focus on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies, which indirectly relates to the role of a Scrum Master. However, it does not explicitly focus on the responsibilities or impact of a Scrum Master, nor does it delve into specific Scrum practices or techniques. The primary emphasis is on the broader Agile context rather than the Scrum Master role itself.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -624,15 +531,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses individuals misrepresenting their qualifications in agile practices, focusing on team-level issues rather than broader organizational agility.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses fake agilists and their qualifications, which does not focus on specific products or literature related to Agile methodologies.",
     "level": "Ignored"
   },
   "Sprint Review": {
@@ -671,15 +569,6 @@
     "reasoning": "Content heavily discusses Agile concepts and critiques fake agilists without any reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of 'fake agilists' rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T23:35:58",
@@ -705,15 +594,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses fake agilists and agile methodologies, without any mention of version control practices or source control systems.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the concept of 'fake agilists' but does not address scaled Agile practices, frameworks, or enterprise-level discussions.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -752,7 +632,7 @@
     "reasoning": "Content focuses on criticizing individuals claiming to be agile experts without possessing the appropriate skills or knowledge, rather than discussing technical leadership principles or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:35:58",
     "ai_confidence": 0,
@@ -772,20 +652,11 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of 'fake agilists' without addressing key topics of Agile Product Management or providing insights into Agile practices or methodologies relevant to product management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the issue of fake agilists and does not address scaling Scrum practices or related topics.",
+    "reasoning": "Content primarily discusses the concept of 'fake agilists' without addressing key topics of Agile Product Management or providing insights into Agile practices or methodologies relevant to product management.",
     "level": "Ignored"
   },
   "Organisational Physics": {
@@ -799,11 +670,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:44:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of 'fake agilists' and their impact on teams, but does not address throughput or its measurement and optimisation directly.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies. While it touches on themes of continuous improvement and delivering value, it does not explicitly mention throughput as a metric or discuss its calculation, visualisation, or analysis. The focus is more on leadership and culture rather than on throughput as a delivery metric, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -826,10 +700,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of fake agilists and does not focus on the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -844,20 +718,11 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the issue of fake agilists rather than discussing Agile Planning Tools or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses the concept of 'fake agilists' but does not focus on Scrum principles, practices, or product development.",
+    "reasoning": "Content focuses on the issue of fake agilists rather than discussing Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Self Organisation": {
@@ -880,10 +745,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses fake agilists and their impact on teams, with no clear connection to the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -916,22 +781,22 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the existence of fake agilists and their impact on teams, rather than focusing on team motivation strategies or dynamics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T18:28:33",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies. While it touches on Agile principles and the need for effective leadership, it does not specifically address the Agile Product Operating Model or its core themes. The focus is more on the pitfalls of misapplied Agile practices rather than on product management or the operational model itself.",
     "level": "Ignored"
   },
@@ -955,10 +820,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of fake agilists without focusing on the delivery or characteristics of working software.",
     "level": "Ignored"
   },
@@ -1000,22 +865,22 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses fake agilists and their qualifications, rather than delving into the principles and values of Agile philosophy.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T21:10:39",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile and critiques individuals claiming to be Agile practitioners without proper understanding. However, it lacks a detailed discussion on Agile methodologies or software development practices, focusing instead on a negative portrayal of certain individuals. This results in a low confidence score as the primary focus is not on software development techniques or methodologies.",
     "level": "Ignored"
   },
@@ -1039,10 +904,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'fake agilists' rather than team performance, collaboration, or specific practices related to Agile or Scrum principles.",
     "level": "Ignored"
   },
@@ -1057,10 +922,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of fake agilists and does not address the Definition of Done.",
     "level": "Ignored"
   },
@@ -1071,15 +936,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile roles and criticizes fake agilists, with no mention of Continuous Integration.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of fake agilists and does not mention AI or its integration within Agile methodologies or software development.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1093,10 +949,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concept of 'fake agilists' and does not focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1109,24 +965,15 @@
     "reasoning": "Content primarily discusses the concept of 'fake agilists' and their qualifications, focusing on the authenticity of Agile practice rather than methodologies or frameworks for organizational change.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily critiques individuals who misrepresent their understanding of Agile rather than discussing the role of software developers within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T18:28:39",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies. While it touches on the need to focus on outcomes and delivering value, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in terms of empirical decision-making or metrics that would align with EBM principles.",
     "level": "Ignored"
   },
@@ -1141,10 +988,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of fake agilists and their impact on teams, rather than focusing on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -1159,11 +1006,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:35:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:44:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and issues with certification, rather than focusing on system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the impact of fake agilists on team dynamics, which is not related to system configuration. There are no direct mentions of system configuration topics such as configuration management tools, system optimisation, or integration of hardware and software. The discussion is focused on leadership and team culture rather than the technical aspects of system setup or maintenance, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1186,10 +1036,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on identifying and criticizing individuals who falsely claim to be Agile experts, without discussing any Agile frameworks or their principles.",
     "level": "Ignored"
   },
@@ -1285,19 +1135,19 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on criticizing individuals who misrepresent themselves as Agile experts rather than discussing Agile transformation strategies or methodologies.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:58",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses issues with individuals misrepresenting Agile expertise, without discussing strategic alignment or Agile methodologies in a broader context.",
     "level": "Ignored"
   },
@@ -1402,63 +1252,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T21:10:39",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions 'agile' and critiques individuals claiming to be agile experts, but it does not specifically discuss Scrum principles, roles, events, or practices. The focus is more on the concept of 'fake agilists' rather than on Scrum itself, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:53:04",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the dangers of 'fake agilists' and the importance of genuine expertise in Agile practices. While it touches on themes of leadership and team dynamics, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on Agile methodology rather than integrating testing, security, or compliance earlier in the development process, which is central to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T18:28:20",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of genuine expertise in Agile practices and highlights the dangers posed by fake agilists, which can hinder continuous improvement. It mentions fostering a culture of learning and prioritising experience, aligning with the principles of Continuous Improvement. However, while it touches on these themes, the primary focus is on the negative impact of fake agilists rather than a comprehensive exploration of Continuous Improvement itself.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T18:28:23",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies, but it does not explicitly address Common Goals or their significance in aligning strategy with execution. While it touches on themes of trust, collaboration, and continuous improvement, which are relevant to Agile, it lacks a direct focus on shared objectives or the operationalisation of Common Goals. The discussion is more about the pitfalls of poor leadership in Agile rather than the alignment of team efforts with overarching strategic objectives.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T18:28:25",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of genuine expertise and continuous learning in Agile methodologies, directly addressing the concept of competence. It highlights the negative impact of fake agilists on trust and growth within teams, aligning well with the core themes of competence. The depth of discussion is substantial, providing personal experiences and actionable strategies to combat the issue, which reinforces the focus on competence in Agile environments.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1471,5 +1321,173 @@
     "final_score": 12.0,
     "reasoning": "The content primarily discusses the challenges posed by 'fake agilists' within Agile methodologies, focusing on leadership and team dynamics rather than the principles or components of the One Engineering System. While it touches on aspects of Agile practices, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The discussion is more about personal experiences and opinions rather than a structured analysis of a unified engineering system.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the dangers of fake agilists and the importance of genuine expertise in Agile practices. While it touches on themes of leadership and the need for adaptability, it does not explicitly address Agentic Agility or its principles. The focus is primarily on the negative impact of misaligned Agile practices rather than on intentional shaping of outcomes through autonomy and adaptability. Therefore, while there are some relevant points, the overall alignment with the category is limited.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T08:44:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of genuine expertise in Agile methodologies, which is a core aspect of product development. It highlights the negative impact of fake agilists on team dynamics and product delivery, aligning well with the principles of Agile product development and continuous improvement. The depth of discussion is substantial, providing personal experiences and actionable strategies to combat the issue, thus reinforcing the relevance to product development. However, while it touches on key topics, it does not delve deeply into specific methodologies or practices, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T08:44:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the dangers of 'fake agilists' and the importance of genuine expertise in Agile methodologies. While it touches on themes of trust, collaboration, and continuous improvement, which are relevant to Agile, it does not specifically address Open Space Agile principles or practices. The focus is more on traditional Agile challenges rather than the collaborative and emergent nature of Open Space Agile. Therefore, the confidence score reflects a low direct mention of the category, moderate conceptual alignment, and a somewhat detailed discussion of Agile principles, but lacking specific relevance to Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T08:44:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the dangers of 'fake agilists' and emphasises the importance of genuine expertise and experience in Agile practices, which aligns with the principles of Agnostic Agile. However, it primarily focuses on the negative impact of certifications and does not delve deeply into the core themes of Agnostic Agile, such as the application of its principles or comparisons with traditional frameworks. The mention of delivering value aligns with Agnostic Agile's emphasis on value delivery, but the overall discussion lacks depth in exploring the broader philosophy of Agnostic Agile.",
+    "level": "Tertiary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T08:44:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the issue of 'fake agilists' and their impact on Agile practices, focusing on leadership and team dynamics rather than the complexities of scaling Agile methodologies across multiple teams. While it touches on the importance of genuine expertise and continuous improvement, it does not delve into frameworks, strategies, or metrics related to scaling, which are essential for this category. Therefore, the confidence score reflects a low alignment with the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T08:44:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges posed by 'fake agilists' within Agile methodologies, focusing on leadership, trust, and continuous improvement. It does not directly mention or align with the principles of Cell Structure Design, which emphasises decentralised, autonomous units and the Beta Codex. The discussion is more about traditional Agile practices rather than the specific organisational design model of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T08:44:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of 'fake agilists' within Agile methodologies, focusing on leadership, trust, and continuous improvement. While it touches on themes relevant to Agile practices, it does not mention or align with the specific facilitation techniques or principles of Liberating Structures. The discussion lacks direct references to any Liberating Structures methods or their applications, resulting in a low confidence score for this category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T08:44:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists and their impact on Agile practices, rather than focusing on Time to Market. While there are mentions of delivering value and fostering a culture of continuous improvement, these concepts are not explored in the context of Time to Market metrics or strategies. The discussion lacks depth regarding how to measure or improve Time to Market, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T08:44:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the dangers of 'fake agilists' within Agile methodologies, focusing on leadership and team dynamics rather than the broader organisational strategy of treating a company as a product. While it touches on themes of continuous improvement and delivering customer value, it does not explicitly mention or align with the core principles of Company as a Product. The discussion lacks depth in exploring organisational design or customer-centric strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T08:44:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the issues surrounding 'fake agilists' without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's core themes such as version control, collaboration features, or CI/CD pipelines. The depth of discussion is focused on personal experiences and opinions regarding Agile practices rather than GitHub-specific practices or tools.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T08:44:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists and their impact on Agile methodologies, which does not directly address the concept of Unrealised Value. While there are mentions of continuous improvement and fostering a culture of learning, these are not explored in the context of identifying or measuring untapped opportunities or potential value. The focus is more on the negative consequences of poor leadership rather than on unrealised value as a concept within Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T08:44:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the dangers of fake agilists and the importance of genuine expertise in Agile methodologies. While it touches on the need to focus on delivering value to customers, it does not explicitly define or measure Current Value as outlined in the category description. The discussion lacks depth in terms of metrics or techniques for assessing Current Value, and the overall focus is more on leadership and team dynamics rather than on real-time assessment of value delivered by a product or service.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T08:44:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the dangers of 'fake agilists' and the importance of genuine expertise in Agile methodologies, which indirectly touches on the challenges of superficial Agile adoption. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile practices. The focus is more on the negative impact of poorly qualified Agile leaders rather than the specific pitfalls of Hybrid Agile frameworks. Therefore, while there is some conceptual alignment, the lack of direct mention and depth in discussing Hybrid Agile leads to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T08:44:37",
+    "ai_confidence": 52.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content primarily discusses the challenges posed by 'fake agilists' within Agile methodologies, which is a specific aspect of project management. While it touches on the importance of genuine expertise and continuous improvement, it lacks a broader discussion of core project management principles, methodologies, and lifecycle phases. The focus is more on Agile practices rather than project management as a whole, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

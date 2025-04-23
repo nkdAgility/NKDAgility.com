@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:12:02",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with only brief mentions of Agile and Scrum. While it touches on teamwork and efficiency, it lacks a detailed discussion on self-organisation, collaboration, or value delivery, which are core themes of Social Technologies. The depth of discussion is moderate, but it does not sufficiently explore the social frameworks or methodologies that promote collaboration and decision-making.",
     "level": "Ignored"
   },
@@ -22,22 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:46:18",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on project management, discussing its history and evolution without any direct reference to DevOps principles or practices. While it mentions Agile and Scrum, these are methodologies that do not inherently align with the core themes of DevOps, such as collaboration, automation, and shared accountability. The lack of depth in discussing DevOps concepts further supports a low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T23:40:20",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management, its history, and tools, without a clear focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -52,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the history and principles of project management, which does not align with the specific principles and practices of business agility.",
     "level": "Ignored"
   },
@@ -70,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on general project management principles and historical tools, with only a brief mention of Agile and Scrum courses at the end.",
     "level": "Ignored"
   },
@@ -98,24 +98,6 @@
     "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with a brief mention of Agile and Scrum. However, it lacks explicit discussions on Evidence-Based Management principles, empirical decision-making, or metrics related to value delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses project management concepts and does not address software code or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the history and evolution of project management, specifically discussing Gantt charts and general project management principles, with no mention of Kanban or its application in scaling across organizations.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-18T07:25:21",
@@ -127,10 +109,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the history and evolution of project management without a focused exploration of Agile frameworks. While it briefly mentions Agile and Scrum courses, the main discussion is about project management as a whole, not specifically Agile methodologies.",
     "level": "Ignored"
   },
@@ -145,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the history and evolution of project management, with no direct discussion on Definition of Ready.",
     "level": "Ignored"
   },
@@ -161,21 +143,12 @@
     "reasoning": "Content focuses on the historical origins and evolution of project management, without discussing trends in Agile, DevOps, or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses project management, its history, and tools, without any focus on scaling Agile practices or coordination among multiple Agile teams.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management concepts and tools without any focus on test automation.",
     "level": "Ignored"
   },
@@ -217,10 +190,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the historical context and evolution of project management, rather than specific collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -242,15 +215,6 @@
     "reasoning": "Content primarily discusses the historical evolution of project management and its tools, rather than focusing on the methodologies and practices involved in product delivery.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses general project management practices and history without any mention of AI.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-18T07:25:21",
@@ -260,34 +224,13 @@
     "reasoning": "Content primarily discusses the history and principles of project management, with no clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T00:06:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content provides a historical overview of project management tools and techniques, primarily focusing on their development and application rather than the interplay between human behaviour and structured methodologies. While it briefly touches on the role of people in project management, it lacks a detailed discussion on team dynamics, leadership, or communication strategies, which are central to the 'People and Process' category.",
-    "level": "Ignored"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on project management, its history, tools, and practices, without any mention of Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses general project management principles, historical origins, and traditional tools like the Gantt chart, with minimal focus on agile methodologies.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -308,21 +251,12 @@
     "reasoning": "Content heavily discusses the history and evolution of project management tools, with no focus on accountability or Agile concepts.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the history and tools of project management without addressing transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Project Management, its history, and tools but does not focus on Release Management practices or processes.",
     "level": "Ignored"
   },
@@ -355,37 +289,40 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the history and general principles of project management, without specific emphasis on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses general project management concepts without reference to the Scrum Master role or related responsibilities.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on project management as a whole, with only a brief mention of Scrum in the context of Agile courses. It does not delve into the specific responsibilities or impact of a Scrum Master, nor does it discuss the core themes related to the role. The discussion lacks depth and detail regarding the Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the history and general principles of traditional project management, with no clear emphasis on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management history and tools, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -400,11 +337,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses project management and its history, with no mention of Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on project management, its history, and tools like Gantt charts, with no direct mention or discussion of Test First Development principles or practices. It does not align with the core themes of Test First Development, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -418,10 +358,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the history and principles of project management without focusing on Cycle Time or its relevance in Agile and DevOps.",
     "level": "Ignored"
   },
@@ -463,68 +403,47 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the history and fundamentals of Project Management without discussing innovation capabilities or related topics.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content predominantly discusses traditional project management practices and their historical context, with only a brief mention of Agile and Scrum courses at the end. It does not focus on Agile transformation principles or methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management principles and history, without focusing on Agile engineering practices or methodologies.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on project management techniques, historical developments, and the Gantt chart, without central discussions on Lean principles such as waste reduction or value maximisation.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the history and evolution of project management, with no focus on Scrum Values.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the history and evolution of project management, focusing on tools and techniques without clear emphasis on resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T00:06:49",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content provides a brief historical overview of project management tools and techniques, mentioning the Gantt chart as an example. However, it lacks a direct focus on Agile or DevOps practices, methodologies, or specific tools relevant to the category. The discussion is more general and does not delve into practical applications or contemporary methodologies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -554,15 +473,6 @@
     "reasoning": "Content primarily focuses on the history and principles of project management, lacking personal reflection or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on the history and principles of project management, with no significant discussion about specific events, presentations, or the Agile/DevOps themes outlined.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-18T07:25:21",
@@ -583,20 +493,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on the historical and general principles of project management rather than on Scrum Team dynamics or specific roles within a Scrum framework.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the history and evolution of project management rather than strategies or practices for scaling agility across organizations.",
+    "reasoning": "The content focuses primarily on the historical and general principles of project management rather than on Scrum Team dynamics or specific roles within a Scrum framework.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -619,13 +520,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:46:34",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on project management, discussing its historical context and evolution without any direct mention of Continuous Delivery principles or practices. While it briefly touches on Agile and Scrum, these are not explored in relation to Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -649,10 +550,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses project management concepts and historical context without focusing on change management principles or practices.",
     "level": "Ignored"
   },
@@ -667,14 +568,14 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the history and principles of project management, without any specific mention or discussion of the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:25:21",
     "ai_confidence": 0,
@@ -692,15 +593,6 @@
     "reasoning": "Content focuses entirely on project management concepts and history, with no relation to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses project management history and principles without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T07:25:21",
@@ -712,13 +604,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:46:32",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on traditional project management principles and historical context, with only brief mentions of agile and scrum. It does not delve into the Agile Product Operating Model or its core themes, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
@@ -787,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the historical development and modernisation of project management, without a focus on metrics, data utilisation, or learning principles.",
     "level": "Ignored"
   },
@@ -821,15 +713,6 @@
     "reasoning": "The content primarily discusses the history and principles of project management rather than mentoring or coaching practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses project management history and practices without any significant mention of AI or automation in Agile methodologies.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T07:25:21",
@@ -850,28 +733,28 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the history and evolution of project management rather than on operational practices or methodologies related to Agile, DevOps, or Lean frameworks.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the history and development of project management without focusing on Agile principles or philosophy.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T07:25:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the history and evolution of project management, with no focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -913,10 +796,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the history and principles of project management, which does not align directly with portfolio management practices.",
     "level": "Ignored"
   },
@@ -931,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses general project management concepts and historical development, without a clear focus on Agile Product Management principles.",
     "level": "Ignored"
   },
@@ -949,20 +832,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Project Management without any reference to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Project Management in general with no specific focus on Scrum or its scaling practices.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -972,15 +846,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the history and evolution of project management tools and techniques without discussing the interplay between technology and organizational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on the historical context and characteristics of project management, without discussing specific literature, tools, or software related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1012,11 +877,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:03:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the history and evolution of project management and does not address Lead Time or its relevance to Agile or DevOps practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical context and evolution of project management, with no direct mention of Lead Time or its significance as an observability metric. While it touches on project management tools and techniques, it does not align with the core themes of Lead Time, such as measuring efficiency or optimising workflows. The discussion lacks depth regarding Lead Time, making it clear that this category is not a primary focus of the content.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1127,15 +995,6 @@
     "reasoning": "Content primarily discusses project management history and tools rather than cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the history and principles of project management, with no central focus on software developers, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-18T07:25:22",
@@ -1156,10 +1015,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the history and principles of project management rather than installation or configuration topics.",
     "level": "Ignored"
   },
@@ -1170,15 +1029,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the history and evolution of Project Management, without any clear focus on the Product Owner role or its responsibilities.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the history and principles of project management, but does not focus on recent developments, industry news, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1201,10 +1051,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management, its history, and principles, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -1219,10 +1069,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the history and evolution of project management, without discussing Agile leadership roles or principles.",
     "level": "Ignored"
   },
@@ -1255,11 +1105,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:03:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the history and evolution of project management rather than discussing throughput in Agile or DevOps contexts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical context and evolution of project management rather than discussing throughput as a delivery metric. While it mentions tools like Gantt charts, it does not explicitly define or calculate throughput, nor does it analyse or visualise it in any meaningful way. The discussion lacks depth regarding throughput and does not align with the key topics outlined for the category, such as inspecting system constraints or empirical forecasting. Overall, throughput is not a primary focus of the content.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1273,11 +1126,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:03:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses project management concepts and historical evolution rather than system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on project management, its history, and methodologies like Agile and Scrum, which are not directly related to system configuration. There are no explicit mentions of system configuration topics, and the discussion lacks depth in any relevant areas such as configuration management tools or system optimisation. Overall, the content does not align with the core themes of system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1298,15 +1154,6 @@
     "reasoning": "Content heavily discusses project management practices and historical context rather than customer needs and product feature definition.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about project management as a general concept, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-18T07:25:22",
@@ -1318,19 +1165,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about project management history and tools, with no mention of Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:25:22",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the historical development and modernization of project management without emphasizing Agile strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1399,74 +1246,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:23:47",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses general project management concepts without any specific reference to Scrum principles, roles, events, or practices. It lacks direct mentions of Scrum and does not align with the core themes of the Scrum framework, such as iterative progress or team dynamics. The depth of discussion is minimal, focusing instead on historical context rather than Scrum-specific methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:03:27",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the historical context and evolution of project management, with no direct mention or discussion of the Shift-Left Strategy. It does not address integrating testing, security, or compliance early in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The content is more aligned with general project management concepts rather than the specific themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:46:20",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with only a brief mention of Agile and Scrum. It does not explicitly discuss Continuous Improvement principles or provide depth on related strategies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:46:23",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the history and evolution of project management rather than discussing Common Goals within Agile and DevOps frameworks. While it briefly mentions Agile and Scrum, these references are not central to the discussion and do not explore the alignment of strategy with execution or shared objectives. The content lacks depth in addressing the significance of Common Goals, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:46:25",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the historical evolution and tools of project management rather than discussing competence in Agile or DevOps contexts. While it briefly mentions Agile and Scrum, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion lacks depth and does not provide substantial insights into fostering a culture of competence or inspecting and adapting competence over time.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:46:29",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on project management as a discipline, discussing its historical evolution and tools like the Gantt chart. It does not mention the One Engineering System or its principles, nor does it align with the core themes of integration and standardisation of engineering processes. The discussion is superficial and lacks depth regarding 1ES.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with no explicit discussion of Agentic Agility or its principles. While it mentions Agile and Scrum, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:02:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on project management rather than product development. While it briefly mentions Agile and Scrum, which are relevant to product development methodologies, the overall discussion lacks a direct focus on the iterative processes, customer feedback, and continuous improvement that characterise product development. The historical context and tools like the Gantt chart are more aligned with project management practices than with the principles of product development. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:02:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on traditional project management methodologies and their historical evolution, with no direct mention of Open Space Agile or its principles. While it briefly touches on Agile and Scrum, these are not explored in the context of Open Space Agile, which emphasises collective participation and psychological safety. The discussion lacks depth regarding the core themes of Open Space Agile, such as co-creation, emergence, or iterative dialogue.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:03:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with only a brief mention of Agile and Scrum in the context of courses offered. There is no substantial discussion of Agnostic Agile principles, nor does it explore the ethical or contextual aspects of agility. The content lacks depth in addressing the core themes of Agnostic Agile, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:03:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical evolution and general principles of project management, with no direct mention of scaling methodologies or frameworks. While it briefly touches on Agile and Scrum, these are not explored in the context of scaling or cross-team collaboration, which are essential to the category. The discussion lacks depth and does not address the complexities or strategies involved in scaling Agile practices, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:03:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on project management, its historical evolution, and tools like the Gantt chart. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is also minimal regarding the specific characteristics or functions of autonomous cells, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:03:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the history and evolution of project management, with no direct mention of Liberating Structures or their principles. While it touches on Agile and Scrum, it does not discuss facilitation techniques or group dynamics related to Liberating Structures, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:03:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical evolution and general principles of project management without explicitly discussing Time to Market or its associated metrics. While it mentions the importance of modernisation in project management, it does not delve into how this impacts the speed of delivering value to customers, which is central to the Time to Market category. The discussion lacks depth in terms of strategies or metrics related to Time to Market, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:03:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical evolution and principles of project management, particularly in relation to traditional practices and tools like the Gantt chart. It does not explicitly discuss the concept of 'Company as a Product' or its core themes, such as customer-centric strategies or organisational design. While there is a brief mention of modernisation, it lacks depth and does not align with the principles of CaaP, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:03:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on project management as a general concept, discussing its history and evolution without any direct mention of GitHub or its functionalities. While it briefly touches on Agile and Scrum, these topics are not specifically tied to GitHub services or practices. The lack of direct references to GitHub and the overall focus on project management principles lead to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:03:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the historical evolution and tools of project management, with no direct mention of Unrealised Value or its relevance to Evidence-Based Management. While it touches on the importance of modernisation in project management, it does not explore indicators, strategies, or case studies related to untapped opportunities or potential improvements, which are central to the concept of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:03:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the historical evolution and general principles of project management, with no direct mention of Current Value or its relevance in Evidence-Based Management. While it touches on the importance of project management in a modern context, it lacks specific metrics, indicators, or techniques related to Current Value assessment. The discussion does not align with the core themes of Current Value, nor does it provide any practical application or measurement related to it.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:03:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the historical evolution and general principles of project management, with a brief mention of Agile and Scrum courses at the end. There are no direct discussions or critical examinations of Hybrid Agile, nor does it address the challenges or implications of merging traditional methodologies with agile practices. The content lacks depth and does not align with the core themes of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:03:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content provides a brief overview of project management, touching on its historical origins and the significance of tools like the Gantt chart. However, while it mentions project management and its evolution, the discussion lacks depth in core project management principles and methodologies. The focus on Agile and Scrum at the end suggests a secondary emphasis on specific methodologies rather than a comprehensive exploration of project management as a whole. Therefore, while the content is relevant, it does not fully meet the criteria for a primary focus on project management.",
+    "level": "Secondary"
   }
 }

@@ -1,77 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T06:05:06",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Agile practices in the context of Application Lifecycle Management (ALM) and highlights the importance of Agile methodologies for delivering high-quality software. However, it primarily focuses on ALM rather than directly addressing Agile Product Management principles. While there are mentions of Agile practices and their benefits, the depth of discussion on specific Agile Product Management topics, such as the role of the Product Owner or backlog prioritisation, is minimal.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T06:04:45",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses ALM (Application Lifecycle Management) and its relevance to Agile practices, touching on the importance of tools and methodologies in software delivery. However, it lacks specific examples of tools or detailed methodologies, focusing more on general observations and opinions about Agile and ALM rather than practical techniques or tooling. The discussion is somewhat relevant but does not provide in-depth insights or case studies that would strengthen its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T20:56:04",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:25:59",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices, with only brief references to data and metrics. While it touches on the importance of quality and adaptability in software development, it lacks a focused discussion on Evidence-Based Management principles, such as empirical decision-making or current value metrics. The mention of data collection regarding interest in ALM does not sufficiently align with the core themes of EBM, leading to a low confidence score.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:56:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies, with little focus on the interplay between software code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T06:04:40",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of Agile practices and the evolution of Application Lifecycle Management (ALM) in relation to software development. While it touches on the need for continuous delivery and adapting to stakeholder feedback, which aligns with the themes of discovery and learning, the primary focus is on ALM and Agile methodologies rather than explicitly exploring the processes of learning or innovation. The discussion lacks depth in terms of specific methodologies or frameworks that foster a culture of learning, resulting in a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:56:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies without a clear focus on AI or automation technologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,76 +43,58 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:56:16",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Application Lifecycle Management (ALM) and its relevance to Agile practices, rather than focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:56:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses ALM and Agile methodologies without a clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-07T15:22:47",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile methodologies and their importance in software development, particularly in relation to ALM (Application Lifecycle Management). It highlights the need for adaptability in software delivery and the consequences of not adopting Agile practices. However, while it touches on relevant themes, the primary focus is more on ALM and Agile practices rather than explicitly on market adaptability strategies. The depth of discussion on market adaptability is limited, as it does not provide extensive strategies or case studies directly related to enhancing responsiveness to market shifts.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T06:04:52",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of ALM (Application Lifecycle Management) and its relationship with software delivery, touching on organisational structures and the need for quality in software development. However, while it mentions aspects of organisational culture and the differences in ALM practices between large and small companies, it lacks a focused exploration of the interplay between social and technical systems. The discussion is more centred on technical practices and tools rather than a comprehensive analysis of sociotechnical interactions, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and the need for organisations to adapt to changing environments, which aligns with the theme of resilience and change, but it primarily focuses on ALM and software development practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:25:46",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) and its relationship with Agile practices, which are relevant to DevOps principles. However, it primarily focuses on ALM rather than explicitly addressing DevOps as a philosophy. While there are mentions of continuous delivery and quality in software development, the depth of discussion on core DevOps themes such as collaboration, automation, and shared accountability is limited. Therefore, while there is some alignment with DevOps concepts, it does not serve as a primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-15T06:04:55",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) and its relevance to software development practices, touching on Agile methodologies. However, it primarily focuses on personal opinions and experiences rather than providing actionable insights or aligning with specific Agile frameworks. While it does mention Agile practices, the overall discussion is more anecdotal and lacks depth in terms of established Agile principles, leading to a low confidence score for the Miscellaneous category.",
     "level": "Ignored"
   },
@@ -167,15 +107,6 @@
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies, with no clear focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:56:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Application Lifecycle Management (ALM) and its implications in software development, without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:56:31",
@@ -185,51 +116,39 @@
     "reasoning": "Content primarily discusses ALM and Agile practices without a clear focus on optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T12:57:29",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of Agile methodologies and the role of human behaviour in software development processes, particularly in relation to ALM (Application Lifecycle Management). It highlights the differences in how large and small organisations approach ALM, emphasising the need for quality and adaptability in software delivery. The author also touches on team dynamics and the cultural shifts required for Agile adoption, which aligns well with the category's focus on people and processes. However, while the content is rich in insights about Agile practices, it does not delve deeply into specific team dynamics or leadership roles, which slightly limits its depth of discussion.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-15T06:04:47",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, touching on the need for organisations to adapt and improve. However, it primarily focuses on ALM (Application Lifecycle Management) and team-level practices rather than broader organisational agility. While there are mentions of large organisations and their struggles with agility, the discussion lacks depth in terms of frameworks, leadership roles, or organisational structures that support enterprise agility.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-10T14:57:12",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, which aligns with the principles of business agility. However, it primarily focuses on Application Lifecycle Management (ALM) rather than directly addressing broader business agility concepts. While it mentions the need for adaptability and quality in software delivery, it does not delve deeply into the organisational strategies or leadership roles that are crucial for fostering business agility.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-15T06:05:20",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile and ALM (Application Lifecycle Management) but does not focus on metrics or learning in a structured way. While it touches on the importance of Agile practices and mentions the need for quality software, it lacks explicit discussions on metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. The depth of discussion is moderate, but it does not provide substantial evidence-based insights or methodologies related to metrics and learning.",
     "level": "Ignored"
   },
@@ -244,13 +163,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:04:38",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 55.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) and its importance in the context of software delivery, touching on aspects like quality, continuous delivery, and Agile practices. However, while it mentions Agile and the need for quality in software, it primarily focuses on the broader concept of ALM rather than delving deeply into specific engineering practices or methodologies that enhance technical excellence. The discussion lacks a strong emphasis on TDD, CI/CD, or modular architecture, which are key topics under the Technical Excellence category.",
     "level": "Tertiary"
   },
@@ -274,55 +193,43 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T18:45:26",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) in relation to software delivery, highlighting the need for continuous delivery and quality assurance. It touches on Agile methodologies and the differences in ALM practices between large and small organisations, which aligns with product delivery principles. However, the discussion is somewhat broad and lacks detailed exploration of specific product delivery methodologies or practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-15T20:56:46",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T20:56:47",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, without a clear focus on Value Stream Management principles or techniques.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T06:05:04",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses ALM (Application Lifecycle Management) and its relevance to Agile practices, but it primarily focuses on personal opinions and experiences rather than specific products or books. While there are mentions of tools and methodologies, the depth of discussion on specific products or literature is minimal, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T06:04:57",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the importance of Agile practices and continuous delivery in the context of Application Lifecycle Management (ALM). It highlights the need for quality software delivery and the alignment of development with customer needs, which are relevant to value delivery. However, the focus is more on ALM and Agile methodologies rather than explicitly on value delivery strategies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -337,10 +244,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content includes personal insights and reflections on ALM and Agile practices, but it primarily focuses on technical discussions rather than personal experiences.",
     "level": "Tertiary"
   },
@@ -355,55 +262,46 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T20:56:56",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:25:57",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, but it primarily focuses on Application Lifecycle Management (ALM) rather than the Agile Product Operating Model specifically. While there are mentions of Agile methodologies, the discussion does not delve deeply into the principles or frameworks of the Agile Product Operating Model, nor does it address the transition from project to product ethos or the integration of Scrum and product management practices. Therefore, the content aligns with the category only in a limited capacity.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T10:35:42",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile methodologies and their importance in software development, highlighting the need for adaptability and responsiveness in organisations. It mentions the differences in ALM practices between large and small companies, which aligns with the theme of organisational agility. However, the focus is more on software development practices rather than a comprehensive exploration of organisational agility as a whole, leading to a moderate confidence score.",
     "level": "Secondary"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses ALM and Agile practices, touching on industry trends and observations, but lacks a clear focus on specific news or reviews.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T12:00:42",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses ALM extensively, addressing its importance in the software development lifecycle and contrasting it with traditional SDLC approaches. It highlights the need for continuous delivery and quality in software, which aligns well with the core themes of Application Lifecycle Management. The author provides insights into the differences in ALM practices between large and small organisations, and mentions Agile methodologies, which are relevant to ALM. However, while the content is rich in discussion, it lacks a structured exploration of specific tools or metrics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -418,22 +316,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses ALM (Application Lifecycle Management) and its relationship with Agile methodologies, but does not address the Definition of Done or its relevance directly.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:05:09",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) and Agile practices in software development, highlighting the need for quality, testing, and continuous delivery. It aligns well with the principles of software craftsmanship and engineering excellence, particularly in the context of Agile methodologies. However, while it touches on relevant topics, it does not delve deeply into specific best practices or technical tools, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -448,13 +346,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:26:02",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) and its relationship to Agile practices, touching on the importance of delivering high-quality software and the need for continuous delivery. However, while it mentions continuous delivery as a goal, the primary focus is on ALM and Agile methodologies rather than a detailed exploration of Continuous Delivery principles, practices, or tools. The discussion lacks depth in specific Continuous Delivery strategies and does not provide substantial examples or case studies related to Continuous Delivery.",
     "level": "Secondary"
   },
@@ -469,10 +367,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not mention Lead Time or its importance; it focuses on ALM and Agile practices without discussing the measurement of time taken for delivery.",
     "level": "Ignored"
   },
@@ -487,19 +385,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses ALM and software development practices without mentioning the Definition of Ready or its criteria for backlog item readiness.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) practices, software development methodologies, and Agile practices, without a clear focus on portfolio management or strategic alignment of projects.",
     "level": "Ignored"
   },
@@ -514,45 +412,45 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T06:05:27",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, particularly in relation to ALM (Application Lifecycle Management). While it touches on Agile principles and the need for adaptability, it primarily focuses on ALM rather than Agile Planning specifically. The discussion lacks detailed exploration of Agile Planning methodologies, techniques, or best practices, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Application Lifecycle Management (ALM) and Agile practices, not on Value Stream Mapping or related Lean methodologies.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on ALM, software development methodologies, and Agile practices without directly discussing customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:05:18",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) and its importance in the context of Agile practices, touching on operational efficiency and the need for quality in software delivery. However, it primarily focuses on the theoretical aspects of ALM rather than providing specific techniques or strategies for operational improvement. While there are mentions of Agile practices and the need for quality, the depth of discussion on operational practices is limited, making it a secondary focus rather than a primary one.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -565,24 +463,24 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile practices and their importance in delivering high-quality software. It emphasizes the contrast between Agile and waterfall methods, as well as the necessity for organizations to adopt Agile principles to remain competitive. However, the primary focus is on ALM (Application Lifecycle Management) rather than broader Agile philosophy concepts.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T06:05:36",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile practices and the importance of ALM in delivering high-quality software, which aligns with strategic approaches in Agile environments. However, it lacks a focused discussion on strategic alignment or specific techniques for optimising delivery processes, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -595,10 +493,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile practices and their necessity in delivering high-quality software, indicating a significant interest in Agile transformation, but it primarily focuses on ALM (Application Lifecycle Management) rather than directly addressing Agile transformation strategies or methodologies.",
     "level": "Tertiary"
   },
@@ -613,10 +511,10 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Application Lifecycle Management (ALM) and Agile practices, without a clear discussion on automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
@@ -640,46 +538,34 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices, without a specific focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T18:06:47",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses Application Lifecycle Management (ALM) and its relationship with the Software Development Life Cycle (SDLC), highlighting the importance of Agile methodologies and continuous delivery. It addresses best practices in software development, such as the need for quality assurance and the role of Agile in modern software engineering. The depth of discussion on these topics indicates a strong alignment with the Software Development category, making it a primary focus rather than a secondary mention.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T06:05:40",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 30,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Agile practices and their importance in software development, particularly in relation to ALM (Application Lifecycle Management). It mentions the inadequacies of traditional methodologies like waterfall and advocates for agile methods, indicating a conceptual alignment with Agile Project Management. However, the primary focus is on ALM rather than a deep exploration of agile methodologies themselves, which limits the depth of discussion. Overall, while agile principles are referenced, the content does not delve into specific frameworks or practices in detail.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T06:05:34",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 67.0,
     "ai_mentions": 60.0,
     "ai_alignment": 70.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Agile practices and their importance in delivering high-quality software, which aligns with Agile values such as customer collaboration and responding to change. However, it primarily focuses on ALM rather than explicitly detailing Agile values and principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -694,22 +580,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content mostly discusses Application Lifecycle Management (ALM) and Agile practices rather than focusing on source control systems or version control practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T06:05:32",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile practices and the importance of adapting to feedback, which aligns with empirical process control principles. However, it primarily focuses on ALM rather than directly addressing empirical process control, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -733,19 +619,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and agile practices without a central focus on collaboration tools for Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T06:04:33",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
-    "final_score": 19.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses Agile practices and their adoption within companies but primarily concentrates on software development methodologies rather than organisational change strategies.",
     "level": "Ignored"
   },
@@ -760,32 +646,23 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T06:05:44",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of Agile practices and continuous delivery, which are relevant to frequent releases. However, it primarily focuses on ALM and the differences in practices between large and small organisations, rather than providing a detailed exploration of frequent release strategies or metrics. The mention of continuous delivery is present but not a primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, without focusing on customer satisfaction or related metrics.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content discusses ALM and Agile practices in general, but it does not specifically address Scaling Scrum principles, frameworks, or related challenges.",
+    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, without focusing on customer satisfaction or related metrics.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -806,24 +683,15 @@
     "reasoning": "Content focuses on ALM (Application Lifecycle Management) and Agile practices in software development, with no clear discussion or emphasis on the concept of psychological safety in teams.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-15T06:04:33",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Agile practices in the context of software development and mentions differences in Agile methodologies between small and large organizations, but does not primarily focus on scaling agility or organizational-level strategies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:22:42",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 85.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) and its role in ensuring high-quality software delivery, which aligns with the principles of software craftsmanship and quality assurance. It highlights the need for continuous delivery and the management of technical debt, which are key aspects of engineering excellence. The author also emphasises the necessity of adopting Agile practices to improve software quality, indicating a strong alignment with best practices in coding standards and development methodologies. However, while the content is rich in relevant themes, it does not delve deeply into specific metrics or measurements for assessing engineering performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -847,34 +715,34 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-15T06:05:42",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile Lifecycle Management (ALM) and its importance in software development, touching on organisational dynamics and the need for quality in software delivery. However, it primarily focuses on software practices rather than a comprehensive exploration of systems thinking or organisational behaviour. While there are mentions of organisational size and the impact of Agile practices, the depth of discussion on systems thinking principles and their application in organisational contexts is limited.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices without focusing on customer retention strategies or user engagement.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T16:55:26",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of ALM (Application Lifecycle Management) in relation to Agile practices, highlighting practical problem-solving strategies and the need for adaptability in software delivery. It addresses real-world applications of Agile principles and the necessity of quality in software development. However, while it touches on pragmatic thinking, the focus is more on ALM and Agile rather than a deep exploration of pragmatic thinking itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -889,32 +757,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T06:04:42",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile practices and the importance of adapting to stakeholder feedback, which relates to innovation. However, it primarily focuses on ALM and Agile methodologies rather than directly addressing the measurement and improvement of innovation capabilities. The mention of continuous delivery and quality software hints at innovation but lacks depth in discussing frameworks, metrics, or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly discusses Application Lifecycle Management (ALM) and general Agile practices, without a clear, focused discussion on Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and does not focus on scaling Agile methodologies across multiple teams or enterprises.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -955,31 +805,31 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:05:23",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of ALM (Application Lifecycle Management) in relation to software delivery and quality, which aligns with the principles of working software. It mentions the need for continuous delivery and the significance of Agile practices in ensuring high-quality software. However, while it touches on relevant themes, the primary focus is more on ALM as a concept rather than directly on working software itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses ALM in a broad sense without a specific focus on Agile Planning Tools or methodologies that directly relate to Agile planning and execution.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, with little focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -994,10 +844,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and technical practices within software development, without a focus on leadership roles or Agile leadership principles.",
     "level": "Ignored"
   },
@@ -1012,28 +862,28 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, with no central focus on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ALM and Agile methodologies without a focus on hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T06:04:33",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses ALM and Agile practices but does not focus primarily on decision-making methodologies or structured, evidence-based decisions. It touches on some related concepts, such as the implications of ALM on software delivery and quality, but lacks a central theme of decision-making processes.",
     "level": "Ignored"
   },
@@ -1048,13 +898,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:04:59",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) and its importance in the context of software delivery, touching on aspects like continuous delivery and quality assurance. However, it primarily focuses on Agile methodologies and the differences in ALM practices between large and small organisations, rather than providing a detailed exploration of release management processes. While there are relevant themes, the discussion lacks a concentrated focus on the specific strategies and practices of release management, leading to a moderate confidence score.",
     "level": "Ignored"
   },
@@ -1069,10 +919,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses ALM and Agile practices but does not address Cycle Time specifically or primarily.",
     "level": "Ignored"
   },
@@ -1087,68 +937,59 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices but does not focus on the specific topic of deployment frequency or its optimization.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile software delivery without a clear focus on change management principles, practices, or strategies.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T06:04:33",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) within the context of Agile practices, mentioning the roles and challenges faced in organizations, but it primarily focuses on the concept of ALM rather than explicit team collaboration techniques or dynamics.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Application Lifecycle Management (ALM) and Agile practices, with no significant discussion on Behaviour Driven Development (BDD) principles or practices.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T06:05:02",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile and ALM (Application Lifecycle Management) practices, which are related to digital transformation in terms of improving software delivery and quality. However, it primarily focuses on software development methodologies rather than the broader strategic adoption of digital technologies across an organisation. While there are mentions of agility and the need for adaptation in software practices, the content lacks a comprehensive exploration of how these practices contribute to overall business transformation or operational efficiency. Therefore, it aligns with the category but does not delve deeply enough into the strategic aspects of digital transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:09:45",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on ALM (Application Lifecycle Management) and Agile practices, but does not discuss Minimum Viable Product (MVP) concepts or related market validation strategies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses ALM and Agile practices without focusing on the role of AI in these methodologies.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1171,13 +1012,13 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T06:05:25",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile methodologies and the importance of quality in software delivery, which aligns with some aspects of technical leadership. However, it lacks a focused discussion on guiding teams, mentoring, or specific leadership strategies, making it more of a general commentary on ALM and Agile rather than a deep dive into technical leadership principles.",
     "level": "Ignored"
   },
@@ -1201,11 +1042,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:08:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies without focusing on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices without a direct focus on Test First Development principles. While it touches on quality and adaptability in software delivery, it does not explicitly mention success criteria, testing practices, or the importance of defining tests before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1219,19 +1063,19 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Application Lifecycle Management (ALM) and its significance, without a clear focus on methodologies for deploying software.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile practices in the context of large organizations and mentions the differences between small and large firms in adopting Agile methods, indicating a concern for scalability, but it primarily focuses on ALM rather than large scale agility frameworks or transformations.",
     "level": "Tertiary"
   },
@@ -1246,22 +1090,22 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Application Lifecycle Management (ALM) and Agile methodologies, without addressing any specific aspects of remote working or distributed Agile teams.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T06:05:38",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile practices and the importance of adapting to change, which aligns with the principles of Continuous Learning. However, it primarily focuses on ALM and software delivery rather than explicitly exploring Continuous Learning concepts such as growth mindset, knowledge sharing, or feedback loops. The discussion lacks depth in these areas, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1285,11 +1129,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses ALM (Application Lifecycle Management) and Agile practices without a specific or detailed focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices in a general context, without a specific focus on the role or responsibilities of a Scrum Master. While Agile principles are mentioned, the discussion does not delve into the Scrum Master's influence, techniques, or responsibilities, which are central to the category. Therefore, the content does not align well with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1303,24 +1150,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ALM (Application Lifecycle Management) and its relationship to Agile practices, but does not focus on working agreements, norms, or principles that enhance teamwork and collaboration.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T15:05:25",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of Agile methodologies and ALM (Application Lifecycle Management) in the context of software development. It highlights the need for quality software delivery and the role of Agile practices in achieving this. However, while it touches on relevant themes, the discussion lacks depth in specific Agile practices and tools, focusing more on general observations rather than detailed best practices or methodologies. The mention of software developers is present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1333,24 +1168,24 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of Agile and quality in software development, mentioning practices like source control, automated builds, automated deployment, and the necessity of high-quality software. However, the primary focus is on ALM rather than strictly on Agile engineering practices.",
     "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-15T06:05:11",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content briefly mentions technical debt in the context of delivering high-quality software and the consequences of building poor software. However, the primary focus is on ALM and Agile practices rather than a detailed discussion of technical debt management or its implications. While there is some alignment with the category's themes, the depth of discussion on technical debt is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1363,10 +1198,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Application Lifecycle Management (ALM), Agile practices, and software development processes without a significant focus on the strategic aspects of product management such as aligning customer needs, business objectives, or the specific methodologies and frameworks that product managers use.",
     "level": "Ignored"
   },
@@ -1381,25 +1216,25 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T06:05:14",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, particularly in relation to ALM (Application Lifecycle Management). While Agile is mentioned and its benefits are acknowledged, the primary focus is on ALM rather than a detailed exploration of Agile frameworks themselves. The discussion lacks depth in terms of specific Agile frameworks like Scrum or Kanban, and does not provide a comparative analysis or case studies, which are key aspects of the Agile Frameworks category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T06:04:36",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses Agile methodologies and their importance in software development, particularly in relation to ALM (Application Lifecycle Management). It highlights the need for adaptability and continuous delivery, which aligns with Agile principles. However, the focus is more on ALM and software practices rather than a comprehensive discussion on Agile strategy itself. The mention of Agile practices is significant, but the depth of strategic discussion is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1432,13 +1267,13 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-15T06:04:50",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses ALM and Agile practices, touching on trends in software delivery and organisational adaptability. However, it lacks a focused analysis of specific trends or their implications, making it more of a general discussion rather than a dedicated trend analysis. The mention of interest in Agile ALM in different regions hints at trend observation but does not delve deeply into the analysis of these trends.",
     "level": "Ignored"
   },
@@ -1449,15 +1284,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile Application Lifecycle Management (ALM) and its distinctions in practice, without a focus on accountability or team dynamics related to responsibilities in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile practices, with no focus on Kanban principles or their application in large organisations.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1471,22 +1297,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T22:09:45",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methods, without a focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:37:46",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, which touches on collaboration and adaptability. However, it primarily focuses on ALM (Application Lifecycle Management) rather than explicitly addressing social technologies or their frameworks. While there are mentions of team dynamics and the need for quality in software delivery, the discussion lacks depth in exploring the principles of self-organisation, collective intelligence, or transparency within organisations. Overall, the content is relevant but does not fully align with the core themes of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1501,10 +1327,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:25:52",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies, with no clear focus on Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1519,62 +1345,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T06:04:33",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses Agile practices and the importance of delivering high-quality software, which aligns with some Scrum principles. However, it primarily focuses on Application Lifecycle Management (ALM) rather than Scrum specifically. There are brief mentions of Agile, but the discussion lacks depth on Scrum roles, events, or artifacts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:28:23",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses ALM (Application Lifecycle Management) and Agile practices, touching on the importance of quality and preventing bugs in production. However, it does not explicitly mention the Shift-Left Strategy or its core principles. While there are elements that align with the proactive approach of integrating quality earlier in the development process, the focus remains on ALM and Agile rather than a dedicated discussion of Shift-Left practices. The depth of discussion on related topics is present, but it lacks a direct connection to the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:25:49",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, which aligns with the principles of Continuous Improvement. However, it primarily focuses on ALM rather than explicitly addressing Continuous Improvement as a primary topic. The discussion touches on the need for quality and adaptability in software delivery, which are relevant to Continuous Improvement, but lacks depth in exploring specific strategies or frameworks related to the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:25:51",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses Agile practices and their importance in software development, which relates to the concept of Common Goals. However, it primarily focuses on ALM (Application Lifecycle Management) rather than explicitly addressing shared objectives or alignment within teams. The discussion lacks depth in connecting these ideas to the principles of Agile and DevOps, resulting in a low confidence score for the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:25:54",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of Agile practices and quality in software development, which aligns with the concept of competence. It mentions the expectations of professionalism in software development and the necessity for continuous improvement and adaptability. However, while competence is a recurring theme, the focus is more on ALM and Agile methodologies rather than a deep exploration of competence itself, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile practices and ALM but does not explicitly address Agentic Agility or its principles. While it touches on adaptability and quality in software development, it lacks a focus on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The discussion is primarily about Agile methodologies rather than the specific concept of agency and intentionality in socio-technical environments.",
+    "level": "Ignored"
   }
 }

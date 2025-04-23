@@ -28,14 +28,24 @@ isShort: true
 tags:
 - Team Motivation
 - Agile Product Management
-- Agile Project Management
 - Software Development
 - Customer Feedback Loops
+- Customer Satisfaction
+- Pragmatic Thinking
 - Product Delivery
 - Team Collaboration
 - Team Performance
-- Customer Satisfaction
-- Pragmatic Thinking
+- Value Delivery
+- Agile Frameworks
+- Agile Leadership
+- Agile Strategy
+- Social Technologies
+- Sociotechnical Systems
+- Working Software
+- Agile Values and Principles
+- Employee Engagement
+- Organisational Agility
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +53,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In my journey through the world of Agile and Scrum, I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your product owner.

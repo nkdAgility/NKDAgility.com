@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and TFS, with no focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:44:37",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a specific solution to a technical issue related to connecting to TFS using Visual Studio, which directly involves practical tooling. It discusses registry modifications as a workaround, demonstrating a clear application of a practical technique. The mention of Visual Studio and TFS aligns with the category's focus on tools, and the depth of the discussion regarding registry keys adds to the overall confidence score. However, it lacks broader context on Agile or DevOps methodologies, which slightly lowers the alignment score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:35:12",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:18:06",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for connecting to TFS using HTTPS and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, making it largely irrelevant to the category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:35:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical workaround for connecting to TFS using Visual Studio, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:35:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details related to Visual Studio and TFS without any focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:35:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to connecting to TFS using Visual Studio, with no mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:09:11",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a specific solution for configuring Visual Studio 2010 to connect to TFS over HTTPS, which directly relates to installation and configuration processes. It includes detailed instructions on modifying registry keys, which is a technical aspect of configuration. However, while it is focused on a specific issue, it lacks broader discussions on installation or configuration best practices, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:35:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical details related to Visual Studio and TFS configuration, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content heavily discusses technical aspects of connecting to TFS and registry modifications without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:35:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical implementation details related to Visual Studio and TFS, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:17:55",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical solution for connecting to TFS using HTTPS, which is more related to specific tooling and configuration rather than the broader principles of DevOps. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and practices, making it only tangentially related to the category.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to Visual Studio and TFS, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:35:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio and TFS, with no mention of events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:35:33",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to connecting to TFS using HTTPS, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:35:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details related to Visual Studio and TFS configuration, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:35:38",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to connecting to TFS using HTTPS, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -256,37 +181,28 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T02:35:44",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and TFS configuration, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T02:35:46",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to connecting to TFS using Visual Studio, with no focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:35:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Visual Studio 2010 and TFS, without focusing on products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T02:35:48",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to connecting to TFS using HTTPS, without a focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -328,13 +244,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:18:04",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for connecting to TFS using HTTPS and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management, or related concepts.",
     "level": "Ignored"
   },
@@ -347,24 +263,15 @@
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and TFS configuration, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:35:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical workaround for Visual Studio 2010 and TFS, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:22:37",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a specific technical issue related to connecting to TFS using HTTPS, which is tangentially related to Application Lifecycle Management through the mention of TFS (Team Foundation Server). However, it lacks a direct focus on the broader aspects of ALM, such as lifecycle stages, governance, or best practices. The discussion is primarily technical and does not delve into the management or strategic elements of application lifecycles.",
     "level": "Ignored"
   },
@@ -379,22 +286,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical specifics of connecting to TFS using HTTPS and does not discuss the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:22:37",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a specific technical solution related to Visual Studio and TFS configuration, which touches on software craftsmanship. However, it lacks broader discussions on best practices, principles, or methodologies that define technical mastery. The focus is primarily on a workaround rather than a comprehensive exploration of software engineering excellence.",
     "level": "Ignored"
   },
@@ -409,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:18:08",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical workaround for connecting to TFS using HTTPS and does not address Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in any relevant areas such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
@@ -448,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical workaround related to Visual Studio and TFS configuration, with no mention of Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -484,10 +391,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on connecting to TFS via HTTPS and Visual Studio configuration, with no relevance to Value Stream Mapping or Lean management principles.",
     "level": "Ignored"
   },
@@ -601,31 +508,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:03:04",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific technical issue related to connecting to Team Foundation Server (TFS) using Visual Studio, which is relevant to software development practices. It mentions registry modifications and configuration settings, indicating a focus on practical solutions within the software development lifecycle. However, the discussion lacks broader context on methodologies or best practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical issues related to Visual Studio and TFS connections, without any discussion of Agile methodologies or principles.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details related to Visual Studio and TFS configuration without any reference to Agile Values or Principles.",
     "level": "Ignored"
   },
@@ -685,10 +583,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses technical issues related to Visual Studio and TFS, with no relevance to organisational change or related methodologies.",
     "level": "Ignored"
   },
@@ -719,15 +617,6 @@
     "reasoning": "The content primarily discusses technical details about connecting to TFS using HTTPS and provides a workaround for Visual Studio, with no mention or relevance to customer satisfaction.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical details about connecting to TFS over HTTPS, with no relevance to Scaling Scrum topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:14",
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical setup and configurations related to Visual Studio and TFS, with no mention of psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical issues related to connecting to TFS and specific Visual Studio configurations, with no discussion of scaling agility principles or methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -820,29 +700,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to Visual Studio and TFS configuration, with no mention of innovation capabilities or related frameworks.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio and TFS, with no connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical issues related to Visual Studio and TFS configuration rather than discussions on Scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1018,10 +880,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to connecting to TFS using Visual Studio, with no focus on change management principles or Agile practices.",
     "level": "Ignored"
   },
@@ -1036,10 +898,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:29:14",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Visual Studio configuration and Team Foundation Server setup, which is unrelated to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1052,7 +914,7 @@
     "reasoning": "Content focuses on technical details of connecting Visual Studio to TFS, with no clear discussion on digital transformation strategies or impacts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:14",
     "ai_confidence": 0,
@@ -1061,24 +923,15 @@
     "reasoning": "Content heavily discusses technical issues related to connecting Visual Studio to TFS and does not relate to Minimum Viable Product development or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio 2010 and TFS, with no relation to AI, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:43:12",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 78.0,
     "ai_mentions": 80.0,
     "ai_alignment": 70.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses a specific configuration issue related to Visual Studio 2010 and Team Foundation Server (TFS), detailing registry key modifications necessary for proper HTTPS connectivity. This aligns well with the category of System Configuration as it addresses practical steps for configuring software to resolve a connectivity issue. The depth of discussion is substantial, providing specific registry paths and values, which indicates a thorough exploration of the topic. However, while the content is focused on a configuration issue, it does not cover broader themes such as optimisation strategies or security considerations, which slightly lowers the overall alignment score.",
     "level": "Secondary"
   },
@@ -1120,22 +973,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific technical issue related to Visual Studio and TFS configuration but does not mention Test First Development principles, practices, or any related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical workaround for connecting to TFS using HTTPS and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any relevant discussion on manual or automated testing, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:54:05",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses a specific issue related to Visual Studio 2010 and its interaction with Team Foundation Server (TFS) over HTTPS, which is relevant to Windows users. It mentions registry keys and configurations that are specific to Windows operating systems, indicating a focus on troubleshooting and configuration within the Windows environment. However, the discussion is more centred on Visual Studio and TFS rather than a broad exploration of Windows itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -1186,15 +1042,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T12:08:44",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses a specific troubleshooting issue related to connecting to TFS using HTTPS, detailing the problem and providing a clear solution involving registry key modifications. This aligns well with the core themes of the Troubleshooting category, as it focuses on diagnosing and resolving a technical issue. The depth of the discussion is substantial, offering specific instructions and references to documentation, which enhances its practical application in troubleshooting scenarios.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1207,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical details related to connecting to TFS and Visual Studio, without any discussion relevant to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical aspects of connecting to TFS using Visual Studio, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1230,15 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical issues related to Visual Studio and TFS configuration, with no discussion on teamwork or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical workaround for connecting to TFS using HTTPS, which is not primarily focused on the role of software developers within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1358,15 +1208,6 @@
     "reasoning": "Content is focused on technical implementation details and configuration for Visual Studio and TFS, with no relevant discussion on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting connectivity issues with TFS and Visual Studio, not related to Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:14",
@@ -1387,13 +1228,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:46:09",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical solution for connecting to TFS using HTTPS and does not discuss any aspects of social technologies, collaboration, or decision-making. It lacks any mention of self-organisation, collective intelligence, or value delivery, which are core themes of the category.",
     "level": "Ignored"
   },
@@ -1426,62 +1267,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:54:23",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical aspects of connecting to TFS using Visual Studio, with no direct mentions of Scrum principles, roles, or events. While it touches on project management tools, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:36:24",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to connecting to TFS using HTTPS and does not address any aspects of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:17:57",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical solution for connecting to TFS using HTTPS and does not discuss Continuous Improvement principles, methodologies, or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to a specific workaround without any broader implications for process enhancement or team effectiveness.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:17:59",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical solution for connecting to TFS using HTTPS and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to a specific technical workaround.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:18:01",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical solution for connecting to TFS using HTTPS and does not discuss competence, continuous learning, or skill development. There are no direct mentions of competence or its related themes, and the depth of discussion is limited to a specific workaround without any broader implications for professional development or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a technical solution for connecting to TFS using HTTPS and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

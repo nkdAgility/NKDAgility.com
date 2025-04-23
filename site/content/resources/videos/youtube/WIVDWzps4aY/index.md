@@ -29,8 +29,6 @@ isShort: true
 tags:
 - Agile Product Management
 - Product Owner
-- Products and Books
-- Scrum Product Development
 - Value Delivery
 - Pragmatic Thinking
 sitemap:
@@ -39,7 +37,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 One of my favourite classes to teach is the Product Owner class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective product management. 

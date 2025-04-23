@@ -8,70 +8,25 @@
     "reasoning": "Content primarily discusses a technical proof-of-concept for ranking blog posts based on various metrics, with no clear relation to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T06:48:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses a proof-of-concept for ranking blog posts using various data sources and algorithms, which touches on practical techniques for data collection and processing. However, it lacks a strong focus on Agile or DevOps methodologies, specific tools, or frameworks that enhance team performance or collaboration. The discussion is more about a specific implementation rather than a broader exploration of tooling or methodologies in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T00:14:59",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts using external data sources, with no clear focus on platform engineering principles or internal developer platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:50:18",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses ranking blog posts using social media metrics and Google Page Rank, which touches on data-informed decision-making. However, it lacks a direct focus on Evidence-Based Management principles, such as current value, time to market, or empirical decision-making. The discussion is more about algorithmic ranking rather than strategic management practices based on empirical evidence.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:48:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which touches on aspects of code quality and extensibility. However, it lacks a deep exploration of complexity theory or its principles, focusing more on implementation details and algorithmic calculations rather than the interplay between code quality and complexity in software development processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T06:48:16",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a technical implementation of a ranking algorithm for blog posts, with limited discussion on discovery or learning processes. While it touches on the idea of exploring data to improve content visibility, it lacks a strong emphasis on methodologies for fostering innovation or continuous learning within teams. The mention of a proof-of-concept suggests some level of experimentation, but it does not delve into broader themes of learning from failures or integrating user feedback, which are key aspects of the 'Discovery and Learning' category.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:15:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts based on various metrics, with no clear connection to AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:15:09",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts using external data sources, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:15:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a method for ranking blog posts based on various metrics, with no clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -119,24 +65,15 @@
     "reasoning": "Content primarily discusses a technical approach to ranking blog posts based on data collection and algorithms, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:15:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical implementation for ranking blog posts based on various metrics, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:50:04",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on ranking blog posts using an algorithm based on social media metrics and Google Page Rank. It does not discuss DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The only potential alignment is a brief mention of a web service, but this is not sufficient to classify the content under DevOps.",
     "level": "Ignored"
   },
@@ -158,15 +95,6 @@
     "reasoning": "Content primarily discusses a technical implementation for ranking blog posts based on various metrics, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:15:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts and does not relate to events, presentations, or discussions on Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:15:23",
@@ -174,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses ranking blog posts based on engagement metrics and does not focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:15:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical proof-of-concept for ranking blog posts based on data collection, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,13 +124,13 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-11T12:04:50",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the calculation of a ranking algorithm based on various metrics such as Facebook Likes, Tweets, and Google Page Rank. It explicitly mentions the use of data to evaluate and rank blog posts, which aligns with the core themes of metrics and learning. However, while it provides a decent level of detail about the implementation and potential improvements, it lacks a broader discussion on continuous improvement methodologies or feedback loops, which are also key aspects of the category. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Secondary"
   },
@@ -226,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:48:16",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts based on various metrics, which does not directly address engineering practices or methodologies that enhance agility in software development. While it touches on some technical aspects, such as the implementation of a WPF application and dynamic loading of components, it lacks a focus on core themes like TDD, CI/CD, or modular architecture. The discussion is more exploratory and lacks depth in technical excellence principles.",
     "level": "Ignored"
   },
@@ -274,28 +193,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T00:15:39",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ranking blog posts and data collection methods, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:15:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts using data collection and algorithms, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T00:15:42",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a method for ranking blog posts based on engagement metrics, without a clear focus on value delivery principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -328,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:15:50",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts based on various metrics, which does not align with the principles or topics of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:50:16",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on ranking blog posts using an algorithm based on social media metrics and Google Page Rank. It does not discuss any principles or practices related to the Agile Product Operating Model, nor does it mention product management or agile methodologies. The content is entirely unrelated to the category.",
     "level": "Ignored"
   },
@@ -356,21 +266,12 @@
     "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts based on various metrics, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:15:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts based on various metrics, lacking a focus on industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:15:56",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ranking blog posts and data collection methods, with no clear focus on application lifecycle management.",
     "level": "Ignored"
   },
@@ -385,24 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses ranking blog posts and data collection, with no relevance to the Definition of Done in Agile frameworks.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:48:16",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which touches on software design and implementation. However, it lacks a strong focus on best practices, clean code principles, or methodologies that contribute to high-quality software development. While it mentions extensibility and some technical aspects, the overall discussion is more exploratory and lacks depth in the core themes of technical mastery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -415,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:50:21",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on ranking blog posts using an algorithm based on social media metrics and Google Page Rank. It does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks any alignment with the core themes of the category, such as automation, rapid feedback, or software quality. The depth of discussion is entirely unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -436,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses algorithms for ranking blog posts based on engagement metrics, and does not address Lead Time or its related concepts.",
     "level": "Ignored"
   },
@@ -454,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses calculating and ranking blog posts based on various metrics, with no mention of the Definition of Ready or relevant Agile practices.",
     "level": "Ignored"
   },
@@ -490,10 +391,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ranking blog posts and pages using various metrics, which is unrelated to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -508,10 +409,10 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts based on various social metrics and does not focus on operational practices or methodologies related to Agile, DevOps, or Lean frameworks.",
     "level": "Ignored"
   },
@@ -598,40 +499,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a proof-of-concept for ranking blog posts and does not address Acceptance Test Driven Development, acceptance criteria, or related collaborative development practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-07T15:34:17",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which involves software development concepts such as creating a WPF application and using web services. However, the primary focus is on the ranking algorithm and data collection rather than on software development methodologies or best practices. While it touches on coding and implementation, it lacks depth in discussing software engineering principles or frameworks, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on calculating blog post rankings and algorithm development, with no mention of agile methodologies, principles, or project management.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on ranking blog posts based on various metrics and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -725,21 +617,12 @@
     "reasoning": "The content primarily discusses a method for ranking blog posts based on engagement metrics without any reference to customer satisfaction, experience, or feedback.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on calculating blog post rankings using various metrics and does not discuss Scaling Scrum or related practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation for ranking blog posts using data analytics, without a clear focus on leadership decisions or evidence-based leadership practices.",
     "level": "Ignored"
   },
@@ -750,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on calculating the rank of blog posts based on engagement metrics, unrelated to psychological safety or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on ranking blog posts using external data and algorithms, with no discussion of agile principles or scaling agility practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -826,33 +700,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T06:48:16",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses an innovative approach to ranking blog posts based on empirical data, which aligns with the concept of innovation. However, it lacks a structured discussion on frameworks, metrics, or Evidence-Based Management principles, which are crucial for a higher confidence score in the Ability to Innovate category.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a method for calculating the rank of blog posts using external data services, which has no direct relevance to Scrum practices or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses methods for calculating blog post ranks using various data points, which is unrelated to Scaled Agile practices or frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -874,10 +730,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ranking blog posts and does not focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -946,10 +802,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on ranking blog posts, using algorithms, and data collection, which does not align with Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -964,13 +820,13 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T06:48:18",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a method for ranking blog posts based on various metrics, which implies a decision-making process regarding content prioritisation. However, it lacks a structured, evidence-based methodology and does not delve into collaborative decision-making or cognitive biases, which are key themes of the category. The focus is more on technical implementation rather than on decision-making principles.",
     "level": "Ignored"
   },
@@ -1003,10 +859,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses ranking blog posts and pages based on social media metrics and not related to Cycle Time measurement or Agile/DevOps practices.",
     "level": "Ignored"
   },
@@ -1064,22 +920,13 @@
     "reasoning": "The content primarily discusses the technical details of ranking blog posts and does not focus on the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:48:24",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the development of a ranking algorithm for blog posts and does not focus on the concept of Minimum Viable Product or related methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses ranking blog posts using various metrics and data collectors, without focusing on AI integration or applications.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1120,31 +967,34 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on calculating the rank of blog posts, discussing data collection and algorithms, without reference to cross-functional teams or Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a proof-of-concept for calculating blog post ranks using external data, with minimal reference to tests and no focus on Test First Development principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an algorithm for ranking blog posts based on social media metrics and does not mention Test First Development principles, success criteria, or testing practices. There is a brief mention of tests, but it lacks depth and relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:48:16",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts using various data sources and mentions implementation details of a WPF application. While it briefly references Windows Presentation Foundation (WPF), which is a Windows technology, the overall focus is on the algorithm and data collection rather than on Windows-specific installation, configuration, or troubleshooting. Therefore, the content does not align well with the Windows category.",
     "level": "Ignored"
   },
@@ -1204,23 +1054,26 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-15T06:48:20",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which implies a form of experimentation. However, it lacks explicit mentions of hypothesis-driven approaches or systematic testing methods typical of Agile experimentation. While it touches on the idea of testing different algorithms and data collectors, it does not delve deeply into the analysis of results or iterative learning processes, which are crucial for the 'Experimentation' category.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical implementation of ranking blog posts and is not related to Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on ranking blog posts using algorithms and social media metrics, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1241,15 +1094,6 @@
     "reasoning": "The content is primarily focused on calculating the rank of blog posts and the technical implementation of data collection, rather than on teamwork, collaboration, or working agreements.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a proof-of-concept blog ranking system, with no clear focus on software development practices, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T00:48:24",
@@ -1261,10 +1105,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts using external data sources, with little focus on Agile engineering practices or relevant methodologies.",
     "level": "Ignored"
   },
@@ -1306,10 +1150,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on calculating blog post rankings and does not discuss Agile frameworks or principles.",
     "level": "Ignored"
   },
@@ -1367,15 +1211,6 @@
     "reasoning": "Content primarily discusses blog post ranking and data collection methods without any focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on ranking blog posts based on engagement metrics and does not discuss Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:48:24",
@@ -1387,22 +1222,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T00:48:24",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses ranking blog posts and data collection without any focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:41:40",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a technical algorithm for ranking blog posts based on social media metrics and Google Page Rank. While it mentions social media metrics, it does not delve into the collaborative or decision-making aspects of social technologies. The discussion lacks depth in exploring how these technologies foster collaboration or enhance organisational culture, which are key themes of the category. Therefore, the content is only tangentially related to social technologies.",
     "level": "Ignored"
   },
@@ -1417,10 +1252,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:30:55",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a proof-of-concept for ranking blog posts based on external data, with no clear focus on Internal Developer Platforms or related topics.",
     "level": "Ignored"
   },
@@ -1435,62 +1270,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:49:56",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts based on various metrics. It does not mention Scrum principles, roles, events, or any related topics. The focus is on data collection and algorithm development, which does not align with the Scrum framework or its practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:32:17",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a method for ranking blog posts based on external data sources and does not address any aspects of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The focus is on data collection and ranking algorithms, which are unrelated to the core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:50:06",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an algorithm for ranking blog posts based on various metrics, which could imply a form of continuous improvement in content visibility. However, it lacks a direct focus on the principles of Continuous Improvement as defined, such as fostering a culture of experimentation or integrating improvement strategies into organisational processes. The discussion is more about a technical implementation rather than a reflective or adaptive process aimed at enhancing team effectiveness or business agility.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:50:11",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical approach to ranking blog posts using social media metrics and algorithms. While it briefly touches on the idea of identifying popular content, it does not discuss the alignment of strategy with execution, shared objectives, or the principles of Agile and DevOps. The discussion lacks depth in relation to Common Goals, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:50:13",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation of a ranking algorithm for blog posts, discussing data collection and processing rather than the development of skills or competencies. While there are brief mentions of testing and extensibility, these do not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on ranking blog posts using an algorithm based on social media metrics and Google Page Rank. While it discusses data collection and algorithmic decision-making, it does not explicitly address the concept of Agentic Agility, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The discussion lacks depth in relation to the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

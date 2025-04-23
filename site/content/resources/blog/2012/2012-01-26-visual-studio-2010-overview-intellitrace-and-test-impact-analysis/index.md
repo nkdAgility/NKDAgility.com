@@ -9,7 +9,7 @@ ResourceImportId: 4140
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-26
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,7 +30,6 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
-- Practical Techniques and Tooling
 - Troubleshooting
 - Software Development
 - Technical Excellence

@@ -28,6 +28,7 @@ isShort: true
 tags:
 - Team Collaboration
 - Remote Working
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

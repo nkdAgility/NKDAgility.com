@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T20:31:41",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience related to job interviews and does not focus on the methodologies, practices, or tools involved in managing the application lifecycle.",
     "level": "Ignored"
   },
@@ -19,10 +19,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T20:31:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience at Microsoft, focusing on technical skills and recruitment processes, without addressing enterprise agility or its broader implications.",
     "level": "Ignored"
   },
@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T20:31:48",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience related to job interviews at Microsoft, focusing on the role and responsibilities of an Application Developer Consultant, rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:31:52",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on roles, responsibilities, and personal development rather than installation or configuration of software or tools.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:19:56",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a personal narrative about interviewing for a job at Microsoft, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles. While it touches on technical aspects related to the job role, it lacks a structured discussion of recognised methodologies or actionable insights. The mention of technical knowledge and skills required for the role is relevant but does not align with the core themes of the Miscellaneous category, as it strays into specific technical content. Overall, the content serves as a personal reflection rather than a discussion of broader Agile concepts.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:31:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal job interview experience and technical knowledge requirements, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -101,30 +92,21 @@
     "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on technical skills and recruitment processes, without reference to complexity science or its principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:32:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on the interview process and personal reflections rather than practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T20:32:01",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience and technical knowledge requirements, with no clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:32:03",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on the interview process and personal development rather than metrics, data, or learning methodologies.",
     "level": "Ignored"
   },
@@ -157,95 +139,53 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:32:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal job interview experience and does not address Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, discussing challenges and lessons learned in software development and public speaking. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion does not align with the core themes of EBM such as data-informed decision-making or empirical evidence. The content lacks depth in relation to EBM, making it unsuitable for this category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:32:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience related to job interviews and technical skills, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:32:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal experience of interviewing for a job at Microsoft, lacking industry news or reviews relevant to Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, discussing technical skills and interview processes rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM framework. The content lacks depth in discussing any relevant concepts, resulting in a very low confidence score for alignment with the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T20:32:14",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a personal experience of interviewing for a job at Microsoft, detailing the interview process and personal reflections, rather than discussing methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T20:32:15",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on technical skills and recruitment processes, without any mention of BetaCodex principles or related organisational design concepts.",
     "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T20:32:17",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on the role and responsibilities of an Application Developer Consultant, rather than platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:32:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a personal job interview experience at Microsoft, focusing on the role and technical requirements rather than AI and automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:32:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience related to job interviews at Microsoft, focusing on the recruitment process and personal reflections rather than on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-11T12:15:03",
-    "ai_confidence": 65.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content includes a mention of a presentation during a job interview, which aligns with the category. However, the primary focus is on the personal experience of interviewing rather than on the presentation itself or broader discussions about events. The depth of discussion regarding the presentation is minimal, primarily outlining the context rather than providing insights or knowledge sharing typical of events and presentations.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:32:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal job interview experience and does not focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -277,22 +217,22 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T20:32:30",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a personal experience related to job interviews and technical skills, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T15:15:55",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the author's personal experience interviewing for a job at Microsoft, detailing their thoughts, feelings, and reflections throughout the process. It includes specific anecdotes about the interviews, challenges faced, and insights gained, which align well with the Personal category's emphasis on individual experiences and reflections related to Agile and DevOps. While there are mentions of technical aspects, the core of the content is personal and subjective, providing a unique perspective on the interview experience.",
     "level": "Secondary"
   },
@@ -307,79 +247,49 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T20:32:34",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience related to job interviews and technical skills, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:32:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on the role and responsibilities of an Application Developer Consultant, rather than DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, detailing the interview process and the skills required for a specific role. While it touches on software development, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The mention of software development and customer engagement is too peripheral to align with the core themes of DevOps, which emphasises collaboration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T20:32:37",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a personal experience of interviewing for a job at Microsoft, with limited discussion on technical practices or methodologies related to software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:38:46",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the author's personal experience during the interview process at Microsoft, detailing the technical aspects of the role and the interview structure. While there are mentions of communication and collaboration with peers and customers, these are not the primary focus. The discussion lacks depth in exploring team dynamics, leadership, or process methodologies, which are central to the 'People and Process' category. Therefore, while there are some relevant elements, they are not sufficiently developed to warrant a higher confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T17:07:52",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the author's experience interviewing for a job at Microsoft, highlighting the learning opportunities presented through feedback received during the interview process. While it does mention personal growth and areas for improvement, the primary focus is on the interview experience rather than a broader exploration of discovery and learning methodologies. The content aligns with the category through its emphasis on learning from failures and successes, but it lacks depth in discussing structured processes or methodologies related to innovation and continuous learning.",
-    "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:32:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on the role and technical requirements rather than any specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a personal experience related to a job interview at Microsoft, emphasizing technical skills and interview processes rather than strategic product management discussions.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience and the related technical requirements, not the validation of product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -394,19 +304,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience and does not focus on the measurement or enhancement of an organisation's capacity to innovate.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's personal experience interviewing for a job at Microsoft, focusing on technical skills and interview processes, with no clear relation to cross-functional teams.",
     "level": "Ignored"
   },
@@ -426,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience at Microsoft, not related to portfolio management practices or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:08:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content mainly discusses a job interview experience related to a technical position at Microsoft and does not mention Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -466,19 +367,19 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with a job interview at Microsoft, including details about the role, responsibilities, technical skills, and personal reflections, without any reference to Agile values or principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's interview experience for a technical job at Microsoft, focusing on technical knowledge and preparation rather than employee engagement topics.",
     "level": "Ignored"
   },
@@ -502,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on a personal job interview experience at Microsoft and does not discuss the Definition of Done or related Agile criteria.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:08:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal job interview experience at Microsoft, focusing on job responsibilities and technical interviews, without reference to Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content is focused on a personal job interview experience at Microsoft and does not discuss the Definition of Done or related Agile criteria.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -547,19 +439,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience of interviewing for a job at Microsoft, and does not relate to empirical process control or Agile principles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a job interview experience at Microsoft, focusing on roles, responsibilities, and technical knowledge requirements, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -581,29 +473,17 @@
     "reasoning": "Content primarily discusses a job interview process and personal experiences, with no focus on collaboration tools or their enhancement of Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:38:46",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on a personal experience of interviewing for a software development position at Microsoft. While it mentions software development and the role of an Application Developer Consultant, it lacks a direct discussion on Agile or DevOps methodologies. The alignment with the category is weak as it does not explore best practices, team dynamics, or tools related to Agile and DevOps. The depth of discussion is limited to personal anecdotes and specific interview experiences rather than a broader exploration of the role of software developers within Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:38:53",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses an interview experience for a software development role at Microsoft, mentioning specific technologies like .NET and SQL Server, which are relevant to software development. However, the primary focus is on the personal experience of the interview rather than on software development methodologies or practices. While there are mentions of technical skills and knowledge areas, the depth of discussion on software development processes is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -616,10 +496,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience with Microsoft, focusing on technical qualifications and interview details, rather than product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -632,7 +512,7 @@
     "reasoning": "Content focuses on personal job interview experiences and technical skills, with no discussion of estimation practices or Agile methodology.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:08:44",
     "ai_confidence": 0,
@@ -661,10 +541,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a personal experience related to a job interview at Microsoft, focusing on the interview process and qualifications rather than the principles of technical leadership or agile methodologies.",
     "level": "Ignored"
   },
@@ -706,31 +586,34 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:33:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges during job interviews, not related to Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a job at Microsoft, discussing challenges and lessons learned in software development and public speaking. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion regarding Continuous Delivery is virtually non-existent, as the content is centred around personal experiences rather than the delivery practices themselves.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a personal job interview experience at Microsoft and does not discuss Lead Time or its related concepts.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-10T19:02:00",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the author's experience interviewing for a job at Microsoft, highlighting the importance of learning from feedback and identifying knowledge gaps. While it touches on personal growth and the need for continuous improvement, it lacks a structured exploration of Continuous Learning principles and practices. The focus is primarily on the interview process rather than a broader discussion on fostering a growth mindset or effective knowledge sharing within teams.",
     "level": "Secondary"
   },
@@ -754,20 +637,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T21:08:44",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a personal experience related to job interviews and does not discuss hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:08:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the author's interview experience for a development role at Microsoft, focusing on job-related skills and processes, not on AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -808,10 +682,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a personal experience relating to job interviews at Microsoft, with no clear or relevant discussion of Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -889,19 +763,19 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the author's personal experience during job interviews at Microsoft and does not focus on team performance, collaboration, or Agile principles.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience of interviewing for a job at Microsoft, with details about the role and interview process, which are unrelated to Product Backlog discussions.",
     "level": "Ignored"
   },
@@ -916,10 +790,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on a personal experience related to job interviews at Microsoft, detailing the role of an Application Developer Consultant and technical skills, without discussing the responsibilities or practices specific to the Product Owner role.",
     "level": "Ignored"
   },
@@ -934,28 +808,28 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience related to job interviews and technical knowledge, with no focus on team dynamics, collaboration techniques, or Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the author's job interview experience with Microsoft and does not address the Definition of Ready or its criteria. It focuses on personal experiences rather than Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience and does not address Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -970,50 +844,32 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:38:55",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a personal experience during a job interview process at Microsoft, which includes some technical aspects related to .NET and architecture. However, the main emphasis is on the interview experience rather than a deep exploration of technical mastery principles. While there are mentions of technical knowledge and skills required for the role, the discussion lacks depth in best practices, methodologies, or principles of software craftsmanship, which are central to the 'Technical Mastery' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience related to job interviewing at Microsoft, which is unrelated to remote working practices or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences related to a job interview at Microsoft, with no discussion on Kanban principles or their application in large organizations.",
+    "reasoning": "Content primarily discusses a personal experience related to job interviewing at Microsoft, which is unrelated to remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a job interview process at Microsoft with no mention of customer retention strategies, user engagement, or minimizing churn.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on the author's interview experience and the job requirements at Microsoft, with no discussion of Agile methodologies or principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1027,19 +883,19 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses job application and interview experiences at Microsoft, which is unrelated to Value Stream Mapping.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content largely discusses personal experiences related to a job interview and does not address Cycle Time or related metrics in any meaningful way.",
     "level": "Ignored"
   },
@@ -1054,22 +910,22 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T07:38:50",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions customer satisfaction in the context of the job role at Microsoft, highlighting the importance of building trust and improving customer relationships. However, the primary focus of the content is on the author's personal experience during the interview process, which does not delve deeply into customer satisfaction principles or practices. The discussion lacks substantial detail on measuring or enhancing customer satisfaction, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a personal interview experience and career development rather than on customer feedback integration processes.",
     "level": "Ignored"
   },
@@ -1093,10 +949,10 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with interviewing for a job at Microsoft, focusing on interview processes, job specifications, and personal reflections rather than technical debt concepts.",
     "level": "Ignored"
   },
@@ -1111,13 +967,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:38:48",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses an interview for a position at Microsoft, which involves the Windows operating system and related technologies like .NET and SQL Server. While Windows is mentioned, the primary focus is on the interview experience rather than detailed discussions about Windows installation, configuration, or troubleshooting. The content aligns with the category conceptually but lacks depth in discussing Windows-specific topics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1168,10 +1024,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content revolves around a personal job interview experience at Microsoft, discussing the application development role and technical interviews, without any mention of test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -1195,55 +1051,55 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences during a job interview and details about the role at Microsoft, with no focus on Behaviour Driven Development or its principles.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal job interview experience and technical requirements, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a personal experience of interviewing for a job and does not primarily discuss working software or its delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a personal experience in the job interview process, detailing the interviews and specific technical knowledge required, rather than methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a personal job interview experience with Microsoft and does not focus on Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a job interview process and personal experiences, with no clear focus on team motivation or related strategies.",
     "level": "Ignored"
   },
@@ -1267,13 +1123,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:38:46",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a personal experience during a job interview at Microsoft, detailing the interview process and the skills required for the role. While it mentions the importance of technical knowledge and customer engagement, it lacks a direct discussion on engineering excellence principles, best practices, or continuous improvement in software development. The alignment with the category is minimal, as the content does not delve into coding standards, quality assurance, or CI/CD practices, which are central to the concept of engineering excellence.",
     "level": "Ignored"
   },
@@ -1288,20 +1144,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T21:08:45",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal interview experience and recruitment process at Microsoft, with no discussion on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a personal experience regarding job interviews with Microsoft and does not discuss Scrum or its scaling.",
+    "reasoning": "Content primarily focuses on a personal interview experience and recruitment process at Microsoft, with no discussion on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1340,22 +1187,16 @@
     "reasoning": "Content primarily discusses personal experiences related to job interviews and technical knowledge about Microsoft technologies, with no clear focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal experiences related to a job interview at Microsoft and does not discuss scaling agility or related topics.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a job interview experience at Microsoft and does not discuss the role or responsibilities of a Scrum Master or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal experience related to interviewing for a technical role at Microsoft, with no direct mention of Scrum Master responsibilities or concepts. While it touches on software development and technical skills, it does not align with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The discussion lacks depth regarding Scrum practices or the impact of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1378,11 +1219,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a job interview experience at Microsoft with no mention of Test First Development, TDD, or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the author's personal experience interviewing for a job at Microsoft, discussing the interview process, challenges faced, and lessons learned in software development and public speaking. There are no direct mentions or discussions related to Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of the category, nor does it provide any depth on the subject matter, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
@@ -1408,10 +1252,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:47:52",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience related to job interviews at Microsoft, focusing on roles, responsibilities, and technical knowledge required for a specific position, rather than the concept of Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1426,26 +1270,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:17:49",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal experience related to a job interview at Microsoft, discussing technical skills and interview processes. There are no direct mentions of Scrum principles, roles, events, or artifacts, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content lacks depth in any Scrum-related topics, resulting in a very low confidence score for alignment with the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:46:14",
+    "calculated_at": "2025-04-10T15:56:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal experience related to job interviews at Microsoft, discussing roles, responsibilities, and personal reflections. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth on any relevant methodologies or practices associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal journey of interviewing for a job at Microsoft, detailing experiences and challenges faced. While it touches on skills and knowledge relevant to the role, it does not explicitly discuss Common Goals or their significance in Agile or DevOps frameworks. The mention of improving oneself and learning from experiences is vague and does not connect to the principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the author's experience interviewing for a job at Microsoft, highlighting the importance of technical knowledge and skills in software development. While it touches on the need for continuous learning and improvement, particularly in areas like CLR and public speaking, the primary focus is on the interview process rather than a deep exploration of competence as a foundational principle. The discussion of learning from feedback and identifying knowledge gaps aligns with the concept of competence, but it lacks depth and direct mentions of competence as a core theme.",
+    "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a personal journey through the interview process at Microsoft, detailing experiences and challenges faced. While there are mentions of learning and self-improvement, these are not explicitly tied to the principles of Continuous Improvement as defined in the category. The discussion lacks depth in terms of strategies or frameworks related to Continuous Improvement, and the overall focus is more on personal anecdotes rather than systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal journey through the interview process at Microsoft, discussing challenges and lessons learned in software development and public speaking. While there are elements of personal growth and adaptability, the content does not explicitly address the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -2,7 +2,7 @@
 title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy'
 description: Discover how to scale your teams without stifling innovation. Learn to empower, streamline, and enhance communication for agile growth.
 date: 2025-02-27T11:00:09Z
-weight: 665
+weight: 630
 ResourceId: 3X2Oka9IrKw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -11,13 +11,13 @@ ResourceImportSource: Youtube
 videoId: 3X2Oka9IrKw
 source: internal
 url: /resources/videos/:slug
-slug: the-overlooked-virtue-of-agility-diligence
+slug: scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 preview: https://i.ytimg.com/vi/3X2Oka9IrKw/maxresdefault.jpg
 duration: 73
 isShort: false
 aliases:
 - /resources/3X2Oka9IrKw
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
+- /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
 aliasesArchive:
 - /resources/videos/the-overlooked-virtue-of-agility-diligence
@@ -26,21 +26,25 @@ aliasesArchive:
 - /resources/7-virtues-of-agile-diligence
 - the-overlooked-virtue-of-agility-diligence
 - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
+- /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+- scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Ability to Innovate
 - Agile Philosophy
 - Agile Strategy
 - Organisational Agility
 - Pragmatic Thinking
 - Business Agility
+- Scaling
+- Social Technologies
 resourceTypes:
 - video
 layout: video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 When I think about scaling teams, I often hear the sentiment that more teams should equate to more innovation. It seems logical, doesn’t it? However, in my experience, the reality is often quite different. Instead of fostering creativity and agility, scaling can lead to a quagmire of processes, endless meetings, and frustrating bottlenecks. Before you know it, you’re drowning in bureaucracy, and the very essence of innovation is stifled.

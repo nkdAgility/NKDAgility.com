@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:34:05",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:34:07",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition rather than installation or configuration topics.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:18:08",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 72.0,
     "ai_mentions": 10.0,
     "ai_alignment": 60.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a personal experience related to a recognition platform, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management. While it touches on themes of community and recognition, it lacks actionable insights or connections to established frameworks, aligning well with the Miscellaneous category. The depth of discussion is significant as it provides a narrative about personal involvement and experiences, but it does not delve into any specific methodologies or practices.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:34:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition rather than complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:34:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than practical techniques or tooling related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:34:15",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition rather than metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -157,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:34:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than evidence-based management principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences and recognition within a community context, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any substantial alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:34:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:34:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and recognition rather than industry news or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences and recognition within a community context, with no direct mention or discussion of the Agile Product Operating Model or its principles. It lacks any relevant themes related to product management or agile methodologies.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -207,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition rather than platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:34:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than AI and automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:34:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:34:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than specific events or presentations related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:34:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than transparency and accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -283,13 +226,13 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-10T15:14:33",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 64.0,
+    "final_score": 68.0,
     "reasoning": "The content provides a personal anecdote about the author's experience with Community Credit and their involvement in technology. While it does touch on personal recognition and contributions, it lacks a strong connection to Agile, Scrum, or DevOps themes. The mention of personal experiences is present, but the depth of discussion regarding Agile methodologies is minimal, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -313,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:34:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition rather than DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal recognition and experiences related to a community platform, with no explicit discussion of DevOps principles, practices, or cultural shifts. It lacks any mention of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -327,33 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition rather than engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:34:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and recognition rather than on team dynamics, collaboration, or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:34:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and recognition rather than on discovery, learning processes, or methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:34:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with a website and does not focus on products, books, or Agile/DevOps methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,10 +304,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:52:18",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and recognition related to a community site, with no clear connection to innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -417,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences and entertainment rather than any portfolio management practices or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or product development. It is mainly personal commentary about a website and an individual's experiences.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -457,22 +367,22 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:52:18",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition, without reference to Agile values or principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-15T07:37:11",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the theme of recognition, which is a component of employee engagement, but lacks a comprehensive discussion on the broader aspects of motivation, commitment, and team dynamics. The mention of prizes and recognition is relevant but does not delve into strategies or practices that enhance overall employee engagement. The focus is more on personal experience rather than a structured exploration of engagement principles.",
     "level": "Ignored"
   },
@@ -496,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:52:18",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on personal experiences and community recognition, with no discussion of the Definition of Done or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition, with no reference to Agile methodologies or scaling practices.",
+    "reasoning": "Content is focused on personal experiences and community recognition, with no discussion of the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +476,6 @@
     "reasoning": "Content primarily focuses on personal experiences and recognition unrelated to collaboration tools or Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mainly about personal experiences and recognition rather than software development practices or methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T19:52:18",
@@ -595,10 +487,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T19:52:18",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a personal experience related to community recognition and does not address any principles or practices of Site Reliability Engineering.",
     "level": "Ignored"
   },
@@ -620,7 +512,7 @@
     "reasoning": "Content is primarily focused on personal experiences and recognition, with no mention of estimation, Agile, or Scrum practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:52:18",
     "ai_confidence": 0,
@@ -694,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal recognition and experiences with Community Credit, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal recognition and experiences related to a community platform, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is also minimal, as it does not delve into any relevant aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and recognition, with no focus on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses personal experiences and a specific website related to community recognition, without mentioning AI, Agile, DevOps, or their integration.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +814,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:52:18",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences and community recognition, with no mention of Agile practices or Definition of Ready principles.",
     "level": "Ignored"
   },
@@ -971,15 +857,6 @@
     "reasoning": "Content focuses on personal experiences and recognition rather than remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal recognition and experiences related to a community platform, with no discussions on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:52:18",
@@ -987,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses personal experiences and recognition related to a platform, but does not focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Agile Project Management or any related agile methodologies and instead focuses on personal experiences and recognition in a community site.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1268,15 +1136,6 @@
     "reasoning": "Content focuses on personal experiences and recognition rather than asynchronous development practices or principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaling Scrum and is primarily focused on personal recognition and experiences unrelated to Scrum practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T19:52:18",
@@ -1313,22 +1172,16 @@
     "reasoning": "Content does not discuss Scrum principles, roles, or practices; it is about personal experiences and community involvement.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss scaling agility, agile methodologies, or related frameworks; it focuses on personal experiences and recognition within a community context.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and recognition unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 10.0,
+    "reasoning": "The content does not discuss the role or responsibilities of a Scrum Master, nor does it align with the core themes of Scrum. It focuses on personal recognition and experiences unrelated to Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,22 +1204,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:52:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience and recognition on a community site, without any mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on personal experiences and recognition within a community, with no direct mention or discussion of Test First Development principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:54:03",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions the concept of recognition and appreciation within a community context, which aligns with social technologies. However, it lacks a detailed discussion on collaboration, decision-making, or value delivery, and does not explore the underlying frameworks or methodologies that characterise social technologies. The focus is more on personal experience rather than the broader implications of social technologies in organisational settings.",
     "level": "Ignored"
   },
@@ -1399,26 +1255,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:16:12",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not discuss Scrum principles, roles, events, or any related topics. It focuses on personal experiences and recognition within a community, which is unrelated to Scrum or its frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:44:37",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 5.0,
     "ai_mentions": 0.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It focuses on personal experiences and recognition within a community, with no relevance to software development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences and recognition rather than discussing shared objectives or alignment within Agile or DevOps frameworks. While it mentions involvement in technology, it lacks any explicit connection to Common Goals, strategic alignment, or frameworks like OKRs. The discussion is anecdotal and does not delve into the principles of collaboration or accountability that are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on personal recognition and experiences related to a community platform, with minimal discussion on competence in terms of skill development or professionalism. While there is a mention of involvement in technology, it does not delve into continuous learning or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal recognition and experiences related to a specific platform, lacking any substantial discussion on Continuous Improvement principles or practices. While there is a mention of involvement in technology, it does not connect to the core themes of Continuous Improvement such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal recognition and experiences related to Community Credit, lacking any explicit discussion of Agentic Agility principles. While there is a mention of personal involvement and initiative, it does not delve into the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

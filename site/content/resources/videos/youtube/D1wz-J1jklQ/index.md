@@ -2,7 +2,7 @@
 title: 'Unlocking Code Quality: The Transformative Power of Frequent Deployments'
 description: Unlock the secret to better code quality! Discover how frequent deployments enhance user feedback, reduce technical debt, and boost team confidence.
 date: 2025-01-13T06:45:00Z
-weight: 375
+weight: 315
 ResourceId: D1wz-J1jklQ
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,14 +28,24 @@ isShort: false
 tags:
 - Deployment Frequency
 - Continuous Improvement
-- Practical Techniques and Tooling
-- Product Delivery
-- Code and Complexity
 - Operational Practices
 - Technical Excellence
 - Frequent Releases
+- Product Delivery
 - Software Development
 - Continuous Delivery
+- Flow Efficiency
+- Technical Mastery
+- Working Software
+- Value Delivery
+- Pragmatic Thinking
+- Engineering Practices
+- Release Management
+- Metrics and Learning
+- Hypothesis Driven Development
+- Technical Debt
+- Increment
+- Lean Principles
 resourceTypes:
 - video
 sitemap:
@@ -43,6 +53,7 @@ sitemap:
   priority: 0.6
 categories:
 - Engineering Excellence
+- Product Development
 - DevOps
 
 ---

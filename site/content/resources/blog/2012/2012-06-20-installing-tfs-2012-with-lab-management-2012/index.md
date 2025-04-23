@@ -9,7 +9,7 @@ ResourceImportId: 5496
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-20
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,10 +26,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Windows
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Windows
 - Azure DevOps
 - Internal Developer Platform
 - Pragmatic Thinking

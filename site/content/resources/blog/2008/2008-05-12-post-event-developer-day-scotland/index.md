@@ -9,7 +9,7 @@ ResourceImportId: 229
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-12
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,7 +30,6 @@ aliasesArchive:
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
-- Events and Presentations
 - Software Development
 
 ---

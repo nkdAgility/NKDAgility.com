@@ -2,7 +2,7 @@
 title: Does Your Team Truly Understand Your Product Vision and Goals?
 description: "Unlock your team's potential! Discover how a shared product vision drives Agile success and empowers decision-making in this insightful video. \U0001F680"
 date: 2024-07-12T06:45:00Z
-weight: 500
+weight: 450
 ResourceId: CPYTApf0Ibs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,21 +32,31 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Planning
-- Common Goals
-- People and Process
-- Strategic Goals
-- Agile Leadership
+- Organisational Change
 - Organisational Culture
+- Agile Planning
 - Software Development
 - Team Motivation
-- Agile Project Management
+- Transparency
+- Agile Strategy
+- Agile Transformation
+- Common Goals
+- Decision Making
+- Team Collaboration
+- Pragmatic Thinking
+- Social Technologies
+- Agile Philosophy
+- Team Performance
+- Strategic Goals
+- Agile Leadership
+- Value Delivery
+- Product Strategy
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 - Leadership
-- Social Technologies
 
 ---
 When it comes to Agile transformation, one of the most crucial aspects often overlooked is the shared understanding of the product vision and strategic goals within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.

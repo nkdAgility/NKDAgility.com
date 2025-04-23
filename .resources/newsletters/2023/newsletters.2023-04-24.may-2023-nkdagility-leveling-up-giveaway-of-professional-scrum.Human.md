@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-04-24
-weight: 530
+weight: 480
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -18,11 +18,10 @@ aliases:
 aliasesArchive:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-categories:
-- Scrum
-- Social Technologies
+categories: []
 tags:
-- People and Process
+- Continuous Learning
+- Competence
 
 ---
 The world is spinning faster than ever, with more players than ever.

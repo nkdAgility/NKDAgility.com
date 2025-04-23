@@ -9,7 +9,7 @@ ResourceImportId: 259
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-29
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,8 @@ aliasesArchive:
 - /tfs-event-handler-(prototype)-refresh
 - /blog/tfs-event-handler-(prototype)-refresh
 - /resources/blog/tfs-event-handler-prototype-refresh
-tags: []
+tags:
+- Install and Configuration
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

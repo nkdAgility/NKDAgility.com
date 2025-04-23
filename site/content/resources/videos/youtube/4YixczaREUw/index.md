@@ -2,7 +2,7 @@
 title: 'Debunking the Top 5 Myths About Scrum: Unlocking Agile Success in Your Organisation'
 description: Debunk common Scrum myths that hinder Agile success! Discover the truth behind meetings, story points, planning, and governance in this insightful guide.
 date: 2024-05-06T14:12:53Z
-weight: 700
+weight: 665
 ResourceId: 4YixczaREUw
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,18 @@ preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: false
 tags:
-- Professional Scrum
 - Agile Frameworks
+- Professional Scrum
 - Software Development
-- People and Process
-- Scrum Product Development
-- Agile Product Management
 - Empirical Process Control
-- Software Developers
-- Agile Project Management
+- Agile Product Management
+- Daily Scrum
+- Agile Planning
 - Transparency
+- Agile Transformation
+- Pragmatic Thinking
+- Product Delivery
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,6 +47,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 Scrum is often likened to communism, with the phrase “it doesn’t work” echoing through the halls of organisations struggling to adapt to its principles. As someone who has spent years in the trenches of Agile methodologies, I can tell you that this sentiment usually stems from a fundamental misunderstanding of what Scrum truly is. Hi, I’m Martin Hinshelwood, owner and principal consultant at Naked Agility, and today I want to debunk five common myths about Scrum that inhibit its adoption and effectiveness.

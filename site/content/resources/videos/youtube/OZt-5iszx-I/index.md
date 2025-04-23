@@ -33,18 +33,29 @@ sitemap:
   priority: 0.6
 tags:
 - Customer Feedback Loops
-- Scrum Product Development
 - Continuous Improvement
 - Customer Satisfaction
+- Operational Practices
 - Organisational Agility
+- Pragmatic Thinking
 - Product Validation
-- Software Developers
 - Software Development
+- Working Software
 - Product Delivery
-- Discovery and Learning
+- Time to Market
+- Value Delivery
+- Business Agility
+- Agile Strategy
+- Agile Philosophy
+- Agile Planning
+- Product Owner
+- Agile Frameworks
+- Agile Product Management
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

@@ -29,9 +29,8 @@ aliasesArchive:
 - /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
 - Software Development
-- Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
+- Install and Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 

@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2024-08-29
-weight: 995
+weight: 1000
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -19,16 +19,12 @@ aliasesArchive:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
+- Product Development
 - Product Management
-- Scrum
 tags:
-- Discovery and Learning
 - Product Validation
 - Product Discovery
-- Events and Presentations
-- Products and Books
 - Agile Product Management
-- People and Process
 - Product Owner
 - Product Delivery
 

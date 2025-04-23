@@ -1,51 +1,51 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:10:05",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting collaboration and iterative processes, which are relevant to social technologies. However, it primarily focuses on technical aspects and does not deeply explore the underlying social frameworks or methodologies that promote collaboration and decision-making within teams. The discussion lacks substantial detail on how these practices enhance organisational culture or collective intelligence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:08:56",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
+    "final_score": 68.0,
     "reasoning": "The content mentions engineering excellence directly, indicating its importance in the context of DevOps. However, the discussion is primarily focused on the relationship between Scrum and DevOps rather than providing a comprehensive exploration of engineering excellence principles, practices, or metrics. The depth of discussion is limited, lacking detailed insights into best practices or continuous improvement strategies.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:31:57",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 68.0,
     "ai_mentions": 75.0,
     "ai_alignment": 65.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 50,
-    "final_score": 66.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the relationship between Scrum and DevOps, highlighting how they complement each other. While it mentions DevOps and its principles, the primary focus is on Scrum's role within a DevOps context rather than a deep exploration of DevOps itself. The discussion touches on key DevOps themes like automation and collaboration, but it does not delve deeply into the broader principles of DevOps as a philosophy. Therefore, while there is a significant connection to DevOps, it is not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T23:35:18",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Scrum and its relationship with DevOps, which is relevant to product management. However, it lacks a detailed exploration of product management methodologies, customer feedback techniques, or strategic alignment with business objectives. The discussion is more focused on engineering practices rather than the strategic aspects of product management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -76,13 +76,13 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T23:35:18",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of DevOps but lacks a detailed exploration of Scrum principles, roles, or practices. The focus is more on the integration of DevOps rather than an in-depth discussion of Scrum itself, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -97,32 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:32:24",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their practices and principles rather than on evidence-based management. While it touches on improving processes and efficiency, it lacks explicit references to empirical evidence, metrics, or the core themes of Evidence-Based Management. The discussion is more about methodologies than data-informed decision-making.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T22:08:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and DevOps methodologies without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T22:08:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and its integration with DevOps, with no focus on Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -136,13 +118,13 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T12:08:59",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 55.0,
     "ai_mentions": 60.0,
     "ai_alignment": 50.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
+    "final_score": 55.0,
     "reasoning": "The content discusses Scrum within the context of DevOps, indicating a direct mention of an Agile framework. However, it primarily focuses on the integration of DevOps rather than a comprehensive exploration of Scrum itself or its principles. The alignment with Agile frameworks is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
@@ -157,10 +139,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T22:08:28",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -173,35 +155,26 @@
     "reasoning": "Content primarily discusses the integration of Scrum and DevOps rather than analysing trends or shifts within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T22:08:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and its integration with DevOps, without addressing scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T22:08:31",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the relationship between Scrum and DevOps without focusing on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T14:18:39",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions DevOps as part of engineering excellence, which aligns with the category's focus on technical practices. However, it primarily discusses Scrum in relation to DevOps without delving deeply into software craftsmanship principles or best practices. The discussion lacks substantial detail on methodologies or techniques that contribute to high-quality software development.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -223,15 +196,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-14T23:35:18",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Scrum and its importance in a DevOps context, which relates to team performance. However, it lacks detailed discussion on specific strategies, practices, or methodologies aimed at maximising team effectiveness and collaboration. The focus is more on the integration of DevOps within Scrum rather than on team dynamics or performance metrics.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -244,54 +217,33 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T22:08:41",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and its relationship with DevOps, without addressing Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T10:11:51",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions Scrum and its relationship with DevOps, which are relevant to product delivery. However, it lacks detailed discussion on methodologies, practices, or specific strategies related to the end-to-end process of delivering software products. The focus is more on the importance of DevOps within Scrum rather than a comprehensive exploration of product delivery as a whole.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T22:08:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of Scrum and DevOps, without a clear focus on AI applications within these methodologies.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T22:08:47",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and DevOps practices without a clear focus on digital transformation or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T11:34:53",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content briefly mentions Scrum and its importance in a DevOps environment, indicating a connection between team methodologies and human behaviour. However, it lacks detailed discussion on team dynamics, leadership, or specific processes that enhance collaboration and productivity. The focus is more on the technical aspects of DevOps rather than the interplay of people and processes, which limits the depth of the discussion.",
-    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -301,18 +253,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and DevOps, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T14:39:30",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content explicitly discusses Scrum, a key framework within Agile Project Management, and its role in a DevOps environment. It highlights the iterative processes and collaborative spirit of Scrum, aligning well with Agile principles. However, while it provides a good depth of discussion on Scrum, it also introduces DevOps, which slightly detracts from a pure focus on Agile Project Management. Overall, the content is primarily centred on Scrum, justifying a high confidence score.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -330,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the integration of Scrum and DevOps without a focus on accountability or team ownership.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T22:08:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the integration of Scrum and DevOps without addressing transparency or accountability principles.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -370,71 +301,77 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:28:53",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the relationship between Scrum and DevOps, highlighting their compatibility and the benefits of their integration. However, it lacks a direct focus on technical leadership principles, such as mentoring, team dynamics, or agile best practices. While it touches on collaboration and efficiency, it does not delve deeply into the nuances of guiding teams or fostering a culture of continuous improvement, which are essential aspects of technical leadership.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T22:09:03",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:09:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps rather than focusing on the role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the relationship between Scrum and DevOps, highlighting how Scrum can enhance processes in a DevOps environment. However, it does not focus specifically on the role of the Scrum Master or their responsibilities. While there are mentions of Scrum principles, the discussion lacks depth regarding the Scrum Master's influence, techniques, or impact on team dynamics, which are crucial for a higher confidence score in this category.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-11T17:41:34",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Scrum in the context of DevOps, highlighting its iterative processes and collaborative spirit. However, it primarily focuses on the integration of Scrum and DevOps rather than on Agile Planning principles specifically. While there are mentions of Agile concepts, the depth of discussion on Agile Planning methodologies and practices is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:09:06",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the integration of Scrum and DevOps rather than the core Agile values and principles.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T22:09:08",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on flow efficiency or optimisation of work throughput.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:09:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:51:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the relationship between Scrum and DevOps, without addressing Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, focusing on their complementary nature and the benefits of their integration. There is no explicit mention of Test First Development principles, success criteria, or testing practices. The discussion lacks depth regarding Test First methodologies, making it clear that the content does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -493,31 +430,31 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T22:09:23",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the integration of Scrum and DevOps, focusing on process improvement rather than directly addressing the measurement or enhancement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:40:48",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Scrum in the context of a DevOps environment, highlighting its role and synergy with DevOps practices. While it touches on Agile principles, the primary focus is on the integration of Scrum and DevOps rather than a comprehensive exploration of Agile transformation strategies. The discussion is somewhat detailed but lacks depth in addressing broader Agile transformation themes such as change management or leadership roles.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T22:09:25",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, which are project management methodologies rather than core engineering practices.",
     "level": "Ignored"
   },
@@ -532,33 +469,12 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T22:09:28",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T22:09:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and DevOps practices without a focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-13T16:49:04",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the impact on processes and efficiency. However, while it touches on practical implications, it lacks specific details about tools or methodologies, which limits its depth and direct mentions of practical techniques.",
-    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -587,15 +503,6 @@
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:09:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps without reference to specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-17T22:09:40",
@@ -616,20 +523,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T22:09:43",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps rather than focusing on Scrum Team dynamics or roles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T22:09:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses the integration of Scrum and DevOps, focusing on team-level practices rather than organisational scaling of agility.",
+    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps rather than focusing on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -652,13 +550,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:32:21",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, focusing on how Scrum enhances DevOps practices. While it touches on aspects of software delivery, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth in Continuous Delivery specifics, such as automation in testing and deployment, or rapid feedback mechanisms, which are crucial to the category. Therefore, the confidence score reflects a low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
@@ -691,26 +589,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T15:27:23",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting the collaborative aspects and the importance of teamwork in achieving efficiency and quality. However, it primarily focuses on the methodologies rather than explicitly addressing team dynamics or collaboration techniques. The depth of discussion on collaboration is moderate, but it lacks specific strategies or examples related to team collaboration, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T22:09:58",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T22:09:59",
     "ai_confidence": 0,
@@ -728,15 +626,6 @@
     "reasoning": "Content heavily discusses Scrum and DevOps, with no mention of Windows or related topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T22:10:02",
@@ -748,13 +637,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:32:16",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their compatibility and complementary nature. While it touches on agile principles, it does not explicitly address the Agile Product Operating Model or its core themes such as product management, operational stability, or evidence-based management. The discussion is more centred on Scrum practices rather than the broader framework of APOM, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -778,15 +667,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T23:35:20",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the potential for improved processes and efficiency. However, it lacks a direct focus on market adaptability strategies, such as responding to market shifts or leveraging data for decision-making. While it touches on Agile methodologies, it does not delve deeply into how these practices enhance an organisation's agility in a dynamic market environment.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -826,10 +715,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T22:10:15",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of Scrum and DevOps without focusing on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -860,15 +749,6 @@
     "reasoning": "Content primarily discusses the integration of Scrum and DevOps, focusing on processes and strategies rather than mentoring or coaching.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T22:10:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T22:10:21",
@@ -880,37 +760,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T23:35:22",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting how Scrum shapes strategy within a DevOps context. It mentions the importance of adopting strategies and the synergy between the two frameworks, which aligns with the core themes of strategic alignment and optimisation of delivery processes. However, while it touches on strategic concepts, the depth of discussion is somewhat limited, focusing more on the relationship between Scrum and DevOps rather than providing extensive insights into strategic practices or metrics.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T23:35:26",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the potential for improved processes and efficiency. However, it lacks specific techniques or strategies for operational efficiency, focusing more on the conceptual relationship rather than practical applications or metrics. The depth of discussion is limited, primarily offering an overview rather than detailed insights into operational practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T23:35:29",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the relationship between Scrum and DevOps, discussing specific practices rather than the broader Agile philosophy. While it touches on collaboration and iterative processes, it lacks a deep exploration of Agile principles or the mindset behind Agile, which are essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
@@ -943,15 +823,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T23:35:31",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the importance of improving processes. However, it lacks a direct focus on continuous learning principles, such as growth mindset or knowledge sharing. While it touches on themes of collaboration and efficiency, it does not delve deeply into practices that foster a culture of continuous learning or provide specific techniques for knowledge sharing among team members.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -982,15 +862,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-14T23:35:35",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 50.0,
     "ai_alignment": 70.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting the importance of Scrum in a collaborative environment. While it touches on Agile principles, it primarily focuses on the relationship between Scrum and DevOps rather than on Agile Product Management specifically. The mention of Scrum's role and the emphasis on collaboration and iterative processes align with Agile concepts, but the depth of discussion is more about the synergy between Scrum and DevOps rather than product management practices directly.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1010,37 +890,16 @@
     "reasoning": "Content heavily discusses Scrum and DevOps, focusing on their roles and interactions rather than Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T22:10:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-14T23:35:38",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the interplay between Scrum and DevOps, highlighting their complementary nature, which touches on sociotechnical aspects. However, it primarily focuses on the technical practices of Scrum and DevOps without a thorough exploration of their organisational implications or the broader sociotechnical context. The discussion lacks depth in addressing how these frameworks influence team dynamics or organisational culture, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-14T23:35:41",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the benefits of their synergy. However, it primarily focuses on the concepts rather than specific products or literature. While there is a brief mention of Agile and Scrum courses, the content lacks detailed reviews or analyses of specific books or tools, which diminishes its alignment with the 'Products and Books' category.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -1063,23 +922,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-14T23:35:43",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting practical strategies for improving processes and efficiency. It mentions the importance of collaboration and iterative processes, which aligns with pragmatic thinking. However, while it touches on these themes, the depth of discussion is somewhat limited, focusing more on the potential benefits rather than providing detailed problem-solving strategies or real-world applications.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T22:10:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:37:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on Lead Time as a metric or its implications.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the relationship between Scrum and DevOps, discussing their compatibility and complementary nature. However, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, which are crucial for alignment with the category. Overall, while there are themes of efficiency and process improvement, they do not directly relate to Lead Time as defined.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1093,22 +955,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-14T23:35:45",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the importance of iterative processes. However, it lacks a direct focus on the delivery of functional software and does not provide specific examples or metrics related to working software. The discussion is more about the methodologies rather than the characteristics or quality of the software produced.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T22:10:55",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and its relationship with DevOps, without a clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1132,24 +994,24 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T22:10:59",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the integration of Scrum and DevOps rather than product strategy.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T23:35:47",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the integration of Scrum and DevOps, both of which are key methodologies in software development. It explicitly mentions Scrum's role and its compatibility with DevOps, aligning closely with the core themes of software engineering practices. The depth of discussion is substantial, providing insights into how these methodologies can enhance efficiency and collaboration in software projects.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1162,10 +1024,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T22:11:03",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and its relationship with DevOps, but does not specifically mention Azure DevOps or its functionalities.",
     "level": "Ignored"
   },
@@ -1196,18 +1058,6 @@
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T23:35:50",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content explicitly discusses the integration of Scrum and DevOps, which are key methodologies relevant to software developers. It highlights how these frameworks can enhance collaboration and efficiency in software delivery, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into the relationship between Scrum and DevOps, and how they can be leveraged together to improve software engineering practices.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T22:11:10",
@@ -1228,10 +1078,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T22:11:13",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the relationship between Scrum and DevOps, focusing on their principles and strategies rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1244,18 +1094,6 @@
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-14T23:35:52",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 22,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the integration of Scrum and DevOps, which aligns with the core themes of Agile and DevOps practices. It provides insights into how these methodologies can complement each other, indicating a conceptual understanding of industry trends. However, it lacks specific updates or reviews of tools and resources, focusing more on the theoretical aspects of their relationship rather than concrete news or evaluations.",
-    "level": "Tertiary"
-  },
   "Azure Repos": {
     "category": "Azure Repos",
     "calculated_at": "2025-02-17T22:11:16",
@@ -1267,10 +1105,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T22:11:18",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and its relationship with DevOps, focusing on process improvement rather than specific engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
@@ -1294,19 +1132,19 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T22:11:22",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of Scrum and DevOps, focusing on processes and practices rather than leadership roles or Agile leadership principles.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T22:11:23",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the integration of Scrum and DevOps without focusing on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1330,40 +1168,46 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T22:11:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:37:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without a clear focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, focusing on their compatibility and the benefits of their integration. While it touches on themes of efficiency and performance, it does not explicitly mention throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The discussion lacks depth in terms of defining or calculating throughput, and it does not inspect system constraints or trends related to throughput. Overall, the content is more about improving processes rather than analysing throughput specifically.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T23:35:54",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the potential for improved processes and efficiency. However, it primarily focuses on the relationship between the two methodologies rather than explicitly addressing value delivery principles or practices. While there are mentions of iterative processes and collaboration, the depth of discussion on value delivery strategies and techniques is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T22:11:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:37:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and DevOps methodologies, which are not directly related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, focusing on process improvement and team performance rather than system configuration. While it touches on automation in the context of DevOps, it does not delve into specific system configuration practices, tools, or methodologies. The discussion lacks depth and direct relevance to the key topics outlined for the System Configuration category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T22:11:33",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and its relationship with DevOps, without focusing on specific deployment strategies.",
     "level": "Ignored"
   },
@@ -1376,18 +1220,6 @@
     "reasoning": "Content heavily discusses Scrum and DevOps practices, focusing on process improvement rather than customer needs or product feature definition.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T23:35:57",
-    "ai_confidence": 62.0,
-    "ai_mentions": 50.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 60.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the role of Scrum within a DevOps context, highlighting its iterative processes and collaborative spirit. However, while it touches on Scrum principles, it primarily focuses on the relationship between Scrum and DevOps rather than on Scrum product development specifically. The depth of discussion on Scrum's application in product development is moderate, but the emphasis on DevOps detracts from a stronger alignment with the category.",
-    "level": "Tertiary"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T22:11:38",
@@ -1399,24 +1231,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T22:11:39",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between Scrum and DevOps, without focusing on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T23:35:59",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the integration of Scrum within a DevOps environment, highlighting the complementary nature of both methodologies. However, while it touches on strategic aspects, it primarily focuses on the operational and technical implications of Scrum and DevOps rather than a broader Agile strategy. The discussion lacks depth in terms of organisational vision alignment and strategic planning, which are key themes of the Agile Strategy category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
@@ -1438,15 +1270,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-14T23:36:01",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the benefits of collaboration and iterative processes. However, it primarily focuses on Scrum practices rather than broader organisational agility strategies. While there are mentions of improving processes and efficiency, the depth of discussion on organisational agility principles, leadership roles, or cultural shifts is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1486,74 +1318,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T23:35:18",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of a DevOps environment, indicating some relevance to Scrum principles. However, the primary focus is on DevOps rather than Scrum itself, leading to a lower confidence score. The discussion lacks depth regarding Scrum roles, events, or artifacts, and does not provide substantial insights into Scrum practices or frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:01:32",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their compatibility and complementary nature. While it touches on themes of collaboration and efficiency, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are central to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:32:00",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting the importance of improving processes and efficiency. However, it primarily focuses on the relationship between Scrum and DevOps rather than on Continuous Improvement as a standalone concept. While there are mentions of enhancing performance and collaboration, the depth of discussion on Continuous Improvement principles is limited, and it lacks empirical evidence or specific strategies related to Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:32:06",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the relationship between Scrum and DevOps, highlighting their complementary nature. However, it lacks a direct focus on Common Goals as defined in the category. While it touches on collaboration and strategy, it does not explicitly address shared objectives or the operationalisation of Common Goals. The discussion is more about the integration of Scrum and DevOps rather than aligning individual contributions to a common mission.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:32:09",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting the importance of collaboration and efficiency. However, it lacks a direct focus on competence as defined in the category, such as continuous learning or skill development. While it touches on improving processes, it does not delve deeply into the principles of professionalism or the development of capabilities, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T19:32:13",
+    "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Scrum and its relationship with DevOps, which are not directly related to the One Engineering System framework. While there are mentions of improving processes and collaboration, the focus is on Scrum's role rather than the principles or components of 1ES. The depth of discussion is moderate, but it does not provide specific insights into 1ES or its implementation, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their practices and principles rather than on the intentional shaping of outcomes through agency and adaptability. There are no explicit mentions of Agentic Agility, and the discussion lacks depth regarding the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:36:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature in enhancing software delivery. While it mentions iterative processes and collaboration, which are relevant to product development, the primary focus is on the relationship between Scrum and DevOps rather than on broader product development methodologies or practices. The discussion lacks depth in exploring customer feedback loops, risk minimisation, or continuous improvement practices, which are key topics in the product development category. Therefore, while there is some alignment, it does not fully meet the criteria for a strong focus on product development.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:36:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the relationship between Scrum and DevOps, discussing their compatibility and complementary nature. There are no direct mentions of Open Space Agile or its principles, and the discussion lacks depth regarding the core themes of Open Space Technology, psychological safety, or co-creation in Agile transformations. Overall, the content does not align with the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:36:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the integration of Scrum within a DevOps environment, discussing specific practices and roles associated with Scrum. It does not mention Agnostic Agile principles or advocate for a context-driven approach. The discussion lacks depth regarding the core themes of Agnostic Agile, such as ethical considerations or comparisons with other methodologies. Overall, the content is more about Scrum mechanics than the broader philosophy of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:36:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, focusing on their compatibility and complementary nature. While it touches on themes of collaboration and efficiency, it does not delve into specific scaling frameworks, strategies for cross-team collaboration, or the complexities involved in scaling Agile practices. The discussion lacks depth in addressing the methodologies and frameworks that are central to the Scaling category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:36:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the relationship between Scrum and DevOps, discussing their compatibility and complementary nature. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is also limited to Scrum and DevOps, with no exploration of autonomous cells or the impact of decentralisation.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:36:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the relationship between Scrum and DevOps, discussing their compatibility and complementary nature. However, it does not mention Liberating Structures or any specific facilitation techniques. The discussion lacks alignment with the core themes of Liberating Structures, such as enhancing participation or collaboration through specific methods. The depth of discussion is also minimal, as it does not explore any techniques or principles related to Liberating Structures, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:36:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting their complementary nature and the potential for improved processes and efficiency. However, it does not explicitly mention Time to Market or related metrics, nor does it provide in-depth analysis or strategies specifically aimed at reducing the time from conception to delivery. The focus is more on the synergy between Scrum and DevOps rather than on the measurement or improvement of Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:36:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the integration of Scrum and DevOps, discussing their roles in enhancing software delivery. It does not explicitly mention the concept of 'Company as a Product' or its principles. While there are elements of collaboration and efficiency, these are framed within the context of software development rather than organisational strategy or customer-centric approaches. The discussion lacks depth regarding organisational design or the impact of CaaP on culture and employee engagement, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:36:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and DevOps, without any direct mention of GitHub or its functionalities. While it touches on themes relevant to Agile methodologies, it does not align with GitHub's specific tools or practices, nor does it provide any depth regarding GitHub services. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:36:53",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the integration of Scrum and DevOps, discussing their roles and benefits in software delivery. While it touches on improving processes and efficiency, it does not explicitly mention Unrealised Value or its indicators, nor does it explore potential improvements or innovations in a way that aligns with the category's core themes. The discussion lacks depth regarding untapped opportunities or strategic decision-making related to Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:36:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the integration of Scrum and DevOps, focusing on their complementary nature and the benefits of their combined practices. However, it lacks explicit references to Current Value or its metrics, indicators, and techniques for measurement. The discussion is more about process improvement and efficiency rather than a real-time assessment of value delivered, which is central to the Current Value category. Therefore, while there are some relevant themes, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:36:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the integration of Scrum and DevOps, discussing their compatibility and complementary nature. However, it does not critically examine the challenges or pitfalls of merging traditional methodologies with agile practices, which is essential for the Hybrid Agile category. The discussion lacks depth regarding the implications of such integrations and does not address the core themes outlined for Hybrid Agile, such as accountability, command-and-control structures, or superficial adoption of agile principles. Therefore, while there are some mentions of agile concepts, the overall focus is not aligned with the critical examination required for this category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:37:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the integration of Scrum within a DevOps context, discussing roles and practices specific to Scrum rather than broader project management principles. While it touches on themes of collaboration and efficiency, it lacks detailed exploration of core project management concepts such as scope, time, cost, and quality. The discussion is more about Scrum's impact rather than a comprehensive view of project management methodologies or lifecycle phases, leading to a lower confidence score.",
     "level": "Ignored"
   }
 }

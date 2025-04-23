@@ -22,7 +22,7 @@ videos:
 - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
   embed: https://www.youtube.com/embed/CIDFB6XfoCg
 date: 2024-09-17
-weight: 690
+weight: 660
 creator: Martin Hinshelwood
 card:
   button:

@@ -34,16 +34,17 @@ delivery-audiences:
 - Product Managers
 - Teams
 tags:
-- Practical Techniques and Tooling
-- Throughput
-- Agile Project Management
+- Agile Frameworks
 - Azure Boards
 - Azure DevOps
-- Software Development
-- Agile Frameworks
-- Events and Presentations
 - Flow Efficiency
 - Lean Principles
+- Lean Thinking
+- Metrics and Learning
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Throughput
 categories:
 - Kanban
 card:

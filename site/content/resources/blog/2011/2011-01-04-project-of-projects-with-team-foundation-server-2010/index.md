@@ -9,7 +9,7 @@ ResourceImportId: 18
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
-weight: 700
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Azure DevOps
 categories: []
 preview: metro-visual-studio-2010-128-link-8-8.png

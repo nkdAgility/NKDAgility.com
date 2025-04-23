@@ -31,12 +31,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Competence
-- Personal
-- Continuous Improvement
-- People and Process
 - Agile Transformation
 - Software Development
+- Continuous Improvement
+- Competence
+- Personal
 resourceTypes:
 - video
 categories:

@@ -2,7 +2,7 @@
 title: 'Mastering Azure DevOps Migration: Expert Insights for a Seamless Transition'
 description: Unlock the secrets to a smooth Azure DevOps migration! Discover expert tips, common pitfalls, and how to tackle unique challenges for a successful transition.
 date: 2024-11-08T05:45:01Z
-weight: 855
+weight: 840
 ResourceId: 4Tjc5uEtM7M
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,11 +25,10 @@ duration: 262
 isShort: false
 tags:
 - Azure DevOps
-- Practical Techniques and Tooling
 - Pragmatic Thinking
-- Install and Configuration
 - Software Development
 - Troubleshooting
+- Install and Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,8 +36,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 Migrating to Azure DevOps can feel like a daunting task, especially when you consider that for many organisations, it’s a one-time event. This singularity often means that the necessary skills for a successful migration may not exist in-house. From my experience, it rarely makes sense to build and maintain these skills internally, particularly when the migration is something you’re likely to do just once.

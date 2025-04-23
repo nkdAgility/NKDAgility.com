@@ -2,7 +2,7 @@
 title: Building a culture of Quality
 description: Unlock the true potential of CI/CD! Join Martin Hinshelwood as he reveals best practices for Continuous Integration and Delivery to enhance quality and speed.
 date: 2024-11-22T07:00:08Z
-weight: 215
+weight: 150
 ResourceId: IZ-FlBbGaSY
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,20 @@ preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Product Delivery
 - Technical Excellence
 - Engineering Practices
+- Product Delivery
 - Software Development
-- People and Process
 - Value Delivery
 - Working Software
-- Practical Techniques and Tooling
-- Software Developers
 - Azure Pipelines
+- Automated Testing
+- Azure DevOps
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Technical Mastery
+- Application Lifecycle Management
+- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +47,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Technical Leadership
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

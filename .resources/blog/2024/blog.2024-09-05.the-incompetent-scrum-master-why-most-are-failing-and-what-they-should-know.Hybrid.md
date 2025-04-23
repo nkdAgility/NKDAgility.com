@@ -9,7 +9,7 @@ ResourceImportId: 51730
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2024-09-05
-weight: 270
+weight: 200
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -31,18 +31,24 @@ aliasesArchive:
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
-- Agile Project Management
+- Pragmatic Thinking
+- Software Development
 - Agile Frameworks
+- Competence
 - Scrum Master
 - Agile Product Management
-- Software Development
-- People and Process
-- Pragmatic Thinking
-- Scrum Product Development
-- Scrum Team
 - Agile Transformation
+- Professional Scrum
+- Scrum Team
+- Team Performance
+- Technical Mastery
+- Engineering Practices
+- Operational Practices
+- Product Delivery
 categories:
 - Scrum
+- Technical Leadership
+- Engineering Excellence
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

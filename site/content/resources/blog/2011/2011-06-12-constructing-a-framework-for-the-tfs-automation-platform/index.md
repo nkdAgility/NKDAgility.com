@@ -9,7 +9,7 @@ ResourceImportId: 3641
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-12
-weight: 395
+weight: 330
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,6 @@ tags:
 - Software Development
 - Platform Engineering
 - Internal Developer Platform
-- Practical Techniques and Tooling
 - Technical Mastery
 categories: []
 

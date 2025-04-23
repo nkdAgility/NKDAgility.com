@@ -30,16 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Agile Project Management
-- Accountability
-- Scrum Product Development
 - Scrum Team
-- Transparency and Accountability
-- Product Owner
 - Software Development
+- Product Owner
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
+- Scrum
 
 ---
 ## Product Owner's Misstep

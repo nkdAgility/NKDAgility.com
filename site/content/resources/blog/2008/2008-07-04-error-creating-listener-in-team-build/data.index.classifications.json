@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses a technical issue related to permissions in IIS and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:38:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to service account permissions and IIS, with no focus on products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T12:38:54",
@@ -53,40 +44,16 @@
     "reasoning": "Content primarily discusses a technical issue related to permissions in a build environment, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:38:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to web services and permissions, with no mention of events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:39:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a technical error related to permissions in a build environment, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:39:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to permissions in a build environment, which does not align with the core principles of DevOps.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:39:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an error related to permissions in a build environment, with no mention of AI, automation, or Agile practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to permissions in Team Build, which is more aligned with operational troubleshooting than the broader principles of DevOps. While it touches on aspects of access rights and service accounts, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of 'service account' and 'Build Agent' indicates a technical context but does not delve into the philosophy or practices of DevOps.",
     "level": "Ignored"
   },
   "Lean": {
@@ -109,24 +76,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:39:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to permissions in IIS and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related concepts. The content lacks depth and relevance to the category, making it unsuitable for classification under the Agile Product Operating Model.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:30:44",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses a specific technical issue related to permissions for a Build Agent in IIS, which aligns with practical tooling in a DevOps context. However, it lacks broader discussions on methodologies or frameworks, and the depth of the discussion is limited to a single troubleshooting scenario without extensive exploration of tools or best practices.",
-    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -148,13 +106,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:14:28",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a specific error encountered during the configuration of a build agent in IIS, which directly relates to installation and configuration processes. It provides actionable insights on permissions required for the service account, which aligns with the category's focus on troubleshooting common installation issues. However, the discussion lacks a comprehensive step-by-step guide or broader context on installation procedures, which affects the depth and overall alignment with the category.",
     "level": "Secondary"
   },
@@ -169,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:39:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical error related to permissions in a build environment, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T12:39:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an error related to permissions in a build environment, which does not focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:39:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to permissions in IIS and does not focus on news or reviews in Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -275,30 +218,12 @@
     "reasoning": "Content primarily discusses an error related to permissions in IIS and does not focus on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:41:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to permissions in a build environment, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:41:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical error related to permissions and service accounts, with no significant focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T12:41:11",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to permissions in a build environment, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -327,15 +252,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error related to permissions in a build environment, which is not central to Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:41:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error and its resolution without focusing on discovery, learning, or innovation processes.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -439,13 +355,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:30:42",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific error encountered while running tests against web services and the solution involving permissions for a service account. While it touches on aspects of technical problem-solving, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. The focus is more on troubleshooting rather than on principles of technical mastery, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -467,7 +383,7 @@
     "reasoning": "Content discusses technical issues related to web services and build agents, which is unrelated to large scale Agile principles and practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:50:12",
     "ai_confidence": 0,
@@ -485,24 +401,15 @@
     "reasoning": "Content primarily deals with a specific error related to build and permissions in a programming context, lacking focus on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical error related to IIS and service account permissions, with no focus on agile methodologies or project management principles.",
-    "level": "Ignored"
-  },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T07:30:42",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an error related to permissions for a Build Agent, which is tangentially related to Azure Pipelines. However, it lacks a comprehensive discussion on Azure Pipelines itself, focusing instead on a specific issue without broader context or detailed exploration of CI/CD practices, pipeline configurations, or deployment strategies.",
     "level": "Ignored"
   },
@@ -517,10 +424,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to web services and build permissions, which is not relevant to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -668,24 +575,6 @@
     "reasoning": "Content is primarily focused on a technical issue regarding permissions and error handling in IIS, with no mention of estimation practices or Agile frameworks.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to service account permissions in a specific technical context, without focusing on Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a technical issue related to setting permissions for a service account in a build environment, with no significant mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:50:12",
@@ -697,13 +586,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T15:11:38",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 78.0,
     "ai_mentions": 80.0,
     "ai_alignment": 70.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses an error related to permissions in IIS, which is a component of the Windows operating system. It provides a specific troubleshooting scenario involving service accounts and access rights, aligning well with the core themes of the Windows category. The depth of discussion is significant as it details a solution to a common issue, demonstrating practical application within the Windows environment. However, while the focus is primarily on Windows, the mention of 'Build Agent' and 'web services' could suggest a broader context that slightly detracts from a perfect alignment.",
     "level": "Secondary"
   },
@@ -727,13 +616,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:30:46",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific error encountered during the testing phase of a web service, which relates to software development practices. It mentions permissions and configurations necessary for running tests, aligning with best practices in coding and software design. However, the discussion lacks depth in exploring broader software development methodologies or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on a technical issue related to permissions in a build environment and does not discuss Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to permissions in a web service context and does not address scaling Agile practices or methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -793,10 +673,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to service accounts and permissions rather than innovation capabilities or related practices.",
     "level": "Ignored"
   },
@@ -874,10 +754,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses an error related to service account permissions and IIS without any mention of the Definition of Done or its importance in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -892,11 +772,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on specific error handling in a build environment and service account permissions rather than Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily addresses a specific error related to permissions in Team Build, which is a technical issue rather than a discussion on Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the content does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is limited to troubleshooting a specific problem, lacking any broader context or exploration of Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -1000,28 +883,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily addresses a technical issue related to service account permissions and does not discuss empirical process control or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to service accounts and permissions in Build Agents, not relevant to Scaling Kanban principles or practices.",
+    "reasoning": "Content primarily addresses a technical issue related to service account permissions and does not discuss empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses an error related to permissions in IIS and does not address the Definition of Ready or any criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -1054,11 +928,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily addresses an error encountered during a testing process, which is related to access permissions rather than discussing Test First Development principles, practices, or methodologies.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses resolving a specific error related to permissions in Team Build, with no explicit mention of Test First Development principles or practices. While it touches on running tests, it does not align with the core themes of defining success criteria, automated testing practices, or the collaborative aspects of Test First Development. The discussion lacks depth and detail on the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1135,15 +1012,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:46:23",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a practical problem encountered while running tests against web services, specifically addressing a permissions issue related to IIS. While it provides a real-world solution to a technical problem, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on a specific technical challenge rather than a comprehensive exploration of pragmatic thinking in project management contexts.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1174,10 +1051,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to permissions and accessing web services, with no focus on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -1201,10 +1078,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to service account permissions and error handling, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1226,34 +1103,28 @@
     "reasoning": "Content focuses on resolving a specific error related to permissions in IIS and does not discuss deployment methodologies or strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical error related to web services and permissions, with no relevance to Scrum product development principles or practices.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T18:57:51",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses a specific error encountered while running tests against web services, which directly relates to troubleshooting. It identifies the issue (access rights to create listeners in IIS) and provides a solution (granting the service account specific permissions). This aligns well with the core themes of the category, as it involves diagnosing a technical problem and implementing a resolution. The depth of discussion is substantial, detailing the steps taken to resolve the issue, which enhances the overall confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation issues unrelated to Scrum roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to permissions in a build environment, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is limited to a specific technical problem, making it irrelevant to the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1267,10 +1138,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to service account permissions and IIS, which is not relevant to team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1285,10 +1156,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:50:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to permissions and IIS, with no clear connection to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1299,15 +1170,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily addresses an error encountered while creating listeners in IIS related to running tests, but does not focus on Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical error related to web services and build processes, with no mention of Scrum principles, practices, or scaling discussions.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1339,24 +1201,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:15:14",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific error related to permissions in IIS, which is a crucial aspect of system configuration. It directly addresses the need to configure service account permissions to resolve an access issue, aligning well with the core themes of system setup and configuration. The depth of the discussion includes practical steps taken to resolve the issue, demonstrating a clear understanding of configuration management. However, while the focus is on a configuration issue, it does not explore broader best practices or optimisation strategies, which slightly limits its overall depth.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to permissions in a web service test scenario, which does not align with the topic of scaling agility.",
-    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1378,13 +1231,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:51:12",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a technical error related to permissions in a build environment, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and provides minimal detail relevant to social technologies.",
     "level": "Ignored"
   },
@@ -1417,26 +1270,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:59:01",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or its principles, roles, events, or any related topics. It focuses on a technical issue regarding permissions in IIS and does not align with the core themes of Scrum or project management methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:41:19",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses a specific error related to permissions in a build environment, which does not directly address the principles or practices of the Shift-Left Strategy. While it mentions testing, it does not explore integrating testing or security earlier in the development lifecycle, nor does it provide any depth on the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build, with no explicit discussion of Common Goals or their significance in Agile or DevOps. It lacks alignment with the core themes of shared objectives and strategic alignment, and provides minimal detail relevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in Team Build, which does not directly discuss competence or its principles. While it touches on the need for appropriate permissions, it lacks a broader discussion on continuous learning, skill development, or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to permissions in Team Build, with no explicit discussion of Continuous Improvement principles. While it touches on problem-solving, it lacks the broader themes of reflection, adaptation, or empirical evidence that characterise Continuous Improvement. The mention of 'expert tips' does not align with the category's focus on systematic enhancement or organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical error related to permissions in a build environment. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of permissions and service accounts is tangential and does not align with the core themes of intentionality, adaptability, or value creation associated with Agentic Agility.",
     "level": "Ignored"
   }
 }

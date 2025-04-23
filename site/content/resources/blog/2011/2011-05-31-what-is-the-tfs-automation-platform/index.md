@@ -9,7 +9,7 @@ ResourceImportId: 3373
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-05-31
-weight: 805
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +26,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Internal Developer Platform
-- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories: []
 

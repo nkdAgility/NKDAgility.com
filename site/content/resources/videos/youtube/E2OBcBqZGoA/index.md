@@ -27,15 +27,21 @@ duration: 46
 isShort: true
 tags:
 - Beta Codex
-- People and Process
+- Social Technologies
 - Team Motivation
 - Organisational Culture
 - Pragmatic Thinking
-- Value Delivery
-- Team Collaboration
 - Organisational Agility
 - Organisational Change
+- Value Delivery
+- Team Collaboration
+- Agile Leadership
+- Agile Philosophy
 - Business Agility
+- Sociotechnical Systems
+- Self Organisation
+- Employee Engagement
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +49,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
+- Product Development
 
 ---
 In my experience working with organisations of all sizes, one thing has become abundantly clear: the struggle to maximise value from our work is not exclusive to large enterprises. In fact, I would argue that smaller organisations often have a distinct advantage in this area. Why? Because they possess the agility to adapt their business practices more readily than their larger counterparts.

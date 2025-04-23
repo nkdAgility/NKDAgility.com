@@ -9,7 +9,7 @@ ResourceImportId: 50115
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-29
-weight: 695
+weight: 665
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -28,18 +28,23 @@ aliasesArchive:
 - /how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
-- Agile Project Management
 - Software Development
 - Scrum Team
 - Professional Scrum
-- Scrum Product Development
 - Agile Product Management
-- People and Process
+- Agile Planning
+- Agile Frameworks
 - Product Delivery
 - Team Performance
 - Value Delivery
+- Pragmatic Thinking
+- Working Software
+- Agile Transformation
+- Common Goals
+- Scrum Master
 categories:
 - Scrum
+- Product Development
 - Product Management
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 

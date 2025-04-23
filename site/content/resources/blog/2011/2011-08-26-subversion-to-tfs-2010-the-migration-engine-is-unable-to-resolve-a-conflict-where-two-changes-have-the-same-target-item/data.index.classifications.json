@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than Agile product management principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:28:45",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed discussion on the practical challenges and techniques involved in migrating from Subversion to TFS, specifically addressing conflict resolution during the migration process. It mentions specific tools and methodologies, such as the 'Migration Support' tool and the 'Session Viewer', which are directly relevant to the category. The depth of discussion includes practical steps for resolving conflicts and considerations for tool settings, aligning well with the core themes of practical techniques and tooling in Agile and DevOps. However, while it is focused on practical application, it does not extensively cover broader Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T22:04:58",
@@ -31,44 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:37:23",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights. The discussion is centred around practical migration challenges rather than strategic management practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:28:04",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses the complexities involved in migrating a Subversion repository to Team Foundation Server, particularly focusing on conflicts arising from case sensitivity. While it touches on issues related to code quality and the challenges of managing changes in a migration context, it lacks a deeper exploration of complexity theory or best practices in software development. The primary focus is on practical migration issues rather than a theoretical discussion of code complexity or quality principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T22:05:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:05:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on conflict resolution and migration tools, without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:00:14",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the installation and configuration challenges encountered during the migration from Subversion to TFS, detailing specific conflicts and resolutions. It discusses the case sensitivity issue, the use of migration support tools, and provides actionable steps to resolve conflicts, which aligns well with the category's focus on installation and configuration processes. The depth of discussion is substantial, as it includes troubleshooting steps and recommendations for handling conflicts, thus justifying a high confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:05:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:05:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:37:08",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical challenges of migrating from Subversion to TFS 2010, discussing specific conflicts and resolutions related to version control systems. While it touches on aspects of software development and project management, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps philosophy and practices, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -158,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:05:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T22:05:26",
@@ -174,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T22:05:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating repositories from Subversion to TFS, focusing on conflicts and resolution methods without addressing human behaviour or team processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T22:05:32",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -223,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T06:28:06",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process. While it touches on technical issues, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of specific tools and techniques is relevant but does not delve into the principles of Technical Excellence such as TDD, CI/CD, or modular architecture. Therefore, while there is some alignment with the category, it is not a primary focus.",
     "level": "Ignored"
   },
@@ -278,15 +200,6 @@
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical conflicts and resolutions, which does not align with the principles of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:05:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, without focusing on specific products or literature relevant to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T22:05:45",
@@ -298,13 +211,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T06:28:11",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses issues related to migrating from Subversion to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it does not explicitly mention Azure DevOps services or best practices associated with them. The focus is more on the technical challenges of migration rather than on Azure DevOps functionalities or methodologies. While there are references to TFS, the discussion lacks depth in terms of Azure DevOps principles and practices, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -328,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T22:05:50",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:37:20",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical challenges related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. It does not mention or align with the Agile Product Operating Model, its principles, or any related topics. The discussion is centred around traditional project management issues rather than agile methodologies or product management practices.",
     "level": "Ignored"
   },
@@ -365,15 +278,6 @@
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on conflict resolution rather than the broader aspects of application lifecycle management.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T22:11:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to migrating from Subversion to TFS, rather than providing industry news or reviews.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:06:40",
@@ -385,24 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on issues related to migrating from Subversion to TFS, specifically about conflicts during migration, and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:28:14",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses specific technical challenges encountered during the migration from Subversion to TFS, particularly focusing on case sensitivity issues and conflict resolution. While it does touch on technical practices, such as the use of migration tools and handling conflicts, it lacks a broader discussion on software craftsmanship principles or best practices in software design and architecture. The depth of the discussion is moderate, providing some insights into the migration process but not extensively covering methodologies or principles that would elevate it to a higher level of technical mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -415,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:37:27",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. While it touches on aspects of software delivery, such as handling changes and conflicts, it does not explicitly address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion lacks depth in Continuous Delivery concepts and does not provide insights into the broader themes of Continuous Delivery, such as rapid feedback, cultural aspects, or case studies. Therefore, the content's relevance to the Continuous Delivery category is minimal.",
     "level": "Ignored"
   },
@@ -436,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to migrating from Subversion to Team Foundation Server, including conflict resolution during migration. It does not focus on Lead Time as a measurement of time from initiation to delivery, nor does it cover any of the key topics related to Lead Time.",
     "level": "Ignored"
   },
@@ -454,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about migration issues between Subversion and TFS, without discussion on backlog item readiness or Agile practices.",
     "level": "Ignored"
   },
@@ -508,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:28:09",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process. While it touches on operational aspects, such as managing conflicts and using support tools, it lacks a broader discussion on operational efficiency or methodologies like Agile, DevOps, or Lean. The content is more technical and specific to migration issues rather than providing a comprehensive view of operational practices aimed at enhancing efficiency.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from Subversion to TFS and the associated conflicts, which is not relevant to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -583,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on technical details regarding migrating repositories from Subversion to Team Foundation Server, discussing conflicts related to case sensitivity and migration tools. There is no discussion on team dynamics, collaboration, or agile methodologies that would align it with the Team Performance category.",
     "level": "Ignored"
   },
@@ -601,40 +505,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on issues related to migrating Subversion repositories to Team Foundation Server, resolving conflicts, and the intricacies of file handling, without discussing Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:07:07",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the challenges and solutions related to migrating a Subversion repository to Team Foundation Server, which is a specific software development task. It explicitly mentions issues like case sensitivity and conflict resolution, which are relevant to version control practices in software development. The depth of discussion includes detailed steps and considerations for resolving migration conflicts, aligning well with best practices in coding and collaborative development. Overall, the content is focused on a software development process, justifying a high confidence score.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on the technical challenges and details of migrating a Subversion repository to Team Foundation Server, without any mention of agile methodologies, principles, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration issues between version control systems without relation to Agile values or principles.",
     "level": "Ignored"
   },
@@ -649,13 +544,13 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T10:37:33",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the challenges and strategies involved in migrating from Subversion to Team Foundation Server, focusing on conflict resolution during the migration process. It explicitly mentions issues related to case sensitivity and how these can lead to conflicts, which is a key aspect of version control practices. The depth of discussion includes specific examples of conflicts encountered, potential resolutions, and tools that can assist in the migration process. While it does not cover broader topics like branching strategies or code review processes, it aligns well with the core themes of conflict resolution and effective code management in modern source control.",
     "level": "Secondary"
   },
@@ -688,19 +583,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflicts and technical challenges rather than collaboration tools aimed at enhancing communication and coordination within Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process rather than methods or strategies for organisational change.",
     "level": "Ignored"
   },
@@ -731,15 +626,6 @@
     "reasoning": "Content primarily discusses technical issues with migrating repositories and conflict resolution, which is not relevant to customer satisfaction.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on migrating from Subversion to Team Foundation Server and discusses issues related to conflict resolution during this migration process. It does not address Scrum, scaling practices, or any related frameworks or methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:06:40",
@@ -758,24 +644,15 @@
     "reasoning": "Content heavily discusses technical issues related to migrating from Subversion to TFS, with no focus on psychological safety in team dynamics or workplace culture.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution during this technical process, without any alignment to the principles or discussions around scaling agility in organizations.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:28:04",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process. While it touches on aspects of software development, such as handling conflicts and the importance of migration tools, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement in software craftsmanship. The mention of conflicts and resolution strategies is relevant but does not delve deeply into the overarching themes of engineering excellence, such as coding standards or quality assurance.",
     "level": "Ignored"
   },
@@ -817,13 +694,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:59:34",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical problem-solving strategies related to migrating from Subversion to TFS, highlighting specific conflicts and resolutions encountered during the process. It provides real-world examples of issues faced during migration, which aligns with the core themes of pragmatic thinking. However, while it touches on practical applications, the depth of discussion on broader Agile or DevOps principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -838,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS and does not focus on innovation capabilities, evidence-based management, or strategies for fostering innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating a repository from Subversion to Team Foundation Server, with no relevance to Scrum practices or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, without reference to scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,10 +742,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migration issues between Subversion and TFS, not on test automation practices or tools.",
     "level": "Ignored"
   },
@@ -910,19 +769,19 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migration issues between Subversion and TFS, not on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating a repository from Subversion to TFS, with a focus on conflict resolution rather than Continuous Integration practices or principles.",
     "level": "Ignored"
   },
@@ -1009,10 +868,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses migration issues and conflicts between Subversion and Team Foundation Server, without any mention of Cycle Time or related concepts.",
     "level": "Ignored"
   },
@@ -1036,19 +895,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to migrating code from Subversion to TFS, focusing on conflict resolution rather than change management strategies, practices, or organizational transformation.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to software migration from Subversion to TFS, focusing on conflict resolution in data migration rather than team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1070,7 +929,7 @@
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution during this technical process rather than on broader themes of digital transformation or strategic technology integration.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:06:40",
     "ai_confidence": 0,
@@ -1079,26 +938,17 @@
     "reasoning": "Content primarily discusses migration issues between Subversion and TFS, with no focus on Minimum Viable Products or relevant MVP concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses migration issues between Subversion and TFS with no mention or relevance to AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T18:47:33",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily discusses the challenges and solutions related to migrating a Subversion repository to Team Foundation Server, which involves system configuration aspects such as handling conflicts, settings adjustments, and the use of migration tools. While it does not explicitly cover broader system configuration best practices, it delves into specific configuration issues and resolutions, aligning with the category's focus. However, the depth of discussion on general configuration management principles is somewhat limited, hence the moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1138,11 +988,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on migration issues between Subversion and TFS, with no discussion of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. It does not mention Test First Development, its principles, or any related practices such as TDD or ATDD. The discussion is centred around migration issues rather than testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1165,19 +1018,19 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical issues related to migrating from Subversion to TFS, and does not discuss scalability of Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T02:06:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details and issues related to Subversion and Team Foundation Server migration, with no relevance to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1201,15 +1054,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T12:02:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on troubleshooting issues encountered during the migration from Subversion to TFS, specifically addressing conflicts arising from case sensitivity. It provides detailed insights into diagnosing the problem, methods for resolving conflicts, and practical steps to mitigate issues, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is substantial, as it includes specific examples, tools, and recommendations for resolution, demonstrating a thorough understanding of the troubleshooting process.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1222,11 +1075,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Subversion and TFS migration, with no focus on Scrum Master responsibilities or Agile methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. It does not mention the role or responsibilities of a Scrum Master, nor does it align with the core themes of Scrum or agile principles. The discussion is entirely centred on technical migration issues, making it irrelevant to the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1245,18 +1101,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on specific challenges and resolutions regarding the migration of a Subversion Repository to Team Foundation Server, without addressing any working agreements or principles related to teamwork and collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:28:04",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution during the migration process. While it touches on aspects relevant to software developers, such as handling conflicts and using migration tools, it lacks a direct connection to Agile or DevOps methodologies. The discussion is more about specific technical issues rather than broader practices or principles that enhance productivity or collaboration in software development.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1360,10 +1204,10 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-16T02:06:41",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and solutions related to migrating from Subversion to Team Foundation Server, with no focus on trends or trend analysis in Agile, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -1374,15 +1218,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating code from Subversion to TFS, focusing on conflicts and resolution methods, without addressing accountability in Agile practices or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:06:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of migrating from Subversion to TFS, with a focus on technical issues and conflict resolution, which is unrelated to Scaling Kanban principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1396,22 +1231,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T02:06:41",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on issues related to migrating repositories from Subversion to Team Foundation Server, particularly dealing with file conflicts, and does not discuss any principles or practices of Test Driven Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:39:40",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical challenges of migrating from Subversion to TFS 2010, specifically addressing conflict resolution during the migration process. While it touches on issues that may indirectly relate to team dynamics and decision-making, it lacks explicit discussions on collaboration, transparency, or value delivery within organisations. The content does not provide a detailed exploration of social technologies or their impact on organisational culture, which are key aspects of the category. Therefore, the confidence score reflects a very low alignment with the 'Social Technologies' category.",
     "level": "Ignored"
   },
@@ -1444,62 +1279,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:47:49",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution during the migration process. There are no direct mentions of Scrum principles, roles, events, or practices. The content does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. Overall, the discussion is technical and specific to migration challenges, which is unrelated to Scrum.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:30:14",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, and the discussion lacks depth on any related methodologies or practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:37:11",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical challenges and solutions related to migrating from Subversion to TFS 2010, with no explicit discussion on Continuous Improvement principles. While it touches on problem-solving and conflict resolution, it lacks a broader context of ongoing reflection, adaptation, or a culture of experimentation that characterises Continuous Improvement. The content does not provide empirical evidence or strategies for integrating Continuous Improvement into processes, nor does it discuss its impact on team effectiveness.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:37:13",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical challenges and solutions related to migrating from Subversion to TFS 2010, specifically addressing conflict resolution. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives or strategic alignment. The mention of migration tools and conflict resolution is more about project management and technical execution rather than fostering collaboration or accountability across teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:37:16",
+    "calculated_at": "2025-04-10T15:55:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical challenges of migrating from Subversion to TFS 2010, discussing specific conflicts and resolutions. While it touches on the need for problem-solving skills, it does not explicitly address the broader themes of competence, such as continuous learning or skill development in Agile or DevOps contexts. The discussion lacks depth in relation to competence as a foundational principle, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to migrating from Subversion to TFS 2010, focusing on conflict resolution during the migration process. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The discussion is largely technical and procedural, lacking depth in the context of agency and intentionality.",
     "level": "Ignored"
   }
 }

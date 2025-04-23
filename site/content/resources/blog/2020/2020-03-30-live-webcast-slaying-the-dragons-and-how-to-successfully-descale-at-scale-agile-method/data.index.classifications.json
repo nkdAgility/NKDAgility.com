@@ -1,20 +1,11 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T17:39:42",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the challenges of scaling Agile but does not focus on specific Agile Product Management practices or principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:39:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of organisational change and scaling Agile without focusing on specific tools, methodologies, or practical techniques.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -28,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T21:03:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses scaling agile practices and the challenges organisations face in changing their business approaches. While it hints at the need for transformation and improvement in software delivery, it lacks explicit references to evidence-based management principles or metrics. The focus is more on general agile practices rather than on empirical decision-making or specific metrics related to current value, time to market, or outcome management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T17:39:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational change and scaling agile practices, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T17:39:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of scaling agile practices in organisations without a clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T17:39:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the challenges of scaling Agile practices without a focus on AI or automation technologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -76,67 +40,46 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T17:39:53",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices, with no focus on installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T17:39:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of scaling Agile and the misconceptions surrounding it, without a clear focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T03:13:58",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the need for organisations to change their business practices to improve software delivery, which aligns with the concept of market adaptability. However, it lacks explicit discussions on Agile methodologies, DevOps practices, or Lean principles, which are crucial for a higher confidence score. The depth of discussion is limited, focusing more on the rarity of successful scaling rather than providing detailed strategies or case studies related to market adaptability.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T03:13:26",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices to improve software delivery, hinting at the interplay between organisational culture and technology adoption. However, it lacks explicit mentions of sociotechnical systems and does not delve deeply into the social and technical interactions or provide detailed examples or frameworks related to the category.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T03:13:50",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the challenges organisations face in adapting to change and the rarity of successful scaling, which aligns with the themes of resilience and change. However, it lacks detailed exploration of specific strategies or frameworks for fostering resilience, and the depth of discussion is limited, focusing more on the general idea of change rather than providing actionable insights or methodologies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:02:55",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on scaling agile practices rather than discussing DevOps principles directly. While it touches on the need for change in business practices and hints at collaboration, it lacks explicit references to key DevOps concepts such as automation, shared accountability, or continuous improvement. The discussion is more aligned with agile methodologies than with the core themes of DevOps.",
     "level": "Ignored"
   },
@@ -151,23 +94,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T21:03:07",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses scaling agile practices but does not explicitly mention the Agile Product Operating Model or its core principles. While it touches on the need for change in business practices and hints at values and principles of agile, it lacks a focused discussion on product management integration, operational stability, or continuous improvement specific to the APOM framework.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T17:42:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational change and scaling agile practices without specific references to products, books, or tools.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -179,39 +113,27 @@
     "reasoning": "Content primarily discusses scaling agile practices and organisational change, without a clear focus on Value Stream Management principles or techniques.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T03:13:48",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the challenges organisations face in adopting Agile methodologies at scale, which aligns with the themes of Agile and technology updates. However, it lacks direct mentions of specific news or reviews, and the depth of discussion is more focused on general observations rather than detailed evaluations or insights into specific tools or practices. The references to presentations and meetups suggest a connection to industry events, but they do not provide substantial information or analysis that would elevate the content to a higher confidence score.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-15T03:13:42",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the challenges organisations face in adapting to new ways of working, hinting at the need for change in traditional practices. However, it lacks direct mentions of BetaCodex principles, decentralisation, or human-centric approaches. The discussion is more focused on scaling agile practices rather than the core tenets of BetaCodex, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T03:13:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content touches on the challenges organisations face in adapting their business practices to improve software delivery, hinting at the importance of agile methodologies. However, it lacks explicit discussions on product delivery methodologies, best practices, or detailed strategies, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -235,24 +157,12 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T17:42:56",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices without a focus on metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T11:45:22",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the challenges organisations face in changing their business processes and the importance of adapting to agile principles. However, it lacks specific details on team dynamics, leadership roles, or communication strategies, which are crucial for a deeper understanding of the interplay between people and processes.",
-    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -265,15 +175,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-07T14:28:06",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in adapting to change and the rarity of successful scaling, which aligns with the themes of organisational agility. However, it lacks direct mentions of agile methodologies, leadership roles, or specific strategies for enhancing agility, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -304,15 +214,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T03:13:36",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in adapting their business practices and highlights the rarity of successful scaling in agile environments. However, it lacks explicit mentions of business agility principles and does not delve deeply into strategies or frameworks that support agility. The focus is more on the need for change rather than a comprehensive exploration of business agility itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -325,26 +235,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-15T03:13:29",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the need for scaling agility. However, it lacks explicit references to frameworks, organisational structures, or detailed strategies for fostering a culture of agility. The focus is more on the general concept of scaling rather than a comprehensive exploration of enterprise agility principles.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T12:30:03",
-    "ai_confidence": 78.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content explicitly references a presentation and includes links to both a video and a meetup event, indicating a strong focus on sharing insights from a specific event. It discusses the challenges of scaling Agile practices, which aligns well with the core themes of the category. The depth of discussion is significant, as it explores the commonalities of successful organisations in scaling Agile, providing valuable insights that would be relevant in a presentation context.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -394,10 +292,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T17:43:23",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices, without a focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -421,25 +319,25 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:03:11",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses scaling agile practices, which is tangentially related to Continuous Delivery but does not explicitly focus on its principles or practices. While it hints at improving software delivery, it lacks direct mentions of Continuous Delivery concepts, automation, or specific strategies for incremental improvements.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-15T03:13:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges organisations face in adapting to change and scaling agile practices, which indirectly relates to strategic goals. However, it lacks explicit mentions of long-term objectives or frameworks for setting strategic goals. The focus is more on operational challenges rather than a detailed exploration of strategic alignment with agile principles.",
     "level": "Ignored"
   },
@@ -454,22 +352,22 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-15T03:13:18",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the importance of cultural transformation for successful scaling. However, it lacks explicit discussions on leadership roles, cultural dimensions, or strategies for fostering a culture of continuous improvement. The focus is more on the concept of scaling agile rather than a deep exploration of organisational culture itself.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T17:43:33",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices, without a focus on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -493,10 +391,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-14T17:43:37",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of scaling Agile and the misconceptions surrounding it, rather than focusing on Agile Planning methodologies and practices.",
     "level": "Ignored"
   },
@@ -538,27 +436,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-15T03:13:56",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in adopting Agile principles and the misconception of scaling Agile without embracing its core values. While it touches on the importance of adapting to change and the need for a cultural shift, it lacks a detailed exploration of the Agile Manifesto or its principles, which limits its depth and direct mention of Agile philosophy.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T03:13:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the importance of scaling Agile effectively. However, it lacks direct mentions of Agile, Scrum, or DevOps strategies and does not delve deeply into specific strategic frameworks or techniques. The focus is more on general observations about organisational change rather than a structured discussion on strategy within Agile contexts.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -571,13 +469,13 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T03:13:46",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 62.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the principles of Agile transformation by mentioning the need to move past the illusion of scaled agile. However, it lacks explicit references to Agile methodologies, frameworks, or detailed strategies for transformation, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -628,27 +526,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T03:14:09",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in adapting their business practices to improve software delivery, hinting at Agile principles. However, it lacks detailed exploration of specific software development methodologies or practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T03:14:11",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content touches on the challenges organisations face in adopting agile methodologies and hints at the importance of agile principles for successful scaling. However, it lacks explicit discussions on specific agile frameworks, roles, or practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -691,10 +577,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-14T17:44:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -718,15 +604,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T14:35:48",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the need for transformation to improve software delivery. However, it lacks explicit frameworks or methodologies for organisational change, and the depth of discussion is limited, focusing more on the rarity of successful scaling rather than providing detailed insights into change management principles.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -755,15 +641,6 @@
     "reasoning": "Content primarily discusses organisational change and scaling agile practices without a clear focus on customer satisfaction or related metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T17:44:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses the challenges of scaling agile practices but does not focus specifically on Scrum principles, frameworks, or practices related to scaling Scrum.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T17:44:28",
@@ -780,18 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices, without a clear focus on psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-15T03:14:07",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly touches on the challenges organisations face in scaling agility and hints at successful examples, but lacks specific frameworks or detailed discussions on leadership roles, team alignment, or metrics. The focus is more on the general concept of change rather than a structured exploration of scaling agility.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -823,13 +688,13 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-15T03:14:00",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the need for a shift in mindset to improve performance. However, it lacks explicit references to systems thinking principles or detailed exploration of organisational dynamics. The focus is more on scaling agile practices rather than a comprehensive analysis of organisational behaviour or structure.",
     "level": "Ignored"
   },
@@ -844,15 +709,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:19:57",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges organisations face in adapting to change and scaling agile practices, which aligns with pragmatic thinking. However, it lacks detailed practical strategies or real-world applications, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -865,33 +730,12 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T17:44:42",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of scaling agile practices rather than focusing on the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T17:44:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses scaling agile practices but does not focus specifically on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-03-15T03:13:24",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the challenges organisations face in scaling Agile and hints at successful scaling practices, but it lacks specific frameworks or detailed strategies related to Scaled Agile methodologies. The mention of 'illusion of scaled agile' suggests a critical view rather than a constructive discussion on scaling practices, which diminishes its alignment with the category.",
-    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -922,15 +766,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-15T03:13:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges organisations face in adapting their business practices, which touches on innovation and the need for change. However, it lacks explicit mentions of entrepreneurship principles, such as risk-taking or value creation. The discussion is more focused on scaling and agile methodologies rather than the entrepreneurial mindset or strategies, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -943,10 +787,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-14T17:44:53",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of scaling Agile and organisational change, without a focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -970,13 +814,13 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-15T03:13:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the need for a shift towards Agile values and principles. However, it lacks explicit mentions of Agile leadership roles or practices, focusing more on the general concept of scaling Agile rather than the leadership aspect. The depth of discussion is limited, as it does not provide specific strategies or insights into how leaders can facilitate this change.",
     "level": "Ignored"
   },
@@ -1018,10 +862,10 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-14T17:45:03",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling agile practices rather than Lean principles, with no clear focus on waste reduction or value maximisation.",
     "level": "Ignored"
   },
@@ -1072,15 +916,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-15T03:13:44",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the need for a shift in mindset to improve software delivery. However, it lacks explicit discussions on change management strategies, stakeholder engagement, or leadership roles, which are crucial for a comprehensive understanding of the category. The focus is more on the rarity of successful scaling rather than on the principles and practices of effective change management.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1102,32 +946,23 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T03:13:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the need for transformation to improve software delivery. However, it lacks explicit mentions of digital technologies or detailed strategies for digital transformation. The focus is more on agile methodologies rather than a comprehensive view of digital transformation, which limits its alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T17:45:21",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices, without a clear focus on Minimum Viable Product concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T17:45:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling agile methodologies and organisational change without a focus on AI applications.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1177,11 +1012,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T17:45:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational change and scaling agile practices, with no clear focus on Test First Development or related testing principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling agile practices and does not explicitly discuss Test First Development principles or practices. While it touches on the need for change in software delivery, it lacks direct mentions of success criteria, testing methodologies, or the importance of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1204,15 +1042,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-03-15T03:13:39",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the challenges organisations face in scaling Agile and hints at successful scaling examples, but lacks specific frameworks or detailed strategies for large-scale Agile implementation. It briefly touches on the need for change and the rarity of successful scaling, which aligns with the category but does not provide in-depth exploration or direct mentions of key topics like frameworks or enterprise-level transformation.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1261,11 +1099,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T17:45:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling agile practices and organisational change without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses scaling agile practices but does not explicitly mention the role of the Scrum Master or delve into their responsibilities. While it touches on organisational change and agile principles, it lacks a focused discussion on the Scrum Master's influence or techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1284,15 +1125,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of scaling agile practices in organisations, without a clear focus on working agreements or team collaboration norms.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-14T17:45:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational change and scaling rather than focusing on the role of software developers within Agile and DevOps frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1351,27 +1183,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T03:13:33",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly touches on the challenges organisations face in adopting Agile principles and scaling effectively, which aligns with the themes of Agile frameworks. However, it lacks specific discussions on particular frameworks, their principles, or detailed case studies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T03:13:20",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges organisations face in adopting Agile methodologies at scale and hints at the importance of aligning with Agile values and principles. However, it lacks explicit discussions on strategic planning, continuous value delivery, or leadership roles, which are crucial for a higher confidence score in the Agile Strategy category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1418,15 +1250,6 @@
     "reasoning": "Content primarily discusses the challenges of scaling Agile and the misconceptions surrounding it, without a clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T17:46:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of scaling agile practices without a clear focus on Kanban principles or their application in large organisations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T17:46:08",
@@ -1447,27 +1270,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-15T03:13:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the challenges organisations face in changing their business practices and hints at the need for effective leadership to navigate these changes. However, it lacks explicit discussions on leadership strategies, frameworks, or the role of leaders in fostering agility. The focus is more on organisational change rather than on leadership practices themselves, resulting in a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:21:37",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses scaling agile practices, which touches on collaboration and decision-making, but lacks explicit references to social technologies or their frameworks. The focus is more on organisational change and software delivery rather than the underlying social frameworks that promote collaboration and value delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1489,74 +1312,86 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T03:13:16",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the challenges of organisational change and scaling agile practices, which can relate to Scrum principles. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum itself. The focus seems more on general agile scaling rather than specific Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:13:00",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses organisational change and scaling agile practices without any explicit mention of the Shift-Left Strategy or its principles. It lacks a focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:02:57",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses scaling agile practices and the need for organisations to change their business approaches, which aligns with the principles of Continuous Improvement. However, it lacks direct mentions of Continuous Improvement concepts and does not delve deeply into specific strategies or frameworks that support this category. The focus is more on scaling agile rather than on the continuous improvement process itself.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:03:00",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses scaling agile practices and the challenges organisations face in changing their business approaches. However, it lacks explicit references to Common Goals, such as shared objectives or alignment within teams. While it touches on the importance of values and principles in successful organisations, it does not delve deeply into how these relate to strategic goals or frameworks like OKRs. The focus is more on general agile practices rather than the specific concept of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:03:02",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses scaling agile practices but does not explicitly mention competence or continuous learning. While it hints at the need for change and improvement in software delivery, it lacks a detailed exploration of competence as a foundational principle. The focus is more on organisational change rather than on the development of skills and capabilities.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:03:05",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses scaling agile practices but does not explicitly mention the One Engineering System or its principles. It touches on the challenges of organisational change and scaling but lacks a focus on integration, standardisation, or specific methodologies related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on scaling agile practices and does not explicitly discuss Agentic Agility or its principles. While it touches on the need for change and transformation in organisations, it lacks a clear connection to the intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more about general agile practices rather than the specific themes outlined in the category.",
     "level": "Ignored"
   }
 }

@@ -1,27 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T05:58:21",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical aspects of upgrading process templates in Team Foundation Server (TFS) rather than discussing Agile Product Management principles. While it mentions Agile work item types and references the Agile process, the discussion lacks depth in Agile methodologies, prioritisation techniques, stakeholder engagement, and customer feedback integration, which are core themes of Agile Product Management.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:21:27",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on upgrading process templates in Team Foundation Server (TFS), which directly relates to practical techniques and tooling in Agile and DevOps. It discusses specific commands, methodologies for maintaining data integrity during upgrades, and best practices for testing in a non-production environment. The focus on practical application, including the use of specific tools and commands, aligns well with the category's core themes, demonstrating a high level of depth and direct relevance.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -34,72 +22,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:22:10",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for upgrading a TFS process template, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of data management, it lacks a clear connection to the core themes of EBM such as current value, time to market, or empirical decision-making.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:39:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, focusing on practical steps and commands rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:39:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to upgrading process templates in Team Foundation Server, without a clear emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:39:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server (TFS) without any mention of AI or automation technologies in Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T20:39:17",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, focusing on technical steps and commands rather than Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:56:44",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed, step-by-step guide on upgrading process templates in Team Foundation Server (TFS), which directly aligns with installation and configuration processes. It discusses specific commands, configurations, and troubleshooting steps, demonstrating a strong focus on practical implementation. The depth of discussion is significant, covering various aspects of the upgrade process, including exporting and importing work item types, identifying fields, and updating configuration files. The content is primarily technical and actionable, making it highly relevant to the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:39:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for upgrading process templates in Team Foundation Server, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily focuses on technical instructions for upgrading process templates in Team Foundation Server, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical instructions for upgrading process templates in Team Foundation Server, lacking discussions on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:21:57",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on upgrading a TFS process template and managing work items, which is more aligned with project management and specific tooling rather than the broader DevOps philosophy. While there are elements of collaboration and process improvement, they are not explicitly tied to the core principles of DevOps such as automation, shared accountability, or continuous delivery.",
     "level": "Ignored"
   },
@@ -158,15 +101,6 @@
     "reasoning": "Content primarily focuses on technical instructions for upgrading process templates in Team Foundation Server, with no clear discussion on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:39:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for upgrading process templates in Team Foundation Server, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:39:31",
@@ -174,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, focusing on technical steps rather than optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:39:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses technical steps for upgrading process templates in Team Foundation Server, with minimal focus on human factors or team dynamics.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -196,19 +121,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-15T20:39:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates in Team Foundation Server, which is more about technical implementation than the principles or practices of business agility.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:39:38",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates in Team Foundation Server, detailing technical steps and commands without discussing metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -223,15 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:59:00",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading work item templates in Team Foundation Server (TFS), which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD) practices. It discusses specific commands and steps for maintaining data integrity during the upgrade, which reflects a commitment to technical excellence. However, while it provides detailed instructions, it lacks a broader discussion on the implications of these practices on team collaboration or project success, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,13 +178,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:58:37",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Team Foundation Server (TFS), which is a specific task rather than a broader discussion on product delivery methodologies. While it touches on aspects of work item management and migration, it lacks a comprehensive exploration of product delivery principles such as Agile methodologies, iterative development, or deployment strategies. The depth of discussion is significant in terms of technical detail, but it does not align closely with the core themes of product delivery as defined in the category.",
     "level": "Ignored"
   },
@@ -274,42 +199,33 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T20:39:47",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates in Team Foundation Server, which does not directly relate to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:39:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for upgrading process templates in Team Foundation Server, with no clear focus on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T20:39:50",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details related to upgrading process templates in Team Foundation Server, without a clear emphasis on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:56:19",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed guide on upgrading process templates in Team Foundation Server (TFS), which is a component of Azure DevOps. It explicitly discusses work item types, commands, and configurations relevant to Azure DevOps, demonstrating a strong focus on its functionalities. The depth of the discussion is significant, covering multiple steps and considerations for the upgrade process, which aligns well with the category's emphasis on best practices and methodologies associated with Azure DevOps.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -331,22 +247,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T20:39:55",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and does not discuss the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:22:08",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading a process template in Team Foundation Server (TFS) and does not explicitly discuss the Agile Product Operating Model or its principles. While it mentions Agile process templates, it lacks a comprehensive exploration of the core themes of APOM, such as transitioning to a product ethos or continuous delivery. The discussion is more technical and procedural, centring on TFS functionalities rather than the broader agile product management framework.",
     "level": "Ignored"
   },
@@ -359,75 +275,66 @@
     "reasoning": "Content primarily focuses on technical instructions for upgrading process templates in Team Foundation Server, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T20:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on technical instructions for upgrading process templates in Team Foundation Server, rather than discussing news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T05:58:55",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS), which is a specific aspect of application lifecycle management. It discusses the steps involved in managing work items, which aligns with the maintenance and deployment stages of the application lifecycle. However, it lacks broader discussions on governance, compliance, or integration of Agile and DevOps principles, which are key themes in Application Lifecycle Management. The depth of discussion is somewhat limited to technical instructions without exploring the implications or best practices in a wider context.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server and does not focus on the Daily Scrum event or its associated topics.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses process template upgrades and work item management in TFS, which does not relate to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:00:01",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Team Foundation Server (TFS), detailing specific commands and steps involved. While it does touch on aspects of software craftsmanship, such as maintaining data integrity and ensuring continuity, it lacks a broader discussion on best practices or principles of clean code. The depth of technical detail is high, but the direct mentions of technical mastery principles are limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical implementation details of upgrading process templates in Team Foundation Server (TFS) and does not address methodologies or practices for identifying customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:22:13",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading a TFS process template and managing work items, which does not directly address Continuous Delivery principles or practices. While there are mentions of maintaining continuity and testing in a controlled environment, these aspects are not elaborated in the context of Continuous Delivery. The discussion lacks depth on automation, rapid feedback, or cultural aspects related to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -442,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the process of upgrading work item templates in Team Foundation Server and is focused on technical instructions rather than on Lead Time as a metric. There is no significant focus on the definition, importance, measurement, or optimization of Lead Time.",
     "level": "Ignored"
   },
@@ -460,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on upgrading process templates and does not discuss the Definition of Ready or its relevance to backlog items.",
     "level": "Ignored"
   },
@@ -478,73 +385,73 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-15T05:58:39",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the process of upgrading work item types in Team Foundation Server (TFS), including renaming a work item type to 'Product Backlog Item'. However, the primary focus is on technical instructions for migration and template upgrades rather than on the broader concepts of managing a Product Backlog in Agile. While there are mentions of work items and their relationship to Agile processes, the depth and alignment with the core themes of the Product Backlog category are limited.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T05:58:52",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and includes references to work item types like User Stories, which are relevant to Agile Planning. However, the primary focus is on technical instructions for migration rather than on Agile Planning principles or methodologies. While there are mentions of Agile concepts, the depth of discussion is more about implementation than strategic planning, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on upgrading process templates in Team Foundation Server (TFS) and does not discuss Value Stream Mapping or related concepts.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates and managing work items in Team Foundation Server, with no clear discussion on customer feedback integration or feedback loops.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T15:04:51",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical steps for upgrading process templates in Team Foundation Server (TFS), which includes practical instructions and warnings about maintaining data integrity during the upgrade. While it does touch on operational practices, such as ensuring continuity of work item history and testing in a non-production environment, the discussion lacks a broader focus on operational efficiency or methodologies like Agile, DevOps, or Lean. The content is more about specific technical procedures rather than overarching strategies for improving operational practices.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server (TFS) and does not focus on Scrum Team dynamics, roles, or collaboration practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical processes for upgrading a template in Team Foundation Server, with no clear or central discussion on Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -559,22 +466,22 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates in Team Foundation Server, discussing technical steps and configurations rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T05:58:45",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and mentions Agile work item types, but it lacks a direct focus on Agile transformation strategies or methodologies. While it touches on Agile concepts, it primarily revolves around technical implementation details rather than the broader themes of Agile transformation, such as cultural shifts, leadership roles, or change management.",
     "level": "Ignored"
   },
@@ -598,10 +505,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical aspects of upgrading process templates in Team Foundation Server rather than discussing team performance or collaboration strategies. There are no key themes related to team dynamics, communication, or Agile practices that directly enhance team performance.",
     "level": "Ignored"
   },
@@ -616,55 +523,43 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on upgrading process templates in Team Foundation Server (TFS) and technical procedures related to work item management, without discussing Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:35:08",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on upgrading process templates in Team Foundation Server (TFS), which is a critical aspect of software development practices. It discusses specific methodologies related to version control, work item management, and the implications of changes in work item types, aligning closely with the Software Development category. The depth of the discussion is significant, covering multiple steps and considerations, which enhances its relevance to software engineering outcomes.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T05:58:19",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) with a focus on work item types, which are relevant to Agile methodologies. However, it lacks a comprehensive exploration of Agile principles, frameworks, or practices. While it mentions Agile work item types, the discussion is primarily technical and procedural rather than strategic or philosophical, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical details related to upgrading process templates in Team Foundation Server, with no substantial discussion of Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T05:58:42",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and does not explicitly discuss Scrum principles, roles, or practices. While it mentions the Visual Studio Scrum 2.0 template, the discussion lacks depth in Scrum concepts and does not align closely with the core themes of Professional Scrum. The content is more technical and procedural rather than theoretical or practical in the context of Scrum.",
     "level": "Ignored"
   },
@@ -679,49 +574,49 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrading of process templates and does not focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on upgrading process templates and technical instructions related to Team Foundation Server, without any discussion of Scrum values or principles.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-11T16:54:55",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Azure DevOps, specifically discussing work item types, their management, and the implications for Agile project management. It provides detailed instructions on exporting, importing, and renaming work items, which aligns well with the functionalities of Azure Boards. However, while it touches on Agile concepts, the discussion is more technical and procedural rather than exploring best practices or team collaboration aspects, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server (TFS) and does not focus on collaboration tools or their role in enhancing communication within Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details on upgrading process templates in Team Foundation Server, with no clear focus on organisational change strategies, methodologies, or practices.",
     "level": "Ignored"
   },
@@ -752,15 +647,6 @@
     "reasoning": "The content focuses primarily on technical implementation details related to upgrading process templates in Team Foundation Server, without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:31:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on upgrading process templates in Team Foundation Server and does not discuss scaling Scrum principles, frameworks, or practices. It does not align with any of the key topics related to Scaling Scrum.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:31:35",
@@ -779,24 +665,15 @@
     "reasoning": "Content primarily focuses on technical details about upgrading process templates in Team Foundation Server, which irrelevant to the concept of psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:31:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on updating process templates in Team Foundation Server and managing work item types, which does not align with the core principles or strategies of scaling agility at an organisational level.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:58:09",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and provides detailed instructions on how to manage work items during this upgrade. While it touches on aspects of software development practices, such as the importance of testing in a non-production environment and the need for careful management of work item types, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. The content is more procedural and technical rather than a discussion on fostering a culture of excellence in software craftsmanship.",
     "level": "Ignored"
   },
@@ -838,53 +715,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:44:48",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content provides practical instructions for upgrading process templates in Team Foundation Server, which aligns with pragmatic problem-solving in Agile contexts. It discusses real-world applications, such as maintaining data integrity during upgrades and testing processes in a non-production environment. However, while it touches on Agile principles, the focus is more on technical execution rather than broader strategic thinking or adaptability, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading process templates and work item management in TFS, which are not directly related to backlog refinement practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:31:35",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses technical steps for upgrading process templates in Team Foundation Server without a focus on innovation practices or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T05:58:23",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and mentions work item types like 'User Story' and 'Product Backlog Item', which are relevant to Scrum. However, it lacks a comprehensive discussion on Scrum principles, roles, or iterative development practices, making it more focused on technical implementation rather than Scrum product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:31:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical instructions for upgrading process templates in Team Foundation Server, with a focus on work item types and their management, rather than on scaling Agile methodologies across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -907,10 +763,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the process of upgrading work item types in Team Foundation Server, focusing on data migration and configuration rather than test automation principles, frameworks, or practices.",
     "level": "Ignored"
   },
@@ -925,15 +781,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:58:31",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Team Foundation Server (TFS), which is a specific implementation detail rather than a broader discussion on working software principles. While it touches on aspects of maintaining data integrity and ensuring continuity during upgrades, it lacks a comprehensive exploration of working software characteristics, customer value delivery, or best practices for software quality. The discussion is more about procedural steps than the overarching themes of working software in Agile or Scrum frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -967,10 +823,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of upgrading process templates in TFS, without addressing Agile leadership roles or practices.",
     "level": "Ignored"
   },
@@ -1021,13 +877,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T05:58:26",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS), which relates to release management practices, particularly in the context of version control and ensuring continuity during software releases. However, while it touches on aspects of release management, such as testing in a non-production environment and the importance of maintaining data integrity, it lacks a comprehensive focus on broader release management strategies and practices. The discussion is more technical and procedural, which limits its alignment with the core themes of release management.",
     "level": "Secondary"
   },
@@ -1045,10 +901,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of upgrading work item templates in Team Foundation Server, without relevant focus on Cycle Time or its implications in Agile and DevOps.",
     "level": "Ignored"
   },
@@ -1072,19 +928,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for upgrading process templates in Team Foundation Server, lacking a focus on change management principles or Agile contexts.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical instructions for upgrading process templates in TFS, focusing on work item types and fields, rather than team collaboration dynamics or Agile practices.",
     "level": "Ignored"
   },
@@ -1106,7 +962,7 @@
     "reasoning": "Content focuses on technical aspects of process template upgrades in Team Foundation Server, with no clear alignment to the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:31:36",
     "ai_confidence": 0,
@@ -1115,33 +971,24 @@
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server and does not focus on Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:31:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server (TFS) and does not address AI applications or integration within Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T05:58:11",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates in Team Foundation Server (TFS), which directly relates to system configuration. It discusses specific commands and procedures for exporting, importing, and renaming work items, as well as considerations for maintaining data integrity during the upgrade process. The depth of detail provided, including warnings and troubleshooting tips, indicates a strong alignment with the category's focus on configuration management and optimisation strategies. Overall, the content is highly relevant to system configuration, with explicit mentions and a thorough exploration of the topic.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details related to upgrading process templates in Team Foundation Server (TFS), which deviates from the principles of product strategy.",
     "level": "Ignored"
   },
@@ -1165,20 +1012,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on upgrading process templates in Team Foundation Server and does not discuss cross-functional teams or their characteristics in Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses upgrading and managing process templates in Team Foundation Server, which is not focused on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on upgrading a TFS process template and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1210,19 +1060,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details regarding upgrading process templates and work items in Team Foundation Server, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server (TFS) and does not focus on remote working practices, challenges, or Agile methodologies in a remote context.",
     "level": "Ignored"
   },
@@ -1237,15 +1087,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:58:15",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on upgrading a process template in Team Foundation Server (TFS) and includes a dedicated section for troubleshooting specific errors encountered during the process. The direct mention of troubleshooting issues, such as the TF400508 error, indicates a clear focus on identifying and resolving technical problems. Additionally, the content provides practical steps and warnings related to the upgrade process, aligning well with the core themes of troubleshooting. However, while the troubleshooting section is present, the overall content is more instructional regarding the upgrade process, which slightly reduces the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1258,11 +1108,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:07:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical aspects of upgrading process templates in Team Foundation Server (TFS), without a clear focus on the Scrum Master role or related responsibilities within a Scrum framework.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading a TFS process template and does not discuss the role or responsibilities of a Scrum Master. While it briefly mentions Agile and Scrum templates, it lacks depth in exploring the Scrum Master's influence, techniques, or responsibilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1276,24 +1129,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates and managing work items in Team Foundation Server, without focusing on working agreements or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T18:06:16",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 60.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading process templates in Team Foundation Server (TFS), which is relevant to software developers. It touches on Agile methodologies by mentioning the Agile 6.0 Process Template and the Visual Studio Scrum 2.0 Template, indicating a connection to Agile practices. However, the discussion lacks depth in exploring broader Agile and DevOps principles, focusing instead on specific technical steps. While it does mention work item types and their management, it does not delve into best practices or the impact of Agile methodologies on team dynamics, which are key themes of the category.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1306,13 +1147,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T05:58:57",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and does not explicitly discuss core engineering practices such as clean code, TDD, or CI/CD. While it touches on aspects of Agile methodologies, such as work item types and migration processes, these are more related to project management and tool usage rather than the fundamental principles of software engineering. The depth of discussion is moderate, providing detailed steps for the upgrade process, but it lacks a strong connection to the key topics outlined in the Engineering Practices category.",
     "level": "Ignored"
   },
@@ -1327,19 +1168,19 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in TFS and does not address Sprint Review topics.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on technical details regarding upgrading process templates in Team Foundation Server and does not convey strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1354,22 +1195,22 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T05:58:17",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the upgrade of process templates in Team Foundation Server (TFS) with some references to Agile work item types, such as User Stories and Tasks. However, it primarily focuses on technical instructions for upgrading templates rather than exploring Agile frameworks or their principles. While Agile concepts are mentioned, they are not the primary focus, and the depth of discussion on Agile frameworks is limited.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly focuses on technical practices related to upgrading process templates in Team Foundation Server, rather than on Agile strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1393,10 +1234,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and does not discuss Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1418,15 +1259,6 @@
     "reasoning": "Content is primarily focused on technical instructions for upgrading process templates in Team Foundation Server, with no clear discussion of accountability or ownership within teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:31:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on process template upgrades in Team Foundation Server and does not discuss Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:31:36",
@@ -1438,22 +1270,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T21:31:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, and does not focus on Test Driven Development methodologies or the associated practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:37:11",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for upgrading a TFS process template, with minimal discussion on collaboration, decision-making, or value delivery. While it briefly touches on Agile concepts, it lacks a comprehensive exploration of social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
@@ -1486,37 +1318,37 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:23",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 46.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and includes references to work item types such as 'User Story' and 'Product Backlog Item', which are relevant to Scrum. However, the primary focus is on technical instructions for migration rather than on Scrum principles, roles, or events. While there are mentions of Scrum-related terms, the depth of discussion on Scrum practices is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:27:47",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and does not discuss integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of work item management, it lacks a clear connection to the principles or benefits of the Shift-Left Strategy, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:22:01",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on technical instructions for upgrading a process template in TFS, with minimal emphasis on Continuous Improvement principles. While it touches on aspects of maintaining data integrity and ensuring smooth transitions, it lacks a broader discussion on the culture of experimentation, learning, or strategic business agility that characterises Continuous Improvement. The mention of testing in a controlled environment hints at a cautious approach to change, but it does not delve into the iterative, evidence-based practices that define Continuous Improvement.",
     "level": "Ignored"
   },
@@ -1534,14 +1366,26 @@
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:22:06",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on technical instructions for upgrading a TFS process template, with minimal discussion on competence or skill development. While it touches on the importance of testing and understanding the implications of changes, it lacks a deeper exploration of continuous learning or professional growth, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a process template in TFS, with no explicit discussion of Agentic Agility or its principles. While there are mentions of maintaining continuity and adapting work items, these do not align with the core themes of intentionality, autonomy, or the transformative capacity of individuals and systems. The content lacks depth in exploring the interplay between human judgement and AI logic, and does not provide case studies or examples related to Agentic Agility.",
     "level": "Ignored"
   }
 }

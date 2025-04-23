@@ -28,9 +28,7 @@ aliasesArchive:
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016
 tags:
-- Events and Presentations
 - Personal
-- News and Reviews
 categories: []
 preview: clip_image001-1-2-2.jpg
 

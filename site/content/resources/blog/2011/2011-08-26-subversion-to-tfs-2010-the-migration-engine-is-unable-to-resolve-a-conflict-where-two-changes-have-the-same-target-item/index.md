@@ -9,7 +9,7 @@ ResourceImportId: 3769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-26
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,7 +31,6 @@ tags:
 - Troubleshooting
 - Software Development
 - Install and Configuration
-- Practical Techniques and Tooling
 preview: image-1.png
 categories: []
 

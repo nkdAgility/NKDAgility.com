@@ -31,16 +31,24 @@ aliasesArchive:
 tags:
 - Agile Transformation
 - Business Agility
-- Resilience and Change
-- Organisational Change
-- Organisational Agility
-- People and Process
 - Change Management
 - Enterprise Agility
+- Organisational Change
 - Digital Transformation
+- Sociotechnical Systems
 - Market Adaptability
-categories:
+- Organisational Agility
+- Organisational Culture
+- Organisational Physics
+- Beta Codex
+- Agile Philosophy
+- Agile Strategy
+- Complexity Thinking
+- Large Scale Agility
 - Social Technologies
+- Agile Leadership
+- Strategic Goals
+categories:
 - Leadership
 preview: 1686217267121-1-1-1.jpg
 

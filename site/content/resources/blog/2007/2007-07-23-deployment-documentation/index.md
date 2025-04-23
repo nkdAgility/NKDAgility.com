@@ -9,7 +9,7 @@ ResourceImportId: 363
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,13 +23,14 @@ aliasesArchive:
 - /blog/deployment-documentation
 - /deployment-documentation
 - /resources/blog/deployment-documentation
-categories:
-- DevOps
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 tags:
 - Product Delivery
 - Install and Configuration
+- Pragmatic Thinking
 - Release Management
+- Software Development
 - System Configuration
 
 ---

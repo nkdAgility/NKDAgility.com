@@ -32,8 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Transformation
 - Agile Philosophy
+- Agile Transformation
 - Organisational Agility
 - Organisational Culture
 - Software Development

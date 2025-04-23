@@ -6,9 +6,8 @@ ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
 date: 2023-04-01
-weight: 855
-categories:
-- Social Technologies
+weight: 840
+categories: []
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

@@ -9,7 +9,7 @@ ResourceImportId: 4980
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-26
-weight: 580
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,16 +32,15 @@ aliasesArchive:
 - /blog/professional-scrum-foundations-in-salt-lake-city--utah
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
-- Events and Presentations
 - Software Development
-- People and Process
-- Agile Project Management
-- Professional Scrum
-- Scrum Product Development
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
+- Professional Scrum
 - Agile Transformation
+- Continuous Learning
+- Pragmatic Thinking
+- Self Organisation
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-8-8.png

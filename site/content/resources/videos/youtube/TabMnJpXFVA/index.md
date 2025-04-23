@@ -2,7 +2,7 @@
 title: 'Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations'
 description: Discover how immersive training and agile methodologies can transform learning experiences. Join me in prioritising value over revenue for impactful results!
 date: 2023-03-16T07:00:16Z
-weight: 790
+weight: 765
 ResourceId: TabMnJpXFVA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,19 +28,16 @@ duration: 287
 isShort: false
 tags:
 - Pragmatic Thinking
-- Continuous Learning
-- Discovery and Learning
-- People and Process
-- Value Delivery
 - Software Development
+- Continuous Learning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
+categories: []
 
 ---
 As I embark on the immersive trading route, I find myself reflecting on the core reasons behind this shift. My journey into training began with a desire to address the struggles faced by individuals and organisations alike. Back in 2010, when I first delved into DevOps, I witnessed firsthand the challenges people encountered and the disconnect between their needs and what organisations were providing. This disconnect often led to a vicious cycle where organisations blamed their people for failures, rather than addressing the root causes.

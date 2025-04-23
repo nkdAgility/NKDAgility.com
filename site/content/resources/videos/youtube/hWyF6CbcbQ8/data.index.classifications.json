@@ -109,11 +109,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T20:28:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, rather than focusing on system configuration processes or methodologies.",
+    "calculated_at": "2025-04-10T14:34:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, which is more aligned with data management and migration strategies rather than system configuration. While it touches on aspects of system architecture and the implications of migration choices, it does not delve into configuration management tools, optimisation techniques, or best practices for maintaining system configurations. The discussion is relevant but not a primary focus on system configuration as defined.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -136,13 +139,13 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-14T17:19:01",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses data integrity in the context of DevOps migrations, touching on the balance between data fidelity and flexibility. However, it lacks explicit discussions on structured decision-making methodologies or evidence-based practices. While it hints at decision-making aspects related to data selection, it does not delve into the core themes of the category, such as cognitive biases or frameworks for evaluating options. The focus is more on technical processes rather than decision-making principles.",
     "level": "Ignored"
   },
@@ -193,10 +196,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T20:29:06",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with a focus on TFS and Azure DevOps services, but does not specifically address Azure Repos functionalities or practices.",
     "level": "Ignored"
   },
@@ -211,10 +214,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T20:29:09",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -256,11 +259,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T20:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:08:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity issues and migration processes in DevOps, without a focus on innovation capabilities or Evidence-Based Management.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on the importance of assessing needs and utilising tools, it does not explicitly address innovation or the mechanisms that foster it. The discussion lacks depth in terms of innovation practices or metrics, making it only tangentially related to the category of 'Ability to Innovate'.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -270,15 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T20:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no clear focus on scaling agile practices or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -337,13 +334,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-06T13:29:31",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses DevOps migrations, which is a relevant aspect of software development, particularly in the context of continuous integration and deployment practices. However, while it touches on data integrity and migration processes, it lacks a detailed exploration of methodologies or best practices in software development. The focus is more on the practical aspects of data handling during migrations rather than a comprehensive discussion of software development principles or frameworks.",
     "level": "Secondary"
   },
@@ -358,28 +355,31 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T20:29:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:34:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues during DevOps migrations, with no clear focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. It does not explicitly mention throughput as a delivery metric, nor does it analyse or visualise throughput in any capacity. The discussion is centred around migration strategies rather than team delivery capacity or performance metrics, leading to a very low confidence score in relation to the 'Throughput' category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T20:29:34",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, without a clear focus on Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T20:29:35",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -448,10 +448,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-12T20:29:53",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, without a focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -464,25 +464,16 @@
     "reasoning": "Content heavily discusses data integrity and DevOps migration processes, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-14T17:19:01",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses DevOps migrations, which is relevant to software developers, but it primarily focuses on data integrity rather than the role of developers within Agile or DevOps frameworks. While it touches on tools and processes that developers might use, it lacks a direct exploration of best practices or methodologies that enhance developer productivity and collaboration. The discussion is somewhat aligned with the category but does not delve deeply into the core themes of Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:29:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:44:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no clear focus on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing aspects such as flexibility and fidelity, but does not mention Test First Development or its principles. There is a brief mention of testing in the context of migration, but it lacks depth and relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -505,13 +496,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-14T17:19:01",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses data integrity and migration processes in a DevOps context, touching on potential issues like data loss and fidelity. However, it lacks a focused discussion on troubleshooting techniques or methodologies for resolving specific technical issues. While it mentions challenges in the migration process, it does not provide systematic approaches or tools for diagnosing or resolving these issues, which are essential for a strong alignment with the Troubleshooting category.",
     "level": "Ignored"
   },
@@ -544,31 +535,25 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T20:30:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues during DevOps migrations, with no clear focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T20:30:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on scaling Agile practices or frameworks.",
+    "calculated_at": "2025-04-11T08:58:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. It does not mention Lead Time or its importance as an observability metric, nor does it explore its relationship with Cycle Time or provide techniques for measuring Lead Time. The discussion is primarily about data migration strategies, which are unrelated to the concept of Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-06T14:43:16",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical considerations in DevOps migrations, particularly around data integrity and the balance between fidelity and flexibility. It highlights real-world challenges and solutions, which aligns with pragmatic thinking. However, while it touches on relevant themes, the discussion lacks depth in terms of broader Agile or Scrum contexts and does not explicitly mention these frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -579,15 +564,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues during DevOps migrations, without a focus on deployment frequency or related optimisation strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T20:30:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -610,31 +586,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:59:29",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, which is tangentially related to Continuous Delivery but does not explicitly discuss its principles or practices. While it touches on aspects of migration that could relate to delivery processes, it lacks a direct focus on Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The depth of discussion is more about data management than delivery practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T20:30:23",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T20:30:24",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no clear focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -663,24 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no clear focus on team performance or collaboration.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T20:30:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses data integrity issues in DevOps migrations without any mention of AI or its applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T20:30:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no clear focus on Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -755,26 +713,17 @@
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T20:30:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-10T17:50:44",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses data integrity in the context of DevOps migrations, which touches on operational practices. However, it primarily focuses on the challenges and considerations of data fidelity versus flexibility during migration rather than providing concrete strategies or techniques for improving operational efficiency. The discussion lacks depth in terms of specific methodologies or practices that enhance operational performance, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -797,22 +746,16 @@
     "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on backlog refinement or related Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T20:30:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T20:30:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:44:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity in DevOps migrations, with no direct mention of the Scrum Master role or its responsibilities. While it discusses team communication and readiness, which are relevant to agile practices, it does not align with the core themes of the Scrum Master category. The discussion lacks depth regarding Scrum principles or the Scrum Master's influence on team dynamics.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -878,7 +821,7 @@
     "reasoning": "Content heavily discusses data integrity and DevOps migration processes, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T20:31:07",
     "ai_confidence": 0,
@@ -889,10 +832,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-12T20:31:09",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, with no focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -925,15 +868,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-14T17:19:01",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses data integrity in the context of DevOps migrations, touching on technical aspects such as database architecture and the balance between data fidelity and flexibility. However, it lacks a strong focus on broader software craftsmanship principles, best practices, or methodologies that are central to the 'Technical Mastery' category. The discussion is somewhat technical but does not delve deeply into the principles of clean code, testing, or architectural best practices, which diminishes its alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -982,10 +925,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T20:31:21",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -1061,31 +1004,13 @@
     "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T20:27:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, focusing on technical aspects rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T20:27:43",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues during DevOps migrations rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T20:27:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity issues in the context of DevOps migrations, without a clear focus on code quality or complexity theory.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1095,15 +1020,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues during DevOps migrations, with no clear focus on optimising work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T20:27:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, without a focus on AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1124,15 +1040,6 @@
     "reasoning": "Content primarily discusses DevOps migration and data integrity issues, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T20:27:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity and migration processes in DevOps, without a focus on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
     "calculated_at": "2025-02-12T20:27:53",
@@ -1149,36 +1056,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity and migration processes in DevOps, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T20:27:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity and migration processes in DevOps, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T11:13:12",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the practical aspects of data migration within a DevOps context, mentioning tools developed for selective data transfer. However, it lacks explicit references to specific Agile or DevOps tools and methodologies, which limits its alignment with the category. The depth of discussion is also moderate, focusing more on the challenges of data fidelity rather than providing comprehensive insights into practical techniques or tooling.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T20:27:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity issues in DevOps migrations, with no clear focus on events or presentations.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1201,36 +1078,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:41:30",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses DevOps migrations, focusing on the critical aspect of data integrity, which is a significant concern in the DevOps philosophy. It aligns well with the core themes of DevOps, such as collaboration and shared accountability, particularly in the context of team readiness and communication during migrations. The depth of discussion is substantial, providing detailed insights into migration strategies and their implications, which reflects a strong understanding of the DevOps principles. Overall, the content is primarily focused on DevOps, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T11:36:55",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is a relevant topic within the Azure DevOps category. However, the focus is primarily on data integrity and migration processes rather than on Azure DevOps functionalities or best practices. While Azure DevOps is mentioned, it is not the primary focus of the discussion, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T20:28:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses data integrity issues in DevOps migrations, without focusing on specific products, books, or methodologies related to Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1286,15 +1154,6 @@
     "reasoning": "Content primarily discusses technical aspects of DevOps migrations and data integrity issues without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T20:28:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of data integrity and migration processes in DevOps, without a focus on human behaviour or team dynamics.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T20:28:21",
@@ -1304,21 +1163,12 @@
     "reasoning": "Content primarily discusses data integrity issues related to DevOps migrations, focusing on technical aspects rather than the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T20:28:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of DevOps migrations and data integrity issues, lacking a focus on news or reviews.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T20:28:26",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses data integrity issues during DevOps migrations, focusing on the technical aspects rather than metrics, learning, or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -1369,13 +1219,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:41:32",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing aspects such as flexibility and fidelity, which are not directly related to the Agile Product Operating Model. While there may be a tangential connection to agile principles in terms of team readiness and communication, the core themes of APOM, such as product management and continuous delivery, are not addressed.",
     "level": "Ignored"
   },
@@ -1390,13 +1240,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:46:09",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing technical aspects and strategies for data management rather than the social frameworks that promote collaboration and decision-making. While there are mentions of team readiness and communication, these are secondary to the technical discussion of data migration methods. The content lacks a strong emphasis on the core themes of social technologies, such as self-organisation and collective intelligence.",
     "level": "Ignored"
   },
@@ -1420,74 +1270,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T17:19:01",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses data integrity in the context of DevOps migrations, with no direct mentions of Scrum principles, roles, or events. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical migration processes rather than Scrum practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:39:33",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between fidelity and flexibility. While it touches on aspects of testing and communication, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth in relation to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:59:16",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on aspects of process improvement and team effectiveness, it does not explicitly address Continuous Improvement principles or methodologies. The discussion lacks depth in terms of Continuous Improvement strategies and empirical evidence, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:59:19",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing technical aspects and strategies for successful transitions. While it touches on the importance of team communication and readiness, it does not explicitly address the concept of Common Goals or their significance in aligning strategy with execution. The discussion lacks depth in connecting these ideas to Agile or DevOps frameworks, resulting in a low confidence score for the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:59:23",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of data integrity in DevOps migrations, which indirectly relates to competence through the need for teams to understand and manage data effectively. However, it lacks direct mentions of continuous learning or skill development, and the depth of discussion on competence is minimal, focusing more on technical aspects of migration rather than the professional growth of teams.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:59:26",
+    "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing specific migration strategies and challenges. It does not mention the One Engineering System (1ES) framework or its principles, nor does it address integration or standardisation of engineering processes, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T13:44:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on decision-making and team readiness, it does not explicitly address Agentic Agility or its core themes such as intentional shaping of outcomes, the role of intent, or the distinction between human and AI capabilities. Therefore, it lacks sufficient depth and alignment with the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:44:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, which is more aligned with technical implementation rather than product development methodologies. While it touches on aspects of team readiness and communication, it lacks a strong emphasis on iterative learning, customer feedback, or continuous improvement practices that are central to product development. The discussion is more about the technicalities of migration rather than the broader principles of product development.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:08:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on aspects of migration that could indirectly relate to Time to Market, such as the importance of assessing needs and utilising tools, it does not explicitly mention Time to Market or its associated metrics. The discussion lacks depth in terms of strategies for improving Time to Market or its impact on customer satisfaction, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:44:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, which is a specific technical aspect rather than a broader project management discussion. While it touches on communication and planning, which are relevant to project management, these elements are not explored in depth or in the context of project management methodologies or principles. The discussion lacks explicit references to project management frameworks or roles, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:08:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on the importance of assessing data needs and planning for post-migration, it does not explicitly mention Unrealised Value or its indicators, nor does it explore potential improvements or innovations related to untapped opportunities. The discussion lacks depth in relation to the core themes of Unrealised Value, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:44:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing aspects such as flexibility and fidelity, but does not mention Hybrid Agile or its core challenges. There is no critical examination of merging traditional project management with agile practices, nor does it address any of the key topics outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:08:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on aspects that could relate to value, such as the importance of data for team effectiveness, it does not explicitly address Current Value or its metrics, nor does it provide a real-time assessment of value delivered. The discussion lacks depth in terms of Current Value indicators and their application in decision-making, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:44:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing the balance between flexibility and fidelity. While it touches on team readiness and communication, it does not delve into scaling methodologies, frameworks, or strategies that are central to the Scaling category. The discussion lacks depth in terms of scaling Agile practices or cross-team collaboration, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:44:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses data integrity in the context of DevOps migrations, specifically focusing on Azure DevOps Services. While it touches on aspects relevant to DevOps, it does not mention GitHub or its functionalities, nor does it align with the core themes of GitHub services, collaboration features, or best practices associated with GitHub. The discussion is more about general DevOps practices rather than GitHub-specific methodologies.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:08:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity in DevOps migrations, discussing specific migration strategies and their implications. It does not mention Agnostic Agile principles, nor does it engage with the core themes of ethical, context-driven agility. The discussion lacks depth regarding Agnostic Agile, as it does not explore comparisons with agile frameworks or the importance of value delivery over methodologies.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:08:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on data integrity during DevOps migrations, discussing technical aspects and strategies for data management rather than organisational strategies or customer-centric approaches. There are no direct mentions of treating the company as a product, nor does it explore themes related to organisational design or customer feedback integration. The discussion lacks depth in relation to the principles of CaaP, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:08:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on data integrity in DevOps migrations, discussing aspects such as full and selective data migration, trade-offs between flexibility and fidelity, and recommendations for successful migration. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or autonomous cells. The content lacks depth in relation to the category, as it does not explore any relevant concepts or comparisons to traditional hierarchical models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:08:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on data integrity in DevOps migrations, discussing technical aspects and strategies for data management. There are no direct mentions of Liberating Structures or facilitation techniques. While it touches on team communication and readiness, these concepts are not explored in the context of Liberating Structures, which emphasises participatory techniques and group dynamics. Overall, the content does not align with the core themes of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:08:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on data integrity in DevOps migrations, discussing technical aspects and strategies for data management. There are no direct mentions of Open Space Agile principles, nor does it align with the core themes of collective participation, psychological safety, or co-creation in Agile transformations. The depth of discussion is entirely centred on migration processes, making it irrelevant to the Open Space Agile category.",
     "level": "Ignored"
   }
 }

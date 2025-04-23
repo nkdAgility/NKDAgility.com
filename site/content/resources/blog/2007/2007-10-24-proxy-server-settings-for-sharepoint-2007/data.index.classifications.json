@@ -55,13 +55,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:18:47",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content provides specific configuration settings for a proxy server in SharePoint 2007, which directly relates to the installation and configuration category. It includes code snippets that detail how to set up the proxy, demonstrating a clear focus on actionable instructions. The discussion aligns well with the core themes of the category, particularly in providing configuration best practices. However, while the content is detailed, it lacks broader context on installation procedures or troubleshooting, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -83,15 +83,6 @@
     "reasoning": "Content primarily discusses technical settings for SharePoint 2007 and does not relate to Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:57:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical configurations for SharePoint proxy settings without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:57:46",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configurations for SharePoint and proxy settings, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:57:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses proxy server settings for SharePoint 2007, which does not align with Agile or DevOps practices or tooling.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -157,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:57:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configurations for SharePoint 2007 and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on technical settings for SharePoint 2007 and does not discuss Evidence-Based Management or its core themes. There are no mentions of data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:57:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical configuration of proxy settings for SharePoint 2007, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:57:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configurations for SharePoint 2007, lacking relevance to industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical settings for SharePoint 2007 and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -207,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses proxy server settings for SharePoint 2007, which is not related to platform engineering or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:58:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on proxy server settings for SharePoint 2007 and does not discuss AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses proxy server settings for SharePoint 2007, which is not related to code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:58:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configurations for SharePoint 2007 and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configurations for SharePoint and proxy settings, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -310,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:58:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses proxy server settings for SharePoint 2007, which is unrelated to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on proxy server settings for SharePoint 2007, which is a specific technical configuration rather than a discussion on DevOps principles or practices. There are no direct mentions of DevOps concepts, and the content does not align with the core themes of collaboration, automation, or continuous improvement that are central to DevOps. The depth of discussion is limited to technical details about proxy settings, making it irrelevant to the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses proxy server settings for SharePoint 2007, which does not align with the principles of technical excellence or engineering practices.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:58:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configurations for SharePoint and proxy settings, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:58:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical implementation details related to proxy server settings for SharePoint, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:58:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical configurations for SharePoint 2007 and does not relate to products or literature on Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -373,22 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T15:15:08",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the configuration of proxy settings for SharePoint 2007, which is a direct application of system configuration principles. It provides specific examples of XML configuration snippets, detailing how to set up the proxy server, including parameters like 'useDefaultCredentials' and 'bypasslist'. This aligns well with the core themes of system configuration, such as best practices for software installation and configuration, and troubleshooting common configuration issues. The depth of discussion is significant, as it not only presents the configuration code but also explains its implications for authentication. Overall, the content is highly relevant to the category, with a strong focus on practical configuration details.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:09:42",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical configuration for SharePoint proxy settings, which does not relate to the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -417,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on technical details related to configuring a proxy server for SharePoint 2007, which is unrelated to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical aspects of SharePoint settings, which is unrelated to Scrum or product development principles.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -493,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T20:09:42",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on technical configuration of proxy settings for SharePoint 2007 and does not relate to the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on technical configurations for SharePoint and does not discuss Scaled Agile methodologies, frameworks, or enterprise-level Agile practices.",
+    "reasoning": "Content is focused on technical configuration of proxy settings for SharePoint 2007 and does not relate to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -572,24 +473,15 @@
     "reasoning": "Content focuses on proxy server settings for SharePoint 2007, which is unrelated to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily addresses proxy server settings for SharePoint 2007, which does not relate to the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:37:52",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses proxy server settings specifically for SharePoint 2007, which is a technical aspect of software configuration. However, it lacks a broader discussion on software development methodologies, practices, or frameworks. The focus is primarily on a specific implementation detail rather than the software development lifecycle or best practices, leading to a low confidence score in alignment with the Software Development category.",
     "level": "Ignored"
   },
@@ -620,7 +512,7 @@
     "reasoning": "Content is focused on technical details regarding configuring proxy settings for SharePoint, with no relevance to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:09:42",
     "ai_confidence": 0,
@@ -694,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on proxy server settings for SharePoint 2007, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on proxy server settings for SharePoint 2007, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical details of proxy server settings for SharePoint 2007, with no connection to hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly discusses proxy server settings for SharePoint 2007, which is unrelated to AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +814,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T20:09:42",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on proxy server settings for SharePoint 2007 and does not discuss the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -955,13 +841,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:37:52",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on specific technical configurations for SharePoint 2007, which does not align with the broader principles of software craftsmanship or engineering excellence. While it provides some technical details, it lacks a discussion on best practices, code quality, or methodologies that contribute to high-quality software development. The mention of proxy settings is too narrow and does not encompass the key topics outlined in the 'Technical Mastery' category.",
     "level": "Ignored"
   },
@@ -974,15 +860,6 @@
     "reasoning": "Content primarily discusses technical configurations related to SharePoint and proxy server settings, with no relevance to remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on proxy server settings for SharePoint 2007 and does not discuss any Kanban principles or scaling topics.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:09:42",
@@ -990,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical configurations for SharePoint and proxy settings, with no relevance to customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on SharePoint proxy server settings and configurations, with no relevance to Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1111,13 +979,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T19:01:19",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses specific proxy server settings for SharePoint 2007, which implies a troubleshooting context by addressing a missing piece of information necessary for proper configuration. However, it lacks a comprehensive exploration of troubleshooting techniques or methodologies, focusing instead on a specific configuration detail. The mention of 'double-hop authentication' suggests an ongoing issue but does not delve into resolution strategies or broader troubleshooting practices.",
     "level": "Secondary"
   },
@@ -1274,15 +1142,6 @@
     "reasoning": "Content is primarily about proxy server settings for SharePoint 2007 and does not discuss asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical settings for SharePoint and does not discuss Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T20:09:42",
@@ -1319,22 +1178,16 @@
     "reasoning": "Content discusses technical settings related to SharePoint, which is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses proxy server settings for SharePoint 2007, which is unrelated to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about proxy server settings for SharePoint and does not discuss Scrum Master responsibilities, techniques, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical aspects of configuring proxy settings for SharePoint 2007, with no mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1357,22 +1210,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses proxy server settings for SharePoint, which is unrelated to Test First Development or Agile principles.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on proxy server settings for SharePoint 2007, with no mention or discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject matter. The content is unrelated to the Test First Development approach.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:54:45",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of configuring proxy settings for SharePoint 2007, with no discussion of collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -1405,26 +1261,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:16:52",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content is focused on technical details regarding proxy server settings for SharePoint 2007 and does not mention Scrum or its principles, roles, events, or any related topics. There is no alignment with Scrum concepts, and the depth of discussion is entirely unrelated to the Scrum framework.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:45:15",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on proxy server settings for SharePoint 2007 and does not discuss any aspects of the Shift-Left Strategy, such as testing, security, or compliance in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on technical details related to proxy server settings for SharePoint 2007, with no mention of Common Goals, Agile, or DevOps principles. It lacks any discussion on alignment, ownership, or strategic objectives, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical details regarding proxy server settings for SharePoint 2007, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of technical competence in configuring SharePoint, it does not engage with the core themes of the 'Competence' category, such as fostering a culture of competence or the importance of ongoing skill development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical details regarding proxy server settings for SharePoint 2007, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of processes, team effectiveness, or empirical evidence, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical details regarding proxy server settings for SharePoint 2007, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the themes of Agentic Agility, making it largely unrelated.",
     "level": "Ignored"
   }
 }

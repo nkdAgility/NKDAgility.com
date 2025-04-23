@@ -2,7 +2,7 @@
 title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
 description: Discover how to enhance remote work, integrate UX in Agile, and boost team dynamics. Join Martin Hinshelwood for insights that drive collaboration and value!
 date: 2020-04-10T18:30:42Z
-weight: 390
+weight: 330
 ResourceId: A8URbBCljnQ
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,23 @@ preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
 duration: 1506
 isShort: false
 tags:
-- People and Process
+- Pragmatic Thinking
 - Team Collaboration
 - Remote Working
-- Pragmatic Thinking
 - Agile Product Management
-- Product Delivery
-- Scrum Team
-- Agile Project Management
 - Agile Transformation
 - Backlog Refinement
+- Market Adaptability
+- Product Delivery
+- Scrum Team
+- Software Development
+- Team Performance
+- Social Technologies
+- Agile Philosophy
+- Agile Values and Principles
+- Operational Practices
+- Organisational Agility
+- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +50,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around remote working, the integration of UX in Agile practices, and the importance of team dynamics. 

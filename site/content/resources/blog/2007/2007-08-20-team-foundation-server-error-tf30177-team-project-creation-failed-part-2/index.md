@@ -30,8 +30,8 @@ aliasesArchive:
 - /team-foundation-server-error-tf30177--team-project-creation-failed----part-2
 - /blog/team-foundation-server-error-tf30177--team-project-creation-failed----part-2
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - System Configuration
 categories: []

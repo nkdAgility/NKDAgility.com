@@ -1,77 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T19:17:51",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, which does not align with Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:09:23",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed exploration of 'Standard Environments' in Visual Studio Team Foundation Server, focusing on automated deployment and testing, which directly aligns with practical techniques and tooling in Agile and DevOps. It discusses specific tools (e.g., TFS, Nuget, PowerShell) and methodologies for implementing continuous delivery, showcasing best practices and providing a step-by-step guide for setting up environments. The depth of discussion is significant, covering various aspects of deployment pipelines and environment management, thus strongly supporting the category's focus.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-10T12:50:14",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the creation and management of 'Standard Environments' within Visual Studio Team Foundation Server, which aligns with the principles of Platform Engineering by focusing on automation, standardisation, and enhancing developer productivity. It provides detailed insights into setting up environments for automated deployment and testing, which are key components of Internal Developer Platforms (IDPs). The discussion includes specific tools and processes that facilitate developer workflows, indicating a strong alignment with the core themes of Platform Engineering. However, while the content is rich in detail, it does not explicitly frame these practices within the broader context of Platform Engineering, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:56:48",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on automated deployment and testing processes within Visual Studio and TFS, with no explicit discussion of Evidence-Based Management principles. While it touches on standardisation and automation, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T05:23:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 30,
-    "final_score": 32.0,
-    "reasoning": "The content discusses automated deployment and testing environments, which touches on aspects of software development processes. However, it primarily focuses on practical implementation details rather than the interplay between code quality and complexity. While there are mentions of standardisation and deployment mechanisms, the discussion lacks depth in exploring complexity theory or its implications on software architecture and design decisions.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:17:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to automated deployment and testing environments, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:17:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio and Team Foundation Server, without a clear focus on AI or its integration within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T14:51:18",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on setting up and configuring 'Standard Environments' in Visual Studio 2012 Team Foundation Server, which directly aligns with the category of Install and Configuration. It includes step-by-step instructions for creating and deploying to these environments, discusses best practices, and addresses potential issues, demonstrating a strong focus on actionable installation and configuration processes. The depth of discussion is significant, covering various aspects of the setup, including the use of Nuget and PowerShell scripts for deployment, which enhances the overall alignment with the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:18:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automated deployment and testing environments in Visual Studio, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -122,24 +71,15 @@
     "reasoning": "Content primarily discusses technical aspects of automated deployment and testing environments without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:56:34",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on automating deployment and testing within a DevOps context, discussing the use of Standard Environments in Visual Studio 2012 TFS. It explicitly mentions DevOps practices and principles, such as continuous delivery, automation, and the importance of a standard deployment pipeline. The depth of discussion is significant, covering various aspects of setting up environments, deployment processes, and the integration of testing, which aligns well with the core themes of DevOps. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Primary"
   },
@@ -161,34 +101,16 @@
     "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio and Team Foundation Server, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:18:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-15T05:22:58",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses automated deployment and testing environments, which indirectly relates to flow efficiency by mentioning continuous delivery and deployment pipelines. However, it lacks a direct focus on optimising throughput or eliminating bottlenecks in the value stream. The discussion is more about the technical setup and management of environments rather than the principles and strategies of flow efficiency in Lean and Agile methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical aspects of automated deployment and testing environments without a clear focus on human behaviour or team processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -211,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:18:20",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup and management of standard environments for automated deployment and testing, without a clear focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -229,22 +151,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:40:24",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on the implementation of Standard Environments in Visual Studio Team Foundation Server, focusing on automated deployment and testing, which aligns closely with Continuous Integration and Continuous Delivery (CI/CD) practices. It explicitly mentions the importance of standardisation in deployment processes and the use of tools like NuGet for consistent packaging, which are key aspects of technical excellence. The depth of the discussion is significant, covering setup, configuration, and the benefits of automated testing within a deployment pipeline, thus demonstrating a strong alignment with the principles of technical excellence.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T19:18:24",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio and Team Foundation Server, without a focus on complexity science or its principles.",
     "level": "Ignored"
   },
@@ -259,15 +181,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T10:30:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 32,
     "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the methodologies and practices related to automated deployment and testing within the context of software product delivery. It covers the setup of standard environments, the importance of consistent deployment mechanisms, and the integration of testing within the deployment pipeline, all of which are core aspects of product delivery. The depth of discussion on deployment strategies and the use of tools like Nuget and PowerShell scripts further solidifies its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -280,52 +202,43 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T19:18:31",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing environments in Visual Studio, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:18:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and functionalities of Visual Studio 2012 Team Foundation Server and its deployment processes, without focusing on specific products or literature related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T05:22:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses automated deployment and testing environments, which are relevant to continuous delivery practices. However, it primarily focuses on technical implementation details and specific tools (e.g., Visual Studio, TFS, Nuget) rather than broader strategies for delivering value to customers. While there are mentions of deployment pipelines and automation, the discussion lacks depth in terms of aligning product development with customer needs or measuring customer value, which are key aspects of the 'Value Delivery' category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T11:55:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the implementation of automated deployment and testing within Visual Studio Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed insights into creating and managing Standard Environments, which directly relates to CI/CD practices in Azure DevOps. The mention of deployment pipelines, automated testing, and integration with tools like NuGet aligns well with Azure DevOps functionalities. However, while the content is rich in detail, it does not explicitly cover all Azure DevOps services or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-15T19:18:37",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of automated deployment and testing in Visual Studio and Team Foundation Server, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
@@ -340,13 +253,13 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-15T05:23:05",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses standard environments for automated deployment and testing, which touches on aspects of integration and standardisation in software development. However, it primarily focuses on specific tools and processes related to Visual Studio and Team Foundation Server rather than the broader principles of the One Engineering System (1ES). While there are mentions of standardisation and deployment pipelines, the discussion lacks a direct focus on the 1ES framework, its principles, or its impact on software quality and collaboration across teams.",
     "level": "Ignored"
   },
@@ -371,26 +284,17 @@
     "reasoning": "Content primarily discusses automated deployment and testing environments in Visual Studio, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:18:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical details and processes related to automated deployment and testing in Visual Studio, lacking a clear discussion on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T15:00:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 30,
-    "final_score": 77.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the concept of Standard Environments in the context of Visual Studio Team Foundation Server, which is relevant to Application Lifecycle Management (ALM). It explicitly mentions ALM and covers aspects of deployment and testing environments, which are critical stages in the application lifecycle. However, while it touches on deployment and testing, it lacks a comprehensive exploration of all lifecycle stages and best practices, leading to a high but not perfect confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -403,45 +307,45 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on standard environments for automated deployment and testing, with no clear discussion or emphasis on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:22:08",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 75.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on the implementation of Standard Environments in Visual Studio Team Foundation Server, focusing on automated deployment and testing. It aligns well with the principles of software craftsmanship, particularly in the context of continuous integration and deployment practices. The mention of tools like NuGet and the emphasis on creating a standard deployment pipeline demonstrate a strong understanding of technical excellence. The depth of discussion is significant, covering various aspects of environment setup, deployment processes, and the importance of automation in software delivery.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing processes, without clear relevance to understanding customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:56:51",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on automating deployment and testing processes using Standard Environments in Visual Studio 2012 TFS, which aligns closely with Continuous Delivery principles. It discusses the importance of automation in deployment, the creation of standard environments, and the use of deployment pipelines, all of which are key aspects of Continuous Delivery. The content provides detailed steps and considerations for setting up these environments, demonstrating a depth of discussion that supports the category. However, while it mentions Continuous Delivery explicitly, it does not delve deeply into the broader cultural aspects or case studies, which slightly limits its alignment score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -454,10 +358,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on automated deployment and testing environments in Visual Studio and does not center around the concept of Lead Time as defined. There is no discussion on measuring, improving, or the significance of Lead Time in relation to customer delivery.",
     "level": "Ignored"
   },
@@ -472,28 +376,28 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on automated deployment and testing environments, discussing tooling and processes in Visual Studio and TFS, without addressing the Definition of Ready or related criteria for backlog items in Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses automated deployment and testing environments but does not focus on portfolio management or align with strategic investment decisions.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focused on deployment and testing environments in Visual Studio and DevOps practices, not on Product Backlog or backlog management in Agile.",
     "level": "Ignored"
   },
@@ -526,22 +430,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:22:17",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the implementation of Standard Environments in Visual Studio Team Foundation Server, focusing on automated deployment and testing, which directly relates to operational efficiency in a DevOps context. It provides detailed steps for creating and deploying to these environments, aligning well with the core themes of process optimisation and continuous improvement. The depth of discussion is significant, covering various aspects of deployment pipelines and the use of automation, which enhances operational practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on automated deployment and testing environments in software development, which does not relate to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -556,22 +460,22 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T05:23:13",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of setting up standard environments for automated deployment and testing within Visual Studio Team Foundation Server. While it touches on concepts related to deployment pipelines and automation, it lacks a direct discussion on strategic alignment, value-driven approaches, or leadership roles in Agile contexts. The mention of standardisation and deployment processes is more operational than strategic, leading to a low confidence score in the Strategy category.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on automated deployment, testing environments, and application lifecycle management, which do not directly pertain to validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -595,22 +499,22 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-11T18:02:43",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the implementation of automated testing within standard environments in Visual Studio Team Foundation Server. It discusses the setup of environments for automated deployment and testing, which aligns well with the principles of automated testing. There are direct mentions of automated tests, deployment pipelines, and the integration of testing within the development process. However, while the content provides a good level of detail, it could benefit from a deeper exploration of specific automated testing methodologies and best practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on Standard Environments for automated deployment and testing in Visual Studio and Team Foundation Server. It discusses technical aspects of deployment, testing automation, and software configuration management, which do not directly relate to agile team dynamics, collaboration, or performance strategies.",
     "level": "Ignored"
   },
@@ -625,40 +529,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment, testing environments, and configuration management without a focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T05:22:13",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
+    "final_score": 92.0,
     "reasoning": "The content provides a detailed discussion on automated deployment and testing within the context of Visual Studio Team Foundation Server, which directly relates to software development practices. It covers aspects of Continuous Integration and Continuous Deployment (CI/CD), deployment pipelines, and the use of standard environments, aligning well with the core themes of the Software Development category. The depth of the discussion is significant, with practical steps and considerations for setting up environments, which enhances its relevance to software engineering outcomes.",
     "level": "Primary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:17:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on automated deployment and testing processes in Visual Studio, without any significant references to Agile principles, frameworks like Scrum or Kanban, or discussions about project management methodologies.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio Team Foundation Server, without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -673,22 +568,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T05:22:53",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 42.0,
     "ai_mentions": 8,
     "ai_alignment": 30,
     "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses automated deployment and testing environments, which are related to modern source control practices, particularly in the context of continuous integration and deployment. However, it primarily focuses on deployment mechanisms and environment management rather than version control systems or branching strategies. While it mentions source control in passing, it does not delve deeply into version control methodologies or best practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses automated deployment and testing environments without a focus on empirical process control principles such as transparency, inspection, and adaptation in Agile methodologies.",
     "level": "Ignored"
   },
@@ -739,13 +634,13 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T16:50:59",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses automated deployment and testing environments, which are essential for facilitating frequent releases. It touches on concepts like continuous delivery and the importance of standardisation in deployment processes. However, while it mentions automation and deployment pipelines, it lacks a comprehensive exploration of the principles of frequent releases, such as user feedback integration and metrics for measuring release impact. The focus is more on the technical setup rather than the broader implications of frequent releases.",
     "level": "Secondary"
   },
@@ -758,21 +653,12 @@
     "reasoning": "The content primarily discusses technical aspects of automated deployment and testing environments in software development, without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:17:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on standard environments for automated deployment and testing in Visual Studio Team Foundation Server, which does not relate to Scaling Scrum practices, frameworks, or discussions.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of automated deployment and testing environments, without a focus on evidence-based decision-making in leadership.",
     "level": "Ignored"
   },
@@ -785,42 +671,33 @@
     "reasoning": "Content is primarily focused on technical aspects of creating standard environments for automated deployment and testing, without discussing psychological safety or its implications in team dynamics or performance.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:17:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, focusing on technical setup rather than scaling agile practices or methodologies across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:50:09",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the implementation of standard environments for automated deployment and testing, which directly relates to best practices in CI/CD and software craftsmanship. It provides detailed insights into the setup and management of environments, the importance of consistent deployment mechanisms, and the role of automation in enhancing development efficiency. The depth of discussion on deployment pipelines and the integration of testing further aligns with the principles of engineering excellence, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses automated deployment and testing processes in Visual Studio and Team Foundation Server without any reference or analysis of revenue per employee metrics, financial efficiency, or workforce productivity.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T20:17:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing environments using Visual Studio and Team Foundation Server, without addressing asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -844,13 +721,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T05:22:45",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the practical implementation of Standard Environments in Visual Studio Team Foundation Server, focusing on automated deployment and testing. It aligns with pragmatic thinking by addressing real-world applications of DevOps principles, such as continuous delivery and standardisation of deployment processes. However, while it provides some practical insights, the depth of discussion on broader Agile or Scrum strategies is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
@@ -865,29 +742,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical details of automated deployment and testing environments, lacking emphasis on innovation measurement or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses automated deployment environments in Visual Studio and does not focus on Scrum principles, roles, or practices related to product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on automated deployment and testing in Visual Studio and TFS, with no discussions or relevance to scaling Agile practices across multiple teams or enterprise-level initiatives.",
+    "reasoning": "Content primarily focuses on technical details of automated deployment and testing environments, lacking emphasis on innovation measurement or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -910,15 +769,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-15T05:22:27",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the setup and management of automated deployment environments, specifically within Visual Studio Team Foundation Server. It highlights the importance of automated testing in these environments, mentioning the execution of automated tests and the integration of deployment pipelines. The discussion aligns well with key topics in test automation, such as CI/CD and best practices for maintaining testing environments. The depth of detail provided about creating and managing standard environments, as well as the mention of automated tests, supports a high confidence score in the relevance to the Test Automation category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -931,13 +790,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:22:43",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the setup and management of Standard Environments for automated deployment and testing, which is relevant to the delivery of functional software. It touches on aspects of continuous delivery and deployment pipelines, aligning with the iterative development principles of Agile. However, while it provides practical insights, it lacks a comprehensive exploration of how these practices directly contribute to delivering high-quality software that meets customer needs, which is a core theme of the 'Working Software' category.",
     "level": "Secondary"
   },
@@ -952,15 +811,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T05:22:21",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the implementation of automated deployment and testing environments, which are integral to Continuous Integration practices. It explicitly mentions the use of automated tests and deployment pipelines, aligning well with CI principles. The depth of discussion includes specific tools and processes, such as Visual Studio Team Foundation Server and Nuget, which support CI workflows. Overall, the content provides a comprehensive overview of how to set up environments that facilitate CI, thus justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -991,19 +850,19 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-15T05:22:05",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 35,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content focuses primarily on automated deployment and testing environments, discussing tools and practices related to software development and deployment pipelines without explicitly addressing key SRE principles or practices such as reliability, monitoring, incident response, or post-mortem analysis.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on standard environments for deployment and automated testing without discussing hypothesis formulation, experimentation, or data-driven decision-making related to product development.",
     "level": "Ignored"
   },
@@ -1027,98 +886,98 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T05:22:29",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the setup and management of Standard Environments for automated deployment and testing, which directly relates to release management practices. It covers aspects such as deployment pipelines, the importance of consistent packaging mechanisms, and the integration of automated testing within the deployment process. The discussion aligns well with key topics in release management, including version control, risk management, and CI/CD practices. The depth of detail provided about creating environments and deploying applications indicates a strong focus on release management strategies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses deployment environments and automation in software development, with no specific relation to the responsibilities or skills of a Product Owner in Agile and Scrum frameworks.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Standard Environments for automated deployment and testing without discussing cycle time measurement or its implications on workflow efficiency.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T05:22:34",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 70.0,
     "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses automated deployment and testing within environments managed by Team Foundation Server (TFS), which is closely related to Azure DevOps and Azure Pipelines. It covers the creation and management of 'Standard Environments' for deployment, which aligns with CI/CD practices. However, the focus is more on TFS rather than Azure Pipelines specifically, and while it mentions deployment pipelines, it lacks detailed exploration of Azure Pipelines features and YAML configurations. Therefore, while it is relevant, it does not fully meet the primary focus required for a higher confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T05:22:51",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses automated deployment processes and the establishment of standard environments, which are crucial for optimising deployment frequency. It mentions the importance of consistent deployment mechanisms and the use of CI/CD practices, aligning well with the core themes of the category. However, while it provides a good level of detail on the setup and management of environments, it lacks extensive discussion on metrics or specific strategies for increasing deployment frequency, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, with no clear focus on change management principles, strategies, or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment processes and technical details of Visual Studio Team Foundation Server, without focusing on team collaboration dynamics.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses standard environments for automated deployment and testing in Team Foundation Server, focusing on deployment pipelines and automated testing rather than Behaviour Driven Development principles.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T05:23:03",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses automated deployment and testing environments, which are relevant to digital transformation in terms of improving operational efficiency and fostering innovation. However, it lacks a direct focus on strategic adoption of digital technologies or broader organisational change. The discussion is primarily technical and does not delve deeply into the cultural or strategic aspects of digital transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:17:47",
     "ai_confidence": 0,
@@ -1127,33 +986,24 @@
     "reasoning": "Content primarily discusses standard environments for automated deployment and testing, without a clear focus on the Minimum Viable Product concept or related practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio and Team Foundation Server, without a focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T05:22:40",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the setup and configuration of 'Standard Environments' within Visual Studio Team Foundation Server, detailing the processes for creating and deploying these environments. It discusses best practices for environment management, the role of automation in deployment, and the importance of configuration management tools like Nuget. The depth of discussion is significant, providing step-by-step instructions and considerations for optimising system performance and reliability. Overall, the content aligns well with the key topics of system configuration, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of deployment environments and automated testing processes, with no clear discussion on defining product vision or strategic planning.",
     "level": "Ignored"
   },
@@ -1177,113 +1027,119 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content predominantly discusses standard environments for automated deployment and testing in Visual Studio and does not focus on cross-functional teams or their characteristics, benefits, or practices.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T18:56:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses standard environments for automated deployment and testing, along with tools like Visual Studio and Team Foundation Server, without focusing on the principles of Test First Development or writing tests before code.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses automated deployment and testing within the context of Visual Studio 2012 TFS, but it does not explicitly focus on Test First Development principles. While it mentions automated tests and the importance of environments for testing, it lacks a clear emphasis on defining success criteria before implementation or the specific practices of Test-Driven Development (TDD) or Acceptance Test-Driven Development (ATDD). The discussion is more about deployment processes and environment management rather than the core concepts of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T05:23:18",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the use of Visual Studio 2012 Team Foundation Server and its features related to automated deployment and testing, which are relevant to the Windows environment. It mentions Windows Server 2012 and includes specific instructions for setting up environments that are likely to be Windows-based. However, the primary focus is on deployment processes and tools rather than on Windows OS installation, configuration, or troubleshooting, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T05:22:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses automated deployment processes and the use of standard environments in Visual Studio Team Foundation Server, which aligns with deployment strategies. It mentions the importance of consistent deployment mechanisms and the role of packaging tools like NuGet, which are relevant to deployment practices. However, while it provides a good level of detail on setting up environments and deployment pipelines, it lacks a broader discussion on various deployment strategies such as blue-green deployments or canary releases, which would enhance its alignment with the category.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, with no mention of Agile scaling principles, frameworks, or strategies relevant to Large Scale Agility.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of automated deployment and testing using Visual Studio and TFS, with no clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on standard environments for automated deployment and testing in software development, with no discussion on remote working, Agile practices, or related challenges and solutions.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing environments in Visual Studio, lacking a clear focus on Continuous Learning principles or practices.",
     "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:23:10",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses the setup and use of Standard Environments in Visual Studio Team Foundation Server for automated deployment and testing. While it touches on some troubleshooting aspects, such as verifying machine accessibility and potential issues with configuration, these points are not the main focus. The content lacks a comprehensive exploration of troubleshooting techniques or methodologies, which diminishes its alignment with the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-15T05:23:15",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 28.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses automated deployment and testing environments but lacks a primary focus on experimentation or hypothesis-driven approaches. While it briefly mentions the need for some experimentation regarding large environments, it does not delve into systematic testing of ideas or validating assumptions within Agile workflows, which are key aspects of the 'Experimentation' category.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio Team Foundation Server, without any clear connections to the Scrum Master role, responsibilities, or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on automated deployment and testing within Visual Studio and TFS, with no direct mention of the Scrum Master role or its responsibilities. While it touches on aspects of DevOps and software delivery, it does not align with the core themes of Scrum or the influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1297,24 +1153,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment processes and tools related to Team Foundation Server, not working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:22:23",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of automated deployment and testing environments using Visual Studio Team Foundation Server, which is directly relevant to software developers. It covers aspects of DevOps, such as continuous delivery and deployment pipelines, aligning well with the core themes of the category. The depth of discussion is substantial, providing detailed steps and considerations for setting up standard environments, which enhances the understanding of developers' roles in Agile and DevOps contexts.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1327,15 +1171,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T05:22:37",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 87.0,
     "ai_mentions": 16,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily discusses the implementation of automated deployment and testing environments, which aligns closely with the principles of Continuous Integration and Continuous Delivery (CI/CD). It provides detailed insights into setting up standard environments, automating deployments, and integrating testing processes, which are key aspects of Agile engineering practices. The mention of tools like NuGet and the emphasis on automation and standardisation further reinforce its relevance to the category. However, while the content is rich in practical details, it could benefit from a more explicit discussion of clean code principles and TDD to fully align with the broader themes of Engineering Practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1357,10 +1201,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical details of deploying and managing environments in Visual Studio and TFS, which does not align with the strategic focus of product management.",
     "level": "Ignored"
   },
@@ -1411,19 +1255,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on automated deployment and testing processes in Visual Studio and Team Foundation Server, with no clear discussion or alignment with Lean Product Development principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T20:17:47",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup and features of Standard Environments in Visual Studio 2012 for automated deployment and testing, without a focus on trend analysis related to Agile, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -1436,45 +1280,36 @@
     "reasoning": "Content heavily discusses deployment processes and tools in Visual Studio Team Foundation Server but does not focus on team dynamics, ownership, or accountability principles within Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on automated deployment and testing environments in Visual Studio and does not discuss Kanban principles, scaling Kanban practices, or relevant strategies for multiple teams and departments.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-15T05:23:01",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content discusses automated deployment and testing environments, which are related to the efficiency of software delivery. However, it lacks a direct focus on throughput as defined in Agile and DevOps contexts. While it touches on aspects of deployment pipelines and automation, it does not provide in-depth discussions on measuring or optimising throughput, nor does it explore the relationship between throughput and other metrics. The primary focus is on the technical setup of environments rather than the flow of work or completion rates.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-15T05:22:05",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
-    "final_score": 29.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses standard environments for automated deployment and testing, without a clear focus on the principles and practices of Test Driven Development (TDD). Although TDD is briefly mentioned, the main topic revolves around deployment processes and environment management, which are not central to TDD.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:33:09",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of automated deployment and testing within Visual Studio and TFS, with minimal reference to social technologies or collaboration frameworks. While it touches on the need for standardisation in deployment processes, it lacks a discussion on self-organisation, collective intelligence, or enhancing decision-making, which are core themes of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1489,10 +1324,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:20:34",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the setup and management of Standard Environments in Visual Studio Team Foundation Server, which aligns with the concept of an Internal Developer Platform by focusing on automating deployment and testing processes, thus streamlining the software delivery lifecycle.",
     "level": "Secondary"
   },
@@ -1507,62 +1342,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:41:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, with no direct mentions of Scrum roles, events, or principles. While it touches on concepts related to Agile practices, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum implementation or continuous improvement techniques.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:23:52",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the setup of Standard Environments for automated deployment and testing, which aligns with the Shift-Left Strategy by emphasising early integration of testing in the development process. It mentions automated tests and deployment pipelines, which are key components of a Shift-Left approach. However, while it touches on relevant topics, it lacks a comprehensive exploration of the principles and benefits of the Shift-Left Strategy, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:56:39",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of automating deployment and testing within Visual Studio 2012 TFS. While it touches on the importance of standardisation and consistency in deployment processes, it lacks a direct discussion on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into organisational processes. The mention of creating a standard deployment pipeline hints at improvement but does not delve into the broader implications or methodologies associated with Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:56:41",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of setting up Standard Environments for automated deployment and testing in Visual Studio 2012 TFS. While it touches on concepts relevant to DevOps practices, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:56:44",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of setting up automated deployment and testing environments in Visual Studio 2012 TFS. While it touches on the importance of standardisation and consistency in deployment processes, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of 'standardisation' and 'deployment pipeline' hints at competence but does not delve into fostering a culture of competence or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on automated deployment and testing processes within Visual Studio and TFS, discussing technical details and mechanisms without addressing the intentional shaping of outcomes, agency, or the principles of Agentic Agility. It lacks explicit mentions of autonomy, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

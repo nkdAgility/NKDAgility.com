@@ -2,7 +2,7 @@
 title: 'The Power of Humility in Agile: A Core Virtue for Success'
 description: "Discover how humility drives success in Agile! Uncover its role in collaboration, trust, and decision-making. Watch now for transformative insights! \U0001F31F"
 date: 2023-12-12T07:00:02Z
-weight: 805
+weight: 790
 ResourceId: 4scE4acfewk
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,21 +29,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Values and Principles
-- Agile Project Management
 - Team Motivation
 - Agile Philosophy
+- Agile Values and Principles
 - Team Performance
 - Agile Product Management
+- Social Technologies
+- Software Development
+- Coaching
 - Organisational Agility
 - Team Collaboration
 - Agile Leadership
+- Organisational Culture
 resourceTypes:
 - video
 layout: video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 When we talk about the **Seven Virtues of Agility**, one that often stands out is humility. It's an essential ingredient for effective collaboration and success within Agile teams. Whether you're a product owner, product manager, or a developer, embracing humility can dramatically impact the quality of your work and the strength of your team.

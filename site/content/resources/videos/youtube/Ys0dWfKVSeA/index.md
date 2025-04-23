@@ -2,7 +2,7 @@
 title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
 description: "Discover how Scrum reveals organisational challenges and enhances progress. Join Martin as he explores its true value in this insightful video! \U0001F680\U0001FA9E"
 date: 2023-09-27T07:00:29Z
-weight: 625
+weight: 590
 ResourceId: Ys0dWfKVSeA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -33,21 +33,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Transparency
-- Scrum Product Development
-- People and Process
 - Agile Frameworks
 - Software Development
-- Team Performance
 - Pragmatic Thinking
+- Team Performance
+- Agile Planning
 - Team Collaboration
-- Discovery and Learning
+- Agile Transformation
+- Empirical Process Control
+- Agile Product Management
+- Scrum Team
+- Organisational Agility
+- Professional Scrum
+- Value Delivery
+- Continuous Improvement
+- Social Technologies
+- Product Delivery
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
-- Social Technologies
 
 ---
 ## Reflecting on Scrum's Mirror  

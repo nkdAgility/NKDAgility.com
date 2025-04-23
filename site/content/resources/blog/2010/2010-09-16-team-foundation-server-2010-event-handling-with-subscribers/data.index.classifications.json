@@ -8,70 +8,28 @@
     "reasoning": "Content primarily discusses technical aspects of event handling in Team Foundation Server, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:34:13",
-    "ai_confidence": 82.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides a detailed exploration of implementing event handling in Team Foundation Server (TFS) 2010, which directly relates to practical techniques and tooling in a DevOps context. It discusses the use of the ISubscriber interface, the process of creating event handlers, and the specifics of handling events, which aligns well with the category's focus on methodologies and frameworks that enhance Agile and DevOps practices. The depth of the discussion is significant, with code examples and explanations of how to set up and use the tooling effectively. Overall, the content is highly relevant and provides practical insights into the application of TFS as a tool within a DevOps framework.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T06:48:02",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses event handling within Team Foundation Server (TFS) 2010, focusing on the implementation of event subscribers and the use of interfaces like ISubscriber. While it touches on aspects of internal development processes, it lacks a direct focus on the broader principles of Platform Engineering, such as enhancing developer productivity or optimising the application lifecycle. The discussion is more technical and specific to TFS rather than addressing the core themes of Platform Engineering, resulting in a moderate confidence score.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:49:57",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of event handling in Team Foundation Server 2010, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on the implementation of event subscribers, it lacks any reference to data-informed decision-making or the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:48:12",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server 2010, which involves coding practices and some complexity in managing event subscribers. However, it lacks a thorough exploration of the principles of software code quality, best practices, or the impact of complexity on software architecture. While it does touch on aspects of code and complexity, it does not delve deeply into the relationship between them, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:13:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details of event handling in Team Foundation Server without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:13:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses event handling in Team Foundation Server 2010, with no clear focus on AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:03:15",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed guide on how to implement event handling in Team Foundation Server (TFS) 2010, including specific instructions on where to place assemblies and how to implement the ISubscriber interface. It discusses the configuration of event subscribers, which is a key aspect of installation and configuration. The content is rich in technical details and actionable steps, aligning well with the category's focus on installation and configuration processes. However, while it is primarily focused on these aspects, there are some tangential discussions that slightly detract from a perfect alignment.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:13:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of event handling in Team Foundation Server, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -122,24 +71,15 @@
     "reasoning": "Content primarily discusses technical implementation details of event handling in Team Foundation Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:13:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical implementations of event handling in Team Foundation Server without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:49:43",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on event handling in Team Foundation Server (TFS) 2010, which is a specific tool rather than a discussion on DevOps principles or practices. While it touches on aspects of automation and integration, it lacks a broader discussion on the cultural and philosophical aspects of DevOps. The mention of TFS and event handling does not align with the core themes of DevOps, such as collaboration, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
@@ -154,20 +94,11 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-16T00:13:58",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementations related to Team Foundation Server event handling, with no clear focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:13:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation details of event handling in Team Foundation Server, with no reference to events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -177,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses event handling in Team Foundation Server, with no clear focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:14:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation details of event handling in Team Foundation Server, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -208,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:14:06",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses event handling in Team Foundation Server 2010, focusing on technical implementation rather than metrics, learning, or continuous improvement principles.",
     "level": "Ignored"
   },
@@ -226,13 +148,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T15:01:54",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server (TFS) 2010, which involves technical practices related to software development. It discusses the use of the ISubscriber interface and the implementation of event handlers, showcasing a specific technical solution. However, while it touches on aspects of modular architecture and the integration of technical practices, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the category of Technical Excellence. The depth of discussion is also limited to a specific implementation without exploring the implications or best practices in a wider context.",
     "level": "Secondary"
   },
@@ -281,15 +203,6 @@
     "reasoning": "Content primarily discusses event handling in Team Foundation Server, which is unrelated to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of event handling in Team Foundation Server 2010, without focusing on any specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T00:14:18",
@@ -301,15 +214,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T18:49:53",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 62.0,
     "ai_mentions": 80.0,
     "ai_alignment": 50.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) 2010, which is a predecessor to Azure DevOps. While it touches on event handling and customisation within TFS, it does not explicitly mention Azure DevOps or its services. The discussion aligns with some core themes of Azure DevOps, such as customisation and integration, but lacks depth in terms of Azure DevOps-specific functionalities and best practices. Overall, the content is relevant but not directly focused on Azure DevOps.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -340,13 +253,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:49:54",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on event handling in Team Foundation Server (TFS) 2010, discussing technical implementation details of event subscribers and handlers. It does not address any principles or practices related to the Agile Product Operating Model, nor does it mention product management or agile methodologies. The discussion is strictly technical and does not align with the core themes of the APOM.",
     "level": "Ignored"
   },
@@ -359,24 +272,15 @@
     "reasoning": "Content primarily discusses technical implementation details of event handling in Team Foundation Server 2010, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:14:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of event handling in Team Foundation Server 2010, lacking industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:47:53",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on handling events in Team Foundation Server (TFS) 2010, which is a specific aspect of software development rather than a comprehensive discussion on Application Lifecycle Management (ALM). While it touches on event handling, it lacks a broader context of the application lifecycle stages, governance, or integration of ALM methodologies. The discussion is technical and detailed but does not sufficiently cover the key topics outlined for ALM.",
     "level": "Ignored"
   },
@@ -391,24 +295,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:46:48",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses event handling in Team Foundation Server and does not address any aspects of the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:39:33",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server 2010, which aligns with technical mastery in software craftsmanship. It discusses the use of interfaces, event processing, and the structure of code, demonstrating a solid understanding of software engineering principles. However, while it touches on best practices and technical details, it lacks a broader discussion on methodologies or principles that contribute to high-quality software development, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -421,13 +325,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:50:00",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on event handling in Team Foundation Server (TFS) 2010, discussing how to create event subscribers and manage events within TFS. While it touches on aspects of software development, it does not explicitly address Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, and the key topics outlined in the category are not covered.",
     "level": "Ignored"
   },
@@ -460,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses event handling in Team Foundation Server and does not address the Definition of Ready in any substantial way.",
     "level": "Ignored"
   },
@@ -514,22 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:48:09",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical implementation of event handling in Team Foundation Server (TFS) 2010, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it discusses the use of event subscribers and their implementation, it lacks a clear connection to broader operational strategies or methodologies that would improve organisational performance. The mention of handling events could be tangentially related to operational practices, but it does not provide sufficient depth or alignment with the key topics outlined in the category.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on event handling in Team Foundation Server 2010 and does not discuss any aspects of Scrum Teams, their roles, or dynamics.",
     "level": "Ignored"
   },
@@ -589,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of Team Foundation Server event handling and programming, with no focus on team dynamics, collaboration, or Agile principles.",
     "level": "Ignored"
   },
@@ -607,40 +511,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses event handling in Team Foundation Server 2010, with no emphasis on Acceptance Test Driven Development or any related topics of acceptance criteria or collaboration among stakeholders.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T18:10:36",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed exploration of event handling in Team Foundation Server (TFS) 2010, focusing on the implementation of the ISubscriber interface and the process of creating event subscribers. It discusses specific coding practices, the structure of event handling, and the implications of using TFS for software development. The primary focus is on software engineering practices, particularly in the context of version control and event-driven programming, which aligns well with the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses handling events in Team Foundation Server 2010 and does not focus on Agile Project Management methodologies, principles, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses TFS event handling and related programming without addressing Agile values or principles.",
     "level": "Ignored"
   },
@@ -655,19 +550,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T06:47:48",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses event handling within Team Foundation Server (TFS), which relates to source control functionality, but the primary focus is on event handling and customization rather than core modern source control practices. There are mentions of TFS and version control, but they are not the central theme.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Team Foundation Server event handling and coding practices, with no clear focus on empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -700,10 +595,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation of event handling in Team Foundation Server, which is not related to organisational change.",
     "level": "Ignored"
   },
@@ -734,15 +629,6 @@
     "reasoning": "Content discusses technical implementation details of event handling in Team Foundation Server without any focus on customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses event handling within Team Foundation Server (TFS) 2010 and does not address Scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:46:49",
@@ -761,24 +647,15 @@
     "reasoning": "Content heavily discusses technical details related to event handling in Team Foundation Server, without any relation to psychological safety concepts.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on event handling within Team Foundation Server, with no clear discussions on scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:47:48",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server 2010, which is a technical topic related to software development. However, it lacks explicit discussions on engineering excellence principles, best practices, or continuous improvement processes. While it touches on coding practices and technical implementation, it does not delve deeply into the broader themes of software craftsmanship or quality assurance, leading to a moderate confidence score.",
     "level": "Ignored"
   },
@@ -820,15 +697,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T16:59:26",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical implementation of event handling in Team Foundation Server 2010, showcasing real-world applications of software development principles. It provides a detailed explanation of how to create event subscribers, which aligns with pragmatic problem-solving in a complex environment. However, while it touches on practical aspects, it lacks a broader discussion on Agile or Scrum methodologies, which limits its alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -841,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of event handling in Team Foundation Server 2010, focusing on implementation details rather than innovation capacity, measurement, or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server event handling and implementation details, with no clear connection to Scrum practices or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details related to event handling in Team Foundation Server 2010, without any discussion on Agile practices, scaling, or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -886,10 +745,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses event handling and integration with Team Foundation Server, without any clear focus on principles or practices of test automation.",
     "level": "Ignored"
   },
@@ -904,15 +763,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:48:04",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the implementation of event handling in Team Foundation Server 2010, focusing on technical details and code examples. While it touches on aspects of functionality and operational software, it lacks a direct emphasis on the broader themes of working software, such as customer feedback, iterative development, or quality assurance practices. The discussion is more technical and implementation-focused rather than addressing the delivery of high-quality software that meets user needs.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -979,13 +838,13 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T06:47:55",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses event handling in Team Foundation Server (TFS) and touches on decision points within event processing. However, it primarily focuses on technical implementation details rather than structured decision-making methodologies or evidence-based practices. While there are references to decision points, they are not explored in depth, and the overall discussion lacks a strong emphasis on decision-making frameworks or collaborative insights.",
     "level": "Ignored"
   },
@@ -1045,19 +904,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details related to event handling in Team Foundation Server, lacking focus on change management principles or strategies.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of event handling in Team Foundation Server, without a clear focus on team collaboration or dynamics related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -1079,7 +938,7 @@
     "reasoning": "Content focuses on technical implementation details of event handling in Team Foundation Server without discussing broader themes of digital transformation, such as business agility or innovation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:46:49",
     "ai_confidence": 0,
@@ -1088,24 +947,15 @@
     "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server 2010 and does not address Minimum Viable Product concepts or their development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses event handling in Team Foundation Server 2010 and does not focus on AI applications within Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:08:56",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses the configuration of event handlers within Team Foundation Server (TFS) 2010, detailing how to set up and implement the ISubscriber interface for event processing. It provides specific instructions on where to place assemblies and how to handle events, which aligns well with the key topics of system configuration. The depth of discussion is substantial, covering practical implementation details and considerations for system performance and reliability. However, while the focus is strong, some sections veer into general programming practices, which slightly detracts from the overall alignment with the category.",
     "level": "Secondary"
   },
@@ -1147,24 +997,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily focuses on Team Foundation Server event handling and does not discuss Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on event handling in Team Foundation Server (TFS) 2010, discussing the implementation of event subscribers and the technical details of handling events. There is no mention of Test First Development principles, success criteria, or testing practices. The content does not align with the core themes of Test First Development, and the depth of discussion is limited to TFS event handling without any reference to testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:47:51",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) 2010, which is a Microsoft product that operates within the Windows environment. It provides detailed information on event handling and configuration specific to TFS, which is relevant to Windows users. The content includes direct references to Windows file paths and assemblies, indicating a strong focus on the Windows operating system. While it does not explicitly cover broader Windows topics like installation or updates, the depth of discussion regarding TFS and its integration with Windows systems supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1186,19 +1039,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to Team Foundation Server and event handling, with no focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses event handling in Team Foundation Server 2010 and does not address Remote Working practices or challenges.",
     "level": "Ignored"
   },
@@ -1213,15 +1066,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T06:47:57",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the implementation of event handlers in Team Foundation Server 2010, which could relate to troubleshooting in terms of ensuring that events are processed correctly. However, it primarily focuses on the implementation details rather than diagnosing or resolving specific issues. While there are mentions of potential problems (e.g., needing to place assemblies in the correct directory), the overall emphasis is on coding rather than troubleshooting methodologies or techniques.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1234,11 +1087,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on event handling in Team Foundation Server and does not discuss Scrum roles, responsibilities, or practices related to a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on event handling in Team Foundation Server (TFS) 2010, with no direct mention of Scrum Master responsibilities or related concepts. While it discusses technical aspects of TFS, it does not align with the core themes of the Scrum Master role, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1259,18 +1115,6 @@
     "reasoning": "Content heavily discusses event handling in Team Foundation Server, which is unrelated to working agreements or teamwork principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T12:04:47",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content primarily discusses the implementation of event handling in Team Foundation Server (TFS) 2010, which is relevant to software developers working with TFS. However, it lacks a direct focus on Agile or DevOps methodologies, and while it touches on technical aspects of software development, it does not delve into best practices or collaborative frameworks that are central to the Software Developers category. The discussion is more technical and implementation-focused rather than exploring the broader role of developers within Agile or DevOps contexts.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T00:46:49",
@@ -1282,13 +1126,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:48:16",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server (TFS) 2010, which is more aligned with specific technical implementation rather than broader engineering practices. While it touches on aspects of clean code and automation through the use of event subscribers, it lacks a comprehensive discussion on Agile methodologies, TDD, CI/CD, or other core engineering practices. The depth of technical detail is significant, but it does not sufficiently connect to the overarching principles of Agile engineering practices.",
     "level": "Ignored"
   },
@@ -1391,15 +1235,6 @@
     "reasoning": "Content heavily discusses the technical implementation of event handling in Team Foundation Server, which does not relate to accountability in Agile teams or ownership principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on event handling in Team Foundation Server (TFS) and does not discuss Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:46:49",
@@ -1411,22 +1246,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T00:46:49",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses handling events in Team Foundation Server (TFS) 2010 and does not focus on Test Driven Development principles, practices, or the TDD cycle.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:41:37",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of event handling in Team Foundation Server (TFS) 2010, specifically detailing the implementation of event subscribers and the associated code. While it touches on concepts like decision points and event processing, it lacks a primary focus on collaboration, decision-making, or value delivery within organisations, which are central to the Social Technologies category. The discussion is heavily technical and does not engage with the social frameworks or methodologies that promote collaboration or collective intelligence.",
     "level": "Ignored"
   },
@@ -1459,62 +1294,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:49:54",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses event handling in Team Foundation Server (TFS) 2010, focusing on technical implementation details rather than Scrum principles, roles, or practices. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion does not align with the core themes of Scrum or Agile principles.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:32:12",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on event handling in Team Foundation Server 2010, discussing the implementation of event subscribers and their functionalities. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, and the discussion lacks depth in relation to the category's core themes.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:49:46",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of event handling in Team Foundation Server 2010, with no explicit discussion on Continuous Improvement principles. While there are mentions of enhancing development processes, these are not framed within the context of Continuous Improvement methodologies or philosophies. The content lacks depth in discussing empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:49:48",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of event handling in Team Foundation Server 2010, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on the implementation of event subscribers, it lacks any connection to shared objectives, strategic alignment, or team collaboration, which are central to the concept of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:49:51",
+    "calculated_at": "2025-04-10T15:55:55",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details of event handling in TFS 2010, with no explicit discussion on competence, continuous learning, or skill development. While it touches on the importance of understanding TFS and its event handling capabilities, it lacks a direct connection to the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of event handling in Team Foundation Server 2010, with no explicit discussion of Agentic Agility or its principles. While there are mentions of decision points and event processing, these do not align with the core themes of intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

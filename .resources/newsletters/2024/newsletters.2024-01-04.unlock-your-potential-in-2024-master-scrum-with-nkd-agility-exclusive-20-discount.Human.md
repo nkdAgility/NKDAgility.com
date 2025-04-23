@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2024-01-04
-weight: 715
+weight: 690
 preview: naked-agility-technically-agile-1280×720-January2024.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -21,15 +21,11 @@ aliasesArchive:
 - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Professional Scrum
-- Agile Project Management
-- Products and Books
 - Software Development
+- Competence
 - Agile Frameworks
-- Practical Techniques and Tooling
-- Events and Presentations
 
 ---
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning scrum training courses. It's not just about learning; it's about transforming and leading in an agile world.

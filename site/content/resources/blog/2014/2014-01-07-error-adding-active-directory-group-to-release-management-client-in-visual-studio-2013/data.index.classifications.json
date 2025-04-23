@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T11:19:39",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to the Release Management Client in Visual Studio 2013, with no focus on Agile principles or product management.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T04:42:54",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses a specific issue related to the Release Management Client in Visual Studio 2013, including error handling and a workaround for adding Active Directory groups. While it touches on practical tooling, the focus is primarily on a specific problem rather than a broader exploration of techniques or methodologies. The discussion lacks depth in terms of methodologies or frameworks that enhance Agile or DevOps practices, which limits its alignment with the category.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:30:03",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no direct mention of Evidence-Based Management principles or metrics. While it discusses problem-solving and error handling, it does not align with the core themes of EBM, such as data-informed decision-making or value delivery. The depth of discussion is limited to a specific technical problem, further distancing it from the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:19:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, focusing on implementation issues rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T11:19:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:19:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio 2013, with no mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-07T14:51:51",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 75.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The content primarily discusses a specific issue related to adding Active Directory groups in the Release Management Client for Visual Studio 2013, which falls under the installation and configuration category. It provides a detailed account of the problem encountered, including error messages and steps taken to troubleshoot the issue. The solution offered is actionable and directly relates to configuring the software correctly. However, while it does touch on installation and configuration, it lacks broader context or step-by-step installation procedures, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:19:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:19:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:29:49",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical issue related to the Release Management Client in Visual Studio 2013, specifically addressing an error when adding Active Directory groups. While it touches on aspects of release management, it does not engage with the broader principles or cultural shifts associated with DevOps. There are no direct mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The discussion is narrowly focused on troubleshooting a specific problem rather than exploring DevOps practices or methodologies.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:20:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Active Directory and Release Management Client, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T11:20:05",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:20:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:20:14",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Release Management Client, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -265,20 +190,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T11:20:23",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Release Management Client, which is not relevant to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:20:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to the Release Management Client in Visual Studio 2013, without any focus on products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -292,13 +208,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T04:42:52",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses an issue related to the Release Management Client in Visual Studio 2013, which is part of the Azure DevOps suite. However, it primarily focuses on a specific error encountered when adding Active Directory groups, lacking broader discussions on Azure DevOps functionalities or best practices. While it mentions Azure DevOps indirectly through the context of Release Management, it does not provide a comprehensive overview or detailed insights into Azure DevOps as a whole.",
     "level": "Ignored"
   },
@@ -322,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:20:31",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Release Management Client, which is not relevant to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:29:59",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on a technical issue related to the Release Management Client in Visual Studio 2013, with no discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not mention any key topics associated with APOM, nor does it provide any depth or alignment with the category's core themes.",
     "level": "Ignored"
   },
@@ -350,21 +266,12 @@
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:20:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue and solution related to the Release Management Client in Visual Studio 2013, without addressing industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:20:36",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error encountered in the Release Management Client, focusing on troubleshooting and implementation issues rather than the overall management of the application lifecycle.",
     "level": "Ignored"
   },
@@ -379,24 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T11:20:49",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:42:58",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses a specific technical issue related to adding Active Directory groups in Visual Studio 2013, which is a narrow focus on a particular problem rather than a broader discussion on software craftsmanship or engineering practices. While it touches on error handling and implementation issues, it lacks a comprehensive exploration of best practices, principles, or methodologies that would align it more closely with the 'Technical Mastery' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -409,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:30:06",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting an error related to adding Active Directory groups in the Release Management Client of Visual Studio 2013. While it mentions 'Release Management', it does not discuss Continuous Delivery principles, practices, or benefits. The content lacks depth in addressing Continuous Delivery concepts and does not provide insights into automation, incremental improvements, or user feedback, which are key aspects of the category.",
     "level": "Ignored"
   },
@@ -430,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T11:20:56",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -448,19 +355,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T11:20:58",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in a software application, with no mention of backlog item readiness or related Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T11:21:00",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to adding Active Directory groups in Release Management Client, with no relevance to portfolio management or strategic alignment.",
     "level": "Ignored"
   },
@@ -592,40 +499,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T11:21:20",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no focus on Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T12:43:16",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific issue related to the Release Management Client in Visual Studio 2013, which is a tool used in the software development lifecycle. It provides a detailed account of an error encountered while integrating Active Directory with the client, which aligns with software development practices. However, while it touches on aspects of error handling and user experience in software, it lacks broader discussions on methodologies or best practices in software development, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T11:21:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an error related to Active Directory integration in Visual Studio, with no mention of Agile methodologies or project management principles.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T11:21:26",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -719,15 +617,6 @@
     "reasoning": "Content primarily discusses technical issues related to adding Active Directory groups in Release Management Client, with no focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T11:21:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Active Directory integration in Visual Studio, with no mention of Scrum principles, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T11:21:40",
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to adding Active Directory groups in Visual Studio, with no mention of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T11:21:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no relevance to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,15 +682,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:26:16",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a practical problem encountered while using the Release Management Client in Visual Studio 2013, detailing the issue and providing a solution based on real-world experience. It highlights the importance of understanding the configuration of Active Directory and offers a workaround, which aligns with pragmatic thinking. However, while it touches on problem-solving in a specific context, it lacks broader discussions on Agile, Scrum, or DevOps principles, which limits its overall alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -823,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T11:21:56",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T11:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Active Directory integration in Visual Studio, with no clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T11:21:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Active Directory and Release Management Client, with no reference to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -868,10 +730,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T11:22:03",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Release Management Client, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -886,15 +748,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T17:58:51",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a specific error encountered in the Release Management Client, which is a software tool. While it does touch on aspects of functionality and user experience, it lacks a broader discussion on working software principles, such as iterative development or customer feedback. The focus is more on troubleshooting a specific issue rather than delivering high-quality, functional software that meets user needs.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -979,15 +841,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T16:46:59",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific issue related to the Release Management Client in Visual Studio 2013, including error handling and user experience during the process of adding Active Directory groups. While it does mention 'Release Management' directly and provides some context about the functionality, the focus is primarily on a technical error rather than broader release management strategies or practices. The depth of discussion is moderate, as it provides a solution to the problem but lacks comprehensive coverage of release management principles or practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1000,10 +862,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T11:22:22",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no mention of Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1027,10 +889,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T11:22:25",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on change management principles or practices.",
     "level": "Ignored"
   },
@@ -1061,7 +923,7 @@
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no focus on digital transformation strategies or the integration of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T11:22:30",
     "ai_confidence": 0,
@@ -1070,26 +932,17 @@
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Release Management Client, with no focus on Minimum Viable Product concepts or related methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T11:22:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses an error related to Active Directory integration in Visual Studio, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T14:57:07",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific issue related to adding Active Directory groups in the Release Management Client, which touches on system configuration aspects. It mentions error handling and configuration settings, such as selecting the correct domain for group addition. However, the focus is primarily on troubleshooting a specific error rather than a broader discussion of system configuration best practices or methodologies. While it aligns with some key topics, it lacks depth in exploring configuration management tools or optimisation strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1129,22 +982,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:22:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific error encountered in Visual Studio 2013's Release Management Client when adding Active Directory groups. It does not discuss Test First Development principles, success criteria, or testing practices. While it mentions a testing oversight ('slipped through the test matrix'), this is not a discussion on Test First Development itself, but rather a commentary on a specific implementation issue. Therefore, the content does not align with the category's core themes.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T14:46:00",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses an issue related to the Release Management Client in Visual Studio 2013, which operates within the Windows environment. It explicitly mentions Active Directory, error handling, and configuration settings relevant to Windows. The discussion aligns well with the core themes of troubleshooting and configuration within the Windows operating system. The depth of the discussion is substantial, providing specific error messages and potential solutions, indicating a strong focus on Windows-related issues.",
     "level": "Secondary"
   },
@@ -1195,15 +1051,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T18:35:41",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses a specific error encountered while adding an Active Directory group in Visual Studio 2013, detailing the symptoms, potential causes, and a clear solution. It aligns well with the core themes of troubleshooting by identifying a technical issue, providing insights into the problem, and suggesting a practical resolution. The depth of discussion includes specific error messages, user experiences, and a workaround, demonstrating a thorough exploration of the troubleshooting process.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1216,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Active Directory and Visual Studio, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a technical issue related to Visual Studio 2013 and Active Directory, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1239,15 +1098,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to adding Active Directory groups in Visual Studio, with no mention of working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T11:22:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error related to the Release Management Client in Visual Studio 2013, without focusing on Agile, DevOps, or the role of software developers in those contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,10 +1138,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T11:23:02",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to the Release Management Client in Visual Studio 2013, with no clear focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1367,15 +1217,6 @@
     "reasoning": "Content primarily discusses technical issues related to adding Active Directory groups in Visual Studio, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T11:23:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Active Directory integration in Visual Studio, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T11:23:14",
@@ -1387,10 +1228,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T11:23:16",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to adding Active Directory groups in Visual Studio, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1405,13 +1246,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:28:58",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no discussion of collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, and the depth of discussion is limited to troubleshooting a specific error, which does not align with the core themes of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1435,62 +1276,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:38:06",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical issue related to the Release Management Client in Visual Studio 2013, with no direct mentions of Scrum principles, roles, events, or practices. While it touches on aspects of project management through error handling, it does not align with the core themes of Scrum or provide any depth in discussing Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:19:54",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
     "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a specific error encountered in the Release Management Client related to Active Directory integration. While it touches on issues that could be seen as related to testing and error handling, it does not explicitly address the Shift-Left Strategy or its principles. The focus is on a technical problem and its solution rather than on integrating testing or security earlier in the development process. Therefore, the alignment with the Shift-Left Strategy is minimal.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:29:51",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Visual Studio 2013 and does not discuss Continuous Improvement principles. While there is a brief mention of a potential fix for a coding issue, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The discussion is more about resolving a specific error rather than fostering a culture of experimentation or learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:29:55",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:29:57",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no explicit discussion on competence, continuous learning, or skill development. While it touches on problem-solving and implementation details, these do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to adding Active Directory groups in Visual Studio 2013, with no explicit discussion of Agentic Agility or its principles. While there is a mention of problem-solving and error resolution, it does not align with the core themes of intentional shaping of outcomes, autonomy, or adaptability in socio-technical environments.",
     "level": "Ignored"
   }
 }

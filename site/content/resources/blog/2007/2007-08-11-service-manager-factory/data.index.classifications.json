@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:40:42",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on code upgrades and documentation processes, which are tangentially related but do not delve into the core themes of ALM such as lifecycle stages, governance, or risk management.",
     "level": "Ignored"
   },
@@ -58,13 +58,13 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:21:06",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
+    "final_score": 68.0,
     "reasoning": "The content mentions an installer that will install the code to the GAC, which aligns with installation processes. However, it lacks detailed step-by-step instructions or configuration best practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -86,15 +86,6 @@
     "reasoning": "Content primarily discusses a software upgrade and documentation process without any direct reference to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:03:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation processes without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:03:06",
@@ -102,18 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses code upgrades and documentation for a managed service factory, with no clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:40:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions an upgrade and release of code related to a managed service factory, which hints at practical tooling. However, it lacks detailed discussion on specific Agile or DevOps methodologies, tools, or frameworks. The focus is more on the release process rather than exploring techniques or best practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -127,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:03:10",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code upgrades and documentation processes without focusing on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -163,43 +142,37 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:03:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and internal documentation without any reference to Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the upgrade of a Service Manager Factory and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of empirical decision-making or the key topics outlined in the EBM category. The content lacks depth and relevance to the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:03:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation for a managed service factory, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:40:44",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content mentions an upgrade and release of code related to a managed service factory, which could be seen as a news update. However, it lacks a detailed discussion on Agile or DevOps practices, and does not provide a review or analysis of tools or methodologies. The focus is more on the technical aspects of the code rather than industry trends or evaluations, leading to a low confidence score.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the upgraded Service Manager Factory and its features, with no explicit discussion of the Agile Product Operating Model or its principles. While it mentions internal documentation and code release, these topics do not align with the core themes of APOM, such as product-oriented mindsets or agile methodologies in product management.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:40:40",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the release of code and the internal documentation process, which are related to product delivery. However, it lacks a detailed discussion on methodologies, practices, or strategies that are central to the category. The focus is more on the specific code release rather than the broader aspects of delivering a software product effectively.",
     "level": "Ignored"
   },
@@ -219,42 +192,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific code release and documentation process without a clear focus on platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:03:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation for a managed service factory, with no clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:03:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release and documentation of a specific code project without addressing the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:03:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation processes without reference to any events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation processes without a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -322,11 +259,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:03:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and internal documentation without a clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the upgraded Service Manager Factory and its features, with no explicit discussion of DevOps principles or practices. While it mentions internal documentation and installation processes, these aspects do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related concepts, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -336,33 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and documentation of a code upgrade without focusing on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:03:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation processes without focusing on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:03:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on code upgrades and documentation processes without discussing discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:03:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code upgrades and internal documentation for a specific software project, lacking a focus on Agile methodologies or literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,22 +298,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:40:40",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content mentions an upgrade and installation process, which relates to system configuration. However, it lacks detailed discussion on best practices, optimisation strategies, or troubleshooting, making it a secondary focus rather than a primary exploration of system configuration.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:53:50",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses code upgrades and internal documentation but lacks a focus on innovation frameworks, metrics, or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -429,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses code upgrades and internal documentation for a managed service factory, which does not relate to portfolio management or alignment with organizational strategy.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scrum principles or practices and is focused on software release rather than product development within a Scrum framework.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -469,10 +373,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:53:50",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on upgrading code and internal documentation processes, with no mention of Agile principles or values.",
     "level": "Ignored"
   },
@@ -505,20 +409,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:53:50",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code updates and documentation processes without any reference to Definition of Done criteria or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade and release of software code with no mention of Agile methodologies, frameworks for scaling Agile, or enterprise-level practices.",
+    "reasoning": "Content primarily discusses code updates and documentation processes without any reference to Definition of Done criteria or Agile methodologies.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +445,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T21:53:50",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on code updates and project documentation, with no clear emphasis on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -584,26 +479,17 @@
     "reasoning": "Content primarily discusses a software upgrade and internal documentation process, with no focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses code upgrade and internal documentation processes without relating to Agile, DevOps, or specific methodologies relevant to software developers.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:40:49",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content mentions upgrading and releasing code, which aligns with software development practices. However, it lacks detailed discussion on methodologies or best practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -632,7 +518,7 @@
     "reasoning": "Content primarily discusses code upgrades and internal documentation, with no mention of estimation techniques or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:53:50",
     "ai_confidence": 0,
@@ -706,11 +592,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an upgrade and release of code related to a managed service factory without clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content briefly mentions an upgrade and release of code, which could imply some aspects of Continuous Delivery, but it lacks explicit discussion of Continuous Delivery principles, practices, or the role of automation. The focus is more on the features and documentation of a specific service rather than on the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -756,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses software upgrades and documentation without reference to hypothesis formulation or experimentation related to product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code updates and documentation for a managed service factory, with no clear focus on AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -877,13 +757,13 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T07:40:40",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions a release of code but lacks a detailed discussion on the principles of frequent releases, continuous delivery, or related strategies. It does not explore the implications of the release on user satisfaction or market responsiveness, which are key aspects of the category.",
     "level": "Ignored"
   },
@@ -943,10 +823,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:53:50",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on code upgrades and documentation processes, with no relation to the Definition of Ready or Agile practices.",
     "level": "Ignored"
   },
@@ -970,13 +850,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:40:40",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions an upgrade and release of code related to a managed service factory, which touches on software development but lacks a detailed discussion on best practices, principles, or methodologies that define technical mastery. The focus is more on the release process rather than on craftsmanship or engineering excellence.",
     "level": "Ignored"
   },
@@ -989,15 +869,6 @@
     "reasoning": "Content does not discuss remote working, Agile practices, or related challenges; it focuses instead on code release and internal documentation.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code updates and documentation processes for a managed service factory, with no mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:53:50",
@@ -1005,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses software upgrades and internal documentation without any focus on customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Agile Project Management principles or methodologies and is primarily focused on code release and documentation processes.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1207,15 +1069,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:40:40",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content mentions an upgrade and release of code, which indicates a focus on working software. However, it lacks detailed discussion on how this software meets user needs or aligns with Agile principles. The mention of internal documentation and installation does not provide enough depth on quality assurance or customer feedback mechanisms.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1255,15 +1117,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-10T15:17:05",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content mentions the term 'release' and discusses upgrading code, which is relevant to release management. However, it lacks a detailed exploration of release strategies, scheduling, or coordination with stakeholders. The focus is more on the act of releasing rather than the comprehensive practices of release management.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -1290,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses code upgrades and internal documentation processes, with no focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a software upgrade and internal documentation process, with no relevant discussion on Scrum or scaling practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1337,22 +1190,16 @@
     "reasoning": "The content primarily discusses code updates and service documentation, with no clear connection to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a code upgrade and internal documentation process without any focus on scaling agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum methodology, roles, or the responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical upgrade of a service manager factory and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is more aligned with software development and project management rather than Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,22 +1222,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code upgrades and documentation without mentioning Test First Development or related testing principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the upgrade of the Service Manager Factory and does not discuss Test First Development principles, success criteria, or any related testing practices. There are no explicit mentions of testing methodologies or the importance of defining success criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:56:32",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of the Service Manager Factory upgrade, including features and documentation, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of social technologies and does not provide any depth in these areas.",
     "level": "Ignored"
   },
@@ -1405,10 +1255,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:49:07",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific code release and internal documentation process, without a clear focus on Internal Developer Platforms or their key components.",
     "level": "Ignored"
   },
@@ -1423,26 +1273,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:41",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or its principles, roles, events, or artifacts. It focuses on a code release and internal documentation, which are not related to Scrum practices or discussions.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:47:15",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses code upgrades and documentation processes related to a managed service factory, with no explicit mention of the Shift-Left Strategy or its principles. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development lifecycle, and does not provide any depth on the topic.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading a service manager and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is more about features and documentation rather than collaborative goals or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the upgrade and features of the Service Manager Factory, with minimal reference to competence or skill development. While there is mention of internal documentation, it does not delve into continuous learning or the importance of competence in Agile or DevOps contexts. The discussion lacks depth and does not align with the core themes of competence, such as professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of an upgraded Service Manager Factory and does not explicitly discuss Continuous Improvement principles. While there is a mention of internal documentation, it lacks depth in exploring how these upgrades contribute to ongoing improvement processes or team effectiveness. The content does not align with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or strategies for integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading a service manager factory and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

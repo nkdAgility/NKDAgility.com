@@ -34,6 +34,7 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
+- Scrum Master
 - Continuous Learning
 - Software Development
 resourceTypes:

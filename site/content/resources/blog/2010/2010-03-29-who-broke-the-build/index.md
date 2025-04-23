@@ -9,7 +9,7 @@ ResourceImportId: 59
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-29
-weight: 440
+weight: 380
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,15 +29,16 @@ aliasesArchive:
 - /resources/blog/who-broke-the-build
 tags:
 - Software Development
-- Windows
 - Continuous Integration
 - Troubleshooting
-- Practical Techniques and Tooling
-- Software Developers
-- Modern Source Control
 - Azure DevOps
+- Windows
 - Engineering Practices
 - Working Software
+- Azure Pipelines
+- Pragmatic Thinking
+- Modern Source Control
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

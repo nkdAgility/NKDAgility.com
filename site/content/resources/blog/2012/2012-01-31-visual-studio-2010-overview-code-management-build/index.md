@@ -9,7 +9,7 @@ ResourceImportId: 4182
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-31
-weight: 675
+weight: 640
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,9 +32,8 @@ aliasesArchive:
 categories: []
 tags:
 - Software Development
-- Practical Techniques and Tooling
-- Modern Source Control
 - Application Lifecycle Management
+- Modern Source Control
 
 ---
 code-management-and-build

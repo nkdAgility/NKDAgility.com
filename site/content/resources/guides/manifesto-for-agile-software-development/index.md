@@ -19,25 +19,29 @@ references:
   url: https://agilemanifesto.org/
 recommendedContent: 
 date: 2024-09-17
-weight: 545
+weight: 505
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
   title: Manifesto for Agile Software Development
-categories: []
+categories:
+- Product Development
 tags:
 - Agile Values and Principles
-- Software Development
 - Agile Philosophy
-- Agile Project Management
 - Agile Transformation
-- Software Developers
+- Software Development
 - Value Delivery
 - Working Software
-- People and Process
 - Agile Frameworks
+- Agile Planning
+- Organisational Agility
+- Product Delivery
+- Team Collaboration
+- Frequent Releases
+- Self Organisation
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

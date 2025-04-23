@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T18:58:49",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a specific TFS Event Handler, with no clear focus on the methodologies, practices, or tools involved in managing the application lifecycle.",
     "level": "Ignored"
   },
@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:58:56",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a TFS Event Handler, with no clear focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,15 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:36:58",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the release of a TFS Event Handler and mentions the need for manual configuration, which aligns with installation and configuration topics. However, it lacks detailed step-by-step instructions or best practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -83,15 +83,6 @@
     "reasoning": "Content primarily discusses the release and features of a TFS Event Handler, which is technical and does not align with Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:59:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:59:04",
@@ -100,18 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software tool and its features, with no reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:37:03",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the release of a TFS Event Handler and mentions some practical aspects of its usage, such as configuration and UI issues. However, it lacks a comprehensive exploration of methodologies or frameworks that enhance Agile and DevOps practices. While it touches on tooling, it does not provide in-depth insights or best practices, which limits its alignment with the category.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -124,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:59:09",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a TFS Event Handler, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -160,43 +139,37 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:59:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software tool and its features, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler) and its features, limitations, and future plans. There are no explicit discussions or mentions of Evidence-Based Management principles, metrics, or data-informed decision-making. The content lacks alignment with the core themes of EBM, such as current value, time to market, or empirical decision-making. Overall, it does not provide any depth in relation to EBM, making it a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:59:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a TFS Event Handler and technical details about its functionality, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:36:56",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the release of a new version of the TFS Event Handler, which aligns with industry updates. However, it lacks a comprehensive review or analysis of the tool's impact on Agile or DevOps practices. The focus is more on the technical aspects and personal experiences rather than broader industry relevance.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the release of a TFS Event Handler and its features, limitations, and future updates. There is no explicit discussion of the Agile Product Operating Model or its principles. The content does not align with the core themes of APOM, such as product management practices or continuous delivery. The depth of discussion is limited to technical details about the event handler, which are unrelated to agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:36:49",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the release of a new version of a TFS Event Handler, mentioning aspects like manual configuration and UI issues. However, it lacks a strong focus on methodologies or practices related to product delivery, such as Agile methodologies, testing, or deployment strategies. While there are mentions of future plans for improvements, the overall discussion is more about the product itself rather than the delivery process.",
     "level": "Ignored"
   },
@@ -216,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a TFS Event Handler and its features, with no clear focus on platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:59:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release of a TFS Event Handler and its features, with no clear focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:59:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software version and its features, with no significant focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:59:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software version and its features, with no mention of events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:59:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software version and its features, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -301,13 +238,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:36:49",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a specific version of a TFS Event Handler, which is related to Team Foundation Server (TFS), a component of Azure DevOps. However, it lacks a comprehensive discussion on Azure DevOps as a whole, focusing instead on a specific tool without delving into broader functionalities, best practices, or methodologies associated with Azure DevOps. The mention of TFS indicates a connection, but the content does not explore Azure DevOps services or practices in depth.",
     "level": "Ignored"
   },
@@ -322,11 +259,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:59:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release and features of a TFS Event Handler, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and its features, limitations, and future updates. While it touches on aspects of development workflows, it does not explicitly discuss DevOps principles such as collaboration, automation, or shared accountability. The mention of a 'development workflow' is too vague to establish a strong connection to the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -336,33 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software version and its features, but does not focus on engineering practices or methodologies that enhance agility within software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and technical details of a software tool, with no significant focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:59:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and technical details of a software tool without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:59:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool (TFS Event Handler) without focusing on reviews, analyses, or discussions related to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,22 +298,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:36:49",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the release of a TFS Event Handler and mentions manual configuration requirements, which aligns with system configuration. However, the focus is more on the release and user experience rather than detailed configuration practices or methodologies. The discussion lacks depth in exploring best practices or troubleshooting common configuration issues, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release of a software version and its features, not on innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -429,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses an event handler release for TFS with no relation to portfolio management, strategy alignment, or project prioritization.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the release of a software tool unrelated to Scrum principles, practices, or product development methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -469,10 +373,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software product and its technical features, without any clear relation to Agile values and principles.",
     "level": "Ignored"
   },
@@ -505,20 +409,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about the release of a TFS Event Handler, focusing on its features, issues, and future plans, with no mention of the Definition of Done or related criteria.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a tool related to Team Foundation Server and event handling, with no reference to Agile practices or scaling methodologies.",
+    "reasoning": "Content is primarily about the release of a TFS Event Handler, focusing on its features, issues, and future plans, with no mention of the Definition of Done or related criteria.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -584,24 +479,15 @@
     "reasoning": "Content primarily discusses the release and functionality of TFS Event Handler without focusing on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a new version of a specific software event handler for TFS, with no mention of Agile practices, DevOps principles, or the role of software developers in those contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T15:13:41",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the release of a TFS Event Handler, which is relevant to software development, particularly in the context of version control and integration with Team Foundation Server. However, while it mentions the software and its functionalities, it lacks a detailed exploration of methodologies or best practices in software development. The focus is more on the specific tool and its features rather than broader software engineering principles.",
     "level": "Secondary"
   },
@@ -632,7 +518,7 @@
     "reasoning": "Content focuses on the release of a software tool and user interface issues, with no discussion on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:42:24",
     "ai_confidence": 0,
@@ -688,37 +574,40 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the release of a software tool (TFS Event Handler) and does not focus on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the release and features of a software event handler, lacking discussions on long-term objectives or business agility.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a TFS Event Handler, focusing on its current state, versioning, and user interface issues, rather than Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the release of a specific tool (TFS Event Handler) and its features, limitations, and future updates. While it touches on aspects of development workflows, it does not explicitly mention Continuous Delivery principles, practices, or the importance of automation, rapid feedback, or cultural aspects related to Continuous Delivery. The focus is more on the tool itself rather than on the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a TFS Event Handler and associated issues, with no focus on Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -756,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the release and features of a TFS Event Handler, with no focus on hypothesis formulation, experimentation, or validated learning relevant to product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses TFS Event Handler release and related configurations, without any focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -850,10 +730,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a TFS Event Handler application and does not focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -877,22 +757,22 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-10T13:17:08",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the release of a new version of the TFS Event Handler and mentions plans for frequent updates. However, it lacks detailed discussion on the principles of frequent releases, such as continuous delivery or deployment practices. The focus is more on the specific release and its issues rather than broader strategies or metrics related to frequent releases.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the technical release of a software tool (TFS Event Handler) and its functionalities, with no clear discussion of team performance, dynamics, or Agile principles.",
     "level": "Ignored"
   },
@@ -934,19 +814,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and functionality of a specific TFS Event Handler tool, with no focus on team dynamics, collaboration, or Agile practices.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the release of a software version and technical issues, with no discussion on Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -970,13 +850,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:36:49",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the release of a TFS Event Handler and mentions some technical aspects, such as configuration and UI issues. However, it lacks a focus on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The discussion is primarily about the release and functionality of the tool rather than a deep exploration of technical mastery principles.",
     "level": "Ignored"
   },
@@ -989,15 +869,6 @@
     "reasoning": "Content primarily discusses a software release related to TFS Event Handling without any reference to remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the release and functionality of a TFS Event Handler and is unrelated to Kanban principles or scaling Kanban methodologies.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:42:24",
@@ -1005,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a software version, with no clear focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a new release of a TFS Event Handler and its functionalities without any reference to Agile methodologies, principles, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1036,10 +898,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the release of a software tool, focusing on its features and issues without mentioning Cycle Time or its implications at all.",
     "level": "Ignored"
   },
@@ -1129,15 +991,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:36:54",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions a bug related to the TFS Event Handler and provides a workaround for it, which aligns with troubleshooting. However, the primary focus is on the release of a new version and future plans rather than a detailed exploration of troubleshooting techniques or methodologies. The discussion lacks depth and does not cover broader troubleshooting strategies or tools, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1213,13 +1075,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:37:01",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the release of a new version of a TFS Event Handler, mentioning its operational status and some issues with the user interface. However, it primarily focuses on the rough state of the software and the need for manual configuration, which detracts from the emphasis on delivering high-quality, functional software. While there are mentions of future improvements and goals, the overall discussion lacks depth in terms of best practices, customer feedback, or iterative development, which are key aspects of the 'Working Software' category.",
     "level": "Ignored"
   },
@@ -1234,19 +1096,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical release related to TFS Event Handler and does not focus on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T19:42:24",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details of a software release and user interface issues, with no reference to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1261,15 +1123,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:36:49",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the release of a new version of the TFS Event Handler, which aligns with the concept of release management. However, it lacks detailed discussion on planning, scheduling, or controlling the release process. The focus is more on the features and issues of the software rather than the strategies or practices of release management, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -1296,15 +1158,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on releasing a new version of a TFS Event Handler and does not discuss asynchronous development principles, practices, or collaboration strategies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of a software tool related to TFS Event Handlers and does not mention or focus on Scaling Scrum practices or principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1343,22 +1196,16 @@
     "reasoning": "Content discusses an application related to Team Foundation Server and its event handling, which is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a TFS Event Handler and technical details associated with it, lacking any focus on scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical release related to TFS Event Handler, with no reference to Scrum Master responsibilities or Scrum practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the release of a TFS Event Handler and its features, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as facilitating team effectiveness or promoting agile principles. The depth of discussion is focused on technical aspects rather than any responsibilities or skills related to a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1381,22 +1228,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:42:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release and features of a software tool (TFS Event Handler) without any mention or focus on Test First Development principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the release of a TFS Event Handler and its features, limitations, and future plans. There is no mention of Test First Development principles, success criteria, or testing practices. The focus is on the event handler's functionality rather than any testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:53:06",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a technical tool (TFS Event Handler) and its features, limitations, and future updates. There are no explicit discussions on collaboration, decision-making, or value delivery, which are core themes of Social Technologies. The content lacks depth in addressing social frameworks or methodologies that promote teamwork or organisational culture, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1429,26 +1279,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:01:14",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the release of a TFS Event Handler and does not mention Scrum principles, roles, events, or artifacts. There is no alignment with Scrum concepts, and the depth of discussion is minimal, focusing instead on technical details of a software release.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:43:31",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the release of a TFS Event Handler and its features, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on aspects of software development, such as UI issues and configuration, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:08:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler) and its features, limitations, and future plans. There are no explicit discussions on Common Goals, Agile, or DevOps principles. While there is a mention of goals related to the development of the tool, it lacks depth and connection to the broader themes of alignment and shared objectives within teams. Overall, the content does not align with the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a software tool and its features, limitations, and future plans. While there are mentions of development and updates, there is no explicit discussion on competence, continuous learning, or skill development. The content lacks depth in exploring how competence relates to the development process or team dynamics, which are central to the category. Therefore, it aligns minimally with the principles of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the release of a new version of the TFS Event Handler, discussing its features and limitations. While there are hints of future updates and improvements, the discussion lacks a structured approach to Continuous Improvement principles. It does not explicitly mention key topics such as empirical evidence, data-driven decision-making, or strategies for integrating Continuous Improvement into processes. The content is more about a product release than a commitment to ongoing enhancement or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the release of a software tool (TFS Event Handler) and its features, limitations, and future updates. There are no explicit discussions on Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content lacks depth in addressing the principles or mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -28,10 +28,9 @@ aliasesArchive:
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
 tags:
-- Practical Techniques and Tooling
-- Install and Configuration
 - Software Development
 - Troubleshooting
+- Install and Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

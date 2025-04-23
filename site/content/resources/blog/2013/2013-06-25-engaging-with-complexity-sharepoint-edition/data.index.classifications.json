@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:29:16",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of SharePoint migration and server setup, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:00:17",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed walkthrough of the practical steps involved in consolidating and upgrading SharePoint, including specific tools and commands (e.g., PowerShell scripts) that are essential for the process. It discusses methodologies for setting up environments and addresses potential issues, aligning well with the core themes of practical techniques and tooling in Agile and DevOps. The depth of discussion is significant, with clear instructions and examples, making it a strong fit for the category.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -41,62 +29,26 @@
     "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and consolidation, with no explicit discussion of Evidence-Based Management principles or metrics. While it may touch on aspects of project management, it lacks a clear connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:29:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical steps involved in migrating and consolidating SharePoint environments, without a clear focus on the principles of code quality or the complexities of software development processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:29:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to SharePoint migration and does not discuss processes or methodologies that foster innovation or learning.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:29:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses SharePoint migration and server setup, with no clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T18:29:26",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of SharePoint migration and consolidation, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:47:33",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed step-by-step guide on installing and configuring SharePoint and related components, which aligns closely with the category's focus on installation and configuration processes. It explicitly mentions installation procedures, configuration steps, and troubleshooting tips, demonstrating a strong alignment with the key topics outlined in the category. The depth of discussion is significant, as it includes specific commands and considerations for successful implementation, thus justifying a high confidence score.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for SharePoint migration and consolidation, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on technical procedures for SharePoint migration and installation, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:29:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementations related to SharePoint migration and consolidation, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:47:06",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on SharePoint migrations and specific technical steps involved in the process, with no explicit discussion of DevOps principles or practices. While there are elements of collaboration and automation in the context of SharePoint, they are not framed within the broader DevOps philosophy. The content lacks depth in discussing key DevOps topics such as shared accountability, feedback loops, or continuous improvement.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations and processes related to SharePoint and Team Foundation Server migrations, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps and processes related to SharePoint migration, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:29:41",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical steps involved in migrating and consolidating SharePoint environments, without a focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:29:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical steps and procedures for SharePoint migration and does not discuss team dynamics, collaboration, or human factors in the process.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:29:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of SharePoint migration and server setup, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -220,22 +145,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:08:36",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the technical steps involved in migrating and consolidating SharePoint environments, which aligns with technical practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility and quality in software development. While it provides detailed instructions and technical insights, it does not explicitly address concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T18:29:50",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical steps for migrating and consolidating SharePoint environments, lacking a central discussion on complexity science or its principles.",
     "level": "Ignored"
   },
@@ -250,13 +175,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:08:30",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, which is more aligned with implementation details rather than the broader methodologies and practices of product delivery. While it does touch on aspects of deployment and environment setup, it lacks a comprehensive discussion on planning, iterative development, or cross-functional team collaboration, which are key themes in product delivery. The depth of technical detail is significant, but it does not contribute to a holistic understanding of delivering software products effectively.",
     "level": "Ignored"
   },
@@ -276,15 +201,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of SharePoint migration and consolidation, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:29:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical procedures and challenges related to SharePoint and Team Foundation Server migrations, without focusing on specific products or literature relevant to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -325,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:30:04",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint migration and consolidation processes, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:47:15",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and consolidation, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks alignment with the core themes of APOM, such as continuous delivery, product-oriented mindset, or Evidence-Based Management. The depth of discussion is also minimal regarding any relevant agile practices, making it unsuitable for the category.",
     "level": "Ignored"
   },
@@ -353,21 +269,12 @@
     "reasoning": "Content primarily focuses on technical steps for migrating and consolidating SharePoint environments, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:30:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical procedures and installations related to SharePoint and Team Foundation Server, lacking discussions on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:30:09",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, rather than discussing the methodologies, practices, or tools involved in managing the entire lifecycle of software applications.",
     "level": "Ignored"
   },
@@ -382,43 +289,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical steps for migrating and consolidating SharePoint environments without mentioning the Definition of Done or related criteria.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:38:42",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, detailing specific steps and commands. While it does touch on best practices and technical procedures, it lacks a broader discussion on software craftsmanship principles or methodologies that would elevate it to a higher level of technical mastery. The depth of discussion is practical but does not delve into the underlying principles of software engineering excellence.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation details and migration procedures for SharePoint, with no discussion on understanding customer needs or product feature definition.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:47:21",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on SharePoint migrations and technical steps for upgrading systems, with no explicit discussion of Continuous Delivery principles, practices, or benefits. While it touches on aspects of software deployment, it lacks a clear connection to the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The depth of discussion is limited to technical procedures without addressing the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -433,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the steps and processes involved in SharePoint migration and consolidation, without a focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -451,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on SharePoint migration and related technical steps, without addressing the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -469,10 +376,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a SharePoint migration and related server installation steps, which are not relevant to Product Backlog discussions.",
     "level": "Ignored"
   },
@@ -487,10 +394,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the complexities of SharePoint and Team Foundation Server migrations, with no clear focus on Value Stream Mapping principles or techniques.",
     "level": "Ignored"
   },
@@ -505,22 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:08:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical steps involved in migrating and consolidating SharePoint environments, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While there are mentions of processes and steps that could relate to operational efficiency, the discussion lacks a clear focus on methodologies or strategies that streamline operations or improve performance in an organisational context.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of SharePoint migration and server setup, with no clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -544,10 +451,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical aspects of migrating and consolidating SharePoint data, with no discussion on validating product ideas or engaging with users for feedback.",
     "level": "Ignored"
   },
@@ -580,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on technical aspects of SharePoint and Team Foundation Server migrations, lacking discussions on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -607,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:59:15",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating and consolidating SharePoint environments, which is a specific software development task. It includes detailed steps for installation, configuration, and troubleshooting, aligning well with software development practices. However, while it touches on relevant topics like server setup and PowerShell scripting, it lacks broader discussions on methodologies or frameworks that guide the software development lifecycle, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on SharePoint consolidation and migration processes rather than Agile Project Management principles or frameworks.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical aspects of SharePoint migration and server configuration without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -655,10 +553,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical processes and installations related to SharePoint migrations, with no clear discussion on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -725,21 +623,12 @@
     "reasoning": "Content primarily discusses technical details related to the migration and upgrading of SharePoint and Team Foundation Server, with no clear focus on customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on SharePoint and Team Foundation Server migration processes, with no relevant discussions about Scrum, its scaling frameworks, or related practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical details and procedures for SharePoint migration, with no discussion of evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -750,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical processes and steps related to SharePoint and Team Foundation Server migration, without any reference to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a technical migration process of SharePoint, with no discussions on scaling agile practices or frameworks. The topic does not align with the central themes of scaling agility, leadership in fostering an agile culture, or cross-functional collaboration.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -808,13 +688,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:49:22",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical steps and strategies for managing a complex SharePoint migration, which aligns with pragmatic thinking. It provides specific instructions and highlights real-world challenges faced during the process, demonstrating adaptability and problem-solving in a complex environment. However, while it touches on relevant themes, the primary focus is more on technical execution rather than a broader discussion of pragmatic thinking principles.",
     "level": "Secondary"
   },
@@ -829,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on technical procedures and steps for migrating and upgrading SharePoint rather than on innovation practices or empirical data related to organizational capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of SharePoint and Team Foundation Server migrations, with no mention of Scrum principles, practices, or product development processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for migrating and consolidating SharePoint and Team Foundation Server environments, with no reference to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content focuses on technical procedures and steps for migrating and upgrading SharePoint rather than on innovation practices or empirical data related to organizational capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -892,13 +754,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T18:01:00",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, which is a specific software task. However, it lacks a direct discussion on the broader implications of working software, such as user requirements or iterative development. While it does touch on ensuring functionality through trials and post-migration steps, it does not delve deeply into best practices or customer feedback mechanisms, which are crucial for the 'Working Software' category.",
     "level": "Tertiary"
   },
@@ -949,10 +811,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the migration and consolidation of SharePoint and TFS, with no discussions related to reliability engineering principles, practices, or SRE topics.",
     "level": "Ignored"
   },
@@ -994,19 +856,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to SharePoint and Team Foundation Server but does not address the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and processes involved in migrating and upgrading SharePoint, with no clear focus on Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -1039,10 +901,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of migrating and consolidating SharePoint, rather than discussing team dynamics or collaboration strategies within Agile or DevOps contexts.",
     "level": "Ignored"
   },
@@ -1057,17 +919,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T05:08:41",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint and Team Foundation Server, which are specific tasks rather than a broader discussion on digital transformation strategies or their impact on business agility and innovation. While it does touch on the use of digital tools (SharePoint and TFS), it lacks a strategic perspective on how these technologies enhance business processes or culture, which is essential for a higher confidence score in the Digital Transformation category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:17:47",
     "ai_confidence": 0,
@@ -1076,33 +938,24 @@
     "reasoning": "Content primarily discusses SharePoint migration and server installation processes without focusing on MVP concepts or product validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses SharePoint migration and consolidation processes, with no mention of AI or its integration into Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:28:58",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the technical aspects of configuring SharePoint and related systems, detailing installation steps, database upgrades, and post-consolidation activities. It explicitly discusses best practices for software installation and configuration, as well as troubleshooting common issues, which aligns well with the core themes of system configuration. The depth of discussion is substantial, providing specific commands and procedures, thus justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details and processes related to SharePoint migration, which deviates from the core principles of product strategy.",
     "level": "Ignored"
   },
@@ -1135,22 +988,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the complexities and steps involved in migrating and upgrading SharePoint and Team Foundation Server without any mention of Test First Development or TDD principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on SharePoint migrations and technical steps involved in the process, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While there is a mention of ensuring processes work, it does not align with the core themes of Test First Development, which emphasises defining success criteria before implementation and the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T05:08:34",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 41.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the installation and configuration of SharePoint Server 2013 on Windows Server 2012, which aligns with the Windows category. However, the primary focus is on SharePoint and Team Foundation Server migrations rather than Windows itself. While there are mentions of Windows Server and some related PowerShell commands, the overall discussion is more centred on SharePoint processes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
@@ -1174,19 +1030,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details regarding a SharePoint migration project, with no clear focus on team dynamics, motivation, or agile principles.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating and consolidating SharePoint and Team Foundation Server, without any mention of remote working practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1201,13 +1057,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T11:54:14",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the complexities and potential issues encountered during a SharePoint migration and consolidation process, which aligns with troubleshooting themes. It provides specific steps and commands to address problems, such as firewall rules and user mapping, indicating a focus on resolving technical issues. However, while troubleshooting is a significant aspect, the content also includes broader project details and setup instructions, which detracts from its primary focus on troubleshooting.",
     "level": "Secondary"
   },
@@ -1222,11 +1078,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on SharePoint migration and technical setup, with no relevant discussion on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint migrations and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the influence of a Scrum Master on organisational change, which are key topics in the category. The content lacks depth in relation to Scrum Master discussions, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1240,20 +1099,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on technical details related to SharePoint and Team Foundation Server migrations, not on teamwork or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for SharePoint migration and consolidation, which is not directly related to software development methodologies like Agile or DevOps.",
+    "reasoning": "Content focuses primarily on technical details related to SharePoint and Team Foundation Server migrations, not on teamwork or collaboration principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1294,19 +1144,19 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical steps for migrating and consolidating SharePoint data and lacks strategic discussions related to product management.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical details and procedures for SharePoint migration and does not discuss self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1348,10 +1198,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T19:17:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating and consolidating SharePoint environments without reference to Lean Product Development principles, waste reduction, or value delivery.",
     "level": "Ignored"
   },
@@ -1371,15 +1221,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps and processes related to SharePoint upgrades, without a focus on accountability or team dynamics in an Agile context.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of SharePoint and Team Foundation Server consolidation and migration, without any mention of Kanban principles or scaling methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1411,13 +1252,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:31:25",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and consolidation, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on the complexity of the migration process, it lacks any exploration of self-organisation, collective intelligence, or value delivery principles that are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1441,62 +1282,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:40:24",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and does not mention Scrum principles, roles, events, or any related topics. While it discusses project management in a broad sense, it lacks any direct references to Scrum or its framework, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:22:21",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on some operational steps, it does not align with the core themes of the Shift-Left Strategy, which emphasises proactive measures in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:47:08",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of SharePoint migration and consolidation, with no explicit discussion of Continuous Improvement principles. While there are elements of process enhancement through the migration steps, the content lacks a clear commitment to ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. It does not address the culture of experimentation or learning, nor does it provide strategies for integrating Continuous Improvement into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:47:10",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical aspects of SharePoint migrations and consolidations, lacking any explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on project execution, it does not address shared objectives or strategic alignment, which are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:47:12",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical aspects of SharePoint migration and consolidation, with minimal direct discussion of competence or continuous skill development. While it touches on the need for expertise in handling complex migrations, it lacks a thorough exploration of competence as a foundational principle in Agile or DevOps methodologies. The depth of discussion is limited to procedural steps rather than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint migration and consolidation, lacking any explicit discussion on Agentic Agility. While it touches on complex processes, it does not address intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

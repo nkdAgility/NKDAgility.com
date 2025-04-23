@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and related tools, with no focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:33:01",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which provides practical guidance and checklists for developers and architects. It explicitly mentions the integration of this guidance into Visual Studio, highlighting its practical application in real-world scenarios. The content aligns well with the category by focusing on tooling and methodologies that enhance development practices. However, while it provides useful insights, it lacks a deeper exploration of broader Agile and DevOps practices, which slightly lowers the depth score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T00:01:49",
@@ -31,47 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:47:11",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses Visual Studio 2010 Architecture Guidance, focusing on practical tips and tools for developers. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to management decisions.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:43:38",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 20,
-    "ai_depth": 15,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the Visual Studio 2010 Architectural Guidance, focusing on practical tools and resources for developers and architects. While it touches on aspects of software architecture, it lacks a deep exploration of the interplay between code quality and complexity, which is central to the category. The discussion is more about tooling and guidance rather than the principles of code quality or complexity theory. Therefore, it receives a low confidence score due to limited alignment and depth in relation to the specified category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T06:43:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 5,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which provides practical guidance and checklists for developers and architects. While it mentions useful resources and hands-on labs, the primary focus is on the tools and their functionalities rather than on the processes of discovery and learning. The content lacks a deeper exploration of methodologies that foster innovation or continuous learning, which diminishes its alignment with the category.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:01:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and its tools, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,23 +40,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T06:43:31",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which includes practical guidance and checklists for developers and architects. However, it primarily focuses on the architectural tools and their usage rather than providing explicit installation or configuration instructions. While there are mentions of accessing the guidance within Visual Studio, the overall emphasis is on the tools and scenarios rather than the installation and configuration processes themselves.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:02:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and its practical applications, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -122,24 +68,15 @@
     "reasoning": "Content heavily discusses Visual Studio 2010 Architectural Guidance and practical tools without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:02:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Visual Studio 2010 Architectural Guidance and practical tools, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:47:00",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Visual Studio 2010 Architecture Guidance, which is centred around development tools and practices rather than the core principles of DevOps. While there are mentions of practical guidance and tools, there is no explicit discussion of DevOps philosophy, collaboration, automation, or shared accountability. The content lacks depth in relation to DevOps concepts, making it only tangentially related.",
     "level": "Ignored"
   },
@@ -161,15 +98,6 @@
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and practical tools for developers, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:02:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and practical tools, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:02:21",
@@ -177,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and its tools, with no focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:02:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and its tools, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -208,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:02:26",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and practical tools, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -226,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T12:04:19",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which provides practical guidance and checklists for developers and architects. While it touches on aspects of technical excellence, such as architectural tools and practical guidance, it lacks a deep exploration of methodologies like TDD or CI/CD. The focus is more on the tools rather than the engineering practices that enhance agility and quality in software development.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -281,30 +200,6 @@
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and related tools, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T13:02:35",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the Visual Studio 2010 Architectural Guidance, which is a software product relevant to Agile methodologies and DevOps practices. It provides practical guidance and checklists for developers and architects, aligning with the core themes of the category. The depth of discussion includes specific features and benefits of the guidance, but it lacks a comprehensive review or analysis typical of book discussions. Overall, while the focus is on a product, it does not delve deeply into Agile or DevOps principles, hence the high but not perfect confidence score.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T06:43:36",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, providing practical insights and a review-like evaluation of its features and usability. However, while it mentions the tool and its integration into Visual Studio, it lacks broader industry news context or updates on Agile and DevOps practices. The focus is more on a specific tool rather than a comprehensive review or news piece that aligns with the category's core themes.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
     "calculated_at": "2025-02-16T00:03:57",
@@ -334,13 +229,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:47:09",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on Visual Studio 2010 Architecture Guidance, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The discussion is centred around architectural tools and practical guidance for developers, lacking any connection to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -364,22 +259,22 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:43:33",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which is related to application architecture and tools that can assist in the application lifecycle. However, it primarily focuses on specific tools and practical guidance rather than the broader methodologies and practices of Application Lifecycle Management. While it mentions aspects of guidance and support for developers, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or integration of Agile and DevOps principles, which are key themes in ALM.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:04:09",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and its tools, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -394,22 +289,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Visual Studio 2010 architectural guidance, without reference to Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:01:21",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which provides practical guidance and checklists for developers and architects. While it touches on software architecture and tools, the discussion lacks depth in exploring best practices or principles of software craftsmanship. The focus is more on the tool itself rather than the methodologies or principles that contribute to high-quality software development.",
     "level": "Secondary"
   },
@@ -424,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:47:13",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses Visual Studio 2010 Architecture Guidance, focusing on practical tips and tools for developers. It does not address Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
@@ -445,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and does not focus on Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -463,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Visual Studio 2010 Architectural Guidance and practical tools, with no relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -526,10 +421,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on Visual Studio 2010 Architectural Guidance and does not discuss Scrum Teams or related concepts.",
     "level": "Ignored"
   },
@@ -553,10 +448,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and is focused on tools for developers rather than product validation methodologies.",
     "level": "Ignored"
   },
@@ -589,10 +484,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Visual Studio 2010 Architectural Guidance and tooling, without direct relevance to team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
@@ -616,31 +511,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:49:21",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which is relevant to software development practices, particularly in the context of architectural tools and guidance for developers. It mentions practical guidance and checklists, which align with best practices in software design. However, the discussion lacks depth in terms of methodologies or frameworks, focusing more on the tools rather than the processes of software development.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Visual Studio 2010 architecture guidance, without relevant discussions on agile methodologies or project management.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Visual Studio 2010 Architecture Guidance and practical tools rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -691,10 +577,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and related tooling, which does not focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -734,15 +620,6 @@
     "reasoning": "Content discusses Visual Studio 2010 Architectural Guidance, focusing on tools and practical guidance for developers, without any central themes related to customer satisfaction.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Visual Studio 2010 Architectural Guidance and does not discuss Scrum principles, practices, or scaling Scrum in any way.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:18:50",
@@ -761,26 +638,17 @@
     "reasoning": "Content heavily discusses Visual Studio 2010 architectural guidance and practical tools, which is not related to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Visual Studio 2010 architectural guidance and does not address scaling agility or relevant agile frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:43:31",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which provides practical guidance and checklists for developers and architects. While it touches on aspects of software craftsmanship and tooling, it lacks a direct focus on broader engineering excellence principles such as coding standards, CI/CD practices, or technical debt management. The discussion is more about specific tools rather than a comprehensive exploration of engineering excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -820,15 +688,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T18:09:57",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical guidance and real-world scenarios related to Visual Studio 2010 Architectural Guidance, which aligns with pragmatic thinking in terms of applying experience-based problem-solving techniques. It provides specific examples of hands-on labs and practical tools that aid developers and architects, demonstrating a focus on real-world application. However, it lacks a direct connection to Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -841,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on practical guidance for using Visual Studio 2010's architectural tools and does not relate to measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Visual Studio 2010 architectural guidance, not on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Visual Studio 2010 Architectural Guidance without reference to scaling Agile practices or methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -913,19 +763,19 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Visual Studio 2010 architectural guidance and modeling tools, not Agile planning tools.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Visual Studio 2010 Architectural Guidance without focusing on Continuous Integration principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -1012,10 +862,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Visual Studio 2010 Architectural Guidance and its integration for developers, without discussing Cycle Time or related topics.",
     "level": "Ignored"
   },
@@ -1048,10 +898,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Visual Studio 2010 Architectural Guidance and tooling, with no discussions relevant to team collaboration.",
     "level": "Ignored"
   },
@@ -1073,7 +923,7 @@
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and tools, without a direct focus on digital transformation strategies or the integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:18:50",
     "ai_confidence": 0,
@@ -1082,21 +932,12 @@
     "reasoning": "Content focuses on Visual Studio 2010 Architectural Guidance and tools rather than the development or validation of a Minimum Viable Product.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architecture Guidance and tooling, without focus on AI, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses architectural guidance and tools in Visual Studio, rather than system configuration processes and methodologies.",
     "level": "Ignored"
   },
@@ -1138,19 +979,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and tools, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 Architecture Guidance, focusing on practical tips and tools for developers. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The discussion lacks any alignment with the core themes of Test First Development, and the depth of discussion is minimal, as it does not delve into any relevant testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architecture Guidance and tools, which are related to software development rather than directly addressing the Windows operating system itself.",
     "level": "Ignored"
   },
@@ -1174,10 +1018,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:18:50",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Visual Studio 2010 architectural tools and guidance, without any focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1219,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio 2010 Architecture Guidance and does not relate to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on Visual Studio 2010 Architecture Guidance and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1244,18 +1091,6 @@
     "reasoning": "Content focuses on Visual Studio 2010 Architecture Guidance and practical tools rather than working agreements or team collaboration norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:43:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the Visual Studio 2010 Architectural Guidance, which is a tool for developers. However, it lacks a direct focus on Agile or DevOps methodologies, and while it mentions practical guidance for developers, it does not delve into best practices or collaborative frameworks that are central to the Software Developers category. The discussion is more about tooling than the role of developers within Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T00:18:50",
@@ -1267,13 +1102,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:43:40",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the Visual Studio 2010 Architectural Guidance, which provides practical guidance and checklists for developers and architects. While it touches on aspects of software architecture and tools that can aid in engineering practices, it does not explicitly address core Agile principles such as clean code, TDD, or CI/CD. The focus is more on tooling and guidance rather than the fundamental methodologies of Agile development, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1376,15 +1211,6 @@
     "reasoning": "Content is primarily focused on the Visual Studio 2010 Architectural Guidance and does not discuss accountability or team dynamics in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Visual Studio 2010 Architectural Guidance and does not discuss Kanban principles or scaling Kanban at all.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:18:50",
@@ -1405,13 +1231,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:41:11",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Visual Studio 2010 Architecture Guidance, which is centred around technical tools and practical guidance for developers. It does not discuss collaboration, decision-making, or value delivery in the context of social technologies. While there are mentions of guidance and practical tips, these do not align with the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
@@ -1444,37 +1270,37 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:49:24",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses Visual Studio 2010 Architectural Guidance and does not mention Scrum or its principles, roles, events, or artifacts. There is no alignment with Scrum concepts, and the depth of discussion is focused on software architecture rather than project management frameworks.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:31:43",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the Visual Studio 2010 Architectural Guidance and its practical applications, without any explicit mention of the Shift-Left Strategy. While it touches on guidance for developers and architects, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The focus is more on tooling and architectural guidance rather than proactive quality measures.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:47:02",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Visual Studio 2010 Architecture Guidance, providing practical tips and tools for developers. While it mentions guidance and practical advice, it does not explicitly discuss Continuous Improvement principles or strategies. The alignment with the core themes of Continuous Improvement is minimal, and the depth of discussion is superficial, lacking any substantial exploration of Continuous Improvement concepts.",
     "level": "Ignored"
   },
@@ -1492,14 +1318,26 @@
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:47:06",
+    "calculated_at": "2025-04-10T15:55:53",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions enhancing development skills and provides practical guidance, which aligns with the concept of competence. However, it lacks a deep discussion on continuous learning or the broader implications of competence in Agile or DevOps contexts. The focus is primarily on specific tools and guidance rather than on the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 Architecture Guidance, providing practical tips and tools for developers. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of guidance and practical tips is too general and does not align with the specific themes of intentionality and agency in shaping outcomes.",
     "level": "Ignored"
   }
 }

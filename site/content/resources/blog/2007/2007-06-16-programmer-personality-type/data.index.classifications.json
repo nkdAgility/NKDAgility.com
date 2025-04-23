@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:58:26",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on programmer personality types and does not discuss installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T12:17:08",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 62.0,
     "ai_mentions": 5,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a programmer personality type, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on teamwork and coding practices, it lacks a clear connection to established frameworks or actionable insights related to Agile principles. The discussion is more anecdotal and personal, fitting the Miscellaneous category, but it does provide some depth in describing the personality traits of a programmer.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:58:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no clear reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:58:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses programmer personality types and personal coding preferences, with no focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:58:34",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses programmer personality types and individual work styles, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -139,13 +121,13 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-15T07:46:06",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on teamwork and the importance of group dynamics in programming, which aligns with organisational psychology. However, it lacks a comprehensive discussion of psychological principles, theories, or strategies related to motivation, engagement, or leadership. The focus is primarily on individual personality traits rather than organisational behaviour, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -160,29 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:58:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on programmer personality types and traits, with no direct mention or discussion of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery, and lacks any depth in relation to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:58:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no clear relation to Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:58:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personality type related to programming rather than industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on programmer personality types and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related themes. The content is primarily about individual traits and team dynamics in programming, which does not align with the core principles of APOM.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -210,42 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on programmer personality types and does not discuss platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:58:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses programmer personality types and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:58:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses programmer personality types and personal coding preferences, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:58:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on personal programming personality types and does not discuss any events, presentations, or related topics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:58:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +259,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:59:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no clear relation to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on identifying programmer personality types and does not discuss any DevOps principles, practices, or cultural shifts. While it mentions teamwork, it does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion lacks depth and relevance to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,36 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses programmer personality types and personal coding preferences, with no clear focus on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-11T10:52:12",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the personality type of a programmer, highlighting aspects of teamwork and collaboration, which aligns with the category. However, it lacks a structured discussion on methodologies or processes, limiting its depth and overall alignment with the core themes of 'People and Process'. The mention of teamwork is significant but not the primary focus, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:59:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual traits rather than focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:59:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses programmer personality types and personal coding preferences, with no focus on products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -391,10 +307,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:43",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on programmer personality traits and does not discuss innovation capabilities or relevant frameworks for measuring or improving innovation.",
     "level": "Ignored"
   },
@@ -423,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses programmer personality types and individual coding styles, with no relation to portfolio management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and preferences, with no connection to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -463,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:43",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on personality traits of a programmer rather than discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -499,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:43",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses programmer personality types and their approaches to coding, which is unrelated to the Definition of Done in Agile and Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses programmer personality types and individual attributes rather than scaling Agile practices or coordinating teams.",
+    "reasoning": "Content discusses programmer personality types and their approaches to coding, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -578,15 +476,6 @@
     "reasoning": "Content discusses programmer personality types and teamwork but does not focus on collaboration tools or their usage in Agile environments.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personality types of programmers without discussing Agile, DevOps, or modern engineering practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-17T08:18:43",
@@ -623,7 +512,7 @@
     "reasoning": "Content focuses on programmer personality traits and lacks discussion on estimation techniques or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:43",
     "ai_confidence": 0,
@@ -697,19 +586,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on programmer personality types and personal traits, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on programmer personality types and traits, which is unrelated to Continuous Delivery principles, practices, or discussions. There are no direct mentions of Continuous Delivery, and the themes discussed do not align with the core topics of the category.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:18:43",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses programmer personality types and does not relate to Lead Time metrics or their importance.",
     "level": "Ignored"
   },
@@ -747,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on programmer personality traits and does not discuss hypothesis formulation, experimentation, or data-driven decision-making relevant to product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on programmer personality types and does not discuss AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -877,15 +760,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T19:04:50",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions working best in a team, which aligns with the category's focus on team dynamics. However, the primary focus is on individual personality traits and coding preferences rather than strategies or methodologies for enhancing team performance. The discussion lacks depth and does not explore key topics such as collaboration techniques, metrics, or Agile practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -925,22 +808,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T15:19:34",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 65.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses the importance of teamwork and how a cohesive group of programmers can achieve better outcomes than individuals working alone. This aligns with the core themes of team collaboration, particularly in the context of Agile methodologies. However, the focus is primarily on individual personality traits rather than specific techniques or strategies for enhancing team dynamics, which limits the depth of discussion. Overall, while it touches on relevant aspects of team collaboration, it does not delve deeply into the category's key topics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:44",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses programmer personality types and does not address the Definition of Ready or any related Agile principles.",
     "level": "Ignored"
   },
@@ -980,15 +863,6 @@
     "reasoning": "Content primarily discusses personality traits of programmers without addressing any aspects of remote working or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a personality type and individual programming style, which does not relate to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:18:44",
@@ -996,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses programmer personality traits and preferences, with no relevant discussion on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual traits rather than agile project management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1027,10 +892,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:18:44",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses programmer personality types and attributes, with no mention of Cycle Time or its relevance to workflow efficiency.",
     "level": "Ignored"
   },
@@ -1225,15 +1090,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-15T07:46:06",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions working best in a team, which aligns with the category of Team Motivation. However, the primary focus is on individual personality traits and coding preferences rather than strategies for enhancing team engagement or dynamics. The discussion lacks depth and does not explore key topics such as trust, empowerment, or leadership styles, which are essential for a higher confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -1280,15 +1145,6 @@
     "reasoning": "Content discusses programmer personality types without any reference to asynchronous development principles, practices, or collaboration.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality traits and preferences, with no relevant connection to scaling Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:18:44",
@@ -1325,22 +1181,16 @@
     "reasoning": "Content centers on programmer personality types and preferences, lacking any discussions on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses programmer personality types and individual coding preferences, which are not related to scaling agility or organizational agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on programmer personality types rather than Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on programmer personality types and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics in a Scrum context, or the impact of a Scrum Master on organisational change. The discussion is entirely centred on individual programming traits, which is unrelated to the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,20 +1213,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and traits, with no mention of Test First Development or related concepts.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on programmer personality types and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any relevant mentions or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses programmer personality types and individual coding preferences, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions teamwork, which aligns with the category's focus on collaboration. However, it primarily discusses individual programmer traits and does not delve into frameworks or methodologies that promote organisational collaboration or decision-making. The depth of discussion is limited, focusing more on personal characteristics rather than social technologies as a whole.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1408,26 +1264,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:46:06",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on programmer personality types and does not explicitly mention Scrum or its principles. While it touches on teamwork, which is a component of Scrum, it lacks any detailed discussion of Scrum roles, events, or artifacts. The overall emphasis is on individual programming styles rather than collaborative project management, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:49:19",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on programmer personality types and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing or security early in the development process. There are no relevant mentions or alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on individual programmer personality types and traits, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it mentions teamwork, it does not connect this to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personality types of programmers rather than discussing competence in terms of skill development, quality outcomes, or professionalism. While it touches on teamwork and individual traits, it lacks a direct emphasis on continuous learning or the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on identifying programmer personality types and does not discuss Continuous Improvement principles or practices. While it mentions teamwork, it lacks any reference to empirical evidence, data-driven decision-making, or strategies for improvement, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on identifying programmer personality types and does not discuss Agentic Agility or its principles. While it touches on teamwork and outcomes, it lacks explicit references to intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

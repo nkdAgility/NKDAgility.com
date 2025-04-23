@@ -9,7 +9,7 @@ ResourceImportId: 49888
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
-weight: 395
+weight: 330
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -26,18 +26,26 @@ aliasesArchive:
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
 - Metrics and Learning
-- Value Delivery
-- Throughput
 - Software Development
-- Agile Project Management
+- Value Delivery
 - Flow Efficiency
-- Team Performance
 - Pragmatic Thinking
-- Agile Product Management
+- Throughput
+- Team Performance
 - Agile Frameworks
+- Agile Product Management
+- Agile Planning
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Operational Practices
+- Product Delivery
+- Time to Market
+- Unrealised Value
+- Current Value
 categories:
+- Product Development
 - Product Management
-- Scrum
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

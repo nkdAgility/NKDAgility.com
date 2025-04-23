@@ -9,7 +9,7 @@ ResourceImportId: 11097
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-18
-weight: 850
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,12 +30,11 @@ aliasesArchive:
 tags:
 - Windows
 - Troubleshooting
-- Install and Configuration
 - Software Development
-- Practical Techniques and Tooling
-- System Configuration
+- Install and Configuration
 - Azure DevOps
 - Azure Pipelines
+- System Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-7-7.png
 

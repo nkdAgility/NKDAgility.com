@@ -30,7 +30,6 @@ tags:
 - System Configuration
 - Windows
 - Software Development
-- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

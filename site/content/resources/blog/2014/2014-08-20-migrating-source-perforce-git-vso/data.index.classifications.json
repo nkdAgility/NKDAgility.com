@@ -1,77 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T09:05:56",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating source control from Perforce to Git, with no clear focus on Agile principles or product management practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:44:45",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on migrating from Perforce to Git, which directly addresses practical techniques and tooling relevant to Agile and DevOps practices. It discusses specific tools (Git, VSO, NuGet) and methodologies (migration strategies, CI/CD setup) that enhance team performance and collaboration. The depth of discussion is significant, covering various aspects of the migration process, including repository management, build processes, and dependency handling, which aligns well with the key topics of the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T04:23:23",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the migration process from Perforce to Git, discussing specific tools and workflows rather than the broader principles of platform engineering. While it touches on aspects of developer productivity and CI/CD practices, it lacks a comprehensive exploration of Internal Developer Platforms (IDPs) or the standardisation of tools and processes that are central to platform engineering. The discussion is more about version control systems and migration strategies than about enhancing developer efficiency through platform solutions.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:15:13",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on some aspects of organisational change, it lacks a clear connection to data-informed decision-making or the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T04:23:09",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 24,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content primarily discusses the migration of source control from Perforce to Git, which involves various complexities related to code management and repository structure. It touches on principles of code quality, such as repository size and the importance of avoiding binaries, which align with the category's focus on maintainability and performance. However, while it does mention some best practices and the impact of complexity on software architecture, the discussion lacks depth in exploring complexity theory or broader implications on software development processes. Overall, the content is relevant but does not fully delve into the theoretical aspects of complexity, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T09:06:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical process of migrating from Perforce to Git, with little emphasis on learning methodologies or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T09:06:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the migration process from Perforce to Git and does not address AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,34 +43,25 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:39:30",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on migrating from Perforce to Git on VSO, which directly aligns with installation and configuration processes. It includes step-by-step instructions, discusses best practices, and addresses potential issues during the migration. The focus is primarily on practical implementation, making it a strong fit for the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T09:06:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from Perforce to Git, with no clear focus on transparency or accountability principles within Agile teams.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T04:23:27",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the migration from Perforce to Git, which touches on aspects of Agile methodologies and DevOps practices, particularly in terms of improving workflows and collaboration. However, the primary focus is on technical migration steps rather than strategies for enhancing market adaptability. While there are mentions of cloud infrastructure and the benefits of moving to Git, the discussion lacks depth in exploring how these changes specifically enhance an organisation's ability to respond to market shifts or competitive pressures.",
     "level": "Ignored"
   },
@@ -125,24 +74,15 @@
     "reasoning": "Content primarily focuses on the technical aspects of migrating source control from Perforce to Git, with limited discussion on the organisational context or the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T09:06:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating source control from Perforce to Git, without a clear focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:14:58",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, which is relevant to version control but does not deeply engage with the broader DevOps philosophy. While it mentions automation and CI builds, which are aligned with DevOps principles, the discussion lacks a comprehensive exploration of collaboration, shared accountability, or cultural shifts that are central to DevOps. The content is more about the migration process itself rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Secondary"
   },
@@ -164,15 +104,6 @@
     "reasoning": "Content primarily discusses the technical process of migrating source control from Perforce to Git, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T09:06:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating source control from Perforce to Git, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T09:06:27",
@@ -182,24 +113,12 @@
     "reasoning": "Content primarily discusses the migration process from Perforce to Git, focusing on technical details and challenges rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T04:23:32",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with limited discussion on team dynamics or human factors. While it mentions working with a client and touches on collaboration, the emphasis is on technical processes rather than the interplay between people and methodologies. The depth of discussion on human behaviour and structured methodologies is minimal, leading to a low confidence score in the 'People and Process' category.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-15T09:06:30",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating source control from Perforce to Git, without addressing broader organisational agility or cultural implications.",
     "level": "Ignored"
   },
@@ -217,10 +136,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T09:06:33",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating from Perforce to Git, focusing on practical steps and challenges rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -235,13 +154,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T14:43:24",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the technical process of migrating from Perforce to Git, discussing specific practices such as repository management, CI/CD setup, and the importance of modular architecture. While it does touch on some aspects of technical excellence, such as the benefits of Git's branching and merging capabilities, the discussion lacks depth in exploring broader engineering methodologies or principles that enhance agility in software development. The content is more of a practical guide than a comprehensive discussion on technical excellence.",
     "level": "Secondary"
   },
@@ -265,15 +184,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T04:23:35",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the practical aspects of migrating from Perforce to Git, which includes discussions on repository management, build processes, and CI/CD practices. While it does touch on some relevant topics such as the importance of planning and the need for a streamlined build process, it lacks a comprehensive exploration of product delivery methodologies and practices. The discussion is more technical and specific to migration rather than encompassing the broader scope of product delivery as defined in the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -286,42 +205,33 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T09:06:44",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating source control from Perforce to Git, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T09:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating from Perforce to Git, with no focus on specific products or literature related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T04:22:47",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating from Perforce to Git, with a focus on implementation details rather than strategies for delivering value to customers or enhancing business agility.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T18:33:26",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on migrating source control from Perforce to Git within the context of Azure DevOps (VSO). It discusses specific Azure DevOps functionalities, such as creating repositories, CI builds, and integration with Azure services. The depth of discussion is substantial, providing detailed steps and considerations for the migration process, which aligns well with the core themes of Azure DevOps. The content does not stray into general Agile or DevOps discussions, maintaining a clear focus on Azure DevOps tools and practices.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -343,10 +253,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T09:06:52",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration process from Perforce to Git and the associated technical details, rather than focusing on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -371,27 +281,15 @@
     "reasoning": "Content primarily focuses on the technical aspects of migrating from Perforce to Git, with little emphasis on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T04:23:25",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a technical migration process from Perforce to Git, detailing practical steps and considerations. While it touches on the benefits of moving to cloud-based solutions like VSO, it lacks explicit discussions on industry news or reviews. The depth of discussion is significant in terms of technical detail, but it does not align closely with the core themes of news and reviews in Agile or DevOps, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T04:23:07",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating source control from Perforce to Git, with some mention of tools and processes involved in the migration. However, it lacks a comprehensive discussion on the broader stages of the application lifecycle, governance, or metrics related to application performance. While it touches on aspects of deployment and maintenance, it does not delve deeply into the principles of Application Lifecycle Management as defined in the category description.",
     "level": "Ignored"
   },
@@ -406,43 +304,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating source code from Perforce to Git, with a focus on technical aspects and challenges involved in version control, rather than discussing the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T16:45:03",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the technical process of migrating from Perforce to Git, discussing specific steps and considerations involved in the migration. While it touches on some best practices, such as repository size management and the importance of CI builds, the overall discussion is more about the migration process rather than a deep exploration of software craftsmanship principles or methodologies. The technical aspects are present, but they are not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details related to migrating source control systems, rather than on methodologies or practices for identifying customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:15:16",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the migration process from Perforce to Git on VSO, which is more about version control and migration strategies rather than Continuous Delivery practices. While it touches on aspects like CI builds and the importance of a streamlined build process, it lacks a comprehensive discussion on Continuous Delivery principles, automation, or cultural aspects. The mention of CI builds is relevant but does not constitute a primary focus on Continuous Delivery as defined in the category.",
     "level": "Ignored"
   },
@@ -457,10 +355,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the migration process from Perforce to Git and does not discuss Lead Time or its relevance to customer delivery.",
     "level": "Ignored"
   },
@@ -475,28 +373,28 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating source control systems and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating source control from Perforce to Git and does not focus on portfolio management practices or methodologies.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migrating source control from Perforce to Git and does not discuss the Product Backlog or related Agile concepts.",
     "level": "Ignored"
   },
@@ -520,31 +418,31 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical migration processes from Perforce to Git, with no focus on customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T14:55:16",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating from Perforce to Git, which includes some operational considerations such as repository management and build processes. However, while it touches on aspects of operational practices, such as the importance of repository size and CI builds, the focus is more on the migration process itself rather than a comprehensive exploration of operational efficiency techniques or strategies within Agile, DevOps, or Lean frameworks.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the migration of source control systems and related technical details, with no focus on Scrum Team dynamics, roles, or collaboration practices.",
     "level": "Ignored"
   },
@@ -568,10 +466,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating source control from Perforce to Git, with no clear focus on validating product ideas or user feedback.",
     "level": "Ignored"
   },
@@ -595,19 +493,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses source control migration from Perforce to Git and associated workflows, with no clear focus on automated testing principles or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical details about migrating source control systems rather than focusing on team performance, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -622,40 +520,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on migrating from Perforce to Git and discusses repository management, build processes, and source control strategies, without any mention or discussion of Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:24:27",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on migrating source control from Perforce to Git, which is a core aspect of software development practices. It explicitly mentions version control systems, outlines the migration process, and discusses best practices for repository management, CI/CD, and the implications of moving to a node-based source control system. The depth of the discussion is significant, covering practical steps and considerations, which aligns well with the key topics of the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T10:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the process of migrating source control from Perforce to Git, without a clear focus on Agile Project Management principles, methodologies, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating source control from Perforce to Git, without focusing on Agile values or principles.",
     "level": "Ignored"
   },
@@ -670,22 +559,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T11:49:55",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the migration process from Perforce to Git, detailing specific practices and considerations relevant to modern source control. It discusses various aspects of Git, including local commits, merging, repository management, and CI/CD integration, which are all core themes of modern source control. The depth of discussion is substantial, providing a step-by-step guide and addressing potential pitfalls, thus demonstrating a strong alignment with the category's key topics.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses migrating source control from Perforce to Git, focusing on practical steps and considerations involved in this process, rather than principles of empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -700,28 +589,28 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migrating from Perforce to Git within Visual Studio Online (VSO) and does not focus on Azure Boards or its functionality in Agile project management.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migrating from Perforce to Git and specifics of version control systems, rather than focusing on collaboration tools or practices related to Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of migrating source control from Perforce to Git, lacking a clear focus on organisational change strategies or frameworks.",
     "level": "Ignored"
   },
@@ -745,28 +634,19 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the technical details of migrating source control from Perforce to Git, without a focus on customer satisfaction or related strategies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T10:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses migrating source control from Perforce to Git and the technical steps involved, without any reference to Scrum principles or practices.",
+    "reasoning": "Content heavily discusses the technical details of migrating source control from Perforce to Git, without a focus on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of migrating from Perforce to Git, without discussing evidence-based leadership principles or data-driven decision making.",
     "level": "Ignored"
   },
@@ -779,24 +659,15 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating source control systems and does not mention psychological safety or its relevance to team dynamics or workplace culture.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T10:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migrating from Perforce to Git and managing source control within a development environment, without focusing on scaling agile practices across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:39:26",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the migration from Perforce to Git, touching on aspects of software craftsmanship, such as repository management and build processes. It mentions best practices like keeping repositories small and avoiding binaries, which align with engineering excellence principles. However, the primary focus is on the migration process rather than a broader discussion of engineering excellence, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -811,10 +682,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T10:22:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses migrating source control from Perforce to Git and technical steps involved, with no clear focus on asynchronous development practices or principles.",
     "level": "Ignored"
   },
@@ -829,59 +700,41 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical migration from Perforce to Git and does not focus on customer retention strategies or topics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T04:23:01",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed, practical guide on migrating from Perforce to Git, showcasing real-world applications of Agile and DevOps principles. It discusses specific challenges and solutions encountered during the migration process, emphasising practical problem-solving strategies and the importance of adapting workflows to new systems. The depth of discussion is significant, with step-by-step instructions and considerations for successful implementation, aligning well with the core themes of pragmatic thinking.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the migration process from Perforce to Git and does not focus on backlog refinement or related Agile practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details and processes for migrating source control systems rather than focusing on the measurement or enhancement of an organization's ability to innovate.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on migrating source control from Perforce to Git, discussing technical issues and procedures rather than Scrum principles, roles, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on migrating source control from Perforce to Git and discusses technical steps and tools involved in the migration process without reference to scaling Agile practices or enterprise-level coordination among teams.",
+    "reasoning": "Content primarily discusses technical details and processes for migrating source control systems rather than focusing on the measurement or enhancement of an organization's ability to innovate.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -922,34 +775,34 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:23:15",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating source control from Perforce to Git, which indirectly relates to working software by addressing the importance of version control in software development. However, it lacks a direct focus on the characteristics of working software, customer value delivery, or best practices for ensuring software quality. While it touches on some relevant themes, such as the need for streamlined builds and robust components, the overall discussion is more about migration processes than the delivery of functional software that meets user needs.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration strategies and technical details of moving from Perforce to Git and does not focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T04:22:59",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the migration from Perforce to Git and touches on aspects of Continuous Integration, particularly in the context of setting up a CI build after code is pushed to the repository. However, the primary focus is on the migration process and the challenges associated with it, rather than a comprehensive exploration of CI principles or practices. While CI is mentioned, it is not the main topic, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -991,10 +844,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical process of migrating from Perforce to Git without discussing hypothesis formulation, experimentation, or data-driven decisions relevant to product development.",
     "level": "Ignored"
   },
@@ -1018,42 +871,42 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the technical aspects of migrating source code from Perforce to Git and setting up source control, with little emphasis on release management strategies or practices.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating source control systems, with no focus on the role, responsibilities, or practices of a Product Owner in Agile or Scrum.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the migration process from Perforce to Git, focusing on version control principles and tools. There are no clear discussions or in-depth analysis regarding Cycle Time, its measurement, or its implications in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T04:23:13",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the migration from Perforce to Git within the context of VSO (Visual Studio Online), which is related to Azure DevOps. While it touches on aspects of CI/CD and mentions creating a CI build, the primary focus is on the migration process and Git rather than Azure Pipelines specifically. The discussion of CI builds indicates some alignment with Azure Pipelines, but the overall depth and focus on Azure Pipelines as a category is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1066,47 +919,47 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of migrating source control from Perforce to Git, without discussing change management strategies, stakeholder engagement, or cultural adaptability.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T04:23:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with limited discussion on team collaboration dynamics. While it mentions working with a client and references team structures, the emphasis is on technical migration processes rather than enhancing teamwork or communication within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migrating source control from Perforce to Git and the associated technical challenges, rather than Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T04:22:56",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the migration from Perforce to Git and the associated benefits of moving to a cloud-based solution (VSO). While it touches on aspects of digital transformation, such as cloud infrastructure and the shift in workflows, it primarily focuses on technical migration details rather than broader strategic implications or case studies of digital transformation. The mention of cloud benefits and improved operational efficiency aligns with the category, but the depth of discussion is more technical than strategic.",
     "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T10:22:18",
     "ai_confidence": 0,
@@ -1115,33 +968,24 @@
     "reasoning": "Content is primarily about migrating source control systems, specifically from Perforce to Git on VSO, and does not discuss MVP concepts or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on the migration of source control systems and practical Git usage, with no discussion of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T04:23:37",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the process of migrating source control from Perforce to Git, which involves significant system configuration aspects such as repository setup, dependency management, and build server configuration. It discusses best practices for repository management, the importance of optimising repository size, and the need for careful planning in the migration process. While it does touch on broader topics related to version control systems, the detailed steps and considerations for configuring the new system align well with the core themes of system configuration. The depth of discussion is substantial, providing practical insights and methodologies for achieving optimal performance in the new setup.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details of migrating source control systems rather than focusing on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -1165,20 +1009,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating source control systems and does not focus on cross-functional teams or their role within Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migrating source control from Perforce to Git and related practices, without any focus on Test First Development or writing tests prior to code implementation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the migration process from Perforce to Git, discussing version control systems and related practices. While it briefly touches on the importance of building solutions and managing dependencies, it does not explicitly address Test First Development principles, success criteria, or testing methodologies. The discussion lacks depth in relation to the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1201,28 +1048,28 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to migrating source control from Perforce to Git, without engaging in Agile principles or scaling practices relevant to large organizations.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical migration processes and challenges related to source control systems without focusing on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating source control systems and does not focus on remote working practices, collaboration challenges, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1237,13 +1084,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T04:22:53",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the process of migrating from Perforce to Git, detailing specific challenges and solutions encountered during the migration. It discusses various technical issues such as repository size, handling binaries, and build errors, which are directly related to troubleshooting. The author provides practical steps and insights into diagnosing and resolving these issues, aligning well with the core themes of the Troubleshooting category. The depth of discussion is substantial, with detailed methodologies and examples, although it could benefit from more explicit troubleshooting techniques and tools.",
     "level": "Secondary"
   },
@@ -1258,11 +1105,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical aspects of migrating source control from Perforce to Git, without any focus on Scrum Master roles or Scrum practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with no direct mention of the Scrum Master role or its responsibilities. While it briefly touches on team dynamics by mentioning Development and Business Teams, it lacks any substantial discussion on Scrum principles, coaching, or the Scrum Master's influence on organisational change. Overall, the content does not align with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1276,24 +1126,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical aspects of migrating source control systems rather than discussing working agreements or teamwork norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:56:52",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the technical aspects of migrating from Perforce to Git, which is relevant to software developers. It touches on version control practices and mentions tools like Git and VSO, aligning with modern engineering practices. However, while it provides some insights into the migration process, it lacks a deeper exploration of Agile or DevOps methodologies, which are central to the category. The focus is more on technical execution rather than the broader implications for developer roles or team dynamics.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1306,13 +1144,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T04:23:04",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the migration from Perforce to Git, touching on aspects of version control and repository management, which are relevant to engineering practices. It mentions the importance of repository size and avoiding binaries, aligning with clean code principles. However, the focus is more on the migration process rather than a deep exploration of Agile engineering practices like TDD or CI/CD. The discussion lacks depth in terms of methodologies and principles that underpin Agile development, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1336,19 +1174,19 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating source control from Perforce to Git, including implementation details and specific workflows, rather than focusing on product management strategies or methodologies.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating from Perforce to Git on VSO, with no clear focus on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1372,15 +1210,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T04:22:50",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on migrating source control from Perforce to Git within the context of Azure DevOps (formerly VSO). It discusses specific steps for creating Git repositories in Azure Repos, highlights the benefits of using Git over TFVC, and touches on CI/CD integration. The depth of discussion is substantial, covering practical migration strategies and best practices, which aligns well with the core themes of Azure Repos. However, while Azure Repos is a significant focus, the content also includes broader discussions about version control concepts, which slightly detracts from a perfect score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1393,10 +1231,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating source control from Perforce to Git and the tools involved, rather than discussing Lean principles or product development methodologies.",
     "level": "Ignored"
   },
@@ -1418,15 +1256,6 @@
     "reasoning": "Content primarily discusses the technical process of migrating source code from Perforce to Git, without focusing on team dynamics, ownership, or the principles of accountability in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses migrating from Perforce to Git and focuses on version control practices rather than Kanban principles or scaling systems in large organizations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T10:22:18",
@@ -1438,10 +1267,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T10:22:18",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migrating source control from Perforce to Git and discusses version control workflows, not on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1456,22 +1285,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:26:50",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, detailing specific steps and challenges involved in the process. While it briefly touches on team dynamics and collaboration (e.g., working with a client and team structure), these elements are not the primary focus. The discussion lacks depth in exploring social technologies, self-organisation, or collective intelligence, which are central to the category. Overall, the content does not align well with the principles of Social Technologies.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:13:20",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the migration process to Git and VSO, which relates to streamlining development processes, but it primarily focuses on specific migration steps rather than the broader concept of an Internal Developer Platform.",
     "level": "Tertiary"
   },
@@ -1486,37 +1315,37 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T04:22:47",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on migrating source control from Perforce to Git and discusses technical aspects of version control systems. While it briefly mentions teams (Development Team and Business Team), it does not delve into Scrum roles, events, or principles, which are central to the Scrum framework. The discussion lacks depth in Scrum-related topics and does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:17:51",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, discussing version control systems and build processes. While it touches on some benefits of improved workflows and fewer bugs, it does not explicitly discuss integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the principles and methodologies of Shift-Left practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:15:01",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with limited discussion on Continuous Improvement principles. While it touches on improving processes (e.g., streamlining builds, managing dependencies), it lacks a strong emphasis on empirical evidence, culture of experimentation, or strategic business agility, which are core to Continuous Improvement. The mention of benefits from the migration hints at improvement but does not delve into systematic practices or frameworks that support Continuous Improvement.",
     "level": "Ignored"
   },
@@ -1534,14 +1363,26 @@
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:15:07",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, with limited direct discussion on competence. While it touches on the need for understanding and adapting to new workflows, it lacks a thorough exploration of continuous learning or skill development, which are central to the competence category. The depth of discussion on the migration process is substantial, but it does not sufficiently connect to the broader themes of competence in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Perforce to Git, discussing specific tools and processes without addressing the intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. There are no explicit mentions of the principles or mechanisms of Agentic Agility, nor does it explore the interplay between human judgement and AI logic. The discussion is largely procedural and lacks depth in relation to the category.",
     "level": "Ignored"
   }
 }

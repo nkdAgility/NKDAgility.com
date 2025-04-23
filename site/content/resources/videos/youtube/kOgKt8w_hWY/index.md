@@ -26,7 +26,7 @@ preview: https://i.ytimg.com/vi/kOgKt8w_hWY/maxresdefault.jpg
 duration: 35
 isShort: true
 tags:
-- Events and Presentations
+- Social Technologies
 - Continuous Improvement
 sitemap:
   filename: sitemap.xml
@@ -36,7 +36,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 
 ---
 As I prepare for my upcoming talk at Stack Kampf, I find myself reflecting on the transformative power of DevOps in enterprise environments. It’s a topic that resonates deeply with me, not just because of the technical aspects, but due to the profound impact it can have on organisational culture and efficiency.

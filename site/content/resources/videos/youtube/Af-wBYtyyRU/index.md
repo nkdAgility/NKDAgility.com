@@ -33,17 +33,28 @@ sitemap:
 tags:
 - Evidence Based Management
 - Product Owner
+- Decision Making
+- Current Value
 - Agile Product Management
+- Pragmatic Thinking
 - Value Delivery
 - Metrics and Learning
-- Decision Making
-- Pragmatic Thinking
-- Product Delivery
 - Ability to Innovate
 - Evidence Based Leadership
+- Unrealised Value
+- Software Development
+- Operational Practices
+- Product Delivery
+- Product Strategy
+- Agile Product Operating Model
+- Decision Theory
+- Working Software
+- Empirical Process Control
+- Time to Market
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

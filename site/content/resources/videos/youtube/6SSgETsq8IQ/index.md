@@ -2,7 +2,7 @@
 title: 'Unlocking Success: How the Professional Scrum Product Owner Course Transforms Your Agile Journey'
 description: Unlock your potential as a Professional Scrum Product Owner! Join our immersive course to master agile practices, enhance team dynamics, and drive product success.
 date: 2022-08-23T17:22:20Z
-weight: 995
+weight: 1000
 ResourceId: 6SSgETsq8IQ
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,15 +26,13 @@ duration: 137
 isShort: false
 tags:
 - Agile Product Management
-- Agile Project Management
 - Product Owner
-- Scrum Product Development
 - Professional Scrum
-- People and Process
-- Products and Books
 - Continuous Learning
 - Agile Transformation
 - Software Development
+- Value Delivery
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +41,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Scrum
 - Product Management
+- Scrum
 
 ---
 As I reflect on my journey as a Professional Scrum Product Owner, I can't help but emphasise the profound impact this role has on both product development and team dynamics. The Professional Scrum Product Owner course is not just another training session; it’s an immersive experience that equips individuals with the skills and mindset necessary to thrive in today’s fast-paced, agile environments.

@@ -2,7 +2,7 @@
 title: In high competition markets, how does scrum product development help acquire and retain customers?
 description: "Unlock Scrum's potential in competitive markets! Discover how it enhances product development, boosts innovation, and drives customer retention. \U0001F680\U0001F4C8"
 date: 2023-02-13T07:00:21Z
-weight: 575
+weight: 540
 ResourceId: o0VJuVhm0pQ
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
 - Empirical Process Control
 - Software Development
-- Agile Project Management
-- Agile Frameworks
 - Pragmatic Thinking
-- Scrum Product Development
 - Agile Product Management
-- Customer Satisfaction
-- People and Process
 - Agile Transformation
+- Agile Strategy
+- Customer Satisfaction
+- Product Delivery
+- Value Delivery
 resourceTypes:
 - video
 categories:

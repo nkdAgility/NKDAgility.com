@@ -9,7 +9,7 @@ ResourceImportId: 137
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-02-17
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/head-first-design-patterns
 - /head-first-design-patterns
 - /resources/blog/head-first-design-patterns
-tags:
-- Products and Books
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

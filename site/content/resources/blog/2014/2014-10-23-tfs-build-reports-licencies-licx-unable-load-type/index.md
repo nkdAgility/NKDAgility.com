@@ -9,7 +9,7 @@ ResourceImportId: 10730
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-23
-weight: 695
+weight: 660
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,9 +31,8 @@ tags:
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking
-- Install and Configuration
-- Practical Techniques and Tooling
 - Windows
+- Install and Configuration
 - System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

@@ -9,7 +9,7 @@ ResourceImportId: 11214
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-11
-weight: 350
+weight: 290
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,18 +30,28 @@ aliasesArchive:
 tags:
 - Business Agility
 - Enterprise Agility
-- Resilience and Change
+- Digital Transformation
+- Operational Practices
 - Organisational Change
 - Value Delivery
+- Agile Transformation
 - Organisational Agility
 - Continuous Improvement
 - Software Development
 - Agile Leadership
+- Change Management
+- Pragmatic Thinking
 - Organisational Culture
+- Agile Planning
+- Social Technologies
+- Agile Philosophy
+- Market Adaptability
+- Sociotechnical Systems
+- Agile Frameworks
 categories:
 - Scrum
 - Leadership
-- Social Technologies
+- Technical Leadership
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 
 ---

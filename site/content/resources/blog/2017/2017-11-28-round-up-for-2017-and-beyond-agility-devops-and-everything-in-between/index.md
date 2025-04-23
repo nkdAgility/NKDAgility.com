@@ -9,7 +9,7 @@ ResourceImportId: 12146
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-11-28
-weight: 515
+weight: 480
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,9 +33,7 @@ aliasesArchive:
 - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 categories: []
 preview: -1-1.jpg
-tags:
-- Events and Presentations
-- News and Reviews
+tags: []
 
 ---
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.

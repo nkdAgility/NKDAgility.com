@@ -2,7 +2,7 @@
 title: 7 harbingers of the Agile apocalypse- War
 description: "Explore how internal 'wars' in organisations mirror Norse Ragnarök, revealing paths to innovation or downfall. Join Martin to navigate these conflicts! \U0001F6E1️⚔️"
 date: 2023-10-19T13:00:46Z
-weight: 645
+weight: 610
 ResourceId: wHGw1vmudNA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -32,20 +32,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
 - Agile Philosophy
+- Agile Leadership
 - Organisational Agility
-- Agile Values and Principles
+- Social Technologies
 - Agile Transformation
-- Agile Project Management
 - Agile Strategy
-- Technical Leadership
+- Agile Values and Principles
 - Team Motivation
-- People and Process
+- Software Development
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Technical Leadership
+- Product Development
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

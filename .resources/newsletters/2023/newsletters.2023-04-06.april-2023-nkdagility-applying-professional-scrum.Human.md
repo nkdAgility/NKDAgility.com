@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-04-06
-weight: 700
+weight: 665
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -20,18 +20,15 @@ aliasesArchive:
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking
-- Professional Scrum
-- Agile Project Management
-- Agile Product Management
-- Scrum Product Development
 - Empirical Process Control
+- Professional Scrum
+- Agile Product Management
 - Agile Transformation
-- Practical Techniques and Tooling
+- Competence
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

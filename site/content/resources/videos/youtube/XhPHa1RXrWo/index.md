@@ -2,7 +2,7 @@
 title: 'Agile is Not New: A Journey Back to the Basics'
 description: "Explore Agile's rich history and its evolution in this insightful video by Martin Hinshelwood, revealing how to reclaim its true value in modern business. \U0001F30D\U0001F4A1"
 date: 2024-10-10T15:48:56Z
-weight: 410
+weight: 355
 ResourceId: XhPHa1RXrWo
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,26 @@ sitemap:
   priority: 0.6
 tags:
 - Competence
-- Discovery and Learning
-- People and Process
 - Agile Philosophy
-- Agile Project Management
 - Agile Product Management
 - Software Development
 - Agile Planning
-- Personal
 - Business Agility
+- Pragmatic Thinking
+- Agile Values and Principles
+- Agile Transformation
+- Agile Leadership
+- Continuous Learning
+- Organisational Change
+- Organisational Culture
+- Sociotechnical Systems
+- Complexity Thinking
+- Market Adaptability
+- Personal
 resourceTypes:
 - video
 categories:
-- Leadership
+- Product Development
 
 ---
 **Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses—like your neighborhood cobbler—knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.

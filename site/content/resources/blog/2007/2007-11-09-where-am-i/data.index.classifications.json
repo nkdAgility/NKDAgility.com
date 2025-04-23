@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T19:56:10",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and functionality of a specific application without addressing the broader aspects of Application Lifecycle Management such as governance, deployment, or maintenance.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:56:17",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and functionality of a LINQ-based application rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses a technical project involving LINQ and .NET, with no direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:56:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical implementation of a LINQ application for tracking user locations, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:56:22",
@@ -96,18 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a software application and its technical implementation, with no clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:37:47",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the use of LINQ in a practical application, which aligns with the category's focus on tooling. However, it lacks a broader exploration of Agile or DevOps methodologies, and the discussion is primarily centred on a specific project rather than general best practices or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:56:27",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a location-tracking application using LINQ and .NET, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -157,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:56:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical project involving LINQ and .NET, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical project involving LINQ and .NET for tracking user locations, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on aspects of data usage, it lacks a clear connection to the core themes of EBM such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:56:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical application and LINQ usage, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:56:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal project involving LINQ and .NET 3.5, without any focus on industry news, updates, or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical project involving LINQ and .NET for tracking user locations, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant discussions on transitioning to a product ethos, operational stability, or agile processes, which are core to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -207,45 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific application project using LINQ and .NET, with no clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:56:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a LINQ-based application for tracking user locations and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:37:52",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses a specific application using LINQ and .NET, focusing on its functionality and implementation details. While it touches on aspects of code quality through the use of LINQ and the resulting SQL complexity, it lacks a broader discussion on the principles of software code quality, best practices, or the impact of complexity on software architecture. The mention of LINQ and its SQL output indicates some awareness of code complexity, but the overall focus is more on the application itself rather than a deep exploration of code quality and complexity theory.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:56:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software project and technical implementation details, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of a Locator project using LINQ and .NET, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -313,50 +250,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:56:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific application development project using LINQ and .NET, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific application development project using LINQ and .NET, with no explicit discussion of DevOps principles, practices, or cultural shifts. While there are mentions of efficiency and connectivity, these do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The depth of discussion is limited to technical implementation details, lacking any broader context related to DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:37:45",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the use of LINQ in a specific application, which touches on technical practices but lacks a broader focus on engineering methodologies or principles that enhance agility in software development. While there are mentions of database interactions and some technical details, the discussion does not delve into key topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:57:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical application and its implementation details, with no significant focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:57:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of a LINQ-based application without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:57:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software application and its implementation details, with no focus on reviews, analyses, or discussions of literature or tools related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:19:24",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation of a locator application using LINQ and .NET, without direct focus on innovation capacity, measurement, or practices.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily describes a technical implementation of a location tracking application using LINQ and does not discuss portfolio management or related methodologies and practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on a technical description of a LINQ application for determining user locations and does not discuss Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T20:19:24",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical implementation of a locator application using LINQ and .NET, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T20:19:24",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily about a software application and its implementation details, with no discussion on the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software project involving LINQ and database interactions without any reference to Agile methodologies or scaling practices.",
+    "reasoning": "Content is primarily about a software application and its implementation details, with no discussion on the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,27 +470,15 @@
     "reasoning": "Content primarily describes a software application for locating users, involving technical aspects of LINQ and communication with a server, which does not focus on collaboration tools or enhance team communication and coordination.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:37:45",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on a specific project involving LINQ and .NET, detailing its functionality and implementation. While it touches on technical aspects relevant to software development, it lacks explicit discussions on Agile methodologies, DevOps principles, or broader engineering practices. The mention of LINQ and database interactions is relevant to developers, but the content does not explore the role of developers within Agile or DevOps frameworks, nor does it provide depth on collaboration or productivity strategies. Therefore, it aligns only marginally with the category.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T19:01:15",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the development of a specific application using LINQ and .NET, which aligns with software development practices. It provides insights into the application architecture, database interactions, and the use of LINQ for querying, which are relevant to coding and software design. However, while it touches on these topics, the discussion lacks depth in methodologies or broader software development principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
@@ -626,7 +509,7 @@
     "reasoning": "Content heavily focuses on technical implementation using LINQ and WCF for a locator project, with no discussion of estimation within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:19:24",
     "ai_confidence": 0,
@@ -700,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific application and the use of LINQ and .NET, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific application project using LINQ and .NET for tracking user locations, with no explicit mention of Continuous Delivery principles or practices. While it touches on software development, it lacks focus on automation, incremental improvements, or any of the key topics associated with Continuous Delivery. The discussion is more about the technical implementation of a feature rather than the delivery process itself.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -750,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical implementation of a location tracking application using LINQ and does not mention hypothesis formulation, experimentation, or validated learning in product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a software application designed to track user locations using LINQ and .NET, without any reference to AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -934,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T20:19:24",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is mainly about a software project and technical implementation details, with no discussion of the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -961,15 +838,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T13:18:44",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the use of LINQ in a .NET application, showcasing a practical implementation of software development techniques. While it does not explicitly mention best practices or principles of software craftsmanship, it does provide insights into code quality and the use of a specific technology (LINQ) to enhance functionality. The depth of discussion around LINQ and its impact on the application indicates a moderate level of technical mastery, but the overall focus is more on the project description rather than a thorough exploration of technical excellence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -980,15 +857,6 @@
     "reasoning": "Content discusses a specific software project related to tracking user locations through IP addresses, with no focus on remote working practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on a technical project involving LINQ and database integration, with no discussion of Kanban principles or scaling techniques.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:19:24",
@@ -996,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical project related to location tracking and database management without any focus on customer retention strategies, user engagement, or minimizing churn.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the development of a software application using LINQ and WCF, with no clear focus on Agile Project Management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1099,13 +958,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T15:15:04",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a project that involves a Windows Communication Foundation (WCF) service and Active Directory, which are both integral to the Windows environment. However, while it mentions Windows-related technologies, the primary focus is on the development of a specific application rather than a comprehensive discussion of Windows installation, configuration, or troubleshooting. The content does not delve deeply into Windows-specific issues or provide extensive guidance on managing the Windows environment, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1201,13 +1060,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:37:45",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the development of a specific application (Locator project) that aims to provide a functional solution for tracking user locations within a company. However, it lacks a direct focus on the principles of working software as defined in Agile and Scrum frameworks. While it touches on aspects of software functionality and user needs, it does not delve into best practices for ensuring software quality or iterative development processes. The discussion is more technical and project-specific rather than addressing broader themes of working software delivery.",
     "level": "Ignored"
   },
@@ -1240,13 +1099,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:37:45",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a practical application of LINQ in a specific project, which aligns with pragmatic thinking. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into problem-solving strategies or real-world applications of these frameworks. The focus is more on technical implementation rather than the strategic application of pragmatic thinking in complex environments.",
     "level": "Ignored"
   },
@@ -1261,13 +1120,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:37:45",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific project involving LINQ and .NET, detailing its functionality and implementation. While it touches on aspects of software development, such as the use of LINQ for database updates, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The mention of LINQ and SQL generation does not sufficiently align with the core themes of engineering excellence, which emphasise high standards in software craftsmanship and development practices.",
     "level": "Ignored"
   },
@@ -1287,15 +1146,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific application project using LINQ and WCF, focusing on technical implementations rather than asynchronous development concepts or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical application unrelated to Scrum principles, practices, or scaling methodologies.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1334,22 +1184,16 @@
     "reasoning": "Content primarily discusses a software application and technical implementation involving .NET and LINQ, with no focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of a software application using LINQ and .NET, with no focus on agile principles or scaling agility within organisations.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a software application development project with no reference to Scrum Master responsibilities, Agile principles, or Scrum ceremonies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical project involving LINQ and .NET, with no direct mention of Scrum or the role of a Scrum Master. While there may be a tangential connection to team dynamics through the mention of user location tracking, it does not align with the core themes or responsibilities of a Scrum Master. The discussion lacks depth regarding Scrum practices or the influence of a Scrum Master on team effectiveness.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,22 +1216,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily describes a LINQ-based application and its data handling without mentioning any principles or practices related to Test First Development or Test-Driven Development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the development of a Locator project using LINQ and .NET 3.5, focusing on its functionality and implementation details. There is no mention of Test First Development principles, success criteria, or testing practices. The discussion lacks any reference to manual or automated testing, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:54:41",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation of a location-tracking application using LINQ and .NET, with no explicit discussion of social technologies or their principles. While it mentions enhancing connectivity and efficiency, it does not delve into collaboration, decision-making, or value delivery within organisations, which are core themes of the Social Technologies category. The discussion lacks depth regarding social frameworks and methodologies, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1402,10 +1249,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:46:37",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific application project using LINQ and .NET, with no clear focus on Internal Developer Platforms or their related concepts.",
     "level": "Ignored"
   },
@@ -1420,26 +1267,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:16:50",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a technical project involving LINQ and .NET, with no direct references to Scrum principles, roles, events, or practices. While it may touch on aspects of project management indirectly, it does not align with the core themes of Scrum, nor does it provide any depth in discussing Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:45:13",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a specific application development project using LINQ and .NET, with no explicit discussion of the Shift-Left Strategy. While it touches on aspects of software development, it does not address integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical project involving LINQ and .NET for tracking user locations, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it touches on the need for connectivity and efficiency, it lacks depth and alignment with the core themes of shared objectives and strategic alignment that define Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a technical project involving LINQ and .NET, with no explicit discussion of competence or continuous skill development. While there are mentions of using LINQ effectively, the overall emphasis is on the project implementation rather than on the principles of competence in Agile or DevOps contexts. The depth of discussion is limited to technical details without connecting to broader themes of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical project involving LINQ and .NET for tracking user locations. While it discusses enhancing connectivity and efficiency, it does not explicitly address Continuous Improvement principles, nor does it provide a detailed exploration of related strategies or empirical evidence. The mention of improving user location tracking is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a location-tracking application using LINQ and .NET, with no explicit discussion of Agentic Agility or its principles. While there is a mention of user location and connectivity, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or adaptability as defined in the category. The content does not differentiate between human and AI capabilities in the context of agility, nor does it explore the transformative capacity of individuals or systems. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   }
 }

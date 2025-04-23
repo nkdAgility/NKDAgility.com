@@ -8,18 +8,6 @@
     "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and MVVM (Model-View-ViewModel) patterns, with no clear relation to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:42:14",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed exploration of a specific WPF behaviour for scaling UI elements, which directly relates to practical techniques in software development. It discusses the implementation of a GlobalScaleTransformBehaviour, including code snippets and explanations of how to use attached properties and dependency properties in WPF. This aligns well with the category's focus on methodologies and frameworks that enhance development practices. The depth of discussion is substantial, covering both the code and its application, although it does not explicitly mention Agile or DevOps practices, which slightly lowers the alignment score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T01:58:47",
@@ -31,71 +19,32 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:09:58",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery, and does not provide any depth on these topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:20:48",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and the use of attached properties for scaling UI elements. While it does touch on aspects of code quality through the use of dependency properties and MVVM (Model-View-ViewModel) patterns, it lacks a broader discussion on the complexities of software development processes or the principles of software code quality. The depth of technical detail is significant, but it does not sufficiently explore the interplay between code quality and complexity, which is central to the 'Code and Complexity' category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:58:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on WPF implementation details and does not discuss discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:58:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses WPF and MVVM concepts without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T01:58:54",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and MVVM concepts without any reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:58:55",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF behaviour and implementation details rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:58:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -116,24 +65,15 @@
     "reasoning": "Content primarily discusses WPF and technical implementation details without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:59:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses WPF and technical implementations of UI scaling, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:09:39",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, which is related to UI development rather than DevOps principles. There are no direct mentions of DevOps concepts, and the discussion does not align with the core themes of collaboration, automation, or continuous value delivery that define DevOps.",
     "level": "Ignored"
   },
@@ -155,15 +95,6 @@
     "reasoning": "Content primarily discusses WPF and MVVM implementations, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:59:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses WPF and coding techniques, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering events.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:59:06",
@@ -171,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:59:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses WPF and technical implementation details, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:59:11",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and UI behaviour, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -220,13 +142,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:08:06",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and discusses the use of attached properties and dependency properties in a technical context. While it does touch on aspects of modular architecture and the use of design patterns like MVVM, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The technical details provided are substantial, but they do not fully align with the core themes of Technical Excellence, which requires a more comprehensive exploration of practices like TDD, CI/CD, or Agile methodologies.",
     "level": "Secondary"
   },
@@ -268,28 +190,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T01:59:21",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and MVVM concepts, with no clear relation to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:59:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no focus on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T01:59:23",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF implementation details and does not focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -331,13 +244,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:09:55",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behavior in MVVM applications, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The discussion is technical and specific to UI development, lacking any connection to agile practices or product-oriented mindsets.",
     "level": "Ignored"
   },
@@ -348,15 +261,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no focus on organisational agility or related strategies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:59:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on WPF implementation details and code examples, lacking discussions on industry news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -379,24 +283,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about WPF and MVVM concepts, focusing on scale transformations and UI behavior, with no connection to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:05:57",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and discusses the use of attached properties and dependency properties in a technical context. While it does touch on aspects of software craftsmanship, such as clean code principles and the use of MVVM (Model-View-ViewModel) architecture, the discussion lacks depth in broader software engineering practices and methodologies. The technical details provided are substantial, but they do not fully encompass the wider scope of 'Technical Mastery' as defined, which includes best practices and principles beyond just implementation.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -409,13 +313,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:10:01",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, which is related to UI development rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or tools, and the discussion does not align with the core themes of Continuous Delivery such as automation, rapid feedback, or software quality. The content lacks depth in any relevant Continuous Delivery topics, leading to a very low confidence score.",
     "level": "Ignored"
   },
@@ -448,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on WPF and coding specific to user interfaces and control behaviors, without any relevant discussion on the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -484,10 +388,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on WPF (Windows Presentation Foundation) and UI control scaling, not on Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -592,40 +496,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF behaviors and coding practices related to UI scaling, with no focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:42:30",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on implementing a WPF behaviour for scaling UI elements, which directly relates to software development practices, particularly in the context of UI design and MVVM architecture. It includes code examples, explanations of dependency properties, and practical applications of the discussed concepts, demonstrating a strong alignment with software development methodologies and best practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF and related programming techniques, without any mention of agile methodologies or project management principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on WPF and the implementation of scaling behavior for controls, with no connection to Agile values or principles.",
     "level": "Ignored"
   },
@@ -640,28 +535,28 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on WPF and UI behavior rather than source control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on WPF and coding techniques for UI behavior and does not discuss empirical process control or Agile principles.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses WPF and MVVM implementation without any relation to Scrum values.",
     "level": "Ignored"
   },
@@ -719,21 +614,12 @@
     "reasoning": "Content primarily discusses technical implementation details related to WPF and MVVM, without any reference to customer satisfaction principles, practices, or metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF and scaling controls in UI design, which is not related to the scaling of Scrum or its principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses WPF technical implementations and does not relate to leadership practices or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -744,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses WPF (Windows Presentation Foundation) behavior and UI elements, with no relevance to the topic of psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF (Windows Presentation Foundation) related to UI transformations and behaviors, which is unrelated to the category of Scaling Agility or discussions about agile methodologies and frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -820,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is predominantly technical and focused on specific implementation details of WPF and MVVM patterns, lacking a clear primary discussion on the measurement or enhancement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses WPF and the implementation of a scaling behavior for UI controls, with no relevance to Scrum principles or practices in product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF and UI behavior related to scaling controls, which is not related to Scaled Agile methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,10 +724,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on WPF development and does not discuss test automation or related topics.",
     "level": "Ignored"
   },
@@ -1036,10 +895,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF (Windows Presentation Foundation) and the implementation of a scale transform behavior in MVVM architecture, without any reference to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1052,22 +911,13 @@
     "reasoning": "Content primarily discusses WPF transformations and control behaviors, which are not directly related to digital transformation initiatives or the strategic use of digital technologies in business.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:46:52",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is primarily focused on WPF and the implementation of a specific scaling behavior in MVVM views, with no clear discussion on Minimum Viable Products or related concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and its various components, focusing on scaling transformations and UI behavior, with no mention or relevance to AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1117,24 +967,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of a WPF behavior for scaling controls, focusing on code structure and functionality without any reference to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any reference to automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T18:53:11",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 30,
-    "final_score": 77.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and its implementation within the Windows operating system environment. It includes detailed code examples and explanations of how to manipulate UI elements in a Windows application, which aligns well with the key topics of installation, configuration, and customisation of Windows applications. The focus on Windows-specific technologies and controls, such as Infragistics and XAML, further supports its relevance to the Windows category. However, while the content is rich in technical detail, it does not explicitly address broader Windows OS topics like installation or troubleshooting, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1147,10 +1000,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T02:46:52",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF controls and implementation details unrelated to Agile practices or large-scale agility.",
     "level": "Ignored"
   },
@@ -1201,11 +1054,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:28:15",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily focused on WPF and programming details, with no mention or discussion of Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on WPF (Windows Presentation Foundation) and MVVM (Model-View-ViewModel) programming techniques, with no mention or discussion of the Scrum Master role, responsibilities, or related agile principles. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1224,15 +1080,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on WPF (Windows Presentation Foundation) and technical aspects of UI behavior, with no mention or relevance to working agreements or teamwork collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific WPF behavior implementation and technical details about data binding, rather than Agile, DevOps practices, or the role of software developers in those contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1352,15 +1199,6 @@
     "reasoning": "Content discusses WPF, MVVM, and scale transform behavior, with no relevance to accountability or team dynamics in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on WPF and scaling user interface elements using code, with no mention of Kanban principles or practices relevant to scaling Kanban in organizations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:46:52",
@@ -1372,22 +1210,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T02:46:53",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and UI behavior, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:44:49",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details of WPF (Windows Presentation Foundation) and MVVM (Model-View-ViewModel) patterns, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions UI scaling, it does not address the underlying social frameworks or methodologies that promote collaboration or collective intelligence within organisations.",
     "level": "Ignored"
   },
@@ -1420,62 +1258,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:53:05",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on WPF and MVVM concepts, with no direct mention of Scrum principles, roles, events, or artifacts. It does not align with the core themes of Scrum, such as team dynamics or iterative progress, and lacks any depth in discussing Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:35:19",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on WPF and MVVM implementation details, with no direct mention or discussion of the Shift-Left Strategy. While there may be some implicit benefits of early integration of UI scaling, it does not address testing, security, or compliance in the software development lifecycle, which are core to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:09:41",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on implementing a WPF Scale Transform Behaviour in MVVM applications, which does not directly discuss Continuous Improvement principles. While there may be some implicit references to enhancing user interfaces, the content lacks explicit discussions on continuous improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:09:47",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on implementing a WPF Scale Transform Behaviour in MVVM applications, which is a technical discussion about UI development. It does not address the concept of Common Goals, nor does it relate to Agile or DevOps principles. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is entirely technical without connecting to the overarching themes of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:09:51",
+    "calculated_at": "2025-04-10T15:56:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on implementing a WPF Scale Transform Behaviour in MVVM applications, which is a technical implementation rather than a discussion on competence. While it may indirectly touch on skills related to WPF and MVVM, it does not explicitly discuss continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The depth of discussion is technical and lacks a focus on the broader implications of competence in professional settings.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on implementing WPF Scale Transform Behaviour in MVVM applications, which does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, and the content lacks depth in relation to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -29,21 +29,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Agile Transformation
-- Agile Project Management
-- Agile Philosophy
+- Agile Values and Principles
 - Software Development
+- Agile Philosophy
 - Organisational Agility
-- Agile Product Management
-- Discovery and Learning
-- People and Process
+- Agnostic Agile
 - Agile Frameworks
+- Agile Product Management
+- Personal
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
+- Product Development
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.

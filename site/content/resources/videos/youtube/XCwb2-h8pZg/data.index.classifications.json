@@ -1,25 +1,25 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:37:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without delving into DevOps principles or practices. While it touches on collaboration and workflow management, it lacks a direct connection to the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The discussion is more aligned with project management methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:30:05",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with limited direct discussion on social technologies or their principles. While it mentions collaboration and project management, it lacks depth in exploring self-organisation, collective intelligence, or transparency within teams. The discussion is more centred on technical features rather than the underlying social frameworks that drive effective collaboration and decision-making.",
     "level": "Ignored"
   },
@@ -93,24 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content mainly refers to a video link that does not discuss Agile frameworks in detail and appears to focus on Kanban specifically in the context of a tool (Team Foundation Service) rather than its principles or applications.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about Kanban and not focused on Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content consists solely of a link to a video without context or discussion about a specific event or presentation.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -241,13 +223,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:37:54",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without addressing Continuous Delivery principles or practices. While it touches on aspects of Agile and project management, it does not delve into Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are essential for the category.",
     "level": "Ignored"
   },
@@ -334,10 +316,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T12:23:52",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Kanban and is not directly discussing team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
@@ -458,15 +440,6 @@
     "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, which are more related to project management tools rather than software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a video link without discussing Agile or DevOps practices in the context of software developers.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T12:23:52",
@@ -474,15 +447,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban in the context of Team Foundation Service without addressing Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, which are not directly related to code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -514,11 +478,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Kanban and does not discuss Scrum or the role of Scrum Master.",
+    "calculated_at": "2025-04-10T15:55:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with only a brief mention of Agile principles. While the author identifies as a professional Scrum trainer, the discussion lacks depth on the specific responsibilities and impact of a Scrum Master, making it more about tools than the role itself.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -593,34 +560,16 @@
     "reasoning": "Content primarily focuses on Kanban and Team Foundation Service without discussing organisational change strategies or frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focused on Kanban and Team Foundation Service without a clear discussion of scaled Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-15T04:54:05",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on TFS (Team Foundation Server) and its features for Agile project management, particularly around backlog management and Kanban boards. While it briefly mentions concepts like work in progress (WIP) limits, which are relevant to Lean practices, the overall discussion does not delve into Lean Thinking principles such as waste identification, continuous improvement, or value stream mapping. The content lacks a comprehensive exploration of Lean concepts, making it more aligned with Agile methodologies rather than Lean Thinking specifically.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Kanban and tools, with no discussion of team dynamics or human factors.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -686,7 +635,7 @@
     "reasoning": "Content does not discuss Lead Time and is primarily focused on Kanban and Team Foundation Service without clear mention of Lead Time as a central theme.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T12:23:52",
     "ai_confidence": 0,
@@ -702,15 +651,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, without discussing leadership roles or practices within Agile contexts.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI, automation, or Agile practices; it only references a video unrelated to the specified category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -742,10 +682,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T12:23:52",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Kanban and Team Foundation Service without discussing team collaboration dynamics or Agile principles.",
     "level": "Ignored"
   },
@@ -756,15 +696,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban with Team Foundation Service and does not discuss market adaptability strategies or practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Kanban and Team Foundation Service, which does not specifically relate to AI in Agile or DevOps methods.",
     "level": "Ignored"
   },
   "Working Software": {
@@ -812,15 +743,6 @@
     "reasoning": "Content is not relevant to Product Backlog as it primarily discusses Kanban, which is not explicitly related to backlog management in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any discussion on Agile Project Management; it primarily references a video with no context or elaboration on agile principles or practices.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T12:23:52",
@@ -839,30 +761,12 @@
     "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, without discussing troubleshooting or technical issue resolution.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content provided is a link to a video and does not discuss specific products, literature, or relevant reviews, making it irrelevant to the category.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content only provides a link to a video and does not discuss any news, reviews, or insights related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T12:23:52",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, lacking discussions on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -873,15 +777,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily consists of a link to a video and does not present personal experiences, reflections, or insights related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Kanban and does not discuss Scaling Scrum or related practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -922,11 +817,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Kanban and does not discuss Test First Development or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without any explicit mention of Test First Development principles or practices. While it touches on testing in a general sense, it does not delve into the specifics of Test First methodologies, success criteria, or the role of testing in the development process. Therefore, the alignment with the Test First Development category is minimal.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -940,10 +838,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T12:23:52",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban methodology and is unrelated to Scrum Team discussions.",
     "level": "Ignored"
   },
@@ -1010,15 +908,6 @@
     "reasoning": "Content primarily consists of a video link without substantial discussion on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban and a specific tool (Team Foundation Service), without discussing scaling agile practices or frameworks at an organisational level.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T12:23:52",
@@ -1046,24 +935,6 @@
     "reasoning": "The content focuses on Kanban and Team Foundation Service, which are more related to team-level processes and practices rather than the management of a portfolio of projects.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Kanban and technical implementations without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban and Team Foundation Service without focusing on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T12:23:52",
@@ -1080,15 +951,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban and using Team Foundation Service, without any substantial discussion on frequent releases or related practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily contains a link to a video with no further details or discussion on practical techniques or tooling related to Kanban or Team Foundation Service.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1138,23 +1000,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:37:50",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without a clear emphasis on the Agile Product Operating Model. While it touches on agile concepts like backlog management and Kanban boards, these are presented in the context of project management rather than a product-oriented mindset. The discussion lacks depth in terms of APOM principles and does not explore the transition from project to product ethos, which is central to the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Kanban and Team Foundation Service without a clear emphasis on discovery or learning methodologies.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1182,15 +1035,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, with no mention of automated testing principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Kanban in the context of Team Foundation Service and does not discuss scaling Kanban principles or practices in large organizations.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1312,10 +1156,10 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T12:23:52",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "The content only provides a link to a video without discussing Kanban principles, practices, or relevant topics directly.",
     "level": "Ignored"
   },
@@ -1378,15 +1222,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-07T14:55:59",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the use of TFS preview for managing Agile projects, including the creation of team projects, backlog management, and Kanban board usage. While it mentions practical tools and features that can enhance operational efficiency, the focus is more on the functionalities of TFS rather than on broader operational practices or strategies. The discussion of Kanban and work item limits aligns with operational practices, but the overall depth and direct mentions of techniques for improving efficiency are somewhat limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1408,62 +1252,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T04:54:05",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of the author's credentials as a professional Scrum trainer, but the primary focus is on TFS (Team Foundation Server) and its features, which are not strictly aligned with Scrum principles or practices. While there are references to backlog items and work item tracking, the discussion lacks depth regarding Scrum roles, events, or the empirical process control that defines the framework. Overall, the content does not provide a comprehensive exploration of Scrum, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:20:59",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on TFS Preview and its features for project management, with no explicit discussion of the Shift-Left Strategy. While it mentions testing as part of the TFS capabilities, it does not delve into integrating testing or security early in the development process, which is central to the Shift-Left concept. The overall discussion is more aligned with Agile project management rather than the proactive measures of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:37:41",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with limited direct discussion on Continuous Improvement principles. While it touches on aspects of Agile methodologies and workflow management, it lacks a thorough exploration of Continuous Improvement strategies, empirical evidence, or a culture of experimentation. The mention of WIP limits and backlog management hints at some alignment with Continuous Improvement, but the overall depth and focus on the category are minimal.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:37:43",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without explicitly addressing the concept of Common Goals. While it touches on Agile principles, it lacks a direct connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about tool usage than about aligning team efforts with overarching strategic objectives.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:37:46",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on TFS Preview as a project management tool, with limited discussion on competence. While it touches on aspects of Agile and project management, it does not delve into continuous learning, skill development, or the importance of competence in delivering quality outcomes. The mention of Agile is brief and does not explore the core themes of competence, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on TFS Preview as a project management tool, discussing its features and functionalities without addressing the concept of Agentic Agility. While it touches on aspects of Agile practices, it does not explicitly mention or explore the intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency. The discussion lacks depth regarding the principles of Agentic Agility, making it a secondary topic at best.",
     "level": "Ignored"
   }
 }

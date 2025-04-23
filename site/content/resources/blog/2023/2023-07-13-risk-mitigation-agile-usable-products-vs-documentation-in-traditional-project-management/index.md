@@ -9,7 +9,7 @@ ResourceImportId: 49495
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-07-13
-weight: 465
+weight: 415
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,17 +29,22 @@ aliasesArchive:
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 tags:
+- Pragmatic Thinking
 - Software Development
 - Working Software
-- Pragmatic Thinking
+- Project Management
 - Agile Philosophy
 - Product Delivery
 - Value Delivery
-- Agile Project Management
+- Agile Values and Principles
+- Agile Frameworks
+- Agile Strategy
+- Agile Transformation
 - Agile Product Management
 - Increment
-- Agile Values and Principles
-categories: []
+- Market Adaptability
+categories:
+- Product Development
 preview: image-1.jpg
 
 ---

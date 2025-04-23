@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: capabilities
 ResourceContentOrigin: human
 date: 2024-06-12
-weight: 775
+weight: 750
 type: capabilities
 layout: training-courses
 url: /capabilities/training-courses/
@@ -125,7 +125,6 @@ sections:
 categories: []
 tags:
 - Agile Transformation
-- People and Process
 - Software Development
 
 ---

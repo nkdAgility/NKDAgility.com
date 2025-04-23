@@ -2,7 +2,7 @@
 title: 'Mastering the Art of Scaling Scrum: Insights from the Scaled Professional Scrum Course'
 description: Unlock the secrets to scaling Scrum effectively! Discover insights from the Scaled Professional Scrum course and equip your team to overcome common challenges.
 date: 2022-08-23T16:53:08Z
-weight: 675
+weight: 640
 ResourceId: sBBKKlfwlrA
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -26,16 +26,13 @@ preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
 tags:
-- Scaling Scrum
-- Practical Techniques and Tooling
-- Professional Scrum
-- Scaled Agile
-- Agile Project Management
 - Agile Frameworks
+- Professional Scrum
 - Software Development
 - Large Scale Agility
-- Products and Books
-- Events and Presentations
+- Pragmatic Thinking
+- Agile Product Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

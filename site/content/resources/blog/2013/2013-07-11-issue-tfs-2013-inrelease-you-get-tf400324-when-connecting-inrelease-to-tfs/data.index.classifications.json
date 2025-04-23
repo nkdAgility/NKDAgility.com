@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:06:41",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server (TFS) and InRelease, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:59:11",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 32.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content provides practical solutions for connecting InRelease to TFS, including specific PowerShell scripts and detailed instructions. It discusses methodologies for troubleshooting and offers insights into tool usage, aligning well with the category's focus on practical techniques and tooling. However, while it mentions tools and solutions, the depth of discussion on broader Agile or DevOps practices is limited, which slightly lowers the confidence score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:42:11",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to TFS and InRelease, with no direct mention of Evidence-Based Management principles or metrics. While it discusses solutions and troubleshooting, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:06:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and solutions related to Team Foundation Server (TFS) and InRelease, without addressing the principles of code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:06:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical solutions and troubleshooting for TFS, with no focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses troubleshooting and solutions related to Team Foundation Server (TFS) and InRelease, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:46:08",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 85.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content primarily focuses on troubleshooting and providing solutions for connecting InRelease to TFS 2013, which directly relates to installation and configuration issues. It discusses specific steps to resolve the TF400324 error, including the correct URL format and a PowerShell script for setting the default collection. The depth of discussion is substantial, with detailed solutions and warnings about unsupported states, indicating a strong alignment with the category's focus on actionable installation and configuration guidance.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:06:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical solutions and troubleshooting for a specific error in TFS, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily discusses technical solutions and troubleshooting for TFS and InRelease without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:06:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical solutions for connecting InRelease to TFS, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:41:54",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and InRelease, which is more about troubleshooting and technical solutions rather than discussing DevOps principles or practices. While it mentions TFS, which is a tool often used in DevOps environments, it does not engage with the broader philosophy of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps culture or practices, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical solutions and troubleshooting for Team Foundation Server, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:07:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and solutions for a specific technical issue related to TFS, with no mention of events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:07:03",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting and solutions for connecting InRelease to TFS, with no focus on optimising work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:07:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical solutions and troubleshooting for TFS and InRelease, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:07:09",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting and solutions related to Team Foundation Server (TFS) and InRelease, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,15 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:00:28",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific issue with Team Foundation Server (TFS) and provides detailed solutions, including a PowerShell script. While it does touch on technical practices, such as using PowerShell for configuration, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The mention of solutions is practical but does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -250,10 +175,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:00:22",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses troubleshooting and solutions related to connecting InRelease to TFS, which is more focused on technical issues rather than the methodologies and practices of product delivery.",
     "level": "Ignored"
   },
@@ -275,18 +200,6 @@
     "reasoning": "Content primarily discusses troubleshooting and solutions related to Team Foundation Server (TFS) and InRelease, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T05:00:50",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and InRelease, providing solutions and workarounds. While it mentions a product (InRelease) and discusses its functionality, it lacks a broader analysis or review of the product itself, which is essential for the 'Products and Books' category. The focus is more on troubleshooting than on literature or methodologies related to Agile or DevOps.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:07:21",
@@ -298,13 +211,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:48:27",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 70.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides detailed solutions and workarounds for a specific error (TF400324) encountered when connecting InRelease to TFS. The mention of TFS and its integration with InRelease indicates a strong focus on Azure DevOps functionalities. However, while the content is rich in technical detail and provides practical solutions, it does not cover broader Azure DevOps topics such as CI/CD pipelines or agile project management practices, which slightly lowers the alignment score. Overall, the content is relevant and detailed enough to warrant a high confidence score.",
     "level": "Secondary"
   },
@@ -337,13 +250,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:42:08",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a specific technical error related to Team Foundation Server (TFS) and InRelease, with no direct discussion of agile methodologies, product management principles, or the Agile Product Operating Model. While it mentions TFS, which is often used in agile environments, it does not align with the core themes of the Agile Product Operating Model, such as continuous delivery or customer-centric value. The depth of discussion is entirely technical and does not touch on any principles or practices related to agile product management.",
     "level": "Ignored"
   },
@@ -356,24 +269,15 @@
     "reasoning": "Content primarily discusses technical solutions and troubleshooting for Team Foundation Server, with no focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:07:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting and providing solutions for a specific technical issue related to TFS, rather than discussing news or reviews in the Agile or DevOps fields.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T05:00:30",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses troubleshooting a specific error related to Team Foundation Server (TFS) and provides solutions for connecting InRelease to TFS. While it touches on aspects of application management, such as configuration and support, it lacks a comprehensive discussion on the broader stages of the application lifecycle, governance, or best practices in Application Lifecycle Management. The focus is more on a technical issue rather than the overall management of the application lifecycle.",
     "level": "Ignored"
   },
@@ -388,43 +292,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting TFS connection issues and provides solutions, with no relation to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:28:03",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific issue with Team Foundation Server (TFS) and provides detailed solutions, including a PowerShell script. While it does touch on technical aspects and offers practical solutions, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that would typically fall under the 'Technical Mastery' category. The depth of technical detail is moderate, but the primary focus is on resolving a specific problem rather than exploring overarching technical excellence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and solutions related to connecting InRelease to TFS, without addressing product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:42:14",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and InRelease, with detailed solutions and PowerShell scripts. While it touches on aspects of software deployment, it does not explicitly discuss Continuous Delivery principles, practices, or the broader context of software delivery cycles. The mention of TFS and deployment issues is too narrow and lacks the depth required to align with Continuous Delivery discussions.",
     "level": "Ignored"
   },
@@ -439,10 +343,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting connection issues with Team Foundation Server (TFS) and does not focus on lead time, its measurement, impacts, or reduction strategies.",
     "level": "Ignored"
   },
@@ -457,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses troubleshooting issues with Team Foundation Server (TFS) and does not address the Definition of Ready or its related topics.",
     "level": "Ignored"
   },
@@ -475,10 +379,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on troubleshooting and solutions related to Team Foundation Server, specifically error TF400324, and does not discuss the Product Backlog or Agile methodologies.",
     "level": "Ignored"
   },
@@ -502,31 +406,31 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical solutions and updates related to Team Foundation Server (TFS), with no focus on customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:00:35",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses troubleshooting a specific error related to Team Foundation Server (TFS) and provides solutions, including a PowerShell script. While it touches on operational practices by suggesting a method to connect InRelease to TFS and hints at the importance of maintaining a supported state, it lacks a broader discussion on operational efficiency or methodologies like Agile, DevOps, or Lean. The focus is more on resolving a technical issue rather than enhancing operational practices in a systematic way.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical solutions related to Team Foundation Server and does not focus on Scrum roles, team dynamics, or collaboration practices.",
     "level": "Ignored"
   },
@@ -550,10 +454,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on troubleshooting a technical issue with Team Foundation Server and does not discuss product validation methodologies or practices.",
     "level": "Ignored"
   },
@@ -586,10 +490,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses troubleshooting technical issues with TFS and InRelease, without addressing team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -613,31 +517,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:58:37",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on troubleshooting a specific issue related to Team Foundation Server (TFS) and InRelease, which are tools used in software development. It explicitly mentions solutions involving PowerShell scripts and highlights best practices for connecting to TFS, aligning well with the core themes of software development methodologies and practices. The depth of the discussion is significant, as it includes multiple solutions and warnings about potential pitfalls, demonstrating a thorough understanding of the software development lifecycle and version control systems.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on troubleshooting issues related to Team Foundation Server (TFS) and InRelease, with no significant discussion on Agile methodologies, principles, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses technical issues related to Team Foundation Server (TFS) and InRelease, without any discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -652,15 +547,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T05:00:39",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and provides solutions for connecting InRelease to TFS. While it mentions TFS, which is a version control system, the focus is more on troubleshooting and specific solutions rather than broader best practices or methodologies in modern source control. The depth of discussion is moderate, providing some technical details and a PowerShell script, but it lacks comprehensive coverage of key topics like branching strategies or code review processes. Therefore, while it aligns with the category, it does not do so in a primary or detailed manner.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -727,20 +622,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical troubleshooting for TFS and does not focus on customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues and solutions related to Team Foundation Server and InRelease, with no mention of Scrum principles, frameworks for scaling Scrum, or related topics.",
+    "reasoning": "Content primarily discusses technical troubleshooting for TFS and does not focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -761,24 +647,15 @@
     "reasoning": "Content primarily discusses technical solutions for connecting InRelease to TFS, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to connecting InRelease to TFS 2013, focusing on error messages and solutions, without a central theme of scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:00:22",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific issue with Team Foundation Server (TFS) and provides solutions, which is more aligned with technical support than with broader engineering excellence practices. While it does mention aspects of software craftsmanship, such as the importance of following documentation and avoiding unsupported changes, it lacks a comprehensive discussion on best practices, continuous improvement, or quality assurance principles that are central to the category of Engineering Excellence.",
     "level": "Ignored"
   },
@@ -811,22 +688,22 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server and does not focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:37:42",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content provides practical solutions to a specific technical issue related to Team Foundation Server (TFS) and InRelease, demonstrating pragmatic problem-solving. It discusses real-world applications of troubleshooting techniques and offers multiple solutions, including a PowerShell script, which aligns with the category's focus on practical problem-solving strategies. However, while it touches on relevant themes, the discussion lacks depth in terms of broader Agile or Scrum principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -841,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on troubleshooting a specific technical issue with TFS 2013 and does not discuss innovation practices, measurement, or strategies related to the Ability to Innovate.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses troubleshooting issues related to TFS and InRelease, which are not primarily focused on Scrum principles, practices, or product development. It lacks discussions on Scrum roles, sprint processes, or customer feedback, making it irrelevant to the category.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily addresses troubleshooting and solutions for TFS and InRelease rather than discussing Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content focuses on troubleshooting a specific technical issue with TFS 2013 and does not discuss innovation practices, measurement, or strategies related to the Ability to Innovate.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -904,15 +763,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:00:32",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses troubleshooting a specific error related to Team Foundation Server (TFS) and provides solutions, which indirectly relates to working software by addressing operational issues. However, it lacks a broader discussion on software quality, customer feedback, or iterative development, which are key themes of the 'Working Software' category. The focus is more on technical solutions rather than the delivery of functional software that meets user needs.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -997,31 +856,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T05:00:41",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific issue related to connecting InRelease to TFS, which is relevant to release management. However, it primarily focuses on troubleshooting and solutions rather than broader release management strategies or practices. While it touches on aspects like version control and the importance of correct configurations, it lacks a comprehensive discussion on release planning, scheduling, or coordination among stakeholders, which are key themes in release management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses technical implementation details related to Team Foundation Server (TFS) and InRelease, with no clear relevance to the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting and solutions related to connecting InRelease to TFS, with no clear focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1054,10 +913,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical solutions to a specific error related to Team Foundation Server, without focusing on team dynamics, communication, or collaboration principles.",
     "level": "Ignored"
   },
@@ -1079,7 +938,7 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server (TFS) and InRelease, with no clear focus on digital transformation, business agility, or strategic technology adoption.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T18:50:56",
     "ai_confidence": 0,
@@ -1088,33 +947,24 @@
     "reasoning": "Content primarily discusses troubleshooting issues related to Team Foundation Server and the InRelease tool, with no mention or discussion of Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses troubleshooting and solutions related to Team Foundation Server and does not mention AI or its application in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T11:53:31",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses troubleshooting and solutions related to configuring Team Foundation Server (TFS) and InRelease, which directly aligns with system configuration. It provides specific instructions on how to set up connections correctly, including the use of PowerShell scripts for configuration management. The depth of discussion is substantial, detailing multiple solutions and their implications, which enhances its relevance to the category. However, while it is focused on configuration, it does not extensively cover broader best practices or optimisation strategies, which slightly lowers the alignment score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical troubleshooting and solutions related to TFS 2013 and InRelease, with no focus on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -1147,22 +997,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on troubleshooting a TFS 2013 connectivity issue and solutions, which does not relate to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and does not discuss Test First Development principles, success criteria, or testing practices. While it mentions solutions and troubleshooting, it lacks any reference to testing methodologies or the importance of defining success criteria before implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T05:00:25",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily discusses troubleshooting and solutions related to Team Foundation Server (TFS) 2013, which operates within the Windows environment. It explicitly mentions the use of PowerShell, a Windows scripting language, to manage TFS settings. The direct mentions of TFS and PowerShell indicate a strong focus on Windows-related topics. The content aligns well with the category's core themes, particularly in troubleshooting and configuration. However, while it provides detailed solutions, it does not cover broader aspects of Windows OS management, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -1186,19 +1039,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to connecting software to TFS without any mention of team dynamics, motivation, or engagement.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical troubleshooting for Team Foundation Server (TFS) and its integration with InRelease, not on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1213,15 +1066,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T16:48:43",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses troubleshooting a specific error (TF400324) related to Team Foundation Server 2013, providing detailed solutions and insights into the problem. It includes direct mentions of solutions, updates, and a PowerShell script to resolve the issue, demonstrating a strong alignment with the core themes of troubleshooting. The depth of discussion is high, as it not only identifies the problem but also offers multiple solutions and warnings about potential pitfalls, making it a comprehensive resource for diagnosing and resolving the issue.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1234,11 +1087,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Server and does not address Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Server (TFS) and does not discuss the role or responsibilities of a Scrum Master. While it mentions Scrum in the context of TFS, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1257,18 +1113,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues and solutions related to TFS and InRelease, with no mention of teamwork, collaboration, or working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:00:22",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and provides solutions, including a PowerShell script. While it touches on aspects relevant to software development, such as connecting to TFS and managing collections, it lacks a broader discussion on Agile or DevOps methodologies. The focus is more on troubleshooting and technical implementation rather than the role of software developers within Agile frameworks or DevOps practices.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1309,10 +1153,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T18:50:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical solutions and issues related to Team Foundation Server (TFS) and InRelease, which do not pertain to the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1345,15 +1189,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T05:00:47",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and its connection with InRelease, which is relevant to Azure Repos as TFS is part of the Azure DevOps suite. However, the focus is more on troubleshooting specific errors and solutions rather than exploring the broader functionalities, best practices, or integration aspects of Azure Repos. While it mentions TFS and provides some technical solutions, it lacks depth in discussing Azure Repos' features like branching strategies, pull requests, or CI/CD integration, which are key topics for the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1366,10 +1210,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T18:50:57",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses troubleshooting and solutions related to Team Foundation Server 2013 and InRelease, with no discussion of Lean principles or product development practices.",
     "level": "Ignored"
   },
@@ -1389,15 +1233,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses troubleshooting connection issues with TFS and does not address accountability, ownership, or team dynamics in an Agile context.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T18:50:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) and InRelease, with no clear connection to Kanban principles or their application in scaled environments.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1429,13 +1264,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:30:39",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on resolving a technical issue related to TFS and InRelease, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions the need for proper documentation and support, it lacks depth in exploring how these aspects relate to organisational culture or collective intelligence.",
     "level": "Ignored"
   },
@@ -1459,62 +1294,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T05:00:22",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 26.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) and InRelease, with a focus on troubleshooting and solutions. While it briefly mentions 'scrum' in the context of a TFS collection URL, it does not delve into Scrum principles, roles, events, or practices. The discussion lacks depth and does not align with the core themes of Scrum, such as team dynamics or continuous improvement.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:21:33",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses troubleshooting a specific error related to Team Foundation Server (TFS) and provides solutions for connecting InRelease to TFS. It does not address the Shift-Left Strategy, nor does it integrate testing, security, or compliance early in the development process. The focus is on resolving a technical issue rather than on proactive software development practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:41:57",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to TFS 2013 and provides solutions, but it does not discuss Continuous Improvement principles or practices. While there are mentions of updates and solutions, they do not reflect a commitment to ongoing improvement or a culture of experimentation. The content lacks depth in discussing Continuous Improvement as a strategic approach, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:41:59",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific error related to TFS and does not discuss the concept of Common Goals or their significance in Agile or DevOps. While it mentions TFS and provides solutions, it lacks any discussion on shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:42:04",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on resolving a specific technical error related to TFS and InRelease, providing solutions and PowerShell scripts. While it demonstrates some level of technical competence in troubleshooting, it does not engage with the broader themes of continuous learning, skill development, or the professional principles of competence as outlined in the category definition. The discussion lacks depth in exploring how competence impacts quality outcomes or team trust, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to TFS and InRelease, with no explicit discussion of Agentic Agility or its principles. While there are mentions of problem-solving and solutions, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The content lacks depth in discussing the transformative capacity of individuals or systems, and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

@@ -1,10 +1,10 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-12T23:28:14",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without focusing on hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -46,37 +46,37 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-11T11:18:36",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with the principles of systems thinking and organisational dynamics. It highlights the importance of internal knowledge and decision-making, reflecting on how external parties can influence organisational behaviour. However, while it touches on these themes, it does not delve deeply into systems thinking principles or provide extensive analysis of organisational dynamics, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-11T13:13:15",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with coaching principles. However, it primarily focuses on the distinction between consulting and contracting rather than on coaching techniques or fostering team development. While it touches on enabling individuals to understand theory and make decisions, it lacks detailed exploration of coaching methods or the collaborative nature of coaching, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-14T19:03:03",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with evidence-based leadership principles. However, it lacks direct references to empirical evidence or specific metrics that inform leadership decisions. The focus is more on personal experiences and philosophies rather than a structured approach to evidence-based practices.",
     "level": "Ignored"
   },
@@ -91,27 +91,27 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T19:02:39",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which touches on aspects of product management, particularly in relation to Agile methodologies. However, it lacks direct mentions of product management principles and does not delve deeply into strategic alignment, customer needs, or business objectives. The focus is more on the consulting process rather than the strategic aspects of product management.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-14T19:03:40",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns well with Agile Leadership principles. It highlights the role of consultants in provoking change rather than providing quick fixes, emphasising the need for internal capability building. The depth of discussion on investing in people, encouraging collaboration, and focusing on continuous improvement further supports its relevance to Agile Leadership.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -124,24 +124,27 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T23:28:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:09:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting and the role of consultants versus contractors, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and DevOps methodologies, focusing on the misconceptions surrounding quick fixes and the role of consultants. It does not directly address system configuration, nor does it delve into topics such as configuration management tools, system optimisation, or integration of hardware and software components. The themes of the content are more aligned with organisational change and team empowerment rather than the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-14T19:02:46",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of internal capability building and the role of consultants in fostering change, which aligns with the themes of digital transformation. However, it primarily focuses on Agile and DevOps practices rather than explicitly addressing digital technologies or their strategic adoption. The discussion is relevant but not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -154,25 +157,25 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-11T14:23:41",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of empowering teams and making informed decisions, which aligns with decision-making principles. However, it primarily focuses on the fallacy of quick fixes and the role of consultants rather than structured decision-making methodologies. While it touches on collaboration and internal capability building, it lacks detailed evidence-based practices and frameworks that are central to the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-14T15:12:46",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns well with the principles of self-organisation. It emphasises the need for internal capability building and collaboration, key aspects of self-organisation. However, while it touches on these themes, it does not delve deeply into specific self-organisation techniques or case studies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
@@ -187,24 +190,24 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T23:28:37",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on the nature of consulting and the importance of internal capability building rather than Lean principles or practices.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-14T14:52:10",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of organisational culture in the context of Agile and DevOps, emphasising the need for internal capability building and fostering a culture of learning and collaboration. It directly addresses how external solutions can undermine cultural growth and highlights the role of consultants in provoking change rather than providing quick fixes. The depth of discussion on investing in people and continuous improvement aligns well with the key topics of the category, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -235,10 +238,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T23:28:43",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of consultants and the nature of consulting versus contracting, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -271,58 +274,46 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-14T19:03:28",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with strategic principles in Agile and DevOps. It highlights the role of consultants in provoking change and building internal capabilities, reflecting on strategic alignment with organisational goals. However, while it touches on strategy, it does not delve deeply into specific strategic frameworks or metrics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-14T19:03:01",
-    "ai_confidence": 67.0,
+    "calculated_at": "2025-04-10T22:09:47",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the Ability to Innovate category. However, it primarily focuses on the pitfalls of quick fixes and the role of consultants rather than directly measuring or enhancing innovation capabilities. While there are mentions of continuous improvement and internal capability building, the depth of discussion on frameworks, metrics, or Evidence-Based Management is limited.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of innovation. However, it primarily focuses on the fallacy of quick fixes and the role of consultants rather than directly addressing innovation metrics or strategies. While there are mentions of building internal capability and continuous improvement, these concepts are not explored in depth or linked explicitly to innovation practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T23:28:50",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the role of consultants versus contractors in organisations, with a focus on provoking change rather than specific Agile frameworks or their implementation.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-03-14T19:03:35",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of scaling agility. However, it primarily focuses on individual team dynamics and the role of consultants rather than explicitly addressing frameworks or strategies for scaling agility across an organisation. The discussion lacks depth in terms of organisational-level practices and does not mention specific frameworks or metrics for scaling agility.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-14T19:03:08",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering collaboration, which aligns well with the core themes of team dynamics and shared ownership in Agile and DevOps. It explicitly mentions the need for collaboration and knowledge sharing, which are key aspects of effective teamwork. The depth of discussion is substantial, providing insights into the role of consultants in provoking change and building internal capabilities, thus enhancing team performance. However, while it touches on team collaboration, the primary focus is on the misconceptions surrounding external solutions, which slightly detracts from a more direct exploration of team collaboration itself.",
     "level": "Secondary"
   },
@@ -373,15 +364,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T19:03:10",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses Agile and DevOps methodologies, focusing on the importance of internal capability building and the role of consultants in fostering organisational change. It aligns well with key topics in software development, particularly in relation to Agile practices and continuous improvement. The depth of discussion on the misconceptions surrounding quick fixes and the emphasis on empowering teams further supports its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -394,11 +385,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T23:29:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:09:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on the nature of consulting and the challenges of implementing change, rather than on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding quick fixes in Agile and DevOps, focusing on the importance of empowering teams and fostering a culture of continuous improvement. While it touches on themes of organisational change and capability building, it does not explicitly mention throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The discussion lacks depth in relation to throughput metrics, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -412,13 +406,13 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-14T19:03:31",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 73.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with Agile principles. It emphasises the need for internal capability building and continuous improvement, reflecting core Agile values. However, it does not explicitly mention the Agile Manifesto or its principles, leading to a lower direct mention score. The depth of discussion is moderate, focusing on the role of consultants and the fallacy of quick fixes, which, while relevant, does not delve deeply into Agile values themselves.",
     "level": "Secondary"
   },
@@ -451,39 +445,39 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-11T16:12:41",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses the importance of internal capability building and the role of consultants in provoking meaningful change, which aligns closely with the principles of effective change management in Agile environments. It emphasises fostering a culture of learning and continuous improvement, which are key themes in change management. The depth of discussion is substantial, providing insights into how organisations can navigate change effectively. However, while it touches on change management, it does not explicitly label itself as such, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-14T19:03:12",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with mentoring principles. It highlights the role of consultants in guiding teams rather than providing quick fixes, suggesting a mentoring approach. However, while it touches on mentoring concepts, it primarily focuses on the broader themes of organisational change and agility, which slightly dilutes its direct relevance to mentoring.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-14T19:03:33",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of empirical process control. However, it does not explicitly mention empirical process control or its key topics, such as transparency, inspection, and adaptation. The focus is more on the fallacy of quick fixes and the role of consultants rather than on empirical decision-making based on evidence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -512,22 +506,16 @@
     "reasoning": "Content heavily discusses the role of consultants versus contractors in organisational change, without any mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T23:29:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, with a focus on provoking change rather than on software development practices or the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants in organisations and the distinction between consulting and contracting, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-10T14:45:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the misconceptions of quick fixes in Agile and DevOps, focusing on the importance of internal capability and team empowerment rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -586,33 +574,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T23:29:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:13:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on change provocation rather than Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T23:29:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without a clear focus on scaling Agile practices or frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding quick fixes in Agile and DevOps, focusing on the importance of internal capability and continuous improvement. It does not explicitly mention Lead Time or its significance as an observability metric. While there are themes of organisational change and efficiency, they do not directly relate to Lead Time or its measurement, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T17:25:36",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content discusses the misconceptions surrounding quick fixes in Agile and DevOps, emphasising the importance of internal capability building and the role of consultants in provoking change rather than providing solutions. It aligns well with pragmatic thinking by focusing on practical problem-solving strategies, the necessity of adapting to unique organisational challenges, and fostering a culture of learning and collaboration. The depth of discussion is substantial, providing insights into the journey of agility and continuous improvement, which are core themes of the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -621,15 +603,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without addressing deployment frequency or related Agile and DevOps practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T23:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the role of consultants versus contractors in organisations, without a clear focus on Agile methodologies or principles.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -643,25 +616,25 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-14T19:02:44",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering an environment conducive to change, which aligns with Agile principles. It critiques the reliance on external solutions and emphasises internal capability building, reflecting key themes of Agile strategy. However, while it touches on Agile concepts, it does not delve deeply into specific Agile methodologies or strategic planning, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:34:58",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile and DevOps principles but does not explicitly mention Continuous Delivery. While it touches on themes of continuous improvement and team empowerment, it lacks a direct focus on Continuous Delivery practices, automation, or specific strategies related to software delivery cycles.",
     "level": "Ignored"
   },
@@ -676,22 +649,22 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T23:29:42",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, with no clear focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-13T15:03:45",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with sensemaking principles. It highlights the need for organisations to interpret their unique challenges rather than relying on external solutions, reflecting a strong understanding of complexity. However, while it touches on sensemaking, it primarily focuses on Agile and DevOps practices, which slightly detracts from its alignment with the core themes of sensemaking.",
     "level": "Secondary"
   },
@@ -713,30 +686,12 @@
     "reasoning": "Content primarily discusses the role of consultants versus contractors and the nature of consulting, rather than focusing on team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T23:29:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting practices and the role of consultants in organisations, with no clear focus on AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T23:29:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without any focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-12T23:29:54",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations and does not address Behaviour Driven Development principles, practices, or related topics.",
     "level": "Ignored"
   },
@@ -760,13 +715,13 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-14T19:03:17",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the misconceptions around quick fixes in Agile and the importance of internal capability building, which aligns with Agile transformation principles. It mentions the role of consultants in provoking change and empowering teams, reflecting on the cultural shifts necessary for Agile adoption. However, while it touches on Agile concepts, it lacks detailed exploration of specific frameworks or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -790,13 +745,13 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-13T15:26:07",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of internal capability building and the role of consultants in provoking change, which aligns well with the principles of organisational change. It emphasises the need for organisations to empower their teams and foster a culture of learning, which are key themes in the category. However, while it touches on these concepts, it does not delve deeply into specific frameworks or methodologies for organisational change, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
@@ -809,36 +764,27 @@
     "reasoning": "Content heavily discusses consulting practices and the role of consultants in organisations, with no mention of test automation or related topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T23:30:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without a clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-14T19:03:05",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with operational practices in Agile and DevOps. It mentions the role of consultants in provoking change and building internal capability, which relates to continuous improvement and operational excellence. However, while it touches on relevant themes, it lacks specific techniques or metrics for operational efficiency, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:35:01",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on the fallacy of quick fixes in Agile and DevOps rather than providing empirical evidence or metrics related to value delivery, innovation, or decision-making. The discussion lacks direct references to the key topics of EBM, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -851,30 +797,24 @@
     "reasoning": "Content primarily discusses the role of consultants and the nature of consulting versus contracting, with no clear focus on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T23:30:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of consultants and the nature of consulting versus contracting, without a clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:30:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which aligns with some core themes of the Scrum Master role. However, it primarily focuses on the role of consultants in organisational change rather than the specific responsibilities and impact of a Scrum Master. The direct mention of Scrum or the Scrum Master role is absent, leading to a lower confidence score.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T23:30:12",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on individual change rather than large-scale Agile practices or frameworks.",
     "level": "Ignored"
   },
@@ -889,13 +829,13 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-14T19:03:38",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns well with the principles of technical leadership. It highlights the role of consultants in provoking change rather than providing quick fixes, emphasising the need for internal capability building. The discussion on investing in people and encouraging collaboration directly relates to mentoring and coaching development teams. However, while the content touches on relevant themes, it does not delve deeply into specific agile practices or technical leadership strategies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -919,10 +859,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T23:30:19",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without a clear focus on Agile Planning principles or methodologies.",
     "level": "Ignored"
   },
@@ -935,7 +875,7 @@
     "reasoning": "Content primarily discusses the role of consultants versus contractors and the challenges organizations face in implementing Agile practices, without a clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T23:30:21",
     "ai_confidence": 0,
@@ -1000,10 +940,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-12T23:30:31",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting practices and the role of consultants in organisations, with no mention of Test Driven Development or related principles.",
     "level": "Ignored"
   },
@@ -1018,15 +958,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-14T19:03:21",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 79.0,
+    "final_score": 87.0,
     "reasoning": "The content discusses the misconceptions surrounding quick fixes in Agile and emphasises the importance of internal capability, team empowerment, and continuous improvement, which are core themes of Agile Philosophy. It directly addresses the need for organisations to engage their teams in the change process rather than relying on external solutions, aligning well with the principles of collaboration and adaptability. The depth of discussion is substantial, providing insights into the role of consultants and the journey towards agility, making it a strong fit for the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1039,87 +979,87 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T23:30:36",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, without focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-12T23:30:38",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants and the nature of consulting versus contracting, with no focus on Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-12T23:30:39",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on change management rather than asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-12T23:30:40",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants and the nature of consulting versus contracting, with no direct reference to market share or related strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-13T16:34:19",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the broader themes of strategic goals and organisational capability. However, it primarily focuses on the fallacy of quick fixes and the role of consultants rather than explicitly defining or articulating long-term strategic objectives. The discussion lacks depth in terms of frameworks for setting strategic goals or their direct impact on business agility.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-14T19:03:26",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns well with the principles of Continuous Learning. It highlights the need for internal capability building, knowledge sharing, and continuous improvement, all of which are key topics in the category. The depth of discussion is substantial, providing insights into the role of consultants in promoting change and the necessity of investing in team development. However, while the category is a primary focus, it does not explicitly mention all aspects of Continuous Learning, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-14T19:02:49",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of empowering teams and making informed decisions in the context of Agile and DevOps. However, it primarily focuses on the role of consultants and the fallacy of quick fixes rather than explicitly addressing decision-making processes or the principles of Decision Theory. While there are elements that touch on decision-making, such as the need for internal capability and understanding underlying principles, the overall discussion lacks depth in exploring heuristics, biases, or frameworks specific to Decision Theory.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-06T13:44:22",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with the principles of enterprise agility. It highlights the importance of internal adaptation over external solutions, reflecting a core theme of fostering a culture of agility. However, the focus is more on consulting practices rather than broader organisational agility frameworks or structures, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1130,34 +1070,13 @@
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on the nature of consulting and the importance of internal capability development, without a clear emphasis on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-06T14:52:54",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with the themes of organisational resilience and adaptability. However, it primarily focuses on the critique of consulting practices rather than providing comprehensive strategies or frameworks for resilience. The discussion lacks depth in exploring methodologies for fostering a culture of adaptability or change management practices, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T23:27:33",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants in provoking change within organisations, rather than focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T23:27:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on change management rather than software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1167,15 +1086,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on the nature of consulting and the importance of internal capability building rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T23:27:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the role of consultants in provoking change within organizations, without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1189,139 +1099,91 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T23:27:40",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors and the nature of consulting, without a clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-06T15:47:51",
-    "ai_confidence": 67.0,
-    "ai_mentions": 12,
-    "ai_alignment": 28,
-    "ai_depth": 24,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the role of consultants in provoking change and enabling organisations to learn and adapt, which aligns with the themes of discovery and learning. It highlights the importance of internal knowledge sharing and the limitations of external solutions, reflecting on the processes of learning from experiences. However, while it touches on these themes, the primary focus is more on the critique of consulting practices rather than a deep exploration of methodologies for fostering innovation or continuous learning.",
-    "level": "Secondary"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-14T19:02:58",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of internal capability building and fostering a culture of learning, which aligns with Systems Thinking principles. However, it primarily focuses on Agile and DevOps methodologies without explicitly addressing Systems Thinking concepts or techniques. The discussion lacks depth in exploring interconnectedness and holistic analysis, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-14T19:02:41",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of internal capability building and the unique challenges organisations face, which aligns with complexity thinking principles. However, it does not explicitly reference complexity science or frameworks like Cynefin, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T23:27:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors and the challenges organizations face in implementing change, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T23:27:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in organisations, focusing on the philosophy of consulting rather than practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T23:27:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in Agile transformations, without reference to specific events or presentations.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-14T19:03:23",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of Agile and DevOps. It highlights the need for organisations to adapt and build internal capabilities rather than relying on external solutions, which directly relates to market adaptability. However, while it touches on relevant themes, it does not delve deeply into specific strategies or methodologies that enhance market responsiveness, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-07T13:01:17",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of consultants versus contractors in the context of Agile and DevOps, but it does not delve into specific frameworks or methodologies. While it touches on themes relevant to business agility, such as the importance of internal knowledge and the limitations of external solutions, it lacks a structured exploration of Agile principles. The discussion is more anecdotal and opinion-based, aligning with the Miscellaneous category, but it does reference Agile concepts enough to warrant a moderate confidence score.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T17:34:40",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the misconceptions surrounding quick fixes in Agile and DevOps, emphasising the importance of internal capability and continuous improvement, which aligns with DevOps principles. However, it primarily focuses on the role of consultants and the need for organisational change rather than deeply exploring DevOps practices or cultural shifts. The mention of DevOps is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T23:27:54",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses consulting and the role of consultants in organisations, with no specific mention of Azure DevOps or its functionalities.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T23:27:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of consultants versus contractors in Agile transformations, without focusing on specific products, books, or methodologies relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-10T11:44:23",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with the principles of business agility. It highlights the importance of internal adaptation over external solutions, suggesting a cultural shift towards self-sufficiency and innovation. However, it lacks direct mentions of business agility concepts and does not delve deeply into specific strategies or frameworks that enhance organisational responsiveness.",
     "level": "Secondary"
   },
@@ -1336,13 +1198,13 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-14T19:02:56",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of value delivery. However, it primarily focuses on the misconceptions surrounding consulting and the need for internal capability building rather than specific strategies or methodologies for delivering value in Agile or DevOps contexts. While it touches on relevant themes, the depth of discussion on value delivery practices is limited.",
     "level": "Secondary"
   },
@@ -1357,67 +1219,46 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-10T14:00:33",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with the principles of organisational agility. However, it primarily critiques the effectiveness of external solutions and does not delve deeply into agile methodologies or cultural shifts necessary for agility. The focus is more on the limitations of consulting rather than on strategies for enhancing organisational adaptability.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-14T19:03:15",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a personal reflection on the misconceptions surrounding Agile and DevOps, particularly the idea of quick fixes. It shares individual insights and experiences related to the journey of adopting Agile practices, emphasising the importance of internal capability and team empowerment. The author discusses their views on the role of consultants and the necessity of fostering a culture of learning, which aligns well with the Personal category's focus on individual experiences and reflections. The depth of discussion is significant, as it includes personal anecdotes and key takeaways, enhancing the overall alignment with the category.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-10T17:56:42",
-    "ai_confidence": 87.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content primarily discusses the role of consultants in provoking change within organisations, emphasising the importance of internal team dynamics and the need for individuals to adapt and learn rather than rely on external solutions. It aligns well with the category's focus on human behaviour and structured methodologies, particularly in the context of Agile and DevOps. The depth of discussion is significant, as it explores the nuances of consulting versus contracting and the implications for team performance and organisational change.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T09:55:36",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with the sociotechnical systems theme of integrating social and technical aspects. However, it primarily focuses on the critique of consulting practices rather than a comprehensive exploration of sociotechnical interactions. The mention of organisational change and the importance of internal knowledge sharing reflects some alignment with the category, but the depth of discussion on sociotechnical systems is limited.",
     "level": "Secondary"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T23:28:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and nature of consulting versus contracting in Agile environments, lacking a focus on news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T23:28:09",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants versus contractors and the nature of organisational change, without a focus on metrics, data, or learning methodologies.",
     "level": "Ignored"
   },
@@ -1441,25 +1282,25 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-14T19:02:52",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with key themes in organisational psychology. However, the primary focus is on Agile and DevOps methodologies rather than psychological principles. While there are mentions of team dynamics and capability building, the depth of psychological discussion is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-14T19:03:42",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the human-centric and adaptive principles of Beta Codex. However, it primarily focuses on the critique of external consulting and the myth of quick fixes in Agile and DevOps, rather than explicitly addressing Beta Codex principles or decentralisation. The discussion lacks depth in exploring the foundational theories of Beta Codex, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1474,39 +1315,39 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T17:34:57",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile and DevOps principles but does not specifically address the Agile Product Operating Model or its key topics. While it touches on themes of empowerment and continuous improvement, it lacks a direct focus on product management practices or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T14:52:52",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of consultants in provoking change within organisations, which aligns with leadership principles in fostering an environment of adaptability and continuous improvement. It highlights the importance of internal decision-making and knowledge sharing, which are key aspects of effective leadership. However, while it touches on leadership themes, it primarily focuses on the distinction between consulting and contracting rather than providing a comprehensive exploration of leadership practices. Therefore, the confidence score reflects a strong but not complete alignment with the leadership category.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:54:33",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of empowering teams, fostering collaboration, and embracing continuous improvement, which aligns well with the core themes of Social Technologies. It explicitly mentions the need for internal capability building and the role of consultants in provoking change rather than providing quick fixes. The depth of discussion on these topics is substantial, providing insights into team dynamics and the importance of a supportive organisational culture. However, while it touches on social frameworks, it does not delve deeply into specific methodologies or case studies, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1528,74 +1369,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T19:02:39",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of consultants in facilitating change within organisations, which loosely relates to Agile principles. However, it does not explicitly mention Scrum or its specific roles, events, or artifacts. The focus is more on the distinction between consulting and contracting rather than on Scrum practices or frameworks, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:45:45",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Agile and DevOps principles but does not explicitly mention the Shift-Left Strategy or its core themes. While it touches on the importance of empowering teams and fostering collaboration, it lacks a direct focus on integrating testing, security, or compliance early in the development process, which are key aspects of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:34:43",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content discusses the importance of continuous improvement in the context of Agile and DevOps, emphasising the need for organisations to invest in their teams and foster a culture of learning. It mentions continuous improvement explicitly and aligns with the core themes of the category, such as the ongoing process of change and the importance of internal capability building. However, while it touches on these themes, the depth of discussion could be more comprehensive, focusing more on specific techniques or frameworks for continuous improvement.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:34:47",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of Common Goals. However, it primarily focuses on the fallacy of quick fixes and the role of consultants rather than explicitly addressing shared objectives or strategic alignment. While there are mentions of organisational goals and internal capability building, these are secondary to the main theme of the content.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:34:52",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 87.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of empowering teams and fostering a culture of continuous learning, which aligns closely with the principles of competence. It highlights the need for internal capability building and the role of consultants in provoking change rather than providing quick fixes. The depth of discussion on investing in people and encouraging collaboration further supports the focus on competence, making it a primary theme throughout the content.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:34:55",
+    "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Agile and DevOps methodologies, focusing on the misconceptions of quick fixes and the role of consultants. While it touches on themes of empowerment and continuous improvement, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of Agentic Agility. However, it primarily focuses on the fallacy of quick fixes in Agile and DevOps rather than explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the mechanisms of Agentic Agility and does not provide specific examples or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:08:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the misconceptions surrounding quick fixes in Agile and DevOps, emphasising the importance of empowering teams and fostering a culture of continuous improvement. It aligns well with the principles of Agile product development and the need for iterative learning and customer feedback. The depth of discussion is significant, as it explores the role of consultants in provoking change and building internal capabilities, which are crucial for sustainable product development. Overall, the content is primarily focused on product development methodologies, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:09:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses themes related to Agile and DevOps, focusing on empowerment and collaboration within teams. However, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion is more centred on the role of consultants and the importance of internal capability building rather than the facilitation techniques that characterise Liberating Structures. Therefore, while there is some conceptual alignment with the idea of fostering collaboration and continuous improvement, the lack of direct mentions and specific depth on Liberating Structures results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:09:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which aligns with project management principles. However, it primarily focuses on Agile and DevOps without delving into broader project management methodologies or tools. The mention of consultants and their role in provoking change touches on project management but lacks depth in discussing core project management principles or lifecycle phases.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:09:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of collaboration, which aligns with some principles of Open Space Agile. However, it does not explicitly mention Open Space Agile or its specific practices, nor does it delve deeply into the core themes of the category. The focus is more on general Agile and DevOps principles rather than the unique aspects of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:09:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which aligns with the broader themes of unrealised value. However, it does not explicitly mention unrealised value or provide specific indicators or strategies for identifying untapped opportunities. The focus is more on the fallacy of quick fixes and the role of consultants rather than on the potential value that can be captured through improvements and innovations.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:09:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which indirectly relates to Time to Market by emphasising sustainable change and internal capability building. However, it does not explicitly mention Time to Market or its associated metrics, nor does it provide detailed strategies for improving the speed of delivering value. The focus is more on the fallacy of quick fixes and the role of consultants rather than on optimising processes for quicker delivery.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:09:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which indirectly relates to the concept of Current Value. However, it does not explicitly mention Current Value or provide specific metrics or indicators related to it. The focus is more on the fallacy of quick fixes and the role of consultants rather than on real-time assessment of value delivered by a product or service. Therefore, while there are elements that touch on the themes of Current Value, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:09:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which aligns with some principles of CaaP. However, it primarily focuses on the fallacy of quick fixes in Agile and DevOps rather than explicitly addressing the concept of treating the organisation as a product. The discussion lacks direct mentions of CaaP and does not delve deeply into organisational design or customer-centric strategies, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:09:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with some principles of scaling. However, it primarily focuses on the fallacy of quick fixes in Agile and DevOps rather than specific methodologies or frameworks for scaling. The mention of consultants and building internal capability touches on aspects of scaling but lacks depth in discussing frameworks or strategies specifically designed for scaling Agile practices. Overall, while there are relevant themes, the primary focus is not on scaling as defined in the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:09:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the importance of empowering teams and the pitfalls of seeking quick fixes in Agile and DevOps, but it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The focus is more on general Agile principles rather than the specific challenges associated with Hybrid Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:09:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of learning, which aligns with the principles of Agnostic Agile. However, it does not explicitly mention Agnostic Agile or its key figures, nor does it delve deeply into the specific principles or comparisons with traditional frameworks. The focus is more on the critique of quick fixes and the role of consultants rather than a thorough exploration of Agnostic Agile itself.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:09:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and DevOps principles without any direct mention of GitHub or its functionalities. While it touches on themes of team empowerment and continuous improvement, which are relevant to Agile and DevOps, it does not specifically address GitHub services, tools, or best practices. Therefore, the alignment with the GitHub category is minimal, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:09:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses themes related to Agile and DevOps, focusing on empowerment and sustainable change within teams. However, it does not explicitly mention or align with the principles of Cell Structure Design or the Beta Codex. The discussion is more centred on the role of consultants and the importance of internal capability rather than the decentralised, network-based structure of cells. While there are elements of self-organisation and continuous improvement, they are not framed within the context of Cell Structure Design, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

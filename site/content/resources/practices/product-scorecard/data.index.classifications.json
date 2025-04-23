@@ -1,13 +1,4 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-13T09:25:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to AI, Agile methodologies, or DevOps practices. It appears to be incomplete and lacks a clear focus on the application of AI.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-13T09:25:23",
@@ -17,7 +8,7 @@
     "reasoning": "Content does not provide enough information to determine relevance to team collaboration; it appears to be incomplete and lacks focus on teamwork dynamics or Agile principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-13T09:25:25",
     "ai_confidence": 0,
@@ -37,11 +28,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-13T09:25:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:29:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to throughput, its measurement, or optimisation in Agile, DevOps, or Lean contexts. It appears to focus on a different topic.",
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention throughput or related metrics. It lacks any discussion on defining, calculating, or visualising throughput, and does not address any of the key topics associated with throughput as a delivery metric. The focus appears to be on resource details rather than throughput analysis, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -55,10 +49,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-13T09:25:31",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not provide enough information to determine relevance to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -136,11 +130,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-13T09:25:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:29:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine its relevance to the Ability to Innovate category, as it only includes a partial title and lacks context.",
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention innovation or related concepts. It appears to be an incomplete request for information about a resource, lacking any discussion on innovation metrics, practices, or strategies. Therefore, it does not align with the category's focus on the Ability to Innovate.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -172,11 +169,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T09:25:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Scrum Master responsibilities or related topics; it appears to focus on product management rather than Scrum practices.",
+    "final_score": 12.0,
+    "reasoning": "The content does not explicitly mention the Scrum Master role or its responsibilities. It lacks any discussion of Scrum principles, techniques for coaching or facilitating, or the impact of the Scrum Master on team dynamics. The focus appears to be on resource details rather than Scrum-related topics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -217,13 +217,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:03:59",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention Evidence-Based Management or its key topics. It appears to focus on resource details without any discussion on data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
@@ -265,13 +265,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:03:57",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention Continuous Delivery or its principles. It lacks any discussion on automation, incremental improvements, or related strategies. The focus appears to be on gathering information rather than exploring Continuous Delivery concepts, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -349,19 +349,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-13T09:26:20",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not provide any information related to the Definition of Ready; it appears to focus on a different topic, likely related to product evaluation or metrics.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-13T09:26:22",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not provide sufficient information related to the Definition of Done and appears to focus on a different topic, likely related to product evaluation or metrics.",
     "level": "Ignored"
   },
@@ -372,24 +372,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide sufficient information to determine relevance to cross-functional teams; it appears to focus on a product scorecard without clear connections to Agile methodologies or team structures.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-13T09:26:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information to determine relevance to software developers or Agile/DevOps practices; it appears to be unrelated.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-13T09:26:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine relevance to Scaled Agile; it appears to focus on a specific tool or metric without addressing scaling Agile practices across multiple teams.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -563,15 +545,6 @@
     "reasoning": "Content does not mention Azure Pipelines or related topics; it appears to focus on a product scorecard, which is unrelated.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-13T09:27:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content title and provided text do not indicate a focus on Agile Project Management principles or methodologies, making it irrelevant to the category.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-13T09:27:01",
@@ -583,10 +556,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-13T09:27:03",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not provide sufficient information about the Product Owner role or responsibilities; it appears to focus on a different topic.",
     "level": "Ignored"
   },
@@ -601,10 +574,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-13T09:27:05",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Product Backlog or its management; it appears to focus on a different topic.",
     "level": "Ignored"
   },
@@ -637,10 +610,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-13T09:27:11",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not provide enough information to determine its relevance to product discovery methodologies or practices.",
     "level": "Ignored"
   },
@@ -673,11 +646,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-13T09:27:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:00:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to Lead Time; it appears to focus on a different topic, likely related to product evaluation or performance metrics.",
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention Lead Time or related concepts. It lacks any discussion on the definition, importance, or measurement of Lead Time, and does not align with the core themes of the category. The content is too vague and incomplete to provide any substantial information relevant to Lead Time.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -689,21 +665,12 @@
     "reasoning": "Content does not provide any information related to Behaviour Driven Development principles, practices, or discussions. It appears to focus on a different topic.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-13T09:27:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content does not provide enough information to determine a clear connection to Scrum principles or practices, as it only mentions a 'Product Scorecard' without elaborating on Scrum methodologies or product development.",
-    "level": "Ignored"
-  },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-13T09:27:25",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not provide enough information to determine its relevance to product strategy; it appears to be incomplete.",
     "level": "Ignored"
   },
@@ -799,11 +766,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-13T09:27:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:29:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to system configuration; it appears to focus on a product scorecard, which is unrelated.",
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention system configuration or related topics. It appears to be a request for more information about a resource, lacking any discussion on configuration management, optimisation, or integration of systems. Therefore, it does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -813,15 +783,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not mention technical debt and focuses on product scorecard, which is unrelated to the management and implications of technical debt.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-13T09:27:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information to determine relevance to Scaling Scrum; it appears to focus on a different topic.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -860,21 +821,12 @@
     "reasoning": "Content does not provide any information related to backlog refinement or Agile practices; it appears to be unrelated to the topic.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-13T09:27:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information to determine relevance to scaling agility; it appears to focus on a specific tool or metric rather than broader agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-13T09:27:56",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content provided is incomplete and does not provide enough information to determine its relevance to product management discussions.",
     "level": "Ignored"
   },
@@ -916,20 +868,11 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-13T09:28:02",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not provide enough information to determine relevance to product validation; it appears to be incomplete.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-13T09:28:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content does not discuss Kanban principles or their application in large-scale environments; it appears to focus on a different topic.",
+    "reasoning": "Content does not provide enough information to determine relevance to product validation; it appears to be incomplete.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -997,11 +940,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T09:28:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:03",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Test First Development or related principles; it appears to focus on a different topic entirely.",
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Test First Development or its principles. It lacks any discussion on success criteria, testing practices, or related topics, focusing instead on incomplete resource details.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1020,15 +966,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not mention Azure DevOps or its functionalities; it appears to focus on a different topic unrelated to Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-13T09:24:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine relevance to products or books related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1067,15 +1004,6 @@
     "reasoning": "Content does not provide enough information to determine relevance to sociotechnical systems; it appears to be incomplete and lacks a clear focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-13T09:24:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine relevance to transparency and accountability; it appears to be incomplete.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-13T09:24:40",
@@ -1105,10 +1033,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-13T09:24:44",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content title and provided text do not indicate a clear focus on Agile Product Management principles or practices. The mention of a 'Product Scorecard' does not provide enough context to classify it under this category.",
     "level": "Ignored"
   },
@@ -1121,43 +1049,16 @@
     "reasoning": "Content does not provide any information related to installation or configuration processes; it appears to focus on a product scorecard, which is unrelated to the category.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-13T09:24:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information to determine relevance to AI and automation in Agile practices; it appears to focus on a product scorecard without clear ties to the category.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-13T09:24:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information to determine relevance to news or reviews in Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:44:49",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention DevOps or its principles. It appears to focus on resource details without any discussion of collaboration, automation, or continuous value delivery, which are core to the DevOps philosophy.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-13T09:24:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine relevance to the category; it appears to be incomplete.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -1167,24 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide enough information to determine relevance to technical excellence; it appears to focus on product evaluation rather than engineering practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-13T09:24:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention any events, presentations, or discussions related to Agile, DevOps, or software engineering. It appears to focus on a product scorecard without a clear connection to the specified category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-13T09:24:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide any information related to software code quality or complexity; it appears to focus on a product scorecard, which is unrelated.",
     "level": "Ignored"
   },
   "Lean": {
@@ -1212,24 +1095,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not provide enough information to determine its relevance to the Miscellaneous category, as it appears to be incomplete and lacks context.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-13T09:25:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine relevance to resilience and change; it appears to focus on a product scorecard without discussing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-13T09:25:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide enough information to determine a clear focus on practical techniques or tooling related to Agile and DevOps practices.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1288,20 +1153,11 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-13T09:25:16",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content does not provide enough information to determine its relevance to product delivery, as it only states the purpose of a 'Product Scorecard' without elaborating on methodologies, practices, or processes related to delivering software products.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-13T09:25:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content does not provide enough information to determine relevance to discovery and learning; it appears to focus on a specific tool or framework without discussing learning processes or methodologies.",
+    "reasoning": "The content does not provide enough information to determine its relevance to product delivery, as it only states the purpose of a 'Product Scorecard' without elaborating on methodologies, practices, or processes related to delivering software products.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
@@ -1363,13 +1219,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:47:21",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention social technologies or related concepts. It lacks discussion on collaboration, decision-making, or value delivery, and does not provide any depth or detail on the category's core themes. The focus appears to be on resource details rather than the principles of social technologies.",
     "level": "Ignored"
   },
@@ -1393,74 +1249,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T18:04:27",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content title 'Product Scorecard' does not explicitly mention Scrum or its principles. The brief mention of a purpose suggests a potential link to project management but lacks any direct references to Scrum roles, events, or artifacts. Therefore, the confidence score is low, reflecting minimal relevance to the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:40:37",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention the Shift-Left Strategy or its principles. It lacks a clear focus on integrating testing, security, or compliance early in the development process. The discussion appears to be more general and does not provide sufficient detail or context related to the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:03:49",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content does not explicitly mention Continuous Improvement or its principles. It lacks any discussion on empirical evidence, data-driven decision-making, or techniques for fostering a culture of experimentation. The focus appears to be on resource details rather than on continuous improvement practices or strategies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:03:51",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content does not explicitly mention Common Goals or related concepts. It lacks a clear focus on aligning strategy with execution within Agile and DevOps frameworks, and does not provide any depth or detail on the significance of shared objectives or their impact on organisational performance.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:03:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content does not explicitly discuss competence or its related themes. It appears to focus on resource details without addressing continuous learning, skill development, or any of the key topics associated with competence in Agile or DevOps environments.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:03:55",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content does not explicitly mention the One Engineering System or its principles. It appears to focus on resource details without any discussion on integration, standardisation, or software development practices related to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention Agentic Agility or its key themes. It appears to focus on resource details without addressing intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:28:30",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 10.0,
+    "reasoning": "The content is extremely vague and does not explicitly mention any aspects of product development methodologies or practices. It lacks any detailed discussion or alignment with the core themes of the category, such as Agile principles, customer feedback, or iterative processes. The incomplete nature of the content further diminishes its relevance to product development.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:28:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention Time to Market or related concepts. It lacks any discussion on metrics, strategies, or the importance of delivering value quickly. The focus appears to be on resource details rather than the efficiency of transforming ideas into market-ready products.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:28:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not mention GitHub explicitly and lacks any discussion related to GitHub services, functionalities, or best practices. It appears to be a request for more information rather than a focused discussion on GitHub, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:28:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Agnostic Agile or its principles at all. It lacks any discussion of agile methodologies, critical thinking, or ethical considerations, and instead appears to be a request for more information about a resource, which is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:28:39",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention the concept of 'Company as a Product' or any related themes. It appears to be an incomplete request for information, lacking any substantial discussion on organisational strategies, customer insights, or cross-functional collaboration. As such, it does not align with the core principles of CaaP.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:28:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention Cell Structure Design or its principles. It lacks any discussion on the Beta Codex, autonomous cells, or decentralised structures. The brief and incomplete nature of the content does not provide any relevant information or depth related to the category, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:28:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Liberating Structures or any related facilitation techniques. It appears to be a request for more information about a resource, lacking any discussion on group dynamics, collaboration, or the principles of Liberating Structures. Therefore, it does not align with the category at all.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:28:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Hybrid Agile or any related concepts. It appears to be a request for more information about a resource, lacking any discussion on project management methodologies or their integration. Therefore, it does not align with the category's focus or themes.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:28:49",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Unrealised Value or related concepts. It lacks any discussion on potential improvements, innovation opportunities, or indicators of unrealised value. The focus appears to be on resource details rather than strategic insights or Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:28:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not explicitly mention scaling methodologies or frameworks, nor does it discuss any relevant strategies or challenges associated with scaling Agile practices. The brief and incomplete nature of the content does not provide any substantial information that aligns with the core themes of the Scaling category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:28:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Current Value or its related concepts. It lacks any discussion on metrics, indicators, or practical applications relevant to Evidence-Based Management. The provided text is incomplete and does not offer sufficient detail to evaluate its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:28:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content does not explicitly mention project management or its methodologies. It lacks any discussion of core principles, lifecycle phases, or tools relevant to project management. The brief mention of resource details suggests a tangential relationship to project management but does not provide sufficient context or depth to align with the category's key topics.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:28:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Open Space Agile or any related concepts. It appears to be a request for more information about a resource, lacking any discussion on Agile principles, psychological safety, or collaborative change processes.",
     "level": "Ignored"
   }
 }

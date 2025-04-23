@@ -29,19 +29,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
-- Agile Values and Principles
-- Agile Project Management
 - Agile Philosophy
 - Agile Planning
+- Agile Product Management
+- Agile Values and Principles
 - Operational Practices
-- Value Delivery
 - Software Development
+- Value Delivery
 - Agile Frameworks
 - Agile Transformation
+- Organisational Agility
+- Working Software
+- Product Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

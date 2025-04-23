@@ -9,7 +9,7 @@ ResourceImportId: 30
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-08-25
-weight: 695
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,10 +25,8 @@ aliasesArchive:
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
 - Software Development
-- Practical Techniques and Tooling
-- Products and Books
-- Install and Configuration
 - Application Lifecycle Management
+- Install and Configuration
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

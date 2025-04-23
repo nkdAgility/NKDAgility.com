@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-06T09:00:00
-weight: 305
+weight: 230
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -21,29 +21,41 @@ aliasesArchive:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Software Development
 - Modern Source Control
+- Software Development
 - Continuous Integration
-- Value Delivery
-- Release Management
-- Software Developers
-- Continuous Delivery
-- Engineering Practices
 - Deployment Strategies
-- Practical Techniques and Tooling
+- Technical Mastery
+- Value Delivery
+- Continuous Delivery
+- GitHub
+- Release Management
+- Technical Excellence
+- Flow Efficiency
+- Deployment Frequency
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Product Delivery
+- Working Software
+- Frequent Releases
+- Continuous Improvement
+- Time to Market
 categories:
+- Engineering Excellence
 - DevOps
+- Product Development
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
 
 ---
-The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why GitHub Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.
+The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why [GitHub]({{< ref "/tags/github" >}}) Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.
 
 ## TL;DR
 
-If teams still promote code through a Dev → Test → Staging → Production model, they are doing it wrong. This model inevitably leads to a **branch promotion strategy**, adding friction, increasing risk, and delaying value delivery.
+If teams still promote code through a Dev → Test → Staging → Production model, they are doing it wrong. This model inevitably leads to a **branch promotion strategy**, adding friction, increasing risk, and delaying [value delivery]({{< ref "/tags/value-delivery" >}}).
 
-- **GitHub Flow is a simple option for continuous delivery.**
+- **GitHub Flow is a simple option for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}).**
 - **Release Flow is a good choice when production needs to exist for some time.**
 - **Git Flow? That bloated mess belongs in the past.**
 
@@ -74,7 +86,7 @@ This is a linear, gated approach that **kills agility**. Instead of focusing on 
 
 If teams are **passing code between branches like a baton in a relay race**, they are reinforcing a broken process. This is just waterfall with more Git commands.
 
-Instead of treating branches as milestones, teams should focus on **continuous integration and delivery**. That means:
+Instead of treating branches as milestones, teams should focus on **[continuous integration]({{< ref "/tags/continuous-integration" >}}) and delivery**. That means:
 
 1. Every change merges into `main` as soon as it is ready.
 2. Deployment is decoupled from release using feature flags.
@@ -119,7 +131,7 @@ One of the easiest to understand, implement, and do well is GitHub Flow. For mos
 2. They open a **pull request** against `main`.
 3. Code is reviewed, merged, and **deployed immediately**.
 
-One would expect the pull request to be as automated as possible within the context of modern software engineering practices:
+One would expect the pull request to be as automated as possible within the context of modern software [engineering practices]({{< ref "/tags/engineering-practices" >}}):
 
 - **Automated tests** to validate every change.
 - **Continuous deployment** to eliminate hand-offs.
@@ -129,7 +141,7 @@ Reverse integration is **completely unnecessary** in GitHub Flow because all cha
 
 ### Release Flow
 
-For teams that need to support multiple versions in production, **Microsoft’s Release Flow** extends GitHub Flow without unnecessary complexity for the specific purpose of having a release version that you need to help until the next release is ready. Microsoft developed this because it took longer than their 3 weeks for Sprint to deploy new versions of Azure DevOps to the thousands of databases that they used.
+For teams that need to support multiple versions in production, **Microsoft’s Release Flow** extends GitHub Flow without unnecessary complexity for the specific purpose of having a release version that you need to help until the next release is ready. Microsoft developed this because it took longer than their 3 weeks for Sprint to deploy new versions of Azure [DevOps]({{< ref "/categories/devops" >}}) to the thousands of databases that they used.
 
 - All work merges into `main`.
 - When a release is ready, a **version branch** (e.g., `release/1.2`) is created.

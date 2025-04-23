@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
 date: 2024-01-12
-weight: 995
+weight: 1000
 creator: Martin Hinshelwood
 type: course
 slug: applying-scaled-portfolio-kanban
@@ -29,14 +29,10 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Agile Project Management
-- Portfolio Management
 - Agile Frameworks
-- Practical Techniques and Tooling
-- Scaling Kanban
 - Operational Practices
+- Portfolio Management
 - Pragmatic Thinking
-- Scaling Agility
 - Transparency
 categories:
 - Kanban

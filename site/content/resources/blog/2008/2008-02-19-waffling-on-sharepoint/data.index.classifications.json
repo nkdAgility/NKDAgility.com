@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T18:32:17",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of documentation and user expectations in relation to SharePoint, without a clear focus on the stages or practices of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:32:23",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint and documentation challenges, with no clear focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:32:27",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of writing documentation and the general capabilities of SharePoint, without focusing on specific installation or configuration processes.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:16:04",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the challenges of writing documentation for SharePoint without delving into specific Agile, Scrum, DevOps, or Lean methodologies. While it touches on the importance of documentation and the capabilities of SharePoint, it does not reference any established frameworks or practices, aligning it with the Miscellaneous category. The discussion is somewhat detailed but lacks actionable insights or a strong connection to recognised theories.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:32:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation for SharePoint and the technical aspects of system deployment, without addressing organisational resilience or change management.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of writing documentation for SharePoint and the expectations of the business, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:32:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation for SharePoint without focusing on specific practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:32:35",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of documentation and user expectations regarding SharePoint, without focusing on metrics, data analysis, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -157,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:32:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation for SharePoint and does not focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of writing documentation for SharePoint and does not explicitly mention Evidence-Based Management or its key topics. While it touches on the importance of understanding user needs, it lacks a focus on empirical decision-making or metrics that align with EBM principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:32:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses documentation challenges and SharePoint capabilities, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:32:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation for SharePoint without focusing on industry news, updates, or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the challenges of writing documentation for SharePoint and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related concepts. The discussion is centred around technical documentation rather than product delivery or agile processes, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -209,48 +188,12 @@
     "reasoning": "Content primarily discusses SharePoint and documentation challenges, with no clear focus on platform engineering principles or internal developer platforms.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:32:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses SharePoint and documentation challenges, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:32:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses documentation and user expectations regarding SharePoint, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:32:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation for SharePoint without focusing on any specific events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:32:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation for technical systems and the expectations of business stakeholders, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T18:32:54",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of documentation and user expectations in SharePoint, without a clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -283,10 +226,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:33:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of SharePoint and documentation rather than personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -310,47 +253,23 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:33:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses documentation and SharePoint without any clear focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges of writing documentation for SharePoint, which is not directly related to DevOps principles or practices. While it touches on aspects of system capabilities and user feedback, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The mention of standards is too vague to establish a strong connection to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T18:33:05",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of writing documentation for business needs without focusing on engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:33:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of SharePoint and documentation rather than focusing on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:33:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation and the technical aspects of SharePoint, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:33:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of writing documentation for SharePoint and does not focus on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -373,19 +292,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses documentation and perceptions around SharePoint without focusing on specific system configuration processes or technical setup.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the challenges of documentation in IT and the practical use of SharePoint rather than on innovative practices or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -414,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to documentation and SharePoint system capabilities, with no clear focus on portfolio management principles such as strategic alignment, prioritization frameworks, or performance metrics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on documentation and SharePoint systems, with no clear discussion of Scrum principles or product development practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -454,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint's documentation needs and system capabilities without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -490,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses documentation in the context of IT and SharePoint, but does not focus on the Definition of Done or its criteria, purpose, or importance in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on documentation and system capabilities related to SharePoint, with no reference to Agile practices or scaling Agile methodologies.",
+    "reasoning": "The content discusses documentation in the context of IT and SharePoint, but does not focus on the Definition of Done or its criteria, purpose, or importance in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -569,15 +470,6 @@
     "reasoning": "Content discusses SharePoint in terms of documentation and system capabilities, but does not focus on collaboration or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of documenting IT systems and the business perspective on SharePoint, rather than focusing on software development practices within Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T18:58:06",
@@ -614,7 +506,7 @@
     "reasoning": "Content focuses primarily on documentation and system capabilities, without discussing estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:58:06",
     "ai_confidence": 0,
@@ -643,10 +535,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses challenges in documentation and business communication related to SharePoint, lacking focus on technical leadership principles or agile methodologies.",
     "level": "Ignored"
   },
@@ -688,11 +580,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:58:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses documentation in the context of SharePoint without addressing Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of writing documentation for SharePoint and does not address Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with the core themes of the category, such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal and focused on documentation rather than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -724,13 +619,13 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T07:34:23",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions SharePoint's capabilities and the importance of documentation, but it lacks a direct focus on digital transformation strategies or the integration of digital technologies to enhance business agility. While it touches on the potential of SharePoint, it does not delve into how such tools can transform business processes or culture, nor does it discuss metrics or challenges related to digital transformation.",
     "level": "Ignored"
   },
@@ -741,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of documentation in IT and does not focus on hypothesis formulation, experimentation, or data-driven decision-making related to product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses SharePoint and documentation challenges, lacking any focus on AI in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -925,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses documentation challenges and the use of SharePoint, which do not relate to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -952,10 +838,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges related to documentation and business expectations in IT, without a clear focus on software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
@@ -968,15 +854,6 @@
     "reasoning": "Content primarily discusses the challenges of documentation within IT and the capabilities of SharePoint, with no focus on remote working practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and documentation, with no relevant information on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:58:06",
@@ -984,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges in documentation related to IT systems, specifically SharePoint, without focusing on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:58:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and documentation challenges without any clear connection to Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1069,10 +937,10 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-16T18:58:06",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on documentation challenges related to SharePoint implementation and does not address technical debt management or its implications.",
     "level": "Ignored"
   },
@@ -1222,15 +1090,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T15:12:53",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the challenges of writing documentation for SharePoint from a practical perspective, highlighting the need to focus on what the business values rather than technical details. While it touches on practical problem-solving in a technical context, it lacks a strong emphasis on Agile, Scrum, or DevOps frameworks, and does not provide in-depth strategies or case studies related to pragmatic thinking.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1266,15 +1134,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses documentation and workflow capabilities of SharePoint, not focusing on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:58:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and documentation, with no relevant connection to Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1172,16 @@
     "reasoning": "Content primarily discusses SharePoint and documentation challenges, with no clear focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:58:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on documentation and SharePoint system capabilities, without discussing agile principles or scaling agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:58:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses documentation and technical aspects of SharePoint without any reference to the Scrum Master role or Scrum methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the challenges of writing documentation for SharePoint and does not mention the role or responsibilities of a Scrum Master. There is minimal conceptual alignment with Scrum principles, and the depth of discussion regarding Scrum or the Scrum Master is virtually non-existent.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,22 +1204,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:58:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss Test First Development or any related principles, focusing instead on documentation and the capabilities of SharePoint.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of writing documentation for SharePoint and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among team members. The depth of discussion is focused on documentation rather than any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:52:27",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the challenges of writing documentation for SharePoint, which is more technical in nature and does not explicitly discuss social technologies or their principles. While it touches on the need for effective communication and understanding user needs, it lacks a direct focus on collaboration, decision-making, or value delivery as outlined in the category description. The discussion is more about technical implementation than the social frameworks that support organisational dynamics.",
     "level": "Ignored"
   },
@@ -1399,26 +1255,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:00:31",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses documentation and SharePoint without any explicit mention of Scrum principles, roles, or events. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is minimal and lacks any relevant detail about Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:33",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the challenges of documentation in IT and the capabilities of SharePoint, with no explicit mention of the Shift-Left Strategy or its principles. It does not address integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on user expectations and system capabilities rather than proactive quality measures.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of writing documentation for SharePoint and does not address the concept of Common Goals within Agile or DevOps frameworks. While it touches on the importance of understanding user needs, it lacks explicit discussion of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the challenges of writing documentation for non-technical audiences, which touches on the need for effective communication and understanding of capabilities. However, it lacks a direct focus on competence as defined in Agile and DevOps contexts. The mention of standards and the potential of SharePoint hints at a broader understanding of competence but does not delve into continuous learning or skill development, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of writing documentation for SharePoint and does not explicitly address Continuous Improvement principles. While it touches on the need for feedback and standards, it lacks a focus on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of writing documentation for SharePoint and does not explicitly address Agentic Agility or its principles. While it touches on the need for understanding user needs and system capabilities, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of Agentic Agility. The discussion is more about technical documentation than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

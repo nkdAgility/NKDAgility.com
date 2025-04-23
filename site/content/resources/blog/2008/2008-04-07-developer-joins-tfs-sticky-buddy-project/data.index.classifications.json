@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:29:00",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics and project updates rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses the addition of a developer to a project without any direct reference to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:29:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the addition of a developer to a project and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:29:05",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the addition of a developer to a project and does not engage with complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:29:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team member additions and personal experiences rather than practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:29:09",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team member additions and project interest without focusing on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -154,32 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:29:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the addition of a developer to a project and does not address Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the addition of a developer to a project and does not explicitly mention Evidence-Based Management or its key topics. There is no focus on data-informed decision-making, metrics, or empirical evidence, which are central to EBM. The discussion is more about team dynamics and project updates rather than strategic management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team member additions and project updates without focusing on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T07:34:22",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content briefly mentions the addition of a developer to a project, which aligns with industry news. However, it lacks a detailed discussion on Agile or DevOps methodologies, and the focus is more on personal experiences rather than a comprehensive review or analysis of tools or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a specific project and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the category definition. The discussion is more about team dynamics and individual contributions rather than a structured approach to product delivery or agile practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -207,42 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the addition of a developer to a project without a clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:29:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses team member additions and project updates without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:29:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses team dynamics and individual contributions to a project, with no substantial focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:29:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development team and project updates, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:29:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the addition of a new developer to a project and expresses personal sentiments, lacking a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -310,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:29:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the addition of a developer to a project and does not focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a specific project, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions development, it lacks any reference to collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content does not delve into any of the key topics outlined for the DevOps category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,36 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses team member additions and personal sentiments rather than engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:34:22",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions the addition of a new developer to the team and acknowledges the interest in the project, which touches on team dynamics. However, it lacks a deeper exploration of processes, methodologies, or the human factors influencing collaboration and productivity. The focus is more on individual contributions rather than structured methodologies or team processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:29:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses team member additions and project updates without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:29:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development team and project updates rather than specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses team members joining a project without specifics on innovation capabilities or evidence-based practices.",
     "level": "Ignored"
   },
@@ -417,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on the development team's personnel and their contributions to a specific project, not on portfolio management practices or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses a project and team member involvement but does not focus on Scrum principles, practices, or product development methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -457,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team member participation in a specific project without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -493,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a developer joining a project and personal experiences related to team dynamics and project interest, with no mention of Definition of Done or related concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content mainly focuses on individual project development and team member roles without addressing scaled Agile practices or methodologies.",
+    "reasoning": "Content primarily discusses a developer joining a project and personal experiences related to team dynamics and project interest, with no mention of Definition of Done or related concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -547,10 +442,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses a project team member joining a development project but does not focus on Test Driven Development principles, practices, or the TDD cycle.",
     "level": "Ignored"
   },
@@ -572,24 +467,15 @@
     "reasoning": "Content primarily discusses the addition of a developer to a project and their experiences, without focusing on collaboration tools or their impact on Agile teamwork.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the addition of a developer to a project but lacks a focus on Agile, DevOps, or software engineering practices. It does not delve into relevant methodologies or best practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:34:22",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions a development project and the addition of a new team member, which relates to collaborative development. However, it lacks detailed discussion on methodologies, practices, or frameworks that are central to software development. The focus is more on personal experiences and team dynamics rather than on software engineering principles.",
     "level": "Ignored"
   },
@@ -620,7 +506,7 @@
     "reasoning": "Content mainly discusses a project and team members without focusing on estimation practices, techniques, or relevant topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:58:05",
     "ai_confidence": 0,
@@ -694,11 +580,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on the addition of a new developer to a project and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a project and does not explicitly discuss Continuous Delivery principles, practices, or related topics. While there is a mention of enhancing development, it lacks depth and does not align with the core themes of Continuous Delivery such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -721,10 +610,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project and team member updates, with no focus on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -739,20 +628,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on project updates and team member engagement, without any mention of hypothesis formulation, experimentation, or data-driven decision making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a development team joining a project, focusing on project collaboration and team member interactions, with no mention of AI applications in Agile or DevOps.",
+    "reasoning": "Content is primarily focused on project updates and team member engagement, without any mention of hypothesis formulation, experimentation, or data-driven decision making.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -766,10 +646,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the addition of a developer to a project and personal interactions rather than discussions on strategies or practices related to change management.",
     "level": "Ignored"
   },
@@ -793,10 +673,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses team member additions and personal experiences in a project which does not relate to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -919,31 +799,31 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T07:34:22",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the addition of a new team member and expresses hope for improved collaboration, but it lacks a detailed discussion on team dynamics, communication techniques, or shared ownership principles. The focus is more on individual contributions rather than collective team collaboration, which does not align strongly with the core themes of the category.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the introduction of a new developer to a project and does not discuss the Definition of Ready or related topics.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project update and team member involvement, without any focus on acceptance criteria or methodologies related to ATDD.",
     "level": "Ignored"
   },
@@ -974,15 +854,6 @@
     "reasoning": "Content primarily discusses the addition of a developer to a project and the associated interest in that project, without any focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mostly discusses a specific project and team additions without any focus on Kanban principles or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:58:05",
@@ -990,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the addition of a developer to a project, with no focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the addition of a developer to a project team and does not focus on Agile Project Management principles, methodologies, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1174,10 +1036,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the addition of a developer to a project without any relevant information about Behaviour Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -1264,20 +1126,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T18:58:05",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the addition of a developer to a project and expresses hopes for project progress, lacking focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific project and development team dynamics, not scaling Scrum practices or frameworks.",
+    "reasoning": "Content primarily discusses the addition of a developer to a project and expresses hopes for project progress, lacking focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1316,22 +1169,16 @@
     "reasoning": "Content discusses a specific development project without focusing on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific project and individual contributions, with no discussion of scaling agility practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum, the role of a Scrum Master, or related topics. It focuses on a specific project and team members without reference to Scrum practices or responsibilities.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a project and does not discuss the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the impact of a Scrum Master, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1354,22 +1201,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:58:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:58:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a development project and the addition of a tester to the team, with no focus on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the introduction of a new developer to a project and does not discuss Test First Development principles, success criteria, or testing practices. While it mentions a tester, it lacks any substantial connection to the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:52:20",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly mentions a new team member joining a project, which could imply some level of collaboration. However, it lacks explicit discussions on self-organisation, decision-making, or value delivery. The focus is primarily on the individual joining the team rather than on social technologies or frameworks that promote collaboration and transparency. Overall, the content does not align well with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1384,10 +1234,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:43:43",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team member additions and project updates without focusing on Internal Developer Platforms or their related concepts.",
     "level": "Ignored"
   },
@@ -1402,26 +1252,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:34:22",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content briefly mentions a development team and a project, which could relate to Scrum, but it lacks explicit discussion of Scrum roles, events, or principles. The focus is more on individual contributions rather than Scrum practices or frameworks, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:26",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the addition of a developer to a project and expresses excitement about their testing background. However, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on team dynamics rather than integrating testing or security early in the development process, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the introduction of a new team member to a project, with little to no discussion on shared objectives or alignment with strategic goals. While it mentions the project and the addition of a developer, it lacks any exploration of how this aligns with broader organisational goals or Agile principles.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions the addition of a developer to a project, which implies a focus on enhancing team capability. However, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The depth of discussion is minimal, primarily revolving around the excitement of a new team member rather than a thorough exploration of competence as a principle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content briefly mentions the addition of a new team member to a project, which could imply a potential for improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for enhancing processes. The focus is primarily on the individual joining the team rather than on systematic improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the addition of a developer to a project and does not explicitly discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks depth and does not provide any insights into the interplay between human and AI capabilities or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

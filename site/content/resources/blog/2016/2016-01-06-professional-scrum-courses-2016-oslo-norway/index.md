@@ -9,7 +9,7 @@ ResourceImportId: 11426
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-06
-weight: 525
+weight: 480
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,12 +32,9 @@ aliasesArchive:
 - /blog/professional-scrum-courses-for-2016-in-oslo--norway
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
 tags:
-- Events and Presentations
 - Software Development
 - Professional Scrum
-- Software Developers
-- Products and Books
-- Practical Techniques and Tooling
+- Scrum Master
 categories:
 - Scrum
 preview: clip_image001-1-1.jpg

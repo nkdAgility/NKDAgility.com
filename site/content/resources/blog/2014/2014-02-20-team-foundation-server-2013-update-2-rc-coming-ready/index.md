@@ -9,7 +9,7 @@ ResourceImportId: 10381
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-20
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,8 +31,7 @@ aliasesArchive:
 - /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
-tags:
-- News and Reviews
+tags: []
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

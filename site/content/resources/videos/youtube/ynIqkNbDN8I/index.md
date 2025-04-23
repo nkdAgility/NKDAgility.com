@@ -2,7 +2,7 @@
 title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
 description: Unlock the potential of your product by understanding unrealised value. Discover how market insights and hypothesis-driven development can enhance your strategy!
 date: 2025-02-11T06:00:40Z
-weight: 775
+weight: 750
 ResourceId: ynIqkNbDN8I
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,20 +29,31 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Unrealised Value
 - Evidence Based Management
 - Agile Product Management
-- Business Agility
-- Deployment Frequency
-- Value Delivery
-- Ability to Innovate
 - Agile Strategy
+- Business Agility
 - Continuous Learning
-- Discovery and Learning
+- Decision Making
+- Deployment Frequency
 - Evidence Based Leadership
+- Experimentation
+- Frequent Releases
+- Hypothesis Driven Development
+- Market Adaptability
+- Metrics and Learning
+- Pragmatic Thinking
+- Product Discovery
+- Product Validation
+- Value Delivery
+- Lean Startup
+- MVP
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 
 ---
 In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is unrealised value. This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your product development strategy.

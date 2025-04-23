@@ -23,8 +23,7 @@ aliasesArchive:
 - /blog/silverlight-3
 - /silverlight-3
 - /resources/blog/silverlight-3
-tags:
-- Products and Books
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

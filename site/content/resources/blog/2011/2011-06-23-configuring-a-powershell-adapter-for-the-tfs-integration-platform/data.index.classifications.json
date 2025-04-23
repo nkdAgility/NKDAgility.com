@@ -8,70 +8,28 @@
     "reasoning": "The content primarily discusses the technical implementation of a PowerShell adapter for TFS Integration Platform, with no focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:29:51",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed exploration of configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to practical tooling in Agile and DevOps contexts. It discusses specific methodologies for integrating TFS with Perforce, including code snippets and configuration settings, demonstrating a clear application of practical techniques. The depth of discussion includes various operational modes, PowerShell script configurations, and the overall setup process, aligning well with the key topics of the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T06:32:30",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the configuration of a PowerShell adapter for the TFS Integration Platform, which relates to the automation and integration aspects of platform engineering. However, it primarily focuses on a specific implementation rather than broader principles of platform engineering or internal developer platforms. While there are mentions of developer productivity and automation, the depth of discussion does not fully align with the core themes of platform engineering, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:40:02",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, with no direct discussion or alignment with Evidence-Based Management principles. It lacks empirical evidence, metrics, or data-informed decision-making discussions, which are central to EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T06:32:42",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS, which involves technical implementation details rather than a discussion on code quality or complexity theory. While it touches on aspects of software integration and configuration, it lacks a deep exploration of the principles of code quality, best practices, or the impact of complexity on software architecture. The discussion is more practical and implementation-oriented, which does not align closely with the core themes of the 'Code and Complexity' category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T22:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical implementation of a PowerShell adapter for TFS Integration, lacking discussions on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:22:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the configuration of a PowerShell adapter for TFS Integration Platform, focusing on migration and integration processes rather than AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,31 +43,22 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:00:52",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 30,
-    "final_score": 81.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to installation and configuration processes. It includes step-by-step instructions, configuration file examples, and explanations of various settings, demonstrating a strong alignment with the key topics of the category. The depth of discussion is substantial, covering both theoretical and practical aspects of the configuration process, thus justifying a high confidence score.",
     "level": "Primary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:22:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of a PowerShell adapter for TFS Integration, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-15T22:23:00",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring a PowerShell adapter for TFS and does not discuss strategies or practices related to market adaptability.",
     "level": "Ignored"
   },
@@ -122,24 +71,15 @@
     "reasoning": "Content primarily focuses on technical implementation details of a PowerShell adapter for TFS Integration Platform, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:23:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation of a PowerShell adapter for TFS Integration Platform, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:39:46",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which is more about specific technical implementation rather than discussing DevOps principles or practices. While it touches on aspects of integration and automation, it lacks a broader discussion on collaboration, shared accountability, or cultural shifts that are central to the DevOps philosophy. The mention of TFS and PowerShell does not align with the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -154,20 +94,11 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-15T22:23:09",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of a PowerShell adapter for TFS Integration Platform, with no focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a PowerShell adapter for TFS, with no reference to events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -177,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of a PowerShell adapter for TFS and Perforce integration, with no clear focus on flow efficiency principles or practices.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T22:23:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses technical implementation details of a PowerShell adapter for TFS Integration Platform, with no significant focus on human behaviour, team dynamics, or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -208,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T22:23:19",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and implementation of a PowerShell adapter for TFS, focusing on technical details rather than metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -226,13 +148,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T15:00:05",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical implementation of a PowerShell adapter for the TFS Integration Platform, discussing specific coding practices and configurations. While it does touch on aspects of adaptability and integration, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The depth of technical detail is moderate, but it does not fully explore the key topics outlined in the 'Technical Excellence' category.",
     "level": "Secondary"
   },
@@ -256,10 +178,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:32:19",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses the technical implementation of a PowerShell adapter for TFS, focusing on integration and configuration rather than the broader methodologies and practices of product delivery.",
     "level": "Ignored"
   },
@@ -281,15 +203,6 @@
     "reasoning": "Content primarily discusses the configuration and implementation of a PowerShell adapter for TFS and Perforce integration, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:23:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of a PowerShell adapter for TFS Integration Platform, with no focus on reviews, analyses, or discussions of products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T22:23:33",
@@ -301,15 +214,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T06:32:37",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the TFS Integration Platform and its configuration with PowerShell, which is related to Azure DevOps but does not explicitly focus on Azure DevOps services or methodologies. While it mentions TFS, which is part of the Azure DevOps suite, the discussion lacks depth in terms of Azure DevOps functionalities and best practices, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -331,22 +244,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T22:23:39",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and implementation of a PowerShell adapter for TFS Integration Platform, which does not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:39:59",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which is related to technical implementation rather than discussions on the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes outlined in the APOM definition. The content lacks depth in discussing any relevant agile methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -359,24 +272,15 @@
     "reasoning": "Content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T22:23:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, lacking discussions on industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:32:25",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS, which is more about integration and tool usage rather than the comprehensive management of the application lifecycle. While it touches on aspects of deployment and integration, it lacks a thorough discussion of the stages of the application lifecycle, governance, or best practices in ALM.",
     "level": "Ignored"
   },
@@ -391,22 +295,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:42:09",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the configuration of a PowerShell adapter and integration between TFS and Perforce, which is unrelated to the Definition of Done concept.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:47:58",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical implementation of a PowerShell adapter for the TFS Integration Platform, discussing best practices in software design, adaptability, and the use of PowerShell for automation. It provides detailed code examples and configuration settings, aligning well with the principles of software craftsmanship and engineering practices. However, while it touches on technical excellence, it lacks a broader discussion on methodologies or principles that would elevate it further into the 'Technical Mastery' category.",
     "level": "Secondary"
   },
@@ -421,13 +325,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:40:06",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which is more about integration and migration of source code rather than Continuous Delivery practices. While it touches on aspects of automation and configuration, it lacks a direct discussion on Continuous Delivery principles, practices, or benefits. The depth of discussion is limited to technical implementation details without addressing the broader context of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -442,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and implementation of a PowerShell adapter for integrating TFS with Perforce, focusing on technical details, scripting, and setup rather than on measuring or optimizing Lead Time.",
     "level": "Ignored"
   },
@@ -460,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about configuring a PowerShell Adapter for TFS integration, with no clear discussion or focus on Definition of Ready principles or practices.",
     "level": "Ignored"
   },
@@ -505,31 +409,31 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical configuration of a PowerShell adapter for TFS integration, with no mention or discussion of customer feedback processes, collection, or integration.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T06:32:19",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the configuration of a PowerShell adapter for the TFS Integration Platform, which involves practical application of tools and techniques for integrating systems. However, while it touches on operational practices, such as the use of PowerShell for automation and configuration management, it lacks a focused discussion on broader operational efficiency strategies or methodologies like Agile, DevOps, or Lean. The depth of discussion is primarily technical and specific to the adapter rather than encompassing a wider operational framework.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of a tool for integrating systems and does not address Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -589,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical integration between TFS and Perforce using PowerShell, and does not discuss team performance, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -607,40 +511,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on configuring a PowerShell adapter for TFS Integration, without any mention of Acceptance Test Driven Development principles, acceptance criteria, or related themes.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T18:08:44",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on configuring a PowerShell adapter for the TFS Integration Platform, which is directly related to software development practices, particularly in the context of version control and integration. It covers specific coding practices, configuration settings, and the use of PowerShell scripts, aligning well with the core themes of software development methodologies and tools. The depth of technical detail, including code snippets and configuration examples, further supports its relevance to the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on configuring a PowerShell adapter for TFS Integration Platform and does not discuss Agile Project Management principles, methodologies, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of integrating TFS and PowerShell, without focusing on Agile values or principles.",
     "level": "Ignored"
   },
@@ -655,22 +550,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T15:07:27",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the configuration of a PowerShell adapter for the TFS Integration Platform, which is directly related to version control practices. It includes specific references to TFS, version control actions, and the integration of PowerShell scripts for managing version-controlled files. While it does not delve deeply into broader methodologies or strategies, it provides substantial detail on the practical implementation of version control tasks, thus aligning well with the category of Modern Source Control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring a PowerShell adapter for source code migration between TFS and Perforce, with no clear discussion of empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -703,10 +598,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details for a PowerShell adapter, with no focus on organisational change concepts such as agility, leadership, or change management frameworks.",
     "level": "Ignored"
   },
@@ -730,20 +625,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to configuring a PowerShell adapter for TFS, with no clear discussions on customer satisfaction principles, practices, or metrics.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses configuring a PowerShell adapter for the TFS Integration Platform, which is not related to scaling Scrum practices, frameworks, or discussions about multiple teams and agility in large organizations.",
+    "reasoning": "Content primarily focuses on technical implementation details related to configuring a PowerShell adapter for TFS, with no clear discussions on customer satisfaction principles, practices, or metrics.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -757,40 +643,31 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on technical details of configuring a PowerShell Adapter for TFS without discussing psychological safety or its impact on team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses configuring a PowerShell adapter for TFS integration, with a focus on technical implementation rather than scaling agile practices across an organization.",
+    "reasoning": "Content focuses on technical details of configuring a PowerShell Adapter for TFS without discussing psychological safety or its impact on team dynamics.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T06:32:19",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS, which involves technical implementation details rather than broader discussions on engineering excellence or best practices in software craftsmanship. While it touches on aspects of adaptability and configuration, it lacks a comprehensive exploration of coding standards, quality assurance, or continuous improvement processes that are central to the category of Engineering Excellence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical configuration and integration of TFS and PowerShell, with no mention of revenue per employee or financial metrics related to productivity.",
     "level": "Ignored"
   },
@@ -814,22 +691,22 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to configuring a PowerShell Adapter for TFS Integration, focusing on implementation rather than customer retention strategies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T12:03:04",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses practical problem-solving strategies for integrating TFS with Perforce using PowerShell, which aligns with pragmatic thinking. It highlights adaptability and real-world applications of DevOps principles, particularly in configuring the TFS Integration Platform. However, while it provides some depth in terms of configuration and execution, it lacks extensive case studies or evidence-based management practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -844,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical configurations for migrating source code between TFS and Perforce using PowerShell without a focus on innovation practices or measurement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of a PowerShell adapter for integrating TFS and Perforce, with no clear connection to Scrum principles or product development processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring a PowerShell adapter for TFS and does not address scaled Agile practices, frameworks, or enterprise-level transformations.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -889,10 +748,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring an adapter for data migration between Team Foundation Server (TFS) and another system, focusing on PowerShell scripting without a direct emphasis on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -907,15 +766,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:32:32",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the technical implementation of a PowerShell adapter for TFS, focusing on configuration and code examples. While it touches on aspects of software integration and functionality, it lacks a direct emphasis on delivering high-quality, functional software that meets user needs, which is central to the 'Working Software' category. The discussion is more about the mechanics of the integration process rather than the broader implications of working software in Agile or Scrum contexts.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -928,13 +787,13 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T06:32:35",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the configuration of a PowerShell adapter for the TFS Integration Platform, focusing on migrating source code between TFS and Perforce. While it touches on aspects of integration, it lacks a direct focus on Continuous Integration principles, practices, or tools. The discussion is more about the technical implementation of an adapter rather than the broader concepts of CI, such as automated testing, code quality, or team collaboration.",
     "level": "Ignored"
   },
@@ -1003,13 +862,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:32:39",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the configuration of a PowerShell adapter for the TFS Integration Platform, which involves aspects of software release processes, such as syncing code and managing change groups. However, it lacks a direct focus on broader release management strategies, such as version control, release scheduling, or risk management. The discussion is more technical and specific to integration rather than encompassing the full scope of release management practices.",
     "level": "Ignored"
   },
@@ -1024,10 +883,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a PowerShell Adapter for integrating TFS with Perforce, with no mention of Cycle Time or its implications in workflow management.",
     "level": "Ignored"
   },
@@ -1051,19 +910,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of configuring a PowerShell adapter for TFS Integration Platform, focusing on implementation details rather than strategies or practices related to change management.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T22:42:10",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical aspects of configuring an adapter for TFS and Perforce, and does not discuss teamwork, communication, or collaboration principles relevant to Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -1085,7 +944,7 @@
     "reasoning": "Content primarily discusses configuring an adapter for data migration between systems rather than strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:42:10",
     "ai_confidence": 0,
@@ -1094,26 +953,17 @@
     "reasoning": "The content primarily discusses configuring a PowerShell adapter for the TFS Integration Platform and does not focus on the development or utilization of a Minimum Viable Product in product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily focused on configuring a PowerShell adapter for TFS integration and does not discuss AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:37:56",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to system configuration. It discusses the setup process, configuration files, and the use of PowerShell scripts to manage data migration between systems. The depth of discussion includes specific code examples, configuration settings, and practical steps for installation and execution, aligning well with the key topics of system configuration. The content does not deviate into unrelated areas, maintaining a strong focus on the technical aspects of configuring systems.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1153,22 +1003,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:42:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on configuring a PowerShell adapter for TFS and discussions related to integration, with no reference to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, discussing technical implementation details without any reference to Test First Development principles, success criteria, or testing practices. It lacks any mention of TDD, ATDD, or the impact of testing on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T06:32:23",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the configuration and use of a PowerShell adapter for the TFS Integration Platform, which is relevant to Windows environments. It mentions installation and configuration aspects, particularly in relation to TFS, which operates on Windows. However, the focus is more on the integration process and PowerShell scripting rather than directly addressing Windows OS features or troubleshooting. While it does touch on aspects that could be relevant to Windows users, it lacks a comprehensive exploration of Windows-specific topics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1192,10 +1045,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T22:42:11",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details for configuring a PowerShell adapter for TFS integration, without focusing on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1219,15 +1072,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T06:32:27",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses configuring a PowerShell adapter for TFS, which involves some troubleshooting aspects, such as ensuring the correct setup and handling potential issues with the integration process. However, it primarily focuses on configuration and implementation rather than in-depth troubleshooting techniques or methodologies. While there are mentions of potential problems and solutions, the content does not provide a comprehensive exploration of troubleshooting strategies or systematic problem-solving approaches.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1240,11 +1093,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:42:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details and configuration for a TFS Integration Platform Adapter, with no reference to Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, with no direct mention of Scrum Master responsibilities, roles, or related concepts. It lacks any discussion on Scrum practices, team dynamics, or agile principles, which are essential for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1265,18 +1121,6 @@
     "reasoning": "Content primarily focuses on configuring a PowerShell adapter for TFS integration, with no discussions on working agreements, team norms, or collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T06:32:44",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which is a technical topic relevant to software developers. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it does provide some depth in terms of technical implementation, it does not align closely with the core themes of the Software Developers category, such as best practices in Agile or the impact of Agile on team dynamics. Therefore, the confidence score reflects a moderate relevance to the category.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T22:42:11",
@@ -1288,13 +1132,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T06:32:46",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS, which is more about integration and tool usage rather than core engineering practices like clean code, TDD, or CI/CD. While it touches on automation through PowerShell scripting, it lacks a detailed discussion on Agile methodologies or principles that underpin high-quality software engineering. The mention of PowerShell and configuration settings does not sufficiently align with the key topics of the Engineering Practices category.",
     "level": "Ignored"
   },
@@ -1397,15 +1241,6 @@
     "reasoning": "Content is primarily technical, discussing the configuration and implementation of a PowerShell adapter for TFS Integration Platform without any focus on accountability principles in Agile teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:42:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring a PowerShell adapter for TFS, discussing version control and integration with Perforce. It does not mention Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T22:42:11",
@@ -1417,22 +1252,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T22:42:11",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring a PowerShell adapter for the TFS Integration Platform, focusing on its functionalities and processes, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:40:04",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of configuring a PowerShell adapter for TFS Integration Platform, with no significant discussion on collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, and does not explore team dynamics or organisational culture.",
     "level": "Ignored"
   },
@@ -1447,10 +1282,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:28:43",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the TFS Integration Platform and its configuration, which relates to the concept of an Internal Developer Platform, but the primary focus is on specific integration tasks rather than a broader discussion of IDPs.",
     "level": "Tertiary"
   },
@@ -1465,62 +1300,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:48:11",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, discussing technical details related to TFS and PowerShell without any mention of Scrum principles, roles, events, or artifacts. There is minimal conceptual alignment with Scrum, as it does not address team dynamics, iterative processes, or continuous improvement, which are core to Scrum discussions.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:30:38",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it touches on integration processes, it lacks a clear connection to early testing, security, or compliance in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:39:50",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, detailing technical implementation rather than discussing Continuous Improvement principles. While there are mentions of adaptability and configuration, these do not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or data-driven decision-making.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:39:53",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, detailing technical implementation rather than discussing shared objectives or alignment within Agile or DevOps frameworks. While it touches on the need for integration and adaptability, it lacks a clear connection to the principles of Common Goals, such as strategic alignment or team ownership.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:39:57",
+    "calculated_at": "2025-04-10T15:55:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, detailing technical steps and code snippets. While it implies a level of competence in using PowerShell and TFS, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in exploring how competence affects team dynamics or quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS Integration Platform, discussing technical implementation details rather than the intentional shaping of outcomes or the principles of Agentic Agility. While there are elements of adaptability in the configuration process, the content lacks a clear connection to the core themes of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

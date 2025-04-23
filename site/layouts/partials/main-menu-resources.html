@@ -12,6 +12,7 @@
             <h5>{{- $resources.Title }}</h5>
             <p>{{- $resources.Description }}</p>
             <ul class="list-group">
+              <li class="list-group-item"><a href="/resources">Overview </a></li>
               {{- range $sortedPages }}
                 {{- $count :=  len (where .Pages "Draft" "!=" true) }}
                 {{- if gt $count 0 }}
@@ -71,6 +72,21 @@
               <hr />
             </div>
             <div class="m-1 small">
+              <h5>Concepts</h5>
+              <div class="columns-3">
+                {{ range $category, $pages := .Site.Taxonomies.concepts }}
+                  <div class="d-flex align-items-center">
+                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
+                      <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
+                    </span>
+                    {{- $count :=  len (where $pages "Draft" "!=" true) }}
+                    <span class="ms-1">({{ $count }})</span>
+                  </div>
+                {{ end }}
+              </div>
+              <hr />
+            </div>
+            <div class="m-1 small">
               <h5>Categories</h5>
               <div class="columns-3">
                 {{ range $category, $pages := .Site.Taxonomies.categories }}
@@ -106,14 +122,3 @@
     </div>
   </div>
 </li>
-<style>
-  .columns-2 {
-    column-count: 2;
-  }
-  .columns-3 {
-    column-count: 3;
-  }
-  .columns-4 {
-    column-count: 4;
-  }
-</style>

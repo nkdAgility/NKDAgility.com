@@ -30,20 +30,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Evidence Based Leadership
 - Decision Making
 - Evidence Based Management
-- Evidence Based Leadership
+- Current Value
 - Continuous Improvement
 - Ability to Innovate
-- Discovery and Learning
 - Pragmatic Thinking
 - Operational Practices
+- Metrics and Learning
 - Customer Satisfaction
 - Value Delivery
+- Decision Theory
+- Software Development
+- Empirical Process Control
+- Sensemaking
+- Revenue per Employee
 resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Product Management
 
 ---

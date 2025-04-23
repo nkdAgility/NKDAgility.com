@@ -1,13 +1,13 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:12:16",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with only brief mentions of team dynamics and communication. While it touches on aspects of collaboration and decision-making, it lacks a comprehensive exploration of social technologies as defined in the category. The discussion is more centred on individual roles and tools rather than the broader frameworks and methodologies that promote collaboration and collective intelligence within organisations.",
     "level": "Ignored"
   },
@@ -22,51 +22,51 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T19:48:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 26.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with only a brief mention of DevOps at the end. While it touches on some principles that could align with DevOps, such as customer-centricity and iterative processes, the main discussion does not delve into the core themes of DevOps, such as collaboration, automation, or shared accountability. Therefore, the confidence score reflects a low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:12:48",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of product management for entrepreneurs, particularly in understanding and delivering value, which aligns well with the strategic aspects of product management. It mentions the role of product owners and the need for effective communication and alignment within teams. However, while it touches on key themes, the depth of discussion on methodologies and frameworks is somewhat limited, focusing more on personal insights and experiences rather than established practices.",
     "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T14:21:00",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the role of entrepreneurs as leaders in their organisations, particularly in the context of product management and value delivery. It highlights the importance of setting a leadership tone and making strategic decisions that align with organisational goals. However, while it touches on leadership, the primary focus is more on product management and the challenges faced by startups rather than a comprehensive exploration of leadership practices. Therefore, the confidence score reflects a moderate alignment with the leadership category.",
     "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T00:08:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management and the need for entrepreneurs to adapt and iterate based on customer feedback, which aligns with the principles of business agility. However, the primary focus is on product management rather than explicitly on business agility itself, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -79,13 +79,13 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T00:09:37",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the Professional Scrum Product Owner (PSPO) course and its relevance to product management, which aligns with Scrum principles. However, the focus is more on product management in a startup context rather than a deep exploration of Scrum roles, events, or artifacts. While it mentions Scrum, it does not delve into the core themes of the Scrum framework or provide extensive detail on Scrum practices.",
     "level": "Secondary"
   },
@@ -100,33 +100,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T19:48:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management, which aligns with the Evidence-Based Management category. However, it primarily focuses on personal experiences and recommendations for entrepreneurs rather than empirical evidence or specific metrics related to EBM. While there are mentions of understanding customer needs and the importance of value, the discussion lacks depth in terms of data-informed decision-making and specific EBM metrics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on product management and the role of entrepreneurs, without discussing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and the responsibilities of entrepreneurs, with no focus on Kanban principles or scaling within organizations.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -139,15 +121,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T00:09:01",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of product management and mentions the Professional Scrum Product Owner (PSPO) course, which is related to Agile frameworks. However, the primary focus is on product management rather than a detailed exploration of Agile frameworks themselves. While there are references to Agile concepts, they are not the main subject of the content, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -160,10 +142,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of value in product management for entrepreneurs, not directly addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -174,15 +156,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product management and value in startups, with minimal connection to trend analysis in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on product management and individual entrepreneurial challenges rather than discussing scaling Agile practices across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -223,22 +196,22 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T00:08:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of product management and communication within teams, which are relevant to team performance. However, it primarily focuses on product management rather than directly addressing team dynamics, collaboration, or Agile methodologies. The mention of team communication and alignment is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of entrepreneurs and product management rather than collaboration tools or team dynamics.",
     "level": "Ignored"
   },
@@ -253,24 +226,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T00:09:05",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of product management and value delivery, which aligns with product delivery principles. It mentions methodologies like Scrum and emphasises iterative development and customer engagement, but lacks detailed exploration of deployment and testing practices.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses product management and entrepreneurial strategies, lacking a focus on AI integration in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -281,18 +245,6 @@
     "reasoning": "Content primarily discusses product management and the role of entrepreneurs rather than the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-13T15:42:35",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of product management and the role of communication and team dynamics in a startup environment. It highlights how entrepreneurs must engage with their teams and customers to understand value, which aligns with the core themes of collaboration and human factors in process improvement. The depth of discussion on leadership, vision communication, and the iterative nature of product management further supports its relevance to the 'People and Process' category.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-18T07:25:28",
@@ -301,18 +253,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on product management and entrepreneurship, with no mention of Test Driven Development or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T00:09:11",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 17.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content discusses the importance of product management and mentions the PSPO course, which is related to Scrum principles. However, it primarily focuses on the value in product management rather than explicitly addressing agile methodologies or project management frameworks. While there are references to agile concepts like iteration and customer-centricity, the overall discussion does not delve deeply into agile project management practices or frameworks, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -332,21 +272,12 @@
     "reasoning": "Content primarily discusses product management and leadership for entrepreneurs, lacking a clear focus on accountability as defined in Agile contexts.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on product management and its value to entrepreneurs, with no direct emphasis on transparency, accountability, or related Agile principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product management and the importance of value for entrepreneurs, with no clear focus on release management processes.",
     "level": "Ignored"
   },
@@ -370,57 +301,60 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T00:09:18",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with only brief mentions of agile concepts like the PSPO course. While it touches on leadership aspects, it lacks a deep exploration of technical leadership principles, servant leadership, or agile methodologies, which are central to the category.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product management and the roles of entrepreneurs, with only vague references to tools without a clear focus on Agile Planning Tools.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on product management for entrepreneurs, with only a loose mention of Agile and Scrum, but lacks central discussion on the Scrum Master role.",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on product management and the role of the product owner rather than the Scrum Master. While it briefly touches on agile principles and mentions Scrum, it does not delve into the specific responsibilities or impact of a Scrum Master. The discussion lacks depth regarding the Scrum Master's role in facilitating team effectiveness or promoting continuous improvement, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T00:08:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management and the role of the product owner, which aligns with Agile principles. However, it lacks a direct focus on Agile Planning methodologies and practices, making it more of a general discussion on product management rather than a deep dive into Agile Planning specifically.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T00:09:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management and customer-centricity, which aligns with Agile principles. However, it primarily focuses on product management and the PSPO course rather than explicitly addressing Agile values and principles. The mention of Agile is brief and secondary, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -433,11 +367,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and the importance of value for entrepreneurs, with no focus on Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention or discussion of Test First Development principles. While it touches on aspects of agile and product management, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of automated testing.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,13 +397,13 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-15T00:08:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with only brief mentions of team dynamics and communication. While it touches on aspects of leadership and vision, it lacks a comprehensive discussion on organisational culture as defined in the category. The depth of discussion is moderate, but it does not sufficiently explore how culture influences agility or transformation within teams.",
     "level": "Ignored"
   },
@@ -499,27 +436,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-15T00:08:58",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management and how it relates to startup success, which touches on innovation indirectly. However, it lacks a direct focus on the Ability to Innovate category, as it primarily centres on product management principles rather than explicitly measuring or enhancing innovation capabilities. While there are mentions of tools and techniques that could support innovation, the overall discussion does not delve deeply into frameworks or metrics for measuring A2I, nor does it emphasise Evidence-Based Management principles.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-15T00:08:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the role of product management and the importance of value in startups, which aligns with Agile principles. However, it lacks a direct focus on Agile transformation strategies, frameworks, or methodologies. While it mentions Agile and Scrum, these are not the primary focus of the discussion, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -548,68 +485,38 @@
     "reasoning": "Content primarily discusses product management and the importance of value in startups rather than directly addressing Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product management and the importance of focusing on value for startups, without a clear emphasis on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T00:08:43",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of value in product management and mentions tools relevant to product ownership, which aligns with practical techniques. However, it lacks a detailed exploration of specific Agile or DevOps tools and methodologies, making it more of a general discussion on product management rather than a focused examination of practical techniques and tooling.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on product management and entrepreneurial challenges rather than Value Stream Mapping.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-15T00:09:09",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses product management and the importance of value, which are relevant to the Product Backlog concept. However, it does not explicitly focus on the Product Backlog itself or its management. The mention of tools and techniques like user stories and prioritisation hints at backlog-related practices but lacks depth in discussing backlog refinement, roles, or specific strategies for maintaining a healthy backlog. Overall, while there are relevant themes, the primary focus is on broader product management rather than the Product Backlog specifically.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T00:09:21",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the author's personal experiences and reflections as an entrepreneur regarding product management and its importance in startups. It discusses individual insights on value, team dynamics, and the challenges faced in the startup environment, which aligns well with the Personal category. However, while it touches on personal anecdotes, the depth of discussion on Agile or Scrum practices is somewhat limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product management for entrepreneurs, with no focus on specific events or presentations.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -631,23 +538,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-15T00:08:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the role of a Product Owner and touches on team communication and value delivery, which are relevant to Scrum Teams. However, it primarily focuses on product management in a startup context rather than the dynamics and collaboration within a Scrum Team. The mention of the PSPO course indicates some alignment with Scrum principles, but the overall depth and focus on Scrum Team dynamics are limited.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product management and the role of product owners in startups, lacking a clear emphasis on scaling agility within an organisation.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -670,13 +568,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T19:48:41",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Continuous Delivery principles or practices. While it touches on iterative processes and customer feedback, these concepts are not specifically tied to Continuous Delivery, which emphasises automation and deployment practices. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
@@ -700,24 +598,24 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product management and the role of a product owner in startups, without discussing Change Management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T00:09:06",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of communication and shared vision within a team, which aligns with team collaboration principles. However, the primary focus is on product management and individual roles rather than explicit team dynamics or collaboration techniques. While there are mentions of engaging in conversations and fostering alignment, these are secondary to the overall theme of product management.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -728,7 +626,7 @@
     "reasoning": "Content primarily focuses on product management and entrepreneurial challenges, with no clear discussion or relevance to Daily Scrum practices or principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:25:28",
     "ai_confidence": 0,
@@ -746,18 +644,6 @@
     "reasoning": "Content heavily discusses product management and entrepreneurship, with no mention of Windows or related topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T00:08:43",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of understanding value in product management, which aligns with the themes of learning from failures and successes. However, it primarily focuses on the role of the product owner and does not delve deeply into methodologies or processes that foster innovation or continuous learning. The mention of tools in the product owner class hints at a learning aspect, but the overall discussion is more about project management than discovery and learning.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T07:25:28",
@@ -769,15 +655,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T19:48:38",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses product management and the importance of value, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the PSPO course and general product management rather than the specific frameworks and methodologies of APOM. The discussion lacks depth in terms of agile processes and governance, which are key aspects of the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -808,10 +694,10 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-15T00:08:43",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses the role of product management and leadership in small organizations, but primarily focuses on entrepreneurial challenges and product value rather than systems thinking or organizational dynamics.",
     "level": "Ignored"
   },
@@ -835,22 +721,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T00:09:35",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of understanding value in product management, which is a component of decision-making. However, it primarily focuses on personal experiences and recommendations rather than structured, evidence-based methodologies. While it touches on aspects like engaging in conversations and documenting insights, it lacks a detailed exploration of decision-making frameworks or empirical evidence, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses product management and the role of entrepreneurs, with a focus on value rather than metrics, data analysis, or continuous learning processes.",
     "level": "Ignored"
   },
@@ -865,10 +751,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product management and the importance of value for entrepreneurs, but does not specifically address Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -881,38 +767,29 @@
     "reasoning": "Content primarily discusses product management and entrepreneurship rather than the mentoring process or related themes.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on product management and entrepreneurial success but does not discuss AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-15T00:09:24",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of understanding value in product management, which is tangentially related to sensemaking in terms of making informed decisions. However, it primarily focuses on product management techniques and the entrepreneurial journey rather than explicitly addressing sensemaking principles or frameworks. The discussion lacks depth in exploring complex environments or decision-making processes, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T00:09:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 62.0,
     "ai_mentions": 3,
     "ai_alignment": 70.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 30,
-    "final_score": 59.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of value in product management, which aligns with strategic principles in Agile environments. It mentions the PSPO course, which is relevant to Scrum and Agile practices, and highlights the need for strategic alignment and communication of vision within teams. However, the focus is more on product management and entrepreneurship rather than a direct discussion of strategy within Agile, Scrum, or DevOps frameworks, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -925,15 +802,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-11T10:14:08",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of value in product management, which aligns with Agile principles, particularly customer collaboration and value delivery. However, it primarily focuses on the role of the product owner and does not delve deeply into the broader Agile philosophy or its foundational principles. The mention of Agile and Scrum at the end is brief and does not contribute significantly to the overall discussion of Agile as a mindset.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -946,13 +823,13 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-15T00:08:56",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with only brief mentions of team communication and engagement. While it touches on aspects of coaching, such as supporting team understanding and fostering conversations, it lacks a deep exploration of coaching techniques or the role of a coach. The emphasis is more on product management strategies than on coaching practices.",
     "level": "Ignored"
   },
@@ -985,10 +862,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on product management and the role of entrepreneurs, not on portfolio management or strategic alignment of projects.",
     "level": "Ignored"
   },
@@ -1003,13 +880,13 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-15T00:08:48",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 76.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 26.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
+    "final_score": 76.0,
     "reasoning": "The content discusses the importance of product management and value delivery, referencing the PSPO course, which aligns with Agile principles. However, while it touches on Agile concepts, it lacks a deep focus on specific Agile practices or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1024,48 +901,27 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-15T00:08:46",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management, which is a related concept to Value Stream Management. However, it primarily focuses on product management practices and the role of the PSPO course rather than directly addressing Value Stream Management principles, techniques, or metrics. The discussion lacks depth in terms of specific Value Stream Management practices and does not provide a comprehensive analysis of value streams.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of product management and the importance of value in startups, rather than focusing on scaling Scrum or related frameworks.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T00:08:53",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of product management and value in startups, touching on team dynamics and communication. However, it primarily focuses on individual roles and tools rather than the broader sociotechnical interactions within organisations. While there are mentions of team alignment and communication, the depth of discussion on sociotechnical systems is limited, leading to a moderate confidence score.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T00:09:26",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 80.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the importance of product management in startups, specifically recommending the Professional Scrum Product Owner (PSPO) course. It discusses key concepts related to value in product management, which aligns well with the category's emphasis on tools and methodologies relevant to Agile practices. The depth of discussion is significant, providing insights into practical applications and the importance of customer-centricity, which enhances its relevance to the category.",
-    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1087,23 +943,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T00:09:16",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of product management and value in the context of startups, which aligns with pragmatic thinking. It mentions practical strategies like engaging in conversations about value and iterating based on feedback, which are relevant to Agile and Scrum. However, the focus is more on product management rather than explicitly on Agile or Scrum methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:07:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses entrepreneurship and product management without focusing on Lead Time or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Lead Time or its measurement. While it discusses aspects of product management that could indirectly relate to efficiency and customer needs, it does not align with the core themes of Lead Time as an observability metric. The discussion lacks depth regarding Lead Time, making it clear that this category is not a primary focus of the content.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1117,15 +976,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T00:09:03",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of value in product management and touches on Agile principles, particularly through the lens of the PSPO course. However, it primarily focuses on the entrepreneurial perspective and the role of product management rather than directly addressing the characteristics or delivery of working software. While there are mentions of customer needs and iterative processes, the depth of discussion on working software itself is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1156,34 +1015,34 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-15T00:09:13",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of value in product management, which aligns with customer-centric approaches and vision formulation. It mentions tools and techniques for articulating value, indicating a focus on product strategy. However, it also includes references to Scrum and Agile practices, which, while relevant, detract from a purely strategic discussion. Overall, the content provides a solid exploration of product management principles but is somewhat diluted by its emphasis on specific methodologies.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T00:08:50",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses product management and its importance in startups, with a focus on the PSPO course, which is related to Agile methodologies. However, the primary focus is on entrepreneurship and value delivery rather than software development practices. While it touches on Agile concepts and tools, it lacks in-depth discussion of software engineering methodologies or practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product management and the roles of entrepreneurs, lacking a focus on evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -1207,13 +1066,13 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-07T13:58:40",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses the importance of value in product management for entrepreneurs, which aligns with the entrepreneurial mindset and the significance of value creation. However, it primarily focuses on product management practices rather than broader entrepreneurial principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1224,15 +1083,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an entrepreneur in product management and the importance of value in startups, rather than focusing on cross-functional teams.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and the role of an entrepreneur rather than focusing on software developers within Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1255,33 +1105,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:25:28",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses entrepreneurship and product management, with a focus on value and leadership roles, rather than installation and configuration of tools.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-15T00:09:33",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the role of product management and the importance of value, which aligns with the responsibilities of a Product Owner. It mentions the PSPO course, indicating a focus on skills relevant to the Product Owner role. However, the discussion is more general about product management and entrepreneurship rather than specifically detailing the Product Owner's responsibilities, techniques, or challenges, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the importance of product management for entrepreneurs, discussing roles and practices without significant emphasis on current news, reviews, or industry updates related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1303,10 +1144,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:25:29",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses product management and startup success without a direct focus on application lifecycle management principles or stages.",
     "level": "Ignored"
   },
@@ -1321,22 +1162,22 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:25:29",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of entrepreneurs as product owners and touches on leadership within a startup context, emphasizing the importance of setting the tone for leadership and understanding value in an Agile environment. However, the primary focus is on product management rather than on Agile leadership principles per se.",
     "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-15T00:09:55",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of communication and vision in a team context, which aligns with team motivation principles. However, it primarily focuses on product management and entrepreneurial success rather than directly addressing team dynamics or motivation strategies. The mentions of team engagement and clarity of vision are relevant but not the primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1351,41 +1192,47 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T07:25:29",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of understanding customer value and the role of entrepreneurs in product management, which relates to validating product ideas but does not focus specifically on methodologies or practices for product validation.",
     "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:25:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:07:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and the importance of value for entrepreneurs, with no clear focus on throughput or its measurement and optimization.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in entrepreneurship, with no direct mention of throughput as a delivery metric. While it discusses aspects of product management that could indirectly relate to throughput, such as understanding customer needs and iterating based on feedback, it does not analyse or visualise throughput, nor does it provide any metrics or discussions that align with the core themes of throughput as defined. Therefore, the confidence score is low, reflecting minimal relevance to the category.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T00:09:49",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content explicitly discusses the importance of value in product management, particularly in the context of startups. It highlights the need for entrepreneurs to understand customer value, engage in conversations about it, and utilise tools to measure and articulate value. The discussion aligns well with key topics in the Value Delivery category, such as iterative development and customer feedback. However, while it provides substantial insights, it does not delve deeply into methodologies like CI/CD or value stream mapping, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T07:25:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:07:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management, entrepreneurship, and the importance of value in startups, with no focus on system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mentions of system configuration or related topics. While there are brief mentions of tools and techniques, they are not specifically related to system configuration practices or methodologies. The overall discussion is centred around entrepreneurship and product management rather than the setup, integration, or maintenance of systems.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1399,26 +1246,14 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-15T00:09:52",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of understanding customer value and engaging in conversations about customer needs, which aligns with the core themes of product discovery. However, it primarily focuses on the role of product management and the PSPO course rather than specific methodologies or practices for product discovery. While it touches on relevant topics, the depth of discussion on product discovery techniques is limited.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T00:09:46",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of product management and the PSPO course, which relates to Scrum principles. However, it lacks explicit references to Scrum roles, events, or detailed practices, making it more of a general discussion on product management rather than a focused exploration of Scrum Product Development.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -1432,24 +1267,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:25:29",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about product management and the role of an entrepreneur, with no clear discussion on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T00:09:41",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of value in product management, which aligns with Agile principles of customer-centricity and continuous value delivery. However, it primarily focuses on product management rather than a broader Agile strategy, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1462,27 +1297,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-15T00:09:44",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management and how it relates to startup success, but it does not explicitly focus on long-term strategic goals or business agility. While there are mentions of vision and alignment, these are more operational in nature rather than strategic. The depth of discussion on strategic goals is limited, focusing instead on immediate product management practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T00:09:39",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of product management and value in startups, which indirectly relates to organisational agility through the emphasis on customer-centricity and adaptability. However, it lacks a direct focus on agile methodologies, leadership roles in fostering agility, or specific strategies for enhancing organisational responsiveness. The mention of iterating and adapting aligns with agile principles, but the overall depth and explicit discussion of organisational agility are limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1495,10 +1330,10 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-18T07:25:29",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses product management and value but does not focus on Lean Startup principles, MVPs, or the Build-Measure-Learn loop.",
     "level": "Ignored"
   },
@@ -1522,63 +1357,63 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:23:59",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 25,
     "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework. It highlights the importance of value in product management, aligning with Agile principles. However, the discussion is more focused on entrepreneurship and product management rather than a comprehensive exploration of Scrum practices, roles, and events. The mention of Scrum is brief and secondary to the overall theme of product management for entrepreneurs.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:03:51",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of the Shift-Left Strategy. While there are elements of early engagement and iterative processes that could conceptually align with Shift-Left principles, the discussion lacks depth and specificity regarding testing, security, or compliance integration in the software development lifecycle.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T19:48:25",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of value in product management and encourages iterative processes, which aligns with Continuous Improvement principles. However, it primarily focuses on product management and startup success rather than explicitly addressing Continuous Improvement as a primary theme. The mention of iterating and adapting based on feedback is relevant but not deeply explored, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T19:48:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the importance of value in product management and the need for clear communication of vision, which can relate to common goals. However, it primarily focuses on personal experiences and the PSPO course rather than explicitly addressing common goals within Agile or DevOps frameworks. The discussion lacks depth in connecting these concepts to strategic alignment or organisational performance.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T19:48:33",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 42.0,
     "ai_mentions": 2,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of mastering product management and understanding value, which are related to competence in terms of skill development and professionalism. However, it primarily focuses on product management rather than directly addressing competence as a foundational principle. The discussion on tools and techniques from the PSPO course hints at skill development, but the overall emphasis is more on value delivery than on continuous learning or fostering a culture of competence.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1591,5 +1426,173 @@
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of the One Engineering System (1ES) framework or its principles. While it discusses tools and techniques relevant to product management, it does not align with the core themes of 1ES, such as integration of processes across teams or standardisation in software development. The depth of discussion is also minimal regarding the specific aspects of 1ES, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of value in product management and the role of entrepreneurs in shaping outcomes, but it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The focus is more on general product management principles rather than the intentional shaping of outcomes through autonomy and adaptability.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:06:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the importance of product management in startups, emphasising value delivery and customer needs, which aligns well with the principles of Agile product development. It discusses the significance of understanding value, engaging in customer conversations, and iterating based on feedback, all of which are core themes in product development. The mention of the PSPO course indicates a direct connection to methodologies that facilitate product development. However, while the content is rich in insights, it lacks a deeper exploration of specific methodologies or practices, which slightly lowers the depth score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:06:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Open Space Agile principles or practices. While it touches on themes of communication and iteration, which are relevant to Agile, it does not align with the core concepts of Open Space Agile, such as collective participation or psychological safety. The discussion lacks depth regarding Open Space Agile methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:06:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on product management and the PSPO course, with a strong emphasis on value delivery. While it touches on agile principles, it does not explicitly discuss Agnostic Agile or its core themes. The mention of agile and scrum is brief and secondary to the main topic of product management, leading to a low confidence score in alignment with the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:06:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no explicit discussion on scaling methodologies or frameworks. While it touches on aspects of team communication and alignment, these are not explored in the context of scaling Agile practices or cross-team collaboration, which are central to the 'Scaling' category. The depth of discussion is limited to personal insights and recommendations for entrepreneurs, lacking the necessary detail on scaling strategies or challenges.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:06:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Cell Structure Design or its principles. While there are themes of organisational growth and team dynamics, they do not align with the core concepts of decentralised structures or autonomous cells as outlined in the Cell Structure Design category. The discussion lacks depth regarding the specific characteristics or challenges of implementing a Cell Structure Design model.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:06:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Liberating Structures or their techniques. While it discusses communication and team dynamics, it does not align with the core themes of Liberating Structures, which are facilitation techniques aimed at enhancing participation and collaboration. The depth of discussion is also limited to product management principles rather than exploring any specific Liberating Structures methods or their applications.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:06:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of value in product management and the role of the PSPO course, but it does not explicitly mention Time to Market or related metrics. While it touches on concepts that could indirectly relate to Time to Market, such as understanding customer needs and iterating on products, the primary focus is on value delivery rather than the speed of delivering products to market. The depth of discussion on Time to Market is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:07:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on product management within startups, discussing the importance of value and customer needs. While it touches on aspects of organisational strategy, such as communication and alignment, it does not explicitly frame the company itself as a product or delve into the broader implications of CaaP. The discussion is more about individual roles and product management techniques rather than a comprehensive exploration of the company as a dynamic product. Therefore, while there are relevant elements, they do not constitute a primary focus on the CaaP concept.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:07:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of GitHub or its functionalities. While it touches on Agile and Scrum principles, these are not specifically tied to GitHub, which is the required focus for this category. The discussion lacks depth regarding GitHub services, tools, or best practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:07:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of value in product management, which is tangentially related to the concept of Unrealised Value. However, it primarily focuses on practical advice for entrepreneurs rather than exploring untapped opportunities or potential improvements in a structured manner. While there are mentions of understanding customer needs and the importance of value, the discussion lacks depth in terms of identifying specific indicators or strategies for measuring Unrealised Value. Overall, the content does not align closely with the core themes of the category.",
+    "level": "Tertiary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:07:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of value in product management, particularly in the context of startups. It mentions the significance of understanding customer needs and engaging in conversations about value, which aligns with the concept of Current Value. However, while it touches on relevant themes, it lacks specific metrics or indicators used to measure Current Value, and the depth of discussion on practical techniques for gathering and analysing Current Value data is limited. Overall, the content is relevant but does not fully meet the criteria for a primary focus on Current Value.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:07:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Hybrid Agile concepts. While it touches on agile principles, it does not critically examine the integration of traditional and agile methodologies, nor does it address the challenges associated with Hybrid Agile. The discussion lacks depth in relation to the specific themes outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:07:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 22,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on product management, which is a subset of project management, but does not explicitly discuss broader project management principles or methodologies. While it touches on communication and tools relevant to project management, the emphasis is on product value and customer needs rather than the full scope of project management practices. The discussion lacks depth in core project management topics such as lifecycle phases, risk management, and governance structures, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

@@ -26,12 +26,10 @@ preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
 isShort: false
 tags:
-- Events and Presentations
 - Pragmatic Thinking
 - Agile Transformation
-- Business Agility
-- People and Process
 - Continuous Improvement
+- Business Agility
 - Agile Philosophy
 - Organisational Agility
 sitemap:

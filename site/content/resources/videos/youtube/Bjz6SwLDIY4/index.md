@@ -32,14 +32,12 @@ sitemap:
 tags:
 - Business Agility
 - Organisational Agility
-- Resilience and Change
 - Pragmatic Thinking
-- People and Process
-- Discovery and Learning
+- Agile Philosophy
 - Enterprise Agility
 - Organisational Change
+- Entrepreneurship
 - Market Adaptability
-- Agile Philosophy
 resourceTypes:
 - video
 categories: []

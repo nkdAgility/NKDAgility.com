@@ -33,19 +33,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Practical Techniques and Tooling
 - Operational Practices
 - Continuous Improvement
 - Cycle Time
-- Agile Project Management
-- Metrics and Learning
-- People and Process
 - Lean Thinking
 - Agile Frameworks
 - Software Development
+- Metrics and Learning
 resourceTypes:
 - video
 categories:
+- Product Development
 - Kanban
 
 ---

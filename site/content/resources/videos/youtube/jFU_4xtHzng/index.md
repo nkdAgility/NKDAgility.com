@@ -30,14 +30,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
 - Continuous Learning
 - Continuous Improvement
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

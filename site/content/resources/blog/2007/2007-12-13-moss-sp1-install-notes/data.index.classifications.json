@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:26:17",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1 and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,15 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:18:01",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 82.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 76.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a clear focus on the installation process of the 2007 Microsoft Office Servers Service Pack 1, including specific file names and prerequisites. It directly mentions installation steps and links to relevant resources, which aligns well with the category's emphasis on actionable instructions. However, while it covers installation details, it lacks extensive depth in troubleshooting or configuration best practices, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -83,15 +83,6 @@
     "reasoning": "Content primarily discusses the installation process for Microsoft Office Servers Service Pack 1, which is technical and specific to software deployment, lacking a direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:26:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation notes for a software update, with no discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:26:25",
@@ -99,18 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:37:10",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content provides a practical guide on installing a specific software update for SharePoint, which aligns with the category's focus on practical techniques and tooling. However, it lacks a broader discussion on methodologies or frameworks that enhance Agile and DevOps practices, and it does not delve into best practices or case studies. The primary focus is on installation steps rather than a comprehensive exploration of tooling in an Agile or DevOps context.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -124,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:26:34",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation notes for Microsoft Office Servers Service Pack 1, with no discussion on metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -160,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:26:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1 and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:26:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:26:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation notes and technical details regarding SharePoint updates, lacking a central theme of news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on installation notes for MOSS SP1 and does not mention or align with any principles of the Agile Product Operating Model. It is primarily technical documentation related to software installation, lacking any discussion of agile methodologies or product management.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -210,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1 and SharePoint, with no clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:26:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1, with no relevance to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:26:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation notes for SharePoint and does not address code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:26:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:27:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -313,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:27:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on installation notes for Microsoft Office Servers Service Pack 1 and does not discuss DevOps principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1 and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the category. The content is more aligned with software installation rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -327,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation notes for SharePoint and does not discuss engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:27:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation instructions and technical details related to SharePoint updates, with no discussion on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:27:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation notes and technical details related to SharePoint updates, with no emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:27:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation notes for a software update, lacking focus on reviews or analyses of products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -376,22 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T15:14:26",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 78.0,
     "ai_mentions": 70.0,
     "ai_alignment": 80.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the installation process of the 2007 Microsoft Office Servers Service Pack 1, which directly relates to system configuration. It discusses prerequisites and provides specific installation instructions, aligning well with the core themes of best practices for software installation and configuration. The depth of discussion includes links to relevant resources and mentions the need for prior installations, indicating a thorough approach to the topic. Overall, the content is highly relevant to system configuration, though it could benefit from more detailed troubleshooting or optimisation strategies.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:52:16",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation notes for SharePoint Service Pack 1, lacking any focus on innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation notes and requirements for Microsoft Office Servers Service Pack, with no relevance to portfolio management practices or topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers and SharePoint, with no relevance to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:52:16",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on installation notes for Microsoft Office Servers Service Pack, with no relevant discussions on Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:52:16",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation notes for SharePoint and related updates, with no relevance to the Definition of Done concept.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation instructions for SharePoint updates without any reference to Agile practices or scaling Agile methodologies.",
+    "reasoning": "Content primarily discusses installation notes for SharePoint and related updates, with no relevance to the Definition of Done concept.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +473,6 @@
     "reasoning": "Content focuses on installation notes for Microsoft Office Servers Service Pack 1, not discussing collaboration tools or their use in Agile contexts.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses instructions and resources for installing a software update, which does not directly relate to the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T19:52:16",
@@ -620,7 +509,7 @@
     "reasoning": "Content primarily focuses on installation instructions for SharePoint and does not discuss estimation in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:52:16",
     "ai_confidence": 0,
@@ -694,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installing a specific software update for SharePoint and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1 and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks any alignment with the core themes of the category. It is mainly a technical guide for software installation, which is unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses installation notes for Microsoft Office Servers Service Pack 1 and does not reference hypothesis formulation, experimentation, or any principles of hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about installing Microsoft Office Servers Service Pack 1 and does not discuss AI or related methodologies.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:52:16",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about installation notes and prerequisites for Microsoft Office Servers Service Pack 1, not related to Definition of Ready criteria.",
     "level": "Ignored"
   },
@@ -971,15 +854,6 @@
     "reasoning": "Content primarily discusses the installation notes for Microsoft Office Servers Service Pack 1 and does not relate to remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Microsoft Office Servers Service Pack installation and related updates, with no discussion of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:52:16",
@@ -987,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation instructions for software and does not discuss customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installation notes for SharePoint, unrelated to Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,13 +955,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:48:49",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the installation of the 2007 Microsoft Office Servers Service Pack 1, which is directly related to the Windows operating system as it requires Windows SharePoint Services. There are explicit mentions of Windows and its components, indicating a strong relevance to the category. The discussion includes installation procedures and prerequisites, aligning well with the core themes of the Windows category. However, while the content is detailed, it does not delve deeply into broader Windows topics such as troubleshooting or performance optimisation, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -1111,13 +976,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:37:10",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content provides some context about installing a service pack for SharePoint, which could imply troubleshooting if issues arise during installation. However, it lacks explicit discussions on diagnosing or resolving specific technical issues, and the focus is more on installation steps rather than troubleshooting methodologies or techniques.",
     "level": "Ignored"
   },
@@ -1141,13 +1006,13 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T07:37:10",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions the installation of a service pack for SharePoint, which relates to deployment in a very general sense. However, it lacks a detailed discussion on specific deployment strategies or methodologies. The focus is more on installation steps rather than strategic approaches to deployment, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1243,13 +1108,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:37:10",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the installation of a specific service pack for Microsoft Office Servers, which relates to software releases. However, it lacks a comprehensive discussion on release management strategies, planning, or coordination between teams. The focus is primarily on installation instructions rather than the broader context of release management.",
     "level": "Ignored"
   },
@@ -1278,15 +1143,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on installation notes for Microsoft Office Servers Service Pack 1, with no discussion on asynchronous development principles, practices, or relevant themes.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses installation notes for Microsoft Office Server Service Pack 1 and is unrelated to Scrum principles or scaling practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1325,22 +1181,16 @@
     "reasoning": "Content discusses installation notes for Microsoft Office and SharePoint, with no relevance to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the installation notes for Microsoft Office Servers Service Pack 1 and does not pertain to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Microsoft Office Servers and related details, with no relevant discussion on Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on installation notes for MOSS SP1 and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1363,22 +1213,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:52:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installation notes for SharePoint and does not discuss Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1 and does not mention or discuss any principles related to Test First Development. There are no references to success criteria, testing practices, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:53:48",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on installation notes for MOSS SP1, which is a technical topic related to software deployment. There are no direct mentions of social technologies, collaboration, or decision-making frameworks. The content lacks alignment with the core themes of social technologies, as it does not discuss team dynamics, transparency, or value delivery. Additionally, the depth of discussion is minimal, as it only provides basic installation instructions without exploring any underlying social frameworks.",
     "level": "Ignored"
   },
@@ -1411,26 +1264,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:15:59",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on installation notes for Microsoft Office Servers Service Pack 1 and does not mention Scrum or its principles, roles, events, or practices. There is no discussion of Agile principles or team dynamics, which are central to the Scrum framework. The content is unrelated to Scrum, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:44:19",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on installation notes for Microsoft Office Servers Service Pack 1 and does not discuss any aspects of the Shift-Left Strategy, such as early integration of testing, security, or compliance in software development. There are no direct mentions or relevant themes related to the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1 and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1 and does not discuss competence in any meaningful way. While it mentions prerequisites, it lacks a discussion on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The content is more technical and procedural rather than reflective of the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1, providing practical information about prerequisites and download links. There is no explicit discussion of Continuous Improvement principles, nor does it align with the core themes of the category. The content lacks depth in relation to Continuous Improvement, making it irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on installation notes for MOSS SP1 and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category. The content is technical and procedural, lacking any alignment with the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

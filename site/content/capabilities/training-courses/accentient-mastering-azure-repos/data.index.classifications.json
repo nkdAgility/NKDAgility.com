@@ -1,34 +1,34 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-21T11:23:42",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 52.0,
     "ai_mentions": 60.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 47.0,
+    "final_score": 52.0,
     "reasoning": "The content mentions collaboration and teamwork, which are relevant to social technologies, but it primarily focuses on technical tools and processes within Azure DevOps. While it touches on aspects of collaboration, it lacks a deeper exploration of the underlying social frameworks and methodologies that promote self-organisation and collective intelligence. Therefore, while there is some alignment, it does not fully meet the criteria for a strong focus on social technologies.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:03:40",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on using Azure Repos to enhance collaboration and code quality, which aligns with best practices in software craftsmanship and development processes.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:23:46",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 61.0,
+    "final_score": 62.0,
     "reasoning": "The content mentions Azure DevOps Services and Azure Repos, which are tools that facilitate collaboration and code quality, aligning with the DevOps philosophy. However, the discussion is primarily focused on the tools themselves rather than the broader principles and cultural shifts of DevOps. The content lacks depth in exploring key DevOps concepts such as shared accountability, automation, or continuous improvement, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -70,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Azure Repos and related tools for software development and version control, with no focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
@@ -88,40 +88,22 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T15:03:43",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Azure DevOps Services and tools for software development, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions delivering value, it lacks a clear connection to empirical decision-making or the specific key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure Repos and version control which relates to code quality and best practices, but the focus is more on tools and training rather than the deeper complexities of code and software development processes.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Azure Repos and Git version control training, with no discussion of Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Azure Repos and Git version control without any focus on hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -145,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -159,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a training course for Azure Repos and does not discuss trend analysis in Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Azure Repos and Git version control for developers, with no mention of scaling Agile practices or any related topics.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -181,10 +154,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on mastering Azure Repos, which is integral to software development practices, collaboration, and code quality encompassing principles of software craftsmanship.",
     "level": "Secondary"
   },
@@ -199,28 +172,28 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos, a component of Azure DevOps, rather than on Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content is primarily focused on Azure Repos and Git concepts, but it mentions that students will work in teams on a common project, which relates to team collaboration. However, the main focus is not on team performance strategies or methodologies.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Azure Repos, which is a collaboration tool that enhances communication and code quality among development teams. However, the primary focus is on training and features specific to version control rather than broader collaboration techniques in Agile environments.",
     "level": "Tertiary"
   },
@@ -235,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Azure DevOps and Azure Repos which are relevant tools for software development and delivery; however, the primary focus is on Git version control rather than the broader methodologies and practices of product delivery.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Azure Repos and related tools for software development, with no focus on the application of AI in Agile or DevOps practices.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -260,31 +224,13 @@
     "reasoning": "Content primarily focuses on Azure Repos and related development tools rather than on strategic digital transformation initiatives or the integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Azure Repos as a tool for version control and related technical concepts without a clear emphasis on human behavior, team dynamics, or process methodologies.",
-    "level": "Ignored"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T00:46:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Azure Repos and version control practices, with no mention of Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on Azure Repos and Git version control, which are tools and practices for software development rather than discussions on Agile Project Management principles, frameworks, or methodologies.",
+    "reasoning": "Content focuses on Azure Repos and version control practices, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -305,21 +251,12 @@
     "reasoning": "Content primarily focuses on Azure Repos and Git concepts, with no clear discussion on accountability within teams or Agile methodologies.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Azure Repos and Git concepts, with no direct discussion on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content includes discussions about version control using Azure Repos, which relates to release management practices, but it primarily focuses on the use of Azure Repos and Git without extensive coverage of release planning or processes.",
     "level": "Tertiary"
   },
@@ -352,20 +289,23 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and Git version control rather than Agile Planning Tools.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about Azure Repos and DevOps tools for software development, with no clear discussion on Scrum Master roles or responsibilities.",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Services and tools for software development, with no explicit mention of the Scrum Master role or its responsibilities. While it discusses teamwork and collaboration, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is minimal, lacking any detailed exploration of Scrum practices or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -379,10 +319,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure Repos and DevOps tools rather than Agile Values and Principles.",
     "level": "Ignored"
   },
@@ -397,11 +337,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on Azure Repos and Git version control, with no mention of Test First Development principles or practices.",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Services and collaboration tools, with no explicit mention of Test First Development principles or practices. While it touches on testing in a general sense, it lacks depth and alignment with the core themes of Test First Development, such as defining success criteria or discussing TDD and ATDD.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,10 +403,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training for Azure Repos and software development practices without discussing innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -478,10 +421,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the use of Azure Repos to enhance collaboration and code quality, which aligns with engineering practices, but it primarily focuses on Azure DevOps rather than the core principles of Agile engineering practices.",
     "level": "Tertiary"
   },
@@ -496,37 +439,19 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure DevOps and Git version control, which are technical implementations unrelated to Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Azure Repos and software development practices, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques related to Azure Repos and Git, focusing on hands-on learning and application of DevOps tools for version control, which aligns well with the category.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on Azure DevOps and Git version control methodologies, with no mention of Value Stream Mapping or its principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
@@ -548,21 +473,12 @@
     "reasoning": "Content primarily focuses on a training course for Azure Repos and does not include personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a training course on Azure Repos, without reference to specific events, presentations, or the community learning aspects outlined in the category.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and Git concepts without discussing working agreements or teamwork principles.",
     "level": "Ignored"
   },
@@ -577,20 +493,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on Azure Repos and Git version control, without discussing Scrum roles, practices, or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Azure Repos and version control practices, with no discussion on scaling agile principles or methodologies.",
+    "reasoning": "The content primarily focuses on Azure Repos and Git version control, without discussing Scrum roles, practices, or team dynamics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -613,13 +520,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T15:03:41",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions tools for delivering software efficiently and enhancing collaboration, which are tangentially related to Continuous Delivery. However, it lacks explicit discussions on Continuous Delivery principles, automation, or detailed strategies for incremental improvements. The focus is more on Azure DevOps Services rather than the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -634,10 +541,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training for Azure Repos and tools for software development, without discussing remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -652,48 +559,39 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses collaboration features of Azure Repos and mentions students working in teams, indicating a significant but secondary theme of collaboration within the context of learning version control systems.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about Azure Repos and its integration with Azure DevOps, with no mention of Daily Scrum or related Scrum events.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure Repos and software development tools, with no mention of Minimum Viable Products, market validation, or Agile principles.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and Git version control, which do not align with discussions specifically about the Windows operating system.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses learning experiences and collaboration in software development but primarily focuses on Azure Repos and its functionalities, rather than exploring processes or methodologies for innovation and continuous learning.",
-    "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -706,13 +604,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:24:00",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions tools for planning and delivering software, which aligns with agile principles, but it lacks a direct focus on the Agile Product Operating Model. The discussion is primarily centred around Azure DevOps and collaboration tools rather than the core themes of APOM, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
@@ -727,10 +625,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure Repos and Git version control without any reference to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -781,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and its features for version control, rather than discussing metrics, learning, or improvement methodologies.",
     "level": "Ignored"
   },
@@ -799,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and related version control techniques, without mentioning Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -813,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos training and technical implementation, lacking a direct connection to mentoring or guidance in Agile practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Azure Repos and version control processes without discussing AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -844,10 +733,10 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Azure Repos as part of Azure DevOps, which aligns with operational practices in a software development context, particularly focusing on collaboration and version control. However, it does not explicitly delve into techniques or strategies for enhancing operational efficiency, making it a secondary theme.",
     "level": "Tertiary"
   },
@@ -862,10 +751,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and version control, with no mention of Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -889,19 +778,19 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on training for Azure Repos, which implies a learning opportunity, but it primarily discusses tools and techniques related to software development rather than continuous learning principles or practices.",
     "level": "Tertiary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily relates to Azure Repos and version control, with no clear focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -916,10 +805,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on Azure Repos, which is a version control system, along with Git concepts and techniques for managing code changes. It outlines various aspects of source control such as branching, merging, code reviews, and integration with tools, fulfilling the criteria for Modern Source Control.",
     "level": "Secondary"
   },
@@ -943,20 +832,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure Repos and Git version control, which are not directly related to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on Azure Repos and its functionalities in the context of Azure DevOps, without any discussion or relevance to Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -968,39 +848,30 @@
     "reasoning": "Content primarily focuses on Azure Repos and tools for software development without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a training course related to Azure Repos, which is a tool in the context of DevOps practices. While it primarily focuses on the course details and structure, it can be considered a secondary theme as it is a product aimed at enhancing understanding of Agile and DevOps principles.",
-    "level": "Tertiary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on Azure Repos and DevOps training without addressing the principles or practices of empirical process control.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Azure Repos and version control, which are related to CI practices, but the primary focus is on using Azure Repos rather than CI principles or practices specifically.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content covers practical aspects of using Azure Repos within the framework of Azure DevOps, discussing hands-on techniques and workflows which align with pragmatic thinking, although the primary focus is on the tool itself rather than broader pragmatic problem-solving strategies.",
     "level": "Tertiary"
   },
@@ -1024,10 +895,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses features of Azure Repos in the context of software development and collaboration, highlighting aspects like working software delivery and teamwork, but it is primarily focused on tools and training rather than a direct discussion on working software itself.",
     "level": "Tertiary"
   },
@@ -1042,10 +913,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure Repos and software development practices without any reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
@@ -1069,10 +940,10 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on Azure Repos, a tool related to version control and collaborative software development practices, as well as related methodologies in the context of software development.",
     "level": "Secondary"
   },
@@ -1087,10 +958,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 90,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
+    "final_score": 90.0,
     "reasoning": "The content focuses primarily on Azure Repos, a key service within Azure DevOps, and provides comprehensive training details, including usage, configuration, and integration aspects closely related to Azure DevOps functionalities.",
     "level": "Primary"
   },
@@ -1114,21 +985,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Azure Repos and tools for software development, with no emphasis on cross-functional teams or their characteristics within Agile methodologies.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on Azure Repos, a tool used by software developers, within the context of Azure DevOps. It discusses best practices for version control relevant to developers, thus aligning closely with the category.",
-    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1150,10 +1012,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The course content focuses on configuring and using Azure Repos, which includes installation aspects and detailed instructional content on managing code changes in a software development environment. This aligns well with the category of Install and Configuration.",
     "level": "Secondary"
   },
@@ -1166,30 +1028,21 @@
     "reasoning": "Content focuses on Azure Repos and software development tools, with no discussion of the Product Owner role or responsibilities.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content is primarily a course description focused on training for Azure Repos, lacking discussions on news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 90,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
+    "final_score": 90.0,
     "reasoning": "The content is primarily focused on a training course designed to teach users about Azure Repos and its functionalities, including Git concepts, Visual Studio integration, and various features related to Azure Repos. The course structure and topics indicate that Azure Repos is the central theme.",
     "level": "Primary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses the use of Azure Repos and Git for version control, which aligns with technical engineering practices that enhance collaboration and code quality, relevant to the principles of Technical Excellence.",
     "level": "Secondary"
   },
@@ -1204,10 +1057,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure Repos and Git version control, without focusing on asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -1222,10 +1075,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Azure Repos and its features in the context of software development, with no clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1258,31 +1111,31 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-21T11:23:40",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions team collaboration and delivering software, which are relevant to Scrum principles, but it does not explicitly discuss Scrum roles, events, or artifacts. The focus is primarily on Azure DevOps tools rather than Scrum practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Azure DevOps and tools for delivering value through software development, but the primary focus is on Azure Repos and Git functionalities rather than dedicated strategies or methodologies of value delivery.",
     "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses configuration and use of Azure Repos, which is relevant to system configuration, but the primary focus is on software development practices and Git concepts.",
     "level": "Tertiary"
   },
@@ -1304,15 +1157,6 @@
     "reasoning": "Content focuses on Azure Repos and software development tools, but does not address product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on Azure Repos and Git version control, with no clear discussions on Scrum practices or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-18T00:46:01",
@@ -1324,10 +1168,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T00:46:01",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Repos and DevOps training, with no clear mention or discussion of the Definition of Done.",
     "level": "Ignored"
   },
@@ -1387,86 +1231,98 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-21T11:23:49",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Azure DevOps Services and collaboration tools, with no explicit mention of Artificial Intelligence. While it discusses software development processes, it does not explore how AI integrates into Agile methodologies or DevOps practices. The alignment with the category is minimal, as it lacks core themes related to AI's role in enhancing decision-making or automating tasks. The depth of discussion is moderate, but it does not delve into AI applications, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-21T11:23:53",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Azure DevOps Services and Azure Repos, which are tools that could be part of an Internal Developer Platform. However, it does not explicitly discuss the concept of an IDP, its purpose, benefits, or best practices. The focus is more on collaboration and code quality rather than the broader framework of streamlining development processes, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-21T11:23:55",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions tools for development and collaboration but does not explicitly discuss the Shift-Left Strategy or its principles. While it touches on aspects of software development, it lacks a focused discussion on integrating testing, security, or compliance early in the lifecycle, which are core to the Shift-Left concept.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T15:03:29",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions collaboration and code quality, which are tangentially related to Continuous Improvement, but it lacks explicit discussions on the principles of Continuous Improvement, such as empirical evidence, experimentation, or strategies for integrating these practices into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T15:03:31",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content mentions collaboration and working in teams on a common project, which aligns with the concept of Common Goals. However, it lacks explicit discussions on the significance of aligning strategy with execution or the role of Common Goals in Agile and DevOps frameworks. The depth of discussion is limited, focusing more on tools rather than the foundational principles of Common Goals.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T15:03:34",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions collaboration and code quality, which are related to competence, but does not explicitly discuss continuous learning or skill development. The focus is more on tools and processes rather than on the development of skills and capabilities, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:03:38",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content mentions Azure DevOps and Azure Repos, which are tools that can be part of a unified engineering system, but it does not explicitly discuss the One Engineering System framework or its principles. The focus is more on the tools and their functionalities rather than on integration, standardisation, or best practices related to 1ES. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps Services and tools for software development, with no explicit discussion of Agentic Agility or its principles. While it mentions collaboration and delivering value, it does not address the intentional shaping of outcomes, the distinction between human and AI capabilities, or any of the key topics related to Agentic Agility. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   }
 }

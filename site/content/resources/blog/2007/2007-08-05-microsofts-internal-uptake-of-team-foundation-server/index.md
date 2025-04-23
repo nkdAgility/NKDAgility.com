@@ -9,7 +9,7 @@ ResourceImportId: 343
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-05
-weight: 810
+weight: 790
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,7 @@ aliasesArchive:
 - /microsoft's-internal-uptake-of-team-foundation-server
 - /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
-tags:
-- News and Reviews
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

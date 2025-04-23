@@ -30,18 +30,15 @@ aliasesArchive:
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
 - Product Backlog
-- Transparency
-- Scrum Product Development
 - Pragmatic Thinking
 - Software Development
 - Product Delivery
-- Agile Product Management
-- People and Process
+- Transparency
 - Product Owner
-- Agile Project Management
+- Agile Product Management
 categories:
 - Product Management
-- Scrum
+- Product Development
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

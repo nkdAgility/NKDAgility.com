@@ -1,13 +1,13 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:47:09",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions ALM through the use of work items to track tasks, which is a component of application lifecycle management. However, it primarily focuses on remote access and collaboration among teams rather than discussing the stages, practices, or tools of ALM in detail. The alignment with core themes is limited, and the depth of discussion does not provide substantial insights into the lifecycle management processes.",
     "level": "Ignored"
   },
@@ -31,22 +31,22 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T07:47:13",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the concept of remote access for teams and mentions the use of work items for task tracking, which hints at team dynamics and collaboration. However, it lacks a thorough exploration of the interplay between social and technical systems, organisational culture, or the impact of these elements on software delivery. The discussion is primarily technical, focusing on tools and methods without a significant emphasis on the sociotechnical aspects.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T22:18:05",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access for Team Server and its implications for working with contractors, rather than focusing on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -61,10 +61,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:18:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of remote access and team dynamics rather than specific installation or configuration procedures.",
     "level": "Ignored"
   },
@@ -79,24 +79,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T12:17:43",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 62.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses remote access for Team Server, which is a technical topic that does not directly reference Agile, Scrum, DevOps, or Lean principles. While it touches on the use of work items for tracking tasks, it lacks a clear connection to established Agile methodologies. The discussion is more focused on the technical aspects of remote access and integration rather than providing actionable insights or aligning with recognised practices. Therefore, it fits within the Miscellaneous category, but the depth of discussion and conceptual alignment with the category's themes is moderate.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:18:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access and technical implementations without addressing organisational resilience or change management.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -106,18 +97,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and integration of teams, without a focus on complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:47:11",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses remote access for Team Server and mentions using SSL with Active Directory, which relates to practical tooling. However, it lacks a comprehensive exploration of Agile or DevOps methodologies and does not provide in-depth insights into specific tools or frameworks. The focus is more on the benefits of remote access rather than practical techniques or methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -130,10 +109,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:18:16",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and integration of teams rather than metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -166,40 +145,37 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:18:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access and integration of teams rather than Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses remote access for Team System and its benefits for collaboration, without any explicit mention of Evidence-Based Management principles or metrics. It lacks a focus on data-informed decision-making or empirical evidence, which are central to EBM. The discussion is more about technical implementation rather than strategic management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:18:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access and integration of work items, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:18:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access for Team Server and its implications for team integration, rather than providing news or reviews related to Agile, DevOps, or technology updates.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses remote access for Team System and its benefits for collaboration and project management, without any explicit mention of the Agile Product Operating Model or its core principles. While it touches on aspects of project management, it does not align with the key topics of APOM, such as product-oriented mindsets or continuous delivery.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T07:47:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on remote access and its implications for team collaboration, which is tangentially related to product delivery. However, it lacks explicit discussions on methodologies, practices, or detailed processes involved in delivering software products. The focus is more on remote access technology rather than the end-to-end product delivery process.",
     "level": "Ignored"
   },
@@ -219,42 +195,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and integration challenges rather than focusing on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:18:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses remote access and team collaboration rather than AI and automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access and team collaboration rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:18:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access for Team Server and its implications for team collaboration, without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:18:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access and integration of work rather than transparency and accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -304,15 +244,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:47:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions Team Server and work items, which are related to Azure DevOps, but lacks a comprehensive discussion on Azure DevOps services or methodologies. The focus is more on remote access and integration challenges rather than on Azure DevOps functionalities or best practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -325,11 +265,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:18:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access and integration of teams, without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses remote access for Team System, focusing on collaboration and project management, which are tangentially related to DevOps principles. However, it lacks explicit mentions of DevOps as a philosophy or its core themes such as automation, shared accountability, or continuous improvement. The discussion is primarily about remote access and project management rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -339,36 +282,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and integration of teams rather than engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:47:06",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly touches on the concept of remote access for teams, which implies some level of collaboration among disparate teams. However, it lacks a detailed discussion on team dynamics, leadership, or structured methodologies that enhance productivity and innovation. The focus is more on technical aspects of remote access rather than the human factors or processes involved in team collaboration.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:18:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access and integration of work rather than focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T22:18:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access for Team Server and its implications for team collaboration, without focusing on specific products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -391,19 +304,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:19:08",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and team collaboration rather than the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:19:08",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and operational efficiencies rather than innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -432,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and collaboration among teams rather than focusing on portfolio management or strategic alignment of projects.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on remote access for team systems and does not discuss Scrum principles, product development, or related practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -472,10 +376,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:19:08",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and technical infrastructure for team collaboration without addressing Agile values or principles.",
     "level": "Ignored"
   },
@@ -508,20 +412,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:19:08",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote access and team integration rather than the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses remote access for teams without a clear focus on Agile scaling, collaboration among multiple teams, or enterprise-level strategies.",
+    "reasoning": "Content primarily discusses remote access and team integration rather than the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -580,36 +475,27 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-15T07:47:17",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on remote access and its implications for team collaboration, but it lacks a focused discussion on specific collaboration tools or their features. While it mentions the ability to track tasks, it does not delve into how this enhances communication or coordination within Agile teams, nor does it provide detailed insights or best practices related to collaboration tools.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access for Team Server and integration challenges with contractors, rather than focusing on the role of software developers within Agile, DevOps, or modern engineering practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:47:15",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses remote access for Team Server, which touches on aspects of collaborative development and project management. However, it lacks a strong focus on specific software development methodologies or practices. While it mentions using work items to track tasks, it does not delve into the SDLC or best practices in coding and design, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -638,7 +524,7 @@
     "reasoning": "Content discusses remote access for Team Servers and integration of work without focusing on estimation techniques or Agile estimation practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:19:08",
     "ai_confidence": 0,
@@ -712,11 +598,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:19:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses remote access for Team System and does not address key principles or practices of Continuous Delivery.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses remote access for Team System and its benefits for collaboration and project management, which does not directly address Continuous Delivery principles or practices. While there is a mention of project management and collaboration, these topics are not specific to Continuous Delivery, and the content lacks depth in discussing automation, incremental improvements, or rapid feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -762,15 +651,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about remote access for teams and does not discuss hypothesis formulation, experimentation, or any related principles of hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access for Team Server and does not focus on AI applications within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -892,10 +772,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:19:08",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and technical aspects related to Team System, without a clear focus on team performance, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -910,13 +790,13 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T07:47:20",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions work items in the context of tracking tasks, which is relevant to Azure Boards. However, it lacks a comprehensive discussion on Azure Boards' functionalities, best practices, or Agile project management. The focus is more on remote access and integration rather than the specific features and benefits of Azure Boards.",
     "level": "Ignored"
   },
@@ -940,22 +820,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T07:47:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly touches on the concept of remote teams and the use of tools for tracking tasks, which relates to team collaboration. However, it lacks a detailed exploration of techniques for improving communication, shared ownership, or fostering trust within teams. The focus is more on the technical aspects of remote access rather than the dynamics of teamwork, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:19:08",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and its implications for project management rather than focusing on the specifics of Definition of Ready criteria or practices.",
     "level": "Ignored"
   },
@@ -988,23 +868,14 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-15T07:47:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions remote access and the benefits of working with disparate teams, which aligns with the concept of remote working. However, it lacks a direct focus on Agile practices, tools, or strategies specific to remote Agile teams. The discussion is more about technical aspects of remote access rather than the collaborative and cultural elements of remote working in an Agile context.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses remote access for team collaboration without focusing on Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -1014,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access for project management and the integration of outsourced teams, with no focus on customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses remote access for a Team Server and focuses on integration challenges with external teams, rather than Agile Project Management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1234,33 +1096,33 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:19:09",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on remote access for teams and does not discuss Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:19:09",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on remote access and technical details related to teamwork, without addressing motivation or team dynamics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:47:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses remote access for Team Server and its implications for collaboration among disparate teams, which aligns with the practical application of Agile and DevOps principles. However, it lacks direct mentions of specific Agile or Scrum methodologies and does not delve deeply into problem-solving strategies or case studies, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1296,15 +1158,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote access and integrating work from disparate teams without specifically addressing asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:19:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses remote access and integration of work from disparate teams, without a clear focus on Scrum principles, frameworks, or their scaling. It does not address the key topics related to Scaling Scrum.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1343,22 +1196,16 @@
     "reasoning": "Content focuses on remote access and collaboration for team systems, lacking a clear discussion on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:19:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access for team systems and does not focus on scaling agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:19:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access and technical aspects related to team collaboration, without specific reference to the role or responsibilities of a Scrum Master or Scrum framework.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on remote access for Team System and its benefits for collaboration and project management. It does not explicitly mention the role of a Scrum Master or discuss any Scrum-related concepts, responsibilities, or practices. The discussion is more aligned with technical aspects of remote work rather than the Scrum framework or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1381,21 +1228,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:19:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on remote access for Team Server and does not mention Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses remote access for Team System and its benefits for collaboration and project management. It does not mention Test First Development, success criteria, or any related testing practices, which are essential for alignment with the category. The focus is on remote access and team collaboration rather than testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote access and integration of work rather than focusing on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions collaboration and project management, which are relevant to social technologies. However, it primarily focuses on technical aspects of remote access and security rather than the underlying social frameworks or methodologies that promote collaboration and decision-making. The discussion lacks depth in exploring how these technologies enhance team dynamics or organisational culture.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1426,26 +1279,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:47:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily discusses remote access for Team Server and the use of contractors, with no explicit mention of Scrum roles, events, or principles. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:50:06",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses remote access for Team Server and the benefits of working with contractors, with no explicit mention of the Shift-Left Strategy or its principles. The focus is on remote collaboration rather than integrating testing, security, or compliance early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the benefits of remote access for project management and collaboration, but it does not explicitly address Common Goals or their significance within Agile and DevOps frameworks. While it touches on collaboration and project management, it lacks a clear connection to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses remote access and collaboration tools rather than focusing on competence, continuous learning, or skill development. While it touches on project management and team integration, it does not explicitly address the core themes of competence or provide depth in discussing the importance of skills and capabilities.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the benefits of remote access for Team System, discussing collaboration and project management without addressing Continuous Improvement principles. There are no direct mentions of Continuous Improvement, and the discussion lacks depth in relation to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the benefits of remote access for project management and collaboration, without discussing the intentional shaping of outcomes or the principles of Agentic Agility. It lacks explicit mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

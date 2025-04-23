@@ -2,7 +2,7 @@
 title: How does a Scrum team create a sprint goal?
 description: Discover how scrum teams create impactful sprint goals to enhance collaboration and deliver value in this insightful short video with Martin Hinshelwood!
 date: 2023-06-01T11:00:15Z
-weight: 805
+weight: 790
 ResourceId: GJSBFyoHk8E
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,20 +29,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Software Development
 - Agile Product Management
 - Scrum Team
 - Agile Planning
-- Agile Project Management
-- Scrum Master
-- Professional Scrum
 - Agile Frameworks
 - Pragmatic Thinking
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## The Art of Sprint Goal Creation

@@ -26,8 +26,8 @@ preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Transparency
 - Operational Practices
+- Transparency
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

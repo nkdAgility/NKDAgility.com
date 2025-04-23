@@ -2,7 +2,7 @@
 title: 3 best ways to wreck Kanban. Don't have a working agreement.
 description: Discover the top 3 pitfalls of Kanban adoption and learn why a working agreement is essential for team alignment and success in agile collaboration!
 date: 2024-03-01T07:00:17Z
-weight: 720
+weight: 690
 ResourceId: h6yumCOP-aE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -34,17 +34,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Working Agreements
 - Operational Practices
+- Working Agreements
 - Team Performance
-- Team Collaboration
 - Pragmatic Thinking
+- Team Collaboration
 - Agile Frameworks
-- Practical Techniques and Tooling
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Achieving Team Alignment with Kanban: The Importance of a Working Agreement

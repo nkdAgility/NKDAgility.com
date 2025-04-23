@@ -34,14 +34,14 @@ sitemap:
 tags:
 - Agile Frameworks
 - Software Development
-- Agile Project Management
 - Continuous Improvement
 - Value Delivery
 - Flow Efficiency
 - Lean Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

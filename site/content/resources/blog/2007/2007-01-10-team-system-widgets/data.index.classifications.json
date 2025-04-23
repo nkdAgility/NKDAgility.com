@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:55:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System and Team Foundation Server, without a focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:55:48",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and web products related to Team System without providing specific installation or configuration instructions.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and tools related to Team System and Team Foundation Server, with no focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:55:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System, without a focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:55:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,13 +37,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-08T13:15:28",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses applications related to Team System and Team Foundation Server, with no explicit mention of Scrum principles, roles, or events. While it touches on team dynamics in a very indirect manner, it lacks depth and alignment with Scrum's core themes.",
     "level": "Ignored"
   },
@@ -121,29 +94,20 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:56:04",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and tools related to Team System without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:56:06",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and tools related to Team System and Team Foundation Server, without a clear focus on platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:56:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses applications and web products related to Team System, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -209,36 +173,15 @@
     "reasoning": "Content primarily discusses applications related to Team System and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:56:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific application and its features rather than providing industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T13:27:08",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content mentions specific tools related to Team System and discusses their applications, which aligns with the category. However, the discussion lacks depth and does not provide detailed methodologies or frameworks for implementing Agile or DevOps practices. The focus is more on listing tools rather than exploring their practical application or integration within teams.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:51:44",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions ALM and discusses applications related to Team System, but it lacks a detailed exploration of the application lifecycle stages, governance, or best practices. The focus is more on specific tools rather than the overarching management principles of ALM.",
     "level": "Ignored"
   },
@@ -267,15 +210,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and tools related to Team System, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System, with no mention of events, presentations, or discussions relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -314,45 +248,15 @@
     "reasoning": "Content primarily discusses applications and tools related to Team System and TFS, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:56:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System without a focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T19:07:16",
-    "ai_confidence": 68.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses specific applications and products related to Team System, particularly focusing on TeamPlain from DevBiz. It provides a link to a resource that lists applications, indicating a direct mention of products relevant to Agile practices. However, while it touches on the usability of these tools, the depth of discussion is limited, lacking detailed analysis or reviews of the products. Overall, it aligns with the category but does not provide extensive insights or comparisons.",
-    "level": "Secondary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T10:54:08",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses applications related to Team System and mentions specific products like TeamPlain, but it does not directly reference Agile, Scrum, DevOps, or Lean principles. While it provides some insights into tools that may be used in a broader context of business agility, the discussion lacks depth and actionable insights related to recognised frameworks. The focus is more on personal experience and opinions regarding specific tools rather than a structured exploration of Agile methodologies.",
     "level": "Secondary"
   },
@@ -367,10 +271,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:56:39",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and tools related to Team System, without a clear focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -412,10 +316,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Team System applications and tools without mentioning the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -446,15 +350,6 @@
     "reasoning": "Content is primarily about Team System applications and lacks focus on empirical process control, Agile methodologies, or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:09:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaling Scrum or related frameworks, focusing instead on applications for Team System and Team Foundation Server.",
-    "level": "Ignored"
-  },
   "Increment": {
     "category": "Increment",
     "calculated_at": "2025-02-17T11:09:14",
@@ -475,10 +370,10 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and web products related to Team System without focusing on system configuration, installation, or optimization.",
     "level": "Ignored"
   },
@@ -538,24 +433,24 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and widgets related to Team System without addressing principles or practices of Site Reliability Engineering.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:51:44",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content mentions Team System and Team Foundation Server, which are relevant to software development practices, particularly in the context of application lifecycle management (ALM). However, the discussion is primarily focused on specific tools and applications rather than broader methodologies or practices in software development. The depth of discussion is limited, as it does not explore any methodologies or best practices in detail.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -577,10 +472,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses applications and tools for Team System without any reference to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -629,15 +524,6 @@
     "reasoning": "Content heavily discusses applications and tools for Team System without any mention of strategic goals or long-term business objectives.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:09:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System and Team Foundation Server without any reference to scaled Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:09:14",
@@ -658,10 +544,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and widgets for Team System without focusing on team performance, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -703,10 +589,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and tools related to Team System and Team Foundation Server, with no clear focus on Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -802,10 +688,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses specific applications and tools related to Team System and Team Foundation Server, lacking focus on Agile values and principles.",
     "level": "Ignored"
   },
@@ -883,10 +769,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:09:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications related to Team System and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -899,7 +785,7 @@
     "reasoning": "Content focuses more on applications and widgets related to Team Foundation Server (TFS) rather than Azure Boards and Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:09:14",
     "ai_confidence": 0,
@@ -951,15 +837,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses applications for Team System and issues with Team Foundation Server, which are not related to Agile Strategy or principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses applications related to Team Foundation Server without a clear focus on Agile practices, DevOps, or the role of software developers.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1014,15 +891,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on applications related to Team System and does not discuss Scrum Values or their significance.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:09:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Team System Widgets and applications for Team Foundation Server, without any relation to Kanban principles or scaling the methodology.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1223,15 +1091,6 @@
     "reasoning": "Content discusses applications related to Team System and Team Foundation Server, not focused on test automation or relevant principles and practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:09:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses applications for Team System and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:09:15",
@@ -1279,29 +1138,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:09:15",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and products related to Team System, with no significant focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:09:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses applications and tools related to Team System and Foundation Server, without addressing concepts of scaling agility or organizational agility.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:09:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses applications related to Team System and Team Foundation Server, without a focus on agile methodologies or principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1324,10 +1165,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:09:15",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on applications and tools related to Team System rather than on team collaboration dynamics or practices.",
     "level": "Ignored"
   },
@@ -1347,15 +1188,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team System applications and does not relate to Value Stream Mapping or Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses Team System and related tools, with no mention or exploration of AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1396,10 +1228,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:55:22",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses applications and tools related to Team System and Team Foundation Server, without a clear focus on Internal Developer Platforms or their benefits and architecture.",
     "level": "Ignored"
   },
@@ -1414,13 +1246,13 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:52:14",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses applications and tools related to Team System and does not address the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic.",
     "level": "Ignored"
   }

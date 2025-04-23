@@ -37,9 +37,11 @@ sitemap:
 tags:
 - Product Delivery
 - Continuous Delivery
+- Time to Market
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In today’s fast-paced digital landscape, the ability to set market trends rather than follow them is crucial for any business aiming for success. I’ve seen firsthand how organisations that embrace a proactive approach to product delivery can not only survive but thrive. Here’s how you can position yourself as a market leader by adopting a tight release frequency and continuously delivering value to your users.

@@ -29,9 +29,9 @@ aliasesArchive:
 - /resources/blog/run-router-hyper-v
 tags:
 - Install and Configuration
-- Windows
 - System Configuration
 - Troubleshooting
+- Windows
 categories: []
 preview: naked-alm-hyper-v-17-17.png
 

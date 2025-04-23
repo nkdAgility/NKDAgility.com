@@ -2,7 +2,7 @@
 title: 'Why Agile Success Relies on Effective Planning: Debunking the Myths of Scrum'
 description: Discover why planning is essential in Scrum! Uncover the truth behind Agile myths and learn how effective planning drives team success.
 date: 2023-10-25T13:30:11Z
-weight: 700
+weight: 665
 ResourceId: J3Z2xU5ditc
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -27,16 +27,16 @@ preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
 duration: 436
 isShort: false
 tags:
-- Agile Planning
-- Agile Project Management
-- Product Delivery
 - Software Development
+- Agile Planning
+- Product Delivery
 - Pragmatic Thinking
 - Agile Planning Tools
-- Agile Product Management
 - Agile Frameworks
-- People and Process
-- Software Developers
+- Agile Product Management
+- Agile Strategy
+- Agile Transformation
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,6 +44,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 - Product Management
 
 ---

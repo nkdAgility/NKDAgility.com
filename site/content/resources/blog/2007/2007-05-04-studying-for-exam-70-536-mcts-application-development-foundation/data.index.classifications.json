@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T22:24:31",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and preparations for certification exams related to .NET development, rather than the management of software applications throughout their lifecycle.",
     "level": "Ignored"
   },
@@ -19,10 +19,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T22:24:33",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with certification exams and does not address enterprise agility or related organisational practices.",
     "level": "Ignored"
   },
@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T22:24:36",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and preparations for Microsoft certification exams, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:24:38",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and plans regarding certification exams, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,31 +80,13 @@
     "reasoning": "Content primarily discusses personal experiences and plans related to studying for Microsoft certification exams, with no direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:24:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with certification exams and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-16T22:24:43",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and preparations for Microsoft certification exams, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:24:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and plans for certification exams without a focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:24:48",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and plans regarding certification exams, with no focus on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:24:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and preparations for certification exams, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to preparing for a certification exam in .NET development. It does not discuss Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights. The mention of a training budget is tangential and does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:24:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and preparations for Microsoft certification exams, with no focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:24:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and plans regarding certification exams, lacking industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to preparing for Microsoft certification exams in .NET development. There are no direct mentions of the Agile Product Operating Model or its principles, and the discussion does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is minimal and does not provide any relevant insights into the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -206,42 +185,6 @@
     "reasoning": "Content primarily discusses personal experiences with certification exams and .NET development, with no clear focus on platform engineering or related topics.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:25:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and preparations for Microsoft certification exams, with no relevance to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:25:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and plans regarding certification exams, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:25:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with certification exams and self-study, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:25:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with certification exams and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-16T22:25:08",
@@ -253,10 +196,10 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T22:25:09",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and plans related to obtaining Microsoft certification exams, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
@@ -310,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:25:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and preparations for Microsoft certification exams, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences related to preparing for Microsoft certification exams, specifically in .NET development. There are no direct mentions of DevOps principles, practices, or cultural shifts. The discussion lacks alignment with key DevOps topics such as collaboration, automation, or shared accountability, and does not provide any depth on these subjects. Overall, the content does not align with the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -325,36 +271,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with certification exams and self-study, lacking a focus on engineering practices or methodologies that enhance software development.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:25:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with certification exams and self-study, with no significant focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences with certification exams and self-study, lacking a central theme of discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-10T15:20:37",
-    "ai_confidence": 68.0,
-    "ai_mentions": 60.0,
-    "ai_alignment": 70.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses studying for a specific certification exam related to Microsoft .NET Framework, which aligns with the category of 'Products and Books' as it references a book used for preparation. The mention of multiple exams and the self-study approach indicates a focus on resources that support learning, which is relevant to Agile and DevOps principles. However, the discussion is more personal and lacks a detailed analysis or review of the books or tools, which slightly lowers the confidence score.",
-    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -385,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and plans regarding certification exams and self-study, without addressing innovation capacities or practices.",
     "level": "Ignored"
   },
@@ -419,15 +335,6 @@
     "reasoning": "Content discusses personal exam preparation and certification in .NET development, with no relevance to portfolio management or related topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses exam preparation for .NET certifications, which is not relevant to Scrum Product Development.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-17T08:19:16",
@@ -439,10 +346,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal exam preparation and self-study without any relation to self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -457,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses preparations for certification exams and personal experiences with no mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -493,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily focused on personal experiences and preparation for Microsoft certification exams, unrelated to the Definition of Done concept.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with Microsoft certification exams and development topics, with no relevance to scaled Agile practices or frameworks.",
+    "reasoning": "Content is primarily focused on personal experiences and preparation for Microsoft certification exams, unrelated to the Definition of Done concept.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -547,10 +445,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses studying for Microsoft certification exams related to .NET development, rather than topics related to Test Driven Development.",
     "level": "Ignored"
   },
@@ -572,33 +470,24 @@
     "reasoning": "Content primarily discusses personal certification exams and .NET development, with no focus on collaboration tools.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses certification exams and personal study experiences rather than Agile or DevOps methodologies or practices directly related to the role of software developers.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:48:02",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the author's journey towards obtaining Microsoft certifications related to .NET development, which is relevant to software development. However, the focus is primarily on personal experiences and motivations rather than on methodologies, practices, or frameworks that guide the software development lifecycle. While it mentions specific exams and the .NET framework, it lacks in-depth discussion of software engineering principles or practices, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on studying for Microsoft certification exams related to .NET development, with no mention of Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -620,7 +509,7 @@
     "reasoning": "Content focuses on personal experiences and details related to studying for Microsoft certifications, with no mention of estimation or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:19:16",
     "ai_confidence": 0,
@@ -694,31 +583,34 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on preparing for certification exams related to Microsoft .NET development, with no relevant discussion on Continuous Delivery practices or principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to preparing for Microsoft certification exams, specifically for .NET development. It does not discuss Continuous Delivery principles, practices, or any related topics. The mention of software development is too general and does not align with the specific themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. Therefore, the confidence score is very low.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about preparing for Microsoft exams and does not discuss Lead Time or related concepts.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T07:48:02",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the author's personal journey towards obtaining Microsoft certifications through self-study. While it touches on the concept of continuous learning by discussing the author's training budget and the need to study for exams, it lacks a strong emphasis on the principles of a growth mindset, knowledge sharing, or team improvement. The discussion is more about individual learning rather than fostering a culture of continuous learning within a team or organisation.",
     "level": "Ignored"
   },
@@ -742,20 +634,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and plans for studying for certification exams, with no mention of hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on certification exams for .NET development and personal training experiences, with no mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -796,10 +679,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on preparing for Microsoft certification exams and does not discuss Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -877,10 +760,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses certification exams and personal study plans, with no direct relevance to team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
@@ -922,28 +805,28 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal exam preparation and career development, with no clear discussion on team collaboration or dynamics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses exam preparation and personal experiences with certification rather than the Definition of Ready in Agile.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses preparation for Microsoft certification exams and personal experiences, without any mention of Acceptance Test Driven Development or related concepts.",
     "level": "Ignored"
   },
@@ -958,32 +841,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:48:02",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the author's personal journey towards obtaining Microsoft certifications, which is more about individual career development than technical mastery. While it mentions specific exams related to .NET development, it lacks a detailed discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The alignment with the core themes of the category is minimal, and the depth of discussion does not provide substantial insights into software craftsmanship or engineering excellence.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses exam preparation and personal experiences with certification, unrelated to remote working or Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences and certifications related to .NET development, with no mention of Kanban or its scaling principles.",
+    "reasoning": "Content primarily discusses exam preparation and personal experiences with certification, unrelated to remote working or Agile practices.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -993,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experience with certification exams and training but does not relate to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with certification exams and .NET development rather than Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1024,10 +889,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses self-study for certification exams and personal experiences related to development, without any mention or relevance to Cycle Time.",
     "level": "Ignored"
   },
@@ -1162,10 +1027,10 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses exam preparation for Microsoft certifications and does not relate to Lean principles or practices.",
     "level": "Ignored"
   },
@@ -1180,28 +1045,28 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and preparation for Microsoft certification exams, with no reference to Behaviour Driven Development or its principles, practices, or related collaboration among stakeholders.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences and details related to studying for .NET certification exams, not on working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses exam preparations and personal experiences with certification, not the characteristics or delivery of working software.",
     "level": "Ignored"
   },
@@ -1216,28 +1081,28 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal certification and exam preparation in .NET development, with no discussion on Scrum or Scrum Team dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content extensively discusses personal exam preparation and technical details unrelated to team dynamics or motivation.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses exam preparation and personal learning experience without a focus on practical problem-solving strategies or Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -1261,29 +1126,20 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal certification journey and training budgets without reference to revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses studying for certification exams in .NET development, with no focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal preparation for Microsoft certification exams and .NET development, with no focus on Scrum or its scaling.",
+    "reasoning": "Content primarily discusses studying for certification exams in .NET development, with no focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1315,29 +1171,23 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T08:19:16",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about studying for Microsoft certification exams and does not address Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on preparing for Microsoft certification exams and does not discuss scaling agile practices or any related topics.",
+    "reasoning": "Content is primarily about studying for Microsoft certification exams and does not address Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with certification exams and does not relate to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to preparing for Microsoft certification exams in .NET development. There are no direct mentions of the Scrum Master role or its responsibilities, and the discussion does not align with the core themes of Scrum or agile principles. The content lacks depth in any relevant topics related to Scrum, making it unsuitable for the 'Scrum Master' category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,20 +1210,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:19:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses exam preparation for Microsoft certifications and does not focus on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the author's journey to obtain Microsoft certification and does not discuss Test First Development principles, success criteria, or testing practices. There are no relevant mentions of TDD, ATDD, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and plans regarding Microsoft certification exams, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences related to preparing for a certification exam in .NET development. It does not explicitly discuss social technologies, collaboration, or decision-making frameworks. While there is a mention of a training budget from the employer, it lacks depth in exploring how this relates to social technologies or organisational behaviour. Overall, the content does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1387,10 +1243,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:53:01",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and preparations for Microsoft certification exams, with no focus on Internal Developer Platforms or related topics.",
     "level": "Ignored"
   },
@@ -1405,26 +1261,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:21:50",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal experiences related to preparing for Microsoft certification exams and does not mention Scrum or its principles, roles, events, or practices. There is no discussion of Agile methodologies or team dynamics, which are core to the Scrum framework.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:50:24",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on personal experiences related to preparing for certification exams in .NET development. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The content lacks depth in discussing any relevant methodologies or practices associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences and preparations for a certification exam, lacking any discussion on shared objectives or alignment within Agile or DevOps frameworks. It does not address the significance of Common Goals or their impact on team collaboration and accountability.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the author's journey towards obtaining professional certification, which implies a focus on skill development and competence. However, it primarily centres on personal experiences and exam preparation rather than a broader discussion on competence as a foundational principle in Agile or DevOps methodologies. While there are mentions of continuous learning and the importance of certifications, the depth of discussion on fostering a culture of competence or strategies for skill development is limited.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences related to preparing for certification exams in .NET development. While there is a mention of self-study and a training budget, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for enhancing processes or team effectiveness. The content does not align with the core themes of Continuous Improvement, nor does it provide depth in these areas.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to studying for a certification exam in .NET development. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The mention of a training budget and self-study approach hints at some level of personal agency, but it lacks depth and relevance to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

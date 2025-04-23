@@ -2,7 +2,7 @@
 title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: "Evaluate your project's direction! \U0001F9ED Discover how to make informed choices and adapt in a changing world. Join us for insights and guidance! \U0001F4A1"
 date: 2024-01-20T07:00:00Z
-weight: 855
+weight: 840
 ResourceId: 17qTGonSsbM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -30,20 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Personal
 - Continuous Improvement
 - Agile Product Management
 - Product Owner
+- Agile Philosophy
 - Agile Strategy
 - Agile Values and Principles
-- Agile Philosophy
-- Discovery and Learning
+- Business Agility
+- Software Development
 - Market Adaptability
+- Personal
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️

@@ -8,18 +8,6 @@
     "reasoning": "Content primarily focuses on technical instructions for joining a machine to an Azure hosted domain controller, without any relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T12:37:00",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a practical guide on joining a machine to an Azure-hosted domain controller, which directly relates to the application of tooling in a cloud environment. It discusses specific steps and configurations necessary for this process, demonstrating a clear alignment with the category's focus on practical techniques and tooling. The content includes direct mentions of Azure and DNS configuration, which are relevant tools in the context of DevOps practices. However, while it offers a good level of detail, it could benefit from more comprehensive insights into best practices or case studies to fully meet the depth criteria.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T08:56:48",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T21:30:04",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of connecting a machine to an Azure hosted domain controller, focusing on configuration steps rather than the complexities or best practices of coding and software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses joining a machine to an Azure hosted domain controller without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses setting up a machine to join an Azure hosted domain controller, which is unrelated to AI and automation in Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-07T14:39:07",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 85.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content provides a detailed step-by-step guide on how to join a machine to an Azure-hosted domain controller, which directly aligns with the category of Install and Configuration. It discusses necessary configurations, such as ensuring the machine is within the correct virtual network and configuring the DNS server, which are essential for the installation and configuration process. The depth of discussion is significant, as it includes specific actions to take and settings to adjust, demonstrating a clear focus on practical implementation. Overall, the content is highly relevant to the category, with explicit mentions of installation and configuration processes.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on technical steps for joining a machine to a domain in Azure, with no discussion or relevance to transparency and accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content heavily discusses technical instructions for joining a machine to a domain in Azure without addressing organisational context or sociotechnical interactions.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on technical implementation of joining a machine to an Azure hosted domain controller, without addressing resilience or change management principles.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:29:41",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a technical guide for joining a machine to an Azure-hosted domain controller, which is more aligned with cloud infrastructure management than the core principles of DevOps. While it touches on aspects of network management and configuration, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The content does not delve into the cultural or philosophical aspects of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses technical steps for joining a machine to an Azure hosted domain controller, with no focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on technical instructions for joining a machine to an Azure hosted domain controller and does not discuss any events, presentations, or related topics.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T08:56:48",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on the process of joining a machine to an Azure domain controller, without any discussion on flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on technical steps for joining a machine to an Azure domain, without discussing team dynamics, leadership, or human factors in processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T08:56:48",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for connecting a machine to an Azure hosted domain controller, without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -272,15 +197,6 @@
     "reasoning": "Content primarily discusses technical steps for joining a machine to an Azure hosted domain controller, and does not focus on any aspects of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for joining a machine to an Azure hosted domain controller, with no focus on Products or Books related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T08:56:48",
@@ -292,10 +208,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T08:56:48",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on joining a machine to an Azure-hosted domain controller, which is not directly related to Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
@@ -319,13 +235,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T21:29:57",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on technical instructions for joining a machine to an Azure-hosted domain controller, with no mention or discussion of Agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not address any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
@@ -336,15 +252,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical instructions for joining a machine to an Azure hosted domain controller, with no clear focus on organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T08:56:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a technical tutorial about joining a machine to an Azure hosted domain controller, which does not align with the 'News and Reviews' category.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -367,24 +274,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical steps to join a machine to an Azure-hosted domain controller and does not relate to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:10:13",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the practical steps to join a machine to an Azure-hosted domain controller, which is a technical task. However, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. While it does touch on technical aspects, such as DNS configuration and virtual networks, it does not delve into methodologies or principles that contribute to high-quality software development. Therefore, while there is some alignment with the category, it is not a primary focus.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,13 +304,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:30:01",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with its core themes such as automation, rapid feedback, or software quality. The depth of discussion is limited to specific technical steps, making it irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
@@ -436,10 +343,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for joining a machine to an Azure hosted domain controller, and does not address the topic of Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -589,31 +496,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T16:43:52",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses the process of joining a machine to an Azure-hosted domain controller, which involves aspects of software development such as configuration management and cloud infrastructure. While it does not delve deeply into software engineering methodologies or best practices, it aligns with the conceptual framework of software development by addressing practical steps in a cloud environment. The depth of discussion is moderate, focusing on specific actions rather than broader software development principles.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on technical instructions for joining a machine to an Azure hosted domain controller and does not relate to Agile Project Management principles, methodologies, or topics.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical instructions for joining a machine to an Azure hosted domain controller and does not mention Agile values or principles.",
     "level": "Ignored"
   },
@@ -655,10 +553,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses joining a machine to an Azure-hosted domain controller, which is unrelated to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -673,10 +571,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical steps for joining a machine to an Azure hosted domain controller, with no discussion on organisational change processes or methodologies.",
     "level": "Ignored"
   },
@@ -707,15 +605,6 @@
     "reasoning": "Content heavily discusses joining a machine to an Azure hosted domain controller, with no reference to customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on joining a machine to an Azure-hosted domain controller, which is unrelated to Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T09:56:46",
@@ -732,15 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical instructions related to Azure and domain management, with no relation to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical instructions for connecting a machine to an Azure hosted domain controller, which is unrelated to scaling agility or its principles.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -808,29 +688,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily details technical steps on connecting a machine to an Azure domain controller, with no discussion of innovation, Evidence-Based Management, or practices related to enhancing organizational capacity for innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses joining machines to an Azure-hosted domain controller, which is unrelated to Scrum product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for joining a machine to an Azure hosted domain controller, which is unrelated to Scaled Agile methodologies or scaling Agile practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -988,10 +850,10 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses joining a machine to an Azure-hosted domain controller and does not relate to Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
@@ -1006,10 +868,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical steps for joining a machine to a domain in Azure, with no focus on change management principles.",
     "level": "Ignored"
   },
@@ -1033,17 +895,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T04:10:13",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical steps for joining a machine to an Azure-hosted domain controller, which is a specific operational task rather than a strategic discussion on digital transformation. While it mentions Azure and domain management, it lacks a broader context of how these actions contribute to business agility or innovation. The discussion is more about implementation details than strategic insights, resulting in a low confidence score for alignment with the Digital Transformation category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T09:56:46",
     "ai_confidence": 0,
@@ -1052,26 +914,17 @@
     "reasoning": "Content focuses on technical steps to join a machine to an Azure hosted domain controller, which is unrelated to Minimum Viable Product discussions.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical steps for joining a machine to a domain controller in Azure, without a clear focus on AI's integration or impact in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T18:31:55",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly discusses the process of joining a machine to an Azure-hosted domain controller, which is a direct aspect of system configuration. It covers essential steps such as ensuring the machine is within the correct virtual network, configuring DNS settings, and using Remote Desktop to connect to the server. The discussion aligns well with the core themes of system configuration, particularly in terms of best practices for software installation and configuration, as well as hardware setup and integration. The depth of the discussion is substantial, providing detailed instructions and considerations for successfully joining a machine to a domain, which enhances its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1111,24 +964,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses joining a machine to an Azure hosted domain controller without any mention of Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on joining a machine to an Azure-hosted domain controller, which is unrelated to Test First Development principles. There are no mentions of success criteria, testing practices, or any relevant discussions that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T14:41:48",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 32,
     "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the process of joining a machine to a domain within a Windows environment, which is a key aspect of Windows management. It discusses specific steps related to configuration settings, such as ensuring the machine is in the correct virtual network and configuring DNS settings, which aligns well with the core themes of installation and configuration. The depth of discussion is substantial, providing detailed instructions and considerations for users, thus reinforcing its relevance to the Windows category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1159,10 +1015,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical instructions for joining machines to an Azure domain controller, without discussing remote working best practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1177,13 +1033,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T10:23:00",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content provides a step-by-step guide on how to join a machine to an Azure-hosted domain controller, which involves troubleshooting potential issues related to network configuration and DNS settings. While it does not explicitly label itself as troubleshooting, it addresses common problems that may arise during the process, such as ensuring the machine is in the correct virtual network and that DNS is configured properly. The depth of discussion is moderate, focusing on practical steps rather than theoretical concepts, which aligns with the troubleshooting category. However, it lacks extensive detail on diagnosing and resolving issues, which prevents a higher confidence score.",
     "level": "Secondary"
   },
@@ -1198,11 +1054,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical details of joining machines to a domain in Azure, with no mention of Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical instructions for joining a machine to an Azure-hosted domain controller, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1221,15 +1080,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical steps for joining a machine to an Azure hosted domain controller and does not discuss working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on joining a machine to an Azure-hosted domain controller, which does not directly relate to the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1306,10 +1156,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T09:56:46",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses joining a machine to an Azure hosted domain controller, which is not related to Azure Repos or source control management.",
     "level": "Ignored"
   },
@@ -1349,15 +1199,6 @@
     "reasoning": "Content is primarily focused on technical instructions for joining a machine to an Azure hosted domain controller, with no mention of accountability or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses joining a machine to an Azure hosted domain controller without any mention of Kanban principles, scaling, or related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T09:56:46",
@@ -1387,13 +1228,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:25:25",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks depth in addressing any of the core themes outlined in the category, such as self-organisation or collective intelligence. The mention of Azure and domain management is purely technical and does not relate to the principles of social technologies.",
     "level": "Ignored"
   },
@@ -1417,74 +1258,86 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:35:15",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical steps for joining a machine to an Azure-hosted domain controller, with no direct mentions of Scrum principles, roles, or practices. It lacks any alignment with Scrum's core themes, such as team dynamics or iterative processes, and provides minimal detail relevant to Scrum, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:16:26",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the technical steps for joining a machine to an Azure-hosted domain controller, with no mention of testing, security, or compliance processes that are integral to the Shift-Left Strategy. It lacks any alignment with the core themes of the category, focusing instead on Azure VM configurations and domain management.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:29:44",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller. It does not discuss Continuous Improvement principles, nor does it reflect on processes or team effectiveness. The mention of simplifying setup could be tangentially related to improvement, but it lacks depth and direct relevance to the Continuous Improvement category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:29:47",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of wanting to join machines to Azure Active Directory hints at a desire for efficiency but lacks depth and connection to the core themes of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:29:49",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller. While it touches on aspects of network management, it does not explicitly discuss competence, continuous learning, or skill development. The discussion lacks depth in relation to the principles of professionalism and quality delivery, which are central to the competence category.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:29:54",
+    "calculated_at": "2025-04-10T15:54:56",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, which does not align with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration, standardisation, or best practices related to software development frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for joining a machine to an Azure-hosted domain controller, with no explicit discussion of Agentic Agility or its principles. While there is a mention of managing domain controllers, it lacks depth in exploring the intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, the content does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

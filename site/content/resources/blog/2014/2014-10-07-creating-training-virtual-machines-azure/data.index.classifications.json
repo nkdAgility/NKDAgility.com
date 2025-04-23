@@ -8,98 +8,50 @@
     "reasoning": "The content primarily discusses the technical setup and configuration of virtual machines in Azure, with no clear relation to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:44:12",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 85.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on creating and managing virtual machines in Azure, which directly relates to practical tooling in a DevOps context. It discusses specific tools (Azure PowerShell, Azure Portal) and methodologies (uploading VHDs, creating VM instances) that enhance team performance and delivery outcomes. The depth of discussion includes troubleshooting and automation considerations, aligning well with the category's focus on practical techniques and tooling.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T04:21:03",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is more aligned with cloud infrastructure management than platform engineering. While it touches on automation and self-service capabilities, it lacks a comprehensive discussion on Internal Developer Platforms (IDPs) or enhancing developer productivity through platform solutions. The mention of PowerShell for automation is relevant but does not delve into the principles of platform engineering.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:13:25",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth in discussing how empirical evidence could enhance management practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T08:59:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of creating and managing virtual machines in Azure, with no significant focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T08:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details for creating virtual machines in Azure, with no significant emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T08:59:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation and management of virtual machines in Azure, with no clear focus on AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T08:59:49",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical setup of virtual machines in Azure, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:39:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed, step-by-step guide on creating and configuring virtual machines in Azure, which aligns closely with the 'Install and Configuration' category. It discusses installation procedures for Azure PowerShell, configuration of storage accounts, and troubleshooting common issues encountered during the setup process. The depth of discussion is significant, covering various aspects of the installation and configuration process, including specific commands and their outcomes. The content is primarily focused on practical, actionable instructions, making it a strong fit for the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T08:59:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of creating virtual machines in Azure, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +71,15 @@
     "reasoning": "Content primarily focuses on technical aspects of creating and managing virtual machines in Azure, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T08:59:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementations of creating virtual machines in Azure, with no clear discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:13:06",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is more aligned with cloud infrastructure management than the broader principles of DevOps. While it touches on automation and some aspects of collaboration, it lacks a comprehensive discussion on the cultural and philosophical aspects of DevOps, such as shared accountability or continuous improvement.",
     "level": "Ignored"
   },
@@ -158,18 +101,6 @@
     "reasoning": "Content primarily focuses on technical implementation and configuration of virtual machines in Azure, with no clear discussion on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T04:21:09",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content briefly mentions teaching a training course, which aligns with the category of events and presentations. However, it primarily focuses on the technical aspects of setting up virtual machines in Azure rather than discussing the event itself or providing insights from a presentation. The depth of discussion on the event is minimal, as it lacks details about the course structure, audience engagement, or key takeaways that would typically be expected in a presentation context.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T09:00:07",
@@ -177,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of creating and managing virtual machines in Azure, with no clear focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T09:00:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions for creating virtual machines in Azure, with minimal discussion on team dynamics, collaboration, or human factors in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -208,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T09:00:17",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating and configuring virtual machines in Azure, with no significant discussion on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -226,13 +148,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:20:56",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the practical steps for creating and managing virtual machines in Azure, which is more operational than a discussion on engineering practices that enhance agility or technical excellence. While it touches on some technical aspects, such as using PowerShell for automation, it lacks a deeper exploration of methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence.",
     "level": "Ignored"
   },
@@ -281,15 +203,6 @@
     "reasoning": "Content primarily discusses the technical setup and management of virtual machines in Azure, which does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T09:00:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical setup and configuration of virtual machines in Azure, with no focus on products or literature related to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T09:00:31",
@@ -301,25 +214,25 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:43:12",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses creating and managing virtual machines in Azure, which is related to Azure services but does not specifically address Azure DevOps functionalities or practices. While it mentions Azure and some related tools, it lacks a focus on CI/CD, collaboration, or Agile project management within Azure DevOps, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T04:21:01",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical instructions for creating virtual machines in Azure, with minimal personal reflection or insights related to Agile, Scrum, or DevOps. While there are brief mentions of teaching a course and personal experiences with Azure, these are overshadowed by the technical details and do not provide substantial personal anecdotes or insights that align with the 'Personal' category.",
     "level": "Ignored"
   },
@@ -334,22 +247,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T09:00:37",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating and managing virtual machines in Azure, with no clear discussion on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:13:22",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM definition. The discussion is technical and project-oriented, lacking any connection to the product-oriented mindset or continuous delivery principles central to APOM.",
     "level": "Ignored"
   },
@@ -362,56 +275,47 @@
     "reasoning": "Content primarily focuses on technical instructions for creating virtual machines in Azure, with no clear discussion on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T09:00:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for creating virtual machines in Azure, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T04:20:58",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is more aligned with cloud infrastructure management rather than the comprehensive management of the application lifecycle. While it briefly touches on aspects of deployment and configuration, it lacks a thorough discussion of the stages of the application lifecycle, governance, or best practices in application lifecycle management. The mention of ALM in the context of the virtual machine setup is incidental and does not reflect a primary focus on the category.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is entirely focused on creating and configuring virtual machines in Azure and does not mention the Daily Scrum or related Scrum practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating and configuring virtual machines in Azure, with no discussion of the Definition of Done in Agile or Scrum contexts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:20:53",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on the practical steps for creating and managing virtual machines in Azure, which is more aligned with operational tasks rather than a deep exploration of software craftsmanship or engineering principles. While it touches on some technical aspects, such as using PowerShell and configuring Azure, it lacks a thorough discussion on best practices, code quality, or architectural principles that are central to the 'Technical Mastery' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -424,13 +328,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:13:28",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure for training purposes. While it touches on automation through PowerShell, it does not discuss Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
@@ -445,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the process of creating virtual machines in Azure and the associated technical steps, with no mention or focus on Lead Time as a metric or concept.",
     "level": "Ignored"
   },
@@ -463,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and configuration of virtual machines in Azure, with no mention of Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -508,31 +412,31 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating and managing virtual machines in Azure for training, with no relevant discussions on customer feedback mechanisms or integration into product development.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T04:21:07",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical steps for creating and managing virtual machines in Azure, which is more about implementation than operational practices aimed at enhancing efficiency. While it touches on automation and the use of PowerShell, it lacks a broader discussion on process optimisation, continuous improvement, or metrics for operational efficiency, which are key aspects of the 'Operational Practices' category.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of setting up virtual machines in Azure, with no clear focus on Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
@@ -592,10 +496,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical details related to creating and configuring virtual machines in Azure for a training course. There are no significant discussions on team dynamics, collaboration, or Agile principles that align with the category of 'Team Performance'.",
     "level": "Ignored"
   },
@@ -619,40 +523,31 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T14:55:05",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is a technical aspect of software development. It discusses the use of PowerShell for automation, which aligns with best practices in coding and software design. However, while it touches on relevant tools and practices, it lacks a deeper exploration of methodologies or frameworks that guide the software development lifecycle, thus limiting its overall alignment with the category.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content predominantly discusses technical aspects of creating and managing virtual machines in Azure, with no focus on Agile project management principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on creating and managing virtual machines in Azure, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses setting up virtual machines in Azure for a training course, with no mention of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
@@ -676,19 +571,19 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical processes and setups related to Azure virtual machines and does not discuss Scrum values or principles.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and management of virtual machines in Azure, not Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -730,28 +625,19 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical details and processes for creating virtual machines in Azure, with no discussion or focus on customer satisfaction or related principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on creating and managing virtual machines in Azure, related to training setup, with no discussion on Scrum principles or scaling practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical processes for configuring virtual machines in Azure, with no relation to leadership or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -764,33 +650,24 @@
     "reasoning": "Content heavily discusses technical setup and configuration of virtual machines in Azure, with no relevance to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating and configuring virtual machines in Azure, with no discussions relevant to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T04:20:53",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the practical aspects of creating and managing virtual machines in Azure, which is more aligned with operational tasks rather than discussions on engineering excellence. While it touches on automation and some technical details, it lacks a comprehensive exploration of best practices, coding standards, or continuous improvement in engineering processes.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical details of creating virtual machines in Azure and setting up a training environment, with no focus on financial metrics or productivity analysis related to revenue per employee.",
     "level": "Ignored"
   },
@@ -814,24 +691,24 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the technical setup of virtual machines in Azure for a training course, with no relevant discussions on customer retention strategies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T18:33:16",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on the practical steps involved in creating and managing virtual machines in Azure, which aligns with pragmatic problem-solving in a technical context. However, while it discusses real-world applications and some challenges faced, it lacks a deeper exploration of Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The discussion is more about technical execution than strategic problem-solving or adaptability in complex environments.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -844,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details of creating virtual machines in Azure, with no clear focus on measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses creating and managing virtual machines in Azure, which is unrelated to Scrum product development or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses creating training virtual machines in Azure without any reference to Agile methodologies, scaling Agile practices, or coordination among teams.",
+    "reasoning": "Content primarily discusses technical details of creating virtual machines in Azure, with no clear focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -898,10 +757,10 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-15T04:20:53",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content mainly discusses technical implementation and procedures for setting up virtual machines in Azure, which does not directly relate to entrepreneurship principles, innovation, or risk management.",
     "level": "Ignored"
   },
@@ -997,10 +856,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating and managing virtual machines in Azure for a training course, with no clear focus on software release processes or practices.",
     "level": "Ignored"
   },
@@ -1015,28 +874,28 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the process of setting up virtual machines in Azure and does not mention Cycle Time, its measurement, implications, or strategies for improvement.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on creating and managing virtual machines in Azure rather than discussing Azure Pipelines, CI/CD processes, or related practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical setup and configuration of virtual machines in Azure, with no mention of deployment frequency, strategies for CI/CD, or agile methodologies.",
     "level": "Ignored"
   },
@@ -1051,10 +910,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T09:56:54",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical steps for creating and managing virtual machines in Azure, with no focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1069,17 +928,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T04:21:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of creating and managing virtual machines in Azure, which is a specific task rather than a broader discussion on digital transformation strategies or impacts. While it mentions Azure, a digital technology, it lacks a strategic focus on how this technology enhances business agility or fosters innovation. The discussion is more about practical implementation than about the transformative potential of digital technologies in a business context.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T09:56:54",
     "ai_confidence": 0,
@@ -1088,26 +947,17 @@
     "reasoning": "Content primarily focuses on creating training virtual machines in Azure and does not discuss Minimum Viable Product concepts or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses creating and managing virtual machines in Azure without any specific focus on AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T11:49:44",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the configuration of virtual machines in Azure, detailing the steps for setting up, uploading VHDs, and creating instances. It discusses best practices for using Azure PowerShell, addresses troubleshooting issues, and highlights the importance of proper configuration management. The depth of discussion is substantial, covering various aspects of system configuration, including hardware setup, automation, and performance considerations, which aligns well with the key topics of the 'System Configuration' category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1120,10 +970,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-15T09:56:55",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on setting up and configuring virtual machines in Azure for a training course, with no discussion of technical leadership principles or practices.",
     "level": "Ignored"
   },
@@ -1147,31 +997,34 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:56:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on creating virtual machines in Azure for training purposes and does not discuss Test First Development or its related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail on automated or manual testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T16:44:53",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, which is closely related to Windows, particularly through the use of Windows-based virtual machines. There are numerous direct mentions of Windows, including references to Windows 10 and the use of PowerShell commands that are specific to Windows environments. The discussion aligns well with key topics such as installation procedures, configuration settings, and troubleshooting common issues. However, the content also includes broader Azure-related topics, which slightly detracts from its primary focus on Windows, hence the confidence score is not higher.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T09:56:55",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes the process of creating and configuring virtual machines in Azure without discussing deployment strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1186,10 +1039,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T09:56:55",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical processes related to creating and managing virtual machines in Azure, with no mention of team dynamics or motivation strategies.",
     "level": "Ignored"
   },
@@ -1213,15 +1066,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T17:56:43",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content primarily focuses on the process of creating and configuring virtual machines in Azure, with some troubleshooting aspects mentioned, particularly regarding errors encountered during the VM creation process. However, the main emphasis is on setup rather than systematic problem-solving or methodologies for diagnosing issues, which limits its alignment with the troubleshooting category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1234,11 +1087,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:56:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses technical aspects of creating virtual machines in Azure and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating training virtual machines in Azure, with no direct mention of Scrum Master responsibilities or related topics. It lacks alignment with the core themes of the Scrum Master role, such as team dynamics, coaching, or agile principles. The depth of discussion is entirely technical and unrelated to Scrum.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1257,15 +1113,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical process of creating and managing virtual machines in Azure, with no clear focus on working agreements, teamwork, or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T09:56:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on creating training virtual machines in Azure, which does not directly relate to the role of software developers in Agile or DevOps contexts. The discussion lacks emphasis on developer methodologies, practices, or collaborative tools.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,10 +1135,10 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-15T09:56:55",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on creating and configuring virtual machines in Azure, which does not directly relate to managing or discussing technical debt.",
     "level": "Ignored"
   },
@@ -1342,10 +1189,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T09:56:55",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating and configuring virtual machines in Azure, focusing on training environments and Azure VM management, without mentioning Azure Repos or source control practices.",
     "level": "Ignored"
   },
@@ -1369,10 +1216,10 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T09:56:55",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical instructions for creating virtual machines in Azure, and does not discuss trends in Agile, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -1383,15 +1230,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details regarding setting up virtual machines in Azure and does not relate to accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T09:56:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses creating and managing virtual machines in Azure, which is unrelated to Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1423,22 +1261,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:26:37",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical instructions for creating virtual machines in Azure, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions teaching a course, it does not explore the underlying social frameworks or methodologies that promote collaboration or value delivery within organisations.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:13:04",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and management of virtual machines in Azure for training purposes, without a focus on streamlining development processes or the broader context of an Internal Developer Platform.",
     "level": "Ignored"
   },
@@ -1453,62 +1291,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:36:05",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 50,
-    "final_score": 10.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure, with no direct mentions of Scrum principles, roles, events, or practices. While it discusses project management in a technical context, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The discussion lacks depth regarding Scrum, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:17:37",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating and managing virtual machines in Azure for a training course, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks any mention of Shift-Left principles or practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:13:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical process of creating virtual machines in Azure, with no explicit discussion of Continuous Improvement principles. While there are mentions of efficiency and automation, these are not explored in the context of Continuous Improvement methodologies or philosophies. The content lacks depth in discussing empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:13:16",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical process of creating virtual machines in Azure for a training course. While it mentions the need for multiple VMs for students, it does not discuss shared objectives, alignment, or strategic goals within Agile or DevOps frameworks. The discussion lacks depth in connecting to the principles of Common Goals, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:13:19",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical process of creating virtual machines in Azure, with minimal direct discussion of competence or skill development. While it touches on the challenges of teaching technical courses, it lacks a strong emphasis on continuous learning or the development of professional capabilities, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating virtual machines in Azure, with no explicit discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks depth in exploring the transformative capacity of individuals or systems in shaping outcomes.",
     "level": "Ignored"
   }
 }

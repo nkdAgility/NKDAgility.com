@@ -2,7 +2,7 @@
 title: 'Unlocking Agile Consulting: Transform Your Organisation with Diverse Strategies and Continuous Learning'
 description: Unlock the secrets of Agile Consulting! Discover diverse strategies, empower your team, and maximise value in your organisation. Join the journey today!
 date: 2023-06-17T07:30:02Z
-weight: 720
+weight: 690
 ResourceId: 82_yTGt9pLM
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -24,14 +24,12 @@ preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
-- People and Process
 - Agile Strategy
 - Organisational Agility
-- Continuous Learning
-- Discovery and Learning
 - Organisational Change
 - Pragmatic Thinking
 - Agile Philosophy
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T08:22:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the refactoring of a TFS Event Handler project without any mention of AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T08:22:14",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the refactoring of a project and the architecture of services, rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of a project, specifically the refactoring of an event handler, without any focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T08:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of a project refactor without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T08:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a software project, specifically the refactoring of an event handler, without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -82,15 +55,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:48:20",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a refactor of a TFS Event Handler project, which implies some technical practices related to modular architecture. However, it lacks explicit mentions of key topics such as TDD, CI/CD, or Agile methodologies. The discussion is somewhat aligned with the principles of technical excellence but does not provide sufficient depth or detail on these practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -112,10 +85,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T08:22:33",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of refactoring a TFS Event Handler and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -128,25 +101,16 @@
     "reasoning": "Content primarily discusses the refactoring of a specific project related to event handling, without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:48:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses a refactor of a TFS Event Handler project, which involves breaking down a large solution into smaller components. While this touches on aspects of code quality and modular design, it lacks a deeper exploration of complexity theory or best practices in software development. The mention of services and message queues indicates some awareness of architectural considerations, but the overall discussion remains superficial and does not fully engage with the core themes of the category.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T08:22:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of a project refactor and does not address Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a TFS EventHandler project, discussing modular approaches and event handling without any reference to Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making, current value, or any of the key topics outlined in the EBM definition.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -203,24 +167,6 @@
     "reasoning": "Content primarily discusses a technical refactor of a project without any reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T08:22:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical details of a project refactor rather than industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T08:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the refactoring of a specific project without a clear focus on Agile or DevOps methodologies, tools, or best practices.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T08:22:53",
@@ -250,20 +196,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T08:22:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of a project rather than Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T08:22:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical project related to TFS Event Handler and MSMQ refactoring, with no focus on events or presentations.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a TFS Event Handler project, discussing modularisation and event handling rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM framework. The discussion is more aligned with software development practices than with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -302,33 +242,6 @@
     "reasoning": "Content primarily discusses technical aspects of a project refactor rather than personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T08:23:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical implementation details of a project rather than on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T08:23:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of a project refactor without addressing transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T08:23:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of a TFS Event Handler project, with no focus on products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T08:23:10",
@@ -340,19 +253,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:23:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the refactoring of a TFS Event Handler project, focusing on technical implementation rather than DevOps principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a TFS Event Handler project, discussing modularisation and event handling. While it touches on aspects of automation and streamlining processes, it lacks explicit discussions on DevOps principles such as collaboration, shared accountability, or continuous improvement. The mention of services and message queues is relevant to software development but does not directly align with the core themes of DevOps as a philosophy.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T08:23:12",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the refactoring of a specific project (TFS Event Handler) and does not focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -394,20 +310,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the ongoing refactoring of a project and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a refactoring project and service architecture, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a refactor of the TFS EventHandler and discusses modularisation and event handling, which are not directly related to Continuous Delivery principles. While there is a mention of streamlining processes, it lacks explicit discussions on Continuous Delivery practices, automation, or user feedback, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -426,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a technical implementation of an event handler refactor rather than discussing empirical process control or its principles within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the technical aspects of a TFS Event Handler project and does not address Scaling Scrum or related topics.",
     "level": "Ignored"
   },
   "Increment": {
@@ -502,15 +412,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:21:00",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a software refactor project, indicating progress towards a working version, which aligns with the concept of delivering functional software. However, it lacks detailed discussion on quality assurance, user feedback, or iterative development practices, which are crucial for the 'Working Software' category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -532,23 +442,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:10:18",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a specific software development project involving the refactoring of a TFS Event Handler, which aligns with software engineering practices. It mentions the restructuring of solutions and the interaction between services, indicating an understanding of software architecture. However, the discussion lacks depth in methodologies or best practices, focusing more on personal progress rather than broader software development concepts.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on refactoring a project and does not mention Test First Development principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the refactoring of a TFS EventHandler project, focusing on modularity and event handling. There are no explicit mentions of Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to the category, as it does not address any of the key topics associated with Test First Development.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -562,10 +475,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details and the refactoring of a project without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -614,15 +527,6 @@
     "reasoning": "Content is focused on the technical details of a software project and does not discuss long-term objectives or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of a TFS Event Handler and message queue refactor but does not address scaling Agile methodologies or the coordination of multiple teams.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T09:52:29",
@@ -643,10 +547,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of an MSMQ refactor for a TFS Event Handler project, which is unrelated to team performance, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -688,10 +592,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of refactoring a software project and does not discuss Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -715,15 +619,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:48:20",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a technical refactor of a project, which touches on software design and architecture. However, it lacks explicit mentions of best practices, principles of clean code, or detailed methodologies that contribute to high-quality software development. The discussion is primarily focused on the author's progress and plans rather than a deep exploration of technical mastery concepts.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -790,10 +694,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details about a software project and its architecture without addressing Agile values or principles.",
     "level": "Ignored"
   },
@@ -871,10 +775,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of a project involving MSMQ and TFS Event Handlers, with no relevance to the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -887,7 +791,7 @@
     "reasoning": "Content primarily discusses a TFS Event Handler project, without clear focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T09:52:29",
     "ai_confidence": 0,
@@ -939,18 +843,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of TFS Event Handler and MSMQ Refactor without any mention of Agile methodologies or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:48:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific technical project related to TFS Event Handler and MSMQ refactoring, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and does not delve into best practices or collaborative aspects that are central to the category. The focus is primarily on the technical implementation rather than the role of software developers within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1007,15 +899,6 @@
     "reasoning": "Content primarily focuses on technical implementation and project specifics related to TFS EventHandler and MSMQ, without any direct discussion of Scrum Values.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses a technical refactor of a TFS Event Handler project without any focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Product Validation": {
     "category": "Product Validation",
     "calculated_at": "2025-02-17T09:52:29",
@@ -1045,10 +928,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the technical aspects of a software project and does not discuss cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
@@ -1063,13 +946,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:48:20",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a refactoring effort, which touches on aspects of software craftsmanship and improving code structure. However, it lacks explicit mentions of best practices, quality assurance, or broader engineering processes. The focus is primarily on the specific implementation details of the TFS Event Handler project rather than a comprehensive discussion on engineering excellence.",
     "level": "Ignored"
   },
@@ -1102,15 +985,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:48:20",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a practical refactoring project related to TFS Event Handler, which indicates a focus on real-world application and problem-solving. However, it lacks explicit mentions of Agile, Scrum, or DevOps principles, and the discussion is more about the technical implementation rather than broader pragmatic strategies. The depth of discussion is moderate, primarily focusing on the technical aspects of the refactor rather than the strategic implications or methodologies involved.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1150,10 +1033,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a technical project related to TFS Event Handler and MSMQ refactoring, with no discussion of remote working practices, agile methodologies, or related challenges.",
     "level": "Ignored"
   },
@@ -1177,10 +1060,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of a software project, specifically the refactoring of an event handler, with no mention of working agreements or team collaboration.",
     "level": "Ignored"
   },
@@ -1220,15 +1103,6 @@
     "reasoning": "Content primarily discusses a TFS Event Handler project and refactoring, with no clear focus on test automation principles, frameworks, or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of a software project without focus on Scrum principles, roles, or product development methodologies.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T09:52:29",
@@ -1249,11 +1123,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical refactoring project and does not relate to Scrum Master responsibilities or topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a TFS EventHandler project, with no explicit discussion of Scrum Master roles, responsibilities, or related concepts. It lacks any mention of Scrum practices, team dynamics, or agile principles, which are central to the Scrum Master category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1276,29 +1153,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical project regarding refactoring a software component, without clear focus on innovation practices or measurement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on technical implementation details of a project rather than discussing strategies or frameworks for scaling agility within an organization.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a technical implementation of a project involving TFS Event Handler and MSMQ refactor, without discussing Agile principles, frameworks, or methodologies that align with Agile Project Management.",
+    "reasoning": "Content primarily discusses a technical project regarding refactoring a software component, without clear focus on innovation practices or measurement of innovation capabilities.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1321,10 +1180,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:52:29",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical details of a project rather than collaboration, communication, or Agile principles.",
     "level": "Ignored"
   },
@@ -1344,15 +1203,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a technical project related to TFS Event Handler and MSMQ refactoring, with no clear mention or discussion of Value Stream Mapping or related Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a project refactor involving TFS Event Handler and MSMQ, with no clear connection to AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1375,11 +1225,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:31:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of a TFS Event Handler project and MSMQ refactoring, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a TFS EventHandler project, discussing modularisation and event handling without addressing themes of collaboration, decision-making, or value delivery. While it mentions services and event handling, it lacks explicit discussion of social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1411,26 +1264,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:48:20",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a technical refactor of a TFS Event Handler project, with no explicit mention of Scrum principles, roles, or events. While it touches on project management aspects, it lacks direct references to Scrum or its core themes, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:50:36",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses the refactoring of a TFS Event Handler project, focusing on the restructuring of solutions and services. There are no explicit mentions of the Shift-Left Strategy, nor does it align with its core themes such as early integration of testing, security, or compliance. The discussion lacks depth regarding any Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a TFS EventHandler project, detailing the implementation of a modular approach. It lacks explicit discussions on Common Goals, such as alignment within teams or strategic objectives. While it mentions the restructuring of services, it does not connect these changes to broader organisational goals or Agile principles, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a project, discussing the modular approach and event handling. While there is a hint of competence in the mention of streamlining processes, it lacks explicit discussions on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is limited to technical details without addressing the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a technical refactor of a project, discussing the modularisation of the TFS EventHandler. While there is a hint of improvement in the approach taken, it lacks explicit discussions on Continuous Improvement principles, such as empirical evidence, team effectiveness, or a culture of experimentation. The mention of streamlining event handling suggests some alignment with Continuous Improvement, but it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a technical refactor of a TFS EventHandler project, focusing on modularity and event handling. There are no explicit mentions of Agentic Agility or its principles, and the discussion does not align with the core themes of intentionality, autonomy, or adaptability. The depth of discussion is limited to technical implementation details, lacking any exploration of the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

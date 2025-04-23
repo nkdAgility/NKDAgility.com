@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses a software release and its features, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:24:21",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses a specific tool, Data Dude, and its enhancements, which aligns with the category's focus on practical tooling. However, it lacks detailed exploration of methodologies or frameworks related to Agile or DevOps practices. The mention of deployment from a USB stick hints at practical application but does not provide in-depth insights or best practices, resulting in a moderate confidence score.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:57:42",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:23:23",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the features and enhancements of a software tool, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:57:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release of a software tool with feature enhancements and bug fixes, without addressing code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:57:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release of a software tool with feature enhancements and bug fixes, lacking a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:57:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:57:49",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a new version of a software tool with feature enhancements and bug fixes, but does not provide actionable instructions or insights related to installation or configuration.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:57:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software update and its features, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -113,24 +65,15 @@
     "reasoning": "Content primarily discusses a software release and its features without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:57:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:23:10",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the features of a specific software tool (Data Dude R2) and its enhancements for SQL 2008 support. While there is a brief mention of deployment, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The content does not delve into the cultural or philosophical aspects of DevOps, making it peripheral to the category.",
     "level": "Ignored"
   },
@@ -152,15 +95,6 @@
     "reasoning": "Content primarily discusses a software release and its features, with no focus on decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:57:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no mention of events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:58:00",
@@ -168,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software tool with feature enhancements and bug fixes, without focusing on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:58:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -199,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:58:04",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software tool with feature enhancements and bug fixes, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -269,18 +194,6 @@
     "reasoning": "Content primarily discusses a software release and its features, with no direct relation to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-07T15:46:09",
-    "ai_confidence": 68.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 60.0,
-    "ai_depth": 65.0,
-    "non_ai_confidence": 10,
-    "final_score": 62.0,
-    "reasoning": "The content primarily discusses the release of a specific software product, 'Data Dude R2', and its features, which aligns with the category of Products and Books. It provides a detailed overview of the product's enhancements and encourages users to consider its benefits, indicating a focus on a software tool relevant to Agile and DevOps practices. However, it lacks a deeper analysis or review of the product in the context of Agile methodologies, which slightly lowers the confidence score.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:58:14",
@@ -319,22 +232,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:58:19",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a specific software tool (Data Dude R2) and its features, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:23:22",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the features of a software release (Data Dude R2) and its enhancements for SQL 2008 support. There are no direct mentions of the Agile Product Operating Model or its principles. The discussion does not align with the core themes of APOM, such as product management practices or agile methodologies. The depth of discussion is limited to product features and does not explore any relevant agile concepts.",
     "level": "Ignored"
   },
@@ -346,18 +259,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and its features, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-10T13:09:58",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the release of a new version of a software tool, which aligns with the category of industry news. It provides specific details about the enhancements and bug fixes, indicating a review-like quality. However, it lacks broader context regarding Agile or DevOps practices, which diminishes its overall alignment with the category's core themes.",
-    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -379,10 +280,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a software release without any mention of the Definition of Done or relevant Agile and Scrum topics.",
     "level": "Ignored"
   },
@@ -406,13 +307,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:23:26",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the features and enhancements of a specific software release (Data Dude R2) and does not explicitly discuss Continuous Delivery principles or practices. While there is a brief mention of deployment, it lacks depth and does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
@@ -445,10 +346,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a software release and its features, with no discussion related to Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -508,10 +409,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and its features, with no relevance to Scrum teams or their dynamics.",
     "level": "Ignored"
   },
@@ -571,10 +472,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses software updates and features related to a database development tool, with no focus on team performance or agile team collaboration.",
     "level": "Ignored"
   },
@@ -589,40 +490,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a software release and database development tools rather than Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:43:47",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a specific software tool (Data Dude) and its enhancements, which relates to software development. However, it lacks a detailed exploration of methodologies or practices within the software development lifecycle. The mention of database development aligns with the category, but the overall focus is more on the tool rather than broader software development concepts.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio Team System and features related to database development, with no clear focus on Agile Project Management principles or practices.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific software release and its features, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -716,15 +608,6 @@
     "reasoning": "Content focuses on feature enhancements and technical details of a software release without discussing customer satisfaction, experience, or feedback.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a new release of a database development tool and does not discuss any topics related to Scaling Scrum.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:38",
@@ -743,24 +626,15 @@
     "reasoning": "Content heavily discusses software development and updates to a tool, with no relation to psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software update and features related to database development, with no clear focus on scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:24:21",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses a specific software release (Data Dude R2) and its features, which does not directly address the principles of engineering excellence. While it mentions improvements and enhancements, it lacks a focus on best practices, quality assurance, or continuous improvement in engineering processes. The discussion is more about product features than about fostering a culture of excellence in software development.",
     "level": "Ignored"
   },
@@ -775,10 +649,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the announcement and features of a specific software tool, lacking any discussion of asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -820,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific software release and its features, with no focus on measuring or improving innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a new release of software tools for database development, with no relation to Scrum principles or product development processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses Visual Studio Team System and database development without any reference to Scaled Agile principles, frameworks, or practices.",
+    "reasoning": "Content primarily discusses a specific software release and its features, with no focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,13 +739,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:24:21",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a new version of a software tool (Data Dude) and its enhancements, which implies a focus on software functionality. However, it lacks explicit discussions on working software principles, customer feedback, or Agile methodologies. The mention of feature enhancements and bug fixes indicates some alignment with the category, but the overall depth and focus on working software concepts are limited.",
     "level": "Ignored"
   },
@@ -949,10 +805,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses updates and features of a specific database tool without any mention of hypotheses, experiments, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -976,13 +832,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:24:21",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content mentions a new release of a software tool, highlighting feature enhancements and bug fixes, which aligns with the concept of release management. However, it lacks detailed discussion on release planning, scheduling, or coordination processes, and does not provide in-depth insights into the release management practices or metrics. The focus is more on the product itself rather than the strategies and practices of managing the release.",
     "level": "Ignored"
   },
@@ -1033,19 +889,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and enhancements of Visual Studio Team System and database development, with no focus on team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on updates and features of Visual Studio Team System 2008 Database Edition, with no discussions related to Behaviour Driven Development.",
     "level": "Ignored"
   },
@@ -1058,7 +914,7 @@
     "reasoning": "Content primarily discusses the release of a software update for Data Dude with a focus on feature enhancements and bug fixes, without any clear connection to digital transformation strategies or concepts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:38",
     "ai_confidence": 0,
@@ -1067,21 +923,12 @@
     "reasoning": "Content is primarily focused on software version updates and feature enhancements, with no discussion of Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses enhancements and features of Visual Studio Team System with no mention of AI in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a software tool, but does not focus on system configuration aspects such as installation, setup, or optimization.",
     "level": "Ignored"
   },
@@ -1123,11 +970,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on new features and updates for a database development tool, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of a specific software tool, Data Dude R2, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1159,10 +1009,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses software updates and features rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1177,10 +1027,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses updates to a software tool without focusing on principles or practices related to Continuous Learning or team improvement.",
     "level": "Ignored"
   },
@@ -1204,11 +1054,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses software and database development tools without any reference to the role of a Scrum Master or related Scrum practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a software release and its features, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1227,15 +1080,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses a software release and features, with no relation to working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the release of a specific software tool (Data Dude R2) and its features without discussing Agile, DevOps, or the role of software developers in these contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1330,10 +1174,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and improvements of Visual Studio Team System 2008 Database Edition, unrelated to Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1355,15 +1199,6 @@
     "reasoning": "Content discusses software updates and features, with no mention of accountability or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a software release with no relation to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:38",
@@ -1375,22 +1210,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:38",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a new version of a database development tool with feature enhancements and does not reference TDD principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:47:01",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the features and enhancements of a specific software tool (Data Dude R2) for database developers. It does not discuss any aspects of collaboration, decision-making, or value delivery within organisations, which are central to the Social Technologies category. The mention of database development tools is tangential and does not align with the core themes of social technologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1423,62 +1258,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:55:09",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a software release related to Visual Studio Team System and does not mention Scrum principles, roles, events, or any related topics. There is minimal conceptual alignment with Scrum, as it focuses on database development rather than collaborative project management or iterative processes.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:37:10",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a new release of Visual Studio Team System 2008 Database Edition and its features, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on software development, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:23:14",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the release of a software update, highlighting new features and improvements. While it mentions enhancements and performance improvements, it does not explicitly discuss Continuous Improvement principles or strategies. The discussion lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or integration into organisational processes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:23:16",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the features and enhancements of a software tool, specifically Data Dude R2, without any discussion of Common Goals, Agile, or DevOps principles. There are no explicit mentions of shared objectives or alignment strategies, and the depth of discussion is limited to product features rather than strategic alignment.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:23:19",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the features and enhancements of a software tool, with no explicit discussion on competence, continuous learning, or skill development. While it mentions benefits for database developers, it does not delve into the principles of professionalism or quality delivery that underpin the concept of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of a software tool, specifically Data Dude R2, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

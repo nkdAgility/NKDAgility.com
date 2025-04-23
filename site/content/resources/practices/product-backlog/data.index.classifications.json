@@ -1,13 +1,4 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-13T10:00:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-13T10:00:06",
@@ -17,7 +8,7 @@
     "reasoning": "Content primarily focuses on the concept of a Product Backlog and its items, which does not directly address team collaboration or dynamics within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-13T10:00:08",
     "ai_confidence": 0,
@@ -37,11 +28,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-13T10:00:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:31:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Product Backlog, which is not directly related to the measurement or optimisation of throughput.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is related to project management and agile development. However, it does not explicitly mention throughput or discuss it as a delivery metric. The alignment with the core themes of throughput is minimal, as the content does not delve into measuring or analysing throughput, nor does it provide any depth on the topic. Overall, the content is largely irrelevant to the category of throughput.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -55,10 +49,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-13T10:00:13",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on defining a Product Backlog and Product Backlog Items, which are more related to Agile methodologies rather than Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -136,11 +130,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-13T10:00:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:31:48",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not directly related to the measurement or improvement of innovation capabilities.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the definition and components of a Product Backlog, which is a fundamental aspect of Agile project management. However, it does not explicitly discuss innovation or its mechanisms, nor does it provide insights into fostering or sustaining innovation within an organisation. The mention of a Product Backlog does not align with the core themes of the Ability to Innovate category, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -154,13 +151,13 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions the concept of a Product Backlog, which is a component of Agile planning, but does not provide substantial detail or discussion on Agile Planning Tools or their functionalities. It lacks a comprehensive exploration of techniques, tools, or strategies related to Agile planning, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -175,11 +172,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T10:00:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the Product Backlog and its items, which are not directly related to the Scrum Master role.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Product Backlog, which is a component of Scrum but does not discuss the role or responsibilities of the Scrum Master. There are no direct mentions of the Scrum Master, and the discussion lacks depth regarding the Scrum framework or its principles.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -193,13 +193,13 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions the concept of a Product Backlog, which is a component of Agile Planning, but does not delve into Agile principles, methodologies, or practices. The discussion lacks depth and does not explore how the Product Backlog fits into the broader context of Agile Planning, such as iterative planning or stakeholder alignment.",
     "level": "Ignored"
   },
@@ -223,13 +223,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T17:07:40",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of Agile project management. It does not explicitly discuss Evidence-Based Management or its key topics, such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion is too general and lacks depth in relation to evidence-based practices.",
     "level": "Ignored"
   },
@@ -271,13 +271,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T17:07:37",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of Agile project management rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, and the discussion does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or delivery practices. The depth of discussion is minimal, as it only introduces the concept without exploring its relevance to Continuous Delivery.",
     "level": "Ignored"
   },
@@ -380,33 +380,15 @@
     "reasoning": "Content primarily focuses on the concept of a Product Backlog and its items, which is not directly related to cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-13T10:01:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not provide sufficient information about software developers or their roles in Agile or DevOps contexts; it only introduces the concept of a product backlog without further discussion.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-13T10:01:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on the concept of a Product Backlog without reference to scaling Agile practices or coordination among multiple teams.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly introduces the concept of a Product Backlog, which is a key element in Agile methodologies, particularly Scrum. However, it lacks detailed discussion on the Software Development Life Cycle or related practices. The mention of the Product Backlog is relevant but not sufficiently detailed to provide a strong alignment with the broader themes of software development.",
     "level": "Ignored"
   },
@@ -572,18 +554,6 @@
     "reasoning": "Content focuses on the concept of a Product Backlog, which is related to Scrum and Agile methodologies, rather than Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-14T17:50:53",
-    "ai_confidence": 35.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions the concept of a Product Backlog, which is relevant to Agile Project Management, particularly in the context of managing project backlogs and prioritising work. However, it lacks detailed discussion on agile principles, frameworks, or roles, resulting in a low confidence score.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-13T10:01:35",
@@ -595,10 +565,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-13T10:01:36",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the concept of a product backlog without discussing the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -613,13 +583,13 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content provides a basic introduction to the Product Backlog and mentions Product Backlog Items, but lacks detailed discussion on its purpose, management techniques, or the role of the Product Owner. The depth of discussion is minimal, indicating that while the topic is relevant, it does not fully explore the key themes or provide substantial insights into backlog management.",
     "level": "Ignored"
   },
@@ -652,10 +622,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-13T10:04:15",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the concept of a Product Backlog, which is more related to project management and implementation rather than the methodologies and practices of identifying customer needs and defining product features.",
     "level": "Ignored"
   },
@@ -688,11 +658,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-13T10:04:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:00:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Product Backlog and its items, which are not directly related to Lead Time.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the concept of a Product Backlog, which is not directly related to Lead Time. There are no explicit mentions of Lead Time or its importance as an observability metric. The discussion does not align with the core themes of Lead Time, such as measuring efficiency or optimising workflows. Additionally, the depth of discussion is minimal, providing only a brief introduction to the Product Backlog without any connection to Lead Time.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -704,24 +677,12 @@
     "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not directly related to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-14T17:50:53",
-    "ai_confidence": 35.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 32.0,
-    "reasoning": "The content briefly introduces the concept of a Product Backlog, which is a key element in Scrum product development. However, it lacks detailed discussion on Scrum principles, roles, or processes, and does not provide sufficient depth or context to fully align with the category's focus.",
-    "level": "Ignored"
-  },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-13T10:04:27",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the concept of a Product Backlog and its items, which are more related to Agile/Scrum practices rather than overarching product strategy discussions.",
     "level": "Ignored"
   },
@@ -817,11 +778,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-13T10:04:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:31:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the concept of a Product Backlog, which is related to project management and agile development rather than system configuration. There are no direct mentions of system configuration, and the themes discussed do not align with the core topics of system setup, automation, or maintenance. The depth of discussion is minimal, as it only introduces the concept without any relevant details.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -831,15 +795,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a Product Backlog, which is unrelated to the management and implications of technical debt.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-13T10:04:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the definition of a Product Backlog and Product Backlog Items, which are not specific to scaling Scrum practices.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -871,31 +826,22 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-13T10:04:51",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a product backlog and backlog items, without delving into backlog refinement practices or techniques.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-13T10:04:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "reasoning": "Content primarily discusses the concept of a product backlog and backlog items, without delving into backlog refinement practices or techniques.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly introduces the concept of a product backlog, which is relevant to product management, particularly in Agile methodologies. However, it lacks depth and does not explore strategic alignment, customer needs, or business objectives, which are core themes of the category. The mention of 'Product Backlog' is too vague to indicate a strong focus on product management as a whole.",
     "level": "Ignored"
   },
@@ -937,20 +883,11 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-13T10:05:01",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of a Product Backlog, which is not directly related to validating product ideas through user engagement.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-13T10:05:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not related to Scaling Kanban principles or practices.",
+    "reasoning": "Content heavily discusses the concept of a Product Backlog, which is not directly related to validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1018,22 +955,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T10:05:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not related to Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is related to project management and agile development, rather than discussing Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the importance of testing in the context of development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 32.0,
+    "final_score": 35.0,
     "reasoning": "The content briefly mentions the Product Backlog, which is a key Scrum artifact, but lacks detailed exploration of its purpose, management, or its role within the Scrum framework. The discussion does not cover other Scrum roles, events, or principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1044,15 +984,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the concept of a Product Backlog, which is related to Agile methodologies but does not specifically mention Azure DevOps or its functionalities.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-13T09:59:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog without reference to specific products, books, or literature related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1091,15 +1022,6 @@
     "reasoning": "Content primarily focuses on the definition of a Product Backlog and Product Backlog Items, without addressing the interplay between technology and organisational structures or any sociotechnical aspects.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-13T09:59:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Product Backlog and its items, which are not directly related to transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-13T09:59:29",
@@ -1129,10 +1051,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-13T09:59:33",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content only briefly mentions the concept of a product backlog without discussing Agile principles, methodologies, or practices related to product management.",
     "level": "Ignored"
   },
@@ -1145,43 +1067,16 @@
     "reasoning": "Content heavily discusses the concept of a Product Backlog, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-13T09:59:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog, which is not related to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-13T09:59:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on defining concepts related to Product Backlog and Product Backlog Items, without discussing industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:45:00",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a project management tool associated with Agile methodologies rather than DevOps principles. There are no direct mentions of DevOps, and the discussion does not align with the core themes of collaboration, automation, or shared accountability that define DevOps. The depth of discussion is also minimal, as it only introduces the concept without exploring its implications in a DevOps context.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-13T09:59:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the definition of a Product Backlog and Product Backlog Items, without discussing human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -1191,24 +1086,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Product Backlog, which is more related to Agile methodologies rather than technical engineering practices or excellence.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-13T09:59:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Product Backlog and its items, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-13T09:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Lean": {
@@ -1236,24 +1113,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-13T09:59:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-13T09:59:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily defines the concept of a Product Backlog without discussing practical techniques, tools, or methodologies related to Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -1312,23 +1171,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly introduces the concept of a Product Backlog, which is a component of Agile methodologies relevant to product delivery. However, it lacks detailed discussion on how it integrates with the overall product delivery process, such as planning, prioritisation, or deployment strategies. The mention of 'Product Backlog' indicates a connection to product delivery, but the content does not provide sufficient depth or comprehensive alignment with the broader themes of the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-13T10:00:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Product Backlog without reference to discovery or learning processes.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
@@ -1369,13 +1219,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:45:14",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions the Product Backlog, which is a component of agile development, but it does not explicitly discuss the Agile Product Operating Model or its core principles. The focus is more on project management rather than the product-oriented mindset central to APOM.",
     "level": "Ignored"
   },
@@ -1390,13 +1240,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:47:31",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a technical aspect of Agile project management. While it may indirectly relate to collaboration and decision-making in an Agile context, it does not explicitly discuss social technologies or their principles. The mention of the Product Backlog is brief and lacks depth in exploring how it fosters collaboration or enhances value delivery within organisations.",
     "level": "Ignored"
   },
@@ -1420,74 +1270,242 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-14T17:50:53",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content explicitly mentions 'Product Backlog', which is a key artifact in Scrum, indicating a direct mention. However, it lacks broader discussions on Scrum roles, events, or principles, resulting in a moderate alignment with the core themes of Scrum. The depth of discussion is limited to defining the Product Backlog and its items, which does not provide extensive detail on the Scrum framework as a whole.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T15:40:45",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses solely on defining a Product Backlog and its items, which does not relate to the Shift-Left Strategy. There are no direct mentions or discussions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it address any principles or benefits associated with the Shift-Left approach.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T17:07:19",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of Agile project management, but does not explicitly discuss Continuous Improvement principles or practices. There are no direct mentions of continuous improvement techniques, empirical evidence, or strategies for fostering a culture of experimentation. The alignment with the core themes of Continuous Improvement is minimal, and the depth of discussion is very limited, focusing only on defining the Product Backlog without exploring its role in continuous improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T17:07:22",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a specific tool within Agile project management. While it may indirectly relate to Common Goals by facilitating alignment through backlog items, it does not explicitly discuss shared objectives or the foundational principles of aligning strategy with execution. The discussion lacks depth and does not address the broader implications of Common Goals in Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T17:07:33",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a tool in Agile project management. While it may indirectly relate to competence through effective project management practices, it does not explicitly discuss competence, continuous learning, or skill development. The mention of key components for effective project management is too vague to establish a strong connection to the core themes of competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T17:07:34",
+    "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of agile development rather than the One Engineering System. There are no direct mentions of 1ES, and the discussion does not align with the core themes of integration and standardisation of engineering processes. The depth of discussion is also minimal, as it only introduces the concept without exploring its relation to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the concept of a Product Backlog, which is a fundamental aspect of Agile project management, but does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, and the discussion lacks depth regarding the interplay between human and AI capabilities.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:31:00",
+    "ai_confidence": 65.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 65.0,
+    "reasoning": "The content directly mentions the 'Product Backlog' and 'Product Backlog Item', which are essential components of Agile product development. However, it lacks depth in discussing methodologies or practices that facilitate product delivery. While it aligns conceptually with Agile principles, the content does not provide substantial detail or exploration of iterative processes or customer feedback integration, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:31:03",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a component of Agile project management. While it may indirectly relate to Time to Market by facilitating prioritisation and organisation of tasks, it does not explicitly discuss Time to Market metrics, strategies, or its importance in delivering value quickly. The discussion lacks depth and does not provide insights into improving Time to Market or its impact on customer satisfaction.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:31:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the concept of a Product Backlog, which is a key element of Agile project management. However, it does not mention GitHub or its functionalities, making it irrelevant to the GitHub category. The alignment with GitHub is minimal as it does not discuss any GitHub services or tools, and the depth of discussion is limited to a brief overview of the Product Backlog without any connection to GitHub.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:31:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the mechanics of a Product Backlog, which is a specific aspect of agile frameworks like Scrum. It does not discuss the principles of Agnostic Agile, nor does it provide any context-driven insights or comparisons with other methodologies. The mention of 'agile development' is too vague and does not align with the core themes of Agnostic Agile, which emphasises ethical and context-driven practices.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:31:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a tool used in agile project management. It does not explicitly discuss the principles of treating the organisation as a product, nor does it address customer-centric strategies or organisational design. The mention of a Product Backlog is tangentially related to agile methodologies but lacks depth in exploring how these concepts align with the CaaP framework. Overall, the content does not meet the criteria for a strong alignment with the 'Company as a Product' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:31:17",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the concept of a Product Backlog, which is primarily related to project management and agile development practices. It does not directly mention or discuss the principles of Cell Structure Design, nor does it align with the core themes of decentralised organisational structures or autonomous cells. The depth of discussion is minimal, as it only introduces the concept without exploring its implications or connections to the Cell Structure Design model.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:31:20",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content focuses solely on the concept of a Product Backlog, which is a component of Agile project management, without any reference to Liberating Structures or their facilitation techniques. There are no direct mentions of the category, and the discussion does not align with the core themes of participation, collaboration, or group dynamics inherent in Liberating Structures. The depth of discussion is minimal, as it only introduces the concept without exploring its implications or applications in a collaborative context.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:31:24",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a fundamental aspect of agile methodologies. However, it does not explicitly mention Hybrid Agile or engage with the critical examination of merging traditional project management with agile practices. The discussion lacks depth and does not address any of the key topics outlined for the Hybrid Agile category, such as challenges, case studies, or the implications of conflicting expectations. Therefore, while there is a minimal connection to agile principles, it does not align with the specific focus of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:31:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on defining a Product Backlog and its items, which are essential for project management and agile development. However, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities. The mention of a Product Backlog could tangentially relate to identifying opportunities for value, but it lacks depth and direct relevance to the concept of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:31:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a fundamental aspect of Agile project management. However, it does not explicitly discuss scaling methodologies, frameworks, or strategies for cross-team collaboration, which are essential for the 'Scaling' category. The mention of the Product Backlog is too general and does not delve into the complexities or strategies involved in scaling Agile practices, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:31:32",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the definition and components of a Product Backlog, which is a tool in Agile project management. It does not explicitly mention Current Value or its importance in Evidence-Based Management. While there may be an indirect connection to value delivery through effective backlog management, the content lacks direct discussions on metrics, techniques, or decision-making related to Current Value, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:31:36",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 55.0,
+    "reasoning": "The content mentions the Product Backlog, which is a key component in agile project management, indicating a direct mention of project management concepts. However, it primarily focuses on a specific agile artefact without delving into broader project management principles or methodologies. The alignment with core themes is moderate, as it touches on effective project management but lacks depth in discussing the project lifecycle, roles, or tools. Overall, while it relates to project management, it does not comprehensively cover the category's scope.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:31:39",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the concept of a Product Backlog, which is a fundamental aspect of Agile methodologies but does not specifically address Open Space Agile principles or practices. There are no direct mentions of Open Space Technology, psychological safety, or co-creation, which are key themes in the Open Space Agile category. The discussion lacks depth and does not explore the collaborative change processes that characterise Open Space Agile.",
     "level": "Ignored"
   }
 }

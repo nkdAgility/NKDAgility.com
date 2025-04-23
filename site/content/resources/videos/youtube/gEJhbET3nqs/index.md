@@ -2,7 +2,7 @@
 title: "Unlocking Agile Leadership: Transform Your Skills with Scrum.org's Essentials Workshop"
 description: Unlock your leadership potential with the Professional Agile Leadership Essentials workshop. Enhance your skills, foster collaboration, and drive agile success today!
 date: 2020-07-07T20:10:33Z
-weight: 625
+weight: 590
 ResourceId: gEJhbET3nqs
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,16 +25,20 @@ preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
 tags:
-- Agile Leadership
 - Organisational Agility
-- Events and Presentations
-- People and Process
-- Technical Leadership
+- Agile Leadership
 - Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
 - Agile Frameworks
 - Business Agility
+- Social Technologies
+- Software Development
+- Team Collaboration
+- Enterprise Agility
+- Organisational Culture
+- Team Performance
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +47,8 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Technical Leadership
 - Scrum
-- Social Technologies
 
 ---
 As a professional Scrum trainer and Microsoft MVP, I often find myself reflecting on the transformative power of agile methodologies. Today, I want to share my insights on the Professional Agile Leadership Essentials workshop offered by Scrum.org, which I believe is crucial for anyone looking to enhance their leadership skills in an agile environment.

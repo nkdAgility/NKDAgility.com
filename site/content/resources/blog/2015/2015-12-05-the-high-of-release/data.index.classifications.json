@@ -1,74 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T22:59:48",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps rather than Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:36:35",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 20,
-    "final_score": 80.0,
-    "reasoning": "The content explicitly discusses new Release Management tools and their application in building reliable release pipelines, which directly aligns with the category's focus on practical techniques and tooling. It provides specific examples of tools like Chef, Puppet, Docker, and PowerShell, demonstrating a clear understanding of how these tools can be integrated into DevOps practices. The depth of discussion is substantial, as it not only mentions the tools but also elaborates on their orchestration and integration capabilities, making it a strong fit for the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T03:55:39",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Release Management tools and their role in DevOps, which relates to platform engineering. However, it primarily focuses on specific tools and their orchestration rather than the broader principles of platform engineering. While there are mentions of building release pipelines and integration, the discussion lacks depth in terms of internal developer platforms and enhancing developer productivity, which are core themes of platform engineering.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T21:22:04",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses new Release Management tools from Microsoft and their capabilities in DevOps, without any explicit mention of Evidence-Based Management principles or metrics. While it touches on aspects of release pipelines and engineering excellence, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM. The discussion is more about tool features than about managing for outcomes or value delivery.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on DevOps tools and practices, with no direct discussion of code quality or software complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Release Management tools and DevOps practices, without a clear focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Release Management tools and DevOps practices without a focus on AI and automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,36 +43,27 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T03:55:41",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses new Release Management tools and their capabilities, which aligns with installation and configuration processes. It mentions the ability to create release pipelines and deploy applications, indicating a focus on practical implementation. However, it lacks detailed step-by-step instructions or troubleshooting advice, which limits its depth. Overall, while it touches on relevant topics, it does not provide comprehensive guidance, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses tools and technologies related to release management and DevOps, with no clear focus on transparency or accountability principles within Agile teams.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T03:55:45",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses DevOps and Release Management tools, which are relevant to market adaptability. However, it primarily focuses on the tools themselves rather than strategies or methodologies that enhance responsiveness to market changes. While there are mentions of orchestration and integration, the depth of discussion on how these tools contribute to market adaptability is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -122,24 +74,15 @@
     "reasoning": "Content heavily discusses technical tools and their functionalities without addressing their organisational context or the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses release management tools and their implementation without addressing organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T21:21:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 75.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses new Release Management tools from Microsoft that enhance DevOps practices, particularly in streamlining release pipelines. It explicitly mentions DevOps and focuses on tools that facilitate orchestration and integration, which aligns with the DevOps philosophy of collaboration and automation. However, the discussion is primarily tool-centric and lacks a deeper exploration of the cultural and philosophical aspects of DevOps, such as shared accountability or continuous improvement, which limits the overall depth of the content.",
     "level": "Secondary"
   },
@@ -161,18 +104,6 @@
     "reasoning": "Content primarily discusses Release Management tools and DevOps practices without a focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-11T11:47:48",
-    "ai_confidence": 85.0,
-    "ai_mentions": 25.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content explicitly mentions attending the Microsoft Future Decoded event and discussing a presentation on Release Management tools, which directly aligns with the category of Events and Presentations. The focus on DevOps and the details about the session indicate a strong connection to the themes of the category. However, while the content provides insights into the tools discussed, it lacks extensive detail on the event itself or broader discussions that typically characterise presentations, which slightly lowers the depth score.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T22:59:48",
@@ -180,15 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on Release Management tools and DevOps practices, lacking a clear emphasis on optimizing work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on tools and technologies related to Release Management and DevOps, with little discussion on human elements or processes influencing team dynamics or productivity.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,22 +124,22 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T03:55:33",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps practices, which are related to operational efficiency but do not explicitly address the principles of business agility. While there are mentions of orchestration and integration that could support agile practices, the focus is more on specific tools and their functionalities rather than on fostering a culture of innovation or adaptability within organisations. Therefore, the content does not align closely with the core themes of business agility.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T22:59:48",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new Release Management tools and their functionalities without focusing on metrics, feedback mechanisms, or learning principles in Agile or DevOps contexts.",
     "level": "Ignored"
   },
@@ -232,13 +154,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:30:51",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses new Release Management tools and their role in building reliable release pipelines, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). However, while it touches on technical practices, the focus is more on the tools themselves rather than a deep exploration of engineering methodologies or principles that enhance agility. The discussion lacks detailed insights into how these tools integrate with broader engineering practices or the impact on team collaboration and project success, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -262,13 +184,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T14:40:24",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses new Release Management tools and their role in creating reliable release pipelines, which directly relates to product delivery. It mentions DevOps, orchestration, and integration, aligning well with the methodologies and practices of delivering software products. The depth of discussion on the tools and their applications in deployment adds to the confidence score, although it lacks broader coverage of other product delivery aspects like planning and testing.",
     "level": "Secondary"
   },
@@ -283,46 +205,34 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T22:59:48",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and DevOps practices without a clear focus on Value Stream Management principles or techniques.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-11T14:52:54",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily discusses new Release Management tools from Microsoft, focusing on their capabilities and integration with DevOps practices. There are direct mentions of the tools and their functionalities, which aligns with the category's focus on software products. However, while the discussion is detailed regarding the tools, it lacks a broader analysis or review aspect typical of the 'Products and Books' category, such as comparisons or recommendations. Therefore, while the content is relevant, it does not fully meet the depth and conceptual alignment expected for a higher confidence score.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T03:55:25",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses new Release Management tools and their capabilities, which aligns with the principles of continuous integration and delivery (CI/CD). However, it primarily focuses on technical implementation details and personal experiences rather than explicitly discussing value delivery strategies or methodologies. While there are mentions of orchestration and integration that could relate to value delivery, the overall emphasis is more on the tools themselves rather than on how they enhance customer satisfaction or business agility.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T16:42:42",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Azure DevOps tools, specifically focusing on Release Management and the capabilities of VSTS (Visual Studio Team Services). It provides insights into building release pipelines and the flexibility of integrating various tools, which aligns well with Azure DevOps functionalities. However, while it mentions Azure and DevOps concepts, it does not delve deeply into specific methodologies or best practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
@@ -346,13 +256,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T21:21:59",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no explicit mention of the Agile Product Operating Model or its core principles. While there is a focus on enhancing release pipelines, it does not align with the product-oriented mindset or the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
@@ -365,27 +275,15 @@
     "reasoning": "Content mainly discusses new Release Management tools and DevOps practices rather than organisational agility or the associated cultural and structural shifts.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-11T10:22:06",
-    "ai_confidence": 82.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 27.0,
-    "non_ai_confidence": 10,
-    "final_score": 75.0,
-    "reasoning": "The content discusses a recent event (Microsoft Future Decoded) and provides insights into new Release Management tools related to DevOps, which aligns well with the category. It mentions specific tools and their applications, indicating a focus on industry updates. However, while it provides some detail, it lacks a comprehensive review or analysis of the tools, which slightly lowers the depth score.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T12:35:06",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Release Management tools and their integration within DevOps practices, which aligns with the application lifecycle management theme. However, it primarily focuses on specific tools and their capabilities rather than a comprehensive discussion of the entire application lifecycle stages or governance practices. The mention of deployment and orchestration indicates some relevance, but the depth of discussion on broader ALM principles is limited.",
     "level": "Secondary"
   },
@@ -400,22 +298,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses release management tools and DevOps practices, without mention of the Definition of Done or its related principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T03:55:02",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses new Release Management tools and their role in DevOps, which aligns with the principles of technical delivery and engineering excellence. However, the focus is more on the tools and their capabilities rather than a deep exploration of best practices or methodologies in software craftsmanship. While it mentions orchestration and integration, it lacks detailed discussion on code quality, maintainability, or testing practices, which are crucial for a higher confidence score in the Technical Mastery category.",
     "level": "Secondary"
   },
@@ -430,22 +328,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T21:22:01",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses new Release Management tools from Microsoft that enhance DevOps and streamline release pipelines, which aligns with Continuous Delivery principles. However, it primarily focuses on the tools rather than the broader concepts of Continuous Delivery, such as automation, incremental improvements, or cultural aspects. The discussion lacks depth in exploring the principles and practices of Continuous Delivery, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses release management tools and DevOps practices, without a focus on long-term strategic goals or business agility.",
     "level": "Ignored"
   },
@@ -469,19 +367,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses release management tools and DevOps, without any focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses release management tools and DevOps practices, which are not focused on portfolio management concepts such as project alignment, prioritisation, or value optimization.",
     "level": "Ignored"
   },
@@ -523,22 +421,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-13T17:01:47",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses new Release Management tools and their application in creating reliable release pipelines, which aligns with operational practices in DevOps. However, while it mentions the tools and their capabilities, it lacks detailed strategies or techniques for optimising processes or improving operational efficiency, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on release management tools and DevOps practices, with no discussion on Scrum team dynamics or roles.",
     "level": "Ignored"
   },
@@ -553,13 +451,13 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T03:55:48",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Release Management tools and their orchestration capabilities, which are relevant to DevOps practices. However, it lacks a direct focus on strategic alignment or the development of strategic approaches within Agile or Scrum frameworks. While it touches on the importance of tools in achieving engineering excellence, it does not delve into strategic planning, execution, or the integration of Lean principles, which are core themes of the Strategy category.",
     "level": "Ignored"
   },
@@ -601,10 +499,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses release management tools and DevOps strategies without a clear focus on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -628,54 +526,45 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T03:55:04",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 82.0,
     "ai_mentions": 75.0,
     "ai_alignment": 85.0,
     "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps practices, which are central to software development methodologies. It explicitly mentions the creation of release pipelines and the integration of various tools, aligning well with the core themes of software engineering. The depth of discussion is substantial, providing insights into the functionality and benefits of the tools, as well as practical applications in deploying software. Overall, the content is highly relevant to the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Release Management tools in relation to DevOps, lacking a focus on agile principles or methodologies.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses DevOps and Release Management tools without reference to Agile Values and Principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps rather than Scrum principles, roles, and practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T03:55:28",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses modern release management tools and their integration with DevOps practices, which aligns with the principles of modern source control. It mentions the orchestration of release pipelines and the flexibility of using various tools, indicating a focus on effective collaboration and project tracking. However, it lacks detailed discussions on specific version control methodologies or branching strategies, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -697,19 +586,19 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and DevOps practices, without focusing on Azure Boards or Agile project management methodologies.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and DevOps, with no strong focus on collaboration tools specific to Agile teams.",
     "level": "Ignored"
   },
@@ -733,13 +622,13 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T03:55:09",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses new Release Management tools and their capabilities, which aligns with the principles of Continuous Delivery and DevOps. However, while it mentions release pipelines and orchestration, it lacks a detailed exploration of frequent releases as a primary focus. The discussion is more about the tools rather than the broader implications of frequent releases, which affects the depth and alignment scores.",
     "level": "Secondary"
   },
@@ -752,21 +641,12 @@
     "reasoning": "Content heavily discusses Release Management tools and DevOps practices without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management tools and DevOps, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Release Management tools and DevOps practices without reference to evidence-based leadership principles or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -779,24 +659,15 @@
     "reasoning": "Content primarily discusses Release Management tools and DevOps practices, which do not focus on psychological safety or its related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management tools and their integration rather than scaling agile principles across organizations.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:35:01",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses new Release Management tools and their role in creating reliable release pipelines, which aligns with the principles of engineering excellence. However, while it mentions DevOps and orchestration, it lacks a deeper exploration of best practices, coding standards, or continuous improvement processes. The focus is more on the tools rather than the underlying engineering practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -838,13 +709,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T03:55:16",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses practical tools and strategies for release management within a DevOps context, highlighting the importance of adaptability and integration of various technologies. It mentions the use of different tools like Chef, Puppet, and Docker, which aligns with pragmatic problem-solving in complex environments. However, while it touches on these themes, the discussion lacks depth in terms of specific problem-solving strategies or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -859,29 +730,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on release management tools and DevOps practices rather than innovation capabilities or evidence-based management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management tools and DevOps practices, with no clear focus on Scrum principles, roles, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content largely discusses Release Management tools and DevOps practices without a focus on scaling Agile or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -922,36 +775,36 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T03:55:35",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 63.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses new Release Management tools and their capabilities, which are relevant to the delivery of functional software. However, it primarily focuses on the tools and orchestration rather than the characteristics of working software or best practices for ensuring software quality. While there are mentions of deployment and release pipelines, the depth of discussion on working software principles is limited.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and DevOps practices rather than Agile Planning Tools specifically.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T03:55:30",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses Release Management tools and their integration with DevOps practices, which are related to Continuous Integration. However, it primarily focuses on release processes rather than the core principles of CI itself. While there are mentions of building reliable release pipelines and orchestration, the discussion lacks depth on CI-specific practices such as automated testing, code merging, or CI tools. Therefore, while there is some relevance, it does not fully align with the Continuous Integration category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -982,10 +835,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses release management tools and DevOps practices, without a clear focus on Site Reliability Engineering principles.",
     "level": "Ignored"
   },
@@ -1018,15 +871,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T03:55:12",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 85.0,
     "ai_mentions": 90.0,
     "ai_alignment": 80.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content explicitly discusses new Release Management tools and their capabilities, which directly aligns with the category's focus. It provides detailed insights into the tools' functionalities, such as building reliable release pipelines and orchestration, indicating a strong depth of discussion. The mention of deployment strategies and integration with various technologies further enhances its relevance to Release Management. Overall, the content is primarily focused on the topic, demonstrating a high level of confidence in its classification.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1048,43 +901,43 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T03:55:18",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
     "ai_alignment": 75.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 72.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses Release Management tools and their integration with Azure DevOps, specifically mentioning the creation of release pipelines and deployment strategies. It aligns well with the core themes of Azure Pipelines, such as automation of software development processes and CI/CD practices. However, while it provides a good overview and some detail, it lacks in-depth technical specifics about pipeline configurations or YAML usage, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-15T03:55:53",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses new Release Management tools and their capabilities in creating reliable release pipelines, which aligns with the concept of optimising deployment frequency. However, it lacks a direct focus on deployment frequency as a primary topic, and while it mentions deployment in the context of cloud environments, it does not delve deeply into strategies or metrics for increasing deployment frequency.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and practices related to DevOps, without a focus on change management principles or strategies.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and DevOps practices, without a clear focus on team collaboration dynamics or interactions.",
     "level": "Ignored"
   },
@@ -1099,17 +952,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T03:55:23",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses new Release Management tools and their role in DevOps, which aligns with digital transformation by enhancing operational efficiency and agility. However, it lacks a broader strategic discussion on digital transformation initiatives and their impact on organisational culture or change management practices. The focus is primarily on specific tools and their functionalities rather than a comprehensive view of digital transformation.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T08:56:43",
     "ai_confidence": 0,
@@ -1118,24 +971,15 @@
     "reasoning": "Content primarily discusses release management tools and DevOps practices without focusing on the concept of Minimum Viable Product.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Release Management tools and DevOps processes without focusing on AI integration or applications.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T03:55:55",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses Release Management tools and their orchestration capabilities, which are related to system configuration. However, the primary focus is on DevOps practices and tooling rather than the specific methodologies and best practices of system configuration. While there are mentions of deployment and integration, the depth of discussion does not delve into configuration management or optimisation strategies, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -1150,13 +994,13 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-15T03:55:51",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses new Release Management tools and their capabilities, which relates to DevOps practices. However, it lacks a direct focus on technical leadership principles, such as mentoring or team dynamics. While it touches on orchestration and integration, it does not delve into how these tools can influence team collaboration or agile methodologies, resulting in a low confidence score for the category.",
     "level": "Ignored"
   },
@@ -1171,45 +1015,48 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses release management tools and DevOps but does not focus on cross-functional teams or their characteristics, benefits, or challenges.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Release Management tools and DevOps, with no clear focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no explicit mention of Test First Development principles or practices. While it touches on aspects of software delivery, it does not align with the core themes of defining success criteria or the importance of testing methodologies, thus resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T03:55:21",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses Microsoft tools and services related to release management and DevOps, which are relevant to the Windows ecosystem. However, it does not focus specifically on the Windows operating system itself, such as installation, configuration, or troubleshooting. The mention of Visual Studio Team Services (VSTS) and Azure indicates some alignment with Windows-related topics, but the primary focus is on release management processes rather than Windows OS management. Therefore, while there are relevant elements, the content does not meet the criteria for a strong alignment with the Windows category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T03:55:14",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses new Release Management tools and their capabilities in creating release pipelines, which aligns with deployment strategies. However, it lacks detailed exploration of specific methodologies like Blue-Green Deployments or Canary Releases, and instead focuses more on the tools and orchestration aspects. The mention of deploying to cloud environments is relevant but does not delve into the strategic methodologies of deployment, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1222,19 +1069,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of Release Management tools and DevOps without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Release Management tools and DevOps practices, without discussing remote working or Agile team collaboration directly.",
     "level": "Ignored"
   },
@@ -1267,11 +1114,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management tools and DevOps practices, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no direct mention of the Scrum Master role or its responsibilities. While there is a brief mention of teams striving for engineering excellence, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is focused on technical tools rather than the Scrum framework or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1285,24 +1135,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and DevOps, with no focus on working agreements or teamwork norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:54:52",
-    "ai_confidence": 78.0,
-    "ai_mentions": 70.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content discusses DevOps and Release Management tools, which are directly relevant to software developers. It highlights the importance of building reliable release pipelines and the flexibility of using various tools, aligning well with modern engineering practices. The depth of discussion on orchestration and integration of tools indicates a strong understanding of the developer's role in these processes, although it lacks explicit mention of Agile methodologies or team dynamics.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1315,13 +1153,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T03:55:37",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 67.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses Release Management tools and DevOps practices, which are relevant to engineering practices, particularly in the context of CI/CD. However, it lacks a detailed exploration of core Agile principles like clean code or TDD. The focus is more on tooling and orchestration rather than the underlying engineering methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1345,10 +1183,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses release management tools, DevOps, and technical deployment practices, which do not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1381,10 +1219,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T08:56:43",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and DevOps practices without a clear focus on Azure Repos specifically.",
     "level": "Ignored"
   },
@@ -1424,15 +1262,6 @@
     "reasoning": "Content heavily discusses release management tools and DevOps without focusing on accountability in team dynamics or ownership.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management tools in a DevOps context and does not focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T08:56:43",
@@ -1462,22 +1291,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:24:07",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of new Release Management tools from Microsoft, discussing their capabilities and integration with existing systems. While it touches on DevOps, which can relate to social technologies, it lacks explicit discussions on collaboration, decision-making, or value delivery. The mention of teams striving for engineering excellence is too vague to establish a strong connection to the core themes of social technologies. Overall, the content does not delve deeply into the social frameworks or methodologies that promote collaboration and continuous improvement.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:10:34",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Release Management tools and their role in building release pipelines, which aligns with the concept of Internal Developer Platforms as it touches on streamlining development processes. However, the primary focus is on specific tools and events rather than a comprehensive discussion of IDPs.",
     "level": "Tertiary"
   },
@@ -1492,74 +1321,86 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:34:25",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps practices, with no direct mention of Scrum principles, roles, or events. While there is a brief reference to team needs, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on tooling rather than Scrum practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:15:20",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses Release Management tools and DevOps practices without explicitly addressing the Shift-Left Strategy. While there are mentions of building reliable release pipelines, the focus is on orchestration and integration rather than on integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in terms of Shift-Left principles and does not provide techniques or case studies related to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T21:21:46",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses new Release Management tools and their capabilities in enhancing DevOps processes. While it touches on aspects of improving release pipelines, it lacks a direct focus on Continuous Improvement principles such as empirical evidence, culture of experimentation, or systematic strategies for integrating improvement into organisational processes. The mention of 'engineering excellence' and 'reliable release pipelines' suggests some alignment with Continuous Improvement, but the depth of discussion is more about tool features than the philosophy or practices of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T21:21:50",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses new Release Management tools from Microsoft and their capabilities in enhancing DevOps processes. While it touches on orchestration and integration, it lacks a direct focus on Common Goals as defined in the category. There are no explicit mentions of shared objectives or alignment with strategic goals, and the discussion remains largely technical without delving into the principles of Agile or DevOps related to Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T21:21:53",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses new Release Management tools and their capabilities in enhancing DevOps processes. While it touches on the idea of engineering excellence, it lacks a direct focus on competence as defined in the category. There are no explicit discussions on continuous learning, skill development, or fostering a culture of competence. The mention of 'engineering excellence' is vague and does not delve into the necessary skills or professional development aspects that underpin competence. Overall, the content is more about tools and processes rather than the development of skills and capabilities.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T21:21:57",
+    "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses new Release Management tools from Microsoft and their role in enhancing DevOps and release pipelines. While it touches on integration and orchestration, it does not explicitly mention the One Engineering System framework or its principles. The focus is more on specific tools rather than the broader concepts of standardisation and integration across teams, which are central to 1ES. Therefore, while there are relevant elements, the primary focus is not on the One Engineering System itself.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Release Management tools and DevOps practices without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it mentions adaptability in tool usage, it lacks a focus on autonomy, accountability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -33,12 +33,13 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Software Development
 - Agile Frameworks
 - Operational Practices
+- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 If you're talking about Kanban versus Scrum, chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.

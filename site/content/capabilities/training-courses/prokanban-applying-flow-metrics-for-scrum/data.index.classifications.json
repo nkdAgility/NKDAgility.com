@@ -1,43 +1,43 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-21T11:18:39",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 2,
     "ai_depth": 3,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on Scrum and flow metrics, which are technical aspects of Agile practices. While it mentions collaboration and continuous improvement, these concepts are secondary to the technical discussion of metrics. The course does not explicitly address broader social technologies or frameworks that promote collaboration and decision-making within organisations, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:01:21",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of flow metrics within Scrum, which relates to improving engineering practices and team efficiency. However, the primary focus is on Scrum methodologies rather than broader engineering excellence principles.",
     "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:18:42",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and Agile practices, with a specific emphasis on flow metrics within that framework. While there are elements of continuous improvement and efficiency, which are relevant to DevOps, the core discussion revolves around Scrum methodologies rather than the broader DevOps philosophy. The lack of direct mentions of DevOps principles and the absence of a detailed exploration of shared accountability, automation, or cross-functional collaboration further diminish its alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:01:23",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Scrum practices and flow metrics, which are relevant to product management but are not the central theme. It discusses how these metrics can enhance Scrum processes, indicating a secondary theme related to product management.",
     "level": "Tertiary"
   },
@@ -52,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on applying flow metrics within Scrum practices, which relate to agile methodologies. While it touches on the optimization of team efficiency and delivery, it does not centralize on broader business agility principles or strategies distinct from Scrum itself.",
     "level": "Tertiary"
   },
@@ -70,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on how to apply flow metrics within the Scrum framework, discussing Scrum events and processes in depth while enhancing Agile practices.",
     "level": "Secondary"
   },
@@ -88,49 +88,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T14:59:55",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which is more aligned with Agile practices than with Evidence-Based Management. While it mentions metrics like Cycle Time, it does not explicitly discuss how these metrics inform decision-making or enhance value delivery based on empirical evidence. The discussion lacks a direct connection to the core themes of EBM, such as current value or unrealised value, and does not provide a comprehensive exploration of how these metrics can lead to data-informed management decisions.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses flow metrics in Scrum, focusing on Agile practices rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on Scrum and flow metrics relevant to Scrum practices, with no significant discussion or central theme related to Scaling Kanban.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on Scrum and flow metrics, without a clear emphasis on hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses Scrum, including its events and metrics, which aligns closely with the Agile Frameworks category. It emphasizes the application of flow metrics within Scrum, demonstrating practical applications and enhancing organizational agility.",
     "level": "Secondary"
   },
@@ -145,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on flow metrics in Scrum and does not directly address the Definition of Ready.",
     "level": "Ignored"
   },
@@ -159,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is primarily focused on the application of flow metrics within Scrum practices and does not analyze trends or discuss their implications on Agile methodologies, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on flow metrics within Scrum, without discussing scaling Agile practices across multiple teams or enterprise-level initiatives.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -181,19 +154,19 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and events, focusing on Agile practices rather than technical software development principles and practices.",
     "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions Sprint Reviews in the context of applying Flow Metrics but is primarily focused on metrics and overall Scrum practices rather than the specific event of the Sprint Review.",
     "level": "Tertiary"
   },
@@ -208,19 +181,19 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying flow metrics within Scrum to enhance team efficiency and performance. It discusses practical strategies for integrating flow metrics into Scrum events, which is directly related to improving team dynamics and effectiveness.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses integrating flow metrics into Scrum events which can relate to collaboration tools, but the primary focus is on Scrum processes rather than collaboration tools specifically.",
     "level": "Tertiary"
   },
@@ -235,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 70,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
+    "final_score": 70.0,
     "reasoning": "The course content discusses applying flow metrics to optimize Scrum processes, which is relevant to product delivery, particularly in terms of planning and execution aspects. However, the primary focus is on flow metrics and Scrum practices rather than the broader scope of end-to-end product delivery.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on flow metrics in Scrum and Agile practices without any mention or discussion of AI.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -260,39 +224,21 @@
     "reasoning": "Content primarily focuses on Scrum practices and flow metrics, with no direct discussion on digital transformation or the strategic use of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content focuses on the application of flow metrics within Scrum, emphasizing team efficiency and collaboration, which are central to the 'People and Process' category. However, the primary focus is more on metrics and processes rather than the interplay of human behavior or team dynamics.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses exclusively on Scrum practices and flow metrics, with no mention of Test Driven Development.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content focuses primarily on the application of flow metrics in the Scrum framework, providing practical strategies and detailed guidance for improving Agile practices related to project management.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses flow metrics, which relate to Lean principles, particularly in the context of Scrum and Agile. However, it primarily focuses on Scrum practices, making Lean Thinking a secondary theme rather than the primary focus.",
     "level": "Tertiary"
   },
@@ -303,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses flow metrics and their application within Scrum, without a clear focus on accountability or team ownership.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum metrics and practices, without focusing on transparency or accountability.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -334,91 +271,97 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on applying flow metrics within the context of Scrum, which diverges from Kanban principles.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses flow metrics in Scrum and how they can enhance team efficiency and Scrum practices, which are relevant to technical leadership; however, it primarily focuses on metrics and practices rather than the broader principles of technical leadership.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 65,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content focuses heavily on applying flow metrics within Scrum, including improving Sprint Planning and other Scrum events. Agile Planning Tools are a significant aspect of the course, though the primary focus is on flow metrics rather than a comprehensive overview of Agile Planning Tools themselves.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily focused on applying flow metrics within the Scrum framework, discussing their application in Scrum events and how they relate to the Scrum Master's role in improving team efficiency and performance.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses on applying flow metrics within the Scrum framework, which is relevant to the role of a Scrum Master. It discusses the integration of metrics to enhance team efficiency and project outcomes, aligning with the Scrum Master's responsibility to facilitate continuous improvement. However, while it touches on the Scrum Master's influence, it does not explicitly discuss the role or responsibilities of the Scrum Master in detail, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying flow metrics within Scrum, which is a key part of Agile Planning. It discusses how to optimize Sprint Planning and includes strategies for effective usage of metrics in various Scrum events, aligning closely with Agile Planning principles.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Flow Metrics in Scrum and specific practices rather than the foundational values and principles of Agile.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 85,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
+    "final_score": 85.0,
     "reasoning": "The content primarily focuses on applying flow metrics within the Scrum framework to enhance team efficiency, streamline processes, and optimize workflow, which aligns closely with the principles of Flow Efficiency in Lean and Agile methodologies.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on applying flow metrics in Scrum and does not discuss Test First Development, TDD, or related practices.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, with no direct mention of Test First Development principles or practices. While it discusses Agile practices and team efficiency, it does not address success criteria, testing methodologies, or the importance of testing in the context of development, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses the application of flow metrics in Scrum, which is central to enhancing forecasting accuracy and improving team efficiency. It clearly ties flow metrics to Sprint planning and progress tracking, thus showcasing a primary focus on forecasting within Agile practices.",
     "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The course extensively explores Flow Metrics, including Cycle Time, and discusses its importance within Scrum processes, making it a primary topic. The content focuses on how flow metrics enhance team efficiency, with specific emphasis on Cycle Time and its application.",
     "level": "Secondary"
   },
@@ -442,100 +385,82 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of flow metrics in Scrum, which involves some aspects of estimation, particularly in enhancing Sprint Planning and making forecasts during Daily Scrum. However, while estimation is a theme, it is not the central topic; the focus leans more toward flow metrics and their application in Scrum practices.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "While the course mainly focuses on flow metrics and their application in Scrum, there is a significant emphasis on Product Backlog Item refinement practices which suggests that backlog refinement is a secondary theme.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of flow metrics in Scrum, which can support innovation processes by enhancing team efficiency and project outcomes. However, it primarily focuses on Scrum practices rather than explicitly measuring or improving innovation capabilities.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the application of flow metrics within the Scrum framework, which is a key component of Agile transformation strategies and practices.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses flow metrics in the context of Scrum and Agile practices, which focuses more on project management rather than core engineering practices such as Clean Code, TDD, or CI/CD.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses flow metrics, which are related to process optimization and improving efficiency in Scrum. While Lean principles focus on waste reduction and value maximization, this content primarily centers on Scrum practices with a secondary emphasis on metrics that can contribute to those goals.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses flow metrics and their application within Scrum, but does not directly address the Scrum Values of commitment, courage, focus, openness, or respect.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on flow metrics and Scrum processes, with no clear emphasis on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content focuses on the application of flow metrics in Scrum, detailing practical strategies for their integration into Scrum events, along with discussions on specific analytical tools and techniques. It emphasizes hands-on learning and real-world application, making it a primary discussion of practical techniques relevant to Agile and DevOps.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on flow metrics within Scrum and does not discuss Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 79,
     "non_ai_confidence": 20,
-    "final_score": 73.0,
+    "final_score": 79.0,
     "reasoning": "The content discusses the refinement of Product Backlog Items in the context of flow metrics within Scrum, suggesting a significant focus on backlog management as part of the course objectives.",
     "level": "Secondary"
   },
@@ -547,15 +472,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a course about applying flow metrics in Scrum without any personal reflections, experiences, or insights.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content mainly focuses on a training course about flow metrics in Scrum, it includes practical strategies for integrating flow metrics into various Scrum events. This makes the topic a major but secondary theme in relation to the main content.",
-    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -577,21 +493,12 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content discusses the application of flow metrics specifically within the Scrum framework, focusing on the roles involved and their interactions during Scrum events. It emphasizes enhancing team performance through effective use of metrics in Scrum practices.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum metrics and practices at the team level, without addressing scaling agility across organizations or multiple teams.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -652,23 +559,23 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses enhancing Agile practices and team efficiency through the use of flow metrics in Scrum, which relates to team collaboration. However, it primarily focuses on metrics and detailed practices rather than broader strategies for fostering collaboration.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of flow metrics particularly in the context of enhancing the Daily Scrum, which indicates that while Daily Scrum is not the primary focus, it is a significant aspect of the course.",
     "level": "Tertiary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T00:39:24",
     "ai_confidence": 0,
@@ -686,33 +593,24 @@
     "reasoning": "Content primarily focuses on Scrum and Agile practices, with no relevant discussion on the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content addresses flow metrics and their application within Scrum, which suggests a focus on improving team efficiency and outcomes. However, while it connects to performance measurement and enhancement through learning from metrics, the primary emphasis is more on traditional Scrum practices rather than on discovery and innovation processes themselves.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum practices and metrics that can enhance team efficiency, which indirectly relates to self-organisation. However, it primarily focuses on metrics rather than the core principles of self-organisation.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:18:52",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum practices and flow metrics, which are specific to agile methodologies but do not directly address the Agile Product Operating Model. While it mentions improving team efficiency and project outcomes, it lacks a clear connection to product management principles or the broader themes of the APOM. The discussion is more about Scrum than the integration of agile with product management, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -727,19 +625,19 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses flow metrics in Scrum, which deviates from the core principles of Behavior Driven Development.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses primarily on applying flow metrics within Scrum practices, which supports Agile methodologies that can enhance market adaptability. However, the content does not directly discuss market shifts or competitive pressures, making the relevance somewhat indirect.",
     "level": "Tertiary"
   },
@@ -754,10 +652,10 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses performance metrics in Scrum, which is related to transparency in terms of measuring progress and improving team visibility, but it primarily focuses on flow metrics and their application rather than on transparency itself.",
     "level": "Tertiary"
   },
@@ -772,21 +670,21 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content focuses heavily on the application of flow metrics to improve Scrum processes, highlighting the role of data-driven insights in facilitating more accurate Sprint Planning, progress tracking, and team performance improvements. Although it discusses decision-making within the context of Scrum, the overall theme is more about implementing metrics than a structured decision-making framework.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 85,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
+    "final_score": 85.0,
     "reasoning": "The content primarily focuses on the application of flow metrics within Scrum, emphasizing data collection, analysis, and their impact on Scrum processes, which aligns closely with the themes of metrics and learning.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -799,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and flow metrics, with no direct discussion on Lean Product Development principles or waste reduction.",
     "level": "Ignored"
   },
@@ -813,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses flow metrics in Scrum, focusing on improving team efficiency and project outcomes rather than mentoring processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on flow metrics in Scrum without discussing AI or automation.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -835,46 +724,46 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on applying flow metrics within Scrum processes, which is a significant aspect of optimizing Agile practices and improving team performance. While it discusses metrics that inform strategic decisions in Agile environments, the overall emphasis is more on practical applications than on overarching strategic formulation or alignment.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying flow metrics in Scrum to enhance team efficiency and optimize Scrum processes, aligning well with operational practices in Agile frameworks.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-21T11:18:34",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily focuses on specific Scrum practices, flow metrics, and their application, rather than the broader Agile Philosophy or its underlying principles.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses flow metrics in the context of Scrum rather than Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses improving Scrum practices and team efficiency, which aligns with coaching concepts, but its primary focus is on flow metrics and their application in Scrum rather than coaching itself. Coaching is a secondary theme here.",
     "level": "Tertiary"
   },
@@ -889,10 +778,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on applying flow metrics within Scrum practices, which relates to enhancing team performance and improving processes. While the course enhances Agile practices, it is primarily about flow metrics rather than a central theme of Continuous Learning or creating a culture of experimentation and innovation.",
     "level": "Tertiary"
   },
@@ -925,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses flow metrics applied within the Scrum framework, focusing on enhancing Agile practices which is central to Agile Product Management.",
     "level": "Secondary"
   },
@@ -943,21 +832,12 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum roles and the application of flow metrics specifically within Scrum processes, not on Value Stream Management principles.",
     "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content focuses primarily on flow metrics in Scrum practices, it discusses the application within various Scrum events, hinting at a broader theme of Scrum optimization that could relate to scaling practices. However, it does not directly address scaling Scrum principles across multiple teams or organizational levels.",
-    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -968,21 +848,12 @@
     "reasoning": "The content primarily focuses on Scrum practices and flow metrics, without a clear emphasis on the sociotechnical interplay between technology and organizational structures.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content pertains to a course focused on applying flow metrics in Scrum, which relates to Agile practices and methodologies. While it focuses primarily on the course itself rather than specific products or literature, it discusses learning and practical application of Agile principles, making it a secondary but relevant theme.",
-    "level": "Tertiary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The course focuses on the application of flow metrics within Scrum, emphasizing data-driven decision-making and continuous improvement, which aligns with the principles of empirical process control.",
     "level": "Secondary"
   },
@@ -997,21 +868,24 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on the practical application of flow metrics in Scrum, providing actionable insights and strategies for enhancing team efficiency and project outcomes, which aligns well with pragmatic thinking in Agile contexts.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses flow metrics, which are related to measuring efficiency and delivery processes in Scrum. While Lead Time is not the primary focus, it appears as a secondary theme within the context of enhancing team efficiency and delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-11T09:17:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, mentioning Cycle Time and other related metrics but does not explicitly discuss Lead Time. While there is some conceptual alignment regarding the importance of metrics in improving efficiency, the depth of discussion does not sufficiently cover Lead Time as a distinct observability metric. Therefore, the confidence score reflects a low primary focus on Lead Time.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1024,10 +898,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on applying flow metrics within the Scrum framework, which relates to improving working software delivery, but the primary theme is about metrics rather than directly about delivering functional software.",
     "level": "Tertiary"
   },
@@ -1042,10 +916,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with a primary focus on Agile practices and metrics rather than Lean principles.",
     "level": "Ignored"
   },
@@ -1060,28 +934,28 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and flow metrics, with no clear focus on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses primarily on applying flow metrics within the Scrum framework, which is closely related to software development methodologies and practices, particularly Agile and Scrum, making it a significant topic in software development.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of flow metrics and data-driven practices within Scrum, which aligns with evidence-based decision making in leadership, though it primarily focuses on Agile practices rather than leadership explicitly.",
     "level": "Tertiary"
   },
@@ -1096,10 +970,10 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses flow metrics within the context of Scrum, focusing on their application for enhancing decision-making related to team efficiency and project outcomes. While the primary focus is on Agile practices, the mention of using metrics for better decision-making in Scrum indicates that decision theory is a significant secondary theme.",
     "level": "Tertiary"
   },
@@ -1121,15 +995,6 @@
     "reasoning": "Content heavily focuses on flow metrics within Scrum, not on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content is focused on applying flow metrics within the context of Scrum, which is a framework primarily used by software developers and Agile practitioners. It emphasizes enhancing Agile practices and improving the role of Scrum teams, making it highly relevant to software developers operating in Agile environments.",
-    "level": "Secondary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-18T00:39:24",
@@ -1150,30 +1015,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on applying flow metrics within Scrum and does not address installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects relevant to the Product Owner role, particularly in the context of Scrum events and backlog refinement. However, the primary focus is on flow metrics and their application in Scrum rather than exclusively on the responsibilities or techniques specific to Product Owners.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a training course for applying flow metrics in Scrum, which does not fit into the category of news or reviews. It is more instructional and promotional than informational about trends or industry updates.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1186,46 +1042,46 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily focuses on applying flow metrics in Scrum, which leans more towards Agile practices, it does discuss technical aspects such as flow metrics, which can contribute to improved engineering practices and team efficiency. However, the main emphasis is still on Scrum methodologies rather than deeply technical engineering practices.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and flow metrics, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles, events, and flow metrics without addressing asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on flow metrics and Scrum practices without a clear emphasis on Agile leadership roles or principles.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on flow metrics in Scrum, lacking emphasis on team motivation strategies or dynamics.",
     "level": "Ignored"
   },
@@ -1240,78 +1096,72 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses flow metrics in the context of Scrum practices and does not focus on product validation methodologies or user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on flow metrics, including key metrics such as Work in Progress (WIP), Cycle Time, and Throughput, and their applications to enhance Scrum practices, making throughput a central theme.",
     "level": "Secondary"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-21T11:18:36",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content explicitly focuses on integrating flow metrics into Scrum practices, which directly aligns with the Scrum framework. It discusses specific metrics relevant to Scrum, indicating a strong conceptual alignment with Scrum principles. The depth of discussion is significant, as it details how these metrics can be applied in real-world Scrum projects and emphasizes continuous improvement, a core aspect of Scrum. Overall, the content is highly relevant and provides a comprehensive exploration of Scrum in the context of flow metrics.",
     "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on applying flow metrics within Scrum, which directly relates to measuring and enhancing delivery efficiency and customer value in Agile practices.",
     "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:59:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum methodologies and flow metrics, which are not relevant to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile practices, specifically discussing flow metrics within that context. There are no direct mentions of system configuration, and the themes of the content do not align with the core topics of system setup, integration, or maintenance. The depth of discussion is centred around Scrum methodologies rather than any aspect of system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum practices, flow metrics, and Agile methodologies rather than deployment strategies.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and flow metrics without focusing on customer needs or defining product features.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:39:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content focuses on the application of flow metrics within the Scrum framework, addressing specific Scrum events and roles, enhancing team efficiency, and aiming for data-driven improvements in Scrum practices, indicating that Scrum Product Development is a primary topic.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1324,46 +1174,46 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on flow metrics in Scrum, without reference to the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on applying flow metrics within Scrum practices, which is a significant aspect of Agile methodologies. However, it is primarily centered on operational and technical practices rather than the broader strategic context of Agile strategy.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of flow metrics within Scrum processes, which could impact the delivery of value in increments. However, the primary focus is on flow metrics and their integration rather than a direct examination of increments themselves.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on flow metrics, Scrum practices, and improving team efficiency, without clear discussions on long-term objectives or strategic alignment.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T00:39:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on the application of flow metrics in Scrum, which is related to Agile practices and improving team efficiency. However, the primary focus is on specific Scrum methodologies rather than a broad discussion on organisational agility.",
     "level": "Tertiary"
   },
@@ -1387,86 +1237,254 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-21T11:18:45",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices and flow metrics without any explicit mention or discussion of Artificial Intelligence. While it discusses Agile methodologies, it does not explore how AI can enhance these practices or integrate with them, which is essential for alignment with the category. The depth of discussion is also minimal regarding AI, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-21T11:18:47",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses exclusively on Scrum practices and flow metrics, which are unrelated to Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes or provide any depth on the topic of IDPs.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-21T11:18:50",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which does not directly address the Shift-Left Strategy. While there is a mention of improving team efficiency and project outcomes, it lacks explicit discussions on integrating testing, security, or compliance earlier in the development process. The core themes of the Shift-Left Strategy are not aligned with the content's focus on Scrum practices and metrics.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T14:59:42",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the application of flow metrics within Scrum, which indirectly supports the principles of Continuous Improvement by promoting reflection and adaptation. However, the primary focus is on flow metrics rather than a broader discussion of Continuous Improvement strategies or philosophies. While there is a mention of fostering a reflective learning environment, the depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T14:59:44",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which is a specific aspect of Agile practices. While it mentions improving team efficiency and project outcomes, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding how these metrics contribute to shared objectives or overall organisational performance, which are key themes of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T14:59:47",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the application of flow metrics in Scrum, which directly relates to the continuous learning and skill development aspect of competence. It highlights the importance of understanding and applying these metrics to improve team efficiency and project outcomes, aligning well with the core themes of competence. The depth of discussion is significant, as it details the course structure and the reflective practices involved, indicating a strong focus on developing professional capabilities. However, while competence is a primary focus, the content is more centred on the specific metrics rather than a broader discussion of competence itself, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T14:59:50",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and flow metrics, which are specific to Agile practices rather than the One Engineering System framework. While it discusses improving team efficiency and project outcomes, it does not address the principles, integration, or standardisation aspects of 1ES. Therefore, it lacks direct relevance and depth concerning the One Engineering System.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which does not directly address the principles of Agentic Agility. While there are elements of reflection and improvement, the discussion lacks explicit mention of intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. Overall, the content is more aligned with general Agile practices rather than the specific themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:58:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content focuses on applying flow metrics within the Scrum framework, which is a key aspect of Agile product development. It explicitly discusses the integration of metrics to enhance team efficiency and project outcomes, aligning well with the principles of iterative learning and continuous improvement. The depth of discussion is significant, as it covers specific metrics and their application in real-world scenarios, fostering a reflective and collaborative learning environment. Overall, the content is highly relevant to product development methodologies, particularly in the context of Agile practices.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:58:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, discussing their significance and application. While it mentions collaborative learning and reflective practices, it does not explicitly reference Liberating Structures or their techniques. The core themes of Liberating Structures, such as enhancing participation and co-creation, are only tangentially related to the content's focus on metrics and Scrum practices. Therefore, the confidence score reflects minimal direct mention and limited conceptual alignment with the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:58:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a specific Agile methodology, and discusses flow metrics relevant to Scrum practices. While it does touch on project outcomes and team efficiency, it lacks broader project management principles and methodologies outside of Scrum. The depth of discussion on flow metrics is significant, but the overall focus remains narrow, limiting its alignment with the wider project management category.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:58:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and flow metrics, which are not directly related to Open Space Agile principles. While it mentions collaborative learning and reflective practices, these concepts are not exclusive to Open Space Agile and do not delve into its core themes such as psychological safety, co-creation, or emergence. The discussion lacks depth regarding Open Space Agile methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:58:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, discussing their application and significance in enhancing Agile practices. While it touches on concepts of efficiency and project outcomes, it does not explicitly address Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities in a way that aligns with the category's core themes. The discussion lacks depth regarding the identification or measurement of untapped opportunities, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:58:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses flow metrics such as Cycle Time, which is directly related to Time to Market. However, the primary focus is on Scrum practices rather than explicitly addressing the broader implications of Time to Market in terms of organisational efficiency or customer satisfaction. While it provides a good depth of discussion on flow metrics, it lacks a comprehensive exploration of strategies for improving Time to Market or its impact on business agility, which limits its overall alignment with the category.",
+    "level": "Secondary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:58:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which are relevant to measuring performance but do not explicitly discuss Current Value or its importance in Evidence-Based Management. While it touches on metrics that could relate to customer satisfaction and project outcomes, it lacks a direct connection to the broader implications of Current Value. The discussion is more about the application of flow metrics rather than a real-time assessment of value delivered, which is central to the Current Value category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:58:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and flow metrics, which are related to Agile methodologies rather than the concept of Company as a Product. There are no direct mentions of organisational strategies or customer-centric approaches that align with CaaP. While there is a slight emphasis on continuous improvement and collaboration, it is within the context of Scrum rather than a broader organisational framework. Therefore, the overall confidence score reflects minimal relevance to the CaaP category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:58:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on flow metrics within the Scrum framework, which is a specific Agile practice rather than a discussion on scaling methodologies or frameworks. While it mentions improving team efficiency and project outcomes, it does not address the complexities of scaling Agile practices across multiple teams or the coordination required for delivering complex products. The discussion lacks depth in terms of cross-team collaboration, managing dependencies, or aligning with business goals, which are critical aspects of the Scaling category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:59:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on enhancing Scrum practices through flow metrics, without any explicit mention or critical examination of Hybrid Agile. It does not address the challenges or implications of merging traditional methodologies with agile practices, nor does it discuss the core themes outlined for the Hybrid Agile category. The discussion is centred on Scrum, which is a specific agile framework, rather than the hybridisation of agile and traditional methods.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:59:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the application of flow metrics within the Scrum framework, which is a specific methodology rather than discussing the principles of Agnostic Agile. There are no direct mentions of Agnostic Agile or its core themes, and while there is some depth in discussing the application of metrics, it does not align with the broader context-driven agility advocated by Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:59:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on Scrum and Agile practices, discussing flow metrics without any mention of GitHub or its functionalities. While it touches on project management and team efficiency, it does not align with GitHub's specific tools or services, nor does it provide any insights into GitHub's collaboration features or best practices. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:59:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on Scrum practices and flow metrics, which are not related to Cell Structure Design. There are no direct mentions of the principles of the Beta Codex, autonomous cells, or decentralised structures. The discussion is centred around enhancing Agile practices rather than exploring organisational design models, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

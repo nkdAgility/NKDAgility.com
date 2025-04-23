@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to file changes in a version control system, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:43:42",
-    "ai_confidence": 72.0,
-    "ai_mentions": 80.0,
-    "ai_alignment": 65.0,
-    "ai_depth": 75.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content provides a practical example of using API calls to extract data from TFS, which aligns well with the category's focus on practical techniques and tooling. It discusses specific coding techniques and tools (TFS, API calls) and demonstrates a method for achieving a task, which is a core aspect of the category. However, while it does mention the potential for improvement and future tool development, it lacks a broader discussion on methodologies or frameworks that support Agile or DevOps practices, which slightly lowers the alignment score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:18:00",
@@ -31,44 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:13:43",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation of listing files changed in a specific iteration using TFS API calls. It does not discuss Evidence-Based Management principles or metrics, nor does it provide any empirical evidence or data-informed decision-making insights. The mention of iteration is too vague and does not align with the core themes of EBM, such as current value or outcome management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:22:19",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a specific coding task involving API calls to TFS and does not engage deeply with the principles of code quality or complexity theory. While it mentions aspects of code efficiency and acknowledges poor naming and layout, it lacks a broader discussion on maintainability, scalability, or complexity management. The content is more of a practical coding example rather than a theoretical exploration of code and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to querying and outputting data from TFS, with no significant emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a method for querying work items and changesets in TFS, with no clear focus on AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -82,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:18:09",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific coding solution for querying work items and changesets in TFS, rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:18:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical implementation for retrieving file changes in a specific iteration, lacking focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -116,24 +65,15 @@
     "reasoning": "Content primarily discusses a technical implementation for querying files changed under an iteration, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:18:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation of querying files changed in a version control system without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:13:30",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on using TFS API calls to list files changed under a specific iteration, which is more aligned with version control and specific tooling rather than the broader DevOps philosophy. While it touches on aspects of automation and efficiency, it lacks a comprehensive discussion on the core principles of DevOps such as collaboration, shared accountability, or continuous improvement. The mention of 'streamlining version control' hints at a DevOps-related topic, but it does not delve into the cultural or process-oriented aspects that define DevOps.",
     "level": "Ignored"
   },
@@ -155,15 +95,6 @@
     "reasoning": "Content primarily discusses technical implementation of querying files changed under an iteration, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a coding task related to TFS and does not reference any events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:18:22",
@@ -171,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation for listing changed files in a specific iteration, without a focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:18:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of API calls and code for retrieving file changes, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:18:28",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation for listing changed files in a specific iteration, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -220,15 +142,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T07:22:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content provides a practical example of code that interacts with TFS to retrieve and list changed files, which aligns with technical practices. However, it lacks a deeper discussion on methodologies like TDD or CI/CD, and the focus is more on a specific implementation rather than broader engineering principles. The mention of future improvements hints at an understanding of better practices but does not delve into them, resulting in a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -275,15 +197,6 @@
     "reasoning": "Content primarily discusses a technical implementation for querying files changed under an iteration, which does not align with the principles or practices of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:18:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a coding solution for querying files changed in a specific iteration, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:18:40",
@@ -295,13 +208,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T13:08:44",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content explicitly discusses using API calls to TFS (Team Foundation Server), which is a component of Azure DevOps, to retrieve work items and changesets. This aligns well with Azure DevOps functionalities, particularly in the context of version control and work item management. The depth of the discussion is significant, as it includes code snippets and a detailed explanation of the process. However, it lacks broader context on Azure DevOps services and best practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
@@ -325,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:18:45",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific coding task related to TFS and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:13:41",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details related to TFS API calls for version control, with no explicit discussion of Agile principles, product management, or the Agile Product Operating Model. While it may touch on aspects of iteration, it does not align with the core themes of the category.",
     "level": "Ignored"
   },
@@ -353,24 +266,15 @@
     "reasoning": "Content primarily discusses a technical implementation for querying files changed in a specific iteration, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:18:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical implementation of a code solution rather than discussing news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:22:08",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific coding task related to querying files changed under a particular iteration in TFS, which is a tool used in the context of application lifecycle management. However, it lacks a broader discussion on the stages of the application lifecycle, best practices, or governance. While it mentions ALM in the tags, the main content does not delve into the methodologies or practices of application lifecycle management, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -385,24 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:51:23",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code execution and output related to file changes in an iteration, with no focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:22:21",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily focuses on a specific coding task related to querying work items and changesets in TFS, which demonstrates some technical skills. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While there are mentions of code quality concerns, such as naming and layout, these are not explored in depth, and the overall focus remains on a practical coding solution rather than on technical mastery as defined in the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -415,13 +319,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:13:45",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on listing files changed under a specific iteration using TFS API calls, which is more related to version control and specific coding practices rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth in terms of automation, rapid feedback, or cultural aspects associated with Continuous Delivery.",
     "level": "Ignored"
   },
@@ -436,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:51:23",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on querying and listing file changes in a software version control system, with no significant discussion on Lead Time or its implications.",
     "level": "Ignored"
   },
@@ -454,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:51:23",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on querying work items and extracting file changes, with no discussion on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -508,13 +412,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:22:17",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific coding task related to retrieving files changed under a particular iteration using API calls to TFS. While it touches on operational aspects like efficiency and mentions the potential for improvement (creating a proper command line utility), it lacks a broader discussion on operational practices within Agile, DevOps, or Lean frameworks. The content does not provide detailed strategies or techniques for enhancing operational efficiency, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
@@ -610,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T15:06:33",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a specific coding task related to retrieving files changed under a particular iteration using TFS and API calls. It directly mentions version control and touches on aspects of software development, such as coding practices and the potential for future improvements. However, while it aligns with the category's themes, the discussion lacks depth in methodologies or broader software development practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mostly discusses a technical solution for retrieving information from TFS regarding files changed under an iteration, rather than focusing on agile principles or project management.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:51:23",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to file changes in a system, without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -649,15 +544,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T17:02:53",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a specific task related to version control by querying changesets in TFS, which aligns with the category. However, it lacks a broader discussion on best practices or methodologies in modern source control, focusing instead on a specific implementation. The mention of 'Version Control' in the tags indicates relevance, but the overall depth and conceptual alignment with the category's core themes are moderate.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -679,15 +574,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T07:22:24",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses querying work items and changesets in TFS, which is related to Azure Boards, but it lacks a direct focus on Azure Boards' functionalities or best practices. The mention of work items aligns with the category, but the overall discussion is more technical and procedural rather than exploring the broader themes of Agile project management or team collaboration.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -734,15 +629,6 @@
     "reasoning": "Content heavily discusses technical implementation details related to querying TFS, lacking any focus on customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about technical implementation details related to version control and file management, with no discussion about Scrum or its scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:51:23",
@@ -761,24 +647,15 @@
     "reasoning": "Content primarily discusses technical implementation details related to API calls and file management under an iteration, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on querying and listing files changed in a specific iteration using TFS, which does not relate to scaling agility or organizational agile practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:22:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific coding task related to querying work items and changesets in TFS, which does not directly discuss engineering excellence or best practices in software craftsmanship. While there are brief mentions of inefficiencies and potential improvements, the overall discussion lacks depth in terms of engineering principles, coding standards, or quality assurance practices. The content is more of a practical coding example rather than a discussion on engineering excellence.",
     "level": "Ignored"
   },
@@ -820,15 +697,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:22:14",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a practical coding solution to a specific problem, demonstrating a pragmatic approach to problem-solving. It includes real-world application through the use of API calls to TFS and acknowledges the limitations of the method used. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which limits its alignment with the core themes of the category. The depth of the discussion is moderate, focusing on a specific implementation rather than a comprehensive exploration of pragmatic thinking in project management.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -841,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:51:23",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a series of API calls to retrieve and output data, and does not discuss innovation practices or frameworks related to measurement and improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on writing code to extract changesets from a version control system, with no clear connection to Scrum principles, roles, or product development processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical details related to querying work items and changesets in TFS, but does not address Scaled Agile principles or scaling Agile practices across teams.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -904,13 +763,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:22:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a technical implementation of querying and listing files changed in a specific iteration using TFS. While it does touch on aspects of software functionality, it lacks a direct discussion on working software principles, such as customer feedback, quality assurance, or iterative development. The mention of creating a command line utility hints at a desire for better software practices, but the overall focus remains on a specific coding task rather than broader themes of delivering functional software.",
     "level": "Ignored"
   },
@@ -997,13 +856,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T07:22:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on querying work items and changesets from TFS, which is more aligned with version control and data retrieval rather than the broader strategies and practices of release management. While it touches on aspects of version control, it lacks a direct discussion on release planning, scheduling, or coordination between teams, which are key elements of release management. The depth of discussion is limited to a specific technical implementation without addressing the overall release process.",
     "level": "Ignored"
   },
@@ -1018,10 +877,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:51:23",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the retrieval of file changes in TFS and does not address Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1079,22 +938,13 @@
     "reasoning": "Content primarily discusses a technical implementation of code to extract information from TFS, without focusing on digital transformation strategies or methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:51:23",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses querying files changed in an iteration and implementation details, but does not address the concept of Minimum Viable Product or related MVP strategies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on querying and retrieving changed files in TFS without discussing AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1144,22 +994,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about retrieving and listing files changed in a particular iteration using API calls, with no mention of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on listing files changed under a specific iteration using TFS API calls, which does not relate to Test First Development principles. There are no direct mentions of success criteria, testing practices, or the importance of testing in the development process. The discussion lacks depth and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:22:05",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses a coding solution related to TFS (Team Foundation Server) and version control, which can be used in a Windows environment. However, it does not explicitly focus on Windows operating system features, installation, or troubleshooting. The mention of TFS and the coding context suggests some relevance to Windows, but it lacks depth in discussing Windows-specific topics such as installation or configuration. Therefore, while there is some alignment, it is not the primary focus of the content.",
     "level": "Ignored"
   },
@@ -1210,13 +1063,13 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:22:09",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on providing a code snippet to retrieve files changed under a specific iteration, which does not directly address troubleshooting issues. While there is a brief mention of inefficiency in the method used, it lacks a detailed discussion on diagnosing or resolving technical problems. The content does not explore techniques for identifying issues or provide insights into systematic problem-solving, which are key aspects of the troubleshooting category.",
     "level": "Ignored"
   },
@@ -1231,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation details and API usage related to file changes under an Iteration, with no discussion about the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to TFS API calls for version control, with no direct mention of Scrum Master responsibilities or concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is limited to coding practices, which are unrelated to the Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1256,18 +1112,6 @@
     "reasoning": "Content primarily discusses code implementation and technical details regarding API calls, with no mention of working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:22:03",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses a specific coding task related to querying work items and changesets in TFS, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily technical without exploring broader themes such as team dynamics or collaboration. The depth of discussion is limited to a single coding example, which does not provide a comprehensive view of the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T02:51:23",
@@ -1279,13 +1123,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T07:22:26",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific coding task related to querying work items and changesets in TFS, which does not directly address the core principles of Agile engineering practices. While there are mentions of coding practices, such as acknowledging poor naming and layout, the discussion lacks depth in key topics like clean code, TDD, or CI/CD. The content is more about a practical implementation rather than a discussion on engineering methodologies or principles.",
     "level": "Ignored"
   },
@@ -1345,13 +1189,13 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-10T18:53:44",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses querying work items and changesets in TFS, which is related to Azure Repos, but it does not explicitly focus on Azure Repos functionalities or best practices. The mention of TFS and version control indicates some relevance, but the depth of discussion is limited to a specific use case without broader context on Azure Repos features or practices.",
     "level": "Secondary"
   },
@@ -1391,15 +1235,6 @@
     "reasoning": "Content is focused on technical aspects of querying changes in a software project rather than on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of querying work items in TFS and retrieving changesets, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:51:23",
@@ -1420,13 +1255,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:45:29",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details related to TFS API calls for version control, lacking any discussion on collaboration, decision-making, or value delivery. While it mentions a colleague's request, it does not explore the social dynamics or frameworks that would align with the principles of Social Technologies.",
     "level": "Ignored"
   },
@@ -1459,62 +1294,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:22:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation related to querying work items and changesets in TFS, with no direct mention of Scrum principles, roles, events, or practices. While it may touch on aspects of project management through iteration, it lacks depth and alignment with Scrum's core themes, making it only tangentially related.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:35:52",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on querying work items and changesets in TFS, with no explicit discussion of the Shift-Left Strategy or its principles. While it touches on aspects of software development, it does not address integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:13:33",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. While it briefly mentions the need for improvement in naming and layout, it does not engage with the principles of Continuous Improvement, such as fostering a culture of experimentation or discussing strategies for enhancing processes. The discussion lacks depth and does not align with the core themes of Continuous Improvement, making it unsuitable for this category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:13:35",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. While it touches on the concept of iterations, it does not explicitly discuss the significance of Common Goals within Agile or DevOps frameworks. The discussion lacks depth regarding alignment, ownership, or strategic objectives, which are central to the category of Common Goals. Overall, the content is more about a practical coding solution than about aligning team efforts with organisational objectives.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:13:38",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. While it briefly touches on the author's coding practices and acknowledges the need for improvement, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of creating a proper command line utility suggests a recognition of the need for skill development, but this is not the main focus of the content. Overall, the discussion lacks depth and direct alignment with the core themes of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical implementation of listing files changed under a specific iteration using TFS API calls. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability. While there is a brief mention of creating a command line utility in the future, this does not align with the core themes of Agentic Agility, which requires a deeper exploration of intent and proactive engagement.",
     "level": "Ignored"
   }
 }

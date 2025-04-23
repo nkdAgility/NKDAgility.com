@@ -31,19 +31,30 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Unrealised Value
 - Continuous Improvement
-- Evidence Based Management
-- Discovery and Learning
+- Decision Making
 - Evidence Based Leadership
 - Product Discovery
 - Product Validation
 - Software Development
 - Ability to Innovate
-- Decision Making
+- Evidence Based Management
 - Pragmatic Thinking
+- Current Value
+- Customer Satisfaction
+- Working Software
+- Customer Retention
+- Product Owner
+- Product Strategy
+- Metrics and Learning
+- Agile Strategy
+- Entrepreneurship
+- Operational Practices
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---

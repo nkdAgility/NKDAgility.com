@@ -2,7 +2,7 @@
 title: Why 'Definition of Done' is Crucial for Success in Scrum
 description: "Unlock the secrets of defining 'done' in agile projects with a fun bakery analogy! Perfect for scrum masters and agile teams seeking clarity. \U0001F369\U0001F956"
 date: 2023-11-14T07:00:30Z
-weight: 855
+weight: 840
 ResourceId: syzFdEP1Eso
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -31,19 +31,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Working Software
 - Product Delivery
-- Agile Project Management
 - Definition of Done
 - Agile Product Management
-- Software Development
-- People and Process
 - Pragmatic Thinking
+- Software Development
 - Value Delivery
+- Engineering Practices
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 
 ---

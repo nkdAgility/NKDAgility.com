@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:08:05",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, with no clear focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, which does not align with Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:08:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers focused on Visual Studio Team System, with no mention of resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:08:13",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:08:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a LinkedIn group for VSTS developers without discussing specific practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:08:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers and does not address Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a LinkedIn group for VSTS developers, with no direct discussion of Evidence-Based Management principles. While there is a brief mention of 'evidence' in the context of participation verification, it does not relate to the core themes of EBM such as data-informed decision-making or metrics for value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:08:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, with no clear discussion on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:08:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on promoting a LinkedIn group for developers rather than discussing news or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, with no direct mention or discussion of the Agile Product Operating Model or its principles. It lacks any relevant themes or depth related to agile methodologies or product management, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,42 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, without a clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:08:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:08:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:08:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:08:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a LinkedIn group for VSTS developers and does not address transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -280,22 +223,22 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:08:44",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers and does not focus on personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T07:31:20",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Visual Studio Team System (VSTS), which is related to Azure DevOps, but does not provide substantial information about Azure DevOps functionalities or practices. The focus is more on a LinkedIn group for developers rather than on Azure DevOps itself, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -310,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:08:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, with no substantial discussion on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, which does not directly discuss DevOps principles or practices. While it mentions development and collaboration, it lacks explicit references to the core themes of DevOps such as automation, shared accountability, or continuous improvement. The discussion is more about networking and skill enhancement rather than the integration of people, processes, and technology in a DevOps context.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a LinkedIn group for developers rather than discussing engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:08:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a LinkedIn group for developers, lacking discussions on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:08:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a LinkedIn group for VSTS developers, lacking discussions on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:08:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers, with no focus on specific products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -373,19 +292,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers involved in VSTS, not focusing on system configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, with no clear discussion on innovation capabilities or related topics.",
     "level": "Ignored"
   },
@@ -414,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for VSTS developers, with no clear connection to portfolio management or its related topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or product development; it focuses on a LinkedIn group for VSTS developers.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -490,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on a LinkedIn group for VSTS developers and does not address the Definition of Done in any capacity.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for VSTS developers, with no clear focus on scaled Agile methodologies or frameworks.",
+    "reasoning": "Content is focused on a LinkedIn group for VSTS developers and does not address the Definition of Done in any capacity.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -569,29 +470,17 @@
     "reasoning": "Content primarily discusses a LinkedIn group for developers related to Visual Studio Team System, not focused on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:31:20",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System (VSTS). While it mentions developers, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. The alignment with the core themes is minimal, as it does not delve into best practices, tools, or collaborative strategies relevant to Agile or DevOps. The depth of discussion is also limited, primarily serving as an invitation to join a group rather than exploring the role of developers in a broader context.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:58:13",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content mentions Visual Studio Team System (VSTS) and its relevance to developers, which aligns with software development practices. However, it primarily serves as an invitation to a LinkedIn group rather than a detailed discussion on software development methodologies or practices. The depth of discussion is minimal, focusing more on group membership than on substantive software development topics.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +509,7 @@
     "reasoning": "Content is primarily about a LinkedIn group for developers and does not discuss estimation in Agile or Scrum practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:17:21",
     "ai_confidence": 0,
@@ -694,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a LinkedIn group for developers using Visual Studio Team System, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any depth or alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a LinkedIn group for developers and does not address hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for VSTS developers without any mention of AI integration or its application in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -811,10 +694,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a LinkedIn group for VSTS developers, with no clear connection to evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -874,10 +757,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a LinkedIn group for developers interested in Visual Studio Team System, with no direct emphasis on team performance or Agile methodologies.",
     "level": "Ignored"
   },
@@ -919,19 +802,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a LinkedIn group for VSTS developers and does not discuss team collaboration or related dynamics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a LinkedIn group for Visual Studio Team System developers and does not discuss the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -971,15 +854,6 @@
     "reasoning": "Content is focused on a LinkedIn group for developers and does not address remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a LinkedIn group for Visual Studio Team System developers and does not discuss Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:17:21",
@@ -987,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers focusing on Visual Studio Team System, without any direct relation to customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System and does not address Agile Project Management topics.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1207,19 +1072,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, with no clear relevance to Scrum Team dynamics or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T18:17:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a LinkedIn group for VSTS developers, without discussing team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1268,15 +1133,6 @@
     "reasoning": "Content mainly discusses a LinkedIn group for developers without any focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses joining a LinkedIn group for developers focused on Visual Studio Team System and does not relate to scaling Scrum or Scrum practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T18:17:21",
@@ -1313,22 +1169,16 @@
     "reasoning": "The content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, with no substantial reference to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a LinkedIn group for developers customizing Visual Studio Team System, with no discussion of scaling agility practices or principles.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio Team System and development discussions, with no mention of Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as facilitating Scrum teams or promoting agile principles. The depth of discussion is minimal, as it does not provide any insights into Scrum practices or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,22 +1201,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:17:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a LinkedIn group for VSTS developers and does not discuss Test First Development or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a LinkedIn group for VSTS developers, with no explicit discussion of Test First Development principles or practices. While it mentions 'Testing' in the tags, this is not sufficient to establish a connection to the Test First Development category, which requires a more direct and detailed exploration of the topic.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:51:32",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, which is more about networking and sharing skills than discussing social technologies in the context of collaboration, decision-making, or value delivery. While it does mention connecting with fellow developers, it lacks a deeper exploration of the principles and methodologies that define social technologies. The discussion is brief and does not delve into the core themes of self-organisation, transparency, or collective intelligence.",
     "level": "Ignored"
   },
@@ -1381,10 +1234,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:42:45",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a LinkedIn group for developers working with Visual Studio Team System, without focusing on the concept of Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1399,26 +1252,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T07:31:20",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System (VSTS) and does not mention Scrum principles, roles, events, or any related topics. There is no discussion of Agile principles or team dynamics, which are central to Scrum. The content lacks depth and relevance to the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:41:41",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a LinkedIn group for developers working with Visual Studio Team System, with no explicit discussion of the Shift-Left Strategy or its principles. While there is a mention of 'Testing' in the tags, it does not relate to the proactive integration of testing within the development lifecycle as outlined in the Shift-Left Strategy. Overall, the content lacks relevant depth and alignment with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a LinkedIn group for developers working with Visual Studio Team System. It does not explicitly discuss Common Goals, nor does it align with the core themes of Agile or DevOps. The mention of connecting with fellow developers is vague and does not provide depth on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions enhancing skills through participation in a LinkedIn group for VSTS developers, which aligns with the concept of continuous learning. However, it lacks depth and does not explicitly discuss competence as a foundational principle in Agile or DevOps methodologies. The focus is more on networking rather than on developing demonstrable capabilities or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a LinkedIn group for developers working with Visual Studio Team System. It does not discuss Continuous Improvement principles, nor does it provide any insights or strategies related to the category. The mention of connecting with fellow developers is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a LinkedIn group for developers working with Visual Studio Team System. It does not discuss Agentic Agility, its principles, or any related concepts. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

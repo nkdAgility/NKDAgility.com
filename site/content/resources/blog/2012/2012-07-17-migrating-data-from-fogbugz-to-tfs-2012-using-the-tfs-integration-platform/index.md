@@ -9,7 +9,7 @@ ResourceImportId: 6202
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-17
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,14 @@ aliasesArchive:
 - /migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 - /resources/blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
-- Windows
+- Install and Configuration
 - Technical Mastery
-- System Configuration
 - Azure DevOps
+- Windows
 - Pragmatic Thinking
 - Troubleshooting
+- System Configuration
 categories: []
 
 ---

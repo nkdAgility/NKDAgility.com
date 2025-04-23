@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-01-31
-weight: 775
+weight: 750
 preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -22,8 +22,8 @@ aliasesArchive:
 categories:
 - Product Management
 tags:
-- Product Owner
 - Agile Product Management
+- Product Owner
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

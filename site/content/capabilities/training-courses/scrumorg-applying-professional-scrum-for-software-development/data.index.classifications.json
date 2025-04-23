@@ -1,43 +1,43 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-21T11:27:48",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a Scrum course for software development, which is more about technical practices than the social frameworks that underpin collaboration and decision-making. While it mentions Scrum and Agile, it lacks a direct discussion on self-organisation, collective intelligence, or transparency, which are key themes of Social Technologies. The depth of discussion is limited to the course structure and certification, without exploring the broader implications of social technologies in organisational contexts.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:21:49",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying Scrum methodologies in software development, emphasising engineering practices such as Test-Driven Development, Continuous Integration, and managing technical debt, which align closely with the principles of Engineering Excellence.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T11:27:51",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "While the content mentions DevOps practices, the primary focus is on Scrum and Agile methodologies. The discussion lacks depth in DevOps principles and does not explore key topics such as automation, shared accountability, or continuous improvement, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:21:53",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of Scrum in software development, which is a significant aspect of product management, particularly in Agile environments. However, the primary focus is on training and certification rather than strategic product management discussions.",
     "level": "Tertiary"
   },
@@ -52,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T00:21:56",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile principles and practices, particularly in the context of Scrum, which is relevant to business agility. However, the primary focus is on Scrum training rather than a comprehensive exploration of business agility as a central theme.",
     "level": "Tertiary"
   },
@@ -70,67 +70,49 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T00:21:59",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily focuses on a course designed to teach Scrum principles and practices, targeting various roles within a Scrum Team, and emphasises the application of Scrum in software development.",
     "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-18T00:22:01",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile practices and mentions Test-Driven Development (TDD) and Continuous Integration (CI), which are related to automated testing, but the primary focus is on Scrum training and team collaboration.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T15:07:17",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a Scrum course and its practical application in software development, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions Agile and Scrum practices, it does not align with the core themes of EBM, such as empirical decision-making or current value metrics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:22:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile engineering practices, code quality, and technical debt, which are relevant to the interplay between code quality and complexity. However, the primary focus is on Scrum training rather than a deep exploration of code and complexity.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:22:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and certification, with no mention of Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T00:22:08",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies without discussing hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T00:22:10",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the Applying Professional Scrum for Software Development course, which is centred around the Scrum framework, its roles, and practices. It discusses Agile principles and their application in a Scrum context, making it a clear topic within the Agile Frameworks category.",
     "level": "Secondary"
   },
@@ -145,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T00:22:13",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a Scrum training course and does not discuss the Definition of Ready or its criteria in detail.",
     "level": "Ignored"
   },
@@ -161,30 +143,21 @@
     "reasoning": "Content primarily focuses on a Scrum training course and its benefits, rather than discussing trends or shifts in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:22:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum framework and its application in software development, without addressing scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-18T00:22:18",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile practices and mentions Test-Driven Development (TDD) and Continuous Integration (CI), which are relevant to test automation, but the primary focus is on Scrum training and roles rather than test automation itself.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T00:22:21",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on Agile engineering practices, Scrum methodologies, and technical skills such as Test-Driven Development and Continuous Integration, which align closely with the principles of software craftsmanship and engineering excellence.",
     "level": "Secondary"
   },
@@ -208,84 +181,57 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T00:22:27",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on a Scrum training course designed for various roles within a Scrum Team, emphasising collaboration, teamwork, and the application of Agile principles, which are central to enhancing team performance.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T00:22:29",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of collaboration within a Scrum Team and highlights the benefits of teamwork, which aligns with the theme of collaboration tools. However, the primary focus is on Scrum training rather than specific collaboration tools.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-18T00:22:31",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies, which do not directly relate to Site Reliability Engineering principles.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:22:33",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying Scrum methodologies for software development, which is central to effective product delivery. It discusses collaboration within Scrum teams, Agile practices, and the integration of DevOps, all of which are key aspects of delivering quality software products.",
     "level": "Secondary"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:22:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on Scrum training and Agile methodologies without any direct discussion of AI applications.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T00:22:35",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile and Scrum methodologies, which are relevant to digital transformation, but the primary focus is on training for software development rather than a strategic discussion on digital transformation itself.",
     "level": "Tertiary"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:22:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the application of Scrum within teams, emphasising collaboration, roles, and the importance of team dynamics in software development. It discusses how attending the course as a team enhances learning and application of Scrum principles, which aligns well with the category's focus on human behaviour and structured methodologies.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T00:22:39",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions Test-Driven Development (TDD) as part of the course objectives and prerequisites, indicating that it is a significant theme, but the primary focus is on Scrum and Agile methodologies.",
     "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:22:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the application of Scrum within software development, discussing roles, collaboration, and agile principles, which are central to Agile Project Management.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -305,15 +251,6 @@
     "reasoning": "Content primarily focuses on Scrum training and certification, with no clear discussion on accountability or team ownership.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:22:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a Scrum training course and its related topics, without a clear emphasis on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-18T00:22:46",
@@ -325,10 +262,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T00:22:49",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training for software development, which is team-level agile practice rather than organisational agility.",
     "level": "Ignored"
   },
@@ -343,46 +280,49 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T00:22:53",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a Scrum training course, which includes elements of team collaboration and agile practices. However, it does not delve deeply into the principles of technical leadership or provide substantial discussion on mentoring, coaching, or influencing team dynamics.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:22:54",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum training and practices, which are relevant to Agile methodologies, but it primarily focuses on the course structure and outcomes rather than specific Agile planning tools.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:22:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Scrum Masters within a Scrum Team context, highlighting the importance of collaboration and teamwork, but it primarily focuses on a training course rather than the specific responsibilities and practices of a Scrum Master.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on a course for mastering Scrum in software development, which includes practical application and certification. While it mentions Scrum and its principles, it does not explicitly discuss the role of the Scrum Master or their responsibilities. The content aligns with the Scrum framework but lacks depth in exploring the specific impact and responsibilities of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T00:22:58",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the application of Scrum principles, which are central to Agile Planning. It discusses team dynamics, collaboration, and effective backlog management, all of which align with Agile Planning methodologies.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:23:00",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 40,
-    "final_score": 49.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile principles and values as part of the prerequisites for the course, indicating a significant but secondary theme in the context of a Scrum training course.",
     "level": "Tertiary"
   },
@@ -397,12 +337,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:23:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-08T17:35:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Test-Driven Development (TDD) as part of the course objectives and outcomes, indicating that it is a significant theme within the broader context of Scrum and Agile practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies without explicitly discussing Test First Development principles. While it mentions hands-on experience and practical application, it lacks direct references to success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -433,109 +376,91 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T00:23:10",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training for software development, which is a team-level Agile practice rather than large-scale Agile methodologies.",
     "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-18T00:23:12",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum training course and does not discuss estimation techniques or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T00:23:13",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses backlog management and prioritisation as part of the course objectives, indicating a significant but secondary theme related to backlog refinement.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T00:23:15",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and certification, with no clear emphasis on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T00:23:17",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the application of Scrum within software development, which is a key framework in Agile transformation. It discusses Agile principles, team collaboration, and practices that enhance Agile methodologies, making it a central topic.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:23:18",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses Agile engineering practices, including Test-Driven Development (TDD) and collaboration within Scrum teams, which are central to the principles of Engineering Practices.",
     "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T00:23:19",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies, with no clear discussion of Lean Principles or waste reduction.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T00:23:20",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course for Scrum and Agile practices, without a clear emphasis on the Scrum Values themselves.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum training and software development practices, with no clear discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:23:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the application of Scrum methodologies and practices, including hands-on training and the integration of Agile and DevOps principles, which aligns well with the category's emphasis on practical techniques and tooling.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T00:23:25",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies, with no mention of Value Stream Mapping or related concepts.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T00:23:27",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses backlog management as part of the course outcomes, indicating a secondary theme related to the Product Backlog, but the primary focus is on Scrum training and certification.",
     "level": "Tertiary"
   },
@@ -548,21 +473,12 @@
     "reasoning": "Content primarily focuses on a training course for Scrum and does not include personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:23:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a training course related to Scrum, which includes hands-on experience and certification. While it is focused on a structured learning experience, it does not explicitly reference a specific event or presentation, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T00:23:32",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum training course and its benefits, rather than discussing working agreements or team collaboration norms.",
     "level": "Ignored"
   },
@@ -577,21 +493,12 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T00:23:35",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily focuses on the roles within a Scrum Team and the importance of collaboration and teamwork in the context of a Scrum training course.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:23:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a Scrum training course for software development, which is centred on team-level practices rather than scaling agility across an organisation.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,13 +520,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T15:07:14",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies rather than Continuous Delivery. While it mentions software delivery and practical experience, it does not explicitly discuss Continuous Delivery principles, automation, or rapid feedback mechanisms. The discussion is more centred around Scrum practices, which are not directly aligned with the Continuous Delivery category.",
     "level": "Ignored"
   },
@@ -634,10 +541,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T00:23:43",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and certification, without addressing remote working practices or challenges.",
     "level": "Ignored"
   },
@@ -652,23 +559,23 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T00:23:51",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the importance of teamwork within a Scrum framework, emphasising collaboration among various roles in a Scrum Team and the benefits of attending the course as a team.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T00:23:52",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a training course for Scrum and does not specifically discuss the Daily Scrum event or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T00:23:54",
     "ai_confidence": 0,
@@ -686,33 +593,24 @@
     "reasoning": "Content primarily discusses Scrum training and Agile methodologies, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:23:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum principles and practices, which includes elements of learning and collaboration within teams. However, the primary focus is on Scrum training rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T00:23:58",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and Agile principles, which include aspects of self-organisation, but it primarily focuses on a training course rather than a deep exploration of self-organisation principles.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T11:28:01",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a specific Scrum course for software development, which is more aligned with Scrum practices than the Agile Product Operating Model. While it mentions Agile and Scrum, it lacks a direct discussion on the principles of APOM, such as transitioning to a product ethos or operational stability in product delivery. The depth of discussion is moderate, focusing on practical application rather than the broader framework of APOM.",
     "level": "Ignored"
   },
@@ -727,19 +625,19 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T00:24:02",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies, with no clear emphasis on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T00:24:03",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile and DevOps practices, which are relevant to market adaptability, but the primary focus is on Scrum training rather than directly addressing strategies for responding to market shifts.",
     "level": "Tertiary"
   },
@@ -781,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:24:15",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and certification, with no clear emphasis on metrics or learning methodologies.",
     "level": "Ignored"
   },
@@ -799,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T00:24:18",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies, without a clear emphasis on Lean principles or waste reduction in product development.",
     "level": "Ignored"
   },
@@ -813,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum training course and certification, lacking a clear emphasis on mentoring or coaching practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:24:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on Scrum training and certification, with no clear discussion on AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -835,37 +724,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T00:24:25",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Scrum principles and practices, which are relevant to strategic alignment and team performance within Agile frameworks. However, the primary focus is on training and certification rather than strategic development or refinement.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:24:28",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying Scrum methodologies and practices, which are central to enhancing operational efficiency in software development. It discusses collaboration, Agile engineering practices, and the integration of DevOps principles, all of which align with the key topics of operational practices.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T00:24:34",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile principles and values, particularly in the context of Scrum training, but primarily focuses on the application of Scrum as a framework rather than the broader Agile philosophy.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T00:24:36",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and certification, with only a brief mention of Agile requirements management and Test-Driven Development, which are not central to the topic of Acceptance Test Driven Development.",
     "level": "Ignored"
   },
@@ -880,19 +769,19 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-18T00:24:39",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile and DevOps practices, which are related to frequent releases, but the primary focus is on Scrum training rather than the specific topic of frequent software delivery.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T00:24:41",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a Scrum training course that promotes teamwork and Agile practices, which are related to Continuous Learning. However, the primary focus is on the course structure and certification rather than on the principles and practices of Continuous Learning itself.",
     "level": "Tertiary"
   },
@@ -916,19 +805,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-18T00:24:50",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum methodologies and practices, with no clear focus on version control systems or related practices.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T00:24:54",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the application of Scrum within software development, highlighting the roles of various team members, including the Product Owner, and emphasising collaboration and backlog management, which are central to Agile Product Management.",
     "level": "Secondary"
   },
@@ -943,64 +832,46 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T00:24:57",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies, with no clear discussion on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:24:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a specific Scrum training course and its benefits for individual Scrum team members, rather than discussing the scaling of Scrum practices across multiple teams or organisational levels.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T00:25:00",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of teamwork within a Scrum Team and the interplay between different roles, which aligns with sociotechnical principles. However, the primary focus is on Scrum training and certification rather than a comprehensive exploration of sociotechnical systems.",
     "level": "Tertiary"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:25:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific training course on Scrum, which is a product related to Agile methodologies. It provides insights into the course's objectives, outcomes, and prerequisites, aligning well with the category's focus on products that enhance understanding and implementation of Agile principles.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T00:25:03",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum training and Agile principles, which are related to empirical process control, but the primary focus is on the course structure and certification rather than a deep exploration of empirical process control itself.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T00:25:04",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions Continuous Integration (CI) as a prerequisite and discusses its relevance within Agile practices, but the primary focus is on Scrum training and methodologies.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:25:06",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying Scrum principles in a practical, hands-on training environment, emphasising real-world applications and collaboration within Scrum teams, which aligns well with the category of Pragmatic Thinking.",
     "level": "Secondary"
   },
@@ -1015,28 +886,28 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-18T00:25:09",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content briefly mentions managing technical debt as part of the course outcomes, but the primary focus is on Scrum training and Agile practices.",
     "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T00:25:10",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying Scrum principles to software development, emphasising the delivery of high-quality, functional software and the importance of collaboration within Scrum teams, which aligns well with the characteristics of working software.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-18T00:25:11",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than platform engineering principles.",
     "level": "Ignored"
   },
@@ -1060,19 +931,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T00:25:15",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum training and Agile practices, which do not directly inform product vision and roadmap development.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:25:17",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 90,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
+    "final_score": 90.0,
     "reasoning": "The content primarily focuses on applying Scrum methodologies within software development, covering key aspects such as Agile practices, team collaboration, and quality assurance techniques relevant to the software development lifecycle.",
     "level": "Primary"
   },
@@ -1087,10 +958,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T00:25:21",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies without specific reference to Azure DevOps services or functionalities.",
     "level": "Ignored"
   },
@@ -1114,21 +985,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T00:25:26",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of teamwork within a Scrum Team and the benefits of collaboration among diverse roles, which aligns with the concept of cross-functional teams. However, the primary focus is on the Scrum framework and training rather than a detailed exploration of cross-functional teams specifically.",
     "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:25:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the role of software developers within the context of Scrum and Agile methodologies, discussing best practices, collaboration, and the integration of DevOps principles.",
-    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1150,30 +1012,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:25:31",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and certification rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T00:25:33",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of the Product Owner within the context of a Scrum training course, highlighting collaboration and effective backlog management, which are relevant to the Product Owner's responsibilities. However, the primary focus is on Scrum training for various roles, making the Product Owner a secondary theme.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:25:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on a training course for Scrum, lacking discussions on industry news, updates, or reviews.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1186,46 +1039,46 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T00:25:38",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the application of Scrum in software development, emphasising Agile engineering practices, Test-Driven Development (TDD), and Continuous Integration (CI). It discusses how these practices enhance collaboration and quality in software delivery, aligning well with the principles of Technical Excellence.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T00:25:39",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Agile methodologies, which are not directly related to the management of the entire application lifecycle.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T00:25:41",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and methodologies, which are synchronous in nature, rather than discussing asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T00:25:42",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum training course and technical practices rather than on leadership roles or practices within Agile contexts.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T00:25:44",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of teamwork and collaboration within a Scrum Team, which aligns with team motivation themes. However, the primary focus is on the Scrum framework and training rather than directly on motivation strategies.",
     "level": "Tertiary"
   },
@@ -1240,10 +1093,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T00:25:49",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and certification, with no direct discussion on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -1258,22 +1111,22 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-21T11:27:44",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 82.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 79.0,
+    "final_score": 82.0,
     "reasoning": "The content explicitly discusses the Scrum framework and its application in a professional course setting, highlighting roles, events, and hands-on experience with Scrum practices. It aligns well with the core themes of Scrum, particularly in terms of team dynamics and continuous improvement through practical engagement. The depth of discussion is significant, as it details the immersive nature of the course and the certification aspect, indicating a thorough exploration of Scrum principles.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T00:25:54",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on applying Scrum principles and practices to enhance software development, which aligns with the iterative and continuous delivery of value to customers. It discusses collaboration, Agile engineering practices, and the integration of DevOps, all of which are central to value delivery in Agile frameworks.",
     "level": "Secondary"
   },
@@ -1297,21 +1150,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T00:26:04",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and certification, with no clear emphasis on product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:26:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on a Scrum training course designed for various roles within a Scrum Team, emphasising the application of Scrum principles and practices in software development.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1324,28 +1168,28 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T00:26:08",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content includes a mention of the Definition of Done as part of the course outcomes, indicating it is a significant theme, but the primary focus is on the course structure and Scrum training.",
     "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T00:26:10",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a Scrum training course, which is a technical practice within Agile methodologies. While it touches on Agile principles and teamwork, it lacks a clear emphasis on strategic alignment or broader Agile strategy discussions.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T00:26:11",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Scrum principles and practices, which are related to delivering software increments, but it primarily focuses on training and certification rather than the concept of Increment itself.",
     "level": "Tertiary"
   },
@@ -1360,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T00:26:15",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Scrum training and certification, which is a specific Agile methodology. While it touches on aspects of collaboration and Agile principles, it does not extensively discuss broader organisational agility strategies or cultural shifts, making it a secondary theme.",
     "level": "Tertiary"
   },
@@ -1387,13 +1231,13 @@
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-21T11:27:53",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum and Agile methodologies without any explicit mention or discussion of Artificial Intelligence. While it touches on software development practices, it does not explore how AI integrates with these methodologies or enhances them, which is essential for alignment with the category.",
     "level": "Ignored"
   },
@@ -1411,62 +1255,74 @@
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-21T11:27:59",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on Scrum practices and certification, with no explicit discussion of the Shift-Left Strategy. While it mentions Agile and DevOps, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T15:07:03",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a Scrum course, emphasising hands-on experience and certification rather than Continuous Improvement principles. While it mentions Agile practices, it lacks explicit discussions on Continuous Improvement, empirical evidence, or strategies for fostering a culture of experimentation. The alignment with Continuous Improvement themes is minimal, and the depth of discussion does not provide substantial insights into the category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T15:07:05",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a Scrum training course, which includes hands-on experience and certification. While it mentions Agile and Scrum practices, it does not explicitly discuss Common Goals or their significance in aligning strategy with execution. The discussion lacks depth regarding how these practices contribute to shared objectives or organisational performance, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T15:07:09",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses the application of Scrum in software development and highlights hands-on experience, which relates to competence. However, it primarily focuses on the course structure and certification rather than a deep exploration of continuous learning or the broader implications of competence in Agile methodologies.",
     "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T15:07:12",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the Scrum framework and its application in software development, which is not aligned with the One Engineering System (1ES) principles. While it mentions Agile and DevOps practices, it does not discuss the integration or standardisation of engineering processes, nor does it provide insights into the 1ES framework or its components.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Scrum course for software development, discussing Scrum roles and practices without addressing the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

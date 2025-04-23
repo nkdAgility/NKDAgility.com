@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:28:11",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:00:02",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed walkthrough of configuring features in Team Foundation Server 2013, which directly relates to practical tooling in Agile and DevOps contexts. It discusses specific features, the configuration process, and the use of a wizard, aligning well with the category's focus on practical techniques and tooling. However, while it is rich in practical application, it lacks broader discussions on methodologies or frameworks, which slightly lowers the depth of discussion score.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:47:00",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no explicit discussion of Evidence-Based Management principles. While it touches on project management, it lacks any empirical evidence or metrics related to value delivery, decision-making, or outcomes, which are central to EBM. The discussion is more about practical steps and user experience rather than data-informed management practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:28:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which is not directly related to code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:28:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013, lacking a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:28:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:47:23",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on configuring features in Team Foundation Server 2013, which directly aligns with the category of Install and Configuration. It discusses the steps involved in using a wizard to enable features, highlights the importance of configuration for functionality, and addresses potential issues that may arise during the process. The content is rich in actionable instructions and insights, making it a strong fit for the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:28:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013, lacking a discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:28:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:46:43",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more aligned with project management and tool usage rather than the core principles of DevOps. While it touches on aspects of team collaboration and configuration, it lacks a comprehensive discussion on DevOps philosophy, practices, or cultural shifts. The mention of features and process templates does not directly relate to the key topics of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses the configuration of features in Team Foundation Server 2013, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:28:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:28:33",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no clear focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:28:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical features and configuration of Team Foundation Server 2013, with minimal focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:28:38",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -247,13 +172,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:07:41",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 15,
     "ai_depth": 5,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which relates to the deployment and setup of software products. However, it lacks a comprehensive exploration of methodologies, practices, or strategies that are central to product delivery. While it mentions some aspects of feature configuration, it does not delve into broader themes such as Agile methodologies, iterative development, or quality assurance, which are crucial for a strong alignment with the Product Delivery category.",
     "level": "Ignored"
   },
@@ -275,18 +200,6 @@
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which is not related to Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T05:07:52",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is a software product. While it discusses specific functionalities and provides some insights into the product's usability, it lacks a broader analysis or review of the product in relation to Agile methodologies or DevOps practices. The discussion is more technical and instructional rather than evaluative or comparative, which diminishes its alignment with the category's core themes.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:28:50",
@@ -298,15 +211,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T14:49:15",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, which is part of the Azure DevOps suite. It provides specific details about the configuration process, including the use of wizards and the implications of upgrading from previous versions. However, while it mentions Azure DevOps indirectly through TFS, it lacks a broader discussion on Azure DevOps services or methodologies, which affects its overall alignment and depth of discussion.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -328,10 +241,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:28:54",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which is not directly related to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -356,75 +269,66 @@
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:28:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013, which is a technical tutorial rather than news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T05:07:44",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is a tool related to software development but does not explicitly discuss the broader aspects of Application Lifecycle Management. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on the entire application lifecycle, governance, or best practices. The mention of features and configuration is relevant but does not delve into the lifecycle management principles or methodologies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013 and does not discuss the Daily Scrum or related Scrum events.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013 and does not discuss the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:07:54",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more about operational tasks rather than discussing best practices or principles of software craftsmanship. While it does touch on some technical aspects, such as the configuration process and the importance of certain features, it lacks a deeper exploration of methodologies or principles that contribute to high-quality software development. The discussion is more procedural and lacks the depth required to align closely with the 'Technical Mastery' category.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, which is focused on implementation details and lacks a clear emphasis on understanding customer needs or product feature definition.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:47:03",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more about project management and tool usage rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of automation, incremental improvements, or rapid feedback, which are key aspects of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -457,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of features in Team Foundation Server 2013, which does not relate to the Definition of Ready or its criteria for backlog items.",
     "level": "Ignored"
   },
@@ -475,19 +379,19 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses configuring features in Team Foundation Server 2013 and does not focus on the Product Backlog or its management in Agile frameworks.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013 and does not discuss Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -511,22 +415,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:07:50",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more about specific software functionality rather than broader operational practices. While it touches on aspects of process configuration, it lacks a strong emphasis on techniques or strategies that enhance operational efficiency within Agile, DevOps, or Lean frameworks. The discussion is more about the practical steps to enable features rather than optimising processes or improving delivery speed and quality.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013, with minimal mention of Scrum concepts. It is not centered on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -550,10 +454,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which does not relate to product validation methodologies or practices.",
     "level": "Ignored"
   },
@@ -586,10 +490,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which is not focused on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -604,88 +508,79 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 and does not relate to Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:28:52",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server 2013, which is directly related to software development practices, particularly in the context of project management and Agile methodologies. It mentions specific features, processes, and tools relevant to software development, such as the process template and the configuration wizard. However, while it provides practical guidance, the depth of discussion on broader software development methodologies or best practices is somewhat limited, focusing more on specific functionalities rather than overarching principles.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013 and does not focus on Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses how to configure features in Team Foundation Server 2013 and does not address Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 with only a brief mention of Scrum through a link to a process template; other topics dominate the overall content.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013, which is related to project management and team administration rather than source control practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013 without discussing empirical process control principles or Agile methodology.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on configuring features in Team Foundation Server 2013 and does not discuss Scrum Values or their significance.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-15T05:07:57",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses configuring features in Team Foundation Server (TFS) 2013, which is related to Azure Boards but does not focus specifically on Azure Boards' functionalities or best practices. While it mentions boards and features, the primary focus is on TFS configuration rather than the Agile project management aspects of Azure Boards. The discussion lacks depth in terms of Agile methodologies and best practices, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -700,10 +595,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses configuring features in Team Foundation Server 2013, which is focused on software tools and processes rather than organisational change or strategies for transformation.",
     "level": "Ignored"
   },
@@ -734,15 +629,6 @@
     "reasoning": "Content primarily discusses the configuration of features in Team Foundation Server 2013, with no clear focus on customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 and does not focus on Scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:12:39",
@@ -759,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses configuring features in Team Foundation Server 2013, with no mention or focus on psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses configuring features in Team Foundation Server 2013, which is more related to tooling rather than scaling agile practices across an organization.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -817,50 +694,32 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T18:00:57",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses practical steps for configuring features in Team Foundation Server 2013, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a deeper exploration of Agile or Scrum principles and does not provide substantial evidence-based management practices or case studies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring features in Team Foundation Server, which is unrelated to backlog refinement practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration of features in Team Foundation Server 2013 and does not focus on innovation capabilities or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013 and does not focus on Scrum practices, roles, or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 without addressing any aspects of scaling Agile methodologies across teams or at an enterprise level.",
+    "reasoning": "Content primarily discusses the configuration of features in Team Foundation Server 2013 and does not focus on innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,10 +742,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which is not directly related to test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -901,22 +760,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:07:41",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which relates to the operational aspects of software. However, it lacks a strong focus on the delivery of functional software that meets customer needs, as it primarily details configuration processes rather than the broader implications of working software in Agile or Scrum contexts.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 without a clear focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1003,10 +862,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses configuring features in Team Foundation Server, which is not related to the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1039,19 +898,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring features in Team Foundation Server 2013 and does not address any aspects of change management strategies, practices, or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of features in Team Foundation Server 2013 and does not focus on team collaboration or relevant Agile practices.",
     "level": "Ignored"
   },
@@ -1073,7 +932,7 @@
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no clear focus on strategic digital transformation or its implications for business processes, agility, or innovation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:12:39",
     "ai_confidence": 0,
@@ -1082,33 +941,24 @@
     "reasoning": "Content heavily focuses on configuring features in Team Foundation Server 2013 and does not discuss MVP or its related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on configuring Team Foundation Server 2013 and its features, without any mention or discussion of AI integration in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T18:38:31",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which directly relates to system configuration. It discusses the process of using a wizard to enable features, the importance of configuration for functionality, and the need for specific settings based on the version of TFS being upgraded from. The depth of discussion includes practical steps and considerations for configuration, aligning well with the key topics of system optimisation and configuration management. However, while it is detailed, it does not cover broader aspects of system configuration such as security considerations or automation, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, technical implementation details, and process templates, which do not align with the core principles of product strategy.",
     "level": "Ignored"
   },
@@ -1132,20 +982,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no focus on cross-functional teams or related topics.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 and does not address Test First Development or its principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1177,10 +1030,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no relevant focus on team motivation, dynamics, or practices that enhance engagement or performance.",
     "level": "Ignored"
   },
@@ -1204,15 +1057,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:07:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which involves identifying and resolving issues related to feature availability and configuration. It mentions a wizard that assists in this process, indicating a focus on troubleshooting. However, while it provides some insights into the configuration process, it lacks in-depth methodologies or systematic problem-solving strategies typically associated with troubleshooting discussions.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1225,11 +1078,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on configuring features in Team Foundation Server and does not discuss the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with only a brief mention of the Visual Studio Scrum process template. It does not discuss the role, responsibilities, or impact of a Scrum Master, nor does it align with the core themes of the category. The discussion is largely technical and administrative, lacking depth in Scrum-related topics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1248,18 +1104,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 and does not address working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:07:41",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which is relevant to software developers, particularly in the context of Agile methodologies. However, it lacks a direct focus on Agile or DevOps principles and does not delve into best practices or collaborative strategies. The mention of process templates and features is somewhat aligned with the role of developers, but the overall discussion is more technical and procedural rather than strategic or methodological.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1300,10 +1144,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on configuring features in Team Foundation Server 2013 and does not discuss strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1354,10 +1198,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 and lacks focus on Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1379,15 +1223,6 @@
     "reasoning": "Content heavily discusses configuring features in Team Foundation Server 2013 without any mention of accountability principles or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 and does not address Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:12:39",
@@ -1399,10 +1234,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T19:12:39",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, which does not pertain to Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1417,13 +1252,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:31:20",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is a technical tool rather than a discussion on social technologies. While it briefly mentions team dynamics through the context of project management, it lacks a substantial exploration of collaboration, decision-making, or value delivery principles that are central to the category of Social Technologies.",
     "level": "Ignored"
   },
@@ -1447,62 +1282,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T05:07:41",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 28.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions the Visual Studio Scrum 3.0 process template, which is a peripheral reference to Scrum. However, the primary focus is on configuring features in Team Foundation Server 2013, with no substantial discussion of Scrum roles, events, or principles. The alignment with Scrum concepts is minimal, and the depth of discussion regarding Scrum is very low.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:22:14",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no explicit discussion of the Shift-Left Strategy. While it touches on aspects of software development processes, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:46:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, with no explicit discussion on Continuous Improvement principles. While it touches on enhancing project management through feature configuration, it lacks depth in discussing empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not align with the core themes of Continuous Improvement, making it a low-confidence evaluation.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:46:50",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is a technical guide rather than a discussion on Common Goals. While it briefly touches on project management aspects, it does not explicitly discuss shared objectives, alignment, or the principles of Agile and DevOps. The content lacks depth in exploring how these configurations relate to overarching strategic goals or team collaboration.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:46:54",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 14.0,
+    "final_score": 15.0,
     "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is more about tool usage than discussions on competence, continuous learning, or skill development. While it touches on the importance of configuration for effective project management, it does not delve into the broader themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which is a technical guide rather than a discussion on Agentic Agility. There are no explicit mentions of the principles of Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content lacks depth in discussing the interplay between human and AI capabilities, and it does not provide any case studies or examples related to Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-10-01
-weight: 695
+weight: 665
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -21,14 +21,11 @@ aliasesArchive:
 categories:
 - Leadership
 tags:
-- Events and Presentations
 - Agile Transformation
 - Agile Leadership
-- People and Process
 - Organisational Agility
-- News and Reviews
-- Organisational Change
 - Enterprise Agility
+- Organisational Change
 - Software Development
 
 ---

@@ -2,7 +2,7 @@
 title: What is the Single Most Valuable Outcome a Consulting Engagement Can Produce?
 description: 'Discover the key outcome of a consulting engagement with Martin Hinshelwood. Learn how to achieve clarity and focus in your #agile journey!'
 date: 2023-06-20T07:00:10Z
-weight: 995
+weight: 1000
 ResourceId: RLxGdd7nEZE
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -28,9 +28,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Resilience and Change
+tags: []
 resourceTypes:
 - video
 categories: []

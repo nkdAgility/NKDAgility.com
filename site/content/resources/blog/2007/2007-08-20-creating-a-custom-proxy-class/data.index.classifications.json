@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:51:25",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which is not directly related to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses the creation of a custom proxy class in .NET, which is technical and does not relate to Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:51:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the creation of a custom proxy class in .NET, focusing on technical implementation rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T20:51:30",
@@ -97,18 +88,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a custom proxy class in .NET, focusing on technical implementation rather than complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T12:15:36",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content provides a practical example of creating a custom proxy class in .NET, which aligns with the category's focus on practical techniques and tooling. However, it lacks broader discussions on Agile or DevOps methodologies, limiting its depth and overall alignment with the category's key topics. The mention of Visual Studio and the specific coding example contributes to the practical aspect, but the content does not explore tool selection, integration, or best practices in a comprehensive manner.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -121,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:51:34",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a custom proxy class in .NET, focusing on technical implementation rather than metrics or learning principles.",
     "level": "Ignored"
   },
@@ -157,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:51:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation of a custom proxy class in .NET, which is unrelated to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on creating a custom proxy class in .NET, which is a technical programming topic. It does not mention Evidence-Based Management or its key concepts, nor does it provide any discussion on data-informed decision-making or metrics related to value delivery. The content is primarily about software development practices and lacks relevance to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:51:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which is unrelated to the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:51:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating a custom proxy class in .NET, which is a technical tutorial rather than news or reviews related to Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on creating a custom proxy class in .NET, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM framework. The discussion is technical and specific to software development practices, lacking any connection to the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -207,45 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which is not directly related to platform engineering principles or enhancing developer productivity through internal platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:51:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which is unrelated to AI and automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:40:25",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which is a specific coding task. While it touches on maintainability, it lacks a broader discussion on the complexities of software development processes or the principles of code quality. The mention of maintainability is brief and does not delve into the relationship between code quality and complexity, which is central to the category. Overall, the content does not sufficiently explore the key topics outlined in the category description.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:51:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses creating a custom proxy class in .NET, with no reference to events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses creating a custom proxy class in .NET, which is unrelated to transparency and accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -313,51 +250,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:52:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which is not related to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which is a technical implementation detail rather than a discussion on DevOps principles. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related themes, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T19:02:44",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which touches on aspects of maintainability and code quality. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does provide a specific example of code, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:52:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of a custom proxy class in .NET, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:52:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the implementation of a custom proxy class in .NET, focusing on technical details rather than discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:52:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which is not related to products or books on Agile or DevOps.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -388,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on creating a custom proxy class in .NET rather than discussing the ability to innovate or related frameworks and practices.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which is unrelated to portfolio management or project alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the creation of a custom proxy class in .NET and does not relate to Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation of a proxy class in .NET and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss the Definition of Done; it focuses on creating a custom proxy class in .NET 3.0.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on creating a custom proxy class in .NET and does not discuss any aspects of Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content does not discuss the Definition of Done; it focuses on creating a custom proxy class in .NET 3.0.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +445,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on creating a custom proxy class in .NET and does not discuss Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -575,26 +470,17 @@
     "reasoning": "Content focuses primarily on creating a custom proxy class in .NET, which is not related to collaboration tools or enhancing communication within Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the implementation of a custom proxy class in .NET without any clear connection to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T15:16:50",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 82.0,
     "ai_mentions": 15.0,
     "ai_alignment": 40.0,
     "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed example of creating a custom proxy class in .NET, which directly relates to software development practices. It discusses the implementation of interfaces and the benefits of maintainability and responsiveness to changes in service contracts, aligning well with best practices in coding and software design. The depth of discussion is moderate, focusing on a specific implementation without delving into broader methodologies or frameworks, which slightly limits its overall depth score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -623,7 +509,7 @@
     "reasoning": "Content primarily discusses creating a custom proxy class in .NET, with no relevance to estimation in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:29:18",
     "ai_confidence": 0,
@@ -697,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:29:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on creating a custom proxy class in .NET and does not discuss any principles or practices related to Continuous Delivery.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which is a specific technical implementation rather than a discussion on Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the content does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is also limited to technical implementation details without addressing Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -742,20 +631,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on creating a custom proxy class in .NET, with no mention of hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on creating a custom proxy class in .NET and does not discuss AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -796,10 +676,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a custom proxy class in .NET, which does not relate to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -850,10 +730,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a proxy class in .NET, which is unrelated to version control practices.",
     "level": "Ignored"
   },
@@ -931,19 +811,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses creating a custom proxy class in .NET, which is unrelated to Definition of Ready.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:29:18",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on creating a custom proxy class in .NET and does not discuss Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
@@ -958,13 +838,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T13:20:48",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses creating a custom proxy class in .NET, which aligns with software craftsmanship and engineering practices. It provides a specific example of code implementation, demonstrating a technical approach to improving maintainability. However, while it touches on aspects of software design, it lacks a broader discussion on best practices, principles, or methodologies that would deepen its alignment with the category of Technical Mastery.",
     "level": "Secondary"
   },
@@ -977,15 +857,6 @@
     "reasoning": "Content discusses creating a custom proxy class in .NET, which is unrelated to remote working or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on creating a custom proxy class in .NET and does not discuss Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:29:18",
@@ -993,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on creating a custom proxy class in .NET, which does not relate to customer retention strategies or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating a custom proxy class in .NET and does not relate to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1177,10 +1039,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T21:29:19",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on creating a custom proxy class in .NET and does not discuss Behaviour Driven Development or its principles, practices, collaboration, or user stories.",
     "level": "Ignored"
   },
@@ -1249,13 +1111,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:40:25",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses creating a custom proxy class in .NET, which touches on coding practices and maintainability. However, it lacks explicit discussions on broader engineering excellence principles, such as quality assurance, best practices, or continuous improvement. While it provides a code example and some insights into maintainability, it does not delve deeply into the core themes of engineering excellence, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1270,20 +1132,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T21:29:19",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on creating a custom proxy class in .NET, which is primarily about synchronous service calls and does not address asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:29:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is focused on creating a custom proxy class in .NET and does not discuss Scaling Scrum or related concepts.",
+    "reasoning": "Content focuses on creating a custom proxy class in .NET, which is primarily about synchronous service calls and does not address asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1322,22 +1175,16 @@
     "reasoning": "Content focuses on .NET programming and creating a custom proxy class, which is unrelated to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:29:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about creating a custom proxy class in .NET, which does not relate to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:29:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about creating a custom proxy class in .NET and does not discuss Scrum Masters or related responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on creating a custom proxy class in .NET, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum, agile principles, or any relevant discussions that align with the category. The technical nature of the content does not touch upon any aspects of Scrum Master duties or the Scrum framework.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1360,22 +1207,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:29:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on creating a custom proxy class in .NET, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, discussing implementation details and maintainability. It does not mention Test First Development principles, success criteria, or any testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:56:13",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which is a technical topic related to software development. It does not discuss any aspects of social technologies, collaboration, decision-making, or value delivery within organisations. The mention of service-oriented architecture is tangential and does not align with the core themes of social technologies. Overall, the content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
@@ -1408,26 +1258,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:25",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, with no direct mentions of Scrum principles, roles, or practices. While there is a brief mention of team dynamics through the context of service interfaces, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:46:56",
+    "calculated_at": "2025-04-10T15:56:54",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, with no explicit discussion of the Shift-Left Strategy or its principles. It does not address integrating testing, security, or compliance early in the development process, nor does it provide any techniques or case studies related to the Shift-Left approach. The content is technical and specific to proxy generation, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details of creating a custom proxy class in .NET, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives or strategic alignment, and does not provide depth on how these concepts could relate to the topic at hand.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical implementation of a custom proxy class in .NET, which does not directly discuss competence or continuous skill development. While it touches on maintainability and service-oriented architecture, these aspects are not explicitly linked to the principles of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which is a technical implementation topic. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The mention of maintainability is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which is a technical implementation topic. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. There are no direct mentions of agency, intentionality, or the shaping of outcomes, which are central to the category. The content lacks depth in relation to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

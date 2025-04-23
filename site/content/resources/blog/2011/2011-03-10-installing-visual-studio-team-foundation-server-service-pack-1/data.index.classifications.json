@@ -1,24 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T23:29:53",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of Visual Studio Team Foundation Server and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T06:40:29",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 61.0,
-    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, which is a practical technique related to tooling. It discusses specific steps, issues encountered, and resolutions, aligning with the category's emphasis on practical application. However, while it mentions the tool (Team Foundation Server), it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which limits its overall alignment and depth.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -31,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:44:09",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any empirical decision-making or data-informed discussions that are central to the category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T23:30:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server Service Pack 1, with no significant focus on code quality, complexity theory, or related best practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T23:30:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio Team Foundation Server and troubleshooting related issues, with no significant emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T23:30:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and does not relate to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -79,24 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-07T15:32:02",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of the installation process for Visual Studio Team Foundation Server Service Pack 1, including specific steps taken, issues encountered, and troubleshooting efforts. It explicitly discusses installation procedures, mentions system requirements, and addresses potential problems, aligning well with the key topics of the 'Install and Configuration' category. The depth of discussion is substantial, with a focus on practical experiences and outcomes, which enhances its relevance to the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T23:30:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and related issues, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -116,24 +68,15 @@
     "reasoning": "Content primarily focuses on the technical installation process of Visual Studio Team Foundation Server and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T23:30:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server Service Pack 1, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:43:54",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, which is a specific tool rather than a discussion on DevOps principles or practices. While it mentions Team Foundation Server, it does not engage with the broader DevOps philosophy, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related concepts, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -155,15 +98,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and related technical issues, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T23:30:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server Service Pack 1, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T23:30:21",
@@ -171,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and related issues, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T23:30:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and does not focus on human behaviour, team dynamics, or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -202,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T23:30:27",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and related issues, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -229,10 +154,10 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T23:30:32",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and related issues, without reference to complexity science or its principles.",
     "level": "Ignored"
   },
@@ -247,13 +172,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T06:40:21",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of a specific software update (Service Pack 1 for Team Foundation Server) rather than discussing broader methodologies or practices related to product delivery. While it touches on aspects of deployment and troubleshooting, it lacks a comprehensive exploration of product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles. The discussion is more technical and procedural, which does not align closely with the core themes of product delivery.",
     "level": "Ignored"
   },
@@ -275,18 +200,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-11T12:03:50",
-    "ai_confidence": 62.0,
-    "ai_mentions": 12,
-    "ai_alignment": 30,
-    "ai_depth": 25,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses the installation process of a specific software product, Team Foundation Server 2010 Service Pack 1. It includes detailed descriptions of the installation steps, issues encountered, and troubleshooting methods, which aligns with the category's focus on tools and software that facilitate Agile practices and DevOps integration. However, it lacks a broader analysis or review of the product's effectiveness in promoting Agile principles, which limits its depth of discussion. Overall, while the content is relevant, it does not fully explore the category's key topics, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T23:30:45",
@@ -298,13 +211,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T06:40:21",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the installation process of Team Foundation Server (TFS) and its service pack, which is a component of Azure DevOps. However, it lacks a broader discussion on Azure DevOps functionalities, best practices, or methodologies. The focus is more on personal experiences and troubleshooting rather than on the core themes of Azure DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -328,22 +241,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T23:30:51",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and related issues, without focusing on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:44:07",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, with no direct mentions or discussions related to the Agile Product Operating Model. It lacks alignment with the core themes of APOM, such as product management principles or agile methodologies, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
@@ -356,24 +269,15 @@
     "reasoning": "Content primarily focuses on the installation process of Visual Studio Team Foundation Server and troubleshooting related issues, with no discussion on organisational agility or related methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T23:30:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of a software update, lacking discussions on industry news, updates, or reviews relevant to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T06:40:24",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of a specific service pack for Team Foundation Server, which is a tool used in the application lifecycle. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as methodologies, governance, or lifecycle stages. While it touches on aspects of maintenance and deployment, it does not delve into best practices or frameworks that support ALM, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -388,43 +292,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of Team Foundation Server and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T06:40:35",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of a software update, which is more operational than a discussion on technical mastery. While it touches on aspects of software installation and troubleshooting, it lacks in-depth exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is more about personal experience with the installation rather than a structured analysis of technical excellence.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation details and error logs for a software service pack, with no discussion of customer needs, product features, or discovery methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:44:12",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, which does not directly address Continuous Delivery principles or practices. While it mentions troubleshooting and installation, it lacks discussions on automation, incremental improvements, or user feedback, which are key aspects of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -439,10 +343,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, discussing technical issues and experiences rather than lead time or related metrics.",
     "level": "Ignored"
   },
@@ -457,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of Visual Studio Team Foundation Server and does not address the criteria or components of the Definition of Ready.",
     "level": "Ignored"
   },
@@ -475,10 +379,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the installation of a software service pack and does not discuss the Product Backlog or related Agile concepts.",
     "level": "Ignored"
   },
@@ -520,10 +424,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation and troubleshooting of Visual Studio Team Foundation Server Service Pack 1, with no clear or relevant themes related to Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -547,10 +451,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process for Visual Studio Team Foundation Server and the related issues encountered, which does not align with discussions on validating product ideas or user feedback.",
     "level": "Ignored"
   },
@@ -583,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of installing a software update rather than focusing on team performance, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -610,31 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T06:40:32",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the installation process of a specific software update (Service Pack 1 for Team Foundation Server), which is relevant to software development practices. It includes details about installation issues, troubleshooting, and the implications of the update on development environments. However, while it touches on aspects of software deployment, it lacks a broader discussion on methodologies or best practices in software development, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T23:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on installing a software update for Team Foundation Server and does not discuss Agile Project Management principles, methodologies, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio Team Foundation Server and troubleshooting related issues, which does not relate to Agile values and principles.",
     "level": "Ignored"
   },
@@ -712,10 +607,10 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the installation process of a specific software service pack and does not discuss the broader concepts or practices of frequent software releases or continuous delivery.",
     "level": "Ignored"
   },
@@ -726,15 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical installation process of Visual Studio Team Foundation Server, with no focus on customer satisfaction or customer-related metrics.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T23:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation and troubleshooting of Visual Studio Team Foundation Server and does not discuss Scrum principles, scaling practices, or related frameworks.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -755,15 +641,6 @@
     "reasoning": "Content primarily discusses the installation of Visual Studio Team Foundation Server and associated technical issues, with no mention or focus on psychological safety concepts.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T23:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to installing a software update and does not address topics related to scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "calculated_at": "2025-02-15T23:37:40",
@@ -775,10 +652,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installing software, specifically Visual Studio Team Foundation Server, and does not discuss revenue per employee or related productivity metrics.",
     "level": "Ignored"
   },
@@ -829,29 +706,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on the installation process of Visual Studio Team Foundation Server and does not engage with topics related to innovation or the measurement and improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T23:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio Team Foundation Server Service Pack 1 and does not address Scrum principles, methodologies, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T23:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on the installation process of Team Foundation Server and does not discuss Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content is primarily focused on the installation process of Visual Studio Team Foundation Server and does not engage with topics related to innovation or the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -892,13 +751,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T06:40:21",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the installation process of a software service pack, which is a technical task rather than a discussion on working software itself. While it touches on aspects of functionality and operational software, it lacks a focus on user requirements, quality assurance, or iterative development principles that are central to the 'Working Software' category. The discussion is more about troubleshooting and installation rather than delivering high-quality, functional software that meets customer needs.",
     "level": "Ignored"
   },
@@ -985,31 +844,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T06:40:21",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the installation of a service pack for Team Foundation Server, which is related to software releases. However, it primarily focuses on the installation process and personal experiences rather than the broader strategies and practices of release management. While it touches on aspects like version control and the importance of successful installations, it lacks a comprehensive discussion on release planning, risk management, or coordination among stakeholders, which are key themes in release management.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process and issues related to Visual Studio Team Foundation Server, which is unrelated to the Product Owner role.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T23:37:40",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily revolves around installation issues and troubleshooting of Visual Studio Team Foundation Server, with no mention of Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1024,10 +883,10 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T23:37:41",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation processes and issues related to Visual Studio Team Foundation Server Service Pack, rather than focusing on deployment frequency or related optimization strategies.",
     "level": "Ignored"
   },
@@ -1042,10 +901,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T23:37:41",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical installation issues of Visual Studio Team Foundation Server rather than discussing team collaboration dynamics or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1067,7 +926,7 @@
     "reasoning": "Content focuses on technical issues related to the installation of Team Foundation Server and does not discuss digital transformation, agile methodologies, or strategic integration of digital technologies in business.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T23:37:41",
     "ai_confidence": 0,
@@ -1076,33 +935,24 @@
     "reasoning": "Content discusses the installation process for a service pack of Team Foundation Server, which is unrelated to the concept of Minimum Viable Products or the development and validation of market assumptions.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T23:37:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the installation process of Team Foundation Server and does not address AI integration in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T15:00:45",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the installation and configuration of the Team Foundation Server Service Pack 1, which directly aligns with the category of System Configuration. It discusses the installation process, issues encountered, and troubleshooting steps, providing a detailed account of the configuration management involved. The content also touches on hardware considerations, such as the differences in performance between the main computer and the netbook, which further supports its relevance to system configuration. Overall, the depth of discussion and the explicit focus on installation processes contribute to a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T23:37:41",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses solely on the installation process and issues encountered with Team Foundation Server, lacking any discussion on product strategy or related methodologies.",
     "level": "Ignored"
   },
@@ -1135,34 +985,37 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:37:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process and issues related to Visual Studio Team Foundation Server, with no clear focus on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail on automated or manual testing methodologies, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T13:02:05",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the installation process of the Team Foundation Server Service Pack 1, which is directly related to the Windows operating system. It discusses specific installation issues, error messages, and troubleshooting steps, aligning well with the key topics of the Windows category. The depth of discussion is substantial, providing detailed insights into the installation process and the challenges faced, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T06:40:26",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the installation process of a service pack for Team Foundation Server, which is more about software setup than deployment strategies. While it mentions aspects of deployment, such as the need for local installations and potential issues during the process, it lacks a detailed discussion on methodologies or practices related to deployment strategies like blue-green deployments or canary releases. The content does not provide actionable insights into deployment strategies, thus aligning only tangentially with the category.",
     "level": "Ignored"
   },
@@ -1177,10 +1030,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T23:37:41",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical installation details of software without any focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1204,15 +1057,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-10T18:48:48",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on the installation process of a software update, detailing specific issues encountered during the installation of Team Foundation Server Service Pack 1. It explicitly mentions troubleshooting steps taken, such as re-running the installation and checking error logs. The discussion aligns well with the core themes of troubleshooting, particularly in diagnosing installation failures and considering potential causes. The depth of the discussion is substantial, providing detailed logs and personal insights into the troubleshooting process, which enhances its relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1225,11 +1078,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:37:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the installation process of Visual Studio Team Foundation Server and does not focus on Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio Team Foundation Server Service Pack 1, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1248,15 +1104,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses installation procedures for Visual Studio Team Foundation Server Service Pack, which is unrelated to working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T23:37:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Team Foundation Server, without covering Agile, DevOps, or developer practices.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1297,10 +1144,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T23:37:41",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the installation details and troubleshooting of Team Foundation Server Service Pack 1, which does not relate to the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1351,10 +1198,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T23:37:41",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process and issues related to Visual Studio Team Foundation Server, with no focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1374,15 +1221,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of a software update and troubleshooting without focus on team dynamics, ownership, or accountability in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T23:37:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on installing Visual Studio Team Foundation Server Service Pack 1 and does not discuss Kanban principles or scaling applications.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1405,13 +1243,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:40:43",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the technical aspects of installing a software update for Visual Studio Team Foundation Server. It does not discuss collaboration, decision-making, or value delivery within organisations, which are core themes of Social Technologies. While it mentions troubleshooting and installation processes, these are technical in nature and do not align with the principles of self-organisation, adaptability, or continuous improvement that define the category.",
     "level": "Ignored"
   },
@@ -1444,62 +1282,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:48:58",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server and does not discuss any Scrum principles, roles, events, or practices. There are no direct mentions of Scrum or its related concepts, and the depth of discussion is limited to technical installation details, which do not align with the Scrum category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:31:18",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, with no direct mention of the Shift-Left Strategy or its principles. While there are some references to installation issues and troubleshooting, these do not align with the proactive integration of testing, security, or compliance early in the software development lifecycle, which is the essence of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:43:59",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, detailing personal experiences and troubleshooting steps. While there are elements of reflection on the installation process, it lacks a clear discussion on Continuous Improvement principles, such as data-driven decision-making or fostering a culture of experimentation. The content does not provide substantial depth or alignment with the key topics outlined for Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:44:02",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, detailing personal experiences and troubleshooting steps. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:44:05",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical process of installing a software update, with no explicit discussion of competence, continuous learning, or skill development. While it touches on troubleshooting and installation issues, these aspects do not align with the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, discussing troubleshooting and technical details. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth and relevance to the category, making it a very low confidence score.",
     "level": "Ignored"
   }
 }

@@ -1,24 +1,15 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:19:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses integration of Team Foundation Server with SQL Server Management Studio, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-15T07:49:01",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content briefly mentions the integration of Team Server with SQL Server Management Studio, which relates to installation and configuration. However, it lacks detailed step-by-step instructions or best practices, and the primary focus is more on the integration aspect rather than a comprehensive guide on installation or configuration processes.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -27,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical integration of software tools and does not focus on decision-making processes or related theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:19:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical integration of software tools without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:19:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical integration of software tools and does not address organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -103,19 +76,19 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:19:27",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical integration of software tools without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:19:28",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration of software tools and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -128,22 +101,16 @@
     "reasoning": "Content primarily discusses integration of Team Foundation Server with SQL Server Management Studio, which is not central to platform engineering principles.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:19:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses integration of Team Server with SQL Server Management Studio, which is not focused on code quality or complexity.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:19:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:24:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses integration of software tools and does not address Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Team Server with SQL Server Management Studio, focusing on technical aspects and tools rather than evidence-based management principles. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -166,10 +133,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:19:39",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration of software tools and does not address enterprise agility or its broader implications.",
     "level": "Ignored"
   },
@@ -200,36 +167,15 @@
     "reasoning": "Content primarily discusses integration of software tools and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:19:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses integration of software tools rather than providing news or reviews related to Agile, DevOps, or technology trends.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T15:21:18",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with SQL Server Management Studio, which relates to practical tooling in a development context. However, the discussion is quite limited and lacks depth regarding methodologies or frameworks that enhance Agile or DevOps practices. While it mentions specific tools, it does not explore their application or best practices in detail, leading to a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T07:49:01",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Team Foundation Server (TFS) and its integration with SQL Server Management Studio, which relates to application lifecycle management. However, it lacks a comprehensive discussion on the stages of the application lifecycle, best practices, or tools in a detailed manner. The focus is more on integration rather than the broader aspects of ALM, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -253,46 +199,40 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:19:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration of Team Foundation Server with SQL Server Management Studio, which is not related to the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:19:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical integration of software tools rather than events or presentations.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the integration of Team Server with SQL Server Management Studio, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The focus is on technical integration rather than product delivery or agile practices.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:19:54",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration of software tools and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T09:19:55",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration of team server with SQL Server Management Studio, which is unrelated to Value Stream Management principles.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:19:56",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration of software tools and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
@@ -305,55 +245,28 @@
     "reasoning": "Content primarily discusses technical integration of software tools and does not provide personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:19:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses integration of software tools and does not focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:20:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical integration of software tools and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-11T10:53:34",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses the integration of Team Foundation Server with various software tools, which aligns with the category's focus on tools that facilitate Agile practices. However, it lacks detailed analysis or reviews of specific products and does not delve into Agile methodologies or literature, resulting in a moderate confidence score.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-11T12:18:25",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses a technical integration question related to Team Foundation Server and SQL Server Management Studio. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it touches on tools and technologies that are often used in Agile environments. However, the discussion lacks depth and actionable insights related to Agile practices, making it more of a general technical inquiry rather than a focused discussion on the Miscellaneous category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:20:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration of Team Foundation Server with SQL Server Management Studio, which is not central to DevOps principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions integrating Team Server with SQL Server Management Studio, which relates to development workflows but does not explicitly discuss DevOps principles or practices. The focus is more on specific tools rather than the broader DevOps philosophy, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "One Engineering System": {
@@ -385,13 +298,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T07:49:04",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content mentions Microsoft SQL Server Management Studio, which is a Windows application, but the primary focus is on integration with Team Foundation Server and other software rather than on Windows itself. The discussion does not delve into installation, configuration, or troubleshooting of Windows, which are key themes of the category. Therefore, while there are relevant mentions, the overall alignment and depth of discussion regarding Windows are limited.",
     "level": "Ignored"
   },
@@ -406,47 +319,41 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about integrating team server with SQL Server Management Studio and does not discuss the Definition of Done.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration of team server with Microsoft SQL Server Management Studio, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the integration of Team Server with SQL Server Management Studio, which is more focused on development tools rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or related strategies. The discussion lacks depth and does not align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses integration of Team Foundation Server with various software but does not focus on release management strategies or practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily discussing software integration and tools, with no mention of empirical process control principles or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on integration of team server with SQL Server Management Studio and does not discuss scaling Scrum principles, frameworks, or practices.",
+    "reasoning": "Content is primarily discussing software integration and tools, with no mention of empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
   "Increment": {
@@ -469,13 +376,13 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T07:49:01",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions integration between Team Server and SQL Server Management Studio, which relates to system configuration. However, it lacks a detailed exploration of configuration processes, best practices, or optimisation strategies. The focus is more on software compatibility rather than the methodologies of configuring systems, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -517,10 +424,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of team server with various software, lacking a focus on the characteristics, delivery, or quality of working software.",
     "level": "Ignored"
   },
@@ -544,23 +451,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:49:10",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with Microsoft SQL Server Management Studio, which relates to version control systems and collaborative development practices. However, the discussion lacks depth and primarily focuses on a specific integration question rather than broader software development methodologies or practices. The mention of TFS indicates a connection to software development, but the overall content does not provide substantial insights into software engineering processes or frameworks.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration of Team Server with Microsoft SQL Server Management Studio, without a focus on Test First Development or TDD principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the integration of Team Server with SQL Server Management Studio and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any relevant detail or focus on the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -574,10 +484,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical details regarding SQL Server integration with Team Foundation Server, with no discussion on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -626,15 +536,6 @@
     "reasoning": "Content is primarily about integrating Team Server with SQL Server Management Studio, with no discussion on long-term objectives or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration of software tools related to Team Foundation Server and SQL Server, without reference to Agile scaling methodologies or practices.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T10:22:16",
@@ -655,10 +556,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of Team Foundation Server with various software and is focused on technical details, not on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -691,22 +592,22 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:49:07",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on a question regarding the integration of team server with SQL Server Management Studio, which hints at a troubleshooting scenario. However, it lacks a detailed discussion on diagnosing or resolving issues, and the focus is more on software capabilities rather than systematic problem-solving or methodologies for troubleshooting.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration issues related to SQL Server Management Studio and Team Foundation Server, which are unrelated to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -802,10 +703,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical integration details of Team Foundation Server and SQL Server Management Studio, not on Agile values or principles.",
     "level": "Ignored"
   },
@@ -883,10 +784,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses software integration and tools related to Microsoft SQL Server and Team Foundation Server, which is not relevant to the Definition of Ready in Agile.",
     "level": "Ignored"
   },
@@ -899,7 +800,7 @@
     "reasoning": "Content focuses on integrating Team Server with SQL Server Management Studio and discusses various software compatibility rather than Azure Boards functionalities or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T10:22:16",
     "ai_confidence": 0,
@@ -910,13 +811,13 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T07:49:01",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Team Foundation Server (TFS) in the context of integration with SQL Server Management Studio, which relates to source control. However, the primary focus is on integration rather than best practices or methodologies of modern source control. The discussion lacks depth and does not cover key topics such as branching strategies, code review processes, or collaboration workflows, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -956,15 +857,6 @@
     "reasoning": "Content primarily discusses integration of team server with SQL Server Management Studio and related software, which is not aligned with Agile Strategy discussions.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses integration of software applications and specific tools rather than the role of software developers within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-17T10:22:16",
@@ -994,10 +886,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical integration of Team Foundation Server with Microsoft SQL Server Management Studio, which does not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1017,15 +909,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of integrating team server with Microsoft SQL Server Management Studio and is not related to Scrum Values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses integration with Microsoft SQL Server and team server, with no reference to Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1174,10 +1057,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on integrating software tools, specifically with SQL Server Management Studio and Team Foundation Server, without any relevant connection to portfolio management practices or methodologies.",
     "level": "Ignored"
   },
@@ -1226,15 +1109,6 @@
     "reasoning": "Content primarily discusses integration between team server and various Microsoft development tools, with no focus on test automation principles or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on integrating Team Foundation Server with SQL Server Management Studio and discusses software compatibility, with no mention of Scrum principles, roles, or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T10:22:16",
@@ -1246,20 +1120,23 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration issues related to Microsoft SQL Server Management Studio and Team Foundation Server, which are not directly related to change management principles or practices.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software integration and does not address the responsibilities or practices of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the integration of Team Server with SQL Server Management Studio, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, the Scrum Master role, or any relevant discussions on agile methodologies. The focus is entirely on technical integration rather than Scrum practices or the impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1282,29 +1159,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on technical integration of software and tools, without relevance to innovation capabilities or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily focuses on technical integration with SQL Server and does not address scaling agility practices or principles.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the integration of Team Foundation Server with various software tools and does not discuss Agile Project Management or related methodologies.",
+    "reasoning": "Content focuses primarily on technical integration of software and tools, without relevance to innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1327,10 +1186,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T10:22:16",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses integration with SQL Server Management Studio and specific software tools, without focusing on team collaboration aspects or agile methodologies.",
     "level": "Ignored"
   },
@@ -1350,15 +1209,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses integrating team server with SQL Server Management Studio and mentions specific software compatibility, but does not address Value Stream Mapping or related concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses integrating software with Microsoft SQL Server Management Studio and does not mention AI or its applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1381,11 +1231,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:31:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration of Team Foundation Server with SQL Server Management Studio, which is not central to the themes of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical integration of Team Server with SQL Server Management Studio, lacking any substantial discussion on collaboration, decision-making, or value delivery. While it mentions tools that could be used in a team context, it does not explore the underlying social frameworks or methodologies that promote collaboration or enhance organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1417,26 +1270,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:22:32",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses integration between Team Foundation Server and SQL Server Management Studio, with no direct mention of Scrum principles, roles, or events. While it touches on software development tools, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:51:05",
+    "calculated_at": "2025-04-10T15:57:11",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses integration of Team Foundation Server with SQL Server Management Studio, which is unrelated to the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance processes being integrated earlier in the software development lifecycle. The focus is on software tools rather than the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating Team Server with SQL Server Management Studio and does not discuss Common Goals or their significance in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on the topic of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the integration of Team Server with SQL Server Management Studio and discusses specific tools and software rather than addressing the principles of competence, continuous learning, or skill development. While it mentions tools that could be used in a development workflow, it does not delve into the importance of competence or professional development, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating Team Server with SQL Server Management Studio and does not discuss Continuous Improvement principles. There are no direct mentions of Continuous Improvement, and the content lacks alignment with its core themes, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it mainly lists software compatibility without exploring any improvement strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the integration of Team Server with SQL Server Management Studio, focusing on technical details and tools rather than the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of agency, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

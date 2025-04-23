@@ -19,39 +19,39 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:17:26",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of agility and the Scrum framework, which are relevant to product management. However, it primarily focuses on general agility concepts and training opportunities rather than in-depth product management strategies or methodologies. The mention of training for Product Owners and Product Managers indicates some relevance, but the overall depth and focus on strategic alignment and decision-making in product management are limited.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T20:35:12",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses agility and Scrum frameworks, which are methodologies rather than the core principles of DevOps. While there are elements of collaboration and continuous improvement mentioned, they are not explicitly tied to DevOps practices or philosophy. The focus is more on project management and agile methodologies, which do not align with the strict definition of DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:18:02",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agility and the importance of adapting to complex environments, which aligns with the principles of self-organisation and continuous improvement. However, it primarily focuses on traditional versus empirical approaches and Scrum, without deeply exploring the social frameworks or methodologies that promote collaboration and decision-making. The mention of community and training classes hints at social technologies but lacks substantial depth in discussing their impact on organisational culture or behaviour.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -64,79 +64,55 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-15T02:09:22",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly mentions Product Owners in the context of training classes, but does not delve into their specific responsibilities, techniques, or challenges. The primary focus is on agility and Scrum as a whole, rather than the Product Owner role specifically.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, traditional vs empirical approaches, and Scrum without a clear focus on metrics, data utilization, or evidence-based decision making.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-15T02:10:36",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content briefly mentions Scrum and provides an overview of the Scrum Framework, which aligns with the category. However, the primary focus is on agility in general and the differences between traditional and empirical approaches, rather than an in-depth exploration of Scrum principles or practices. The depth of discussion on Scrum is limited, and while it is relevant, it does not dominate the content.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-15T02:09:56",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agility and contrasts traditional and empirical approaches, which aligns with Agile principles. It also includes an overview of the Scrum framework, which is a direct mention of an Agile framework. However, the overall focus is broader, addressing agility in general rather than delving deeply into Agile frameworks specifically. The depth of discussion on Scrum is limited to an overview, lacking detailed analysis or case studies.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-03-15T02:09:33",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content briefly mentions the Scrum framework and its importance in agile environments, but it primarily focuses on the differences between traditional and empirical approaches without delving deeply into Scrum practices or product development specifics. While there are references to Scrum roles and training for Scrum teams, the overall discussion lacks the depth and focus required for a strong alignment with Scrum Product Development.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-03-15T02:09:50",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses upcoming training classes and includes references to videos and community engagement, which are related to events and presentations. However, it lacks detailed discussions on specific events or presentations, making it more of a general overview rather than a focused exploration of the category.",
     "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility and Scrum frameworks without a focus on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -178,19 +154,19 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, traditional vs. empirical approaches, and the Scrum framework, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, Scrum frameworks, and general training offerings without a focus on remote working practices.",
     "level": "Ignored"
   },
@@ -205,19 +181,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses agility and the difference between traditional and empirical approaches, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses agility and the difference between traditional and empirical approaches without a focus on evidence-based leadership practices or decision-making.",
     "level": "Ignored"
   },
@@ -280,10 +256,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses agility and Scrum frameworks, which are related to project management rather than specific engineering practices. It does not focus on coding principles, TDD, CI/CD, or other key topics of the Engineering Practices category.",
     "level": "Ignored"
   },
@@ -316,13 +292,13 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T02:10:03",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agility and contrasts traditional and empirical approaches, which aligns with software development methodologies. It specifically mentions the Scrum framework, a key Agile methodology, providing a brief overview of its components. However, the overall focus is more on agility in a general sense rather than a deep dive into software development practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
@@ -340,46 +316,46 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-15T02:10:15",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of agility and contrasts traditional and empirical approaches, which aligns with Agile principles. However, it lacks a focused discussion on Agile Planning methodologies, techniques, or specific practices, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-15T02:09:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of agility and contrasts traditional and empirical approaches, which aligns with Agile principles. However, it lacks a focused discussion on strategic implementation or leadership roles in fostering an Agile culture, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-15T02:09:36",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the Scrum framework and mentions training for Scrum teams, which relates to team performance. However, it lacks a detailed discussion on team dynamics, collaboration, or specific strategies for enhancing team effectiveness. The primary focus is on agility and the differences between traditional and empirical approaches, which does not align closely with the core themes of team performance.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile and Scrum methodologies without a central focus on Lean principles.",
     "level": "Ignored"
   },
@@ -403,22 +379,22 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on agility, traditional vs. empirical approaches, and Scrum, rather than on principles and practices of Value Stream Management.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-15T02:09:22",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agility and the need for change in organisational approaches, particularly contrasting traditional and empirical methods. However, it lacks a focused discussion on change management strategies, stakeholder engagement, or leadership roles in transformation. While it touches on the importance of adaptability, it does not delve deeply into the principles or practices of change management as defined in the category.",
     "level": "Ignored"
   },
@@ -442,31 +418,31 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T02:10:25",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agility and the importance of adapting to change, which aligns with the principles of Continuous Learning. However, it primarily focuses on traditional versus empirical approaches and Scrum without delving deeply into the specific practices or techniques that promote a growth mindset or knowledge sharing. The mention of training classes suggests an element of ongoing education, but the overall depth of discussion on Continuous Learning is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-15T02:09:22",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses approaches to agility and frameworks like Scrum, but it does not primarily focus on systems thinking or the dynamics within organisations as defined by the category.",
     "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility principles and the Scrum framework without a focus on release management processes.",
     "level": "Ignored"
   },
@@ -488,34 +464,13 @@
     "reasoning": "Content primarily focuses on agility and Scrum methodologies, without in-depth discussion on software craftsmanship, architecture, or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:17:29",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 0,
-    "final_score": 56.0,
-    "reasoning": "The content discusses agility and the Scrum framework, which are relevant to software developers, but it primarily focuses on general agility concepts and community engagement rather than specific practices or roles of developers in Agile and DevOps contexts. While there are mentions of Scrum and training for developers, the depth of discussion on how these methodologies enhance developer productivity and collaboration is limited.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses agility and traditional vs empirical approaches, focusing more on Scrum and general agile methodologies rather than specifically on Lean Product Development principles or waste reduction in product processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agility, Scrum frameworks, and project management approaches rather than focusing on software code quality or complexity theory.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -547,36 +502,36 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T18:23:23",
-    "ai_confidence": 47.0,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 25.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 43.0,
-    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, but it lacks a detailed discussion on the role, responsibilities, or practices of a Scrum Master. While there is some alignment with the category through the mention of Scrum and Agile principles, the overall focus is more on agility in general rather than specifically on the Scrum Master role.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses aimed at improving their skills, which indicates a recognition of their role. However, the primary focus of the content is on agility in general and the differences between traditional and empirical approaches, rather than a detailed exploration of the Scrum Master's responsibilities or impact. The discussion lacks depth and does not engage with the core themes of the Scrum Master role, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses traditional versus empirical approaches to agility, with a significant focus on the Scrum framework, which relates to team-level practices rather than large-scale agility principles.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-15T02:09:38",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 40.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agility and the importance of adapting to complex environments, which aligns with the principles of iterative development and customer value. However, it lacks a focused discussion on specific value delivery strategies or methodologies, making it more of a general overview rather than a deep dive into value delivery practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -625,24 +580,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T02:09:22",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of agility in organisations and contrasts traditional and empirical approaches, which aligns with the themes of organisational change. However, it primarily focuses on Scrum and Agile methodologies without delving deeply into change management strategies or frameworks. The mention of agility is relevant but not the primary focus, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility, traditional vs. empirical approaches, and the Scrum framework without a clear focus on scaling Agile practices across multiple teams or enterprise-level implementations.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -653,50 +599,38 @@
     "reasoning": "Content primarily focuses on agility, traditional vs. empirical approaches, and the Scrum framework, without directly addressing Lean Thinking principles.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T02:10:18",
-    "ai_confidence": 68.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 18.0,
-    "non_ai_confidence": 20,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of agility and the Scrum framework, which are relevant to team dynamics and collaboration. However, while it touches on these topics, the primary focus is on the frameworks and methodologies rather than the human factors and processes involved. The depth of discussion on how people interact within these frameworks is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agility, traditional and empirical approaches, and Scrum, with no clear emphasis on Platform Engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-15T02:10:05",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of agility in a rapidly changing world and contrasts traditional project management with empirical approaches, which aligns with the principles of business agility. However, while it touches on relevant themes, it lacks in-depth exploration of specific strategies, leadership roles, or case studies that would provide a more comprehensive understanding of business agility.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-15T02:10:13",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of agility in complex environments and contrasts traditional and empirical approaches, which aligns with complexity thinking. However, it lacks in-depth exploration of complexity science principles and frameworks, resulting in a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -718,10 +652,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses agility, traditional vs. empirical approaches, and overall training offerings without directly addressing the Definition of Ready or its specific criteria.",
     "level": "Ignored"
   },
@@ -734,7 +668,7 @@
     "reasoning": "The content primarily discusses agility, traditional versus empirical approaches, and the Scrum framework, without a clear focus on Lead Time as defined in the context.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T12:34:28",
     "ai_confidence": 0,
@@ -752,15 +686,6 @@
     "reasoning": "The content primarily discusses agility and the differences between traditional and empirical approaches while focusing on Scrum and training opportunities without central emphasis on Agile leadership roles or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses traditional vs. empirical approaches in agility and an overview of Scrum, without any focus on AI or automation.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-02-18T12:34:28",
@@ -772,13 +697,13 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-15T02:10:10",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 62.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the difference between traditional and empirical approaches, which aligns with the principles of empirical process control. However, while it touches on agility and adaptation, it lacks in-depth exploration of key topics such as transparency, inspection, and specific Agile frameworks. The mention of Scrum is relevant but does not dominate the content, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -793,52 +718,43 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T02:10:01",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on Agile and Scrum frameworks, which are relevant to team collaboration, but it primarily focuses on the importance of agility and training rather than specific techniques or strategies for enhancing team dynamics. The discussion lacks depth in exploring team communication or shared ownership, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T02:10:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the importance of agility and the transition from traditional to empirical approaches, which aligns with the principles of Agile methodologies. However, it lacks detailed exploration of specific strategies or practices that enhance market adaptability, such as continuous feedback loops or the role of cross-functional teams. The discussion is somewhat general and does not delve deeply into the methodologies that directly enhance responsiveness to market changes.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on agility, traditional vs empirical approaches, and Scrum, with no discussion on AI or its integration within Agile or DevOps practices.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses agility and the differences between traditional and empirical approaches, with only brief mentions of Scrum and related training without a focus on working software delivery.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses agility in general and the difference between traditional and empirical approaches, without a specific focus on the Daily Scrum event or its associated topics.",
     "level": "Ignored"
   },
@@ -853,36 +769,24 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-15T02:09:43",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 47.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 43.0,
+    "final_score": 47.0,
     "reasoning": "The content discusses the importance of agility in a rapidly changing world and contrasts traditional and empirical approaches, which aligns with the concept of enterprise agility. However, it primarily focuses on team-level practices, such as Scrum, without delving deeply into organisational structures or broader implications of agility on organisational performance. The depth of discussion on enterprise agility is moderate, but it lacks specific frameworks or strategies for scaling agility at the organisational level.",
     "level": "Tertiary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses the differences between traditional and empirical approaches, briefly mentioning Scrum but lacking a focus on product backlog management.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-03-15T02:10:23",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 20,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the importance of agility and contrasts traditional project management with empirical approaches, which aligns with agile principles. It also includes an overview of the Scrum framework, which is a key agile methodology. However, the overall focus is more on general agility rather than a deep dive into agile project management specifics, leading to a moderate confidence score.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -902,36 +806,12 @@
     "reasoning": "Content primarily discusses agility and its importance, with a focus on traditional versus empirical approaches, without addressing troubleshooting or resolving technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T02:09:26",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses Agile methodologies and provides links to videos and training classes, which aligns with the category. However, it lacks detailed reviews or analyses of specific products or books, resulting in a moderate confidence score.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-15T02:10:34",
-    "ai_confidence": 72.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 22.0,
-    "non_ai_confidence": 10,
-    "final_score": 66.0,
-    "reasoning": "The content discusses agility and its importance in the current landscape, which aligns with industry news and updates. It mentions specific articles and videos, providing a review-like structure. However, the depth of analysis on emerging trends or tools is limited, and while it touches on relevant topics, it does not provide extensive insights or evaluations that would typically characterise a comprehensive review.",
-    "level": "Secondary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, traditional vs. empirical approaches, and an overview of the Scrum framework without focusing explicitly on team motivation or related psychological aspects.",
     "level": "Ignored"
   },
@@ -944,44 +824,35 @@
     "reasoning": "Content primarily focuses on agility concepts, training opportunities, and the Scrum framework without personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses agility in general and the Scrum framework without a clear focus on scaling practices or frameworks specifically related to scaling Scrum in larger organizations.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility and traditional vs. empirical approaches without focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses agility in general and the Scrum framework without a clear focus on Scrum Values. Scrum Values are not the primary topic.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T16:37:05",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 50.0,
     "ai_alignment": 70.0,
     "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the importance of agility and contrasts traditional and empirical approaches, which aligns with Agile principles. It mentions Scrum and provides an overview of its framework, indicating a focus on Agile methodologies. However, the depth of discussion on specific Agile product management practices, such as the role of the Product Owner or backlog prioritisation, is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -994,11 +865,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility and Scrum frameworks without focusing on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agility and the differences between traditional and empirical approaches, with no direct mention of Test First Development principles or practices. While it touches on Scrum, it does not delve into testing methodologies or the importance of success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1012,13 +886,13 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:47:24",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 47.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 44.0,
+    "final_score": 47.0,
     "reasoning": "The content briefly mentions Scrum roles and offers training for Scrum Teams, indicating some relevance to the category. However, the primary focus is on agility in general and empirical approaches rather than a deep exploration of Scrum Team dynamics, roles, or collaboration techniques.",
     "level": "Tertiary"
   },
@@ -1051,15 +925,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-15T02:10:20",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agility and the importance of adapting to complex environments, which aligns with strategic thinking in Agile contexts. However, it primarily focuses on the differences between traditional and empirical approaches without delving deeply into strategic alignment or execution within Agile frameworks. The mention of Scrum provides some relevance, but the overall discussion lacks depth in strategic formulation and execution.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1072,89 +946,59 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-13T16:56:48",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agility in a general sense and contrasts traditional and empirical approaches, which aligns with the Agile Philosophy's emphasis on adaptability and responsiveness to change. However, it primarily focuses on specific frameworks like Scrum and does not delve deeply into the foundational principles of Agile or the Agile Manifesto. The mention of agility is present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T02:09:59",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses agility and the Scrum framework, which are relevant to product delivery methodologies. However, it primarily focuses on the importance of agility and the differences between traditional and empirical approaches without delving deeply into specific product delivery practices such as testing, deployment, or metrics. While it mentions Scrum, it does not provide extensive detail on how these methodologies directly impact the end-to-end product delivery process.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between traditional and empirical approaches, and provides an overview of the Scrum Framework. It does not focus on scaling agile practices across organizations.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-15T02:10:12",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agility in organisations and contrasts traditional project management with empirical approaches, which aligns with the core themes of organisational agility. It highlights the need for adaptability in complex environments and introduces the Scrum framework, which is relevant to agile methodologies. However, while it touches on these topics, the depth of discussion on specific strategies or cultural shifts is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-13T15:48:08",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 60.0,
     "ai_alignment": 80.0,
     "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the importance of agility and contrasts traditional project management with empirical approaches, which aligns with Agile principles. It also mentions the Scrum framework, providing a brief overview, which is relevant to Agile transformation. However, while it touches on key Agile concepts, the depth of discussion on specific Agile transformation strategies and change management is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, Scrum, and training rather than Portfolio Management principles such as strategic alignment, prioritisation, or value optimization.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T02:10:30",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the importance of agility in adapting to change, which aligns with the themes of resilience and change. However, it primarily focuses on the differences between traditional and empirical approaches without delving deeply into organisational resilience strategies or change management practices. The mention of agility suggests a connection to adaptability, but the depth of discussion on resilience and change is moderate, leading to a moderately high confidence score.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on agility and Scrum frameworks without a clear emphasis on transparency and accountability principles.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -1175,29 +1019,17 @@
     "reasoning": "The content primarily discusses agility, Scrum methodology, and training classes, without a central focus on the principles or practices of Frequent Releases.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T02:09:45",
-    "ai_confidence": 42.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
-    "non_ai_confidence": 10,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the importance of agility and briefly mentions the Scrum framework, which aligns with the category. However, it primarily focuses on the philosophical aspects of agility rather than practical techniques or tooling. The depth of discussion on specific tools or methodologies is limited, and while there are mentions of training classes, they do not provide detailed insights into practical application.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-15T02:09:24",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agility and the difference between traditional and empirical approaches, which touches on the need for organisations to adapt to complex environments. However, it primarily focuses on agility and Scrum without delving deeply into sensemaking principles or frameworks. While there are mentions of adapting to change, the discussion lacks the depth and explicit focus on sensemaking as a primary theme.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1210,10 +1042,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T12:34:28",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the differences between traditional and empirical approaches to project management and agility, primarily focusing on Scrum, without a central emphasis on product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
@@ -1237,27 +1069,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:35:30",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agility and the differences between traditional and empirical approaches, which are relevant to agile methodologies. However, it primarily focuses on general agility rather than specifically on the Agile Product Operating Model. While there are mentions of Scrum, the depth of discussion does not delve into the core principles of APOM or its integration with product management practices.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T02:10:44",
-    "ai_confidence": 62.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 12.0,
-    "non_ai_confidence": 10,
-    "final_score": 57.0,
-    "reasoning": "The content discusses agility and the importance of adapting to new situations, which aligns with the themes of continuous learning and innovation. However, it primarily focuses on traditional versus empirical approaches and Scrum without delving deeply into methodologies that foster discovery and learning. The mention of community and training classes suggests a secondary focus on learning, but lacks detailed exploration of the processes involved.",
-    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1286,21 +1106,12 @@
     "reasoning": "Content heavily discusses Agile methodologies and Scrum framework without mentioning automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T12:34:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on agility, traditional vs. empirical approaches, and an overview of the Scrum framework, with no clear discussion or relevance to the scaling of Kanban principles in large organizations.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of agility and empirical approaches in complex environments, particularly in relation to Scrum, which aligns with pragmatic thinking. However, it is more general in nature rather than strictly focused on practical problem-solving strategies or specific techniques.",
     "level": "Tertiary"
   },
@@ -1315,31 +1126,31 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses agility and differences between traditional and empirical approaches but does not focus on structured decision-making or evidence-based methodologies.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-15T02:10:41",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agility and contrasts traditional and empirical approaches, which aligns with some principles of BetaCodex, particularly regarding adaptability. However, it primarily focuses on Scrum and traditional project management without delving deeply into decentralisation or human-centric organisational design. The discussion lacks substantial detail on BetaCodex principles, resulting in a lower confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content mainly discusses agility, traditional versus empirical approaches, and the Scrum framework, without a focus on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
@@ -1363,40 +1174,40 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, Scrum practices, and the difference between traditional and empirical approaches, without focusing on product strategy methodologies, frameworks, or roadmapping.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-15T02:10:39",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the importance of agility and contrasts traditional and empirical approaches, which aligns with Agile principles. However, it primarily focuses on the Scrum framework and does not delve deeply into Agile values or principles, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, Scrum, and the differences between traditional and empirical approaches, without a clear focus on Value Stream Mapping.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agility and the importance of adapting to complex environments, which has sociotechnical implications, especially in relation to Scrum roles and frameworks. However, it primarily focuses on the distinction between traditional and empirical approaches rather than a deep exploration of sociotechnical systems.",
     "level": "Tertiary"
   },
@@ -1456,49 +1267,49 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:35:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 31.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the difference between traditional and empirical approaches, which aligns with the concept of Evidence-Based Management. However, it primarily focuses on agility and Scrum without delving deeply into empirical decision-making or specific metrics related to EBM. The discussion lacks substantial detail on how empirical evidence informs management decisions, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the importance of agility and theoretical approaches to Scrum without addressing installation or configuration processes.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses agility, traditional vs. empirical approaches, and Scrum frameworks without a clear focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T12:34:29",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agility and empirical approaches in a mixed context, touching on frameworks like Scrum which relate to operational practices, but lacks a primary focus on specific operational efficiency techniques.",
     "level": "Tertiary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:04:44",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and Scrum practices, with no focus on Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1513,74 +1324,86 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:29:00",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 27,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content includes a specific section titled 'Overview of The Scrum Framework' which directly discusses Scrum principles, roles, and events. This indicates a strong direct mention of the category. Additionally, the content aligns with Scrum's emphasis on agility and adaptive solutions for complex problems, reflecting core themes of the category. However, while it provides a good overview, the depth of discussion is somewhat limited as it primarily serves as an introduction rather than an in-depth analysis of Scrum practices.",
     "level": "Secondary"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:09:27",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses agility and the differences between traditional and empirical approaches, with a focus on Scrum. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding the integration of testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:35:15",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agility and the importance of adapting to change, which aligns with the principles of Continuous Improvement. However, it lacks direct mentions of Continuous Improvement practices or detailed strategies for fostering a culture of experimentation and learning. The focus is more on agility in general rather than on Continuous Improvement as a primary topic.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:35:17",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses agility and the importance of adapting to change, which is relevant to the concept of Common Goals in Agile and DevOps. However, it lacks explicit mentions of shared objectives or alignment strategies. The depth of discussion on how agility connects to organisational goals is limited, focusing more on the general importance of agility rather than specific frameworks or techniques that operationalise Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:35:20",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses agility and the importance of adapting to complex environments, which indirectly relates to competence through the need for continuous learning and skill development. However, it lacks explicit discussions on competence as a primary focus, and while it touches on training and skill improvement, it does not delve deeply into the principles of professionalism or quality delivery.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T20:35:23",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses agility and the Scrum framework, which are not directly related to the One Engineering System. While it touches on the importance of adapting to complex environments, it does not delve into the principles, components, or implementation of 1ES. The focus is on agility rather than the integration and standardisation of engineering processes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:15:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses agility in a general sense, focusing on traditional versus empirical approaches and the Scrum framework. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of intent and accountability. The discussion is primarily about agility as a concept rather than the specific principles and mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

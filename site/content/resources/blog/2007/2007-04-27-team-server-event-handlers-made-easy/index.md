@@ -9,7 +9,7 @@ ResourceImportId: 412
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
-weight: 855
+weight: 840
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,8 @@ aliasesArchive:
 - /blog/team-server-event-handlers-made-easy---
 - /resources/blog/team-server-event-handlers-made-easy
 categories: []
-tags: []
+tags:
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

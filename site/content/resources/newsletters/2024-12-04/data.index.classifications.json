@@ -1,13 +1,4 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T16:10:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no mention of AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-12T16:10:25",
@@ -17,7 +8,7 @@
     "reasoning": "Content primarily discusses a change in working location and its impact on meeting schedules, rather than focusing on team collaboration or Agile principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T16:10:26",
     "ai_confidence": 0,
@@ -37,11 +28,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T16:10:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a change in working location and its impact on meeting schedules, with no focus on throughput or related metrics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss throughput as a delivery metric. There are no direct mentions of throughput, nor does it align with the key topics outlined for the category. The content lacks any depth related to throughput analysis or metrics, making it irrelevant to the classification.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -136,11 +130,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T16:10:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T16:54:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a temporary change in working location and logistics, with no focus on innovation capabilities or Evidence-Based Management.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss innovation or related practices. There are no direct mentions of innovation, metrics, or strategies that would align with the category of 'Ability to Innovate'. The content lacks any depth or detail on innovation processes, making it irrelevant to the classification.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -172,11 +169,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T16:10:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal update regarding working location and availability, with no direct reference to Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects related to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum practices, team dynamics, or agile principles, which are essential for alignment with the category. The content lacks depth and relevance to the Scrum Master role, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Team Performance": {
@@ -217,22 +217,22 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T16:52:03",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 0.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category. The depth of discussion is also minimal, as it does not provide any insights or data-informed decision-making related to management practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T16:11:03",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a temporary change in working location and its impact on meeting schedules, without addressing organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -265,22 +265,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T16:52:00",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics, and the content lacks any depth or alignment with the category's key themes.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-12T16:11:10",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a temporary change in working location and its impact on meeting schedules, rather than working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -331,10 +331,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T16:11:19",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and logistics, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -349,47 +349,29 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T16:11:22",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no mention of Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T16:11:23",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T16:11:25",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a temporary change in working location and its impact on meeting schedules, with no mention of cross-functional teams or related topics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T16:11:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not address topics related to software development, Agile, or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T16:11:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not address any topics related to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -475,10 +457,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T16:11:53",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no focus on software delivery or related topics.",
     "level": "Ignored"
   },
@@ -563,15 +545,6 @@
     "reasoning": "Content is primarily about a personal update regarding working location and scheduling, with no mention of Azure Pipelines or related topics.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T16:12:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a change in working location and does not address Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-12T16:12:09",
@@ -592,10 +565,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T16:12:12",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not address any principles or practices of scaling Agile methodologies.",
     "level": "Ignored"
   },
@@ -673,11 +646,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T16:12:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:56:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a change in working location and its impact on meeting schedules, with no mention of Lead Time or related metrics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and time zone, with no direct mention of Lead Time or its related concepts. While it briefly touches on availability and scheduling, it does not discuss Lead Time as an observability metric, its relationship with Cycle Time, or any strategies for optimisation. Therefore, the content does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -687,15 +663,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no mention of Behaviour Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T16:12:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a change in working location and does not address Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Product Strategy": {
@@ -745,10 +712,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T16:12:40",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and scheduling, with no mention of Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -799,11 +766,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T16:12:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a change in working location and scheduling, with no focus on system configuration topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a temporary change in the author's working location and its impact on meeting schedules. There are no direct mentions of system configuration, nor does it align with the core themes of system setup, automation, or maintenance. The discussion is focused on personal availability rather than technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -815,24 +785,15 @@
     "reasoning": "Content is primarily about a change in working location and scheduling, with no discussion of technical debt or related topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T16:12:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a temporary change in working location and does not address any topics related to Scaling Scrum or its principles.",
-    "level": "Ignored"
-  },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-06T14:39:03",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content mentions a temporary change in working location and discusses the implications for meeting schedules due to a time zone shift. While it touches on aspects of remote working, such as availability and scheduling, it lacks a deeper exploration of Agile practices or strategies for effective collaboration in a remote setting. The focus is more on personal circumstances rather than the challenges and solutions associated with remote Agile teams.",
     "level": "Secondary"
   },
@@ -861,15 +822,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal update regarding working location and availability, with no mention of backlog refinement or related Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T16:13:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not address any topics related to scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -926,15 +878,6 @@
     "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no focus on product validation or related methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T16:13:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a temporary change in working location and does not address any Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-12T16:13:15",
@@ -973,10 +916,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T16:13:20",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a temporary change in working location and its impact on meeting schedules, without addressing change management principles or practices.",
     "level": "Ignored"
   },
@@ -1000,11 +943,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T16:13:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a change in working location and does not discuss Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content is primarily an update about a change in working location and does not discuss any principles or practices related to Test First Development. There are no mentions of testing methodologies, success criteria, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1023,15 +969,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal update regarding working location and availability, with no mention of Azure DevOps or related topics.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T16:09:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a change in working location and scheduling, with no focus on products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1070,21 +1007,12 @@
     "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T16:09:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a change in working location and its impact on meeting schedules, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T16:09:39",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a temporary change in working location and its impact on meeting schedules, with no focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
@@ -1099,10 +1027,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T16:09:43",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and scheduling, with no focus on metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -1117,50 +1045,23 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T16:09:45",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no focus on installation or configuration topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T16:09:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T16:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not address industry news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-21T10:38:45",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the content lacks any alignment with the core themes of the category. It is a brief communication about availability and scheduling, which does not delve into any relevant DevOps topics.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T16:09:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal update regarding a change in working location and its impact on meeting schedules, without focusing on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -1170,24 +1071,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and scheduling, with no focus on engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T16:09:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a change in working location and meeting schedules, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T16:09:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a change in working location and scheduling, with no focus on software code or complexity.",
     "level": "Ignored"
   },
   "Lean": {
@@ -1217,24 +1100,6 @@
     "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not relate to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T16:10:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a temporary change in working location and logistics, with no focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T16:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a change in working location and does not address any practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-12T16:10:05",
@@ -1255,19 +1120,19 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T16:10:08",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal update regarding a change in working location and does not address enterprise agility or related organisational themes.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T16:10:09",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a temporary change in working location and its impact on meeting schedules, with no focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -1296,15 +1161,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a change in working location and its impact on meeting schedules, with no focus on product delivery methodologies or practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T16:10:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a change in working location and scheduling, with no focus on discovery, learning, or related methodologies.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
@@ -1345,13 +1201,13 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T10:38:48",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content lacks depth and alignment with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1366,13 +1222,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T17:44:05",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not explicitly discuss social technologies, collaboration, or decision-making frameworks. While it mentions maintaining communication and scheduling meetings, these points are not explored in depth or connected to the principles of social technologies. Overall, the content lacks substantial alignment with the core themes of the category.",
     "level": "Ignored"
   },
@@ -1396,13 +1252,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:39:40",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses a change in the author's working location and does not mention any Scrum principles, roles, events, or practices. It lacks any direct references to Scrum or its core themes, resulting in a very low confidence score.",
     "level": "Ignored"
   },
@@ -1420,50 +1276,218 @@
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T16:51:51",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it is a straightforward communication about availability rather than a reflection on processes or improvements.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T16:51:54",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Common Goals, Agile, or DevOps. While it mentions ongoing commitments to clients, it lacks any explicit connection to shared objectives or strategic alignment, which are central to the category of Common Goals.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T16:51:56",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 10.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on a change in working location and logistical details regarding meeting schedules. While it briefly mentions a commitment to supporting teams and projects, it does not delve into discussions about continuous learning, skill development, or the principles of competence as defined in the category. The overall emphasis is on personal circumstances rather than professional competence.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System",
-    "calculated_at": "2025-03-21T16:51:58",
+    "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any principles, components, or practices related to the One Engineering System. There are no mentions of integration, standardisation, or software development methodologies, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in location and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The content lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any product development methodologies, practices, or principles. There are no direct mentions of Agile, customer feedback, or iterative processes, and the depth of discussion is minimal, lacking any relevant detail on product development.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and time zone, with minimal relevance to project management principles or methodologies. While it mentions ongoing support and meeting scheduling, it lacks detailed discussion on project management topics such as methodologies, lifecycle phases, or tools. Therefore, it does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T12:57:10",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is a personal update about a change in working location and does not discuss Hybrid Agile or any related themes. There are no mentions of project management methodologies, agile practices, or the challenges associated with Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any scaling methodologies, frameworks, or strategies. There are no direct mentions of scaling Agile practices or related topics, and the content lacks depth in addressing any complexities or strategies involved in scaling.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:00:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a personal update regarding a change in working location and does not mention GitHub or its functionalities at all. There are no references to GitHub services, collaboration features, or any related topics, making it irrelevant to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T16:54:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss Time to Market or related concepts. There are no direct mentions of metrics, strategies, or discussions relevant to the speed of delivering value to customers. The content lacks any depth or alignment with the key topics outlined for the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T16:54:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Unrealised Value or Evidence-Based Management. There are no direct mentions of potential improvements, innovation opportunities, or any related indicators. The content lacks depth and relevance to the category, making it unsuitable for classification under 'Unrealised Value.'",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T16:54:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss Current Value or its relevance to Evidence-Based Management. There are no direct mentions of metrics, indicators, or techniques related to Current Value, and the discussion lacks depth in any related themes.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T16:54:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not mention Agnostic Agile or its principles. There is no discussion of agile methodologies, critical thinking, or ethical considerations, which are central to the Agnostic Agile category. The content lacks any depth or relevant context that would align it with the themes of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T16:54:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in the author's working location and does not discuss any principles or strategies related to treating the organisation as a product. There are no direct mentions of CaaP concepts, and the content lacks depth in discussing organisational design or customer-centric strategies. It is more of an informal communication rather than a discussion on organisational strategy.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T16:54:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not discuss any aspects of Cell Structure Design. There are no direct mentions of the category, and the themes of decentralisation, autonomous cells, or organisational design are absent. The content lacks depth and relevance to the core principles outlined in the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T16:54:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not mention or discuss any facilitation techniques, group dynamics, or the principles of Liberating Structures. There is no alignment with the core themes of the category, and the depth of discussion is minimal, as it does not provide any relevant information on Liberating Structures or their applications.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T16:54:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal update regarding a change in working location and does not mention Open Space Agile or its principles. There is no discussion of organisational agility, collaborative change processes, or any related themes. The content is more about logistics and personal circumstances rather than any Agile methodologies.",
     "level": "Ignored"
   }
 }

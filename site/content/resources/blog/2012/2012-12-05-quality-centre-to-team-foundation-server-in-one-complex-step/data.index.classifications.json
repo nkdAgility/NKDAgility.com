@@ -10,43 +10,43 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migration tools and processes between ALM systems without mentioning or relating to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:28:16",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating from Quality Centre to Team Foundation Server, discussing various tools and their capabilities in detail. It addresses best practices in tool selection, migration versus synchronisation, and the technical challenges involved, which aligns well with the principles of software craftsmanship and engineering practices. However, while it provides substantial detail on specific tools, it lacks broader discussions on clean code principles or agile practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools for migrating and synchronizing data between Quality Centre and Team Foundation Server, with a focus on their features and limitations, rather than exploring methodologies or practices for product discovery aligned with customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T08:00:19",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, which does not directly address Continuous Delivery principles or practices. While it touches on aspects of software delivery, such as migration and synchronisation, it lacks a discussion on automation, incremental improvements, or rapid feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
@@ -61,10 +61,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration and synchronization tools between Quality Centre and Team Foundation Server, without any clear focus on the concept of lead time or its measurement.",
     "level": "Ignored"
   },
@@ -79,28 +79,28 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses tools for migrating and synchronizing data between Quality Centre and Team Foundation Server and does not address any criteria or discussions related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and processes for migrating and synchronizing data between specific software systems (Quality Centre and Team Foundation Server), without a focus on portfolio management practices such as project prioritization or strategic alignment.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses migration tools and processes between Quality Centre and Team Foundation Server, which is unrelated to the Product Backlog and its management in Agile frameworks.",
     "level": "Ignored"
   },
@@ -115,40 +115,40 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses tools and methods for migrating data between software systems, specifically from Quality Centre to Team Foundation Server, and does not focus on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and methods between Quality Centre and Team Foundation Server, with no focus on customer feedback integration.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T05:28:03",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses tools and strategies for migrating from Quality Centre to Team Foundation Server, which aligns with operational practices in terms of process optimisation and workflow management. It provides detailed evaluations of various tools, their capabilities, and considerations for migration versus synchronisation, which are relevant to improving operational efficiency. However, while it touches on operational practices, it lacks a broader discussion on continuous improvement or metrics, which slightly lowers the confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses migration tools and methods for moving data between systems, with no focus on Scrum Teams, their roles, dynamics, or collaboration.",
     "level": "Ignored"
   },
@@ -172,10 +172,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and methods for migrating data between systems, focusing on features and user experiences rather than validating product ideas through user testing or feedback.",
     "level": "Ignored"
   },
@@ -208,10 +208,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on migration tools between software systems, which does not align with strategies, practices, or methodologies aimed at maximizing the effectiveness and collaboration of agile teams.",
     "level": "Ignored"
   },
@@ -226,67 +226,58 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and processes for migrating data from Quality Centre to Team Foundation Server, without a focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-06T16:03:13",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily discusses tools and methodologies for migrating data between Quality Centre and Team Foundation Server, which directly relates to software development practices. It mentions specific tools, their functionalities, and considerations for migration versus synchronisation, aligning well with the Software Development category. The depth of discussion includes detailed comparisons and insights into the tools, indicating a strong focus on software engineering outcomes.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T15:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content is primarily focused on tools and methods for migrating data from Quality Centre to Team Foundation Server, which does not align with discussions on Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on tools and migration processes between Quality Centre and Team Foundation Server, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T15:06:42",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses migration tools from Quality Centre to Team Foundation Server and does not focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and synchronization between ALM systems, not focused on version control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses various tools and processes for migrating and synchronizing data between Quality Centre and Team Foundation Server, without a focus on empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -310,10 +301,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools between Quality Centre and Team Foundation Server, not collaboration tools designed to enhance communication or teamwork within Agile teams.",
     "level": "Ignored"
   },
@@ -346,28 +337,19 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly focuses on software migration and synchronization tools, which does not directly address customer satisfaction or customer experience principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses migration tools and processes between ALM systems and does not pertain to scaling Scrum or Scrum practices.",
+    "reasoning": "Content predominantly focuses on software migration and synchronization tools, which does not directly address customer satisfaction or customer experience principles.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and methods for migrating data between systems, lacking a focus on evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -380,24 +362,15 @@
     "reasoning": "Content primarily discusses migration and synchronization tools related to ALM rather than any themes related to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on migration tools from Quality Centre to Team Foundation Server and does not discuss scaling agile principles or practices across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T05:27:53",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses various tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which touches on aspects of software craftsmanship and quality assurance. However, it primarily focuses on specific tools and their functionalities rather than broader engineering practices or principles. While there are mentions of migration and synchronisation processes, the depth of discussion on best practices, coding standards, or continuous improvement is limited, leading to a moderate confidence score.",
     "level": "Ignored"
   },
@@ -430,22 +403,22 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and processes for migrating data between project management systems, without direct focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-07T15:12:59",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content provides a detailed analysis of various tools for migrating from Quality Centre to Team Foundation Server, discussing practical considerations and real-world applications of these tools. It addresses specific questions that need to be considered during the migration process, demonstrating a pragmatic approach to problem-solving in a complex environment. The depth of discussion on the tools and their functionalities aligns well with the core themes of pragmatic thinking, particularly in the context of Agile and DevOps. However, while it is focused on practical applications, it does not explicitly mention Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
@@ -460,29 +433,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migration tools and processes between software systems, with no focus on the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses tools for migrating data from Quality Centre to Team Foundation Server, without a clear focus on Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration and synchronization tools for various ALM systems, without a focus on Scaled Agile methodologies, frameworks, or enterprise-level Agile practices.",
+    "reasoning": "Content primarily discusses migration tools and processes between software systems, with no focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -505,10 +460,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily does not discuss test automation; it focuses on migration and synchronization tools for transitioning from Quality Centre to Team Foundation Server.",
     "level": "Ignored"
   },
@@ -523,31 +478,31 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:28:01",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 58.0,
+    "final_score": 62.0,
     "reasoning": "The content primarily discusses tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which relates to the delivery of functional software. It mentions the importance of operational software and provides insights into various tools, their capabilities, and limitations. However, while it touches on aspects of working software, such as migration and synchronisation, it lacks a deeper exploration of best practices, customer feedback integration, or iterative development, which are key themes in the Working Software category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on migration and synchronization tools for ALM, without discussing Agile methodologies or specific Agile planning tools.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses migration tools between Quality Centre and Team Foundation Server, which does not directly relate to Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -598,15 +553,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-15T05:27:53",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses various tools for migrating from Quality Centre to Team Foundation Server, including considerations for migration versus synchronisation. While it poses questions that could guide decision-making, the focus is primarily on tool features rather than structured, evidence-based methodologies for decision-making. The discussion lacks depth in terms of frameworks or empirical evidence, which are crucial for a higher confidence score in the 'Decision Making' category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -619,31 +574,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T05:28:10",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which relates to aspects of release management, particularly in terms of planning and controlling software releases. However, it lacks a direct focus on broader release management strategies, such as version control, risk management, or CI/CD practices. The depth of discussion on specific tools provides some insight into the migration process, but it does not comprehensively cover the key topics outlined in the release management category.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools for migration and synchronization between software systems, unrelated to the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on migration and synchronization tools between Quality Centre and Team Foundation Server, with no substantial discussion on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -667,19 +622,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on tools and processes for migrating from Quality Centre to Team Foundation Server, without discussing strategies or principles related to effective change management.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the migration and synchronization tools from Quality Centre to Team Foundation Server, with little emphasis on team collaboration dynamics or Agile principles.",
     "level": "Ignored"
   },
@@ -694,17 +649,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T05:28:13",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which is a technical aspect of digital transformation. However, it lacks a broader strategic discussion on how these tools enhance business agility or foster innovation. While it touches on migration and synchronisation, it does not delve into change management practices or the impact of these technologies on organisational culture, which are key themes in digital transformation. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T15:06:43",
     "ai_confidence": 0,
@@ -713,33 +668,24 @@
     "reasoning": "Content primarily discusses migration tools and synchronization between Quality Centre and Team Foundation Server, with no clear focus on Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses migration tools and processes for ALM systems, without a clear focus on AI integration in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T05:28:05",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15,
     "ai_alignment": 25,
     "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses tools and methodologies for migrating and synchronising data between Quality Centre and Team Foundation Server. While it touches on aspects of system configuration, such as the need for custom adapters and the challenges of integration, the focus is more on migration strategies and tool comparisons rather than on the broader principles of system configuration. The discussion lacks depth in configuration management practices and optimisation strategies, which are key themes of the category.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on migration tools and technical implementation details, not on product strategy methodology or frameworks.",
     "level": "Ignored"
   },
@@ -772,11 +718,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migration and synchronization tools for Quality Centre to Team Foundation Server, with no mention or relevant discussion of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses tools for migrating from Quality Centre to Team Foundation Server, focusing on migration and synchronisation rather than the principles of Test First Development. There are no explicit mentions of Test First practices, success criteria, or testing methodologies related to Test First Development. The discussion lacks depth in terms of the core themes of the category, such as TDD or ATDD, and does not provide insights into the impact of Test First on collaboration or feedback loops.",
     "level": "Ignored"
   },
   "Windows": {
@@ -799,28 +748,28 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on migration tools for application lifecycle management (ALM) between specific software systems, which does not align with the principles of scaling Agile methodologies across an organization.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software tools for migrating and synchronizing data between systems, with no focus on team dynamics or motivation strategies.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses exclusively on migration tools between Quality Centre and Team Foundation Server, with no mention of remote working practices, communication, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -835,15 +784,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:27:56",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses various tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which touches on troubleshooting aspects related to integration issues. However, it primarily focuses on tool recommendations and comparisons rather than providing in-depth methodologies for diagnosing and resolving specific technical issues. The troubleshooting aspect is present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -856,11 +805,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses tools and methods for migrating data between software systems, with no clear relation to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, with no direct mention of the Scrum Master role or its responsibilities. While it briefly touches on concepts relevant to Agile and ALM, it does not align with the core themes of the Scrum Master category, such as coaching, team dynamics, or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -874,20 +826,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and techniques for data migration between project management software, without addressing working agreements, teamwork norms, or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:27:53",
-    "ai_confidence": 20,
-    "non_ai_confidence": 10,
-    "final_score": 19.0,
-    "reasoning": "The content discusses tools for migrating data between software systems, which is relevant to software developers, but the focus is primarily on specific migration tools rather than on Agile or DevOps practices relating to the role of software developers.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -928,22 +871,22 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-15T05:27:53",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating data between Quality Centre and Team Foundation Server, discussing various tools and their functionalities. While it touches on the importance of understanding customer needs and the implications of migration versus synchronisation, it lacks a comprehensive exploration of product management methodologies, frameworks, or strategic alignment with business objectives. The discussion is more technical than strategic, leading to a low confidence score in the context of product management.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on migration tools for ALM software and their functionalities, without discussing self-organisation principles, practices, or themes.",
     "level": "Ignored"
   },
@@ -985,10 +928,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migration tools and processes between Quality Centre and Team Foundation Server without addressing Lean principles, waste reduction, or product development efficiency.",
     "level": "Ignored"
   },
@@ -1010,15 +953,6 @@
     "reasoning": "Content mainly discusses tools and processes for migrating data between project management systems and does not address accountability, team dynamics, or ownership within Agile teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on migration and integration tools between Quality Centre and Team Foundation Server, with no discussion or relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T15:06:43",
@@ -1030,80 +964,41 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-14T15:06:43",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content predominantly discusses tools and methodologies for migrating data between ALM systems and does not address Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T15:38:11",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses migration tools and processes related to Quality Centre and Team Foundation Server, without engaging with Agile principles, product value maximisation, or any Agile product management practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T14:51:59",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed exploration of various tools and methodologies for migrating from Quality Centre to Team Foundation Server, which aligns closely with the category's focus on practical techniques and tooling. It discusses specific tools, their functionalities, and the challenges associated with them, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, as it includes comparisons, pros and cons, and practical advice for tool selection, which enhances its relevance to the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T15:38:11",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration and synchronization tools for ALM (Application Lifecycle Management) systems rather than internal developer platforms or platform engineering principles.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T08:00:23",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, discussing various software options and their capabilities. While it touches on aspects of decision-making regarding migration versus synchronisation, it lacks a direct focus on Evidence-Based Management principles such as empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion is more about practical tool usage rather than data-informed management strategies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T05:27:53",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses migration tools and synchronization between software systems, which does not focus on code quality principles or the complexities of software development processes. The mention of complexity is secondary and not aligned with the category's focus.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T15:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on software migration tools and their capabilities, with minimal emphasis on learning processes or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T15:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migration tools for ALM systems without addressing AI and automation in Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -1117,64 +1012,46 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T18:41:02",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 71.0,
+    "final_score": 78.0,
     "reasoning": "The content primarily focuses on the installation and configuration of various tools for migrating from Quality Centre to Team Foundation Server. It discusses specific tools, their capabilities, and the processes involved in setting them up, which aligns well with the category. The depth of discussion includes detailed comparisons and recommendations, indicating a strong focus on practical implementation. However, while it does touch on installation and configuration, it also includes some theoretical aspects of migration versus synchronisation, which slightly detracts from the overall alignment.",
     "level": "Secondary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T15:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools and processes between Quality Centre and Team Foundation Server, without addressing principles of transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-15T05:27:59",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
     "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which is somewhat related to market adaptability in terms of responding to customer needs for migration solutions. However, it lacks a direct focus on Agile methodologies, DevOps practices, or Lean principles that are central to the category. The discussion is more about specific tools and their functionalities rather than broader strategies for enhancing organisational agility or resilience in a dynamic market.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-14T15:38:11",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical tools for migration and synchronization between software systems without addressing their organizational contexts or interactions.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T15:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on migration tools and technical implementations for integrating ALM systems, without discussing strategies or practices related to organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T08:00:02",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, which is more aligned with application lifecycle management (ALM) rather than the core principles of DevOps. While there are mentions of integration and synchronisation, these topics do not delve into the collaborative, automated, and continuous improvement aspects that define DevOps. The discussion lacks depth in terms of DevOps philosophy, practices, or cultural shifts, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -1196,15 +1073,6 @@
     "reasoning": "Content primarily focuses on migration and synchronization tools for Quality Centre and Team Foundation Server, with no substantial discussion on decision-making processes, heuristics, or the application of decision theory principles.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T15:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses tools and methods for migrating data from Quality Centre to Team Foundation Server, without reference to any specific events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T15:38:11",
@@ -1212,15 +1080,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses tools for migration and synchronization between software systems but does not focus on optimizing work throughput or flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T15:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses tools and technical solutions for migrating and synchronizing data between Quality Centre and Team Foundation Server, without significant emphasis on human factors or team methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1243,10 +1102,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T15:38:12",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on migration tools and their functionalities, lacking discussions related to metrics, data analysis, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -1261,13 +1120,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T05:27:53",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which touches on technical practices but lacks a strong focus on broader engineering methodologies or principles that enhance agility in software development. While it mentions specific tools and their capabilities, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Ignored"
   },
@@ -1291,15 +1150,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:27:53",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses various tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which relates to the deployment phase of product delivery. However, it lacks a broader discussion on methodologies, practices, or strategies that encompass the entire product delivery process. While it mentions migration and synchronisation, it does not delve deeply into how these processes fit into the overall product delivery framework, thus limiting its alignment with the core themes of the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1312,24 +1171,12 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T15:38:12",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools for migration and synchronization between Quality Centre and Team Foundation Server, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-11T11:56:22",
-    "ai_confidence": 87.0,
-    "ai_mentions": 18,
-    "ai_alignment": 36,
-    "ai_depth": 38,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content primarily focuses on discussing various tools for migrating from Quality Centre to Team Foundation Server, which aligns well with the category of 'Products and Books'. It provides detailed reviews and comparisons of specific software products, including their features, drawbacks, and practical applications in the context of Agile methodologies. The depth of discussion is significant, as it includes a thorough analysis of multiple tools, their capabilities, and recommendations based on user needs. The content does not stray into unrelated topics, maintaining a clear focus on products relevant to Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1342,13 +1189,13 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T05:28:08",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses migration tools related to Team Foundation Server (TFS) and Quality Centre, with some references to TFS Integration Platform. While TFS is part of the Azure DevOps suite, the focus is more on migration strategies and tools rather than on Azure DevOps functionalities or best practices. The mention of TFS does not sufficiently align with the core themes of Azure DevOps, which include CI/CD, collaboration, and agile project management. Therefore, the content does not meet the criteria for a strong alignment with the Azure DevOps category.",
     "level": "Ignored"
   },
@@ -1363,31 +1210,31 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-14T15:38:12",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses migration tools between Quality Centre and Team Foundation Server, with a focus on synchronization and migration features, rather than applying Systems Thinking principles or discussing interconnectedness or holistic analysis in organizations.",
     "level": "Ignored"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T15:38:12",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and processes related to migration and synchronization between Quality Centre and Team Foundation Server, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T08:00:15",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, discussing specific software solutions and their functionalities. It does not address any principles or practices related to the Agile Product Operating Model, nor does it engage with topics such as product management, agile methodologies, or continuous delivery. Therefore, it has minimal relevance to the category.",
     "level": "Ignored"
   },
@@ -1400,39 +1247,27 @@
     "reasoning": "Content primarily discusses tools for migrating and synchronizing data between Quality Centre and Team Foundation Server, not focusing on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-11T15:01:32",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on reviewing various tools for migrating from Quality Centre to Team Foundation Server, which aligns with the category of 'News and Reviews' as it provides insights into specific tools and their functionalities. However, while it discusses the tools in detail, it lacks broader industry news or trends, which slightly lowers the confidence score. The depth of discussion is substantial, but it is more of a technical evaluation rather than a comprehensive review of industry developments.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T16:51:31",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 77.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on tools and methodologies for migrating from Quality Centre to Team Foundation Server, which is a specific aspect of Application Lifecycle Management. It discusses various tools, their capabilities, and the implications of migration versus synchronisation, aligning well with the core themes of ALM. The depth of discussion is substantial, providing detailed insights into the tools and their functionalities, which enhances the overall relevance to the category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:33:41",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools for migrating data between Quality Centre and Team Foundation Server, which is more technical than social. While it briefly touches on the need for collaboration in the context of tool selection, it lacks a substantial discussion on self-organisation, collective intelligence, or value delivery, which are core themes of Social Technologies. The depth of discussion is largely technical, with minimal exploration of social frameworks or methodologies.",
     "level": "Ignored"
   },
@@ -1447,10 +1282,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:21:08",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes between Quality Centre and Team Foundation Server, without a focus on Internal Developer Platforms or their benefits.",
     "level": "Ignored"
   },
@@ -1465,62 +1300,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:42:25",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 30,
-    "final_score": 8.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses tools for migrating data from Quality Centre to Team Foundation Server, with no direct mention of Scrum principles, roles, events, or practices. While it briefly touches on concepts relevant to Agile methodologies, it does not delve into Scrum-specific frameworks or discussions, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:24:20",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses tools for migrating and synchronising data between Quality Centre and Team Foundation Server, without addressing the principles or benefits of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, nor does it provide techniques or case studies related to Shift-Left practices.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T08:00:05",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, discussing various options and their features. While it touches on aspects of improvement in migration processes, it lacks a strong emphasis on Continuous Improvement principles such as empirical evidence, culture of experimentation, or strategies for integrating improvement into organisational processes. The discussion is more about tool selection rather than a commitment to ongoing enhancement or learning.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T08:00:07",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, discussing various software options and their functionalities. While it touches on aspects of project management and tool integration, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. The discussion lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T08:00:12",
+    "calculated_at": "2025-04-10T15:55:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, with minimal discussion on competence or skill development. While it touches on the need for experienced consultants for certain tools, it does not delve into the importance of continuous learning or the role of competence in delivering quality outcomes, which are key themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on tools for migrating from Quality Centre to Team Foundation Server, discussing various software solutions and their capabilities. It does not explicitly address the concept of Agentic Agility, nor does it explore themes such as intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI systems. The discussion is more about technical migration processes rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

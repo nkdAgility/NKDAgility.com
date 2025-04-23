@@ -28,10 +28,9 @@ aliasesArchive:
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 tags:
+- Troubleshooting
 - Install and Configuration
 - System Configuration
-- Troubleshooting
-- Practical Techniques and Tooling
 - Windows
 categories: []
 

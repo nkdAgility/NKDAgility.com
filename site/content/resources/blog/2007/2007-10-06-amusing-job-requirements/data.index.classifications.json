@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T20:10:08",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and personal opinions on programming skills, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:10:11",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and skills for programming roles, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -73,24 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-10T13:19:13",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses a humorous take on job requirements, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles. While it touches on the topic of job specifications and advice for employers and job seekers, it lacks a structured exploration of Agile methodologies or practices. The discussion is anecdotal and personal, aligning with the Miscellaneous category, but does not provide significant depth or actionable insights related to recognised frameworks.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:10:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and skills for programming roles, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -99,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and the absurdity of a skill set for an Analyst Programmer, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:10:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and the absurdity of skill expectations, without focusing on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:10:19",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and the absurdity of a job spec, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -139,47 +121,44 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-16T20:10:22",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and technical skills, lacking focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T20:10:23",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and the absurdity of a skill set for an Analyst Programmer, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:10:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses job requirements and advice for employers and job seekers, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily critiques job requirements in the tech industry and does not discuss Evidence-Based Management or its principles. While it touches on the importance of defining essential skills, it lacks any empirical evidence or metrics related to management decisions, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:10:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses job requirements and skills for programming roles, with no reference to Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:10:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a job specification and personal opinions on job requirements, lacking focus on industry news or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on job requirements and critiques the unrealistic expectations for a programmer role. It does not discuss any aspects of the Agile Product Operating Model, nor does it align with its core themes such as product management principles or agile methodologies. The mention of skills and advice for employers and job seekers is unrelated to the APOM framework.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -209,42 +188,6 @@
     "reasoning": "Content primarily discusses job requirements and skills for programming roles, with no clear connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:10:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses job requirements and skills for programming roles, with no mention of AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:10:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and the absurdity of skill expectations, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:10:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and personal opinions on programming skills, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:10:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and the absurdity of a job spec, with no focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-16T20:10:39",
@@ -265,10 +208,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-16T20:10:41",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and the absurdity of a skill set for a programmer, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
@@ -313,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:10:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses job requirements and skills for programming roles, with no focus on DevOps principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily critiques job requirements for a programming role, focusing on the absurdity of the skills listed. While it touches on the need for clarity in job descriptions, it does not discuss DevOps principles, practices, or cultural shifts. The content lacks direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, leading to a very low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -327,39 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and the absurdity of a skill set for a programmer, rather than focusing on engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T07:38:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses job requirements and the unrealistic expectations placed on candidates, which touches on the human factors in hiring processes. However, it lacks a deeper exploration of team dynamics, collaboration, or structured methodologies. The advice given is practical but does not delve into the broader implications for team processes or organisational culture.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and the absurdity of a job spec, with no focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-15T07:38:31",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 20.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 24.0,
-    "reasoning": "The content primarily discusses a job specification and the absurdity of the required skills for a programming role. While it briefly mentions a book ('Joel on Software') and provides links to articles that could be relevant to job seekers and employers, the main focus is on critiquing the job requirements rather than providing a review or analysis of products or literature related to Agile or DevOps. The discussion lacks depth in terms of how these resources enhance understanding of Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -391,10 +304,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirement absurdities and provides advice for employers and job seekers, with no focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
@@ -423,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content discusses job requirements and skill sets for an Analyst Programmer, which is unrelated to portfolio management or project alignment with organizational strategy.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and skills for programming positions, with no mention of Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -463,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and the inadequacies of job descriptions, without any reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -499,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses job requirements and skills, which is unrelated to the Definition of Done in Agile and Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on job requirements and skills for programmers without any relation to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content discusses job requirements and skills, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -553,10 +448,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses absurd job requirements for a programmer and does not mention Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -578,29 +473,17 @@
     "reasoning": "Content primarily discusses job requirements and employment advice, not collaboration tools.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T07:38:31",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses job requirements for software developers, highlighting the unrealistic expectations placed on them. While it touches on the role of developers, it primarily focuses on job specifications and employer advice rather than Agile or DevOps methodologies. The discussion lacks depth in terms of Agile practices or collaboration principles, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:38:34",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 39.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses job requirements for a programming role, touching on various technologies and skills relevant to software development. However, it primarily focuses on the absurdity of the job spec rather than providing a structured discussion on software development methodologies or practices. While it mentions specific programming languages and concepts, the depth of discussion is more anecdotal and critical rather than instructional or methodological, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -629,7 +512,7 @@
     "reasoning": "Content is focused on discussing job requirements and skills rather than estimation practices within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:41:59",
     "ai_confidence": 0,
@@ -667,10 +550,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job specifications and employer expectations, not market share or related strategies.",
     "level": "Ignored"
   },
@@ -703,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses job requirements for a programmer, rather than Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses job requirements and critiques unrealistic skill sets for a programming role. It does not mention Continuous Delivery or its principles, practices, or benefits. The focus is on hiring practices rather than software delivery methodologies, resulting in a very low confidence score for alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -721,22 +607,22 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T07:38:31",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content briefly touches on the importance of focusing on core skills and the ability to learn additional skills, which aligns with the concept of continuous learning. However, the primary focus is on critiquing a job specification rather than exploring continuous learning principles in depth. The discussion lacks substantial detail on growth mindset, knowledge sharing, or feedback loops, which are key themes of the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on job requirements and skills for programming positions rather than organisational change or related methodologies.",
     "level": "Ignored"
   },
@@ -751,20 +637,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses job requirements and employer expectations rather than hypothesis-driven development, experimentation, or validated learning in product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses job requirements and programming skills, with no relation to AI, Agile, DevOps, or software development methodologies in the context of AI.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -805,10 +682,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a job specification and opinions on job requirements and skills, with no focus on Lean principles or practices related to product development.",
     "level": "Ignored"
   },
@@ -940,19 +817,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses job requirements and employer advice, which does not relate to the Definition of Ready or backlog items in Agile.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses job requirements for a programmer role and is not related to Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
@@ -967,13 +844,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:38:36",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the absurdity of a job specification and the unrealistic expectations placed on candidates. While it touches on the need for depth in specific technologies, it does not delve into best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The discussion is more about job market realities than technical excellence, leading to a low confidence score in the 'Technical Mastery' category.",
     "level": "Ignored"
   },
@@ -986,15 +863,6 @@
     "reasoning": "The content primarily discusses job requirements and expectations for software developers, not focusing on remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses job requirements and programming skills, which is unrelated to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:41:59",
@@ -1002,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements for a programming role, with no relevance to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a job specification and employer-employee advice, with no discussion on Agile principles, frameworks, or project management methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1078,10 +937,10 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses job requirements and skills needed for a programming role, which does not align with systems thinking or organisational dynamics.",
     "level": "Ignored"
   },
@@ -1186,10 +1045,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses job requirements and employer/employee advice without any reference to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1240,15 +1099,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:38:31",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses the unrealistic expectations in job specifications and provides practical advice for both employers and job seekers. While it touches on the importance of defining essential skills and the need for depth in programming knowledge, it lacks a direct focus on Agile, Scrum, or DevOps frameworks. The discussion is more about general job market realities than pragmatic problem-solving in complex environments.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1261,13 +1120,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:38:31",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses job requirements and the unrealistic expectations placed on candidates, which indirectly touches on the principles of software craftsmanship and the importance of defining essential skills. However, it primarily focuses on the absurdity of job specifications rather than promoting high standards in software development practices or continuous improvement. The discussion lacks depth in engineering processes and does not provide substantial insights into best practices or quality assurance.",
     "level": "Ignored"
   },
@@ -1282,20 +1141,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses job requirements for an Analyst Programmer and critiques the unrealistic skill set rather than focusing on asynchronous development principles, practices, or collaboration.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content discusses job requirements for an Analyst Programmer and does not mention Scrum, agile practices, or scaling frameworks at all.",
+    "reasoning": "The content primarily discusses job requirements for an Analyst Programmer and critiques the unrealistic skill set rather than focusing on asynchronous development principles, practices, or collaboration.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1318,10 +1168,10 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-16T20:41:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and the mismatch in skills for a programming role, with no substantial focus on organisational culture.",
     "level": "Ignored"
   },
@@ -1334,22 +1184,16 @@
     "reasoning": "Content primarily discusses job requirements and programming skills, with no focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses job requirements and skills for programming positions, with no relevant insights on scaling agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on job requirements for a programmer and does not discuss the role, responsibilities, or practices of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses job requirements for an Analyst Programmer and critiques unrealistic skill sets. It does not mention the role of a Scrum Master or any related responsibilities, techniques, or impacts on team dynamics or organisational change. The focus is on technical skills rather than Scrum principles or practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1372,22 +1216,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:41:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses job requirements and skills for programming roles rather than Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily critiques job requirements for a programmer role and does not discuss any principles or practices related to Test First Development. There are no direct mentions of success criteria, testing methodologies, or the importance of testing in software development, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:54:59",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily critiques job requirements in the tech industry, focusing on the absurdity of skill sets rather than discussing collaboration, decision-making, or value delivery within organisations. While it touches on the need for clear communication in job descriptions, it does not delve into the principles of social technologies or their impact on team dynamics or organisational culture.",
     "level": "Ignored"
   },
@@ -1402,10 +1249,10 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:46:58",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and skills for programming roles, with no mention of Internal Developer Platforms or related concepts.",
     "level": "Ignored"
   },
@@ -1420,26 +1267,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:17:06",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses job requirements and skills for an Analyst Programmer, with no direct mention of Scrum principles, roles, events, or practices. While it touches on the importance of skill depth and job descriptions, it does not align with Scrum's core themes or provide any substantial discussion related to Scrum.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:45:37",
+    "calculated_at": "2025-04-10T15:56:51",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses job requirements and the absurdity of a job specification for an Analyst Programmer. It does not mention the Shift-Left Strategy or its principles, nor does it address any related topics such as testing, security, or compliance in the software development lifecycle. The focus is on job roles and skills rather than software development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:27:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily critiques job requirements and does not discuss Common Goals within Agile or DevOps frameworks. While it touches on the importance of defining essential skills, it lacks a focus on shared objectives or alignment with organisational strategy, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content critiques unrealistic job requirements, indirectly touching on the importance of competence in defining essential skills for roles. However, it primarily focuses on the absurdity of job specifications rather than a thorough discussion on competence itself. While it mentions the necessity for depth of knowledge and skill concentration, it lacks a detailed exploration of continuous learning or strategies for fostering competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily critiques unrealistic job requirements and offers advice for employers and job seekers, which does not align with the principles of Continuous Improvement. While there are elements of reflection on hiring practices, the focus is not on ongoing improvement processes or methodologies, and it lacks depth in discussing Continuous Improvement concepts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily critiques job requirements in the tech industry, focusing on the absurdity of skill sets rather than discussing Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is more about job specifications and advice for employers and job seekers, lacking depth in the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

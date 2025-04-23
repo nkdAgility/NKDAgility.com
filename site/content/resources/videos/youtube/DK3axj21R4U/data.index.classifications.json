@@ -49,13 +49,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:20:02",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on a video game, Fortnite, and does not discuss any aspects of social technologies, collaboration, decision-making, or value delivery within organisations. There are no relevant mentions or alignment with the core themes of the category.",
     "level": "Ignored"
   },
@@ -102,24 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to Agile frameworks and focuses on a video about Fortnite.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum or product development and does not discuss any relevant concepts.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to discussions about events or presentations, focusing instead on a gaming topic.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -259,13 +241,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-21T20:50:40",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content is entirely focused on a video game, Fortnite, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with any of the key themes outlined for the category.",
     "level": "Ignored"
   },
@@ -467,15 +449,6 @@
     "reasoning": "Content does not discuss software craftsmanship, architecture, or engineering practices; it is unrelated to the category.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not relate to software development or Agile/DevOps practices; it appears to be about a video unrelated to software developers.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T17:50:16",
@@ -483,15 +456,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Lean Product Development; it is primarily about Fortnite.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Fortnite and does not address code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -523,11 +487,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T17:50:16",
+    "calculated_at": "2025-04-08T17:22:33",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum or the role of the Scrum Master; it appears to be unrelated to the category.",
+    "reasoning": "The content is entirely focused on a video game, Fortnite, and does not mention or relate to the role of a Scrum Master or any Scrum-related concepts. There is no discussion of Scrum principles, responsibilities, or techniques, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -602,15 +569,6 @@
     "reasoning": "Content is unrelated to organisational change and instead seems to reference a video about Fortnite, which does not align with the category's focus.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Agile methodologies or scaling practices, focusing instead on a video about Fortnite.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T17:50:16",
@@ -618,15 +576,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content has no relation to Lean Thinking; it is about a video game.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content titled 'fortnite' does not discuss any relevant topics related to people, processes, or methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -692,7 +641,7 @@
     "reasoning": "Content does not address lead time or related concepts in any way; it seems unrelated to the provided category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T17:50:16",
     "ai_confidence": 0,
@@ -708,15 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not relate to Agile Leadership; it focuses on Fortnite.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -764,15 +704,6 @@
     "reasoning": "Content is mostly about Fortnite and does not discuss market adaptability, Agile, DevOps, or Lean methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is not related to AI, Agile, DevOps, or software development; it is about Fortnite.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T17:50:16",
@@ -818,15 +749,6 @@
     "reasoning": "Content does not discuss the Product Backlog or related Agile concepts; it appears to be unrelated to the topic.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Agile Project Management and does not discuss relevant topics.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T17:50:16",
@@ -845,24 +767,6 @@
     "reasoning": "Content does not address troubleshooting issues; it is unrelated to technical problem diagnosis or resolution.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any products, books, or relevant Agile methodologies; it is primarily about Fortnite and links to a video.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Agile, DevOps, or technology updates; it is purely a link to a video about Fortnite without any relevant commentary.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T17:50:16",
@@ -879,15 +783,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is not related to personal reflections, experiences, or insights on Agile, Scrum, DevOps, or business agility; it only provides a link to a video about 'fortnite'.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scaling Scrum and focuses on a video about Fortnite.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -928,11 +823,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to software development practices and focuses on a video link about Fortnite.",
+    "final_score": 5.0,
+    "reasoning": "The content is entirely focused on a video game, Fortnite, and does not mention or relate to Test First Development principles or practices in any way. There are no discussions on success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1016,15 +914,6 @@
     "reasoning": "The content does not discuss any aspects of product delivery and focuses instead on a video link related to Fortnite.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to scaling agility and focuses on a video link about Fortnite.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T17:50:16",
@@ -1052,24 +941,6 @@
     "reasoning": "Content is primarily about a video game and does not relate to portfolio management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Transparency and Accountability, focusing instead on a gaming video link.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T17:50:16",
@@ -1086,15 +957,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is primarily about Fortnite, which does not relate to the principles or practices of Frequent Releases in software delivery.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Agile or DevOps practices and discusses a video game instead.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1144,23 +1006,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-21T20:50:34",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content is entirely focused on a video game, Fortnite, with no references to agile methodologies, product management principles, or any related topics that align with the Agile Product Operating Model. It does not discuss any of the key topics outlined in the category description.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss discovery or learning processes; it focuses on a gaming platform without relevant themes.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1179,15 +1032,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is irrelevant to automated testing; it refers to a video about Fortnite.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T17:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scaling Kanban and focuses on a gaming topic (Fortnite).",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1336,13 +1180,13 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-21T20:50:37",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content is focused on a video game, Fortnite, and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the themes of current value, time to market, or empirical decision-making are entirely absent.",
     "level": "Ignored"
   },
@@ -1393,13 +1237,13 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:30:55",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content does not mention Scrum or any related concepts. It appears to be unrelated to the category, focusing instead on a video link that has no connection to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
@@ -1417,37 +1261,37 @@
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-21T20:50:24",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content is focused on a video game, Fortnite, and does not discuss any principles or practices related to Continuous Improvement. There are no direct mentions of the category, and it lacks any conceptual alignment or depth regarding Continuous Improvement themes.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-21T20:50:27",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on a video game, Fortnite, and discusses gameplay and strategies without any reference to Agile, DevOps, or the concept of Common Goals. There are no direct mentions or alignment with the principles outlined in the category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-21T20:50:30",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 0,
     "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses on a video game, Fortnite, and does not discuss any aspects related to competence, continuous learning, or professional development. There are no direct mentions or relevant themes that align with the principles of competence in Agile, Scrum, DevOps, or Lean methodologies.",
     "level": "Ignored"
   },
@@ -1461,6 +1305,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is entirely focused on a video game, Fortnite, and does not mention or relate to the One Engineering System or its principles, components, or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:22:29",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on a video game, Fortnite, discussing gameplay and strategies without any reference to Agentic Agility or its principles. There is no mention of intentional shaping of outcomes, autonomy, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

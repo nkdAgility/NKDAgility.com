@@ -24,8 +24,8 @@ aliasesArchive:
 - /move-your-active-directory-domain-to-another-server
 - /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
-- Windows
 - System Configuration
+- Windows
 - Install and Configuration
 - Troubleshooting
 categories: []

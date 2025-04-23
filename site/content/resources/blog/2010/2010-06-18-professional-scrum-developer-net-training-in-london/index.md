@@ -9,7 +9,7 @@ ResourceImportId: 37
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-18
-weight: 395
+weight: 340
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,14 +30,24 @@ aliasesArchive:
 tags:
 - Professional Scrum
 - Software Development
-- Increment
-- People and Process
-- Scrum Product Development
 - Agile Planning
 - Scrum Team
+- Team Collaboration
+- Technical Mastery
 - Engineering Practices
-- Practical Techniques and Tooling
-- Software Developers
+- Working Software
+- Agile Frameworks
+- Increment
+- Product Delivery
+- Team Performance
+- Operational Practices
+- Pragmatic Thinking
+- Technical Excellence
+- Self Organisation
+- Agile Transformation
+- Cross Functional Teams
+- Competence
+- Test Driven Development
 categories:
 - Scrum
 - Engineering Excellence

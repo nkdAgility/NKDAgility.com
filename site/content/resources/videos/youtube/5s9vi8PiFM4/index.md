@@ -28,15 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- People and Process
 - Pragmatic Thinking
 - Software Development
 - Personal
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 ## The Missing Piece in My Initial Scrum Journey

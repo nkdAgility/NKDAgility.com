@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T18:38:23",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, without a clear focus on Application Lifecycle Management principles or practices.",
     "level": "Ignored"
   },
@@ -37,10 +37,10 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:38:29",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in Windows Forms and WPF, without any mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:38:32",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in Windows Forms and WPF, without providing actionable installation or configuration instructions.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in Windows Forms and WPF, lacking direct relevance to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:38:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical challenges and personal experiences with UI layout in software development, lacking focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:38:38",
@@ -96,18 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-15T07:34:32",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content discusses personal experiences with layout issues in Windows Forms and WPF, which are tools relevant to software development. However, it lacks a structured exploration of methodologies or frameworks that enhance Agile and DevOps practices. The focus is more on personal challenges and preferences rather than on practical techniques or tooling that improve team performance or collaboration.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -121,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:38:42",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses layout issues and personal experiences with UI development, lacking focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -157,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:38:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in software development, lacking any focus on evidence-based management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the development challenges of a software application using Windows Forms and WPF, with no explicit discussion of Evidence-Based Management principles or metrics. While there are mentions of learning curves and development processes, these do not align with the core themes of EBM, such as data-informed decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:38:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, with no clear connection to Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:38:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in Windows Forms and WPF, lacking a focus on industry news, updates, or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical challenges of developing a Windows Forms and WPF application, with no explicit discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant themes or depth related to the category, making it largely irrelevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -207,42 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, without a clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:39:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:34:27",
-    "ai_confidence": 30,
-    "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content discusses layout issues and personal experiences with Windows Forms and WPF, but it primarily focuses on personal challenges and preferences rather than the principles of code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:39:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in software development, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:39:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses layout challenges and personal experiences with Windows Forms and WPF, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -310,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:39:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses layout issues and personal experiences with Windows Forms and WPF, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the development challenges faced while working with Windows Forms and WPF for a specific project, TFS Sticky Buddy. It does not discuss DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content is more aligned with software development and UI design rather than DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -324,36 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in Windows Forms and WPF, lacking a focus on engineering practices or methodologies that enhance software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:39:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical challenges and personal experiences with UI layout in Windows Forms and WPF, without addressing team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-03-15T07:34:27",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content primarily focuses on the author's personal experience with layout challenges in Windows Forms and WPF, which does not explicitly discuss discovery or learning methodologies. While there are mentions of learning curves and experimentation with different UI frameworks, these are secondary to the main narrative about technical difficulties. The content lacks a structured exploration of the processes that foster innovation or continuous learning, which is essential for a higher confidence score in this category.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:39:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with UI layout in Windows Forms and WPF, without focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -385,19 +298,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and challenges faced during software development, specifically in UI layout. It does not discuss innovation capabilities, strategies for fostering innovation, or the use of evidence-based management principles.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges and experiences with Windows Forms and WPF layout issues, with no mention of cross-functional teams or Agile practices.",
     "level": "Ignored"
   },
@@ -417,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses UI layout issues and development experiences with TFS Sticky Buddy, which are not related to portfolio management practices or strategies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses challenges in software layout design and development using Windows Forms and WPF, without any mention or relevance to Scrum methodologies or product development in a Scrum context.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -457,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and challenges with software layout and development tools, with no clear connection to Agile values or principles.",
     "level": "Ignored"
   },
@@ -493,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses layout issues and development experiences unrelated to the criteria that comprise a Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on technical details regarding UI layout in Windows Forms and WPF, with no discussion of Agile methodologies or scaling practices.",
+    "reasoning": "Content primarily discusses layout issues and development experiences unrelated to the criteria that comprise a Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -547,10 +442,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on layout issues and personal experiences with Windows Forms and WPF, with no mention of Test Driven Development principles, practices, or methodologies.",
     "level": "Ignored"
   },
@@ -572,24 +467,15 @@
     "reasoning": "Content primarily focuses on the layout issues and development experiences with Windows Forms and WPF, with no clear focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with UI layout issues in Windows Forms and WPF, which does not focus on Agile, DevOps, or the role of software developers within those frameworks.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:34:34",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses the author's experience with developing a Windows Forms application and transitioning to WPF, which relates to software development practices. However, the focus is more on personal experiences and frustrations rather than structured methodologies or best practices. While it touches on UI layout issues and mentions WPF, it lacks depth in discussing broader software development concepts or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -620,7 +506,7 @@
     "reasoning": "Content primarily discusses layout issues in application development and does not relate to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:06:11",
     "ai_confidence": 0,
@@ -694,31 +580,34 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses layout issues in Windows Forms and WPF development, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the challenges of developing a specific application using Windows Forms and WPF, with no direct mention of Continuous Delivery principles or practices. While there are some references to development processes, they do not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion lacks depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of UI development and personal experiences with layout issues, with no discussion of lead time or its measurement.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-15T07:34:27",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses personal experiences with learning and adapting to new technologies (Windows Forms and WPF), which aligns with the concept of continuous learning. However, it lacks explicit discussions on team dynamics, knowledge sharing, or structured practices that promote a growth mindset, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -742,20 +631,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences with UI layout issues in Windows Forms and WPF, lacking any discussion of hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly discusses personal experiences with Windows Forms and WPF layout issues, with no mention of AI, Agile, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -796,10 +676,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses layout challenges and experiences in developing a Windows Forms and WPF application, with no focus on Lean principles or product development strategies.",
     "level": "Ignored"
   },
@@ -814,10 +694,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical challenges and experiences related to UI development, with no reference to evidence-based leadership practices or decision-making.",
     "level": "Ignored"
   },
@@ -850,10 +730,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses mainly on layout issues and personal experiences with Windows Forms and WPF development, without discussing source control practices or methodologies.",
     "level": "Ignored"
   },
@@ -868,13 +748,13 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-15T07:34:27",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content briefly mentions the intention to release two versions of the application, but it primarily focuses on layout challenges and personal experiences with UI development. There is minimal discussion on the principles of frequent releases, continuous delivery, or related strategies, which are central to the category. The depth of discussion on release practices is limited, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -934,19 +814,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses layout challenges and experiences with Windows Forms and WPF, with no significant reference to the Definition of Ready or backlog item readiness in Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges with UI layout in Windows Forms and WPF, without any mention of ATDD, acceptance criteria, or related collaborative development practices.",
     "level": "Ignored"
   },
@@ -961,13 +841,13 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T07:34:27",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses personal experiences with UI layout challenges in Windows Forms and WPF, which touches on aspects of software craftsmanship. However, it primarily focuses on the author's frustrations and learning journey rather than providing structured insights into best practices, principles, or methodologies that define technical mastery. The discussion lacks depth in exploring clean code, maintainability, or architectural principles, leading to a lower confidence score.",
     "level": "Ignored"
   },
@@ -980,15 +860,6 @@
     "reasoning": "Content primarily discusses layout issues in application development, specifically using TFS Sticky Buddy with Windows Forms and WPF, without mentioning remote work, collaboration, or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on challenges and experiences related to UI layout in Windows Forms and WPF, with no mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:06:11",
@@ -996,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of software development and UI layout challenges, without any mention of customer retention strategies or related themes.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the author's experience with UI layout issues in Windows Forms and WPF without any reference to Agile methodologies or principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1027,10 +889,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on UI layout issues and programming experiences rather than on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1099,13 +961,13 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T13:16:15",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 72.0,
     "ai_mentions": 80.0,
     "ai_alignment": 65.0,
     "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 70.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the author's experience with Windows Forms and WPF (Windows Presentation Foundation), which are both integral parts of the Windows operating system's development environment. There are direct mentions of Windows Forms and WPF, indicating a strong focus on Windows-related development. The content aligns well with the category's themes, particularly in terms of configuration and troubleshooting layout issues within a Windows application. The depth of discussion is significant, as the author shares personal experiences, challenges faced, and insights gained while working on the application, which adds to the overall relevance to the Windows category.",
     "level": "Secondary"
   },
@@ -1120,15 +982,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:34:29",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses layout issues encountered while developing a Windows Forms application and the transition to WPF. While it touches on troubleshooting specific problems with UI layout, the focus is more on personal experiences and frustrations rather than systematic problem-solving techniques or methodologies. The discussion lacks depth in providing structured troubleshooting strategies or tools, which diminishes its alignment with the core themes of the category.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1186,10 +1048,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses layout issues and experiences with Windows Forms and WPF, which are not related to Behaviour Driven Development.",
     "level": "Ignored"
   },
@@ -1204,13 +1066,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:34:27",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the author's experience with developing a Windows Forms application and transitioning to WPF, but it primarily focuses on layout challenges and personal frustrations rather than on delivering functional, high-quality software that meets user needs. While there are mentions of working software and a proof of concept, the discussion lacks depth in terms of best practices, customer feedback, or iterative development, which are key aspects of the 'Working Software' category.",
     "level": "Ignored"
   },
@@ -1264,13 +1126,13 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:34:27",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on personal experiences and challenges faced while developing a user interface using Windows Forms and WPF. While it touches on aspects of software development, such as layout issues and the transition between technologies, it lacks a structured discussion on engineering excellence principles, best practices, or continuous improvement. The mention of learning curves and personal reflections does not sufficiently align with the core themes of engineering excellence, resulting in a low confidence score.",
     "level": "Ignored"
   },
@@ -1285,20 +1147,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T19:06:11",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses personal experiences with layout issues in Windows Forms and WPF, which is not related to asynchronous development practices or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal experiences and challenges with UI layout in software development, with no clear connection to Scaling Scrum principles or practices.",
+    "reasoning": "Content discusses personal experiences with layout issues in Windows Forms and WPF, which is not related to asynchronous development practices or principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1337,22 +1190,16 @@
     "reasoning": "Content is predominantly focused on technical challenges and experiences related to UI design in software applications, without any discussion of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical challenges and development experiences with Windows Forms and WPF, which does not align with discussions on scaling agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on technical implementation details of a Windows Forms and WPF application, and does not mention or relate to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical challenges related to developing a software application using Windows Forms and WPF. It does not mention the role of a Scrum Master, nor does it discuss any Scrum-related concepts or practices. The discussion is centred around coding and UI layout issues, which are unrelated to the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1375,22 +1222,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses layout issues and experiences with Windows Forms and WPF, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges and experiences of developing a user interface for the TFS Sticky Buddy application using Windows Forms and WPF. It does not mention Test First Development principles, success criteria, or any testing practices, either manual or automated. The focus is on layout issues and personal experiences rather than on testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:52:34",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical challenges of developing a user interface using Windows Forms and WPF, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on personal experiences and frustrations, it lacks any substantial alignment with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is limited to technical aspects, further distancing it from the category.",
     "level": "Ignored"
   },
@@ -1423,26 +1273,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:00:38",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses personal experiences with UI layout in Windows Forms and WPF, with no direct mention of Scrum principles, roles, or practices. While there is a brief mention of project development, it lacks any substantial connection to Scrum's framework or methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:42:50",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses personal experiences with UI layout in Windows Forms and WPF, with no mention of testing, security, or compliance processes. It does not align with the core themes of the Shift-Left Strategy, which focuses on integrating these critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and challenges with developing a specific application using Windows Forms and WPF. It does not discuss Common Goals, Agile, or DevOps principles, nor does it connect individual contributions to organisational objectives. The mention of 'TFS Sticky Buddy' and layout issues is more about technical challenges rather than aligning strategy with execution or fostering collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the author's inexperience and learning curve with Windows Forms and WPF, indicating a personal journey of skill development. However, it primarily focuses on the challenges of layout design rather than a broader discussion on competence in a professional context. The mention of learning and improvement is present but lacks depth and does not align closely with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and challenges with developing a software application using Windows Forms and WPF. While there are elements of learning and adaptation present, the discussion does not explicitly address Continuous Improvement principles or strategies. The content lacks a structured approach to improvement, empirical evidence, or a culture of experimentation, which are key aspects of the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and challenges with developing a user interface using Windows Forms and WPF. It does not explicitly discuss Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The mention of learning curves and personal reflections is too vague and does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

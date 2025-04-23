@@ -8,18 +8,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to data access layers and dependency injection, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T15:43:04",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed exploration of using Unity as a dependency injection and mapping framework, which directly aligns with practical techniques and tooling in software development. It discusses specific implementations, configurations, and best practices for using Unity, demonstrating a clear application of a tool within a practical context. The depth of discussion includes code examples and explanations of design patterns, which enhances its relevance to the category. However, while it is focused on a specific tool, it lacks broader discussions on Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:13:52",
@@ -31,75 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T09:12:19",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details related to creating a Data Access layer using Unity, with no explicit discussion of Evidence-Based Management principles or metrics. While there are mentions of interfaces and data access, these do not align with the core themes of EBM such as current value, time to market, or empirical decision-making.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T07:21:03",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10,
-    "ai_alignment": 25,
-    "ai_depth": 15,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves some aspects of code quality and design patterns. However, it lacks a thorough exploration of complexity theory or its implications on software architecture. While there are mentions of maintainability and design principles, the discussion does not deeply engage with the interplay between code quality and complexity, leading to a lower confidence score.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:13:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to creating a data access layer using Unity, without discussing discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:13:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the implementation of a data access layer using Unity, focusing on dependency injection and configuration, without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T02:13:59",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a data access layer using Unity, focusing on technical details and programming concepts without reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-11T15:12:00",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content provides a detailed guide on creating a data access layer using Unity, which includes specific steps for configuring the Unity container and managing dependencies. It discusses the setup of configuration files and the use of assembly attributes, which are relevant to installation and configuration processes. However, while it does touch on these topics, the primary focus is more on implementation details rather than a structured guide for installation or configuration, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:14:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of a data access layer using Unity, focusing on technical details and code examples without addressing transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -119,24 +68,15 @@
     "reasoning": "Content primarily focuses on technical implementation details of a data access layer using Unity, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:14:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementations of a data access layer using Unity, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T09:12:02",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Data Access layer using Unity for dependency injection and does not discuss any DevOps principles, practices, or cultural shifts. While it touches on aspects of software development, it lacks direct mentions of DevOps concepts such as collaboration, automation, or shared accountability, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -158,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to creating a data access layer using Unity, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a data access layer using Unity, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:14:15",
@@ -174,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a data access layer using Unity, focusing on technical details and code rather than flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:14:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a data access layer using Unity, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -205,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:14:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a data access layer using Unity, focusing on technical details and code examples without addressing metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -223,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:08:26",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves technical practices such as dependency injection and factory patterns. While it does touch on some aspects of modular architecture and configuration management, it lacks a comprehensive discussion on broader engineering methodologies like TDD or CI/CD. The depth of technical detail is moderate, but it does not fully explore the implications of technical excellence in software development processes.",
     "level": "Secondary"
   },
@@ -278,15 +200,6 @@
     "reasoning": "Content primarily discusses the implementation of a data access layer using Unity, which is unrelated to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:14:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a data access layer using Unity, without any focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:14:32",
@@ -325,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:14:37",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a data access layer using Unity, focusing on dependency injection and factory patterns, which are not related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T09:12:17",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content focuses entirely on creating a Data Access layer using Unity, discussing technical implementation details related to dependency injection and mapping. There are no mentions or discussions related to the Agile Product Operating Model, its principles, or any relevant agile practices. The content does not align with the core themes of the category, which are centred around product management and agile methodologies.",
     "level": "Ignored"
   },
@@ -351,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of a data access layer using Unity, with no discussion of organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:14:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on technical implementation details of creating a data access layer using Unity, which does not align with industry news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -382,24 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on technical details related to creating a data access layer using Unity and does not discuss the Definition of Done or related concepts in Agile/Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:06:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed exploration of creating a data access layer using Unity, which aligns closely with best practices in software design and architecture. It discusses the use of interfaces, dependency injection, and the Singleton pattern, all of which are key principles of clean code and software craftsmanship. The depth of discussion is significant, covering implementation details, configuration, and the rationale behind design choices, which supports a high confidence score in the 'Technical Mastery' category.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -412,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T09:12:21",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a Data Access layer using Unity for dependency injection and does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content lacks alignment with the key topics outlined for this category. The discussion is technical and specific to software architecture rather than delivery practices.",
     "level": "Ignored"
   },
@@ -451,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of creating a data access layer using Unity and does not engage with the concept of Definition of Ready or any related criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -487,10 +391,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a data access layer using Unity, which is unrelated to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -505,13 +409,13 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-15T07:21:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical implementation of a data access layer using Unity, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While there are elements of design patterns and configuration management, these do not align with the core themes of operational efficiency or continuous improvement strategies outlined in the category definition.",
     "level": "Ignored"
   },
@@ -544,10 +448,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details regarding Unity and creating a Data Access layer, with no focus on product validation or methodologies for user engagement.",
     "level": "Ignored"
   },
@@ -598,40 +502,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a data access layer using Unity, focusing on dependency injection and factory patterns, without any mention of acceptance testing or related principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:42:43",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 40.0,
     "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed discussion on creating a data access layer using Unity, which is a software development practice. It explicitly mentions concepts such as dependency injection, interfaces, and factory patterns, aligning well with software design principles. The depth of the discussion includes code examples and explanations of the implementation, demonstrating a strong focus on software engineering practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on implementing a data access layer using Unity and discusses technical aspects of programming and dependency injection, which are not related to Agile Project Management principles or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical details of implementing a data access layer using Unity, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -725,15 +620,6 @@
     "reasoning": "Content is focused on technical implementation details related to creating a data access layer using Unity and does not discuss customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a data access layer using Unity and is centered around technical implementation rather than discussing any aspects of scaling Scrum or related frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:51:20",
@@ -752,33 +638,24 @@
     "reasoning": "Content is primarily focused on technical implementation details related to Unity and data access layers, with no discussion on psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses implementing a data access layer using Unity in .NET, which is focused on technical implementation rather than scaling agile practices or related organizational strategies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T07:21:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves technical details about coding practices and design patterns. However, it lacks explicit discussions on broader engineering excellence principles such as quality assurance, coding standards, or continuous improvement processes. While it touches on some aspects of software craftsmanship, the depth of discussion is more about specific implementation rather than promoting high standards in software development practices.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical implementation of a data access layer using Unity and does not discuss revenue per employee or any related financial metrics.",
     "level": "Ignored"
   },
@@ -811,13 +688,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T07:21:03",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on technical implementation details of a data access layer using Unity, which lacks a direct discussion on pragmatic thinking principles. While it touches on practical problem-solving through the use of dependency injection and factory patterns, it does not explicitly address Agile, Scrum, or DevOps frameworks. The discussion is more about coding practices than about navigating complexity or applying experience-based strategies in project management contexts.",
     "level": "Ignored"
   },
@@ -832,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details for creating a data access layer using Unity, without discussing innovation, evidence-based management, or capacity-building for sustainable value delivery.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity and dependency injection, with no mention of Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical implementation details of a Data Access layer using Unity, without any reference to Agile methodologies or scaling Agile practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -877,10 +736,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes creating a data access layer using Unity, focusing on dependency injection and implementation details without discussing test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -967,10 +826,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-16T02:51:20",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on coding and implementation details related to creating a Data Access layer using Unity and does not discuss structured decision-making or evidence-based methodologies.",
     "level": "Ignored"
   },
@@ -1064,7 +923,7 @@
     "reasoning": "Content focuses primarily on technical implementation details related to Unity for data access layers, without discussing the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:51:20",
     "ai_confidence": 0,
@@ -1073,24 +932,15 @@
     "reasoning": "Content is focused on creating a data access layer using Unity, which does not align with discussions about Minimum Viable Products, product development, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses creating a data access layer using Unity without any focus on AI applications, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T18:53:32",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the configuration of a Unity container and the setup of a data access layer, which aligns with system configuration principles. However, the focus is more on implementation details and coding practices rather than broader system configuration methodologies. While it touches on configuration management through the use of XML configuration files and assembly visibility, it lacks a comprehensive exploration of best practices or optimisation strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -1132,19 +982,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:51:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses implementing a data access layer using Unity, focusing on dependency injection and configuration, without a clear focus on Test First Development or writing tests before code.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a Data Access layer using Unity for dependency injection and does not discuss Test First Development principles. While there is a brief mention of needing to add an InternalsVisibleTo entry for test assemblies, this is not elaborated upon or connected to Test First practices. Overall, the content lacks a clear focus on Test First Development concepts, success criteria, or testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:51:21",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a data access layer using Unity and does not focus on Windows operating system topics such as its installation, configuration, troubleshooting, or updates.",
     "level": "Ignored"
   },
@@ -1213,11 +1066,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:51:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details about creating a data access layer using Unity, without any reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical aspects of creating a Data Access layer using Unity, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, which involves discussions on facilitation, coaching, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1238,15 +1094,6 @@
     "reasoning": "Content is primarily focused on technical implementation details of a data access layer using Unity, with no discussion of working agreements, teamwork, or collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T02:51:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on creating a data access layer and using dependency injection with Unity, without discussing Agile or DevOps methodologies relevant to software developers.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T02:51:21",
@@ -1258,13 +1105,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T07:21:05",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves some engineering practices such as dependency injection and factory patterns. However, it lacks explicit discussions on Agile methodologies, clean code principles, or test-driven development. While it touches on automation through configuration and the use of interfaces, these aspects are not deeply explored in the context of Agile engineering practices. Therefore, the content aligns with the category but does not fully meet its core themes.",
     "level": "Ignored"
   },
@@ -1367,15 +1214,6 @@
     "reasoning": "Content focuses on technical implementation details of a data access layer using Unity and does not address team dynamics, ownership, or accountability in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:51:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on creating a data access layer using Unity and does not discuss Scaling Kanban or related practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:51:21",
@@ -1387,22 +1225,22 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T02:51:21",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a data access layer with Unity and doesn't focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:45:13",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical aspects of creating a Data Access layer using Unity, discussing dependency injection and mapping without addressing any themes related to collaboration, decision-making, or value delivery. There are no direct mentions of social technologies or their principles, and the depth of discussion is entirely technical, lacking any connection to the core themes of the Social Technologies category.",
     "level": "Ignored"
   },
@@ -1435,62 +1273,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:53:40",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on creating a data access layer using Unity, discussing technical implementation details without any reference to Scrum principles, roles, events, or practices. There are no mentions of Scrum or Agile methodologies, and the discussion lacks any alignment with the core themes of Scrum, such as team dynamics or iterative progress.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:35:38",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on creating a data access layer using Unity and does not discuss the Shift-Left Strategy or its principles. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any techniques or case studies related to Shift-Left practices. The discussion is technical and specific to implementation details, lacking any connection to the proactive approach of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T09:12:06",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details of creating a Data Access layer using Unity, with no explicit discussion of Continuous Improvement principles. While there are mentions of simplifying processes and improving coding practices, these are not framed within the context of Continuous Improvement as defined. The content lacks empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are key aspects of the Continuous Improvement category.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T09:12:08",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on technical implementation details related to creating a Data Access layer using Unity, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of interfaces and factory patterns, these do not connect to the overarching themes of shared objectives or strategic alignment within teams.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T09:12:11",
+    "calculated_at": "2025-04-10T15:56:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical implementation details of creating a Data Access layer using Unity, with no explicit discussion on competence, continuous learning, or skill development. While it touches on aspects of coding practices, it lacks depth in exploring the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a Data Access layer using Unity, discussing technical implementation details without addressing the principles of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no direct mentions of agentic concepts, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   }
 }

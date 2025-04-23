@@ -31,20 +31,24 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Performance
-- Practical Techniques and Tooling
-- Agile Project Management
-- Operational Practices
 - Software Development
+- Operational Practices
+- Team Performance
 - Agile Frameworks
 - Pragmatic Thinking
-- Transparency and Accountability
-- People and Process
 - Agile Product Management
+- Agile Planning
+- Agile Transformation
+- Collaboration Tools
+- Team Collaboration
+- Product Delivery
+- Transparency
+- Value Delivery
 resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 In the world of Agile and Scrum, one crucial element often overlooked is the **visualization of work**. It’s not just about getting things done; it’s about understanding the flow of value within your system. As a Scrum Master or Agile practitioner, the ability to visualize your work will empower your team to be more effective, transparent, and aligned. Today, we’ll explore how visualization can transform your Kanban strategy, improve collaboration, and streamline processes for better results.

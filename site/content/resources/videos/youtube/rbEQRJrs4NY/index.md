@@ -26,14 +26,16 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
 duration: 62
 isShort: false
-tags: []
+tags:
+- Current Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
 In my journey through the world of product development, I've come to realise a fundamental truth: **value only happens when you get it in front of real users**. Everything that precedes this moment is merely an assumption. We can spend countless hours validating our ideas, trying to weed out the bad assumptions and features that seem promising on paper but may not resonate in reality. However, the crux of the matter is this: until we present something we believe will provide value to actual users, we remain in the dark about its true worth.

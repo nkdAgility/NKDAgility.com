@@ -1,5 +1,7 @@
 . ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/OpenAI.ps1
+. ./.powershell/_includes/PromptManager.ps1
+. ./.powershell/_includes/HugoHelpers.ps1
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
@@ -302,50 +304,13 @@ function Get-ClassificationsForType {
         # Build prompts for missing items
         $prompts = @()
         foreach ($category in $CatalogItemsToRefreshOrGet) {
-            $prompt = @"
-                You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. 
-
-                With that classification meaning:
-
-                "$($Catalog[$category].Instructions)"
-
-                ### Classification Criteria:
-                - The **category must be a primary focus** of the content.
-                - If the category is **briefly mentioned or secondary**, return a lower confidence score.
-                - The confidence score **must be dynamically evaluated** rather than assigned from a fixed range.
-
-                ### Confidence Breakdown:
-                To ensure an accurate and nuanced score, evaluate the content using the following dimensions:
-
-                1. **Direct Mentions** (20%) – How explicitly is the category discussed?
-                2. **Conceptual Alignment** (40%) – Does the content align with the **core themes** of the category?
-                3. **Depth of Discussion** (40%) – How much detail does the content provide on this category?
-
-                Each dimension contributes to the final confidence score.
-
-
-                ### Additional Instructions:
-                1. **Do not use pre-set confidence levels.** The score must be freely determined for each evaluation.
-                2. **Avoid repeating the same numbers across different evaluations.** Ensure that scores vary naturally.
-                3. **Do not round confidence scores** to commonly expected values (such as multiples of 10 or 5).
-                4. Justify the score with a **detailed explanation** specific to the content.
-
-                return format should be valid json that looks like this:
-                {
-                "category": "$category",
-                "confidence": 0,
-                "mentions: 0,
-                "alignment": 0,
-                "depth": 0,
-                "reasoning": "Content heavily discusses Scrum roles and events."
-                }
-
-                do not wrap the json in anything else, just return the json object.
-
-                **Content Title:** "$($hugoMarkdown.FrontMatter.Title)"
-                **Content Description:** "$($hugoMarkdown.FrontMatter.Description)"
-                **Content:** "$($hugoMarkdown.BodyContent)"
-"@
+            $prompt = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
+                category     = $category
+                Instructions = $Catalog[$category].Instructions
+                title        = $hugoMarkdown.FrontMatter.Title
+                abstract     = $hugoMarkdown.FrontMatter.Description
+                content      = $hugoMarkdown.BodyContent
+            }
             $prompts += $prompt
         }
 
@@ -460,7 +425,7 @@ function Get-ComputedConfidence {
         [int]$aiConfidence,
         [int]$nonAiConfidence
     )
-    return [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
+    return [math]::Round($aiConfidence ) # [math]::Round(($aiConfidence * 0.9) + ($nonAiConfidence * 0.1))
 }
 
 function Get-ComputedLevel {
@@ -661,3 +626,60 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     }
 }
+
+function Update-ClassificationLinksInBodyContent {
+    param (
+        [string]$ClassificationType,
+        [object]$hugoMarkdown
+    )
+
+    $catalog = $catalogues["catalog"][$ClassificationType]
+
+    foreach ($classification in $catalog.Keys) {
+        $classificationData = $catalog[$classification]
+        $classificationTitle = $classificationData.Title
+        $classificationSlug = $classificationTitle.ToLowerInvariant() -replace ' ', '-'
+        $classificationEscaped = [regex]::Escape($classificationTitle)
+
+        # Skip if already linked using the correct shortcode
+        $linkedPattern = "\[.*?\]\(\{\{< ref ""/$ClassificationType/$classificationSlug"" >\}\}\)"
+        if ($hugoMarkdown.BodyContent -match $linkedPattern) {
+            continue
+        }
+
+        # Phase 1: Find all ranges of markdown links to exclude
+        $excludedRanges = [System.Collections.Generic.List[System.Tuple[int, int]]]::new()
+        $linkRegex = [regex]'\[.*?\]\(.*?\)'
+        foreach ($match in $linkRegex.Matches($hugoMarkdown.BodyContent)) {
+            $excludedRanges.Add([Tuple]::Create($match.Index, $match.Index + $match.Length))
+        }
+
+        # Phase 2: Find the first occurrence of the tag not inside any excluded range
+        $simpleRegex = [regex]::new("\b($classificationEscaped)\b", [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
+        foreach ($match in $simpleRegex.Matches($hugoMarkdown.BodyContent)) {
+            $index = $match.Index
+
+            $inExcluded = $false
+            foreach ($range in $excludedRanges) {
+                if ($index -ge $range.Item1 -and $index -lt $range.Item2) {
+                    $inExcluded = $true
+                    break
+                }
+            }
+
+            if (-not $inExcluded) {
+                # Inject Hugo ref-style link, preserving matched casing
+                $MatchValue = $match.Value
+                $replacement = "[$MatchValue]({{< ref `"/$ClassificationType/$classificationSlug`" >}})"
+                $hugoMarkdown.BodyContent = $hugoMarkdown.BodyContent.Substring(0, $index) + $replacement + $hugoMarkdown.BodyContent.Substring($index + $match.Length)
+                break
+            }
+        }
+    }
+
+    Write-InfoLog "Updated body content for classification type '$ClassificationType'."
+    return $hugoMarkdown.BodyContent
+}
+
+
+Write-InfoLog "ClassificationHelpers.ps1 loaded"

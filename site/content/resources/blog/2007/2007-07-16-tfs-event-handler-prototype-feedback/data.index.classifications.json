@@ -55,15 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T19:04:17",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content mentions installation and configuration questions related to the TFS Event Handler, indicating a focus on user experiences with these processes. However, it lacks detailed instructions or best practices, which diminishes its depth and alignment with the category's core themes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -83,15 +83,6 @@
     "reasoning": "Content primarily discusses a specific tool (TFS Event Handler) and solicits feedback, lacking direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:39:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a technical implementation of a TFS Event Handler and solicits feedback, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:39:03",
@@ -100,18 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a TFS Event Handler and solicits feedback on its installation and functionality, with no reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:19:36",
-    "ai_confidence": 55.0,
-    "ai_mentions": 30.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 10,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a specific tool (TFS Event Handler) and solicits feedback on its installation and configuration, which aligns with practical techniques and tooling. However, it lacks depth in exploring methodologies or frameworks and does not provide extensive insights into Agile or DevOps practices.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -124,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:39:07",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on soliciting feedback about a specific tool rather than discussing metrics, data analysis, or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -160,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:39:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on soliciting feedback for a software tool rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific software prototype and does not discuss Evidence-Based Management principles or metrics. While it seeks user input, it lacks any empirical decision-making or alignment with the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:39:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feedback on a specific tool (TFS Event Handler) and does not address Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:39:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily seeks feedback on a specific tool rather than discussing industry news or reviews.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific software prototype and its integration capabilities, with no direct mention or discussion of the Agile Product Operating Model or its principles. The content lacks alignment with the core themes of APOM, such as product management practices or agile methodologies, and does not provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -210,42 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses feedback on a specific tool (TFS Event Handler) and its integration capabilities, without a clear focus on platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:39:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a TFS Event Handler and solicits feedback on its installation and configuration, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:39:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on soliciting feedback for a specific tool and its integration capabilities, with no substantial discussion on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:39:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a TFS Event Handler and solicits feedback, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:39:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on soliciting feedback for a specific tool rather than discussing transparency and accountability principles within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -313,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:39:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on soliciting feedback for a specific tool (TFS Event Handler) and its installation process, rather than discussing DevOps principles, practices, or tools in a broader context.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific tool (TFS Event Handler) and its integration capabilities, which does not align with the core principles of DevOps. While there is a mention of integration, it lacks a broader discussion on DevOps philosophy, practices, or cultural shifts. The content does not address key topics such as automation, shared accountability, or continuous improvement, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -327,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on soliciting feedback for a specific tool rather than discussing engineering practices or methodologies that enhance technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:39:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on soliciting feedback about a technical tool rather than discussing human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:39:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on soliciting feedback about a specific tool rather than discussing processes or methodologies related to discovery and learning.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses feedback on a specific tool (TFS Event Handler) rather than providing reviews, analyses, or discussions on literature or broader Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -367,34 +283,34 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-10T13:22:47",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content primarily seeks user feedback on the TFS Event Handler prototype, which aligns with the concept of validating product ideas through user engagement. However, it lacks depth in discussing methodologies or practices related to product validation, focusing instead on specific questions about installation and functionality. While it does mention soliciting feedback, it does not explore broader themes such as user testing techniques or market fit strategies.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:51:46",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses the TFS Event Handler and solicits feedback on installation and configuration, which aligns with system configuration. However, it lacks depth in exploring methodologies or best practices, focusing more on user experiences and feedback rather than detailed technical discussions.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific software tool and solicits feedback regarding its installation and user experience, lacking a broader context on innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -425,15 +341,6 @@
     "reasoning": "Content primarily discusses feedback on TFS Event Handler integration and installation, with no clear relation to portfolio management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific TFS Event Handler and solicits feedback on its integration and usage, lacking focus on Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-17T08:18:21",
@@ -454,19 +361,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T08:18:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on seeking feedback about a software tool and its integration, rather than discussing structured decision-making principles or methodologies.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on soliciting feedback for a specific tool and its integration capabilities, without any discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -506,15 +413,6 @@
     "reasoning": "Content focuses on soliciting feedback for a TFS Event Handler prototype, without discussing the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on soliciting feedback for a TFS Event Handler and does not discuss Agile practices, scaling, or coordination among teams.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T08:18:21",
@@ -544,10 +442,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T08:18:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on soliciting feedback for a technical tool, not primarily discussing empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -578,26 +476,17 @@
     "reasoning": "Content is primarily focused on soliciting feedback for a specific tool rather than discussing collaboration tools in general or their role in Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on feedback for a specific TFS Event Handler tool, without discussing the role of software developers within Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T07:43:19",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
+    "final_score": 65.0,
     "reasoning": "The content discusses a specific tool related to software development (TFS Event Handler) and solicits feedback on its installation and configuration, which aligns with software development practices. However, it lacks depth in discussing methodologies or broader software engineering principles, focusing instead on user experience and feedback rather than development processes.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -626,7 +515,7 @@
     "reasoning": "Content heavily discusses feedback on a TFS Event Handler and does not address estimation in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:21",
     "ai_confidence": 0,
@@ -700,11 +589,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses feedback on a TFS Event Handler and its installation and configuration, not Continuous Delivery principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific tool (TFS Event Handler) and its integration capabilities, which does not directly address Continuous Delivery principles or practices. While there is a mention of integration, it lacks depth and does not explore the broader themes of Continuous Delivery such as automation, rapid feedback, or cultural aspects. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -752,15 +644,6 @@
     "reasoning": "Content primarily focuses on soliciting feedback about the TFS Event Handler and the integration process, without discussing hypotheses, experimentation, or validated learning.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on seeking feedback for a TFS Event Handler and does not discuss AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-17T08:18:21",
@@ -781,10 +664,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T08:18:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses feedback on a TFS Event Handler, which is not specifically about Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -880,10 +763,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:18:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content mainly solicits feedback on a technical tool related to TFS Event Handler and does not discuss team performance, collaboration, or Agile principles.",
     "level": "Ignored"
   },
@@ -925,10 +808,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:18:21",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on soliciting feedback about a TFS Event Handler and does not discuss team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -977,15 +860,6 @@
     "reasoning": "Content primarily discusses feedback on a TFS Event Handler prototype and does not relate to remote working practices, challenges, or solutions in Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific tool (TFS Event Handler) and solicits feedback about it, with no reference to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:18:22",
@@ -993,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on soliciting feedback about a technical integration tool and does not discuss customer retention strategies or user engagement directly.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a TFS Event Handler and solicitations for feedback, with no direct relevance to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1042,27 +907,27 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-15T07:43:13",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on soliciting feedback about a specific technical implementation (TFS Event Handler) rather than discussing customer satisfaction principles or practices. While it does ask for user feedback, which is a component of customer satisfaction, it lacks a broader exploration of customer experience, engagement, or satisfaction metrics. The questions posed are more about technical performance than about enhancing customer happiness or aligning with Agile and DevOps practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-10T15:18:54",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 65.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
+    "final_score": 65.0,
     "reasoning": "The content explicitly seeks feedback on the TFS Event Handler, which aligns with the concept of customer feedback loops. However, it lacks depth in discussing mechanisms for integrating this feedback into a broader product development process. The focus is primarily on soliciting user experiences rather than exploring systematic feedback integration practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1120,15 +985,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T07:43:16",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily seeks feedback on the TFS Event Handler's installation and configuration, which touches on troubleshooting aspects. However, it lacks detailed discussion on diagnosing or resolving specific issues, making it more of a feedback solicitation than a troubleshooting guide.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1204,15 +1069,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T07:43:13",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content primarily seeks feedback on a specific software tool, the TFS Event Handler, which indicates a focus on user experience and functionality. However, it lacks a comprehensive discussion on the characteristics of working software or best practices for ensuring software quality. The questions posed do touch on aspects of user satisfaction and operational success, but the overall depth and alignment with the core themes of working software are limited.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1225,19 +1090,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:18:22",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on obtaining feedback for a TFS Event Handler and does not discuss Scrum roles, team collaboration, or any relevant Scrum practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:18:22",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of a software tool and solicits feedback on its installation and usage, without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1286,15 +1151,6 @@
     "reasoning": "Content primarily discusses feedback on a specific software event handler and installation questions, without addressing asynchronous development principles or collaboration.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical tool related to Team Foundation Server and solicits feedback, with no focus on Scrum or its scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:18:22",
@@ -1331,22 +1187,16 @@
     "reasoning": "Content focuses on feedback regarding a TFS Event Handler, which is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on soliciting feedback for a TFS Event Handler and does not discuss scaling agility or related practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum roles, responsibilities, or practices; it focuses on feedback related to a TFS Event Handler.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a TFS Event Handler prototype, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, roles, or practices, and the discussion lacks any depth regarding Scrum methodologies or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1369,20 +1219,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on soliciting feedback for a TFS Event Handler, with no discussion of Test First Development principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a TFS Event Handler prototype and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any direct mention of testing methodologies or the importance of defining success criteria before implementation.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a TFS Event Handler and solicits feedback, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a technical prototype, specifically the TFS Event Handler, without discussing collaboration, decision-making, or value delivery in a social technology context. While it invites user interaction, it lacks depth in exploring the principles of self-organisation, adaptability, or continuous improvement that are central to social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1414,26 +1270,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:20:00",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 10.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily discusses a TFS Event Handler and solicits feedback on its installation and configuration, with no direct mentions or alignment to Scrum principles, roles, or practices. The focus is on a technical tool rather than Scrum methodologies.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:48:39",
+    "calculated_at": "2025-04-10T15:56:59",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 2.0,
     "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on soliciting feedback for a TFS Event Handler and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is unrelated to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific prototype rather than discussing shared objectives or alignment within Agile or DevOps frameworks. While it mentions integration capabilities, it does not connect to the principles of Common Goals, nor does it explore the significance of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific prototype rather than discussing competence in Agile or DevOps contexts. While it touches on integration capabilities, it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific prototype rather than discussing Continuous Improvement principles. While it does seek user input, which could be seen as a form of feedback for improvement, it lacks a broader discussion on continuous improvement methodologies, strategies, or frameworks. The questions posed are more about user experience than about systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on soliciting feedback for a specific software prototype and does not discuss the principles or concepts of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is more about technical integration and user experience rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

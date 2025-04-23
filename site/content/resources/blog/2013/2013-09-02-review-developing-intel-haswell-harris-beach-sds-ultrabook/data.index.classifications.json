@@ -8,15 +8,6 @@
     "reasoning": "Content primarily focuses on reviewing a laptop and discussing technical aspects of software development, with no clear relation to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:50:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a personal review of a laptop and its performance, with minimal reference to practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T11:50:18",
@@ -28,41 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:35:34",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance and features for developers. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion does not align with the core themes of EBM such as data-informed decision-making or value delivery. The content lacks depth in relation to EBM, making it unsuitable for this category.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:50:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences with a laptop and its performance, with minimal focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T11:50:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on reviewing a laptop and discussing technical specifications and experiences, with no clear emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:50:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a hardware review and personal experiences with a laptop, with no mention of AI, automation, or Agile methodologies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -86,15 +50,6 @@
     "reasoning": "The content discusses the installation of Windows 8.1 and the associated driver issues, which aligns with the installation aspect of the category. However, the primary focus is on personal experiences and performance rather than providing clear, actionable installation or configuration instructions. While there are mentions of troubleshooting and system requirements, the depth of discussion is limited and lacks structured guidance, leading to a low confidence score.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:50:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a product review and personal experiences with a laptop, lacking discussions on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-15T11:50:29",
@@ -113,24 +68,15 @@
     "reasoning": "Content primarily focuses on the review of a laptop and its performance for software development, without discussing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:50:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product review and technical specifications of a laptop, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:35:21",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on reviewing a specific laptop and its performance for developers, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions development in the context of Windows applications, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
@@ -152,15 +98,6 @@
     "reasoning": "Content primarily discusses a product review and technical experiences with a laptop, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:50:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on a product review of a laptop and does not discuss any events, presentations, or related topics.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T11:50:42",
@@ -168,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:50:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the review of a laptop and its performance, with no significant discussion on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -199,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:50:48",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and technical specifications of a laptop, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -217,13 +145,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:50:00",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8.1, rather than discussing engineering practices or methodologies that enhance software development. While there are mentions of development tools like Visual Studio and some technical aspects related to the laptop's capabilities, the discussion lacks depth in terms of technical excellence principles such as TDD, CI/CD, or modular architecture. The content does not provide a structured analysis of how these technical aspects contribute to agile practices or project success.",
     "level": "Ignored"
   },
@@ -272,18 +200,6 @@
     "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-03-07T14:55:31",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 70.0,
-    "non_ai_confidence": 20,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on a detailed review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, usability, and specific features relevant to developers. It aligns well with the category as it provides insights into a product that is pertinent to software development, particularly for Windows applications. The review includes practical advice and personal experiences, which enhances the depth of discussion. However, it lacks broader discussions on Agile methodologies or DevOps practices, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T11:50:59",
@@ -304,10 +220,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-15T11:51:02",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a product review of a laptop, detailing technical specifications and personal usage experiences, but does not discuss Agile, Scrum, DevOps, or related personal insights.",
     "level": "Ignored"
   },
@@ -322,22 +238,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:51:05",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on reviewing a laptop and discussing personal experiences with software development on that device, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:35:32",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance and features for developers. There are no direct mentions of the Agile Product Operating Model or its principles, and the discussion does not align with the core themes of APOM, such as product management practices or agile methodologies. The content lacks depth in relation to the category, making it irrelevant to the Agile Product Operating Model.",
     "level": "Ignored"
   },
@@ -350,24 +266,12 @@
     "reasoning": "Content primarily focuses on reviewing a laptop and discussing its performance for software development, with no clear connection to organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-03-10T12:44:30",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 28.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content primarily focuses on a review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, usability, and specific features relevant to developers. While it does provide insights into the device's capabilities and issues encountered, it lacks broader industry context or updates on Agile and DevOps practices. The review is detailed and informative, but it does not engage with the key topics outlined for the category, such as Agile methodologies or DevOps tools, which limits its alignment with the 'News and Reviews' classification.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:51:10",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on reviewing a laptop and discussing its performance with Windows applications, rather than the management of software applications throughout their lifecycle.",
     "level": "Ignored"
   },
@@ -382,22 +286,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T11:51:22",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a product review of a laptop and its performance, with no discussion on the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T04:50:00",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8 and development tools, rather than discussing best practices or principles of software craftsmanship. While it mentions the use of Visual Studio and some technical aspects of development, these are secondary to the overall narrative of the review. The discussion lacks depth in technical methodologies or engineering practices, which are essential for a higher confidence score in the 'Technical Mastery' category.",
     "level": "Ignored"
   },
@@ -412,13 +316,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:35:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on reviewing a specific laptop and its performance for developers, with no direct discussion of Continuous Delivery principles, practices, or related topics. While it mentions development tools and experiences, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion is more about hardware and software compatibility rather than delivery practices.",
     "level": "Ignored"
   },
@@ -433,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T11:51:31",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review and personal experiences with a laptop, with no focus on Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -451,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T11:51:34",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review and personal experiences with a laptop, with no mention of the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -532,10 +436,10 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-15T11:51:46",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review and personal experiences with a laptop, with no focus on Agile, Scrum, or DevOps strategies.",
     "level": "Ignored"
   },
@@ -577,10 +481,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T11:51:52",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal review of a laptop and its performance, with no focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -604,31 +508,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:59:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the experience of developing applications on a specific laptop, including performance with Visual Studio and the use of Windows SDK and DirectX SDK. While it touches on software development aspects, such as coding and application performance, the primary focus is on the hardware review rather than in-depth software development methodologies or practices. Therefore, it aligns with the category but lacks comprehensive depth in software development discussions.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T11:51:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on reviewing a laptop and discussing software development experiences, with no mention of agile methodologies or project management principles.",
-    "level": "Ignored"
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T11:52:00",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review of a laptop and related software development experiences, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -643,19 +538,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T11:52:02",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a review of a laptop and its performance with Windows applications, with no focus on version control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T11:52:04",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no focus on empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -722,15 +617,6 @@
     "reasoning": "Content primarily focuses on a product review and technical details rather than customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T11:52:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a review of a laptop and its performance for software development, with no mention of Scrum principles, scaling frameworks, or related topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T11:52:14",
@@ -747,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the review of a laptop and its performance, with no focus on psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T11:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on reviewing a laptop and discussing its performance for software development, with no mention of scaling agility or related practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -823,29 +700,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T11:52:29",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on reviewing a laptop and its performance for development, with no clear discussion on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T11:52:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no clear connection to Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T11:52:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no reference to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -886,10 +745,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T11:52:37",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a hardware review and personal experiences with a laptop, with minimal focus on software development or delivery.",
     "level": "Ignored"
   },
@@ -994,10 +853,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T11:52:53",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a review of a laptop and its performance, with no mention of Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1055,7 +914,7 @@
     "reasoning": "Content primarily focuses on reviewing a specific laptop and its performance for development, without discussing digital transformation strategies or the impact of digital technologies on business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T11:53:02",
     "ai_confidence": 0,
@@ -1064,33 +923,24 @@
     "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no clear focus on Minimum Viable Product concepts or related methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T11:53:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a laptop review and development experience, with no focus on AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T04:50:00",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses the experience of using a specific laptop and the issues encountered with Windows 8.1 drivers and BIOS configuration, which relates to system configuration. However, the primary focus is on personal experience and performance rather than detailed methodologies or best practices for system configuration. While there are mentions of configuration issues and performance, the depth of discussion on configuration management tools or optimisation strategies is limited.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T11:53:06",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal experiences and technical details related to a specific laptop review, lacking discussions on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -1123,22 +973,25 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:53:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a review of a laptop and its performance for development, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a review of a specific laptop and its performance for development purposes, without any discussion of Test First Development principles, success criteria, or testing methodologies. It does not mention TDD, ATDD, or any related practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T14:47:12",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 83.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on the experience of using a specific laptop with Windows 8 and 8.1, discussing installation issues, driver compatibility, and performance with development tools like Visual Studio. It provides detailed insights into troubleshooting and optimising the Windows environment for app development, which aligns well with the key topics of the Windows category. The depth of discussion is significant, covering various aspects of using Windows on the device, including specific problems encountered and solutions found. Overall, the content is highly relevant to the Windows category.",
     "level": "Primary"
   },
@@ -1171,10 +1024,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T11:53:21",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the review and performance of a specific laptop, with no focus on remote working practices, challenges, or solutions.",
     "level": "Ignored"
   },
@@ -1189,15 +1042,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T04:50:02",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses specific issues encountered while using the Intel Haswell Harris Beach SDS Ultrabook, particularly related to driver compatibility with Windows 8.1. This aligns with troubleshooting as it identifies a problem and suggests a solution (reverting to Windows 8). However, the primary focus of the content is more on the review of the laptop and its performance rather than a systematic approach to troubleshooting. While there are mentions of issues and resolutions, the depth of discussion on troubleshooting techniques is limited.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1210,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:53:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:52:58",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a laptop review and development experience, with no mention of Scrum Master responsibilities or related topics.",
+    "reasoning": "The content focuses entirely on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, features, and development tips for Windows applications. There are no mentions or discussions related to the role, responsibilities, or impact of a Scrum Master, nor does it touch on any Scrum-related concepts or practices. Therefore, it does not align with the category of Scrum Master in any meaningful way.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1228,23 +1084,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T11:53:29",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on reviewing a laptop and discussing its performance, with no mention of working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T04:50:00",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance for software development, specifically for Windows 8 and 8.1 applications. While it mentions the experience of a developer using the laptop and discusses some technical aspects related to software development, it lacks a direct exploration of Agile or DevOps methodologies. The discussion is more about hardware and software compatibility rather than the role of software developers within Agile or DevOps frameworks. Therefore, it only partially aligns with the category's core themes.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1276,10 +1120,10 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T11:53:36",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no mention of Sprint Reviews or related Scrum concepts.",
     "level": "Ignored"
   },
@@ -1312,10 +1156,10 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T11:53:42",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a product review of a laptop and its performance, with no focus on Agile methodologies or strategies.",
     "level": "Ignored"
   },
@@ -1364,15 +1208,6 @@
     "reasoning": "Content primarily discusses a product review and personal experiences with a laptop, with no focus on accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T11:53:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a review of a laptop and software development, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T11:53:53",
@@ -1402,22 +1237,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:29:45",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance and features for developers. There are no explicit discussions on social technologies, collaboration, decision-making, or value delivery within organisations. The content lacks alignment with the core themes of the category and does not provide any depth on social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:16:39",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on reviewing a laptop and its performance for software development, without discussing Internal Developer Platforms or related concepts.",
     "level": "Ignored"
   },
@@ -1432,62 +1267,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:38:48",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a product review of a laptop and its performance for software development, with no direct mentions or discussions related to Scrum principles, roles, events, or practices. The content does not align with the core themes of Scrum, such as team dynamics or iterative processes, and lacks depth in any relevant discussions.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:20:42",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 6.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a product review of a laptop and its performance for development, with no explicit discussion of the Shift-Left Strategy or its principles. While it touches on development processes, it does not address integrating testing, security, or compliance early in the software lifecycle, which are core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:35:23",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance and features for developers. There are no explicit discussions on Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence related to Continuous Improvement. The content lacks depth in relation to the category, making it largely irrelevant to the topic.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:35:26",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily focuses on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance and features for developers. There are no explicit mentions of Common Goals, Agile, or DevOps principles. The discussion lacks alignment with the core themes of Common Goals, as it does not address shared objectives, strategic alignment, or team collaboration. The depth of discussion is limited to personal experiences and technical specifications, which do not connect to the principles outlined in the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:35:29",
+    "calculated_at": "2025-04-10T15:55:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on reviewing a specific laptop and its performance for development purposes, rather than discussing competence in the context of Agile, Scrum, or DevOps methodologies. While there are mentions of development and tools, they do not explicitly address continuous learning, skill development, or the professional principles associated with competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a product review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance and features for developers. There are no explicit mentions of Agentic Agility, nor does it explore the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The discussion lacks depth in relation to the principles and mechanisms of Agentic Agility, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

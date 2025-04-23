@@ -8,70 +8,28 @@
     "reasoning": "The content primarily discusses technical challenges and processes related to Team Foundation Server migrations, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:59:38",
-    "ai_confidence": 87.0,
-    "ai_mentions": 90.0,
-    "ai_alignment": 85.0,
-    "ai_depth": 90.0,
-    "non_ai_confidence": 10,
-    "final_score": 79.0,
-    "reasoning": "The content provides a detailed account of a complex Team Foundation Server migration, discussing specific tools, methodologies, and best practices throughout the process. It explicitly mentions TFS and related tools, outlines practical steps for implementation, and includes checklists and scripts that enhance the understanding of Agile and DevOps practices. The depth of discussion is significant, covering various stages of the migration process and the challenges faced, which aligns well with the category's focus on practical techniques and tooling.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T05:05:10",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 28,
     "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the complexities involved in migrating Team Foundation Server (TFS), which is a tool that can be part of an Internal Developer Platform (IDP). It touches on aspects of developer productivity, automation, and the management of application lifecycles, aligning with core themes of platform engineering. However, the focus is more on the specific migration process rather than a broader discussion of platform engineering principles, which limits its depth in that area.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:44:03",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses the complexities of Team Foundation Server migrations and does not focus on Evidence-Based Management principles. While it touches on some operational challenges and processes, it lacks explicit references to data-informed decision-making, metrics related to current value, time to market, or empirical decision-making that are central to EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-10T12:46:42",
-    "ai_confidence": 78.0,
-    "ai_mentions": 15,
-    "ai_alignment": 32,
-    "ai_depth": 28,
-    "non_ai_confidence": 30,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the complexities involved in a Team Foundation Server migration, highlighting issues related to code quality, data management, and system architecture. It provides detailed insights into the remediation process, including the challenges of managing large databases and the importance of maintaining data integrity. The author reflects on best practices and strategies for handling complexity, which aligns well with the core themes of the category. However, while the content is rich in practical examples, it lacks a more explicit discussion of complexity theory and its application in software development, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:14:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical details and processes involved in a Team Foundation Server migration, with little emphasis on learning methodologies or fostering innovation.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:14:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the complexities of a Team Foundation Server migration process without any mention of AI or automation technologies in Agile frameworks.",
     "level": "Ignored"
   },
   "Lean": {
@@ -85,24 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T14:48:48",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 81.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of the installation and configuration processes for Team Foundation Server (TFS), including step-by-step instructions, best practices, and troubleshooting tips. It explicitly discusses various installation steps, server specifications, and configuration challenges faced during a complex migration. The depth of discussion is significant, covering multiple steps and considerations, which aligns well with the category's focus on actionable instructions for installation and configuration.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:14:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of a Team Foundation Server migration process, with no clear focus on transparency or accountability principles within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -115,39 +64,27 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-15T05:04:55",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server, highlighting challenges related to organisational IT infrastructure and team dynamics. However, while it touches on aspects of sociotechnical systems, such as the interplay between technology and organisational structure, it primarily focuses on technical procedures and tools without a thorough exploration of the social aspects or organisational culture. The depth of discussion on sociotechnical interactions is limited, leading to a moderate confidence score.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-03-15T05:04:44",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which touches on aspects of organisational resilience through the management of disruptions and the need for adaptability in IT infrastructure. However, it primarily focuses on technical implementations and specific migration steps rather than broader strategies or methodologies for enhancing organisational resilience or facilitating adaptive change. The human and cultural aspects of change are not adequately addressed, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:43:49",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content primarily discusses the complexities of Team Foundation Server (TFS) migrations, which is a specific tool rather than a broader DevOps philosophy. While it touches on aspects of collaboration and process efficiency, it lacks a comprehensive exploration of DevOps principles such as shared accountability, automation, and continuous improvement. The focus is more on technical execution rather than the cultural and philosophical aspects of DevOps.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -167,15 +104,6 @@
     "reasoning": "Content primarily discusses technical aspects of a Team Foundation Server migration process, focusing on implementation details rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:15:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a complex Team Foundation Server migration process, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:15:55",
@@ -184,18 +112,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the complexities and challenges of a Team Foundation Server migration, focusing on technical details and processes rather than optimising work throughput or addressing flow efficiency principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T05:04:58",
-    "ai_confidence": 67.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 20,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the complexities of a Team Foundation Server migration, highlighting the challenges faced by the team and the need for collaboration with corporate IT. While it touches on team dynamics and the importance of communication, the primary focus remains on technical processes and tools rather than the human factors or methodologies that enhance productivity and innovation. Therefore, it aligns moderately with the 'People and Process' category.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -217,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:16:02",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the complexities and processes involved in a Team Foundation Server migration, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -235,46 +151,46 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:38:04",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a complex Team Foundation Server migration, detailing technical challenges and solutions, which aligns with the principles of Technical Excellence. It mentions specific practices like backups, server upgrades, and scripting for automation, indicating a focus on engineering methodologies. However, while it provides some depth, the primary focus is on the migration process rather than a broader discussion of technical excellence principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-11T10:28:24",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses the complexities involved in a Team Foundation Server migration, highlighting issues such as data management, server configurations, and the challenges of working with corporate IT. While it touches on aspects of complexity, such as the need to manage uncertainties and the non-linear dynamics of the migration process, it lacks a deeper exploration of complexity science principles or frameworks like the Cynefin Framework. The focus is more on practical challenges rather than theoretical insights, which limits its alignment with the core themes of Complexity Thinking.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-15T18:16:15",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of Team Foundation Server migrations and related processes, with no focus on psychological principles or theories relevant to organisational behaviour.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T05:04:47",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 65.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which includes aspects of planning, execution, and validation of software delivery. It touches on methodologies for managing data backups, server configurations, and user continuity, all of which are relevant to product delivery. However, while it provides detailed steps and technical insights, it lacks a broader discussion on agile methodologies or iterative development practices, which are key themes in product delivery. Therefore, the confidence score reflects a strong but not complete alignment with the category.",
     "level": "Secondary"
   },
@@ -296,15 +212,6 @@
     "reasoning": "Content primarily discusses the complexities and processes involved in migrating Team Foundation Server, which does not align with the principles of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:16:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a complex Team Foundation Server migration process, with no focus on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:16:23",
@@ -316,15 +223,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T11:53:47",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 82.0,
     "ai_mentions": 90.0,
     "ai_alignment": 75.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content primarily focuses on Team Foundation Server (TFS), which is a key component of Azure DevOps. It discusses the complexities involved in migrating TFS, detailing specific steps and technical processes related to TFS upgrades, backups, and configurations. The depth of discussion is significant, providing detailed insights into the migration process and best practices. While it does not explicitly mention Azure DevOps frequently, the core themes and functionalities align closely with Azure DevOps principles, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -337,64 +244,55 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-15T05:04:52",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a complex migration process involving multiple interdependent systems, which aligns with the principles of Systems Thinking. It highlights the interconnectedness of various components, such as the corporate IT infrastructure and the Team Foundation Server (TFS) migration, and addresses the challenges posed by these interdependencies. However, while it touches on systems dynamics and the need for holistic analysis, it lacks a deeper exploration of Systems Thinking methodologies or frameworks, which limits its overall depth in this category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:16:31",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the complexities and challenges of migrating Team Foundation Server, focusing on specific technical processes rather than the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:44:00",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server migrations and does not discuss the Agile Product Operating Model or its principles. While it touches on some elements of project management, it lacks a clear connection to the core themes of the Agile Product Operating Model, such as continuous delivery, customer-centric value, or the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T18:16:34",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical complexities and processes involved in a Team Foundation Server migration, rather than focusing on organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:16:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a specific technical process related to Team Foundation Server migrations, rather than providing industry news, updates, or reviews relevant to Agile, DevOps, or technology trends.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T14:58:52",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the complexities involved in a Team Foundation Server migration, which is a critical aspect of application lifecycle management. It covers stages such as development, deployment, and maintenance, while also touching on best practices for managing backups and configurations. The depth of discussion is significant, with detailed steps and scripts provided for various processes, indicating a strong alignment with ALM principles. However, it lacks a broader discussion on governance, compliance, and metrics, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
@@ -409,22 +307,22 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:01:16",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses complex processes related to Team Foundation Server migrations rather than the concept of Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-15T05:04:22",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which touches on technical aspects such as server specifications, backup strategies, and the importance of maintaining data integrity. However, while it provides some insights into technical practices, it primarily focuses on the specific challenges and experiences of the migration rather than broader principles of software craftsmanship or engineering excellence. The depth of discussion on best practices and methodologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
@@ -439,13 +337,13 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:44:06",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the complexities of migrating Team Foundation Server (TFS) and the associated challenges, which are more aligned with deployment and infrastructure management rather than Continuous Delivery principles. While there are mentions of processes that could relate to Continuous Delivery, such as validation and backup strategies, the focus is not on the Continuous Delivery practices themselves, such as automation, rapid feedback, or incremental improvements. The depth of discussion on Continuous Delivery concepts is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
@@ -460,28 +358,28 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the complexities and challenges of a Team Foundation Server migration process, including hardware moves, data backups, and configurations, but does not focus on Lead Time as a metric or measure from initiation to delivery.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of a Team Foundation Server migration process and does not focus on organisational culture or related themes. It lacks discussions on leadership impact, cultural dimensions, or team dynamics in the context of Agile or DevOps.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on the complexities of a Team Foundation Server migration and does not discuss the Definition of Ready or its related topics.",
     "level": "Ignored"
   },
@@ -514,40 +412,40 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the complexities of migrating Team Foundation Server and related processes, which does not align with Value Stream Mapping principles or techniques.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of Team Foundation Server migrations and does not focus on customer feedback or its integration into product development.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T18:00:35",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed account of a complex Team Foundation Server migration, discussing various operational practices such as backup strategies, hardware moves, and the importance of process optimisation. It explicitly mentions techniques for improving operational efficiency, such as using virtual SQL Server instances for flexibility and scripting to automate user account creation. The depth of discussion is significant, with practical steps outlined for each phase of the migration process, aligning well with the core themes of operational practices in Agile and DevOps contexts.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the complexities and processes involved in migrating Team Foundation Server, focusing on technical challenges rather than Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -571,10 +469,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical challenges and processes related to a Team Foundation Server migration rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -607,10 +505,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical challenges and processes related to migrating Team Foundation Server, with little focus on team performance, collaboration, or agile practices.",
     "level": "Ignored"
   },
@@ -625,40 +523,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Team Foundation Server migrations and related technical processes, without any focus on Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-15T05:04:20",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
     "ai_alignment": 85.0,
     "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of a complex Team Foundation Server migration, discussing various software development practices, including backup strategies, server upgrades, and the importance of maintaining data integrity during the migration process. It aligns closely with key topics in software development, such as version control, system design, and collaborative development practices. The depth of discussion is significant, with practical examples and scripts provided, demonstrating a thorough understanding of the software development lifecycle and methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the technical complexities and processes involved in migrating Team Foundation Server and does not focus on Agile Project Management principles, methodologies, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a complex Team Foundation Server migration process without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -673,22 +562,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T16:49:02",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the complexities involved in migrating Team Foundation Server (TFS), which is a version control system. It includes detailed steps on upgrading TFS, managing backups, and ensuring data integrity during the migration process. The discussion aligns well with modern source control practices, particularly in the context of version control systems and collaboration workflows. However, while it touches on relevant topics, the focus on TFS migration and hardware issues slightly detracts from a broader discussion of best practices in source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a complex migration process and technical steps related to Team Foundation Server, lacking a clear emphasis on empirical process control principles or Agile frameworks.",
     "level": "Ignored"
   },
@@ -721,10 +610,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-15T05:04:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
-    "final_score": 29.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the technicalities of a Team Foundation Server migration process rather than focusing on strategies and methodologies for organizational change. While there are elements of change management present, they are not the primary focus, and the overall discussion leans heavily towards technical execution rather than organizational transformation.",
     "level": "Ignored"
   },
@@ -739,29 +628,20 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the complexities and processes involved in a Team Foundation Server migration and remediation, without focusing on the principles or practices of frequent releases in software delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on the technical aspects of migrating Team Foundation Server, including detailed processes and challenges, without addressing customer satisfaction or experience significantly.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which does not focus on scaling Scrum principles, frameworks, or practices. It primarily addresses technical challenges and procedures related to TFS, rather than any Scrum-specific scaling practices.",
+    "reasoning": "Content focuses primarily on the technical aspects of migrating Team Foundation Server, including detailed processes and challenges, without addressing customer satisfaction or experience significantly.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -782,77 +662,68 @@
     "reasoning": "Content heavily discusses technical processes and challenges related to Team Foundation Server migrations, with no reference to psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects and complexity of a specific Team Foundation Server migration process without addressing the scaling of agile practices or principles at the organizational level.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:46:32",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which touches on aspects of engineering excellence such as technical debt management, coding standards, and the importance of efficient processes. However, while it provides detailed insights into the migration steps and challenges, it lacks a direct focus on broader principles of software craftsmanship and quality assurance, which are central to the category of Engineering Excellence.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical processes related to Team Foundation Server migration and IT infrastructure without reference to revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a complex Team Foundation Server migration process, including server configurations and data management, without focusing on the principles or practices of asynchronous development.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-15T05:04:50",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 57.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses the complexities involved in a Team Foundation Server migration, touching on organisational dynamics such as the interplay between IT teams and developers, and the impact of organisational structure on the migration process. However, while it mentions engaging with complexity, it primarily focuses on technical details and specific processes rather than a holistic view of organisational behaviour or systems thinking principles. The depth of discussion on organisational dynamics is limited, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the technical processes involved in migrating Team Foundation Server, troubleshooting issues, and procedural steps. It does not discuss customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-15T05:04:25",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 87.0,
     "ai_mentions": 15.0,
     "ai_alignment": 42.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content provides a detailed account of a complex Team Foundation Server migration, showcasing practical problem-solving strategies and real-world applications of DevOps principles. It discusses navigating challenges, such as data management and server configurations, which aligns well with the core themes of pragmatic thinking. The depth of discussion is substantial, with specific steps and techniques outlined, demonstrating experience-based decision-making. However, while the content is rich in practical insights, it does not explicitly mention Agile or Scrum methodologies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -865,37 +736,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:01:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of Team Foundation Server migrations and related processes, rather than focusing on innovation capabilities or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:01:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Team Foundation Server migrations and technical challenges, with no clear focus on Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:01:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the complexities and processes involved in migrating Team Foundation Server and does not address methodologies or frameworks that enable Agile practices across multiple teams or enterprise-level initiatives.",
+    "reasoning": "Content primarily discusses the technical aspects of Team Foundation Server migrations and related processes, rather than focusing on innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical processes and challenges related to Team Foundation Server migrations, without focusing on employee engagement or human aspects of motivation and commitment in teams.",
     "level": "Ignored"
   },
@@ -928,13 +781,13 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T05:04:33",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 72.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 67.0,
+    "final_score": 72.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server (TFS), which is related to working software. However, while it touches on aspects of software delivery and operational challenges, it lacks a direct focus on the characteristics of working software as defined in Agile and Scrum frameworks. The discussion is more about the technicalities of migration and server management rather than the delivery of functional software that meets user needs. Therefore, while there are relevant elements, the primary focus is not on working software itself.",
     "level": "Secondary"
   },
@@ -976,40 +829,40 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-15T05:05:04",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a complex Team Foundation Server migration, highlighting challenges and solutions. While it touches on engaging with complexity, it primarily focuses on technical implementations and project management rather than exploring sensemaking principles or frameworks. The discussion lacks depth in sensemaking concepts and does not provide a clear framework for interpreting complexity in decision-making processes.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-15T05:04:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses the migration process and complexities associated with Team Foundation Server but does not focus specifically on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the complexities and steps involved in a Team Foundation Server migration, without focus on hypothesis formulation, testing, or validated learning relevant to product development.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical processes involved in engaging with a complex Team Foundation Server migration, focusing on system configurations and execution steps rather than structured, evidence-based decision-making methodologies.",
     "level": "Ignored"
   },
@@ -1024,13 +877,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-15T05:04:31",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server (TFS), which relates to release management through its focus on planning, scheduling, and controlling software releases. It includes specific steps for upgrading, backing up, and validating TFS, which aligns with release management practices. However, while it touches on relevant topics, the primary focus is on the technical challenges and processes rather than a comprehensive discussion of release management strategies or practices.",
     "level": "Secondary"
   },
@@ -1045,10 +898,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the complexities and steps involved in migrating Team Foundation Server, focusing on hardware and software configurations, which does not relate directly to measuring or discussing Cycle Time in Agile or DevOps contexts.",
     "level": "Ignored"
   },
@@ -1072,47 +925,47 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating a Team Foundation Server and does not focus on change management principles or practices related to organizational transformation. It lacks discussions on stakeholder engagement, leadership roles, or cultural adaptability, which are central to change management.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T05:05:13",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical aspects of a Team Foundation Server migration, detailing processes and challenges faced during the migration. While it does mention working with a team and acknowledges the contributions of team members, the discussion lacks a strong emphasis on team dynamics, communication, or collaboration techniques. The content is more about individual tasks and technical solutions rather than exploring or enhancing teamwork within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a complex Team Foundation Server migration process and project management without discussing any principles, practices, or frameworks related to Behaviour Driven Development.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-15T05:05:01",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which touches on aspects of digital transformation such as operational efficiency and the integration of digital tools. However, it lacks a strategic focus on how these technologies enhance business agility or foster innovation. The discussion is primarily technical and procedural, with limited exploration of broader digital transformation themes or case studies, resulting in a moderate confidence score.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:01:18",
     "ai_confidence": 0,
@@ -1121,26 +974,17 @@
     "reasoning": "The content primarily discusses the complexities of managing and migrating Team Foundation Server (TFS) in a corporate IT environment, focusing on hardware moves and technical processes rather than Minimum Viable Product development or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:01:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on Team Foundation Server migration processes, lack of AI discussions.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-15T05:04:38",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 87.0,
     "ai_mentions": 18,
     "ai_alignment": 35,
     "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 80.0,
+    "final_score": 87.0,
     "reasoning": "The content extensively discusses the complexities involved in configuring and migrating Team Foundation Server (TFS), including hardware moves, server specifications, backup processes, and the importance of configuration management. It provides detailed steps and scripts for various configuration tasks, demonstrating a strong focus on system configuration principles and practices. The depth of discussion is significant, covering multiple aspects of system setup and optimisation, which aligns well with the category's key topics.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1171,70 +1015,73 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of a Team Foundation Server migration and the associated processes and challenges, without focusing on cross-functional teams or their importance in Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily focuses on the complexities of migrating Team Foundation Server and logistical aspects of data handling, rather than principles or practices of Test First Development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the complexities of Team Foundation Server migrations and does not mention or align with the principles of Test First Development. There is no focus on defining success criteria, testing practices, or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-15T05:04:28",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 34.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses the complexities of migrating Team Foundation Server (TFS) and related processes, which are relevant to Windows environments but does not focus explicitly on Windows operating system features or functionalities. While it mentions server specifications and configurations that may involve Windows, the discussion lacks depth in terms of Windows-specific installation, troubleshooting, or updates. The content is more centred on TFS and its operational challenges rather than the Windows OS itself.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-15T05:04:35",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which includes elements of deployment strategies such as hardware moves and backup processes. However, it lacks a focused discussion on specific deployment methodologies like Blue-Green Deployments or Canary Releases. While it touches on aspects of deployment, it primarily revolves around the challenges and steps of a specific migration rather than providing actionable insights into deployment strategies.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects and challenges related to migrating Team Foundation Server in a complex IT environment, without reference to Agile principles or large-scale Agile practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content predominantly discusses technical processes and challenges related to Team Foundation Server migration without focusing on team dynamics, motivation, or engagement within the team. There is no exploration of strategies enhancing team performance or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical processes related to Team Foundation Server migration, and does not address remote working practices, challenges, or solutions within an Agile context.",
     "level": "Ignored"
   },
@@ -1249,15 +1096,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-15T05:04:42",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 82.0,
     "ai_mentions": 16,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 74.0,
+    "final_score": 82.0,
     "reasoning": "The content extensively discusses the complexities and challenges faced during a Team Foundation Server migration, detailing specific issues encountered and the troubleshooting steps taken to resolve them. It includes practical methodologies for diagnosing problems, such as validating backups and ensuring data consistency, which aligns well with the core themes of troubleshooting. The depth of discussion is significant, providing detailed steps and scripts for various processes, indicating a strong focus on problem-solving in a technical context.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1270,11 +1117,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss the role or responsibilities of a Scrum Master, nor does it address Scrum-specific practices or frameworks; it focuses on Team Foundation Server migrations and technical processes.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical complexities and processes involved in migrating Team Foundation Server, with no direct mention of the Scrum Master role or its responsibilities. While there are elements of team dynamics and project management, they are not framed within the context of Scrum or the Scrum Master's influence, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1288,24 +1138,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of a Team Foundation Server migration process, with no clear discussion on working agreements, teamwork norms, or collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T05:05:07",
-    "ai_confidence": 62.0,
-    "ai_mentions": 75.0,
-    "ai_alignment": 55.0,
-    "ai_depth": 65.0,
-    "non_ai_confidence": 20,
-    "final_score": 58.0,
-    "reasoning": "The content discusses a complex Team Foundation Server migration, which is relevant to software developers, particularly in the context of Agile and DevOps practices. It touches on the challenges faced by developers during the migration process, the importance of backups, and the need for collaboration with corporate IT teams. However, while it provides detailed steps and technical insights, it lacks a direct focus on Agile methodologies or DevOps principles, which slightly lowers the confidence score. The depth of discussion is substantial, but the primary focus is more on the technical migration process rather than the broader role of developers within Agile and DevOps frameworks.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1327,10 +1165,10 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-03-15T05:04:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily focuses on the complexities and challenges of a Team Foundation Server migration process, including technical details about backups, hardware moves, and user continuity. While there are mentions of problems caused by suboptimal setups and configurations, it does not explicitly discuss the management or implications of technical debt in terms of code quality or maintainability.",
     "level": "Ignored"
   },
@@ -1354,10 +1192,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T20:01:18",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical challenges and procedures related to Team Foundation Server migrations, not on self-organisation principles or team autonomy.",
     "level": "Ignored"
   },
@@ -1381,10 +1219,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T05:04:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content extensively discusses Team Foundation Server (TFS), including backup and migration processes, but does not focus on Azure Repos specifically. Although it mentions source control in relation to TFS, it does not adequately cover Azure Repos functionalities or best practices, which are central to the category definition.",
     "level": "Ignored"
   },
@@ -1399,10 +1237,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T20:01:19",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of a Team Foundation Server migration, focusing on technical processes and complexities involved, without addressing Lean principles or waste reduction in product development.",
     "level": "Ignored"
   },
@@ -1424,15 +1262,6 @@
     "reasoning": "Content primarily discusses technical challenges and processes related to Team Foundation Server migrations, without addressing concepts of ownership, responsibility, or team dynamics relevant to accountability in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:01:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the complexities and challenges of migrating Team Foundation Server (TFS) in a corporate environment, without any clear focus or discussion on Scaling Kanban principles, practices, or case studies.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:01:19",
@@ -1444,10 +1273,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T20:01:19",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a complex migration process of Team Foundation Server and does not reference Test Driven Development principles, practices, or the TDD cycle.",
     "level": "Ignored"
   },
@@ -1462,22 +1291,22 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:30:58",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server migrations, detailing processes and technical challenges without addressing the core themes of social technologies such as collaboration, decision-making, or value delivery. While there are mentions of team dynamics and the need for effective communication, these are not explored in depth or as a primary focus, leading to a low confidence score in alignment with the category.",
     "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-02-24T14:18:15",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the complexities and processes involved in migrating Team Foundation Server (TFS), which relates to the management and operation of an Internal Developer Platform. However, the primary focus is on the migration challenges rather than the broader concepts of IDPs.",
     "level": "Tertiary"
   },
@@ -1492,62 +1321,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T05:04:17",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a complex migration process involving Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks a focus on Scrum's iterative and collaborative framework, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:21:52",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses a complex migration process involving Team Foundation Server, focusing on technical challenges and operational steps rather than integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of validation and backups, these do not align with the proactive principles of the Shift-Left Strategy.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:43:52",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses a complex migration process and highlights the need for iterative improvements and adjustments to enhance efficiency. However, it primarily focuses on technical challenges and specific steps rather than a broader commitment to Continuous Improvement principles. While there are elements of learning and adaptation, the overall emphasis is more on problem-solving than on fostering a culture of Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:43:55",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
     "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server migrations and the complexities involved in the process. While it touches on the need for collaboration and coordination among teams, it does not explicitly discuss shared objectives or strategic alignment, which are central to the concept of Common Goals in Agile and DevOps. The discussion lacks depth in exploring how these goals connect to the overall mission of the organisation or the impact on organisational performance.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:43:57",
+    "calculated_at": "2025-04-10T15:55:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily focuses on the technical complexities of Team Foundation Server migrations, with limited direct discussion on competence as a foundational principle. While it touches on the need for skill and knowledge in executing complex processes, it lacks a thorough exploration of continuous learning, mastery, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server migrations and does not explicitly discuss Agentic Agility or its principles. While there are elements of problem-solving and adaptability in the migration process, the content lacks a clear connection to the intentional shaping of outcomes, intent, or the interplay between human and AI capabilities. The discussion is more about operational challenges than about agency or agility in a socio-technical context.",
     "level": "Ignored"
   }
 }

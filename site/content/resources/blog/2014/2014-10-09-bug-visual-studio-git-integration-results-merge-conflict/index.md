@@ -9,7 +9,7 @@ ResourceImportId: 10734
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-09
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,9 @@ aliasesArchive:
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
 tags:
-- Modern Source Control
-- Software Development
 - Troubleshooting
-- Practical Techniques and Tooling
+- Software Development
+- Modern Source Control
 - Pragmatic Thinking
 categories: []
 preview: naked-alm-git-2-2.png

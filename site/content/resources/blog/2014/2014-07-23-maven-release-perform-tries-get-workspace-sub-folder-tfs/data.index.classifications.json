@@ -8,101 +8,50 @@
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-07T14:45:18",
-    "ai_confidence": 78.0,
-    "ai_mentions": 85.0,
-    "ai_alignment": 75.0,
-    "ai_depth": 80.0,
-    "non_ai_confidence": 10,
-    "final_score": 71.0,
-    "reasoning": "The content provides a detailed discussion on the practical challenges and solutions related to using Maven with TFS, which directly aligns with the category's focus on tooling and methodologies. It discusses specific configurations, command line parameters, and the implications of workspace management in a CI/CD context. The depth of the discussion is significant, as it includes troubleshooting steps and considerations for multiple users and builds, demonstrating a practical application of techniques to improve deployment processes.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-15T04:25:51",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to build processes and configurations in TFS and Maven, which are relevant to platform engineering. However, it primarily focuses on specific technical problems and solutions rather than a broader discussion of platform engineering principles or practices. While there are mentions of build environments and workspace management, the depth of discussion does not sufficiently cover the core themes of platform engineering, such as enhancing developer productivity or automation in the application lifecycle.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-22T07:16:30",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to Maven and TFS without any focus on Evidence-Based Management principles. There are no direct mentions of empirical decision-making, current value metrics, or any of the key topics outlined in the EBM definition. The discussion is centred around troubleshooting and best practices for build processes, which does not align with the core themes of EBM.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-03-15T04:26:09",
-    "ai_confidence": 32.0,
-    "ai_mentions": 12,
-    "ai_alignment": 25,
-    "ai_depth": 20,
-    "non_ai_confidence": 20,
-    "final_score": 31.0,
-    "reasoning": "The content discusses a specific issue related to Maven and TFS, touching on aspects of code quality and deployment processes. However, while it mentions complexities in build environments and user interactions, it lacks a deeper exploration of complexity theory or best practices in coding and architecture. The focus is more on practical troubleshooting rather than a theoretical discussion of code quality and complexity, which limits its alignment with the category.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T09:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Maven and TFS without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T09:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to Maven and TFS without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T09:10:53",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T12:39:56",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 68.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses the installation and configuration of Maven with TFS, detailing specific issues encountered during the setup process and providing actionable solutions. It includes step-by-step instructions for configuring build environments and addresses common pitfalls, which aligns well with the category's focus. However, while it does provide substantial detail, some parts veer into personal opinions and broader discussions about build processes, which slightly detracts from the strict focus on installation and configuration.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T09:10:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Maven and TFS without addressing transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -122,26 +71,17 @@
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T09:11:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Maven and TFS without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-22T07:16:18",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses issues related to Maven and TFS in the context of build and release processes, which are relevant to DevOps practices. However, it primarily focuses on specific technical problems and solutions rather than the broader principles of DevOps such as collaboration, automation, or cultural shifts. While there are mentions of build environments and workspace management, the discussion lacks depth in exploring the overarching DevOps philosophy or its key topics, leading to a moderate confidence score.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -161,15 +101,6 @@
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T09:11:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Maven and TFS, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T09:11:06",
@@ -179,24 +110,12 @@
     "reasoning": "Content primarily discusses issues related to Maven and TFS integration, focusing on build failures and configuration rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-03-15T04:25:47",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 10,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with limited focus on human factors or process methodologies. While it mentions collaboration with a Java expert, the overall emphasis is on technical troubleshooting rather than team dynamics or process improvement. The discussion of multiple users and builds hints at some process considerations, but it lacks depth in exploring the interplay between people and structured methodologies.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-15T09:11:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS without addressing broader organisational agility or adaptability themes.",
     "level": "Ignored"
   },
@@ -211,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T09:11:11",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS without focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -229,13 +148,13 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-15T04:25:42",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 68.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 61.0,
+    "final_score": 68.0,
     "reasoning": "The content discusses a specific technical issue related to Maven and TFS, touching on aspects of build processes and deployment challenges. However, while it mentions some technical practices, it lacks a comprehensive exploration of broader engineering methodologies or principles that enhance agility and quality in software development. The focus is more on troubleshooting a specific problem rather than on the overarching themes of Technical Excellence such as TDD, CI/CD, or modular architecture.",
     "level": "Secondary"
   },
@@ -259,13 +178,13 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-15T04:25:55",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to the Maven release process and TFS, touching on deployment challenges and build configurations. However, it lacks a comprehensive focus on product delivery methodologies, best practices, or strategies that align with the core themes of the category. While it mentions aspects of deployment and build environments, these are not explored in depth or connected to broader product delivery principles.",
     "level": "Ignored"
   },
@@ -280,52 +199,43 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T09:11:21",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Maven and TFS integration, focusing on build processes and technical challenges, without addressing Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T09:11:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Maven and TFS, with no focus on products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T09:11:23",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-15T04:26:07",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and Maven, with a focus on build and release processes. While TFS is part of the Azure DevOps suite, the discussion does not explicitly mention Azure DevOps or its specific functionalities. The content touches on some relevant concepts, such as build environments and workspace management, but lacks depth in discussing Azure DevOps services or best practices. Overall, the content is more focused on technical issues rather than a comprehensive exploration of Azure DevOps.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-15T04:25:48",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 15.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical issues related to Maven and TFS, with minimal personal reflection or insights. While there are brief mentions of personal experiences, such as consulting with a Java expert, the overall discussion lacks depth in personal anecdotes or subjective interpretations related to Agile, Scrum, or DevOps methodologies.",
     "level": "Ignored"
   },
@@ -340,22 +250,22 @@
   },
   "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T09:11:29",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Maven and TFS, with no clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-03-22T07:16:28",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 4.0,
+    "final_score": 5.0,
     "reasoning": "The content primarily discusses technical issues related to Maven and TFS, focusing on build and release processes rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM definition. The discussion is more aligned with traditional project management and technical troubleshooting, which does not fit the category.",
     "level": "Ignored"
   },
@@ -368,24 +278,15 @@
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T09:11:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Maven and TFS, lacking a focus on industry news, updates, or reviews relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-15T04:25:44",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to the Maven release process and TFS, which are relevant to the application lifecycle, particularly in the deployment and maintenance stages. However, it lacks a comprehensive exploration of ALM methodologies, best practices, or tools. The focus is more on specific technical challenges rather than a broader discussion of application lifecycle management principles.",
     "level": "Ignored"
   },
@@ -400,24 +301,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to Maven, TFS, and build configurations without any mention of the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T14:55:31",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 67.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 60.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses a specific technical issue related to Maven and TFS, providing insights into build configurations and the implications of using different version control systems. It touches on best practices for build environments and addresses potential pitfalls in deployment processes, which aligns with the principles of software craftsmanship. However, while it provides practical solutions and insights, the discussion lacks a broader exploration of software design principles or methodologies, which limits its depth in the context of technical mastery.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -430,31 +331,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-22T07:16:33",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to Maven releases and TFS, which are relevant to the build and release process. However, it lacks a direct focus on Continuous Delivery principles, such as automation, rapid feedback, or cultural aspects. While it touches on aspects of the release process, it does not provide a comprehensive exploration of Continuous Delivery practices or benefits, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS, with a focus on build failures and configuration, lacking relevance to long-term strategic objectives or business agility.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Maven, TFS, build failures, and best practices for configuring builds rather than focusing on Lead Time as defined in the classification.",
     "level": "Ignored"
   },
@@ -469,10 +370,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS, without reference to or focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -505,10 +406,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical details related to building and releasing software using Maven and TFS, with no mention of Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -523,22 +424,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T17:57:09",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
     "ai_alignment": 30,
     "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses specific issues and solutions related to the use of Maven and TFS in a build and release context, which aligns with operational practices. It addresses the challenges of managing builds, workspace configurations, and the implications of using TFS versus SVN, which are relevant to improving operational efficiency. However, while it provides practical insights, the focus is more on troubleshooting specific technical issues rather than broader operational strategies or methodologies, leading to a moderate confidence score.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to Maven, TFS, and build processes, without any focus on Scrum teams or their dynamics.",
     "level": "Ignored"
   },
@@ -562,10 +463,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on issues related to Maven and TFS build and release processes, with no discussion on validating product ideas or user engagement.",
     "level": "Ignored"
   },
@@ -598,10 +499,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS build processes, with no central focus on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -616,40 +517,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Maven, TFS, and build processes, with no focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:33:41",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 35,
     "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 75.0,
+    "final_score": 82.0,
     "reasoning": "The content provides a detailed discussion on issues encountered while using Maven with TFS, which directly relates to software development practices, particularly in the context of build processes and version control. It discusses specific problems, solutions, and best practices for managing builds in a continuous integration environment, aligning well with the core themes of the Software Development category. The depth of the discussion is significant, as it includes technical details, potential pitfalls, and collaborative solutions, indicating a strong focus on software engineering outcomes.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical issues related to using Maven and TFS, with no focus on Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Maven and TFS integration without mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -664,15 +556,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-15T04:26:04",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 62.0,
     "ai_mentions": 15,
     "ai_alignment": 30,
     "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses issues related to using TFS (Team Foundation Server) in the context of a Maven release process, which is relevant to modern source control practices. It mentions specific problems encountered during version control operations, such as workspace management and build failures, which align with the themes of version control systems and collaboration workflows. However, while it touches on these topics, the depth of discussion is somewhat limited to specific issues rather than broader best practices or methodologies in modern source control. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -746,15 +638,6 @@
     "reasoning": "Content heavily focuses on technical details related to using Maven and TFS, with no mention or discussion about customer satisfaction principles, practices, or metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical issues related to Maven and TFS without discussing Scrum principles or challenges in scaling Scrum.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T09:57:05",
@@ -773,26 +656,17 @@
     "reasoning": "Content heavily discusses technical issues related to Maven and TFS, with no mention or relevance to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Maven and TFS without addressing scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-15T04:25:39",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
+    "final_score": 42.0,
     "reasoning": "The content discusses a specific technical issue related to Maven and TFS, touching on aspects of build processes and deployment strategies. However, while it mentions some best practices and considerations for build environments, it lacks a broader discussion on engineering excellence principles, such as software craftsmanship or quality assurance. The focus is more on troubleshooting and specific configurations rather than promoting high standards in software development practices.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -805,10 +679,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses specific technical issues and configurations related to Maven and TFS, without a focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -832,13 +706,13 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:24:42",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 78.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 70.0,
+    "final_score": 78.0,
     "reasoning": "The content discusses practical problem-solving strategies related to Maven and TFS, highlighting real-world issues encountered during a build process. It provides specific solutions and adjustments made to the build environment, demonstrating adaptability and critical thinking in a complex technical scenario. The author shares insights on managing multiple builds and users, which aligns well with the core themes of pragmatic thinking in Agile and DevOps contexts. The depth of discussion is substantial, as it includes detailed explanations of the problems faced and the solutions implemented, making it a strong fit for the category.",
     "level": "Secondary"
   },
@@ -853,29 +727,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Maven and TFS, with no clear focus on innovation practices or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Maven and TFS without any clear mention or connection to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on technical issues related to configuring Maven with TFS and does not discuss Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content primarily discusses technical issues and solutions related to Maven and TFS, with no clear focus on innovation practices or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -898,10 +754,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on issues related to TFS and Maven builds rather than on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -916,10 +772,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-15T04:25:39",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses specific technical issues related to Maven and TFS, focusing on build processes and configuration rather than the broader concepts of working software principles such as quality, user requirements, or iterative development.",
     "level": "Ignored"
   },
@@ -934,15 +790,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-15T04:25:58",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 56.0,
+    "final_score": 62.0,
     "reasoning": "The content discusses issues related to Maven and TFS in the context of build processes, which are relevant to Continuous Integration. However, it primarily focuses on specific technical problems and personal opinions rather than exploring CI principles, best practices, or tools in depth. While there are mentions of build failures and workspace management, the discussion lacks a broader exploration of CI concepts and practices.",
-    "level": "Tertiary"
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -982,10 +838,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Maven and TFS integration during build and release processes, without any mention or focus on hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
@@ -1009,13 +865,13 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T16:45:15",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 61.0,
+    "final_score": 67.0,
     "reasoning": "The content discusses issues related to the Maven release process and the implications of using TFS for version control, which are relevant to release management. It touches on the importance of a consistent deployment process and the risks associated with simultaneous builds, aligning with key topics in release management. However, the discussion lacks a structured approach to release planning and metrics, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
@@ -1030,31 +886,31 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Maven release processes and TFS, with no focus on cycle time measurement or its implications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-15T04:26:00",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and Maven, with a focus on build processes and workspace management. While it touches on aspects of build and release processes, it does not specifically address Azure Pipelines or its features. The mention of TFS indicates a broader context of version control and build management rather than a focused discussion on Azure Pipelines. The depth of discussion is limited to specific problems encountered during a build process, lacking comprehensive coverage of Azure Pipelines' principles, practices, or configurations.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Maven and TFS, focusing on configuration and build environments rather than deployment frequency or optimization strategies.",
     "level": "Ignored"
   },
@@ -1069,22 +925,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-15T04:25:53",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 30.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses technical issues related to TFS and Maven, with some mention of collaboration with a Java expert to solve a problem. However, the primary focus is on technical troubleshooting rather than enhancing team dynamics or collaboration strategies. While there are elements of teamwork in consulting with another expert, the overall discussion does not align closely with the core themes of team collaboration as defined in the category.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to Maven, TFS, and build processes, with no focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1097,7 +953,7 @@
     "reasoning": "Content primarily discusses technical issues related to Maven and TFS, without addressing digital transformation strategies or topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T09:57:05",
     "ai_confidence": 0,
@@ -1106,24 +962,15 @@
     "reasoning": "The content primarily discusses technical issues related to Maven, TFS, and build processes, with no clear focus on Minimum Viable Products or the themes associated with MVP development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Maven, TFS, and build processes, without focusing on the application of AI in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T14:43:42",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
     "ai_alignment": 32,
     "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 66.0,
+    "final_score": 72.0,
     "reasoning": "The content primarily discusses issues related to configuring Maven with TFS, including specific command line parameters and workspace management. It provides detailed insights into the configuration challenges faced during the transition from SVN to TFS, which aligns well with the category of System Configuration. The discussion includes best practices for build environments, workspace management, and the implications of multiple users and builds, all of which are relevant to system configuration. However, while the content is rich in practical examples, it occasionally veers into personal opinions and experiences, which slightly detracts from its focus on technical configuration aspects.",
     "level": "Secondary"
   },
@@ -1165,11 +1012,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues with Maven and TFS during build and release processes, rather than focusing on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to Maven and TFS during a transition from SVN, focusing on build and release processes rather than Test First Development principles. There are no explicit mentions of success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category. The discussion lacks depth in relation to the key topics outlined for Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1183,10 +1033,10 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to integrating Maven with TFS and build environment configuration, rather than deployment strategies.",
     "level": "Ignored"
   },
@@ -1201,19 +1051,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS and Maven, with no focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical issues related to Maven and TFS, without discussing remote work practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1228,15 +1078,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T11:50:11",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 87.0,
     "ai_mentions": 80.0,
     "ai_alignment": 90.0,
     "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 78.0,
+    "final_score": 87.0,
     "reasoning": "The content primarily focuses on troubleshooting a specific issue encountered when using Maven with TFS, detailing the problem, its implications, and the solution. It discusses the identification of the issue, the potential risks involved, and provides a clear resolution strategy, aligning well with the core themes of the Troubleshooting category. The depth of discussion is substantial, as it includes technical details, error messages, and practical solutions, demonstrating a thorough understanding of the troubleshooting process.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1249,11 +1099,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical challenges related to Maven and TFS, not the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with no direct mention of Scrum Master responsibilities or concepts. While there are some elements of team collaboration and problem-solving, they are not framed within the context of Scrum or the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1267,23 +1120,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues related to Maven and TFS without addressing teamwork, collaboration, or working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-03-15T04:26:14",
-    "ai_confidence": 32.0,
-    "ai_mentions": 15.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses a specific technical issue related to Maven and TFS, which is relevant to software development. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on a particular problem and its solution. While it touches on aspects of build processes and collaboration among developers, it does not delve into best practices or principles of Agile or DevOps, which are central to the category. Therefore, the confidence score reflects a moderate relevance to the category.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1297,13 +1138,13 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-15T04:26:16",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
     "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
+    "final_score": 32.0,
     "reasoning": "The content discusses issues related to Maven and TFS, focusing on build processes and configurations. While it touches on aspects of automation and deployment, it lacks a strong emphasis on core engineering practices such as clean code, TDD, or CI/CD methodologies. The discussion is more technical and specific to a particular tool rather than a broader exploration of Agile engineering principles. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not strongly support the category of Engineering Practices.",
     "level": "Ignored"
   },
@@ -1363,15 +1204,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-15T04:26:12",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
+    "final_score": 45.0,
     "reasoning": "The content discusses issues related to TFS (Team Foundation Server), which is closely associated with Azure Repos, particularly in the context of source control and build processes. However, the focus is more on the challenges of using Maven with TFS rather than a comprehensive exploration of Azure Repos functionalities. While it touches on relevant topics like workspace management and build configurations, it lacks a deeper discussion on Azure Repos' specific features, best practices, or integration with CI/CD pipelines. Therefore, while there is some relevance, it does not fully align with the core themes of Azure Repos.",
-    "level": "Ignored"
+    "level": "Tertiary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1384,10 +1225,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical issues related to using Maven with TFS, addressing specific build errors and configurations, rather than discussing Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1409,15 +1250,6 @@
     "reasoning": "The content primarily discusses technical issues and solutions related to Maven and TFS rather than team dynamics, ownership, or accountability within Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on issues related to Maven, TFS, and build processes, which are not aligned with Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T09:57:05",
@@ -1429,10 +1261,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T09:57:05",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to integrating Maven with TFS for build and release processes, without focusing on the principles or practices of Test Driven Development.",
     "level": "Ignored"
   },
@@ -1447,13 +1279,13 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-19T18:27:02",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical issues related to Maven and TFS, with minimal discussion on collaboration, decision-making, or value delivery. While it briefly mentions consulting with a Java expert, this does not constitute a significant exploration of social technologies or their principles. The content lacks depth in discussing frameworks or methodologies that promote collaboration or enhance decision-making within organisations.",
     "level": "Ignored"
   },
@@ -1477,62 +1309,74 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-15T04:25:39",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
     "ai_alignment": 10.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to Maven and TFS, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical challenges rather than Scrum practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Shift-Left Strategy": {
     "category": "Shift-Left Strategy",
-    "calculated_at": "2025-03-17T16:18:03",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily discusses issues related to Maven and TFS, focusing on build processes and configuration rather than integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of build environments and user management, these do not align with the core principles of the Shift-Left Strategy, which emphasises proactive measures in software quality and delivery.",
     "level": "Ignored"
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
-    "calculated_at": "2025-03-22T07:16:21",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
     "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 11.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on resolving technical issues related to Maven and TFS, with minimal discussion on Continuous Improvement principles. While it touches on best practices and problem-solving, it lacks a clear commitment to ongoing reflection, adaptation, or a culture of experimentation that characterises Continuous Improvement. The mention of improving build processes is too vague and does not provide substantial insights into strategies or frameworks that support Continuous Improvement.",
     "level": "Ignored"
   },
   "Common Goals": {
     "category": "Common Goals",
-    "calculated_at": "2025-03-22T07:16:23",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
     "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 13.0,
+    "final_score": 12.0,
     "reasoning": "The content primarily focuses on technical issues related to Maven and TFS, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on collaboration and build processes, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
     "level": "Ignored"
   },
   "Competence": {
     "category": "Competence",
-    "calculated_at": "2025-03-22T07:16:25",
+    "calculated_at": "2025-04-10T15:55:00",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
+    "final_score": 25.0,
     "reasoning": "The content primarily discusses technical issues related to Maven and TFS, with a focus on resolving specific build problems. While there are brief mentions of best practices and the importance of understanding the tools, the discussion lacks a strong emphasis on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is more about troubleshooting than fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Maven and TFS, focusing on build processes and error resolution. It does not explicitly address Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes through autonomy or adaptability. The discussion lacks depth in terms of the transformative capacity of individuals or systems, and it does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

@@ -9,7 +9,7 @@ ResourceImportId: 5702
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-30
-weight: 720
+weight: 690
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,14 +26,12 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Software Development
-- Practical Techniques and Tooling
+- System Configuration
 - Release Management
 - Pragmatic Thinking
-- Modern Source Control
 - Azure DevOps
-- Windows
+- Modern Source Control
 categories: []
 
 ---

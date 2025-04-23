@@ -2,7 +2,7 @@
 title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
 description: Discover the overlooked virtue of chastity in agility. Learn how to implement changes thoughtfully for true organisational transformation.
 date: 2023-12-04T08:39:06Z
-weight: 820
+weight: 800
 ResourceId: vftc6m70a0w
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -25,13 +25,12 @@ preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
 tags:
-- People and Process
 - Organisational Agility
+- Agile Philosophy
 - Organisational Change
+- Sociotechnical Systems
 - Agile Transformation
 - Organisational Culture
-- Agile Philosophy
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

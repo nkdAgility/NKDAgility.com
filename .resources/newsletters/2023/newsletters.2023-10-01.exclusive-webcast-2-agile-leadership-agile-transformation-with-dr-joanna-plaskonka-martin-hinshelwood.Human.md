@@ -6,7 +6,7 @@ ResourceImport: true
 ResourceType: newsletters
 ResourceContentOrigin: Human
 date: 2023-10-01
-weight: 695
+weight: 665
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -20,15 +20,13 @@ aliasesArchive:
 - /resources/newsletters/exclusive-webcast-2-agile
 categories:
 - Leadership
-- Social Technologies
 tags:
-- Events and Presentations
 - Agile Transformation
 - Agile Leadership
-- People and Process
 - Organisational Agility
-- News and Reviews
+- Enterprise Agility
 - Organisational Change
+- Software Development
 
 ---
 **🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Software Development
-- Agile Product Management
 - Agile Planning
+- Agile Product Management
 - Product Delivery
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Product Development
 
 ---
 **What is a product backlog?**

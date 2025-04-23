@@ -9,7 +9,7 @@ ResourceImportId: 10301
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-12-11
-weight: 585
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,18 +33,17 @@ aliasesArchive:
 - /resources/blog/professional-scrum-immingham-uk
 tags:
 - Software Development
-- Events and Presentations
-- Agile Project Management
-- People and Process
 - Team Collaboration
-- Team Performance
 - Agile Frameworks
-- Scrum Product Development
+- Team Performance
+- Agile Transformation
 - Scrum Team
+- Pragmatic Thinking
 - Professional Scrum
+- Social Technologies
+- Sociotechnical Systems
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

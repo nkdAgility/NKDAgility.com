@@ -2,7 +2,7 @@
 title: What is the one thing a PSPO course forces you to focus on?
 description: Discover the key focus of the PSPO course and how it empowers product owners to drive value and customer satisfaction in Scrum environments.
 date: 2023-05-15T14:00:13Z
-weight: 805
+weight: 790
 ResourceId: GIq3LZUnWx4
 ResourceType: videos
 ResourceContentOrigin: AI
@@ -29,14 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
 - Agile Product Management
 - Value Delivery
+- Product Owner
 - Agile Philosophy
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value
