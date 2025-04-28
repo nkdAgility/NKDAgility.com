@@ -42,6 +42,21 @@ $catalogues["catalog"]["concepts"] = Get-CatalogHashtable -Classification "conce
 $catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"] + $catalogues["catalog"]["concepts"]
 $catalogues["marketing"] = Get-CatalogHashtable -Classification "marketing"
 
+
+function Get-Classifications {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown[]]$hugoMarkdown
+    )
+
+    foreach ($markdown in $hugoMarkdown) {
+
+    }
+
+}
+
+
+
 function Get-ClassificationsForType {
     param (
         [Parameter(Mandatory = $true)]
@@ -250,6 +265,7 @@ function Get-ClassificationsForType {
         $prompts = @()
         foreach ($category in $CatalogItemsToRefreshOrGet) {
             $prompt = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
+                resourceId   = $hugoMarkdown.FrontMatter.resourceId
                 category     = $category
                 Instructions = $Catalog[$category].Instructions
                 title        = $hugoMarkdown.FrontMatter.Title
@@ -465,7 +481,6 @@ function Get-ConfidenceFromAIResponse {
         "level"             = Get-ComputedLevel -confidence $finalScore
     }
 }
-
 
 function Remove-ClassificationsFromCache {
     param (

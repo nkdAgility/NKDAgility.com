@@ -30,6 +30,7 @@ Each dimension contributes to the final confidence score.
 return format should be valid json that looks like this:
 {
 "category": "{{category}}",
+"resourceId": "{{resourceId}}",
 "confidence": 0,
 "mentions: 0,
 "alignment": 0,
@@ -43,6 +44,6 @@ do not wrap the json in anything else, just return the json object.
 **Content Description:** "{{abstract}}"
 **Content:**
 
-```
+"""
 {{content}}
-```
+"""
