@@ -1,5 +1,6 @@
 ---
 title: Metrics and Learning
+abstract: Metrics and Learning is a fundamental concept that centres on the utilisation of data, metrics, and feedback to drive continuous improvement within teams and organisational processes. Originating from the need for empirical decision-making, this approach allows organisations to enhance their value delivery by systematically collecting and analysing performance metrics. By doing so, teams can pinpoint areas for enhancement, monitor their progress, and adjust their strategies in alignment with changing customer demands. The focus on learning through metrics fosters a culture of experimentation and adaptability, enabling teams to respond swiftly to feedback and pivot as necessary. This systemic approach not only facilitates immediate improvements but also lays the groundwork for sustained development and innovation. Unlike methodologies that may be prescriptive, Metrics and Learning empowers teams to take ownership of their performance, which is essential for maintaining agility in a fast-paced environment. By integrating metrics into everyday operations, organisations can establish a continuous feedback loop that informs practices and strategies, ultimately leading to more effective and resilient product development.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

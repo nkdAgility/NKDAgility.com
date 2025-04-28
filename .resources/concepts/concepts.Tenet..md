@@ -1,5 +1,6 @@
 ---
 title: Tenet
+abstract: A tenet is a specific, actionable guiding rule or doctrine that reinforces a larger philosophy within an organisation, distinguishing itself from values and principles by providing prescriptive direction for team behaviour in specific situations. Originating from frameworks like Kanban and Agile, tenets such as "Flow efficiency over resource efficiency" and "decentralised decision-making" translate overarching philosophies into concrete actions, thereby enhancing operational efficiency and responsiveness. Their importance lies in their ability to create a consistent organisational culture, guiding decision-making and behaviour across teams while remaining stable amidst changing practices. By embedding tenets into daily operations, organisations can align actions with broader philosophical frameworks, fostering a culture of continuous improvement and learning, which is essential for sustainable success in dynamic environments. Tenets serve as the foundation for collective behaviour, ensuring that teams work cohesively towards shared goals, ultimately driving adaptability and effectiveness in product development and organisational design.
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00

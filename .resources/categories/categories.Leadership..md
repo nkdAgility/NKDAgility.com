@@ -1,5 +1,6 @@
 ---
 title: Leadership
+abstract: Leadership is a fundamental aspect of organisational agility, acting as the catalyst for accountability and the continuous delivery of value. It originates from the need to navigate complex transformations within teams, promoting an atmosphere where innovation and collaboration are essential. Effective leadership goes beyond traditional management; it involves nurturing a culture that welcomes change and fosters adaptive thinking. In Agile, Lean, and DevOps contexts, leadership focuses on empowering individuals rather than merely directing tasks, facilitating decision-making that allows teams to swiftly adapt to shifting demands and customer needs. This systemic approach to leadership has far-reaching implications, affecting not only immediate results but also the long-term sustainability of the organisation. By emphasising the development of leadership capabilities, organisations can establish a robust foundation for success, ensuring that teams are well-equipped to deliver consistent value in a dynamic environment. This leadership model is crucial for creating a space where innovation and collaboration can thrive, ultimately propelling the organisation towards its goals.
 ClassificationType: categories
 ClassificationContentOrigin: AI
 trustpilot: false

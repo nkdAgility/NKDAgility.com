@@ -1,5 +1,6 @@
 ---
 title: Continuous Delivery
+abstract: Continuous Delivery is a software delivery practice that focuses on producing software in short, reliable cycles, enabling teams to release updates at any time. Originating from the need for more efficient and responsive software development processes, it involves delivering small, incremental improvements directly to users from the initial stages of development. This approach, as defined by Jez Humble, emphasises the ability to safely and quickly implement changes—such as new features, configuration adjustments, and bug fixes—into production. The importance of Continuous Delivery lies in its capacity to facilitate rapid validation of assumptions and collection of user feedback, which are crucial for refining products and achieving valuable outcomes. By automating essential processes like testing, integration, and deployment, Continuous Delivery not only mitigates the risk of errors but also enhances software quality and accelerates the time it takes to deliver value to users. Teams that adopt this practice can more effectively respond to market demands and stakeholder input, thereby fostering a culture of continuous learning, innovation, and adaptability within their organisations.
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-21T13:37:32Z

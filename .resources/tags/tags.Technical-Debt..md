@@ -1,5 +1,6 @@
 ---
 title: Technical Debt
+abstract: Technical debt is the concept that encapsulates the hidden costs associated with opting for quick, suboptimal solutions in software development rather than investing time in more effective, long-term strategies. It often emerges from factors such as hurried development processes, insufficient documentation, or reliance on outdated technologies. Recognising and managing technical debt is essential for teams striving to deliver consistent and sustainable value, as its accumulation can impede innovation and responsiveness to market changes, ultimately compromising product quality and delivery timelines. Addressing technical debt requires a commitment to refactoring, enhancing code quality, and adopting superior tools and practices, which not only boosts team efficiency but also cultivates a culture of continuous improvement. By systematically tackling technical debt, organisations can sustain a healthy development pace, ensuring competitiveness and responsiveness to customer demands. This strategic focus on technical debt is crucial for fostering organisational agility, as it directly impacts the ability to innovate and adapt in a fast-evolving landscape.
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
@@ -30,7 +31,7 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:48:15
 concepts:
-- Practice
+- Capability
 
 ---
 Technical debt refers to the implied cost of additional rework caused by choosing an easy, limited solution now instead of a better, more comprehensive approach that would take longer. It arises from various factors, including rushed development, lack of documentation, or outdated technology. Recognising and managing technical debt is crucial for teams aiming to deliver value predictably and sustainably. When technical debt accumulates, it can hinder a team's ability to innovate and respond to changing market demands, ultimately affecting product quality and delivery speed.

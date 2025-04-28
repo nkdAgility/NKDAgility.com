@@ -45,6 +45,8 @@ $concepts = $hugoMarkdownList | Where-Object {
     $_.FrontMatter.ClassificationType -in @('concepts')
 }
 
+
+
 foreach ($concept in $concepts) {
     $conceptName = $concept.FrontMatter.title  # This assumes the "Title" field is set correctly for each item
     # Ensure that the concept exists in the structure
@@ -75,6 +77,8 @@ $ResourceCatalogue = @{};
 # Total count for progress tracking
 $TotalFiles = $hugoMarkdownList.Count
 $Counter = 0
+
+# $hugoMarkdownList = @($hugoMarkdownList | Where-Object { $_.FrontMatter.title -eq "Deployment Frequency" })
 
 $hugoMarkdownList | ForEach-Object {
 
@@ -195,7 +199,7 @@ $hugoMarkdownList | ForEach-Object {
 
     if ($hugoMarkdown.BodyContent -and $hugoMarkdown.FolderPath -notlike "*concepts*") {
         $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
-        $typesClassificationOrdered = Get-ClassificationOrderedList -minScore 60 -byLevel -classifications $typesClassification | Select-Object -First 1
+        $typesClassificationOrdered = @(Get-ClassificationOrderedList -minScore 60 -classifications $typesClassification | Select-Object -First 1)
         $types = $typesClassificationOrdered | ForEach-Object { $_.category }
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($types) -Overwrite
     }

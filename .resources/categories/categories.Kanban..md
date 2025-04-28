@@ -1,5 +1,6 @@
 ---
 title: Kanban
+abstract: Kanban is a change management strategy that focuses on improving workflow and value delivery within organisations, rather than being merely a tool or visual board. Originating from Lean principles and systems thinking, Kanban encourages teams to begin with their current processes, fostering an understanding of existing systems to facilitate evolutionary improvements. Unlike prescriptive frameworks that dictate roles or time constraints, Kanban emphasises observability through visualisation of work, limiting work in progress, managing flow, and making policies explicit. This approach helps identify bottlenecks and supports evidence-based enhancements without necessitating major organisational changes. By complementing methodologies like Scrum and DevOps, Kanban enhances transparency and decision-making, allowing teams to adapt their practices over time based on feedback and performance metrics such as lead time and throughput. While often misconceived as merely a visual task management tool, the true strength of Kanban lies in its ability to create a shared understanding of system dynamics, enabling strategic improvements. This empowers teams to deliver value in a predictable, sustainable manner, making Kanban a vital strategy for organisations operating in complex and rapidly changing environments.
 ClassificationType: categories
 trustpilot: false
 date: 2025-02-11T10:16:54Z
@@ -36,7 +37,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Strategy
+- Practice
 
 ---
 Kanban is a strategy for change, not a tool or board. As defined in the Kanban Guide, it enables organisations to “start with what they do now,” understand their current system, and improve flow and value delivery through evolutionary change. It is rooted in Lean principles and systems thinking, focusing on how work flows rather than what work gets done.

@@ -1,5 +1,6 @@
 ---
 title: Platform Engineering
+abstract: Platform Engineering is the discipline focused on the design, construction, and maintenance of internal platforms that empower developers to deliver value independently, reliably, and swiftly. Originating from the need to streamline software development processes, it aims to alleviate cognitive load by abstracting the complexities of infrastructure and operations through well-crafted interfaces, tools, and APIs. This approach treats platforms as products, ensuring clear ownership, regular feedback, and ongoing enhancements based on developer requirements. A robust platform engineering capability fosters paved paths and self-service tools that facilitate secure, observable, and resilient software delivery while avoiding constraints that stifle innovation. By creating an environment conducive to rapid feedback, safe experimentation, and autonomous delivery across teams, Platform Engineering not only provides essential tools but also cultivates a cohesive developer experience that aligns with organisational strategy, ultimately enabling continuous value delivery at scale.
 ClassificationType: tags
 ClassificationContentOrigin: human
 trustpilot: false

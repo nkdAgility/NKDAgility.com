@@ -1,5 +1,6 @@
 ---
 title: Scaling
+abstract: Scaling refers to the capacity of an organisation to effectively coordinate multiple teams in the delivery of complex products while maintaining agility. This concept originates from the need to align efforts, optimise workflow, and enhance value delivery across the enterprise. It is particularly important in the contexts of agile methodologies and DevOps, as it allows organisations to respond swiftly to market changes without compromising on quality or speed. By implementing lean principles and adaptive product structures, scaling promotes a cohesive approach to product development, enabling teams to operate autonomously while remaining aligned with broader business objectives. This alignment is crucial for maximising efficiency and minimising waste, thereby leveraging the organisation's collective capabilities. Furthermore, scaling fosters a culture of continuous improvement, where feedback loops and collaboration are integral to the development process. By prioritising these aspects, organisations can achieve sustainable growth and deliver value consistently, enhancing their competitive advantage in a rapidly changing environment. Ultimately, scaling is not just about increasing size but about establishing a robust framework that supports innovation and responsiveness throughout the organisation.
 date: 2025-04-09T13:53:11Z
 ClassificationType: tags
 ClassificationContentOrigin: AI
@@ -31,7 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Framework
+- Strategy
 
 ---
 Scaling refers to the ability of an organisation to coordinate multiple teams effectively in order to deliver complex products while maintaining agility. This concept is crucial as it enables organisations to align their efforts, optimise flow, and enhance value delivery across the enterprise. By applying lean principles and adaptive product structures, scaling facilitates a cohesive approach to product development, ensuring that teams can respond swiftly to changing market demands without sacrificing quality or speed.
