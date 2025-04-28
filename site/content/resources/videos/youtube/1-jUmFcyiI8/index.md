@@ -57,7 +57,7 @@ categories:
 - DevOps
 
 ---
-In my journey through the world of software development, I've come to realise that deployment frequency is a crucial leading indicator of a company's ability to reduce time to market. It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've come to realise that [deployment frequency]({{< ref "/tags/deployment-frequency" >}}) is a crucial leading indicator of a company's ability to reduce [time to market]({{< ref "/tags/time-to-market" >}}). It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.
 
 ### Understanding Deployment Metrics
 
@@ -83,7 +83,7 @@ As a delivery manager, I often grapple with the question of speed. There’s a p
 
 - **Business Demands**: If the business doesn’t require rapid changes, pushing for speed can lead to unnecessary risks. However, if we can shorten feedback loops, we can iterate more effectively and respond to real-time data.
 
-- **Handling Opportunities**: When a business opportunity arises, the pressure to deliver can be immense. If your team is accustomed to continuous delivery, adding new features becomes less daunting. You can ship quickly, iterate, and refine based on user feedback.
+- **Handling Opportunities**: When a business opportunity arises, the pressure to deliver can be immense. If your team is accustomed to [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), adding new features becomes less daunting. You can ship quickly, iterate, and refine based on user feedback.
 
 ### Building Trust and Collaboration
 

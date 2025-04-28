@@ -44,13 +44,13 @@ categories:
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.
 
-### The Reality of Scaling Teams
+### The Reality of [Scaling]({{< ref "/tags/scaling" >}}) Teams
 
 When organisations rush to expand their teams, they often overlook a critical factor: how these teams are working together. Here are some of the pitfalls I’ve observed:
 
 - **Increased Dependencies**: More teams can lead to more dependencies, which complicates coordination and slows down progress.
 - **Out of Sync**: Teams that aren’t aligned in their goals and processes can find themselves working at cross purposes, leading to confusion and delays.
-- **Technical Debt**: As teams scramble to deliver features, they may cut corners, resulting in a build-up of technical debt that can haunt them later.
+- **[Technical Debt]({{< ref "/tags/technical-debt" >}})**: As teams scramble to deliver features, they may cut corners, resulting in a build-up of technical debt that can haunt them later.
 - **Coordination Overhead**: Instead of focusing on delivering value, teams spend excessive time coordinating with one another, which detracts from their productivity.
 
 ### The Naked Agility Approach

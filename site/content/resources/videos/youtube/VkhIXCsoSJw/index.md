@@ -63,19 +63,19 @@ When it comes to developing complex products, one of the most significant steps 
 
 Automating everything is crucial for instilling confidence in our engineering teams. Here’s what I mean by that:
 
-- **Automated Testing**: This is non-negotiable. We need to ensure that every piece of code we write is automatically tested. This not only saves time but also helps catch issues early in the development cycle.
+- **[Automated Testing]({{< ref "/tags/automated-testing" >}})**: This is non-negotiable. We need to ensure that every piece of code we write is automatically tested. This not only saves time but also helps catch issues early in the development cycle.
   
 - **Automated Deployment**: Continuous deployment to production hinges on our ability to automate the deployment process. The more we can automate, the more frequently we can release updates.
 
 - **Automated Validation**: Collecting telemetry data from our products allows us to validate our assumptions and decisions automatically. This feedback loop is invaluable.
 
-A prime example of this can be seen in the Azure DevOps team. When they transitioned to deploying their cloud version of the product, they faced significant challenges. They were accustomed to biannual releases, but suddenly, they were aiming for three releases every week. This shift required a complete overhaul of their approach to automation.
+A prime example of this can be seen in the Azure [DevOps]({{< ref "/categories/devops" >}}) team. When they transitioned to deploying their cloud version of the product, they faced significant challenges. They were accustomed to biannual releases, but suddenly, they were aiming for three releases every week. This shift required a complete overhaul of their approach to automation.
 
-### Tackling Technical Debt
+### Tackling [Technical Debt]({{< ref "/tags/technical-debt" >}})
 
-The Azure DevOps team had to confront their technical debt head-on. They were dealing with poor-quality code and a testing infrastructure that was, frankly, terrible. Imagine waiting 48 hours to find out if a code change was successful! Their regression suite took even longer—up to a week. This was simply unacceptable.
+The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team had to confront their technical debt head-on. They were dealing with poor-quality code and a testing infrastructure that was, frankly, terrible. Imagine waiting 48 hours to find out if a code change was successful! Their regression suite took even longer—up to a week. This was simply unacceptable.
 
-To address this, they focused on reducing their cycle time—the time it takes to learn from an idea to deployment and back again. They identified their testing infrastructure as a major bottleneck. By converting long-running functional tests into short, efficient unit tests, they flipped their testing pyramid. Over four years, they transformed their testing strategy from 80,000 long-running tests to an impressive 880,000 short tests. This monumental shift reduced their feedback loop from 48 hours to just three and a half minutes.
+To address this, they focused on reducing their [cycle time]({{< ref "/tags/cycle-time" >}})—the time it takes to learn from an idea to deployment and back again. They identified their testing infrastructure as a major bottleneck. By converting long-running functional tests into short, efficient unit tests, they flipped their testing pyramid. Over four years, they transformed their testing strategy from 80,000 long-running tests to an impressive 880,000 short tests. This monumental shift reduced their feedback loop from 48 hours to just three and a half minutes.
 
 ### Empowering Developers
 
@@ -89,7 +89,7 @@ As we improve our internal processes, we also enhance our customers' confidence 
 
 In complex systems like Azure DevOps, confidence must permeate every level of the organisation. Each team member needs to trust that the components they rely on from other teams will meet the necessary quality standards. This trust is built through a shared commitment to quality and attention to detail.
 
-### Conclusion: The Path to Continuous Delivery
+### Conclusion: The Path to [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}})
 
 In summary, the journey towards continuous delivery is paved with automation. There should be no room for manual testing in our processes. While we may need temporary solutions—like the Twitter sentiment bot that monitored negative feedback during deployments—these should only serve as crutches while we work towards full automation.
 

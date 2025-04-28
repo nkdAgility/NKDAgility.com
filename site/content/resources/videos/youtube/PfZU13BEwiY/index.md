@@ -41,7 +41,7 @@ categories:
 - DevOps
 
 ---
-Scaling without managing technical debt is a recipe for disaster. I’ve seen it time and again in my journey through various organisations. Technical debt can be a silent killer, gradually slowing everything down until it becomes a major blocker. Every quick fix or shortcut we take may seem harmless at first, but as we scale, those seemingly minor decisions can snowball into significant issues. 
+[Scaling]({{< ref "/tags/scaling" >}}) without managing [technical debt]({{< ref "/tags/technical-debt" >}}) is a recipe for disaster. I’ve seen it time and again in my journey through various organisations. Technical debt can be a silent killer, gradually slowing everything down until it becomes a major blocker. Every quick fix or shortcut we take may seem harmless at first, but as we scale, those seemingly minor decisions can snowball into significant issues. 
 
 ### The Hidden Costs of Technical Debt
 
@@ -57,11 +57,11 @@ When we ignore technical debt, we’re essentially piling on complexity. Here’
 
 Scaling isn’t just about adding resources; it’s about ensuring that we’re building on a stable foundation. If our architecture isn’t solid, every new addition becomes a risk. This is where the concept of naked agility comes into play. 
 
-In my experience, working with teams to implement sustainable architecture and DevOps practices is crucial. Here’s how we can tackle this challenge:
+In my experience, working with teams to implement sustainable architecture and [DevOps]({{< ref "/categories/devops" >}}) practices is crucial. Here’s how we can tackle this challenge:
 
 - **Identify Weak Points**: We need to take a hard look at our systems and identify areas that are vulnerable. This might involve code reviews, architectural assessments, or even just honest conversations with the team about pain points.
 
-- **Implement Sustainable Practices**: Once we’ve identified the weak spots, we can start implementing practices that promote sustainability. This includes adopting automated testing, continuous integration, and streamlined deployment processes.
+- **Implement Sustainable Practices**: Once we’ve identified the weak spots, we can start implementing practices that promote sustainability. This includes adopting [automated testing]({{< ref "/tags/automated-testing" >}}), [continuous integration]({{< ref "/tags/continuous-integration" >}}), and streamlined deployment processes.
 
 ### The Power of Automation
 

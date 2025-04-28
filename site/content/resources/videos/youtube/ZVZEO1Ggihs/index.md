@@ -47,7 +47,7 @@ categories:
 - Leadership
 
 ---
-Scaling isn't merely a technical challenge; it’s fundamentally a leadership challenge. Over the years, I’ve observed that when companies embark on the journey of scaling, their focus often narrows to architecture, infrastructure, and tools. While these elements are undeniably important, the real constraint lies in leadership. At scale, the way people think, collaborate, and make decisions has a far greater impact than any technology could.
+[Scaling]({{< ref "/tags/scaling" >}}) isn't merely a technical challenge; it’s fundamentally a [leadership]({{< ref "/categories/leadership" >}}) challenge. Over the years, I’ve observed that when companies embark on the journey of scaling, their focus often narrows to architecture, infrastructure, and tools. While these elements are undeniably important, the real constraint lies in leadership. At scale, the way people think, collaborate, and make decisions has a far greater impact than any technology could.
 
 As I engage with CTOs, CIOs, and IT managers, I find it crucial to emphasise that scaling isn’t about simply funding more teams or throwing additional engineers at the problem. Instead, it’s about cultivating an environment where scaling is not just possible but sustainable. Here are some key aspects to consider:
 

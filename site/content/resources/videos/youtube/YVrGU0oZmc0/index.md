@@ -58,15 +58,15 @@ categories:
 - DevOps
 
 ---
-In my journey through the world of software development, one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates continuous delivery but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.
 
 ### Embracing Incremental Delivery
 
 When we talk about continuous delivery, it’s essential to accept that we might deploy features that aren’t quite ready for the end user. This doesn’t mean we’re throwing caution to the wind; rather, it’s about delivering small increments of functionality. For instance, you might have a feature that requires multiple deployments to reach its final form. Imagine you want to deliver 10% of a feature now, with the remaining 90% to follow later. This is where feature flags come into play.
 
-#### A Real-World Example: Azure DevOps
+#### A Real-World Example: Azure [DevOps]({{< ref "/categories/devops" >}})
 
-The Azure DevOps team exemplifies this practice beautifully. When you log into their platform, you’ll notice a button in the top right corner that allows you to access preview features. This is a clear indication of how they manage feature flags. Here’s how it works:
+The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team exemplifies this practice beautifully. When you log into their platform, you’ll notice a button in the top right corner that allows you to access preview features. This is a clear indication of how they manage feature flags. Here’s how it works:
 
 - **Development Phase**: When developers are working on an update, they often ship smaller changes directly. However, for significant new functionalities, they hide these behind feature flags.
 - **Internal Testing**: Initially, the feature is enabled only for the developers’ accounts. They monitor telemetry to assess performance and identify any issues.

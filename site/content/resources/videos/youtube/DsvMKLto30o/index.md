@@ -58,7 +58,7 @@ categories:
 - DevOps
 
 ---
-I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for continuous delivery, they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.
+I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.
 
 ### The Path to Continuous Delivery
 
@@ -67,7 +67,7 @@ Let’s be clear: achieving continuous delivery is not an insurmountable challen
 - **Assess Your Product**: If your software resembles a lumbering, 500-pound gorilla, it’s time to rethink your approach. A bloated product cannot adapt quickly to new demands. 
 - **Commit to Change**: Just as you would if you were trying to get fit, you need to commit to changing your software’s architecture and processes. This means investing time and effort into making your product leaner and more responsive.
 
-### Drawing Parallels with Personal Fitness
+### Drawing Parallels with [Personal]({{< ref "/tags/personal" >}}) Fitness
 
 Consider your own health. If you aspire to achieve a physique like Hugh Jackman in *Wolverine*, you wouldn’t expect to get there without significant lifestyle changes. You’d need to:
 
@@ -82,13 +82,13 @@ The same principles apply to your software. If you want it to be agile and capab
 I often see organisations, particularly in industries like aviation, struggle with legacy systems. These systems are like old mainframes that have been patched over the years but never truly updated. For instance, I’ve heard stories about American Airlines having to pull retired engineers out of retirement homes to fix their outdated systems. This is a clear sign of a knowledge gap and a lack of organisational will to modernise.
 
 - **Recognise the Risks**: When systems are neglected, they become ticking time bombs. The recent outages at major airlines highlight this risk. They often stem from a failure to maintain and upgrade core systems, leading to catastrophic failures when external issues arise.
-- **Invest in Resilience**: To avoid these pitfalls, organisations must invest in robust application lifecycle management. This means not just building a system and walking away but continuously improving and maintaining it.
+- **Invest in Resilience**: To avoid these pitfalls, organisations must invest in robust [application lifecycle management]({{< ref "/tags/application-lifecycle-management" >}}). This means not just building a system and walking away but continuously improving and maintaining it.
 
-### The Importance of Continuous Improvement
+### The Importance of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
-The reality is that software development is an ongoing process. Just as maintaining fitness is easier than achieving it, keeping your software in good shape is less challenging than getting it there in the first place. However, it still requires consistent effort and investment.
+The reality is that [software development]({{< ref "/tags/software-development" >}}) is an ongoing process. Just as maintaining fitness is easier than achieving it, keeping your software in good shape is less challenging than getting it there in the first place. However, it still requires consistent effort and investment.
 
-- **Learn from Others**: Take a page from the Windows team’s playbook. They transformed their delivery process from a six-year cycle to continuous delivery by addressing long-standing issues in their codebase. This required a commitment to change and a willingness to tackle the technical debt that had accumulated over decades.
+- **Learn from Others**: Take a page from the [Windows]({{< ref "/tags/windows" >}}) team’s playbook. They transformed their delivery process from a six-year cycle to continuous delivery by addressing long-standing issues in their codebase. This required a commitment to change and a willingness to tackle the [technical debt]({{< ref "/tags/technical-debt" >}}) that had accumulated over decades.
 
 ### The Call to Action
 

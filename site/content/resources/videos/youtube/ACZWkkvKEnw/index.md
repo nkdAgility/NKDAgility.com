@@ -60,7 +60,7 @@ So, how do we avoid falling into the trap of local optimisation? Here are some s
 
 - **Foster Cross-Functional Collaboration**: Encourage teams to work together and share insights. This collaboration can help ensure that decisions made in one area consider the impact on the entire organisation.
 
-- **Integrate Governance into Daily Operations**: Rather than treating governance as a separate function, embed it into the daily workflows of teams. This integration can help create a culture of accountability and transparency.
+- **Integrate Governance into Daily Operations**: Rather than treating governance as a separate function, embed it into the daily workflows of teams. This integration can help create a culture of accountability and [transparency]({{< ref "/tags/transparency" >}}).
 
 - **Focus on the Bigger Picture**: Always keep the organisation’s goals in mind. When making decisions, ask yourself how they align with the overall mission and vision. This perspective can help guide more holistic decision-making.
 

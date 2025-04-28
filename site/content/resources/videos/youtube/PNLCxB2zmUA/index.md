@@ -43,7 +43,7 @@ resourceTypes:
 categories: []
 
 ---
-As I reflect on my journey in software development, one truth stands out: adapting to changing demands is not just a necessity; it’s a fundamental part of our craft. When we shift the expectations we place on our products, we must also be prepared to evolve the architecture that underpins them. This is a lesson I’ve learned time and again, and it’s one I want to share with you today.
+As I reflect on my journey in [software development]({{< ref "/tags/software-development" >}}), one truth stands out: adapting to changing demands is not just a necessity; it’s a fundamental part of our craft. When we shift the expectations we place on our products, we must also be prepared to evolve the architecture that underpins them. This is a lesson I’ve learned time and again, and it’s one I want to share with you today.
 
 ### The Importance of Architectural Adaptation
 
@@ -51,11 +51,11 @@ When we talk about changing demands, we’re not merely discussing the addition 
 
 - **Invest in Your Teams**: It’s crucial to allocate time and resources for your teams to adapt to these new demands. This isn’t just about immediate results; it’s about fostering an environment where teams can incrementally work towards long-term outcomes. 
 
-- **Incremental Changes Matter**: Rather than attempting to overhaul everything at once, focus on enabling your teams to make small, manageable changes. This approach not only reduces risk but also allows for continuous improvement.
+- **Incremental Changes Matter**: Rather than attempting to overhaul everything at once, focus on enabling your teams to make small, manageable changes. This approach not only reduces risk but also allows for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-### A Case Study: The Azure DevOps Team
+### A Case Study: The Azure [DevOps]({{< ref "/categories/devops" >}}) Team
 
-Let me share a real-world example that illustrates this point. The Azure DevOps team faced significant architectural challenges within their test infrastructure. Their goal? To reduce their time to market. However, the journey was far from quick. 
+Let me share a real-world example that illustrates this point. The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team faced significant architectural challenges within their test infrastructure. Their goal? To reduce their [time to market]({{< ref "/tags/time-to-market" >}}). However, the journey was far from quick. 
 
 - **Four Years of Transformation**: It took them four years to completely clear off the old test infrastructure. This timeframe may seem daunting, but it highlights a critical aspect of software development: we’re often dealing with long-term products that require sustained effort and commitment.
 
@@ -65,7 +65,7 @@ Let me share a real-world example that illustrates this point. The Azure DevOps 
 
 As we navigate the complexities of software development, it’s essential to remember that change is not just inevitable; it’s an opportunity. Here are a few strategies I recommend for embracing this mindset:
 
-- **Foster a Culture of Adaptability**: Encourage your teams to be open to change. This means creating an environment where experimentation is welcomed, and learning from failures is part of the process.
+- **Foster a Culture of Adaptability**: Encourage your teams to be open to change. This means creating an environment where [experimentation]({{< ref "/tags/experimentation" >}}) is welcomed, and learning from failures is part of the process.
 
 - **Prioritise Architectural Health**: Regularly assess your product’s architecture. Are there areas that need refactoring? Are there outdated components that could be hindering your progress? Addressing these issues proactively can save time and resources in the long run.
 
