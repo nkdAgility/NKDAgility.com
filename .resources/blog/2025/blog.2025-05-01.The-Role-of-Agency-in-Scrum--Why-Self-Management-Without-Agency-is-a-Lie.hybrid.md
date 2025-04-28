@@ -3,7 +3,7 @@ title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie
 description: 'Discover the essence of Scrum: a social technology rooted in Agile principles, demanding true self-management and agency for real accountability and success.'
 ResourceId: uwJYNXG7yIu
 ResourceImport: false
-date: 2025-05-01T00:00:00Z
+date: 2025-05-01T09:00:00Z
 weight: 415
 ResourceType: blog
 ResourceContentOrigin: Hybrid
