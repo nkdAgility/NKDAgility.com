@@ -10,8 +10,9 @@ ResourceContentOrigin: Hybrid
 aliases:
 - /resources/uwJYNXG7yIu
 aliasesArchive:
-- /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+- /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
 - /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+- /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
 categories:
 - Scrum
 - Product Development
@@ -73,7 +74,7 @@ Scrum defines clear accountabilities:
 - **Developers**: Delivering a usable [Increment]({{< ref "/tags/increment" >}}) every Sprint.
 - **[Scrum Master]({{< ref "/tags/scrum-master" >}})**: Enabling the [Scrum Team]({{< ref "/tags/scrum-team" >}})’s effectiveness.
 
-These accountabilities **assume** that those who hold them have real authority to act.
+These accountabilities **assume** that those who hold them [have real authority to act]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}).
 
 When organisations strip away decision-making power but leave accountability in place, they are not enabling agility. They are constructing a system of learned helplessness.
 
@@ -92,7 +93,7 @@ If your team cannot decide _how_ to achieve the Sprint Goal, they are not self-m
 
 ## Weak Scrum Masters Enable Weak Scrum
 
-Scrum Masters are **accountable for the effectiveness of the Scrum Team**. Yet in practice, many are limited to scheduling events and taking notes, with no real authority to challenge systemic dysfunction.
+Scrum Masters are **accountable for the effectiveness of the Scrum Team**. Yet in practice, [many are limited to scheduling events and taking notes]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}), with no real authority to challenge systemic dysfunction.
 
 A Scrum Master without agency is not fulfilling their accountability. They are facilitating ceremony without enabling change.
 
@@ -103,7 +104,7 @@ Scrum Masters must:
 - **Mentor** individuals to step into accountability with courage.
 - **Facilitate** organisational evolution, not just event logistics.
 
-If you are a Scrum Master and you cannot do these things because of organisational resistance, you must raise it visibly. Otherwise, you are complicit in the degradation of Scrum.
+If you are a Scrum Master and [you cannot do these things because of organisational resistance]({{< ref "/resources/blog/2025/2025-03-12-great-scrum-masters-need-technical-business-and-organisational-mastery" >}}), you must raise it visibly. Otherwise, you are complicit in the degradation of Scrum.
 
 ## Why Weak Implementations Collapse
 
@@ -115,7 +116,7 @@ When organisations adopt the **appearance** of Scrum without enabling the **cond
 
 Scrum without agency becomes a theatre production. A ritualistic reenactment of agility, without any of the outcomes.
 
-When organisations complain that "Scrum doesn’t work," the reality is usually simpler: **they refused to enable it to work**.
+When organisations complain that "[Scrum doesn’t work]({{< ref "/resources/blog/2021/2021-04-19-stop-normalizing-unprofessional-behaviour-in-the-name-of-agility" >}})," the reality is usually simpler: **they refused to enable it to work**, and they [ignore the evidence of their own dysfunction]({{< ref "/resources/blog/2024/2024-04-17-you-cant-stop-the-signal-but-you-can-ignore-it" >}}).
 
 ## The Path Forward: Fight for Agency
 

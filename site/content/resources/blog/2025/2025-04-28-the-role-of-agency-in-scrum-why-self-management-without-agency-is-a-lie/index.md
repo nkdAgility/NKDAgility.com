@@ -1,6 +1,6 @@
 ---
-title: "The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie"
-description: "Discover the essence of Scrum: a social technology rooted in Agile principles, demanding true self-management and agency for real accountability and success."
+title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
+description: 'Discover the essence of Scrum: a social technology rooted in Agile principles, demanding true self-management and agency for real accountability and success.'
 ResourceId: uwJYNXG7yIu
 ResourceImport: false
 date: 2025-05-01T00:00:00Z
@@ -8,37 +8,38 @@ weight: 415
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 aliases:
-  - /resources/uwJYNXG7yIu
+- /resources/uwJYNXG7yIu
 aliasesArchive:
-  - /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
-  - /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+- /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
+- /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+- /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
 categories:
-  - Scrum
-  - Product Development
-  - Technical Leadership
+- Scrum
+- Product Development
+- Technical Leadership
 tags:
-  - Agentic Agility
-  - Agile Frameworks
-  - Agile Transformation
-  - Professional Scrum
-  - Self Organisation
-  - Agile Product Management
-  - Scrum Master
-  - Agile Philosophy
-  - Agile Planning
-  - Agile Strategy
-  - Scrum Team
-  - Social Technologies
-  - Software Development
-  - Pragmatic Thinking
-  - Agile Values and Principles
-  - Organisational Agility
-  - Agile Leadership
-  - Value Delivery
-  - Sociotechnical Systems
-  - Team Collaboration
----
+- Agentic Agility
+- Agile Frameworks
+- Agile Transformation
+- Professional Scrum
+- Self Organisation
+- Agile Product Management
+- Scrum Master
+- Agile Philosophy
+- Agile Planning
+- Agile Strategy
+- Scrum Team
+- Social Technologies
+- Software Development
+- Pragmatic Thinking
+- Agile Values and Principles
+- Organisational Agility
+- Agile Leadership
+- Value Delivery
+- Sociotechnical Systems
+- Team Collaboration
 
+---
 [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. **Scrum is a social technology built around the ethos of Agile**, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: **self-management**.
 
 But self-management is not simply a label you apply to teams. It demands something deeper and harder: **real agency**.
