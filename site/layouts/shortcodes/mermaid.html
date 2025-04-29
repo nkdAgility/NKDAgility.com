@@ -1,3 +1,5 @@
-<div class="mermaid">
+<div style="width: {{ .Get "width" | default "100%" }}; height: {{ .Get "height" | default "400px" }};">
+  <pre class="mermaid">
   {{ .Inner | safeHTML }}
+  </pre>
 </div>

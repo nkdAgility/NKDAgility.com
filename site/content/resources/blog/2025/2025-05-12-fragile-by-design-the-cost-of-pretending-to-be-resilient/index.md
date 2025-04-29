@@ -1,5 +1,5 @@
 ---
-title: "Fragile by Design: The Cost of Pretending to Be Resilient"
+title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
 description: Explore the CTO's challenge of balancing innovation and stability, revealing the critical need for resilience in systems to prevent catastrophic failures.
 ResourceId: LGGuvRq4g7p
 ResourceImport: false
@@ -9,21 +9,21 @@ subtitle: You don't rise to the level of your continuity plan. You fall to the l
 date: 2025-05-12T09:00:00Z
 weight: 430
 aliases:
-  - /resources/LGGuvRq4g7p
+- /resources/LGGuvRq4g7p
 aliasesArchive:
-  - /fragile-by-design--the-cost-of-pretending-to-be-resilient
-  - /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
+- /fragile-by-design--the-cost-of-pretending-to-be-resilient
+- /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
 categories:
-  - Engineering Excellence
+- Engineering Excellence
 tags:
-  - Site Reliability Engineering
-  - Technical Mastery
-  - Pragmatic Thinking
-  - Organisational Physics
-  - Continuous Improvement
-  - Technical Excellence
----
+- Site Reliability Engineering
+- Technical Mastery
+- Pragmatic Thinking
+- Organisational Physics
+- Continuous Improvement
+- Technical Excellence
 
+---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.
 
 Spain’s national blackout. Portugal’s cascading failures. Oracle’s hospital cloud outage. Heathrow’s catastrophic shutdown. These were not accidents. They were not rare, unpredictable events. They were the inevitable consequences of bad engineering, shallow product thinking, and organisational self-delusion.
