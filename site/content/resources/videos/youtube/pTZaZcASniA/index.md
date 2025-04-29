@@ -11,14 +11,14 @@ ResourceImportSource: Youtube
 videoId: pTZaZcASniA
 source: internal
 url: /resources/videos/:slug
-slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+slug: navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 layout: video
 preview: https://i.ytimg.com/vi/pTZaZcASniA/maxresdefault.jpg
 duration: 91
 isShort: false
 aliases:
 - /resources/pTZaZcASniA
-- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 - /resources/videos/1-the-legacy-system-dilemma-why-its-a-ctos-biggest-headache
 aliasesArchive:
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
@@ -28,6 +28,8 @@ aliasesArchive:
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 - /resources/videos/1-the-legacy-system-dilemma-why-its-a-ctos-biggest-headache
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
+- navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
