@@ -1,6 +1,6 @@
 ---
-title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
-description: 'Discover the essence of Scrum: a social technology rooted in Agile principles, demanding true self-management and agency for real accountability and success.'
+title: "The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie"
+description: "Discover the essence of Scrum: a social technology rooted in Agile principles, demanding true self-management and agency for real accountability and success."
 ResourceId: uwJYNXG7yIu
 ResourceImport: false
 date: 2025-05-01T09:00:00Z
@@ -8,65 +8,64 @@ weight: 415
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 aliases:
-- /resources/uwJYNXG7yIu
+  - /resources/uwJYNXG7yIu
 aliasesArchive:
-- /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
-- /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
-- /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+  - /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
+  - /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+  - /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
 categories:
-- Scrum
-- Product Development
-- Technical Leadership
+  - Scrum
+  - Product Development
+  - Technical Leadership
 tags:
-- Agentic Agility
-- Agile Frameworks
-- Agile Transformation
-- Professional Scrum
-- Self Organisation
-- Agile Product Management
-- Scrum Master
-- Agile Philosophy
-- Agile Planning
-- Agile Strategy
-- Scrum Team
-- Social Technologies
-- Software Development
-- Pragmatic Thinking
-- Agile Values and Principles
-- Organisational Agility
-- Agile Leadership
-- Value Delivery
-- Sociotechnical Systems
-- Team Collaboration
-
+  - Agentic Agility
+  - Agile Frameworks
+  - Agile Transformation
+  - Professional Scrum
+  - Self Organisation
+  - Agile Product Management
+  - Scrum Master
+  - Agile Philosophy
+  - Agile Planning
+  - Agile Strategy
+  - Scrum Team
+  - Social Technologies
+  - Software Development
+  - Pragmatic Thinking
+  - Agile Values and Principles
+  - Organisational Agility
+  - Agile Leadership
+  - Value Delivery
+  - Sociotechnical Systems
+  - Team Collaboration
 ---
-[Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. **Scrum is a social technology built around the ethos of Agile**, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: **self-management**.
 
-But self-management is not simply a label you apply to teams. It demands something deeper and harder: **real agency**.
+[Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.
+
+But self-management is not simply a label you apply to teams. It demands something deeper and harder: real agency.
 
 Without agency, Scrum collapses into shallow ritual. Without agency, accountability is performative, not real.  
 Without agency, you are not doing Scrum. You are enacting a fragile imitation of agility.
 
 ## Scrum _Is_ Agile — and Agile Demands Self-Management
 
-Agile and Scrum are often conflated or treated as separate. Let us be clear: **True Scrum is Agile**. Scrum operationalises Agile principles with discipline, [transparency]({{< ref "/tags/transparency" >}}), and empiricism.
+Agile and Scrum are often conflated or treated as separate. Let us be clear: True Scrum is Agile. Scrum operationalises Agile principles with discipline, [transparency]({{< ref "/tags/transparency" >}}), and empiricism. It creates a bounded environment where teams can thrive.
 
-The **Agile Manifesto** (2001) made it clear:
+The Agile Manifesto (2001) made it clear:
 
-> _"The best architectures, requirements, and designs emerge from self-organizing teams."_
+> _The best architectures, requirements, and designs emerge from self-organizing teams._
 
 Self-organisation was never about anarchy. It was about **teams owning how they deliver value**. Agile assumes teams will figure out the best way to achieve goals — not be told exactly what to do.
 
 Scrum sharpened this requirement in the 2020 Scrum Guide:
 
-> _"Scrum Teams are cross-functional and self-managing, meaning they internally decide who does what, when, and how."_
+> _Scrum Teams are cross-functional and self-managing, meaning they internally decide who does what, when, and how._
 
-Self-management is not a bonus feature. It is the foundation.  
-Without it, Scrum is impossible.
+Self-management is not a bonus feature. It is the foundation. Without it, Scrum is impossible.
 
 ## Agency: The Prerequisite for Accountability
 
-**Agency** is the power to make decisions and act toward outcomes you are accountable for. It is inseparable from accountability itself. Without agency, accountability is a façade — a mechanism for assigning blame rather than empowering success.
+Agency is the power to make decisions and act toward outcomes you are accountable for. It is inseparable from accountability itself. Without agency, accountability is a façade — a mechanism for assigning blame rather than empowering success.
 
 Scrum defines clear accountabilities:
 
@@ -86,8 +85,7 @@ Many organisations today claim to embrace "self-managing teams" but operate in w
 - Work is assigned to individuals by managers.
 - Technical decisions are second-guessed by external authorities.
 
-This is not self-management.  
-This is hierarchical command-and-control wrapped in daily standups and sticky notes.
+This is not self-management. This is hierarchical command-and-control wrapped in daily standups and sticky notes.
 
 If your team cannot decide _how_ to achieve the Sprint Goal, they are not self-managing. They are being managed under a different name.
 
@@ -128,9 +126,7 @@ If you are serious about creating real, resilient agility:
 
 And leadership must understand: if you want the results Scrum promises, you must create the environment Scrum requires.
 
-Self-management is not optional.  
-Agency is not optional.  
-Without them, you have nothing.
+Self-management is not optional. Agency is not optional. Without them, you have nothing.
 
 ## Conclusion
 
