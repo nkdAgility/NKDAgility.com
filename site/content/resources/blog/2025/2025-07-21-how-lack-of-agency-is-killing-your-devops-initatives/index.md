@@ -5,48 +5,48 @@ ResourceId: AgIU1SK-3pE
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-date: 2025-06-23T09:00:00Z
+date: 2025-07-21T09:00:00Z
 weight: 250
 aliases:
-- /resources/AgIU1SK-3pE
+  - /resources/AgIU1SK-3pE
 aliasesArchive:
-- /how-lack-of-agency-is-killing-your-devops-initiatives
-- /blog/how-lack-of-agency-is-killing-your-devops-initiatives
+  - /how-lack-of-agency-is-killing-your-devops-initiatives
+  - /blog/how-lack-of-agency-is-killing-your-devops-initiatives
 categories:
-- DevOps
-- Engineering Excellence
+  - DevOps
+  - Engineering Excellence
 tags:
-- Agentic Agility
-- Pragmatic Thinking
-- Software Development
-- Operational Practices
-- Value Delivery
-- Self Organisation
-- Social Technologies
-- Frequent Releases
-- Continuous Delivery
-- Market Adaptability
-- Organisational Agility
-- Continuous Improvement
-- Deployment Frequency
-- Product Delivery
-- Sociotechnical Systems
-
+  - Agentic Agility
+  - Pragmatic Thinking
+  - Software Development
+  - Operational Practices
+  - Value Delivery
+  - Self Organisation
+  - Social Technologies
+  - Frequent Releases
+  - Continuous Delivery
+  - Market Adaptability
+  - Organisational Agility
+  - Continuous Improvement
+  - Deployment Frequency
+  - Product Delivery
+  - Sociotechnical Systems
 ---
+
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  
-**DevOps is agency.** It is the union of people, process, and products to enable [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to our end users.
+**DevOps is agency.** It is the union of people, process, and products to enable continuous delivery of value to our end users.
 
 If your developers do not have operational agency—control over environments, deployments, telemetry, and remediation—you are not doing DevOps.  
 You are automating fragility.
 
 ## There Is No Place Like Production
 
-We have already established that production is the only place real feedback happens. UAT, staging, demo environments—none of these reveal how real users behave, where real bottlenecks emerge, or where real pain points lie.  
+We have already established that [production is the only place real feedback happens]({{< ref "/resources/blog/2020/2020-12-28-there-is-no-place-like-production" >}}). UAT, staging, demo environments—none of these reveal how real users behave, where real bottlenecks emerge, or where real pain points lie.  
 Real outcomes, real telemetry, and real consequences only happen in production.
 
 If developers do not have operational authority over production, they are blindfolded. They can build, but they cannot learn. They can deploy, but they cannot observe. They can script, but they cannot improve.
 
-**Without production feedback, Continuous Delivery collapses into Continuous Guessing.**
+**Without production feedback, [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) collapses into Continuous Guessing.**
 
 ## Automation without Agency is Fragile
 
@@ -71,6 +71,8 @@ True DevOps demands that developers have operational agency, including:
 - **Roll back or forward** – respond to incidents with speed and autonomy, without waiting on a change advisory board.
 - **Observe and adapt** – monitor real user behaviour and adapt deployments and [product strategy]({{< ref "/tags/product-strategy" >}}) based on live signals.
 
+This level of ownership must also be reflected in your [Definition of Done]({{< ref "/resources/blog/2025/2025-03-17-your-evolving-definition-of-done" >}}), ensuring that telemetry and operational readiness are part of what it means for work to be complete.
+
 Agency without feedback is noise.  
 Feedback without agency is paralysis.  
 **You must have both.**
@@ -78,7 +80,7 @@ Feedback without agency is paralysis.
 ## DevOps Without Operational Agency Is Dead on Arrival
 
 Every time you separate developers from operational decision-making, you break the feedback loop. You turn "continuous" delivery into ceremonial delivery.  
-You destroy agility. You disempower your people. You institutionalise blame instead of learning.
+You [destroy agility]({{< ref "/resources/blog/2021/2021-04-19-stop-normalizing-unprofessional-behaviour-in-the-name-of-agility" >}}). You disempower your people. You institutionalise blame instead of learning.
 
 If you want real DevOps, you must give developers real control.
 
