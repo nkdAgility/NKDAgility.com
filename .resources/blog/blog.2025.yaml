@@ -5,7 +5,7 @@
     ResourceImport: false
     ResourceType: blog
     ResourceContentOrigin: hybrid
-    date: 2025-08-18T09:00:00Z
+    date: 2025-06-30T09:00:00Z
     weight: 880
     mermaid: true
     aliases:
@@ -104,8 +104,8 @@
 
     Those who forget this are not merely inefficient.  
     They are obsolete in the making.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-08-18-human-and-ai-agency-in-adaptive-systems\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-08-18-human-and-ai-agency-in-adaptive-systems
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-30-human-and-ai-agency-in-adaptive-systems\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-30-human-and-ai-agency-in-adaptive-systems
 - FrontMatter:
     title: How Lack of Agency is Killing Your DevOps Initiatives
     description: DevOps is about empowering developers with operational agency, enabling true continuous delivery and real feedback from production. Don't automate fragility!
@@ -113,7 +113,7 @@
     ResourceImport: false
     ResourceType: blog
     ResourceContentOrigin: hybrid
-    date: 2025-07-21T09:00:00Z
+    date: 2025-06-16T09:00:00Z
     weight: 250
     aliases:
     - /resources/AgIU1SK-3pE
@@ -196,8 +196,8 @@
     Yes, this will expose the weaknesses you have been hiding behind process theatre.
 
     But the alternative is worse: a hollow shell of DevOps, where the only thing "continuous" is your excuses for why it still takes six months to learn whether your features work.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-21-how-lack-of-agency-is-killing-your-devops-initatives\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-21-how-lack-of-agency-is-killing-your-devops-initatives
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives
 - FrontMatter:
     title: The Missing Lever in Agile Transformations
     description: 'Unlock true transformation with Agentic Agility: cultivate agency in people and systems for genuine adaptability, resilience, and empowered outcomes.'
@@ -205,7 +205,7 @@
     ResourceImport: false
     ResourceType: blog
     ResourceContentOrigin: hybrid
-    date: 2025-06-23T09:00:00Z
+    date: 2025-06-02T09:00:00Z
     weight: 500
     aliases:
     - /resources/RevK05qtZD7
@@ -291,8 +291,128 @@
     The next evolution of agility will not be led by those who install more frameworks. It will be led by those who build organisations capable of thinking, learning, and acting for themselves.
 
     **Agentic Agility is not an option. It is the missing lever for real change.**
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-23-the-missing-lever-in-agile-transformations\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-23-the-missing-lever-in-agile-transformations
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-02-the-missing-lever-in-agile-transformations\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-02-the-missing-lever-in-agile-transformations
+- FrontMatter:
+    title: How to Build for Business Resilience and Continuity
+    description: Master the balance of innovation and stability with actionable insights on building resilient systems. Design for recovery, empower teams, and ensure continuity.
+    ResourceId: VThLnxVapgJ
+    ResourceImport: false
+    ResourceType: blog
+    ResourceContentOrigin: hybrid
+    date: 2025-05-26T09:00:00Z
+    weight: 255
+    aliases:
+    - /resources/VThLnxVapgJ
+    aliasesArchive:
+    - /how-to-build-for-business-resilience-and-continuity
+    - /blog/how-to-build-for-business-resilience-and-continuity
+    categories:
+    - Engineering Excellence
+    - DevOps
+    tags:
+    - Site Reliability Engineering
+    - Operational Practices
+    - Pragmatic Thinking
+    - Evidence Based Management
+    - Technical Excellence
+    - Software Development
+    - Technical Mastery
+    - Continuous Improvement
+    - Deployment Frequency
+    - Metrics and Learning
+    - Value Delivery
+    - Decision Making
+    - Engineering Practices
+    - Product Delivery
+    - Market Adaptability
+    - Release Management
+    - Deployment Strategies
+    - Continuous Delivery
+    - Current Value
+    - Frequent Releases
+  BodyContent: |
+    Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.
+
+    Here is a pragmatic checklist for engineering true business resilience and continuity:
+
+    ## Observability and Telemetry First
+
+    You cannot manage what you cannot see. You cannot fix what you cannot detect.
+
+    - **Embed telemetry at every level**: application, infrastructure, business processes.
+    - **Define service level objectives (SLOs)** for your critical systems and actually measure against them.
+    - **Monitor leading indicators**, not just trailing failures.
+    - **Establish a live site culture**, not a "we’ll find out when customers call" culture.
+
+    If your systems are invisible until they explode, you are not resilient; you are negligent.
+
+    ## Decouple Systems Aggressively
+
+    Coupling is a time bomb. When one piece falls, everything else falls with it.
+
+    - **Bounded contexts** are non-negotiable. Embrace them.
+    - **No logic in the data tier.** Databases store data, not behaviour. If your business rules are locked in SQL, you are one outage away from a complete operational collapse.
+    - **Avoid shared databases**. Duplicate data if necessary. Loose coupling beats data purity.
+    - **Prefer asynchronous messaging**. Synchronous systems are brittle under load and fail catastrophically.
+
+    Resilience comes from isolation. Systems must fail independently, not cascade like dominoes.
+
+    ### When the User Profile Service takes out the entire system
+
+    For a long time I have worked with the Azure [DevOps]({{< ref "/categories/devops" >}}) teams at Microsoft as an strategic customer and MVP and I have witnessed this lesson firsthand. One of the major outages of [Azure DevOps]({{< ref "/tags/azure-devops" >}}) was triggered by something that, at first glance, seemed trivial: the Profile Service. When the Profile Service went down, developers could no longer commit code, and product owners could not update backlog items. Why? Because the system could not resolve your friendly name from your authenticated ID.
+
+    The service was so tightly coupled into critical user flows that its failure crippled the entire platform.
+
+    In response, the teams created "live site incident" repair work and moved the Profile Service behind a **circuit breaker**. If the Profile Service went down again, it would degrade gracefully, not drag down the entire experience.
+
+    As an anecdotal aside, a few months later another unrelated service failed, and—unsurprisingly—it also took down large parts of the system. That was the final straw. The teams went on a full-scale mission to introduce the **circuit breaker pattern** across **every service**, making sure no single point of failure could collapse the platform again.
+
+    Decoupling and graceful degradation are not academic exercises. They are mandatory if you value continuity.
+
+    ## Treat Deployments as Routine, Not Special
+
+    Every deployment is a practice run for disaster recovery. If deployment is a risky, complex, orchestrated event, you have already failed.
+
+    - **Implement [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) (CD)** so that deployments happen safely, frequently, and predictably.
+    - **Use feature toggles** to separate code deployment from feature release.
+    - **Automate rollbacks**. A failed deployment should not require heroics.
+
+    If your organisation fears deployment day, it is structurally fragile.
+
+    ## Empower Teams to Act Without Hierarchy Paralysis
+
+    In a crisis, the last thing you want is a command-and-control bottleneck. Empowerment is a precondition to survival.
+
+    - **Pre-delegate authority** for critical systems response.
+    - **Train teams** on incident management procedures, disaster recovery, and failover operations.
+    - **Decentralise decision-making** to the people closest to the work.
+
+    In crisis, minutes matter. Top-down control costs lives and revenue.
+
+    ## Assume Everything Will Fail; Design to Recover Fast
+
+    Hope is not a strategy. Failure is inevitable. Recovery speed determines survival.
+
+    - **Chaos engineering** is not optional; it is responsible practice.
+    - **Design for graceful degradation**. Partial failure is better than total failure.
+    - **Practice recovery drills**. Don't just have a DR plan; rehearse it until it is boring.
+
+    If you are not recovering faster than your competitors, you are losing.
+
+    ## DevOps, [Site Reliability Engineering]({{< ref "/tags/site-reliability-engineering" >}}), and Evidence-Based Management
+
+    Business resilience is **DevOps in action**: the union of people, process, and products to enable continuous delivery of value to end users. Resilient systems emerge from the daily discipline of CI/CD, Infrastructure as Code (IaC), and monitoring as first-class citizens.
+
+    It is **Site Reliability Engineering (SRE)** lived, not aspirational. SRE teaches us that availability, latency, performance, efficiency, [change management]({{< ref "/tags/change-management" >}}), monitoring, and emergency response are all product features—just as important as the user-facing ones.
+
+    It is **Evidence-Based Management (EBM)** made real. Metrics like Mean Time to Recovery (MTTR), [Deployment Frequency]({{< ref "/tags/deployment-frequency" >}}), and [Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}}) are not vanity measures; they are survival metrics. They inform whether your investment in resilience is paying off or just theatre.
+
+    Resilience is not a project. It is an ethos. You must architect it into your systems, invest in it continuously, and operationalise it ruthlessly.
+
+    Otherwise, you are gambling with your business and calling it strategy.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-26-how-to-build-for-business-resilience-and-continuity\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-26-how-to-build-for-business-resilience-and-continuity
 - FrontMatter:
     title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
     description: "Embrace the future: AI liberates us from mundane tasks, empowering creativity and critical thinking. It's time to elevate humanity at work, not industrialise it."
@@ -300,7 +420,7 @@
     ResourceImport: false
     ResourceType: blog
     ResourceContentOrigin: hybrid
-    date: 2025-05-05T09:00:00Z
+    date: 2025-05-19T09:00:00Z
     weight: 880
     aliases:
     - /resources/F0yVBj8Tx8H
@@ -369,8 +489,108 @@
     Robots freed our hands. AI is freeing our minds.
 
     The only real question is: **Are you ready to stop treating people like machines?**
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-05-robots-and-ai-are-not-taking-our-jobs\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-05-robots-and-ai-are-not-taking-our-jobs
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-19-robots-and-ai-are-not-taking-our-jobs\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-19-robots-and-ai-are-not-taking-our-jobs
+- FrontMatter:
+    title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
+    description: Explore the CTO's challenge of balancing innovation and stability, revealing the critical need for resilience in systems to prevent catastrophic failures.
+    ResourceId: LGGuvRq4g7p
+    ResourceImport: false
+    ResourceType: blog
+    ResourceContentOrigin: hybrid
+    subtitle: You don't rise to the level of your continuity plan. You fall to the level of your last real test.
+    date: 2025-05-12T09:00:00Z
+    weight: 430
+    aliases:
+    - /resources/LGGuvRq4g7p
+    aliasesArchive:
+    - /fragile-by-design--the-cost-of-pretending-to-be-resilient
+    - /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
+    categories:
+    - Engineering Excellence
+    tags:
+    - Site Reliability Engineering
+    - Technical Mastery
+    - Pragmatic Thinking
+    - Organisational Physics
+    - Continuous Improvement
+    - Technical Excellence
+  BodyContent: |
+    Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.
+
+    Spain’s national blackout. Portugal’s cascading failures. Oracle’s hospital cloud outage. Heathrow’s catastrophic shutdown. These were not accidents. They were not rare, unpredictable events. They were the inevitable consequences of bad engineering, shallow product thinking, and organisational self-delusion.
+
+    Resilience is not a checkbox. It is not a compliance exercise. It is not a hope and a prayer filed away in a disaster recovery plan. Resilience is hard. It is costly. It must be engineered, tested, and verified under real-world conditions—or it does not exist.
+
+    ## Bad Engineering
+
+    Real resilience assumes things will fail. Networks will fail. Authentication systems will fail. People will make mistakes. If your architecture does not _assume failure_ at every level, you are not resilient; you are brittle.
+
+    Spain’s energy grid collapsed because it was optimised for efficiency, not survivability. No dynamic rerouting. No true load isolation. No meaningful observability. Their system was designed for perfect operating conditions that do not exist outside PowerPoint decks.
+
+    Oracle’s outage was even worse. Critical healthcare systems went offline because Oracle’s cloud infrastructure had no effective multi-region failover. Their architecture did not degrade gracefully; it fell over completely. That is not resilience. That is negligence at scale.
+
+    ## Bad Product and Continuity Thinking
+
+    Resilience is a **product capability**. If your product cannot survive failure, it is not a product. It is a liability.
+
+    Spain, Portugal, Oracle—all treated continuity as an afterthought. As long as the lights were on today, everything was declared fine. Until it was not.
+
+    Real product [leadership]({{< ref "/categories/leadership" >}}) demands harder questions: _When—not if—this part fails, how will our system recover? How will our customers experience it? How fast can we restore service? How much risk are we carrying—and is that risk acceptable?_
+
+    If those questions are not part of your roadmap, your architecture, and your operational strategy, you are not building resilience. You are building a house of cards.
+
+    ## Organisational Blindness
+
+    The real failure sits higher up the chain. Leadership failed to create a culture that prioritised operational survivability over operational fantasy.
+
+    I have lived through this firsthand. At Merrill Lynch, I participated in two major disaster recovery exercises. Both were declared “successful.” Both were complete failures.
+
+    Not a single system restored was actually usable. Systems were technically “back online”—but functionally, nothing worked. And the root cause was obvious: Active Directory, the system everything depended on for authentication, was never successfully recovered. Without it, every other "restored" system was dead weight.
+
+    Ironically, my application was successfully restored. We assumed it would have been usable—_if_ Active Directory had been available. But we never found out. Two years running, the same critical dependency remained broken, and nobody was willing to call it what it was: systemic failure hidden behind fake success metrics.
+
+    Heathrow Airport offers another textbook case of organisational blindness disguised as resilience. When a fire broke out at one of their substations, they publicly blamed the disruption on their third-party power supplier. What they failed to mention was critical: Heathrow receives power from _three independent substations_, any one of which can fully power the airport alone.
+
+    The real problem was not the power supply it was a fluctuation in the power supply. It was Heathrow’s own disaster recovery system, designed to “protect” infrastructure by shutting everything down that detected that fluctuation and activated.  
+    The result? Heathrow’s entire IT backbone collapsed. It took the rest of the day to get basic systems running again—and much longer to recover from the cascading operational chaos.
+
+    Instead of owning the internal failure, leadership pointed fingers outward. It is the same story everywhere: an unwillingness to face the reality that their own fake resilience made the disaster worse.
+
+    ## Real Resilience: Iterating Over the Pain
+
+    Not every story ends in failure. There are organisations that do it right—and the difference is discipline.
+
+    Take Rackspace. During catastrophic floods in London, when almost every other datacentre in the city failed, Rackspace’s facility stayed operational. Their backup generators worked exactly as expected. While others blamed suppliers and scrambled for excuses, Rackspace quietly kept their customers online.
+
+    When asked why their systems worked when everyone else’s failed, the CEO simply held up a key.
+
+    It was the key to the power room.
+
+    Every month, without fail, he would walk down, unlock the main breaker, and physically pull it—shutting off external power. Not in theory. Not in a simulation. A real, full transfer to emergency backup power under real-world conditions.
+
+    Because of that brutal discipline, they did not hope their disaster recovery systems would work. They _knew_. They had tested it, again and again, under real conditions. They iterated over the pain.
+
+    And that is the lesson:  
+    If something is hard, you must do it _more often_, not less.  
+    If failure is painful, you must _lean into it_, not avoid it.
+
+    Only by living through controlled, intentional failures—early, often, and brutally—can you build true resilience.
+
+    You cannot wait until it matters. You cannot prepare only on paper. You must _earn_ resilience by testing your systems, exposing your weaknesses, and getting punched in the face repeatedly until you are strong enough to survive the real thing.
+
+    ## Resilience Is Built, Not Bought
+
+    You cannot buy resilience from a vendor. You cannot inherit it automatically because you deployed to "the cloud." You cannot declare yourself resilient by writing it into your incident response plan.
+
+    Real resilience is built. It is designed in. It is iterated over. It is relentlessly tested. It is painful, slow, and expensive. But the alternative—the fragility we saw in Spain, Portugal, Oracle, and Heathrow—is far more costly.
+
+    If you are not engineering for failure, you are engineering for collapse.
+
+    Fragility is not an accident. It is a design choice.  
+    Pretending otherwise only guarantees you will learn the hard way.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-12-fragile-by-design-the-cost-of-pretending-to-be-resilient\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-12-fragile-by-design-the-cost-of-pretending-to-be-resilient
 - FrontMatter:
     title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
     description: 'Discover the essence of Scrum: a social technology rooted in Agile principles, demanding true self-management and agency for real accountability and success.'
