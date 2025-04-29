@@ -1,5 +1,5 @@
 ---
-title: Robots and AI Are Not Taking Our Jobs — They Are Giving Us Our Dignity Back
+title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
 description: "Embrace the future: AI liberates us from mundane tasks, empowering creativity and critical thinking. It's time to elevate humanity at work, not industrialise it."
 ResourceId: F0yVBj8Tx8H
 ResourceImport: false
@@ -8,15 +8,15 @@ ResourceContentOrigin: hybrid
 date: 2025-05-05T09:00:00Z
 weight: 880
 aliases:
-- /resources/F0yVBj8Tx8H
+  - /resources/F0yVBj8Tx8H
 aliasesArchive:
-- /robots-and-ai-are-not-taking-our-jobs-—-they-are-giving-us-our-dignity-back
-- /blog/robots-and-ai-are-not-taking-our-jobs-—-they-are-giving-us-our-dignity-back
+  - /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
+  - /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 categories: []
 tags:
-- Agentic Agility
-
+  - Agentic Agility
 ---
+
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.
 
 We created jobs like scanning groceries, cleaning toilets, packing boxes, and driving taxis not because they were noble pursuits, but because we needed to systematise output. We shaped them at the height of industrialisation under the false assumption that most people were incapable of thinking critically or creatively. That assumption was, and remains, wrong.
@@ -42,13 +42,13 @@ We industrialised people because it made them easier to control. Now, automation
 
 In a knowledge economy, compliance is worthless. We do not need more human robots performing repeatable tasks. We need humans solving problems, thinking critically, and delivering outcomes.
 
-The organisations that thrive are the ones that realise this. They pay people enough that food and shelter are no longer their motivators. They create environments where autonomy, mastery, and purpose are what drive performance—not carrot-and-stick bonus schemes.
+The organisations that thrive are the ones that realise this. They pay people enough that food and shelter are no longer their motivators (re Daniel Pink). They create environments where autonomy, mastery, and purpose are what drive performance—not carrot-and-stick bonus schemes.
 
 If your workforce needs extrinsic rewards to perform, you have already failed them.
 
 ## If You Are Still Paying Bonuses, You Are Still in the Industrial Age
 
-Organisations still running bonus schemes, still obsessed with job titles, and still measuring success by output rather than outcome are clinging desperately to an age that is already dead.
+Organisations still running bonus schemes, still obsessed with job titles, and still measuring success by output rather than outcome are clinging desperately to an age that is already automated away.
 
 You are not preparing for the future. You are delaying your own obsolescence.
 
