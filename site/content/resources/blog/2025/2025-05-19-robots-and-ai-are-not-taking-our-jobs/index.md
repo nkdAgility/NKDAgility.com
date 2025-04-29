@@ -5,18 +5,18 @@ ResourceId: F0yVBj8Tx8H
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-date: 2025-05-05T09:00:00Z
+date: 2025-05-19T09:00:00Z
 weight: 880
 aliases:
-- /resources/F0yVBj8Tx8H
+  - /resources/F0yVBj8Tx8H
 aliasesArchive:
-- /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
-- /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
+  - /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
+  - /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 categories: []
 tags:
-- Agentic Agility
-
+  - Agentic Agility
 ---
+
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.
 
 We created jobs like scanning groceries, cleaning toilets, packing boxes, and driving taxis not because they were noble pursuits, but because we needed to systematise output. We shaped them at the height of industrialisation under the false assumption that most people were incapable of thinking critically or creatively. That assumption was, and remains, wrong.

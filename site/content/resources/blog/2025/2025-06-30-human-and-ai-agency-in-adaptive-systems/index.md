@@ -1,36 +1,36 @@
 ---
-title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
+title: "Human and AI Agency in Adaptive Systems: Strategy Before Optimisation"
 description: Human agency is vital in adaptive systems, defining strategy and purpose, while AI optimises tactics. Balance is key to avoid obsolescence.
 ResourceId: ffJaR9AaTl7
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-date: 2025-08-18T09:00:00Z
+date: 2025-06-30T09:00:00Z
 weight: 880
 mermaid: true
 aliases:
-- /resources/ffJaR9AaTl7
+  - /resources/ffJaR9AaTl7
 aliasesArchive:
-- /human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
-- /blog/human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
+  - /human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
+  - /blog/human-and-ai-agency-in-adaptive-systems--strategy-before-optimisation
 categories:
-- Leadership
+  - Leadership
 tags:
-- Agentic Agility
-- Sensemaking
-- Strategic Goals
-- Complexity Thinking
-- Systems Thinking
-- Pragmatic Thinking
-- Organisational Physics
-- Decision Making
-- Sociotechnical Systems
-- Decision Theory
-- Artificial Intelligence
-- Organisational Agility
-- Product Strategy
-
+  - Agentic Agility
+  - Sensemaking
+  - Strategic Goals
+  - Complexity Thinking
+  - Systems Thinking
+  - Pragmatic Thinking
+  - Organisational Physics
+  - Decision Making
+  - Sociotechnical Systems
+  - Decision Theory
+  - Artificial Intelligence
+  - Organisational Agility
+  - Product Strategy
 ---
+
 Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.
 
 Treating these two forms of agency as equivalent is not just careless; it is dangerous. It leads to brittle systems that optimise yesterday’s decisions while failing to recognise when the game has changed.

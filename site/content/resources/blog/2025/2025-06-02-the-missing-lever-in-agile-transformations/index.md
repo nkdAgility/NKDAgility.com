@@ -1,43 +1,43 @@
 ---
 title: The Missing Lever in Agile Transformations
-description: 'Unlock true transformation with Agentic Agility: cultivate agency in people and systems for genuine adaptability, resilience, and empowered outcomes.'
+description: "Unlock true transformation with Agentic Agility: cultivate agency in people and systems for genuine adaptability, resilience, and empowered outcomes."
 ResourceId: RevK05qtZD7
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-date: 2025-06-23T09:00:00Z
+date: 2025-06-02T09:00:00Z
 weight: 500
 aliases:
-- /resources/RevK05qtZD7
+  - /resources/RevK05qtZD7
 aliasesArchive:
-- /the-missing-lever-in-agile-transformations
-- /blog/the-missing-lever-in-agile-transformations
+  - /the-missing-lever-in-agile-transformations
+  - /blog/the-missing-lever-in-agile-transformations
 categories:
-- Leadership
-- Product Development
+  - Leadership
+  - Product Development
 tags:
-- Agentic Agility
-- Organisational Agility
-- Change Management
-- Agile Transformation
-- Agile Philosophy
-- Business Agility
-- Agile Strategy
-- Organisational Culture
-- Enterprise Agility
-- Pragmatic Thinking
-- Organisational Change
-- Evidence Based Management
-- Self Organisation
-- Market Adaptability
-- Social Technologies
-- Agile Leadership
-- Organisational Physics
-- Sociotechnical Systems
-- Beta Codex
-- Evidence Based Leadership
-
+  - Agentic Agility
+  - Organisational Agility
+  - Change Management
+  - Agile Transformation
+  - Agile Philosophy
+  - Business Agility
+  - Agile Strategy
+  - Organisational Culture
+  - Enterprise Agility
+  - Pragmatic Thinking
+  - Organisational Change
+  - Evidence Based Management
+  - Self Organisation
+  - Market Adaptability
+  - Social Technologies
+  - Agile Leadership
+  - Organisational Physics
+  - Sociotechnical Systems
+  - Beta Codex
+  - Evidence Based Leadership
 ---
+
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.
 
 You can install all the stand-ups, backlogs, retrospectives, and planning sessions you want. Without genuine agency, you're not transforming. You're decorating.

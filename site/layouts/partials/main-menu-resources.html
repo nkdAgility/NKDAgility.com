@@ -26,7 +26,7 @@
               <h5>Recent</h5>
               <div class="columns-2">
                 {{ range first 10 (sort (where .Site.RegularPages "Type" "resources") "Date" "desc") }}
-                  <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
+                  <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}">
                     {{ if eq .Params.ResourceType "videos" }}
                       <i class="fa-solid fa-video"></i>
                     {{ else if eq .Params.ResourceType "blog" }}
@@ -51,7 +51,7 @@
               <h5>Important</h5>
               <div class="columns-2">
                 {{ range first 10 (where .Site.RegularPages.ByWeight "Type" "resources") }}
-                  <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
+                  <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}">
                     {{ if eq .Params.ResourceType "videos" }}
                       <i class="fa-solid fa-video"></i>
                     {{ else if eq .Params.ResourceType "blog" }}

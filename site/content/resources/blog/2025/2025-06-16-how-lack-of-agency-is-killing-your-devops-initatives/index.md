@@ -5,34 +5,34 @@ ResourceId: AgIU1SK-3pE
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-date: 2025-07-21T09:00:00Z
+date: 2025-06-16T09:00:00Z
 weight: 250
 aliases:
-- /resources/AgIU1SK-3pE
+  - /resources/AgIU1SK-3pE
 aliasesArchive:
-- /how-lack-of-agency-is-killing-your-devops-initiatives
-- /blog/how-lack-of-agency-is-killing-your-devops-initiatives
+  - /how-lack-of-agency-is-killing-your-devops-initiatives
+  - /blog/how-lack-of-agency-is-killing-your-devops-initiatives
 categories:
-- DevOps
-- Engineering Excellence
+  - DevOps
+  - Engineering Excellence
 tags:
-- Agentic Agility
-- Pragmatic Thinking
-- Software Development
-- Operational Practices
-- Value Delivery
-- Self Organisation
-- Social Technologies
-- Frequent Releases
-- Continuous Delivery
-- Market Adaptability
-- Organisational Agility
-- Continuous Improvement
-- Deployment Frequency
-- Product Delivery
-- Sociotechnical Systems
-
+  - Agentic Agility
+  - Pragmatic Thinking
+  - Software Development
+  - Operational Practices
+  - Value Delivery
+  - Self Organisation
+  - Social Technologies
+  - Frequent Releases
+  - Continuous Delivery
+  - Market Adaptability
+  - Organisational Agility
+  - Continuous Improvement
+  - Deployment Frequency
+  - Product Delivery
+  - Sociotechnical Systems
 ---
+
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  
 **DevOps is agency.** It is the union of people, process, and products to enable continuous delivery of value to our end users.
 
