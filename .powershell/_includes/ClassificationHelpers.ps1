@@ -315,7 +315,7 @@ function Get-ClassificationsForType {
     #==========================================
     #=================return===================
     #==========================================
-    return $CatalogFromCache.Values | Sort-Object final_score -Descending
+    return $CatalogFromCache.Keys | ForEach-Object { $CatalogFromCache[$_] } | Sort-Object final_score -Descending
     #==========================================
     #================/return===================
     #==========================================

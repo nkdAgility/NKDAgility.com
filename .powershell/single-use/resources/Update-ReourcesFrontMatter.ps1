@@ -10,7 +10,7 @@
 $levelSwitch.MinimumLevel = 'Debug'
 
 # Iterate through each blog folder and update markdown files
-$outputDir = "site\content\resources\blog\2025"
+$outputDir = ".\site\content\resources\"
 $resources = $null
 # Get list of directories and select the first 10
 $resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending 
@@ -22,7 +22,7 @@ $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 $ResourceCatalogue = @{}
-$ResourceCatalogueCutoffDate = [DateTime]::Parse("2018-01-01")
+$ResourceCatalogueCutoffDate = [DateTime]::Parse("2025-01-01")
 
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $resources.Count
 $resourceCount = $resources.Count

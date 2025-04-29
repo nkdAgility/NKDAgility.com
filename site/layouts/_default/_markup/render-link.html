@@ -4,5 +4,5 @@
     {{- .Text }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small
   ></a>
 {{- else }}
-  <a href="{{- .Destination | safeURL }}"> {{- .Text }} </a>
+  <a href="{{- .Destination | safeURL }}">{{- .Text }}</a>
 {{- end }}

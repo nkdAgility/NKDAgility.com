@@ -51,7 +51,7 @@ categories:
 - DevOps
 
 ---
-In my journey through various organisations, I've come to realise that leadership plays a pivotal role in driving cultural and organisational change. This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.
+In my journey through various organisations, I've come to realise that [leadership]({{< ref "/categories/leadership" >}}) plays a pivotal role in driving cultural and [organisational change]({{< ref "/tags/organisational-change" >}}). This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.
 
 ### Setting a Clear Vision and Goals
 
@@ -62,7 +62,7 @@ One of the first steps leaders should take is to establish a clear vision and se
 
 ### Investing in Automation and Tooling
 
-To achieve continuous delivery, organisations must invest in the right tools and automation. If your infrastructure relies on on-premises servers and it takes weeks to provision new environments, you're setting yourself up for failure. Continuous delivery requires agility, and that means eliminating bottlenecks.
+To achieve [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), organisations must invest in the right tools and automation. If your infrastructure relies on on-premises servers and it takes weeks to provision new environments, you're setting yourself up for failure. Continuous delivery requires agility, and that means eliminating bottlenecks.
 
 - **Automate Everything**: From deployments to environment setups, automation is key to speeding up processes.
 - **Support Learning**: Encourage teams to explore new technologies and tools that can enhance their workflows.
@@ -71,10 +71,10 @@ To achieve continuous delivery, organisations must invest in the right tools and
 
 Many organisations have legacy applications that may not be architected for continuous delivery. As demands on products evolve, so too must the architecture. This isn't just about adding new features; it's about enabling teams to make incremental improvements.
 
-- **Long-Term Thinking**: Understand that architectural changes can take time. For instance, the Azure DevOps team took four years to overhaul their test infrastructure.
+- **Long-Term Thinking**: Understand that architectural changes can take time. For instance, the Azure [DevOps]({{< ref "/categories/devops" >}}) team took four years to overhaul their test infrastructure.
 - **Invest in Refactoring**: Allocate time for teams to refactor and improve existing systems, ensuring they can meet future demands.
 
-### Continuous Learning and Improvement
+### [Continuous Learning]({{< ref "/tags/continuous-learning" >}}) and Improvement
 
 As leaders, we must foster a culture of continuous learning and improvement—not just for ourselves but for our engineering teams as well. Are your engineers under constant pressure to deliver, or do they have the bandwidth to discuss necessary changes and improvements?
 

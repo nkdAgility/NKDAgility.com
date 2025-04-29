@@ -44,7 +44,7 @@ categories:
 - Product Management
 
 ---
-Scaling product development sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.
+[Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.
 
 ### The Reality of Scaling
 
@@ -57,7 +57,7 @@ So, why is it so challenging? The crux of the issue lies in the fact that most o
 Here are some of the critical challenges I’ve encountered when scaling product development:
 
 - **Lack of Alignment**: Teams often lack clarity on priorities. Instead of achieving speed, you end up with wasted effort.
-- **Technical Debt**: If technical debt isn’t managed, every new feature becomes increasingly difficult to ship. This can lead to frustration and burnout among developers.
+- **[Technical Debt]({{< ref "/tags/technical-debt" >}})**: If technical debt isn’t managed, every new feature becomes increasingly difficult to ship. This can lead to frustration and burnout among developers.
 - **Slow Feedback Loops**: When feedback loops are sluggish, poor decisions linger, compounding the problem and making it harder to pivot when necessary.
 
 ### The Path to Effective Scaling

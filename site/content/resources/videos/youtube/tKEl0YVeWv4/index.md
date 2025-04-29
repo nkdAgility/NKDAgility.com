@@ -49,13 +49,13 @@ categories:
 - DevOps
 
 ---
-Automation is a game changer in the world of software development, and I can’t stress enough how crucial it is for enabling teams to develop faster and more effectively. If there’s one mantra I live by, it’s this: if it can be automated, it should be automated. And if it can’t be automated yet, then it’s time to invest in your product to make that automation possible.
+Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}), and I can’t stress enough how crucial it is for enabling teams to develop faster and more effectively. If there’s one mantra I live by, it’s this: if it can be automated, it should be automated. And if it can’t be automated yet, then it’s time to invest in your product to make that automation possible.
 
 ### The Power of Automation
 
 Let’s break down why automation is so vital:
 
-- **Automated Deployments**: Imagine a world where every deployment is seamless. With automated deployments, you can refresh every security key, certificate, and environment without the risk of human error. This is the approach taken by Azure DevOps, where they build new environments for each deployment rather than upgrading existing ones. This ensures that you’re always working with the latest and greatest without the risk of legacy issues creeping in.
+- **Automated Deployments**: Imagine a world where every deployment is seamless. With automated deployments, you can refresh every security key, certificate, and environment without the risk of human error. This is the approach taken by Azure [DevOps]({{< ref "/categories/devops" >}}), where they build new environments for each deployment rather than upgrading existing ones. This ensures that you’re always working with the latest and greatest without the risk of legacy issues creeping in.
 
 - **Consistency Over Human Error**: Humans are inherently inconsistent. We can’t follow a set of steps in the same way every time, which is where automation shines. Robots, or automated processes, follow a defined set of steps flawlessly. If something goes wrong, you can pinpoint whether the issue lies in the process itself or in the execution. This clarity is invaluable.
 
@@ -67,11 +67,11 @@ Similarly, consider the global impact of incidents like the one involving CloudS
 
 ### Embracing Production
 
-One of my favourite quotes comes from Brian Harry, the former product unit manager for Azure DevOps: “There’s no place like production.” No matter how much testing and validation you perform, production issues are inevitable. You can’t simulate the real-world environment perfectly, and that’s why it’s essential to build quality into your processes from the start.
+One of my favourite quotes comes from Brian Harry, the former product unit manager for [Azure DevOps]({{< ref "/tags/azure-devops" >}}): “There’s no place like production.” No matter how much testing and validation you perform, production issues are inevitable. You can’t simulate the real-world environment perfectly, and that’s why it’s essential to build quality into your processes from the start.
 
 ### Building Quality In
 
-Instead of merely testing quality in, we should focus on building it in. This means getting your product in front of real customers as quickly as possible. Take Facebook, for example. When developers roll out a new version, they execute calls against both the current production version and the new version simultaneously. This allows them to compare performance and functionality in real-time, scaling from a small user base to millions almost instantaneously.
+Instead of merely testing quality in, we should focus on building it in. This means getting your product in front of real customers as quickly as possible. Take Facebook, for example. When developers roll out a new version, they execute calls against both the current production version and the new version simultaneously. This allows them to compare performance and functionality in real-time, [scaling]({{< ref "/tags/scaling" >}}) from a small user base to millions almost instantaneously.
 
 The result? A staggering turnaround time of about 12 to 13 minutes from code commit to production deployment, complete with full regression testing. This level of automation allows for rapid iterations and quick fixes, ensuring that the product remains robust and responsive to user needs.
 

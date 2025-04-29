@@ -46,7 +46,7 @@ categories:
 - DevOps
 
 ---
-Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. Scaling technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.
+Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. [Scaling]({{< ref "/tags/scaling" >}}) technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.
 
 ### The Hidden Dangers of Ignoring Culture
 
@@ -54,9 +54,9 @@ The harsh reality is that many organisations don’t recognise the impending iss
 
 - **Collaboration Breakdowns**: As teams grow, the natural flow of communication can falter. When collaboration becomes a chore rather than a natural part of your workflow, you’re in trouble.
   
-- **DevOps as a Buzzword**: If DevOps is merely a term thrown around in meetings rather than a genuine enabler of efficiency and innovation, it’s time to reassess your approach.
+- **[DevOps]({{< ref "/categories/devops" >}}) as a Buzzword**: If DevOps is merely a term thrown around in meetings rather than a genuine enabler of efficiency and innovation, it’s time to reassess your approach.
 
-- **Continuous Learning as an Afterthought**: When learning is relegated to a one-off training session rather than an ongoing practice, you risk stagnation.
+- **[Continuous Learning]({{< ref "/tags/continuous-learning" >}}) as an Afterthought**: When learning is relegated to a one-off training session rather than an ongoing practice, you risk stagnation.
 
 ### The Tool Trap
 
@@ -76,6 +76,6 @@ At Nak Agility, we focus on helping companies not just grow, but grow right. Her
 
 ### The Winning Formula
 
-Ultimately, the companies that thrive are not necessarily those with the most advanced technology; they are the ones with the strongest culture. A culture that supports collaboration, innovation, and continuous improvement is what sets successful organisations apart.
+Ultimately, the companies that thrive are not necessarily those with the most advanced technology; they are the ones with the strongest culture. A culture that supports collaboration, innovation, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is what sets successful organisations apart.
 
 So, I ask you: is your culture ready to scale? If you’re unsure, it might be time to take a step back and evaluate how your culture aligns with your growth ambitions. Remember, technology may be the engine, but culture is the fuel that drives sustainable success. Let’s ensure that as we scale our tech, we also nurture a culture that can keep up.

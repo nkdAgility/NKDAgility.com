@@ -51,7 +51,7 @@ categories:
 - Technical Leadership
 
 ---
-In the world of Agile, one of the most common misconceptions I encounter is the idea that there exists such a thing as a "junior Scrum Master." This notion is not only misleading but also detrimental to both the individual and the organisation. I’ve seen organisations mistakenly believe that the Scrum Master role can be filled by anyone on the team, often selecting the least productive member to take on this responsibility. This approach does a disservice to the individual and undermines the entire Scrum process. 
+In the world of Agile, one of the most common misconceptions I encounter is the idea that there exists such a thing as a "junior [Scrum]({{< ref "/categories/scrum" >}}) Master." This notion is not only misleading but also detrimental to both the individual and the organisation. I’ve seen organisations mistakenly believe that the [Scrum Master]({{< ref "/tags/scrum-master" >}}) role can be filled by anyone on the team, often selecting the least productive member to take on this responsibility. This approach does a disservice to the individual and undermines the entire Scrum process. 
 
 ### The Reality of the Scrum Master Role
 
@@ -67,7 +67,7 @@ The term "junior" implies a lack of experience or skill, which is simply not app
 
 To illustrate this point, consider the analogy of a gunnery sergeant in the military. There is no junior gunnery sergeant; rather, individuals are promoted through the ranks based on their demonstrated skills and expertise. They may be new to the specific role of gunnery sergeant, but they bring with them a wealth of knowledge and experience that is crucial for success.
 
-### Building Competence
+### Building [Competence]({{< ref "/tags/competence" >}})
 
 For those aspiring to become Scrum Masters, my advice is straightforward: gain experience within a relevant context. For instance, I once spoke with someone from an accounting background who wanted to transition into a Scrum Master role. I encouraged them to immerse themselves in a team within their field, leveraging their existing knowledge to help that team excel. 
 

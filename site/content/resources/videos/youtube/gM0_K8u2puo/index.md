@@ -44,13 +44,13 @@ categories:
 - Product Development
 
 ---
-In today’s fast-paced digital landscape, the ability to set market trends rather than follow them is crucial for any business aiming for success. I’ve seen firsthand how organisations that embrace a proactive approach to product delivery can not only survive but thrive. Here’s how you can position yourself as a market leader by adopting a tight release frequency and continuously delivering value to your users.
+In today’s fast-paced digital landscape, the ability to set market trends rather than follow them is crucial for any business aiming for success. I’ve seen firsthand how organisations that embrace a proactive approach to [product delivery]({{< ref "/tags/product-delivery" >}}) can not only survive but thrive. Here’s how you can position yourself as a market leader by adopting a tight release frequency and continuously delivering value to your users.
 
 ### The Importance of a Tight Release Frequency
 
 To truly set the market, you need to be agile in your approach. This means:
 
-- **Frequent Releases**: Aim for a regular cadence in your product releases. Whether it’s weekly, bi-weekly, or even daily, the key is to ensure that you’re consistently delivering updates and new features.
+- **[Frequent Releases]({{< ref "/tags/frequent-releases" >}})**: Aim for a regular cadence in your product releases. Whether it’s weekly, bi-weekly, or even daily, the key is to ensure that you’re consistently delivering updates and new features.
 - **Real User Feedback**: By getting every change in front of real users as quickly as possible, you can gather invaluable feedback. This not only helps you understand what works and what doesn’t but also allows you to pivot quickly in response to user needs.
 
 ### Adapting to Market Opportunities

@@ -57,15 +57,15 @@ This scenario is all too common when governance is treated as an isolated functi
 
 ### Compliance vs. Overzealous Governance
 
-Take the example of compliance regulations, such as the Sarbanes-Oxley Act (SOX). The intent behind SOX is to ensure transparency and accountability, but many organisations misinterpret this as a need to exceed the minimum requirements. 
+Take the example of compliance regulations, such as the Sarbanes-Oxley Act (SOX). The intent behind SOX is to ensure [transparency]({{< ref "/tags/transparency" >}}) and accountability, but many organisations misinterpret this as a need to exceed the minimum requirements. 
 
 - **Minimum Compliance**: The SOX audit requires organisations to trace actions within their systems, but it doesn’t mandate that this process be user-friendly. A simple log file suffices. Yet, I’ve seen organisations burdened with excessive documentation and processes, all in the name of compliance. 
 
 In one instance, I worked with a US-based organisation that had a stringent compliance framework. Every meeting required notes to be sent to compliance for review. During a discussion about transitioning to Team Foundation Server, compliance personnel insisted on maintaining change request logs. 
 
-I invited them to observe how Azure DevOps functions, which maintains a complete history of every work item. When I asked if this was sufficient for compliance, they confirmed it was. We eliminated the need for change request work items entirely, streamlining the process and reducing unnecessary overhead. 
+I invited them to observe how Azure [DevOps]({{< ref "/categories/devops" >}}) functions, which maintains a complete history of every work item. When I asked if this was sufficient for compliance, they confirmed it was. We eliminated the need for change request work items entirely, streamlining the process and reducing unnecessary overhead. 
 
-### Lean Governance: A Path Forward
+### [Lean]({{< ref "/categories/lean" >}}) Governance: A Path Forward
 
 This experience highlights the importance of lean governance. We must regularly assess our processes to identify and eliminate waste. Here are some strategies I recommend:
 

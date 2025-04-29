@@ -10,16 +10,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Jkw4sMe6h-w
 url: /resources/videos/:slug
-slug: how-is-agile-leadership-different-to-traditional-management
+slug: from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 layout: video
 aliases:
 - /resources/Jkw4sMe6h-w
+- /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 - /resources/videos/how-is-agile-leadership-different-to-traditional-management
 aliasesArchive:
 - /resources/videos/how-is-agile-leadership-different-to-traditional-management
 - /resources/videos/how-is-agile-leadership-different-to-traditional-management-
 - /resources/how-is-agile-leadership-different-to-traditional-management-
 - how-is-agile-leadership-different-to-traditional-management
+- /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
+- from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg
 duration: 243
 isShort: false

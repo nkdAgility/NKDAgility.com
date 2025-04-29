@@ -70,7 +70,7 @@ function Update-YoutubeMarkdownFiles {
             }
             else {
                 $frontMatter = [ordered]@{}
-                $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $videoDir )
+                $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $markdownFile, $videoDir )
                 $source = "youtube"
             }  
 

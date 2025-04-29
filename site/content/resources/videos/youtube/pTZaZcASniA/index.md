@@ -11,14 +11,14 @@ ResourceImportSource: Youtube
 videoId: pTZaZcASniA
 source: internal
 url: /resources/videos/:slug
-slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+slug: navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 layout: video
 preview: https://i.ytimg.com/vi/pTZaZcASniA/maxresdefault.jpg
 duration: 91
 isShort: false
 aliases:
 - /resources/pTZaZcASniA
-- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 - /resources/videos/1-the-legacy-system-dilemma-why-its-a-ctos-biggest-headache
 aliasesArchive:
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
@@ -28,6 +28,8 @@ aliasesArchive:
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 - /resources/videos/1-the-legacy-system-dilemma-why-its-a-ctos-biggest-headache
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
+- navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +40,7 @@ resourceTypes:
 categories: []
 
 ---
-Every CTO knows the pain of dealing with technology that feels like it belongs in a museum rather than a modern workplace. I’ve been there myself, grappling with systems that are not just slow and expensive, but also riddled with layers of technical debt and questionable architecture. It’s a frustrating experience, and I want to share some insights on why this problem persists and how we can begin to tackle it.
+Every CTO knows the pain of dealing with technology that feels like it belongs in a museum rather than a modern workplace. I’ve been there myself, grappling with systems that are not just slow and expensive, but also riddled with layers of [technical debt]({{< ref "/tags/technical-debt" >}}) and questionable architecture. It’s a frustrating experience, and I want to share some insights on why this problem persists and how we can begin to tackle it.
 
 ### The Legacy System Dilemma
 

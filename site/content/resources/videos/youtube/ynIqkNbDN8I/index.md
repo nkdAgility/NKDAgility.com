@@ -56,7 +56,7 @@ categories:
 - Product Development
 
 ---
-In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is unrealised value. This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your product development strategy.
+In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is [unrealised value]({{< ref "/tags/unrealised-value" >}}). This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your [product development]({{< ref "/categories/product-development" >}}) strategy.
 
 ### Understanding Unrealised Value
 
@@ -81,7 +81,7 @@ The more users your product serves, the greater its value—whether through a co
 
 ### Hypothesis-Driven Development
 
-I firmly believe in hypothesis-driven practices in product management. When you have a belief that a feature will add value, it’s essential to break it down into a hypothesis. For instance, if you think a new feature will attract more users, quantify that belief:
+I firmly believe in hypothesis-driven practices in [product management]({{< ref "/categories/product-management" >}}). When you have a belief that a feature will add value, it’s essential to break it down into a hypothesis. For instance, if you think a new feature will attract more users, quantify that belief:
 
 - **Hypothesis**: If we build this feature, we expect a 10% increase in users.
 - **Validation**: What’s the smallest version of this feature we can create to test our hypothesis?
@@ -94,7 +94,7 @@ A classic example of this is Dropbox. When the founder sought investment, he fac
 
 This illustrates the power of validating hypotheses before fully developing a product. You can test market interest without building the entire solution.
 
-### The Role of Deployment Frequency
+### The Role of [Deployment Frequency]({{< ref "/tags/deployment-frequency" >}})
 
 Once your product is live, the speed at which you deploy updates is critical. Your deployment frequency dictates the minimum length of your feedback loop. For example, if you deploy every two weeks, you can’t gather feedback any faster than that.
 
@@ -103,6 +103,6 @@ Once your product is live, the speed at which you deploy updates is critical. Yo
 
 ### Conclusion
 
-In summary, unrealised value is a vital component of product development that deserves your attention. By understanding your market, validating your assumptions through hypothesis-driven practices, and optimising your deployment frequency, you can unlock the full potential of your product. Remember, the goal is to serve your users effectively, and that requires a commitment to continuous learning and adaptation.
+In summary, unrealised value is a vital component of product development that deserves your attention. By understanding your market, validating your assumptions through hypothesis-driven practices, and optimising your deployment frequency, you can unlock the full potential of your product. Remember, the goal is to serve your users effectively, and that requires a commitment to [continuous learning]({{< ref "/tags/continuous-learning" >}}) and adaptation.
 
 Let’s not forget that the journey to realising value is ongoing. By staying attuned to your users and their needs, you can ensure that your product remains relevant and valuable in an ever-changing landscape.
