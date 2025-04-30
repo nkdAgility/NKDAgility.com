@@ -44,7 +44,7 @@ You can’t deliver quality at speed when your automation is duct-taped together
 If your automation strategy looks something like this:
 
 - Manual SQL deployments from someone’s laptop
-- [Azure Pipelines]({{< ref "/tags/azure-pipelines" >}}) building unversioned assemblies
+- Azure Pipelines building unversioned assemblies
 - Manual deployment to dev and test environments
 - TeamCity rebuilding new unversioned assemblies
 - Octopus Deploy is deploying from Team City to staging and production
@@ -91,7 +91,7 @@ These platforms:
 
 1ES, pioneered at Microsoft, embodies this by unifying:
 
-- **Azure Pipelines** for end-to-end CI/CD
+- **[Azure Pipelines]({{< ref "/tags/azure-pipelines" >}})** for end-to-end CI/CD
 - **[Azure Repos]({{< ref "/tags/azure-repos" >}})**, **Boards**, and **Artifacts** as a single source of truth
 - **Infrastructure as Code**, **Policy as Code**, and integrated telemetry
 

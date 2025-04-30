@@ -582,7 +582,7 @@ function Update-ClassificationLinksInBodyContent {
 
     foreach ($classification in $catalog.Keys) {
         $classificationData = $catalog[$classification]
-        if ($classificationData.LinkInContent -eq $false) {
+        if ($classificationData.CrossLinkingInContent -eq $false) {
             Write-WarningLog "Classification $classification. Skipping."
             continue
         }
