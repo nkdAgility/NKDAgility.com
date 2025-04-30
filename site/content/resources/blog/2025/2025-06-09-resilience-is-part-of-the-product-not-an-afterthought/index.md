@@ -40,7 +40,7 @@ Resilience must be treated like any other core feature. It must be designed, bui
 
 Incidents were expected, contained, and learned from, not blamed on individuals. They did not hope for resilience. They built it.
 
-If they did have an incident, they would own it, no just fix the problem and sweep it under the rug.
+If they did have an incident, they would own it, not just fix the problem and sweep it under the rug.
 
 ## Build for Containment, Not Perfection
 
