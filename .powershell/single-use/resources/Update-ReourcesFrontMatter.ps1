@@ -22,7 +22,7 @@ $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 $ResourceCatalogue = @{}
-$ResourceCatalogueCutoffDate = [DateTime]::Parse("2025-01-01")
+$ResourceCatalogueCutoffDate = [DateTime]::Parse("2000-01-01")
 
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $resources.Count
 $resourceCount = $resources.Count
@@ -210,7 +210,16 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
         $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
     }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
+    $numberOfYears = 10
+    $cutoffDate = (Get-Date).AddYears(-$numberOfYears)
+    if ($hugoMarkdown.FrontMatter.date -lt $cutoffDate) {
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug' -Overwrite
+    }
+    else {
+        # You can change this branch if you want different behaviour, or leave it identical
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
+    }
+    
     # =================Add aliasesArchive===================
     $aliasesArchive = @()
     $aliasesArchive += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }

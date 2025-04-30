@@ -582,6 +582,10 @@ function Update-ClassificationLinksInBodyContent {
 
     foreach ($classification in $catalog.Keys) {
         $classificationData = $catalog[$classification]
+        if ($classificationData.LinkInContent -eq $false) {
+            Write-WarningLog "Classification $classification. Skipping."
+            continue
+        }
         $classificationTitle = $classificationData.Title
         $classificationSlug = $classificationTitle.ToLowerInvariant() -replace ' ', '-'
         $classificationEscaped = [regex]::Escape($classificationTitle)
