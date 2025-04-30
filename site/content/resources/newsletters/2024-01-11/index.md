@@ -23,7 +23,7 @@ categories: []
 tags: []
 
 ---
-**Kickstart 2024 with Our Unmissable Scrum Training Offer: Buy 1, Get 1 FREE!**
+**Kickstart 2024 with Our Unmissable [Scrum]({{< ref "/categories/scrum" >}}) Training Offer: Buy 1, Get 1 FREE!**
 
 ![](images/naked-agility-technically-agile-1280×720-24Q1-Change-1-800x450.webp)
 
@@ -42,9 +42,9 @@ You can also book just the skills courses as well! You will need to click throug
 
 \-MrHinsh
 
-_P.S. Hurry, the exclusive 20% discount offer is valid for a limited time only! Enrol today and start your journey to becoming a Product Owner, Scrum Master or Agile Leader. Your future self will thank you!_
+_P.S. Hurry, the exclusive 20% discount offer is valid for a limited time only! Enrol today and start your journey to becoming a [Product Owner]({{< ref "/tags/product-owner" >}}), [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Agile Leader. Your future self will thank you!_
 
-**Martin Hinshelwood** Professional Scrum Trainer, Professional Kanban Trainer, & Microsoft MVP: DevOps
+**Martin Hinshelwood** [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer, Professional [Kanban]({{< ref "/categories/kanban" >}}) Trainer, & Microsoft MVP: [DevOps]({{< ref "/categories/devops" >}})
 
 naked Agility with Martin Hinshelwood | [https://nkdagility.com](https://nkdagility.com/) +44 7493 404 468| [https://wa.me/447493404468](https://wa.me/447493404468)
 

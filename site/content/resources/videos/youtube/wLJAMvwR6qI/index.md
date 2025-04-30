@@ -44,15 +44,15 @@ categories:
 - Product Management
 
 ---
-In our ever-evolving landscape of product development, one of the most crucial skills we can cultivate is the ability to work with assumptions. It’s a topic that I’m particularly passionate about, and I’m excited to share insights from our new class focused on this very subject. 
+In our ever-evolving landscape of [product development]({{< ref "/categories/product-development" >}}), one of the most crucial skills we can cultivate is the ability to work with assumptions. It’s a topic that I’m particularly passionate about, and I’m excited to share insights from our new class focused on this very subject. 
 
 ### Understanding Assumptions in Product Development
 
-First and foremost, we need to acknowledge that assumptions are an inherent part of our product development journey. It’s not just a single assumption we make; often, it’s a multitude of them. Recognising this is the first step towards more effective product management. 
+First and foremost, we need to acknowledge that assumptions are an inherent part of our product development journey. It’s not just a single assumption we make; often, it’s a multitude of them. Recognising this is the first step towards more effective [product management]({{< ref "/categories/product-management" >}}). 
 
 - **What assumptions are we making?** 
   - When discussing potential product futures
-  - While creating product backlog items
+  - While creating [product backlog]({{< ref "/tags/product-backlog" >}}) items
   - Throughout the entire development process
 
 Understanding the types of assumptions we make is vital, but it’s equally important to determine which of these need validation. Not every assumption carries the same weight; some are critical, while others may be less significant. 
@@ -77,7 +77,7 @@ Once we’ve identified our assumptions, the next step is to formulate hypothese
 
 It’s essential to understand that in product development, we will never achieve 100% confidence in our hypotheses. Instead, we need to define our desired level of confidence and align our testing strategies accordingly.
 
-### Experimentation and Analysis
+### [Experimentation]({{< ref "/tags/experimentation" >}}) and Analysis
 
 A significant part of our learning will focus on designing experiments that help us test our hypotheses. We’ll discuss how to manage costs related to these experiments and ensure they align with our desired signal strength and confidence levels.
 

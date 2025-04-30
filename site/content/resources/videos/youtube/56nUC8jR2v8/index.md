@@ -43,9 +43,9 @@ Now, you might be wondering, what exactly do I mean by the “tyranny of Taylori
 
 In my experience, the remnants of Taylorism can be seen in how teams operate. Here are a few key points to consider:
 
-- **Overemphasis on Metrics**: While data is essential, an obsession with metrics can lead to a culture of fear rather than one of collaboration and experimentation. We need to remember that not all valuable work can be quantified.
+- **Overemphasis on Metrics**: While data is essential, an obsession with metrics can lead to a culture of fear rather than one of collaboration and [experimentation]({{< ref "/tags/experimentation" >}}). We need to remember that not all valuable work can be quantified.
   
-- **Lack of Autonomy**: When teams are micromanaged, their ability to innovate diminishes. Autonomy fosters creativity, and without it, we risk becoming mere cogs in a machine.
+- **Lack of Autonomy**: When teams are micromanaged, their [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}) diminishes. Autonomy fosters creativity, and without it, we risk becoming mere cogs in a machine.
 
 - **Resistance to Change**: Many organisations cling to outdated practices because they fear the unknown. This resistance can hinder progress and prevent teams from embracing agile principles.
 

@@ -40,7 +40,7 @@ resourceTypes:
 categories: []
 
 ---
-I've been in the trenches of software development long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just technical debt; that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.
+I've been in the trenches of [software development]({{< ref "/tags/software-development" >}}) long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just [technical debt]({{< ref "/tags/technical-debt" >}}); that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.
 
 ### Understanding Technical Debt
 
@@ -54,7 +54,7 @@ So, how do we address this? The first step is to stop shipping bad code. It soun
 
 - **Code Reviews**: Implement a robust code review process. This not only helps catch issues before they make it to production but also fosters a culture of collaboration and learning within the team.
   
-- **Automated Testing**: Invest in automated tests. They serve as a safety net, allowing you to catch regressions and ensure that your code behaves as expected.
+- **[Automated Testing]({{< ref "/tags/automated-testing" >}})**: Invest in automated tests. They serve as a safety net, allowing you to catch regressions and ensure that your code behaves as expected.
 
 - **Refactoring**: Make refactoring a regular part of your development process. Don’t wait for a major release to clean up your code; do it incrementally.
 

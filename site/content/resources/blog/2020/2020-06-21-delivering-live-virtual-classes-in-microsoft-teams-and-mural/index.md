@@ -73,7 +73,7 @@ I have delivered six [training events in Team with Mural and 3 in Zoom with Mura
 
 I recently live-streamed and example [Tech Check](https://youtu.be/_bjNHN4PI9s) that I use to give students the information that they need to have an excellent class, it's a little out of date as I have made my processes much slicker since then, but its an example. I'll do another one soon :) make sure that you subscribe on [http://nakedagility.tv](http://nakedagility.tv) for an updated one. I always add this to my event invitations, but I prefer the live tech-check.
 
-## A Professional Scrum Classroom
+## A Professional [Scrum]({{< ref "/categories/scrum" >}}) Classroom
 
 In our [Professional Scrum training](https://nkdagility.com/training/scrum-training/), we want to create a safe space for individuals to collaborate, discuss and disagree. This needs to be a safe place for the team to fail as well as to explore the ideas that we are trying to teach.
 
@@ -83,9 +83,9 @@ I would add that a safe space should be free of Zoombombing and other unwanted a
 
 ### A Safe Space in Microsoft Teams & Mural
 
-In order to [create that safe space](https://www.forbes.com/sites/forbescoachescouncil/2017/11/02/15-ways-your-organization-can-create-a-safe-space-in-a-divisive-world/), I create a new Team in Microsoft Teams for each class that I am running. This allows me to have Scheduled Meetings, Announcements, Storage, and Chat that is all secured to the participants of the class. Microsoft Teams can be used to amplify the Scrum Values:
+In order to [create that safe space](https://www.forbes.com/sites/forbescoachescouncil/2017/11/02/15-ways-your-organization-can-create-a-safe-space-in-a-divisive-world/), I create a new Team in Microsoft Teams for each class that I am running. This allows me to have Scheduled Meetings, Announcements, Storage, and Chat that is all secured to the participants of the class. Microsoft Teams can be used to amplify the [Scrum Values]({{< ref "/tags/scrum-values" >}}):
 
-- **Focus** \- In the Team for this class there are no other distractions. There is Focus on the task at hand which is learning. For real work, I would expect each Product Team to have a Team in Teams with each Scrum Team having their own Channel.
+- **Focus** \- In the Team for this class there are no other distractions. There is Focus on the task at hand which is learning. For real work, I would expect each Product Team to have a Team in Teams with each [Scrum Team]({{< ref "/tags/scrum-team" >}}) having their own Channel.
 - **Openness** \- Within the Team, in Microsoft Teams, we have visibility across all of the Channels (self-organizing groups). We can all see the murals and we share our experiences in the different exercises.
 - **Commitment** \- Teams facilitates the students taking accountability for their own time and attention. It allows them to use the breakout rooms or not, return or not.
 - **Respect** \- Teams, but not using technology to tell people what to do created respect for the trainer, and our fellow students.
@@ -103,7 +103,7 @@ The Scrum Values
 
 </figure>
 
-In Professional Scrum Training, it is imperative that we heighten the Scrum Values, and to do that, we need to foster Self-Organising Teams.
+In [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Training, it is imperative that we heighten the Scrum Values, and to do that, we need to foster Self-Organising Teams.
 
 ## Self-Organising Teams
 
@@ -194,7 +194,7 @@ For self-organisation to thrive within agile teams, we need to create bounded en
 
 <figcaption>
 
-Example Exercise Format from Professional Scrum Master
+Example Exercise Format from Professional [Scrum Master]({{< ref "/tags/scrum-master" >}})
 
 </figcaption>
 

@@ -45,13 +45,13 @@ categories:
 - Scrum
 
 ---
-Scrum is a lightweight framework that empowers teams and organisations to generate value through adaptive solutions for complex problems. Over my 12 years as a professional Scrum trainer, I’ve seen firsthand how this framework can transform the way we work. Today, I want to share an overview of Scrum, breaking down its core components: five values, three accountabilities, three artifacts, and five events. 
+[Scrum]({{< ref "/categories/scrum" >}}) is a lightweight framework that empowers teams and organisations to generate value through adaptive solutions for complex problems. Over my 12 years as a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) trainer, I’ve seen firsthand how this framework can transform the way we work. Today, I want to share an overview of Scrum, breaking down its core components: five values, three accountabilities, three artifacts, and five events. 
 
 ### The Foundation of Scrum: Empiricism
 
-At the heart of Scrum lies empiricism, which is built on three pillars: transparency, inspection, and adaptation. Transparency is crucial; without it, we cannot effectively inspect or adapt. However, achieving transparency requires trust—a commodity that doesn’t just appear; it demands deliberate effort to cultivate and maintain.
+At the heart of Scrum lies empiricism, which is built on three pillars: [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation. Transparency is crucial; without it, we cannot effectively inspect or adapt. However, achieving transparency requires trust—a commodity that doesn’t just appear; it demands deliberate effort to cultivate and maintain.
 
-### The Five Scrum Values
+### The Five [Scrum Values]({{< ref "/tags/scrum-values" >}})
 
 The five values of Scrum—courage, focus, respect, openness, and commitment—serve as guiding principles for team decisions. They are essential for fostering the trust and empathy necessary for effective collaboration. Here’s how each value contributes to a successful Scrum environment:
 
@@ -63,13 +63,13 @@ The five values of Scrum—courage, focus, respect, openness, and commitment—s
 
 ### The Three Accountabilities
 
-In Scrum, we have three key accountabilities that form the Scrum team. It’s important to note that these roles are not merely job titles; they represent the responsibilities that each member holds within the team.
+In Scrum, we have three key accountabilities that form the [Scrum team]({{< ref "/tags/scrum-team" >}}). It’s important to note that these roles are not merely job titles; they represent the responsibilities that each member holds within the team.
 
-1. **Product Owner**: Responsible for maximising the value of the work done by the Scrum team. This includes developing and communicating the product goal, managing the product backlog, and ensuring its visibility and clarity.
+1. **[Product Owner]({{< ref "/tags/product-owner" >}})**: Responsible for maximising the value of the work done by the Scrum team. This includes developing and communicating the product goal, managing the [product backlog]({{< ref "/tags/product-backlog" >}}), and ensuring its visibility and clarity.
    
 2. **Developers**: This term encompasses everyone involved in creating the product. Developers are accountable for delivering a usable working product and are responsible for planning, quality, and collaboration.
 
-3. **Scrum Master**: The Scrum Master ensures the effectiveness of the Scrum team by providing support and fostering relationships among team members and stakeholders. They do not dictate tasks but instead facilitate the team’s processes.
+3. **[Scrum Master]({{< ref "/tags/scrum-master" >}})**: The Scrum Master ensures the effectiveness of the Scrum team by providing support and fostering relationships among team members and stakeholders. They do not dictate tasks but instead facilitate the team’s processes.
 
 ### The Three Artifacts
 
@@ -79,7 +79,7 @@ Artifacts in Scrum provide the transparency necessary for effective decision-mak
 
 - **Sprint Backlog**: Contains the Sprint goal, selected backlog items, and an implementation plan. It reflects what the team is currently working on and adapts as needed throughout the Sprint.
 
-- **Product Increment**: Represents the sum of all completed work at the end of a Sprint. It must be usable and meet the definition of done, ensuring that it can be delivered to customers.
+- **Product [Increment]({{< ref "/tags/increment" >}})**: Represents the sum of all completed work at the end of a Sprint. It must be usable and meet the [definition of done]({{< ref "/tags/definition-of-done" >}}), ensuring that it can be delivered to customers.
 
 ### The Five Scrum Events
 
@@ -87,9 +87,9 @@ Scrum events are time-boxed activities that facilitate the empirical process. He
 
 1. **Sprint Planning**: The team inspects the product backlog and adapts the Sprint backlog to create a focused plan for the upcoming Sprint.
 
-2. **Daily Scrum**: A daily meeting for developers to maintain transparency and plan their next steps towards achieving the Sprint goal.
+2. **[Daily Scrum]({{< ref "/tags/daily-scrum" >}})**: A daily meeting for developers to maintain transparency and plan their next steps towards achieving the Sprint goal.
 
-3. **Sprint Review**: Near the end of the Sprint, the team presents their work to stakeholders for inspection and feedback, allowing for adjustments to the product backlog.
+3. **[Sprint Review]({{< ref "/tags/sprint-review" >}})**: Near the end of the Sprint, the team presents their work to stakeholders for inspection and feedback, allowing for adjustments to the product backlog.
 
 4. **Sprint Retrospective**: Following the Sprint Review, the team reflects on their processes and identifies ways to improve their effectiveness.
 

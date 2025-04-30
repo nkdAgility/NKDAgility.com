@@ -55,7 +55,7 @@ In a course environment, you're not just absorbing information, you're actively 
 
 We all know that the power of conversation, the exchange of perspectives, and the benefits of shared understanding can shape your learning journey in unique ways that a reading experience cannot. 🚀
 
-I urge you not to overlook the value of attending a course and keep reading.  The whole philosophy behind my Agile and Scrum courses is to create an environment that facilitates thought-provoking discussions, encourages curiosity, and promotes collaborative learning.
+I urge you not to overlook the value of attending a course and keep reading.  The whole philosophy behind my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses is to create an environment that facilitates thought-provoking discussions, encourages curiosity, and promotes collaborative learning.
 
 Don't just read, interact!
 

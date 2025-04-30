@@ -58,7 +58,7 @@ Let's explore how to transform these interactions into impactful opportunities.�
 
 ## The Essential Element of Effective Sprint Reviews 🌟 
 
-Stakeholder engagement is not just an add-on but a critical component of successful Sprint reviews. Understanding their needs and expectations is paramount for the Scrum team's success. 
+Stakeholder engagement is not just an add-on but a critical component of successful Sprint reviews. Understanding their needs and expectations is paramount for the [Scrum]({{< ref "/categories/scrum" >}}) team's success. 
 
 - **Grasping Stakeholder Priorities:** 🤝 Remember, the primary question should be, "What do our stakeholders care about?" Focus on their interests and concerns. 
 
@@ -66,7 +66,7 @@ Stakeholder engagement is not just an add-on but a critical component of success
 
 - **The Art of Engagement:** 💬 Think of each update as a chance to market the team's achievements in a way that highlights value to stakeholders. 
 
-## Crafting a Stakeholder-Centric Sprint Review 🎯 
+## Crafting a Stakeholder-Centric [Sprint Review]({{< ref "/tags/sprint-review" >}}) 🎯 
 
 Effective Sprint reviews are tailored to the audience - your stakeholders. This section focuses on aligning the review process with stakeholder interests and needs. 
 
@@ -80,7 +80,7 @@ Effective Sprint reviews are tailored to the audience - your stakeholders. This 
 
 The right engagement strategy can transform your Sprint review into a productive and transparent collaboration. Let’s dive into the strategies that make this possible. 
 
-- **Engagement Leads to Transparency:** 👓 A successful Sprint review leads to an up-to-date, transparent product backlog, achievable through effective stakeholder engagement. 
+- **Engagement Leads to [Transparency]({{< ref "/tags/transparency" >}}):** 👓 A successful Sprint review leads to an up-to-date, transparent [product backlog]({{< ref "/tags/product-backlog" >}}), achievable through effective stakeholder engagement. 
 
 - **Understanding Stakeholder Language:** 💡 Speak in terms that stakeholders understand and appreciate to keep them engaged and informed. 
 

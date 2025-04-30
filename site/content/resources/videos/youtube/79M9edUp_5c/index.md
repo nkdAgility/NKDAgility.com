@@ -65,7 +65,7 @@ To make the most of asynchronous communication, consider the following strategie
 
 - **Set Clear Expectations**: Establish guidelines for response times and communication channels. This helps everyone understand when and how to engage.
 
-- **Utilise the Right Tools**: Leverage platforms that facilitate asynchronous communication, such as Slack, Microsoft Teams, or project management tools like Trello or Asana. These tools can help keep conversations organised and accessible.
+- **Utilise the Right Tools**: Leverage platforms that facilitate asynchronous communication, such as Slack, Microsoft Teams, or [project management]({{< ref "/tags/project-management" >}}) tools like Trello or Asana. These tools can help keep conversations organised and accessible.
 
 - **Encourage Thoughtful Responses**: Remind team members to take their time when responding. This can lead to more meaningful discussions and better decision-making.
 

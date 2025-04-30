@@ -37,7 +37,7 @@ categories:
 - Product Development
 
 ---
-## Stepping Up Your Game as a Product Owner
+## Stepping Up Your Game as a [Product Owner]({{< ref "/tags/product-owner" >}})
 
 The Agile landscape is a vast expanse of roles, responsibilities, and possibilities and the realm of product ownership in Agile is ever-evolving.
 
@@ -51,7 +51,7 @@ Let's delve deeper, and I'll share my perspectives on boosting your product owne
 
 ## Beyond The Basics of Product Ownership
 
-For those acquainted with my Agile and Scrum teachings, you'll resonate with the comprehensive insights we've shared about the foundational Product Owner role, basically the core of a Product Owner, its nuances and its potential.
+For those acquainted with my Agile and [Scrum]({{< ref "/categories/scrum" >}}) teachings, you'll resonate with the comprehensive insights we've shared about the foundational Product Owner role, basically the core of a Product Owner, its nuances and its potential.
 
 We've unravelled their essence, their function, and their impact.
 

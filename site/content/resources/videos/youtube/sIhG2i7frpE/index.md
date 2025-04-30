@@ -56,15 +56,15 @@ In my journey with Caman, I've come to realise that one of its core tenets is th
 
 ### The Power of Metrics and Visualisation
 
-Metrics are more than just numbers; they are the stories behind our workflows. They help us identify patterns, understand our performance, and ultimately increase transparency within our teams. When we can see the data clearly, we can make informed decisions about where to focus our improvement efforts. Here’s how I approach this:
+Metrics are more than just numbers; they are the stories behind our workflows. They help us identify patterns, understand our performance, and ultimately increase [transparency]({{< ref "/tags/transparency" >}}) within our teams. When we can see the data clearly, we can make informed decisions about where to focus our improvement efforts. Here’s how I approach this:
 
-- **Identify Key Metrics**: What are the most important indicators of success for your team? Is it cycle time, lead time, or perhaps the number of completed tasks? Pinpointing these metrics is crucial.
+- **Identify Key Metrics**: What are the most important indicators of success for your team? Is it [cycle time]({{< ref "/tags/cycle-time" >}}), [lead time]({{< ref "/tags/lead-time" >}}), or perhaps the number of completed tasks? Pinpointing these metrics is crucial.
   
-- **Use Visual Tools**: Tools like Kanban boards, burn-down charts, and cumulative flow diagrams can transform raw data into visual insights. These visuals not only make the data more digestible but also highlight areas that need attention.
+- **Use Visual Tools**: Tools like [Kanban]({{< ref "/categories/kanban" >}}) boards, burn-down charts, and cumulative flow diagrams can transform raw data into visual insights. These visuals not only make the data more digestible but also highlight areas that need attention.
 
 - **Foster a Culture of Transparency**: When everyone on the team has access to the same data, it encourages open discussions about performance and improvement. This transparency is vital for fostering trust and collaboration.
 
-### Continuous Improvement: The Heart of Caman
+### [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}}): The Heart of Caman
 
 If you’re not making changes to your workflow on a continuous basis, you might not be fully embracing the Caman philosophy. Continuous improvement is not a one-off task; it’s an ongoing commitment. Here are some strategies I’ve found effective:
 

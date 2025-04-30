@@ -46,9 +46,9 @@ categories:
 - Product Development
 
 ---
-## Scrum's True Potential: A Journey Through the APS Immersive Class
+## [Scrum]({{< ref "/categories/scrum" >}})'s True Potential: A Journey Through the APS Immersive Class
 
-In the evolving landscape of Scrum, nothing quite stands out like the Applied Professional Scrum (APS) immersive experience.  ✨
+In the evolving landscape of Scrum, nothing quite stands out like the Applied [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS) immersive experience.  ✨
 
 This course has significantly shaped my understanding and approach to Scrum, offering a deep-rooted perspective on its core principles.
 
@@ -62,7 +62,7 @@ Every Scrum enthusiast knows its underlying principles, but how many truly grasp
 
 But its brilliance lies in its immersive nature, which seamlessly bridges theory with real-world application.
 
-As I've often mused, "It's one thing to know the definition of a product owner and quite another to tailor its role to your unique organisational challenges and strengths."
+As I've often mused, "It's one thing to know the definition of a [product owner]({{< ref "/tags/product-owner" >}}) and quite another to tailor its role to your unique organisational challenges and strengths."
 
 In the APS class, every session becomes a catalyst, prompting introspection and encouraging customisation based on individual organisational realities.  🧭
 

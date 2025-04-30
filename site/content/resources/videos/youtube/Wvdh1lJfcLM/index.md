@@ -42,9 +42,9 @@ categories:
 - DevOps
 
 ---
-In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure DevOps is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.
+In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure [DevOps]({{< ref "/categories/devops" >}}) is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.
 
-## **Why Migrate to Azure DevOps?**
+## **Why Migrate to [Azure DevOps]({{< ref "/tags/azure-devops" >}})?**
 
 Migration from TFS to Azure DevOps offers numerous benefits:
 
@@ -76,13 +76,13 @@ When it comes to migrating from TFS to Azure DevOps, we offer a two-pronged appr
 
 ### **1\. Targeted Migration Using Azure DevOps Migration Tools**
 
-For organizations looking to migrate specific elements—such as individual work items, code repositories, or builds—our targeted migration service is ideal. Using the Azure DevOps Migration Tools available on GitHub, we assist in moving specific components of your TFS environment. This approach is perfect when:
+For organizations looking to migrate specific elements—such as individual work items, code repositories, or builds—our targeted migration service is ideal. Using the Azure DevOps Migration Tools available on [GitHub]({{< ref "/tags/github" >}}), we assist in moving specific components of your TFS environment. This approach is perfect when:
 
 - You want to consolidate projects.
 
 - You need to merge or split repositories.
 
-- You wish to change process templates, for example, moving from Scrum to Agile or vice versa.
+- You wish to change process templates, for example, moving from [Scrum]({{< ref "/categories/scrum" >}}) to Agile or vice versa.
 
 ### **2\. Managed Import into Azure DevOps**
 

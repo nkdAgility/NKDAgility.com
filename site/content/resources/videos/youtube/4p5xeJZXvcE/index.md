@@ -57,7 +57,7 @@ When we think about agile methodologies, we often focus on speed and efficiency.
 
 - **Avoiding Blame Culture**: Frustration can easily lead to a blame culture, which is detrimental to any organisation. When mistakes happen—and they will—it's vital to approach them with a mindset of learning rather than finger-pointing. A blame culture erodes trust and stifles creativity, making it nearly impossible to achieve our goals.
 
-- **Supporting Growth**: Teams need time to develop their skills and processes. As a product owner, I’ve seen firsthand how rushing to meet deadlines can compromise quality and morale. By allowing teams the time they need to refine their work, we ultimately achieve better outcomes.
+- **Supporting Growth**: Teams need time to develop their skills and processes. As a [product owner]({{< ref "/tags/product-owner" >}}), I’ve seen firsthand how rushing to meet deadlines can compromise quality and morale. By allowing teams the time they need to refine their work, we ultimately achieve better outcomes.
 
 ### Practical Steps to Cultivate Patience
 

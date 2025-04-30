@@ -122,7 +122,7 @@ Fostering a sense of charity within your Agile team requires intentional effort.
 
 - Ensure that team objectives are framed around **collective success** rather than individual achievements.
 
-- Align bonuses or rewards to team performance, not just individual metrics.
+- Align bonuses or rewards to [team performance]({{< ref "/tags/team-performance" >}}), not just individual metrics.
 
 ### **4\. Make Helping Fun!**
 

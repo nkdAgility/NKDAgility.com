@@ -59,7 +59,7 @@ categories:
 ---
 ## **The Shift from Traditional to Immersive Learning**
 
-In the world of Agile and Scrum, training is not just about passing on knowledge—it's about creating real, actionable change in organizations. Our approach has evolved significantly, from traditional two-day workshops to a more engaging and practical immersive learning format. This shift is crucial for achieving lasting transformation in organizations.
+In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), training is not just about passing on knowledge—it's about creating real, actionable change in organizations. Our approach has evolved significantly, from traditional two-day workshops to a more engaging and practical immersive learning format. This shift is crucial for achieving lasting transformation in organizations.
 
 ### **Why Traditional Training Falls Short**
 
@@ -142,7 +142,7 @@ Why is this longer, more immersive format a game-changer?
 
 - **Sustainable Change**: Instead of a one-time burst of knowledge, participants receive ongoing support over weeks or months.
 
-- **Collaborative Problem-Solving**: Working with peers, they share insights and solutions, creating a culture of continuous learning.
+- **Collaborative Problem-Solving**: Working with peers, they share insights and solutions, creating a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}).
 
 - **Cross-Organization Learning**: When multiple organizations participate, the cross-pollination of ideas can spark innovation and creativity.
 
@@ -166,7 +166,7 @@ This iterative cycle ensures that learning is always tied to action, making it f
 
 The ultimate goal of any training program should be to **deliver real value** to the organization. With the immersive format, participants aren't just passive learners; they're active contributors to their organization's success.
 
-- **Immediate Impact**: Assignments are designed to create value right away. For example, one group might implement a new way of managing their daily stand-ups, while another experiments with a different approach to backlog refinement.
+- **Immediate Impact**: Assignments are designed to create value right away. For example, one group might implement a new way of managing their daily stand-ups, while another experiments with a different approach to [backlog refinement]({{< ref "/tags/backlog-refinement" >}}).
 
 - **Overcoming Roadblocks**: When participants face challenges, they bring them back to the group. We explore how others have navigated similar issues, offering diverse perspectives and solutions.
 

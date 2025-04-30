@@ -47,7 +47,7 @@ resourceTypes:
 categories: []
 
 ---
-Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional Scrum trainer with Scrum.org and a Kanban trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work. 
+Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a [Kanban]({{< ref "/categories/kanban" >}}) trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work. 
 
 ### Understanding the Shift from Complicated to Complex
 
@@ -57,11 +57,11 @@ However, the reality we face today is that the work we do is complex. Complexity
 
 ### The Need for Agile Practices
 
-Traditional project management frameworks like PMI and Prince2 were developed for a complicated world. They rely on the assumption that we can predict outcomes based on established processes. But in our current environment, where change is constant and unpredictable, we need a different approach. Agile emerged as a response to this complexity, offering a way to adapt and thrive in a rapidly changing landscape.
+Traditional [project management]({{< ref "/tags/project-management" >}}) frameworks like PMI and Prince2 were developed for a complicated world. They rely on the assumption that we can predict outcomes based on established processes. But in our current environment, where change is constant and unpredictable, we need a different approach. Agile emerged as a response to this complexity, offering a way to adapt and thrive in a rapidly changing landscape.
 
 ### The Importance of Predictability
 
-When I categorise the elements of product development—requirements, technology, and people—it's clear that predictability is a significant challenge:
+When I categorise the elements of [product development]({{< ref "/categories/product-development" >}})—requirements, technology, and people—it's clear that predictability is a significant challenge:
 
 - **Requirements**: The Standish Group's Chaos Report reveals that 35% of requirements change over the life of a product, and 65% of what we build is rarely used. This highlights the waste in our processes. Customers often don’t know what they need until they see it, making upfront requirements gathering a flawed approach.
 

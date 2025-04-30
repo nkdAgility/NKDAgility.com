@@ -50,11 +50,11 @@ So, let me go ahead and share one of my most memorable moments as an Agile Consu
 
 ## A Step Back in Time
 
-So, picture this: I'm in Utah, a pretty picturesque landscape as the backdrop for our intense Scrum sessions.
+So, picture this: I'm in Utah, a pretty picturesque landscape as the backdrop for our intense [Scrum]({{< ref "/categories/scrum" >}}) sessions.
 
 There I was, deep in training and workshops with a spirited team of Java developers.  Despite my lack of Java expertise, I didn't know anything about Java, but I was ready for the challenge, ready to make a difference. 💥
 
-We pushed the boundaries of what we knew, diving headfirst into Scrum, Agile, user story workshops, and even engineering practices workshops.  In a spirited exchange of ideas, we even tackled a TDD explanation and lesson.
+We pushed the boundaries of what we knew, diving headfirst into Scrum, Agile, user story workshops, and even [engineering practices]({{< ref "/tags/engineering-practices" >}}) workshops.  In a spirited exchange of ideas, we even tackled a TDD explanation and lesson.
 
 You can imagine the room was alive with the sound of keyboards and minds at work.  I think that this alone is a testament to the power of agile methodologies.
 

@@ -40,10 +40,10 @@ categories:
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---
-In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure transparency and focus against progress during a Sprint.
+In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress during a Sprint.
 
-> The Sprint Goal is the single objective for the Sprint. Although the [Sprint Goa](/the-2020-scrum-guide/#commitment-sprint-goal)l is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.  
-> The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
+> The Sprint Goal is the single objective for the Sprint. Although the [Sprint Goa](/the-2020-scrum-guide/#commitment-sprint-goal)l is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the [Scrum]({{< ref "/categories/scrum" >}}) Team to work together rather than on separate initiatives.  
+> The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the [Product Owner]({{< ref "/tags/product-owner" >}}) to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
 >
 > [The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal)
 

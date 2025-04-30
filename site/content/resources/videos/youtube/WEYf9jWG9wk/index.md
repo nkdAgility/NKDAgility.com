@@ -58,7 +58,7 @@ categories:
 - Product Development
 
 ---
-In my journey through the world of software development, I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?
 
 ### The Power of Small Experiments
 
@@ -68,11 +68,11 @@ What’s fascinating about this shift is the emphasis on smaller features. While
   
 - **Reduced Risk**: Smaller experiments mean that if something doesn’t work out, the impact is limited. This mitigates the risk associated with larger, more complex features that may take months to develop.
 
-- **Enhanced Learning**: Each experiment provides valuable insights. Teams can learn what works and what doesn’t, leading to a more informed development process. This continuous learning cycle is crucial for building a product that truly meets customer needs.
+- **Enhanced Learning**: Each experiment provides valuable insights. Teams can learn what works and what doesn’t, leading to a more informed development process. This [continuous learning]({{< ref "/tags/continuous-learning" >}}) cycle is crucial for building a product that truly meets customer needs.
 
 ### Moving Away from the Old Way
 
-In traditional development practices, there’s often a tendency to stick with a feature or approach, even when it’s not yielding the best results. This can lead to wasted resources and missed opportunities. However, by adopting a mindset focused on experimentation, teams can quickly identify which features resonate with customers and double down on those.
+In traditional development practices, there’s often a tendency to stick with a feature or approach, even when it’s not yielding the best results. This can lead to wasted resources and missed opportunities. However, by adopting a mindset focused on [experimentation]({{< ref "/tags/experimentation" >}}), teams can quickly identify which features resonate with customers and double down on those.
 
 - **Flexibility**: The ability to pivot based on real-time feedback is invaluable. If a feature isn’t connecting with users, it’s far better to move on to the next idea rather than forcing something that isn’t working.
 
@@ -80,6 +80,6 @@ In traditional development practices, there’s often a tendency to stick with a
 
 ### Building a Better Product
 
-Ultimately, the goal is to create a product that not only meets but exceeds customer expectations. By embracing smaller features and a mindset of experimentation, teams can build a more robust product over time. This iterative process allows for continuous improvement and innovation, ensuring that the product evolves in line with customer needs.
+Ultimately, the goal is to create a product that not only meets but exceeds customer expectations. By embracing smaller features and a mindset of experimentation, teams can build a more robust product over time. This iterative process allows for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and innovation, ensuring that the product evolves in line with customer needs.
 
-In conclusion, the shift from delivering 25 features to 150 is not just about numbers; it’s about adopting a new way of thinking. It’s about recognising that smaller, more frequent experiments can lead to greater success. As we continue to navigate the complexities of software development, let’s embrace this mindset and strive for a more agile, customer-focused approach. After all, in the world of product development, it’s not just about the quantity of features but the quality and relevance of those features to our users.
+In conclusion, the shift from delivering 25 features to 150 is not just about numbers; it’s about adopting a new way of thinking. It’s about recognising that smaller, more frequent experiments can lead to greater success. As we continue to navigate the complexities of software development, let’s embrace this mindset and strive for a more agile, customer-focused approach. After all, in the world of [product development]({{< ref "/categories/product-development" >}}), it’s not just about the quantity of features but the quality and relevance of those features to our users.

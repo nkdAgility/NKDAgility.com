@@ -20,12 +20,14 @@ aliases:
 - /resources/EoInrPvjBHo
 - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
 aliasesArchive:
 - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
 - how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -60,7 +62,7 @@ In Agile, there's a common misconception that leads to what I like to call "Agil
 
 ## **What is an Agile Bandit?**
 
-**Have you ever encountered a Product Owner as an Agile Bandit?** I have. I once worked with a Product Owner who was obsessed with task-level planning. Every person on the team had a detailed Gantt chart—start times, end times, task dependencies—you name it. If the team followed this rigid plan perfectly, everything would supposedly work out just fine. But as you can guess, it didn’t.
+**Have you ever encountered a [Product Owner]({{< ref "/tags/product-owner" >}}) as an Agile Bandit?** I have. I once worked with a Product Owner who was obsessed with task-level planning. Every person on the team had a detailed Gantt chart—start times, end times, task dependencies—you name it. If the team followed this rigid plan perfectly, everything would supposedly work out just fine. But as you can guess, it didn’t.
 
 This mindset embodies Agile Banditry. The Product Owner believes that controlling every little detail of the team’s work will result in success. They’re so focused on the plan that they miss the bigger picture.
 

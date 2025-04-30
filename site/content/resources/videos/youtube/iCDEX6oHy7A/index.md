@@ -40,7 +40,7 @@ categories:
 - Scrum
 
 ---
-As I sit here in Scotland, reflecting on a recent conversation with my good friend Jim from the Midwest, I can’t help but think about the challenges many organisations face on their agile journey. Jim reached out to me with a pressing question: how do we train development teams to embrace an agile mindset? This is a topic that resonates deeply with me, and I believe it’s crucial for the success of any agile transformation.
+As I sit here in Scotland, reflecting on a recent conversation with my good friend Jim from the Midwest, I can’t help but think about the challenges many organisations face on their agile journey. Jim reached out to me with a pressing question: how do we train development teams to embrace an agile mindset? This is a topic that resonates deeply with me, and I believe it’s crucial for the success of any [agile transformation]({{< ref "/tags/agile-transformation" >}}).
 
 ### Understanding the Core Issue
 
@@ -48,7 +48,7 @@ From what Jim shared, it seems that the developers in his colleague's organisati
 
 In my experience, when teams are disengaged, it often stems from a lack of intrinsic motivation. As Dan Pink discusses in his book *Drive*, autonomy, mastery, and purpose are key to fostering a motivated workforce. If these elements are missing, it’s no wonder that developers might not care about the quality of their work or the needs of their customers.
 
-### The Role of Leadership
+### The Role of [Leadership]({{< ref "/categories/leadership" >}})
 
 So, how do we address this? First and foremost, leadership must step up. It’s not just about teaching technical skills like Test-Driven Development (TDD) or pair programming; it’s about creating an environment where developers feel empowered to take ownership of their work. This means fostering a culture that values quality and craftsmanship.
 
@@ -76,8 +76,8 @@ To instil this sense of pride, consider implementing practices such as:
 
 ### Conclusion
 
-In conclusion, training development teams on agile and scrum is not merely about imparting technical skills; it’s about nurturing a culture that values quality, craftsmanship, and customer feedback. By focusing on intrinsic motivation and creating an environment where developers feel empowered, we can bridge the gap between technical skills and the agile mindset.
+In conclusion, training development teams on agile and [scrum]({{< ref "/categories/scrum" >}}) is not merely about imparting technical skills; it’s about nurturing a culture that values quality, craftsmanship, and customer feedback. By focusing on intrinsic motivation and creating an environment where developers feel empowered, we can bridge the gap between technical skills and the agile mindset.
 
-As we navigate this new way of working, let’s remember that agility is not just a set of practices; it’s a fundamental shift in how we approach our work. It requires commitment, transparency, and a willingness to adapt. If we can foster these values within our teams, we’ll be well on our way to achieving true agility. 
+As we navigate this new way of working, let’s remember that agility is not just a set of practices; it’s a fundamental shift in how we approach our work. It requires commitment, [transparency]({{< ref "/tags/transparency" >}}), and a willingness to adapt. If we can foster these values within our teams, we’ll be well on our way to achieving true agility. 
 
 I’d love to hear your thoughts on this topic. How have you approached training and cultural change in your organisation? Let’s continue the conversation!

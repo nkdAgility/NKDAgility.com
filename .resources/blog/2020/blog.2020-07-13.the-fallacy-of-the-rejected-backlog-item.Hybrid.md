@@ -51,44 +51,44 @@ categories:
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---
-There is a frustrating misunderstanding of reality when one thinks that the Product Owner can reject a single story at the Sprint Review. This is the fallacy of the rejected backlog item and the misguided belief that this backlog item can just be left out of this delivery. That backlog item that was chosen by the Development Team at the Sprint Planning event to help them achieve the Sprint Goal. The Sprint Goal that created focus and has the entire Development Team working in the same area of the codebase.
+There is a frustrating misunderstanding of reality when one thinks that the [Product Owner]({{< ref "/tags/product-owner" >}}) can reject a single story at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). This is the fallacy of the rejected backlog item and the misguided belief that this backlog item can just be left out of this delivery. That backlog item that was chosen by the Development Team at the Sprint Planning event to help them achieve the Sprint Goal. The Sprint Goal that created focus and has the entire Development Team working in the same area of the codebase.
 
 **The fallacy is that without this single Backlog Item, one of many, the code will still function as intended.**
 
 ## TL;DR;
 
-Since the Development Team is held accountable for quality, but not quantity, and they sure can't be held accountable for meeting forecast. It was, after all, a forecast. There are only two states that the product increment can be in at the end of the sprint:
+Since the Development Team is held accountable for quality, but not quantity, and they sure can't be held accountable for meeting forecast. It was, after all, a forecast. There are only two states that the product [increment]({{< ref "/tags/increment" >}}) can be in at the end of the sprint:
 
-- **DONE** - If in the pursuit of the Sprint Goal the output of the Sprint is a DONE Increment of working software then the Development Team did everything they were required to do. Any gap between what was delivered and expectation is merely a learning opportunity. At the Sprint Review, the Scrum Team investigates this gap and updates the Product Backlog (Transparency of the Future) to reflect what is now needed next.
+- **DONE** - If in the pursuit of the Sprint Goal the output of the Sprint is a DONE Increment of [working software]({{< ref "/tags/working-software" >}}) then the Development Team did everything they were required to do. Any gap between what was delivered and expectation is merely a learning opportunity. At the Sprint Review, the [Scrum]({{< ref "/categories/scrum" >}}) Team investigates this gap and updates the [Product Backlog]({{< ref "/tags/product-backlog" >}}) ([Transparency]({{< ref "/tags/transparency" >}}) of the Future) to reflect what is now needed next.
 
 - **NOT DONE** - If the Development Team is not “Done” at the end of the Sprint then there are some consequences:
-  - An increase in Technical Debt that is going to make future work slower
+  - An increase in [Technical Debt]({{< ref "/tags/technical-debt" >}}) that is going to make future work slower
   - Removing the option for the Product Owner to release the product if they so choose.
   - With undone work, you have to fix it next Sprint and thus interfere with the next Sprint Goal and the Product Owners delivery expectations.
   - Remove any chance of [predictability for future sprints](https://nkdagility.com/release-planning-and-predictable-delivery/) until the undone work is under control.
 
 **If it is DONE,** then there is no rejection of the Backlog Item there is only feedback. There is just a learning opportunity that can be used to reduce the expectations gap for future Sprints. Reflect on that during the Sprint Review, engage with Stakeholders to better understand both their intent and their expectations.
 
-Empirical process control is not about doing everything correctly first time, it's about transparency, inspecting, and adapting.
+[Empirical process control]({{< ref "/tags/empirical-process-control" >}}) is not about doing everything correctly first time, it's about transparency, inspecting, and adapting.
 
 ## The fallacy of the rejected backlog item
 
-At the end of the Sprint, the Product Owner can deny that the Development Team met DONE. This would mean that the Development Team failed their accountability to meet the minimum quality bar as set down and agreed in the Definition of Done.
+At the end of the Sprint, the Product Owner can deny that the Development Team met DONE. This would mean that the Development Team failed their accountability to meet the minimum quality bar as set down and agreed in the [Definition of Done]({{< ref "/tags/definition-of-done" >}}).
 
-At the end of the Sprint, the Product Owner can deny that the work represents a significant enough return on investment to warrant shipping it to production. This likely means that either the Goal was not useful, or that the Development Team did not understand the Backlog Item enough. This would mean that the Product Owner failed in their accountability to maximise value delivery.
+At the end of the Sprint, the Product Owner can deny that the work represents a significant enough return on investment to warrant shipping it to production. This likely means that either the Goal was not useful, or that the Development Team did not understand the Backlog Item enough. This would mean that the Product Owner failed in their accountability to maximise [value delivery]({{< ref "/tags/value-delivery" >}}).
 
 At the end of the Sprint, based on either of these two outcomes, the Product Owner can choose to reject the entire Sprint and loose all of the work for that Sprint.
 
 My point is that it is neither physically nor technically possible to remove a single Backlog Item from a Sprint without incurring significant rework.
 
-> A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value.  
+> A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the [Scrum Team]({{< ref "/tags/scrum-team" >}}) and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value.  
 > \-[Scrum Guide - Sprint Review](http://www.scrumguides.org/scrum-guide.html#events-review)
 
 **The [Scrum Guide 2017](https://www.scrum.org/Scrum-Guides) mentions nothing of rejecting anything at the Sprint Review.**
 
-This is the reality of product development that gets in the way of the idea of the rejected backlog item. The software that we are producing is complex and only works together in its entirety, the whole increment. The Sprint Goal provides the Scrum Team with purpose and focus, and selecting items that go towards this Goal means that many of the selected backlog items, the forecast, are related. This related set of ideas created an interconnected network of interdependent code that realises on the existence of each other. If we then decide to rip one of those interconnected items out of this complex web of classes and methods, then we are increasing risk, and we are also unlikely to have working software at the end of the Sprint.
+This is the reality of [product development]({{< ref "/categories/product-development" >}}) that gets in the way of the idea of the rejected backlog item. The software that we are producing is complex and only works together in its entirety, the whole increment. The Sprint Goal provides the Scrum Team with purpose and focus, and selecting items that go towards this Goal means that many of the selected backlog items, the forecast, are related. This related set of ideas created an interconnected network of interdependent code that realises on the existence of each other. If we then decide to rip one of those interconnected items out of this complex web of classes and methods, then we are increasing risk, and we are also unlikely to have working software at the end of the Sprint.
 
-Oh, I am sure that there are exceptions, but it will take time to remove no matter how good the team's engineering practices.
+Oh, I am sure that there are exceptions, but it will take time to remove no matter how good the team's [engineering practices]({{< ref "/tags/engineering-practices" >}}).
 
 Just to be clear, this is not about Done. I expect every team to produce work that meets whatever definition of done that they have agreed as the Scum Team. If the Development Team calls Done when they are not then that is a wholly separate problem… because [Professional Scrum Teams build software that works](https://nkdagility.com/professional-scrum-teams-build-software-works/).
 

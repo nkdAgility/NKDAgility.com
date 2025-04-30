@@ -42,7 +42,7 @@ categories:
 - DevOps
 
 ---
-In my journey as a DevOps consultant, I often find myself reflecting on the core of my role. The question, "What is my primary role in a DevOps consulting gig?" is not as straightforward as it may seem. The answer is deeply intertwined with the context of each unique engagement. It hinges on where the customer currently stands, what they aim to achieve, and the specific challenges they face.
+In my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I often find myself reflecting on the core of my role. The question, "What is my primary role in a DevOps consulting gig?" is not as straightforward as it may seem. The answer is deeply intertwined with the context of each unique engagement. It hinges on where the customer currently stands, what they aim to achieve, and the specific challenges they face.
 
 ### Provoking Thought and Change
 
@@ -64,8 +64,8 @@ So, how do I uncover these bottlenecks? It’s about asking the right questions 
 
 ### The Bigger Picture
 
-Ultimately, my role transcends mere problem-solving. It’s about fostering a culture of continuous improvement and agility within organisations. By optimising processes and enhancing collaboration, we can create a more efficient and responsive environment that delivers value to customers more effectively.
+Ultimately, my role transcends mere problem-solving. It’s about fostering a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and agility within organisations. By optimising processes and enhancing collaboration, we can create a more efficient and responsive environment that delivers value to customers more effectively.
 
-If you’re interested in discussing these concepts further—whether it’s about Agile, Scrum, or DevOps—please don’t hesitate to reach out. I’m always open to a chat over coffee, and I welcome your thoughts and comments. 
+If you’re interested in discussing these concepts further—whether it’s about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or DevOps—please don’t hesitate to reach out. I’m always open to a chat over coffee, and I welcome your thoughts and comments. 
 
 Thank you for taking the time to read my insights. If you found this post helpful, please like, follow, and subscribe for more content. Your engagement is invaluable to me!

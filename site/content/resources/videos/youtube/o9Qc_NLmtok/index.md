@@ -37,7 +37,7 @@ categories: []
 
 Hey, Agile enthusiasts! 🚀
 
-Let's go from surface skimming of immersive learning and delve into the magic behind the immersive learning approach of Scrum.org, all in a condensed narrative.
+Let's go from surface skimming of immersive learning and delve into the magic behind the immersive learning approach of [Scrum]({{< ref "/categories/scrum" >}}).org, all in a condensed narrative.
 
 Buckle up!
 

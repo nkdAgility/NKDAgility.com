@@ -56,11 +56,11 @@ categories:
 - Product Development
 
 ---
-In the world of Agile, I often encounter a troubling trend that I like to call the "Agile Bandit" mentality. If you find yourself fixated on metrics such as original estimates versus actuals, it’s time for a serious rethink. This approach not only undermines the very principles of Agile but also diminishes the psychological safety of your team. 
+In the world of Agile, I often encounter a troubling trend that I like to call the "Agile Bandit" mentality. If you find yourself fixated on metrics such as original estimates versus actuals, it’s time for a serious rethink. This approach not only undermines the very principles of Agile but also diminishes the [psychological safety]({{< ref "/tags/psychological-safety" >}}) of your team. 
 
 ### The Dangers of Focusing on Estimates
 
-When teams concentrate on estimation metrics, they inadvertently shift their focus away from what truly matters: delivering value. Here’s why this is problematic:
+When teams concentrate on [estimation]({{< ref "/tags/estimation" >}}) metrics, they inadvertently shift their focus away from what truly matters: delivering value. Here’s why this is problematic:
 
 - **Psychological Safety**: Constantly measuring against original estimates can create an environment of fear and anxiety. Team members may feel pressured to meet arbitrary numbers rather than focusing on collaboration and innovation.
   
@@ -76,7 +76,7 @@ So, how do we move away from this Agile Bandit mentality? Here are some strategi
 
 - **Foster a Safe Environment**: Create a culture where team members feel safe to share their thoughts and ideas without fear of judgement. Encourage open discussions about challenges and celebrate learning from failures.
 
-- **Use Meaningful Metrics**: Instead of relying on traditional estimation metrics, consider using metrics that reflect the value delivered, such as customer satisfaction scores or the impact of features on user engagement.
+- **Use Meaningful Metrics**: Instead of relying on traditional estimation metrics, consider using metrics that reflect the value delivered, such as [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}) scores or the impact of features on user engagement.
 
 ### My Personal Experience
 
@@ -84,4 +84,4 @@ In my own journey through Agile transformations, I’ve seen teams flourish when
 
 ### Conclusion
 
-Don’t be an Agile Bandit. Let go of the outdated metrics that hinder your team’s potential and embrace a mindset that prioritises value delivery and psychological safety. By focusing on outcomes rather than estimates, you’ll create a more engaged, motivated, and successful team. Remember, Agile is not just about doing things faster; it’s about doing the right things that truly matter.
+Don’t be an Agile Bandit. Let go of the outdated metrics that hinder your team’s potential and embrace a mindset that prioritises [value delivery]({{< ref "/tags/value-delivery" >}}) and psychological safety. By focusing on outcomes rather than estimates, you’ll create a more engaged, motivated, and successful team. Remember, Agile is not just about doing things faster; it’s about doing the right things that truly matter.

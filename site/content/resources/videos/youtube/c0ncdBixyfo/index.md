@@ -51,7 +51,7 @@ categories:
 ---
 # Overcoming the Culture of Contempt in Agile Teams
 
-In the realm of product development, especially within Agile and Scrum teams, a disturbing trend often emerges—a culture of contempt. This sentiment extends from leadership to the company, the product, and even the customers. It's a profound issue that goes beyond mere dissatisfaction; it represents an active disdain for decisions made, often without considering the team's insights or contributions.
+In the realm of [product development]({{< ref "/categories/product-development" >}}), especially within Agile and [Scrum]({{< ref "/categories/scrum" >}}) teams, a disturbing trend often emerges—a culture of contempt. This sentiment extends from [leadership]({{< ref "/categories/leadership" >}}) to the company, the product, and even the customers. It's a profound issue that goes beyond mere dissatisfaction; it represents an active disdain for decisions made, often without considering the team's insights or contributions.
 
 ## The Root of Contempt
 

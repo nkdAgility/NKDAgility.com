@@ -19,12 +19,14 @@ isShort: true
 aliases:
 - /resources/V88FjP9f7_0
 - /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0
+- /resources/videos/quotes-less-is-more.-true-or-false
 aliasesArchive:
 - /resources/videos/quotes-less-is-more-true-or-false
 - /resources/quotes-less-is-more-true-or-false
 - /resources/videos/quotes-less-is-more-true-or-false-
 - /resources/quotes-less-is-more-true-or-false-
 - quotes-less-is-more-true-or-false-V88FjP9f7_0
+- /resources/videos/quotes-less-is-more.-true-or-false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +51,7 @@ categories:
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 
 
-In the world of Agile and Kanban, the mantra 'less is more' isn't just a catchy phrase; it's a core principle that drives efficiency and value. The Agile Manifesto itself highlights the importance of maximising work not done, urging teams to focus on what truly adds value and to discard the superfluous. 
+In the world of Agile and [Kanban]({{< ref "/categories/kanban" >}}), the mantra 'less is more' isn't just a catchy phrase; it's a core principle that drives efficiency and value. The Agile Manifesto itself highlights the importance of maximising work not done, urging teams to focus on what truly adds value and to discard the superfluous. 
 
 **The Agile Approach to 'Less is More' 🛠️⏳** 
 
@@ -59,7 +61,7 @@ In the world of Agile and Kanban, the mantra 'less is more' isn't just a catchy 
 
 **Implementing 'Less is More' in Agile Practices 📋💡** 
 
-- **Regular Backlog Refinement**: Regularly review and refine your backlog. This helps in identifying the tasks that are essential and those that can be dropped. 
+- **Regular [Backlog Refinement]({{< ref "/tags/backlog-refinement" >}})**: Regularly review and refine your backlog. This helps in identifying the tasks that are essential and those that can be dropped. 
 
 - **Effective Sprint Planning**: Focus your sprints on tasks that align with the project's goals. This ensures that every sprint delivers maximum value. 
 

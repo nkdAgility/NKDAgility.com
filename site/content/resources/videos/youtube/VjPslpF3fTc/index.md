@@ -90,7 +90,7 @@ And it's this deep, layered exploration that can genuinely elevate their agile p
 
 ## Your Immersive Learning Journey  
 
-If you're intrigued by the prospects of immersive learning or wish to dive deeper into the Agile, Scrum, or DevOps world, let's connect.  🌐 
+If you're intrigued by the prospects of immersive learning or wish to dive deeper into the Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}) world, let's connect.  🌐 
 
 Whether you're a newbie or someone with years under their belt, there's always more to discover.  
 

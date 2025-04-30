@@ -34,7 +34,7 @@ resourceTypes:
 categories: []
 
 ---
-## DevOps & Agile: Two Sides of the Same Coin 🪙
+## [DevOps]({{< ref "/categories/devops" >}}) & Agile: Two Sides of the Same Coin 🪙
 
 Have you ever been curious about how DevOps and Agile integrate and truly mesh?"
 
@@ -44,9 +44,9 @@ I see them as intertwined – two sides of the same illustrious coin. 🔄  On 
 
 While they embody the same essence at their core, here's the twist – they both provide unique viewpoints.
 
-While DevOps grants us an engineering perspective by emphasising the continuous delivery, lean, and engineering 🛠️
+While DevOps grants us an engineering perspective by emphasising the [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), [lean]({{< ref "/categories/lean" >}}), and engineering 🛠️
 
-On the flip side, Agile focuses on leadership, process, and people.  It's the human-centric approach, nurturing and guiding.🌱
+On the flip side, Agile focuses on [leadership]({{< ref "/categories/leadership" >}}), process, and people.  It's the human-centric approach, nurturing and guiding.🌱
 
 Two unique lenses observe a comprehensive view of the same objective.
 
@@ -60,4 +60,4 @@ It's all about understanding their individual strengths and harnessing them coll
 
 Intrigued?
 
-Let's master both sides of the coin together in my Agile and Scrum courses.!
+Let's master both sides of the coin together in my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses.!

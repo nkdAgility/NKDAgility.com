@@ -42,7 +42,7 @@ categories:
 - Product Development
 
 ---
-As a Scrum Master, I’ve often found myself reflecting on the tools that truly enhance our agile practices. One tool that consistently stands out in my experience is Azure DevOps. It’s not just a tool; it’s a game changer for Scrum Masters and teams alike. Let me share why I believe Azure DevOps is a favourite among Scrum Masters and how it can elevate your agile journey.
+As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve often found myself reflecting on the tools that truly enhance our agile practices. One tool that consistently stands out in my experience is Azure [DevOps]({{< ref "/categories/devops" >}}). It’s not just a tool; it’s a game changer for Scrum Masters and teams alike. Let me share why I believe [Azure DevOps]({{< ref "/tags/azure-devops" >}}) is a favourite among Scrum Masters and how it can elevate your agile journey.
 
 ### A Simpler, Cleaner Approach
 
@@ -55,7 +55,7 @@ One of the primary reasons Scrum Masters gravitate towards Azure DevOps is its s
 
 Azure DevOps doesn’t just stop at task management; it offers a comprehensive view of the entire development process. This holistic perspective is invaluable for Scrum Masters who need to understand not only what the team is working on but also how they are progressing.
 
-- **Integrated Tools**: From source code management to builds and releases, Azure DevOps integrates all these elements seamlessly. This integration means that as a Scrum Master, I can monitor the health of the project without having to jump between multiple tools.
+- **Integrated Tools**: From source code management to builds and releases, Azure DevOps integrates all these elements seamlessly. This integration means that as a [Scrum Master]({{< ref "/tags/scrum-master" >}}), I can monitor the health of the project without having to jump between multiple tools.
 - **Real-Time Insights**: The ability to see how the team is performing in real-time allows for timely interventions and support, ensuring that we stay on track to meet our goals.
 
 ### Empowering Teams

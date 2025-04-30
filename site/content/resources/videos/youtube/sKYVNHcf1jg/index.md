@@ -50,7 +50,7 @@ This experience highlighted a critical lesson: readiness for change is essential
 
 Interestingly, this wasn’t an isolated incident. I found myself returning to the same organisation for three consecutive years, at the same time, with the same group of people. Each time, I would provide them with a comprehensive report detailing the changes they needed to make. And each year, I was met with the same response: “We’ve done none of the things you suggested.” 
 
-It was disheartening. I was there to help, yet it felt like I was spinning my wheels, unable to drive any meaningful progress. The same issues persisted, and I was left troubleshooting minor problems rather than facilitating substantial change. 
+It was disheartening. I was there to help, yet it felt like I was spinning my wheels, unable to drive any meaningful progress. The same issues persisted, and I was left [troubleshooting]({{< ref "/tags/troubleshooting" >}}) minor problems rather than facilitating substantial change. 
 
 Here are a few key takeaways from these experiences:
 
@@ -60,8 +60,8 @@ Here are a few key takeaways from these experiences:
 
 - **The Importance of Listening**: It’s frustrating to see an organisation ignore warnings about potential pitfalls. When they eventually come back, seeking help after the fact, it’s often too late to make a significant impact.
 
-- **Continuous Improvement**: Agile is all about iterating and improving. If an organisation isn’t willing to act on feedback, they risk stagnation.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Agile is all about iterating and improving. If an organisation isn’t willing to act on feedback, they risk stagnation.
 
 In conclusion, while my worst day as an agile consultant was certainly challenging, it served as a powerful reminder of the importance of readiness and engagement in the agile journey. If you find yourself in a similar situation, remember that change is a two-way street. Both the consultant and the organisation must be committed to the process for it to be successful.
 
-If you’d like to discuss this further or have any questions about agile, scrum, or DevOps, feel free to book a coffee chat with me through Naked Agility. I’m always here to help!
+If you’d like to discuss this further or have any questions about agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee chat with me through Naked Agility. I’m always here to help!

@@ -39,13 +39,13 @@ categories: []
 ---
 Negotiation is a skill that often gets overlooked in the realm of product ownership, yet it is absolutely crucial. As I reflect on my journey, I can’t stress enough how vital it is to master this art, whether you’re negotiating with stakeholders, team members, or even your children about bedtime. 
 
-One of the best resources I’ve come across is the book *Never Split the Difference* by Chris Voss, the former head of FBI hostage negotiation. This book is a treasure trove of insights that can be applied to various negotiation scenarios, from high-stakes situations to everyday discussions. Here’s why I believe every product owner should dive into this book:
+One of the best resources I’ve come across is the book *Never Split the Difference* by Chris Voss, the former head of FBI hostage negotiation. This book is a treasure trove of insights that can be applied to various negotiation scenarios, from high-stakes situations to everyday discussions. Here’s why I believe every [product owner]({{< ref "/tags/product-owner" >}}) should dive into this book:
 
 ### Key Takeaways from *Never Split the Difference*
 
 - **Universal Techniques**: Voss illustrates that the techniques used in hostage negotiations can be applied to any negotiation. The principles of empathy, active listening, and strategic questioning are just as effective when discussing project timelines or feature prioritisation.
 
-- **Understanding Ramifications**: As a product owner, it’s essential to grasp the implications of your decisions. Each choice can ripple through your team and the product, affecting timelines, resources, and ultimately, customer satisfaction. Voss emphasises the importance of understanding the stakes involved in any negotiation.
+- **Understanding Ramifications**: As a product owner, it’s essential to grasp the implications of your decisions. Each choice can ripple through your team and the product, affecting timelines, resources, and ultimately, [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}). Voss emphasises the importance of understanding the stakes involved in any negotiation.
 
 - **Effective Communication**: The book teaches you how to communicate in a way that fosters collaboration rather than conflict. This is particularly important when you’re working with an apprentice product owner. They need to learn how to engage in discussions that lead to effective outcomes, rather than simply pushing for their own agenda.
 

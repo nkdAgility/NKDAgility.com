@@ -32,7 +32,7 @@ _We want to share with you that naked Agility is expanding!_
 
 ### People
 
-We have been working with more trainers to improve your training experience. For quite some time, we have worked with [Martin Hinshelwood](https://nkdagility.com/company/people/martin-hinshelwood/), [Russell Miller](https://nkdagility.com/company/people/russell-miller/), & [Jim Sammons,](https://nkdagility.com/company/people/jim-sammons/) who have delivered 50+ Scrum.org classes in 2022 alone. To compliment that, we have added [Joanna Płaskonka, PhD](https://nkdagility.com/company/people/joanna-plaskonka-phd/) & [Simon Bourk](https://nkdagility.com/company/people/simon-bourk/) for 2023, with over 30 private classes already booked for Q1. We have a rigorous process to find trainers with the highest levels of competence in the subject being taught and its implementation within organisations. You can find the complete list of trainers we work with on our [About Us](https://nkdagility.com/company/about-us/).
+We have been working with more trainers to improve your training experience. For quite some time, we have worked with [Martin Hinshelwood](https://nkdagility.com/company/people/martin-hinshelwood/), [Russell Miller](https://nkdagility.com/company/people/russell-miller/), & [Jim Sammons,](https://nkdagility.com/company/people/jim-sammons/) who have delivered 50+ [Scrum]({{< ref "/categories/scrum" >}}).org classes in 2022 alone. To compliment that, we have added [Joanna Płaskonka, PhD](https://nkdagility.com/company/people/joanna-plaskonka-phd/) & [Simon Bourk](https://nkdagility.com/company/people/simon-bourk/) for 2023, with over 30 private classes already booked for Q1. We have a rigorous process to find trainers with the highest levels of [competence]({{< ref "/tags/competence" >}}) in the subject being taught and its implementation within organisations. You can find the complete list of trainers we work with on our [About Us](https://nkdagility.com/company/about-us/).
 
 If that was not enough, [Jessica Baez Calderin](https://nkdagility.com/company/people/jessica-baez-calderin/) joined us in Business Development and [Daryn Basson](https://nkdagility.com/company/people/daryn-basson/) in marketing.
 
@@ -42,7 +42,7 @@ _Phew! Any more news, and we will fall off our chairs!_
 
 The [Lean-Agile Practitioners Community](https://nkdagility.com/community/) has grown to over 1300+ members, and new usability updates by our platform team will hopefully make it an even bigger success this year.
 
-It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 Coaching, The Situation Room, & Tails from the Trenches!
+It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 [Coaching]({{< ref "/tags/coaching" >}}), The Situation Room, & Tails from the Trenches!
 
 _Thank you very much to all who are making this community more extraordinary._
 
@@ -50,7 +50,7 @@ _Thank you very much to all who are making this community more extraordinary._
 
 The latest updates to our training classes:
 
-- \[wpv-post-link item="48025"\] - BRAND NEW - Develop proficiency in facilitation skills to help your Scrum Team better solve problems, create a shared understanding, and foster transparency. Learn how to become a better facilitator to improve Scrum Team, stakeholder and customer interactions.
+- \[wpv-post-link item="48025"\] - BRAND NEW - Develop proficiency in facilitation skills to help your Scrum Team better solve problems, create a shared understanding, and foster [transparency]({{< ref "/tags/transparency" >}}). Learn how to become a better facilitator to improve [Scrum Team]({{< ref "/tags/scrum-team" >}}), stakeholder and customer interactions.
 - \[wpv-post-link item="10045"\] - The APS has been updated to incorporate the new Camp Site case study, developed by [Simon Bourk](https://nkdagility.com/company/people/simon-bourk/), that increases the level of collaboration and complexity by having participants wor together to create aa usable campsite in Minecraft for Education.
 
 And remember to book your place in the upcoming classes.

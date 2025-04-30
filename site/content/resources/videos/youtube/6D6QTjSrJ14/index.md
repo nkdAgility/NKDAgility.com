@@ -79,7 +79,7 @@ Rather than cramming all learning into a two-day window, immersive learning stre
 
 As you learn, you're not isolated. You're part of a community, discussing, dissecting, and supporting one another's growth. 
 
-## 🔄 Experimentation and Application 
+## 🔄 [Experimentation]({{< ref "/tags/experimentation" >}}) and Application 
 
 In the real world, theory without practice is like a car without wheels – it's not going anywhere. Immersive learning encourages you to apply concepts immediately, bringing theory to life. 
 

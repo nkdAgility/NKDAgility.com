@@ -103,7 +103,7 @@ All of [our classes](https://nkdagility.com/training/) are listed on our site, b
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" ids="10045" limit="5"\]
 
-#### **Scrum Masters**
+#### **[Scrum]({{< ref "/categories/scrum" >}}) Masters**
 
 Courses to help Scrum Masters and Delivery Managers improve their skills
 
@@ -111,7 +111,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

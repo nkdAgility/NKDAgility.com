@@ -20,6 +20,7 @@ aliases:
 - /resources/kORUKHu-64A
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
@@ -30,6 +31,7 @@ aliasesArchive:
 - scrum-is-like-communism-it-doesnt-work-myth-5-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - scrum-is-like-communism-it-doesnt-work-myth-5
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,7 +48,7 @@ categories:
 - Product Development
 
 ---
-# Scrum and Governance: Navigating the Balance for Agile Success 🚀
+# [Scrum]({{< ref "/categories/scrum" >}}) and Governance: Navigating the Balance for Agile Success 🚀
 
 Hello, Agile aficionados! Today, let's debunk a common myth that often surfaces in discussions around Scrum: **the belief that Scrum equates to a lack of governance**. This misconception suggests that embracing Scrum means throwing all forms of planning, compliance, and organizational standards out the window. However, this view couldn't be further from the truth. Let's explore the nuanced relationship between Scrum and governance and how striking the right balance can propel your Agile journey forward. 🌟
 
@@ -60,7 +62,7 @@ While it's true that Scrum itself embeds minimal governance to maintain agility,
 
 #### External Governance: Regulatory Compliance 📜
 
-Scrum teams, particularly those in highly regulated industries like healthcare or finance, must navigate the waters of external governance. Compliance with laws and regulations like HIPAA is non-negotiable and forms a critical component of the product development lifecycle.
+Scrum teams, particularly those in highly regulated industries like healthcare or finance, must navigate the waters of external governance. Compliance with laws and regulations like HIPAA is non-negotiable and forms a critical component of the [product development]({{< ref "/categories/product-development" >}}) lifecycle.
 
 #### Internal Governance: Organizational Standards and Practices 💡
 
@@ -68,7 +70,7 @@ Beyond external mandates, organizations often have internal governance mechanism
 
 ## Embracing "Just Enough Governance" in Scrum ✨
 
-The goal in Scrum, and Agile at large, is to embrace "just enough governance" — enough to meet regulatory requirements and uphold internal standards without stifling agility and innovation. This approach involves critically evaluating existing policies and practices to identify and eliminate those that no longer serve a purpose or hinder value delivery.
+The goal in Scrum, and Agile at large, is to embrace "just enough governance" — enough to meet regulatory requirements and uphold internal standards without stifling agility and innovation. This approach involves critically evaluating existing policies and practices to identify and eliminate those that no longer serve a purpose or hinder [value delivery]({{< ref "/tags/value-delivery" >}}).
 
 ### Challenges of Over-Governance in Large Organizations 🚀
 
@@ -82,7 +84,7 @@ For Scrum teams to thrive within these governance constraints, a culture of cont
 
 - **Streamlining compliance:** Work collaboratively with compliance and regulatory teams to find Agile-friendly ways to meet necessary standards.
 
-- **Fostering transparency and communication:** Ensure that governance requirements are clearly understood and integrated into the Scrum process in a way that supports, rather than impedes, Agile values.
+- **Fostering [transparency]({{< ref "/tags/transparency" >}}) and communication:** Ensure that governance requirements are clearly understood and integrated into the Scrum process in a way that supports, rather than impedes, Agile values.
 
 ## Conclusion: Governance as a Catalyst for Agile Success 🌟
 
@@ -90,4 +92,4 @@ The narrative that Scrum disregards governance is a myth that oversimplifies the
 
 Remember, governance in the context of Scrum isn't about imposing unnecessary constraints; it's about empowering teams to deliver value effectively within the bounds of regulatory and organizational expectations. Let's navigate this balance together, leveraging governance as a foundation for innovation and success in our Agile endeavors.
 
-_If you found this discussion on Scrum and governance insightful and wish to explore more about Agile, Scrum, or DevOps practices, I'm here for a chat. Let's connect over a coffee chat and continue our journey towards Agile excellence together._
+_If you found this discussion on Scrum and governance insightful and wish to explore more about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}) practices, I'm here for a chat. Let's connect over a coffee chat and continue our journey towards Agile excellence together._

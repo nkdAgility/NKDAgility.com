@@ -21,12 +21,14 @@ aliases:
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/wS3GaFbyzDv
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
+- /resources/blog/live-virtual-classroom-s-and-the-new-normal
 aliasesArchive:
 - /blog/live-virtual-classrooms-and-the-new-normal
 - /live-virtual-classrooms-and-the-new-normal
 - /live-virtual-classroom's-and-the-new-normal
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
+- /resources/blog/live-virtual-classroom-s-and-the-new-normal
 tags:
 - Remote Working
 - Pragmatic Thinking
@@ -40,7 +42,7 @@ With the change in business model in the current crisis, many training organizat
 
 > In-person pass rates are slightly higher 6% looking only at students from 2020.
 >
-> Scrum.org Assessment Result
+> [Scrum]({{< ref "/categories/scrum" >}}).org Assessment Result
 
 When Scrum and Agile were first conceptualized the idea of colocation meant that we had to have everyone in the same place in order to get that extra 80% of communication that is non-verbal.
 
@@ -51,7 +53,7 @@ When Scrum and Agile were first conceptualized the idea of colocation meant that
 
 <figcaption>
 
-Live Virtual Co-located Professional Scrum Foundations class
+Live Virtual Co-located [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundations class
 
 </figcaption>
 
@@ -75,7 +77,7 @@ Wow, it is now so much easier to run a class. I don't have to worry about flying
 ![](images/image-6-1280x587-8-8.png)
 { .post-img }
 
-I think this especially makes sense for the world of product delivery. Why go to the same place just to all work at a desk, in a cube, while all participating in the virtual world of our computer.
+I think this especially makes sense for the world of [product delivery]({{< ref "/tags/product-delivery" >}}). Why go to the same place just to all work at a desk, in a cube, while all participating in the virtual world of our computer.
 
 **Welcome the New Normal**
 

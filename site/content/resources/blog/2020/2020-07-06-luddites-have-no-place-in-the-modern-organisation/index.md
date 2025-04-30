@@ -92,7 +92,7 @@ What changed at Microsoft as of 2017
 
 </figure>
 
-Microsoft is the poster-child of what can be accomplished with the judicious application of leadership. With the servent-leadership and strategic vision of **Satya Nadella,** it has [evolved from a traditional organisational model 10 years ago (2010) towards independent delivery teams](https://www.forbes.com/sites/stevedenning/2015/10/27/surprise-microsoft-is-agile/) of today.
+Microsoft is the poster-child of what can be accomplished with the judicious application of [leadership]({{< ref "/categories/leadership" >}}). With the servent-leadership and strategic vision of **Satya Nadella,** it has [evolved from a traditional organisational model 10 years ago (2010) towards independent delivery teams](https://www.forbes.com/sites/stevedenning/2015/10/27/surprise-microsoft-is-agile/) of today.
 
 > “Every person, organization, and even society reaches a point at which they owe it to themselves to hit refresh—to reenergize, renew, reframe, and rethink their purpose.”
 >

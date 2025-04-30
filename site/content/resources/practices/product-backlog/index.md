@@ -27,6 +27,6 @@ categories: []
 tags: []
 
 ---
-## What is a Product Backlog?
+## What is a [Product Backlog]({{< ref "/tags/product-backlog" >}})?
 
 ## What is a Product Backlog Item?

@@ -55,7 +55,7 @@ From my experience as an Agile Coach, it is at this very moment, when an organis
 
 Suddenly, with failure staring them in the face, there is undoubtedly a collective realisation, which is the same: "We need something different.  We need to try something different and something new." 🔄
 
-You might find what I'm about to say interesting.  But I actually know of a company that switches to Scrum and Agile when a project is in jeopardy and then reverts to Waterfall when it's over.
+You might find what I'm about to say interesting.  But I actually know of a company that switches to [Scrum]({{< ref "/categories/scrum" >}}) and Agile when a project is in jeopardy and then reverts to Waterfall when it's over.
 
 Now, don't you find that unproductive and plain bizarre?
 
@@ -83,13 +83,13 @@ An organisation needs to find the right Agile, which is why a professional Agile
 
 As you probably know by now, my answer is a solid 'yes'.
 
-As an Agile Consultant, I always encourage a high point and continuous improvement, so I have another answer to this article's question, another side to this coin, of 'when should an organisation consider a professional Agile Consultant,' which is "any time is the right time!"
+As an Agile Consultant, I always encourage a high point and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), so I have another answer to this article's question, another side to this coin, of 'when should an organisation consider a professional Agile Consultant,' which is "any time is the right time!"
 
 Perhaps your organisation is achieving its goals and you wonder, "Could we be better?"
 
-Sometimes, having an outsider review your operations and produce a "state of Agile" or "state of DevOps" report can provide a fresh perspective.  
+Sometimes, having an outsider review your operations and produce a "state of Agile" or "state of [DevOps]({{< ref "/categories/devops" >}})" report can provide a fresh perspective.  
 
-I've done this a lot, interviewing people in the organisation, right up through the leadership and even the customers, to create a roadmap for the organisation's next big thing. 💼
+I've done this a lot, interviewing people in the organisation, right up through the [leadership]({{< ref "/categories/leadership" >}}) and even the customers, to create a roadmap for the organisation's next big thing. 💼
 
 ### The Outside-in Perspective: An Agile Gamechanger
 

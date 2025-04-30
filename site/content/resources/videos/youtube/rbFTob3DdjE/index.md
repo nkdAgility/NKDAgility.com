@@ -42,7 +42,7 @@ categories:
 - Product Development
 
 ---
-As a Scrum Master, I’ve developed a fondness for digital whiteboards. It’s a love that transcends the specific platform; whether it’s Mural, Miro, Lucid Spark, or even Microsoft Whiteboards, the essence remains the same. These tools have become indispensable in my toolkit, enabling me to create compelling interactive experiences for teams, workshops, and even our daily scrums.
+As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve developed a fondness for digital whiteboards. It’s a love that transcends the specific platform; whether it’s Mural, Miro, Lucid Spark, or even Microsoft Whiteboards, the essence remains the same. These tools have become indispensable in my toolkit, enabling me to create compelling interactive experiences for teams, workshops, and even our daily scrums.
 
 ### Why Digital Whiteboards Matter
 
@@ -72,4 +72,4 @@ Having used various digital whiteboards over the years, I’ve gathered some ins
 
 Digital whiteboards have transformed the way I facilitate collaboration within teams. They are more than just a digital canvas; they are a means to foster engagement, creativity, and alignment. As we continue to navigate the complexities of remote and hybrid work environments, I encourage you to embrace these tools. They can make a significant difference in how your team communicates and collaborates.
 
-In the end, it’s not just about the tool itself but how we leverage it to create meaningful interactions. So, whether you’re a seasoned Scrum Master or just starting your journey, I hope you find the right digital whiteboard that resonates with your team’s dynamics. Let’s continue to innovate and adapt, ensuring that our agile practices remain robust and effective.
+In the end, it’s not just about the tool itself but how we leverage it to create meaningful interactions. So, whether you’re a seasoned [Scrum Master]({{< ref "/tags/scrum-master" >}}) or just starting your journey, I hope you find the right digital whiteboard that resonates with your team’s dynamics. Let’s continue to innovate and adapt, ensuring that our agile practices remain robust and effective.

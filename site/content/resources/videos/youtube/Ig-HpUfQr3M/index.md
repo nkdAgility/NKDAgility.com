@@ -60,7 +60,7 @@ When it comes to managing product investments, I’ve shifted my perspective sig
 
 ### Embracing Hypothesis-Driven Engineering
 
-One of the key concepts I advocate for is **hypothesis-driven engineering practices**. Whether we’re developing new products or enhancing existing ones, starting with a hypothesis is crucial. Here’s how I approach it:
+One of the key concepts I advocate for is **hypothesis-driven [engineering practices]({{< ref "/tags/engineering-practices" >}})**. Whether we’re developing new products or enhancing existing ones, starting with a hypothesis is crucial. Here’s how I approach it:
 
 - **Identify the Idea**: What do we want to add to our product? This could be a feature on your backlog or a broader initiative across your product portfolio.
   
@@ -72,17 +72,17 @@ One of the key concepts I advocate for is **hypothesis-driven engineering practi
 
 This methodology can be applied at any scale, from individual features to entire product lines.
 
-### A Real-World Example: Azure DevOps
+### A Real-World Example: Azure [DevOps]({{< ref "/categories/devops" >}})
 
-Let me share an insightful example from the Azure DevOps team at Microsoft. They faced a challenge: how to help customers manage their technical debt effectively. The product unit manager, who oversees budgetary control, recognised that people are the most significant expense in product development. With a team of exactly 600 people, the focus was on allocating resources to ideas that would yield the highest return on investment.
+Let me share an insightful example from the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team at Microsoft. They faced a challenge: how to help customers manage their [technical debt]({{< ref "/tags/technical-debt" >}}) effectively. The product unit manager, who oversees budgetary control, recognised that people are the most significant expense in [product development]({{< ref "/categories/product-development" >}}). With a team of exactly 600 people, the focus was on allocating resources to ideas that would yield the highest return on investment.
 
 The team proposed a grand idea: to create tools that would help customers identify and manage their technical debt. This initiative required collaboration across various teams, each contributing their insights and expertise. They dedicated a significant amount of time—around four to six months—to explore this concept.
 
-However, after extensive experimentation and customer feedback, they discovered that their solutions didn’t resonate with users. Despite the investment—potentially around £10 million—they learned a valuable lesson: not every idea will succeed, and sometimes, it’s better to pivot and redirect resources elsewhere.
+However, after extensive [experimentation]({{< ref "/tags/experimentation" >}}) and customer feedback, they discovered that their solutions didn’t resonate with users. Despite the investment—potentially around £10 million—they learned a valuable lesson: not every idea will succeed, and sometimes, it’s better to pivot and redirect resources elsewhere.
 
 ### Learning from Failure
 
-In traditional project management, this could easily be seen as wasted money. Yet, I argue that the learning gained from this experience is invaluable. They avoided the pitfalls of long-term investments in a failing idea, which could have resulted in a situation akin to the Windows 8 debacle. Imagine the cost of nearly 20,000 people working for six years on a product that ultimately disappointed customers and damaged brand reputation.
+In traditional [project management]({{< ref "/tags/project-management" >}}), this could easily be seen as wasted money. Yet, I argue that the learning gained from this experience is invaluable. They avoided the pitfalls of long-term investments in a failing idea, which could have resulted in a situation akin to the [Windows]({{< ref "/tags/windows" >}}) 8 debacle. Imagine the cost of nearly 20,000 people working for six years on a product that ultimately disappointed customers and damaged brand reputation.
 
 This experience catalysed a shift in Microsoft’s approach. They recognised the need for rapid testing and validation of ideas, ensuring that they could quickly adapt based on customer feedback. This shift is not just necessary for product teams; it should permeate every level of the organisation, from the ground up to the boardroom.
 

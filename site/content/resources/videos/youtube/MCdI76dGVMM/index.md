@@ -44,9 +44,9 @@ categories: []
 ---
 ## Navigating the Journey to Professionalism in the Agile World
 
-If I were to pinpoint the toughest segment in the journey of evolving into a top-notch Scrum Master, it would unequivocally be the lack of peers embracing the 'professional' aspect wholeheartedly. 💼
+If I were to pinpoint the toughest segment in the journey of evolving into a top-notch [Scrum]({{< ref "/categories/scrum" >}}) Master, it would unequivocally be the lack of peers embracing the 'professional' aspect wholeheartedly. 💼
 
-Unfortunately, this key component and cornerstone of becoming a Scrum Master seems to be amiss, not just for a handful of individuals but seems to be emerging as a widespread phenomenon in our domain.
+Unfortunately, this key component and cornerstone of becoming a [Scrum Master]({{< ref "/tags/scrum-master" >}}) seems to be amiss, not just for a handful of individuals but seems to be emerging as a widespread phenomenon in our domain.
 
 An epidemic, if you will!
 
@@ -64,11 +64,11 @@ So, what really is the hard part?
 
 Embarking on this path is not about just skimming through the concepts.  It's about delving deep and grasping the underlying theories that dictate the Scrum philosophy.
 
-A clear understanding of the methodologies and how they are applied in real-world scenarios is the hallmark of a Professional Scrum Master.  🌟
+A clear understanding of the methodologies and how they are applied in real-world scenarios is the hallmark of a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master.  🌟
 
 I cannot stress enough the significance of not losing sight of the 'professionalism' that should be at the core of every Scrum Master's approach.
 
-This isn't merely about acquiring a title.  It's about adopting a mindset that is geared towards continuous learning and improvement.
+This isn't merely about acquiring a title.  It's about adopting a mindset that is geared towards [continuous learning]({{< ref "/tags/continuous-learning" >}}) and improvement.
 
 It's a journey of immersing oneself in the theory, understanding how it applies in different contexts, and then emerging as a 'Professional' Scrum Master.
 

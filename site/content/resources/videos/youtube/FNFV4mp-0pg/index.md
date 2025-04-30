@@ -51,9 +51,9 @@ categories:
 - Product Development
 
 ---
-**Is a scrum master an agile micromanager?**
+**Is a [scrum]({{< ref "/categories/scrum" >}}) master an agile micromanager?**
 
-Today, let's tackle a common misconception in the Agile world that crops up often:  is a Scrum Master an Agile micromanager? 🤔
+Today, let's tackle a common misconception in the Agile world that crops up often:  is a [Scrum Master]({{< ref "/tags/scrum-master" >}}) an Agile micromanager? 🤔
 
 If a Scrum Master is micromanaging, they're missing the point. A Scrum Master is there to facilitate, teach, and support, not micromanage. 👀
 
@@ -61,7 +61,7 @@ A crucial spoiler alert for all Agile enthusiasts: If a Scrum Master is stuck in
 
 The essence of a Scrum Master's role lies in facilitating processes, imparting knowledge, and offering support to their team. 🎯
 
-Contrary to traditional leadership roles, a Scrum Master's influence does not revolve around micromanagement. Their responsibility is to create a conducive environment where team members feel empowered to make decisions, be creative, and own their tasks 🚀. In this sphere, a 'No Micromanagement' approach is essential.
+Contrary to traditional [leadership]({{< ref "/categories/leadership" >}}) roles, a Scrum Master's influence does not revolve around micromanagement. Their responsibility is to create a conducive environment where team members feel empowered to make decisions, be creative, and own their tasks 🚀. In this sphere, a 'No Micromanagement' approach is essential.
 
 The Scrum Master is the team's mentor, guiding them through the Scrum principles while fostering a culture of trust and mutual respect. 👥
 
@@ -79,7 +79,7 @@ As a Scrum Master:
 
 ✔️ You are the catalyst for creating an environment of trust and collaboration in the team.
 
-✔️ You foster a culture of continuous learning and improvement
+✔️ You foster a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and improvement
 
 Remember, the key to an effective team lies in empowering them, not micromanaging every decision they make or every task they undertake—a Scrum Master who micromanages curbs the team's creativity and potential.
 

@@ -52,7 +52,7 @@ categories:
 ---
 In the world of Agile, the statistics speak volumes. According to the Standish Group's Chaos Report, small projects with fewer than 50 participants are 30% more likely to succeed when employing Agile practices. Even more striking, larger projects with over 50 people see a staggering 200% increase in their chances of success. This data underscores the transformative power of Agile methodologies, and today, I want to delve into the key differences that make this possible.
 
-As a Professional Scrum Trainer with Scrum.org and a Professional Kanban Trainer with Pro Kanban, I’ve spent over 14 years as a Microsoft MVP in DevOps. My journey has taught me that understanding the nuances between traditional and empirical models is crucial for maximising project success. Let’s explore this through the lenses of visibility, change, operational risk, and realised value.
+As a Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer with Scrum.org and a Professional [Kanban]({{< ref "/categories/kanban" >}}) Trainer with Pro Kanban, I’ve spent over 14 years as a Microsoft MVP in [DevOps]({{< ref "/categories/devops" >}}). My journey has taught me that understanding the nuances between traditional and empirical models is crucial for maximising project success. Let’s explore this through the lenses of visibility, change, operational risk, and realised value.
 
 ### Visibility: The Light and Dark of Project Cycles
 
@@ -70,7 +70,7 @@ In contrast, the empirical model allows for greater flexibility throughout the l
 
 Operational risk is another area where the two models diverge. In a traditional approach, we start with high operational risk, which only drops to zero at the end of the project when we deliver the final product. This means that for much of the project, the customer is left with no alleviation of risk.
 
-In an empirical model, we begin with high operational risk, but with each sprint, we deliver usable products that gradually reduce that risk. This continuous delivery not only alleviates risk but also builds trust with stakeholders, as they see tangible progress throughout the project.
+In an empirical model, we begin with high operational risk, but with each sprint, we deliver usable products that gradually reduce that risk. This [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) not only alleviates risk but also builds trust with stakeholders, as they see tangible progress throughout the project.
 
 ### Realised Value: Delivering Incrementally
 
@@ -82,6 +82,6 @@ With an empirical approach, we can deliver value incrementally. By providing usa
 
 The superpowers of Agile methodologies are evident, even within traditional organisations. By maximising visibility, embracing change, minimising operational risk, and delivering value incrementally, we can transform the way we approach projects. 
 
-If you’re interested in diving deeper into the principles of Agile, I highly recommend reading "The New New Product Development Game," a classic article from the Harvard Business Review, and Stephen Denning's "The Age of Agile." 
+If you’re interested in diving deeper into the principles of Agile, I highly recommend reading "The New New [Product Development]({{< ref "/categories/product-development" >}}) Game," a classic article from the Harvard Business Review, and Stephen Denning's "The Age of Agile." 
 
 For those looking to enhance their Agile journey, I invite you to connect with me for a free 30-minute consultation. Together, we can explore how to make your projects more successful and aligned with the needs of your customers. Thank you for joining me on this exploration of Agile practices!

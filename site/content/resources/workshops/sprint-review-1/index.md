@@ -75,7 +75,7 @@ While this workshop can be used on its own, it was designed to be used as part o
 
 # Purpose
 
-The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. Any insights insights, ideas, and changes that result from this inspection should be immediately reflected in the Product Backlog.
+The purpose of the [Sprint Review]({{< ref "/tags/sprint-review" >}}) is to maintain [transparency]({{< ref "/tags/transparency" >}}) of the [Product Backlog]({{< ref "/tags/product-backlog" >}}) and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. Any insights insights, ideas, and changes that result from this inspection should be immediately reflected in the Product Backlog.
 
 The Sprint Review is about answering the question: “Based on what we learned this Sprint, and what happened in the business, what are the next steps?”. This provides valuable input for Sprint Planning.
 
@@ -84,17 +84,17 @@ The Sprint Review is about answering the question: “Based on what we learned t
 This workshop leverages [Liberating Structures](../_technologies/liberating-structures.md) and consists of the following string:
 
 - After the opening, we'll use [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) to clarify what people are expecting and hoping for during this Sprint Review;
-- We then create an opportunity for inspection of the increment and other relevant topics, together with stakeholders, during a [Shift & Share](../_technologies/liberating-structures/shift-share.md)
+- We then create an opportunity for inspection of the [increment]({{< ref "/tags/increment" >}}) and other relevant topics, together with stakeholders, during a [Shift & Share](../_technologies/liberating-structures/shift-share.md)
 - We use [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) to debrief insights from the inspection and identify important adjustments that need to be made;
-- Based on the insights and adjustments resulting from the earlier steps, each person is given the opportunity to formulate personal next steps for how they will support the Scrum Team during the next Sprint as well as their work together;
+- Based on the insights and adjustments resulting from the earlier steps, each person is given the opportunity to formulate personal next steps for how they will support the [Scrum]({{< ref "/categories/scrum" >}}) Team during the next Sprint as well as their work together;
 
-Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role;
+Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the [Product Owner]({{< ref "/tags/product-owner" >}}), as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role;
 
 # Prepared Materials
 
 - [Sprint Review 1 Mural Template v0.9](https://app.mural.co/template/3f03d083-58f5-4516-8b1c-052e0fa9e5e1/7af3d399-b077-46c3-9469-0666b0143881)
 
-Create an instance of the Mural template above and add to it **Product Vision**, **Product Goal**, **Working Agreements**, **Definition of Done**, & the **Sprint Goal**.
+Create an instance of the Mural template above and add to it **Product Vision**, **Product Goal**, **[Working Agreements]({{< ref "/tags/working-agreements" >}})**, **[Definition of Done]({{< ref "/tags/definition-of-done" >}})**, & the **Sprint Goal**.
 
 # Facilitation Steps
 
@@ -112,7 +112,7 @@ In three rounds, participants partner up with someone else and take 2-minute tur
 
 As the rounds progress, invite participants to note patterns, similarities, and differences. After the three rounds are completed, ask the group to briefly share the most important patterns they noticed.
 
-The invitation for [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) specifically ties the conversation to the Sprint Goal. If you find yourself in a Scrum Team without Sprint Goals, you can also ask ‘Based on the Sprint'. But keep in mind that working without Sprint Goals makes it very hard to work empirically and effectively as a Scrum Team.
+The invitation for [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) specifically ties the conversation to the Sprint Goal. If you find yourself in a [Scrum Team]({{< ref "/tags/scrum-team" >}}) without Sprint Goals, you can also ask ‘Based on the Sprint'. But keep in mind that working without Sprint Goals makes it very hard to work empirically and effectively as a Scrum Team.
 
 ## Part 3: Shift & Share [40 min]
 
@@ -122,7 +122,7 @@ There are 3 to 7 stations — depending on the number of participants. Each stat
 
 The 7-minute timeboxes are based on our experience. You can increase the time-box if you have fewer stations or when the group agrees that this allows for better inspection, but we recommend against changing the timeboxes in between. A variation you can experiment with is to allow participants to pick a selection of the stations they'd like to visit in a limited number of rounds.
 
-[Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md) is a good approach to shift from statically presenting a “Done”-increment to a more hands-on approach where stakeholders actually explore working software. We usually invite stakeholders to write feedback on special ‘feedback cards' that are available at each station — but this is just one idea on how to gather feedback.
+[Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md) is a good approach to shift from statically presenting a “Done”-increment to a more hands-on approach where stakeholders actually explore [working software]({{< ref "/tags/working-software" >}}). We usually invite stakeholders to write feedback on special ‘feedback cards' that are available at each station — but this is just one idea on how to gather feedback.
 
 ## Part 4: What, So What, Now What [30 min]
 
@@ -146,7 +146,7 @@ Individually, people take a couple of minutes to write down their action steps a
 
 “What is your 15% Solution to help advance our work together on this product? What is something you can do without needing approval from someone else or resources you don't have access to?”
 
-When everyone is done, give participants the opportunity to briefly share and refine their personal 15% Solutions in small groups of 2–4 participants. We have often found that, by actively engaging everyone with Liberating Structures like this, people are better able to formulate how they can contribute. Stakeholders may offer to invite other stakeholders, join a refinement workshop with developers or be available for feedback. Optionally, you can collect the 15% Solutions and make them transparent somewhere — for example, next to a Scrum Board.
+When everyone is done, give participants the opportunity to briefly share and refine their personal 15% Solutions in small groups of 2–4 participants. We have often found that, by actively engaging everyone with [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) like this, people are better able to formulate how they can contribute. Stakeholders may offer to invite other stakeholders, join a refinement workshop with developers or be available for feedback. Optionally, you can collect the 15% Solutions and make them transparent somewhere — for example, next to a Scrum Board.
 
 ## Part 6: Closing
 

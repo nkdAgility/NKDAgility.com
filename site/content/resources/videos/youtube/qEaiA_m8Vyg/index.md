@@ -109,7 +109,7 @@ The 'loop of learning' in immersive experiences represents the iterative process
 
 **Benefits of the Loop of Learning:** 
 
-- Instils a habit of reflection and continuous improvement. 
+- Instils a habit of reflection and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). 
 
 - Embeds knowledge through repeated application and assessment. 
 

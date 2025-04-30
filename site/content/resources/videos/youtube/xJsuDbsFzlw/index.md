@@ -61,15 +61,15 @@ The first step in our Sprint planning workshop is to demystify what Sprint plann
 
 Once we’ve established a solid understanding, the real magic begins. I believe in the power of practice, which is why we guide you through your first few Sprint planning sessions.
 
-- **Facilitation and Coaching**: During these sessions, I’ll be there to facilitate and coach your team. This hands-on approach allows us to address any challenges in real-time and adapt our strategies as needed.
-- **Feedback Loop**: After each Sprint planning event, we’ll debrief to discuss what went well and what could be improved. This iterative feedback process is essential for continuous improvement.
+- **Facilitation and [Coaching]({{< ref "/tags/coaching" >}})**: During these sessions, I’ll be there to facilitate and coach your team. This hands-on approach allows us to address any challenges in real-time and adapt our strategies as needed.
+- **Feedback Loop**: After each Sprint planning event, we’ll debrief to discuss what went well and what could be improved. This iterative feedback process is essential for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### Evolving Your Process
 
 One of the most exciting aspects of Sprint planning is its ability to evolve. As your team becomes more comfortable with the process, I encourage you to take ownership and adapt it to your needs.
 
 - **Emergence Over Time**: Sprint planning is not a one-size-fits-all solution. It should change and grow as your team learns more about what works best for them. This adaptability is key to leveraging Sprint planning for greater business success.
-- **Empowerment**: My goal is to empower your team to run effective Sprint planning sessions independently. Over time, you’ll find that you can make it your own, tailoring it to fit your workflow and organisational culture.
+- **Empowerment**: My goal is to empower your team to run effective Sprint planning sessions independently. Over time, you’ll find that you can make it your own, tailoring it to fit your workflow and [organisational culture]({{< ref "/tags/organisational-culture" >}}).
 
 ### Delivery Formats
 
@@ -82,6 +82,6 @@ I understand that every organisation has its own way of working, which is why I 
 
 In conclusion, Sprint planning is a vital component of Agile that can significantly impact your team's effectiveness. By participating in a structured workshop, you’ll gain the knowledge and skills necessary to make Sprint planning a powerful part of your workflow. 
 
-If you’re interested in exploring this further, I invite you to connect with me. Whether you have questions about Agile, Scrum, or DevOps, or simply want to chat over a virtual coffee, I’m here to help. Let’s unlock the full potential of your Sprint planning together! 
+If you’re interested in exploring this further, I invite you to connect with me. Whether you have questions about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), or simply want to chat over a virtual coffee, I’m here to help. Let’s unlock the full potential of your Sprint planning together! 
 
 Thank you for reading, and I look forward to hearing your thoughts in the comments below. If you found this post helpful, please like, follow, and subscribe for more insights.

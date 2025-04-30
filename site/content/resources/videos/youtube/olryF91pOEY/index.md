@@ -55,11 +55,11 @@ categories:
 - Product Development
 
 ---
-**Can organisations run an Applying Professional Scrum workshop? How would that help them?**
+**Can organisations run an Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) workshop? How would that help them?**
 
 Is Your Organisation Seeking Professional Agile Guidance
 
-Recently I was asked an intriguing question: "When should an organisation consider running a Professional Scrum Workshop?"  🚀
+Recently I was asked an intriguing question: "When should an organisation consider running a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Workshop?"  🚀
 
 I want to highlight the importance of unity and collective learning in this article.
 
@@ -113,7 +113,7 @@ Implementing Scrum practices and experiencing the difference it brings can drast
 
 #### Cross-Functional Learning
 
-Bring everyone to the class. Yes, you heard it right! Not just software engineers or testers but everyone involved in building the product. This could be stakeholders, leadership positions, and members from other teams.
+Bring everyone to the class. Yes, you heard it right! Not just software engineers or testers but everyone involved in building the product. This could be stakeholders, [leadership]({{< ref "/categories/leadership" >}}) positions, and members from other teams.
 
 The benefit? Everyone clearly understands the value Scrum brings, improving their engagement in the process and promoting a shared vision. It's about fostering an ecosystem of understanding and support. Together, you can overcome the hurdles and smoothly implement your new way of working. 🏗️🤝
 
@@ -141,7 +141,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:       Agile consulting, Scrum Workshop, Agile Transformation, Professional Scrum
+Keywords:       Agile consulting, Scrum Workshop, [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), Professional Scrum
 
 Hashtags:        #AgileConsulting #ScrumWorkshop #AgileTransformation #ProfessionalScrum
 

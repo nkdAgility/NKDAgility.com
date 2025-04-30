@@ -46,7 +46,7 @@ categories:
 - Scrum
 
 ---
-When we talk about Scrum, one of the most critical elements that often gets overlooked is the **Definition of Done**. It's one of those terms that seem straightforward on the surface, but once you dig into it, there's a lot more than meets the eye. Today, we’ll explore why the Definition of Done is crucial, how it’s independent of the solution you're working on, and how it can be applied universally to different projects—whether you're developing software or running a bakery!
+When we talk about [Scrum]({{< ref "/categories/scrum" >}}), one of the most critical elements that often gets overlooked is the **[Definition of Done]({{< ref "/tags/definition-of-done" >}})**. It's one of those terms that seem straightforward on the surface, but once you dig into it, there's a lot more than meets the eye. Today, we’ll explore why the Definition of Done is crucial, how it’s independent of the solution you're working on, and how it can be applied universally to different projects—whether you're developing software or running a bakery!
 
 ## **What is the Definition of Done?**
 
@@ -92,7 +92,7 @@ As your bakery grows, you might add new items, like a **steak pie**. Since you�
 
 This new criterion, while specific to your steak pies, might also apply to other items if relevant. The point is, your Definition of Done evolves as your offerings grow, but it always focuses on **quality**.
 
-## **Applying the Bakery Analogy to Software Development** **💻**
+## **Applying the Bakery Analogy to [Software Development]({{< ref "/tags/software-development" >}})** **💻**
 
 Now, let's bring this analogy back to **software development**. Just like in the bakery, you have different products (or features) with their own specific **acceptance criteria**. But what remains consistent is the Definition of Done, which ensures that everything you ship meets your company’s quality standards.
 
@@ -114,7 +114,7 @@ The Definition of Done is not just a checklist; it's a safeguard for your produc
 
 1. **Quality Assurance**: By adhering to your Definition of Done, you’re ensuring that your product is of the highest quality possible. It reduces defects and minimizes the risk of post-release issues.
 
-3. **Customer Satisfaction**: Delivering a well-tested, fully functional product ensures a better experience for your customers, leading to higher satisfaction and loyalty.
+3. **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})**: Delivering a well-tested, fully functional product ensures a better experience for your customers, leading to higher satisfaction and loyalty.
 
 5. **Team Alignment**: When the team shares a clear understanding of what "done" means, everyone works towards the same goal, reducing confusion and misalignment.
 
@@ -124,7 +124,7 @@ The Definition of Done is not just a checklist; it's a safeguard for your produc
 
 Defining a strong DoD can seem tricky, especially when you're not entirely sure what the final solution will look like. Here are a few tips to help you craft a useful and effective DoD for your team:
 
-- **Focus on Quality, Not Quantity**: The Definition of Done is about the level of quality, not the quantity of features. Ensure each feature or increment is of high quality before moving on.
+- **Focus on Quality, Not Quantity**: The Definition of Done is about the level of quality, not the quantity of features. Ensure each feature or [increment]({{< ref "/tags/increment" >}}) is of high quality before moving on.
 
 - **Make it Universal**: Your DoD should apply to all deliverables, regardless of their specific acceptance criteria. For example, every feature should be peer-reviewed, fully tested, and documented.
 

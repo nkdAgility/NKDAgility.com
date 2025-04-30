@@ -36,7 +36,7 @@ categories: []
 
 What's the one must have trait that an Agile Consultant absolutely needs? Whilst there are many important traits that are important, I’d say it has to be tenacity! 💪
 
-The ability to zero in on what truly matters to the organization you're serving and to persistently pursue it is crucial to the success of your coaching.
+The ability to zero in on what truly matters to the organization you're serving and to persistently pursue it is crucial to the success of your [coaching]({{< ref "/tags/coaching" >}}).
 
 A major part of that tenacity kicks in once you've pinpointed the areas that require change and cross-verified your assumptions, it's then time to strap in and sprint forward with laser focus. 🎯
 
@@ -52,4 +52,4 @@ Hashtags:        #AgileConsultant #Tenacity #ChangeAgents #LaserFocus #Ign
 
 General
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

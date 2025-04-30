@@ -32,17 +32,17 @@ tags:
 - Competence
 
 ---
-Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.
+Learning about [scrum]({{< ref "/categories/scrum" >}}) is important, but growing your capability to deploy and implement scrum effectively is way more important.
 
 All the theory in the world doesn’t help if your team are grappling with the action elements. Actively doing the work, creating the product implement, integrating customer feedback and data into decision-making for the next product evolution. It often isn’t scrum that is the problem, it is a fundamental lack of knowledge and understanding around the core pillars of Empiricism that under pin scrum.
 
-Transparency. Inspection. Adaptation.
+[Transparency]({{< ref "/tags/transparency" >}}). Inspection. Adaptation.
 
-One of my favourite courses to present, and most effective workshops to run with teams, is called Applying Professional Scrum (APS) and it may be the perfect opportunity for you.
+One of my favourite courses to present, and most effective workshops to run with teams, is called Applying [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS) and it may be the perfect opportunity for you.
 
-- If you can’t build momentum and leverage continuous improvement.
+- If you can’t build momentum and leverage [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 - If you keep tripping on the basics and can’t effectively remove impediments.
-- If you use scrum terms and attend scrum events, but don’t see improved times to market, increased customer satisfaction, and reduced costs.
+- If you use scrum terms and attend scrum events, but don’t see improved times to market, increased [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}), and reduced costs.
 - If you aren’t achieving your desired returns on agile investment.
 
 If this looks and feels like you, watch a few of the videos below and gain some insight into how applying scrum professionally may be a game-changer for you.
@@ -117,7 +117,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

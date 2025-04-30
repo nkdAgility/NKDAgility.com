@@ -55,7 +55,7 @@ tags:
 - Mentoring
 
 ---
-As I reflect on my journey in the world of Scrum, one of the most glaring issues I've encountered is the misconception surrounding the role of a Scrum Master. It’s a topic that often stirs up passionate discussions, and for good reason. The worst trait I see in unskilled Scrum Masters is their misguided belief that they are the boss of everyone. This notion is not just incorrect; it’s detrimental to the very essence of what it means to be a Scrum Master.
+As I reflect on my journey in the world of [Scrum]({{< ref "/categories/scrum" >}}), one of the most glaring issues I've encountered is the misconception surrounding the role of a [Scrum Master]({{< ref "/tags/scrum-master" >}}). It’s a topic that often stirs up passionate discussions, and for good reason. The worst trait I see in unskilled Scrum Masters is their misguided belief that they are the boss of everyone. This notion is not just incorrect; it’s detrimental to the very essence of what it means to be a Scrum Master.
 
 ### The Misconception of Authority
 
@@ -81,11 +81,11 @@ So, what does it mean to be an effective Scrum Master? It’s about empowering t
 
 From my experience, here are a few recommendations for aspiring Scrum Masters:
 
-- **Embrace a Coaching Mindset**: Shift your focus from managing to coaching. Help your team develop their skills and capabilities, and watch them flourish.
+- **Embrace a [Coaching]({{< ref "/tags/coaching" >}}) Mindset**: Shift your focus from managing to coaching. Help your team develop their skills and capabilities, and watch them flourish.
 
 - **Promote Collaboration**: Encourage collaboration within the team. Use techniques like pair programming or group discussions to enhance teamwork and collective problem-solving.
 
-- **Continuous Learning**: Stay curious and committed to your own learning. The world of Agile is ever-evolving, and being open to new ideas and practices will only enhance your effectiveness as a Scrum Master.
+- **[Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: Stay curious and committed to your own learning. The world of Agile is ever-evolving, and being open to new ideas and practices will only enhance your effectiveness as a Scrum Master.
 
 ### Conclusion
 

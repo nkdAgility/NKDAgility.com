@@ -40,7 +40,7 @@ categories:
 - Leadership
 
 ---
-In the ever-evolving landscape of agile training and DevOps, I recently had the pleasure of collaborating with Russell Miller, a seasoned product development specialist and scrum dad, during a live virtual classroom session focused on professional agile leadership. This experience not only reinforced my belief in the power of agile methodologies but also highlighted the unique advantages of virtual training in today’s world.
+In the ever-evolving landscape of agile training and [DevOps]({{< ref "/categories/devops" >}}), I recently had the pleasure of collaborating with Russell Miller, a seasoned [product development]({{< ref "/categories/product-development" >}}) specialist and [scrum]({{< ref "/categories/scrum" >}}) dad, during a live virtual classroom session focused on professional agile [leadership]({{< ref "/categories/leadership" >}}). This experience not only reinforced my belief in the power of agile methodologies but also highlighted the unique advantages of virtual training in today’s world.
 
 ### The Shift from Management to Leadership
 
@@ -54,7 +54,7 @@ One of the key takeaways from our discussions was the fundamental shift from man
 During our course, we had the opportunity to work with a small group of six students, which proved to be incredibly beneficial. Smaller class sizes allow for more personalised attention and deeper discussions. 
 
 - **Sharing Experiences**: Students were encouraged to share their own experiences, which not only enriched the learning environment but also helped them articulate their thoughts more clearly. This exchange of ideas is a powerful learning tool.
-- **Interactive Exercises**: The course was heavily exercise-driven, allowing participants to engage actively with the material. This hands-on approach is essential for grasping the nuances of agile leadership.
+- **Interactive Exercises**: The course was heavily exercise-driven, allowing participants to engage actively with the material. This hands-on approach is essential for grasping the nuances of [agile leadership]({{< ref "/tags/agile-leadership" >}}).
 
 ### The Advantages of Virtual Training
 
@@ -82,6 +82,6 @@ The technology we used during the training, particularly Microsoft Teams, exceed
 As we continue to adapt to this new normal, I encourage everyone to consider the opportunities that live virtual training presents. Whether you’re looking to upskill or explore new agile methodologies, now is the perfect time to invest in your professional development.
 
 - **Networking Opportunities**: Virtual meetups and training sessions provide a unique chance to connect with peers and industry leaders that you may not have had the opportunity to meet otherwise.
-- **Continuous Learning**: The agile landscape is constantly changing, and staying informed about the latest practices and tools is essential for success.
+- **[Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: The agile landscape is constantly changing, and staying informed about the latest practices and tools is essential for success.
 
-In conclusion, my collaboration with Russell Miller was not just a training session; it was a reminder of the transformative power of agile leadership and the importance of fostering environments where teams can flourish. As we embrace the future of work, let’s continue to champion agility, adaptability, and continuous learning. If you’re interested in exploring agile training or consulting, don’t hesitate to reach out for a free consultation. Together, we can navigate the complexities of agile transformation and unlock the full potential of your organisation.
+In conclusion, my collaboration with Russell Miller was not just a training session; it was a reminder of the transformative power of agile leadership and the importance of fostering environments where teams can flourish. As we embrace the future of work, let’s continue to champion agility, adaptability, and continuous learning. If you’re interested in exploring agile training or consulting, don’t hesitate to reach out for a free consultation. Together, we can navigate the complexities of [agile transformation]({{< ref "/tags/agile-transformation" >}}) and unlock the full potential of your organisation.

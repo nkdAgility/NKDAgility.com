@@ -52,12 +52,12 @@ Building products is an exhilarating journey into the unknown. Every time I sit 
 
 ### The Entrepreneurial Mindset
 
-In the business realm, this concept mirrors the world of entrepreneurship. When you have an idea that promises value—regardless of how that value is delivered—you need to seek investment to bring that idea to life. This process is akin to what I would do if I were to start a new business. I’d need to approach banks or venture capitalists, convincing them that my idea is worth their time and money. 
+In the business realm, this concept mirrors the world of [entrepreneurship]({{< ref "/tags/entrepreneurship" >}}). When you have an idea that promises value—regardless of how that value is delivered—you need to seek investment to bring that idea to life. This process is akin to what I would do if I were to start a new business. I’d need to approach banks or venture capitalists, convincing them that my idea is worth their time and money. 
 
 - **Convincing Stakeholders**: Whether it’s internal stakeholders or external investors, the challenge remains the same: you must articulate why your idea deserves funding. 
 - **Risk and Reward**: New ideas are inherently risky. They don’t come with guarantees of success or a return on investment. In fact, statistics suggest that around 70% of new businesses fail within their first year, and a staggering 30% of those that survive the initial phase will falter within five years. 
 
-Understanding this risk profile is crucial when investing in uncharted territories, whether in business or product development.
+Understanding this risk profile is crucial when investing in uncharted territories, whether in business or [product development]({{< ref "/categories/product-development" >}}).
 
 ### Funding Products Like a Venture Capitalist
 
@@ -67,15 +67,15 @@ When it comes to funding a product, I advocate for a mindset similar to that of 
    
 2. **Validate the Idea**: Engaging in ideation helps refine the concept. Questions like, “How can we monetise this?” or “What additional features could enhance its value?” are essential. This iterative process can lead to something as impactful as IMDb, which started as a simple database but evolved into a significant player in the film industry.
 
-3. **Create a Business Plan**: Before I allow any spending, I want to see a well-thought-out business plan or a lean canvas. This ensures that all aspects of the idea have been considered.
+3. **Create a Business Plan**: Before I allow any spending, I want to see a well-thought-out business plan or a [lean]({{< ref "/categories/lean" >}}) canvas. This ensures that all aspects of the idea have been considered.
 
 4. **Proof of Concept**: Once funding is secured, I expect to see a proof of concept. This initial version should be tested with real users to gauge its resonance and potential value.
 
-5. **Iterate and Experiment**: The journey doesn’t stop at the proof of concept. I advocate for continuous experimentation. Each iteration should be a learning opportunity, allowing us to refine our approach based on user feedback and data.
+5. **Iterate and Experiment**: The journey doesn’t stop at the proof of concept. I advocate for continuous [experimentation]({{< ref "/tags/experimentation" >}}). Each iteration should be a learning opportunity, allowing us to refine our approach based on user feedback and data.
 
-### Hypothesis-Driven Engineering Practices
+### Hypothesis-Driven [Engineering Practices]({{< ref "/tags/engineering-practices" >}})
 
-I often refer to this approach as hypothesis-driven engineering. While many use the term MVP (Minimum Viable Product), I find it’s frequently misapplied. An MVP should serve as a proof of concept that may ultimately be discarded before the final product is built. 
+I often refer to this approach as hypothesis-driven engineering. While many use the term MVP ([Minimum Viable Product]({{< ref "/tags/minimum-viable-product" >}})), I find it’s frequently misapplied. An MVP should serve as a proof of concept that may ultimately be discarded before the final product is built. 
 
 - **Embrace Failure**: It’s essential to accept that many experiments will fail. However, the key is to identify the successful ones and invest further in those. 
 - **Stay Within Budget**: By running numerous small experiments, we can manage our budget effectively. Each experiment should have a clear hypothesis, expected outcomes, and measurable success criteria.

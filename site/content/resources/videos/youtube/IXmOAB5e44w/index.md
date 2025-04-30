@@ -66,6 +66,6 @@ In my experience, the most impactful learning occurs in a collaborative environm
 
 I genuinely believe that this referral program will enhance your learning experience and help you build a stronger network within your organisation. If you’re interested in participating, simply visit my website to get your referral code and start sharing it with your colleagues and friends.
 
-Thank you for being a part of this journey with me. If you have any questions or want to discuss this further, feel free to reach out. I’m always here to chat about Agile, Scrum, DevOps, or anything else on your mind. And don’t forget to like, follow, and subscribe for more updates!
+Thank you for being a part of this journey with me. If you have any questions or want to discuss this further, feel free to reach out. I’m always here to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), [DevOps]({{< ref "/categories/devops" >}}), or anything else on your mind. And don’t forget to like, follow, and subscribe for more updates!
 
 Let’s learn and grow together!

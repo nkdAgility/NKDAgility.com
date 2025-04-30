@@ -59,9 +59,9 @@ If you're grappling with scope creep, you're not alone. It's a common challenge 
 
 Scope creep isn't just a buzzword; it's a symptom of a deeper issue. When we cling to old ideas of fixed scope and deadlines, we miss the point of what we're trying to achieve: delivering a usable, working product that provides value to our customers. The reality is that the market is dynamic. Whether you're delivering a product to a business or a consumer, the ecosystem is constantly evolving. This means that what you need to deliver is also in a state of flux.
 
-- **Continuous Change**: The requirements for your product will change over time. This could be in response to feedback from stakeholders or shifts in market demand. For instance, you might showcase a feature to your users, and they might respond with, "That's great, but now I need something entirely different." This is the ebb and flow of product development.
+- **Continuous Change**: The requirements for your product will change over time. This could be in response to feedback from stakeholders or shifts in market demand. For instance, you might showcase a feature to your users, and they might respond with, "That's great, but now I need something entirely different." This is the ebb and flow of [product development]({{< ref "/categories/product-development" >}}).
 
-- **Agility in Action**: This is precisely why Agile methodologies were developed. The Lean movement, which originated from the Toyota Production System, recognised the need for flexibility in production. Agile adapted these principles for software delivery, where change is not only possible but often necessary.
+- **Agility in Action**: This is precisely why Agile methodologies were developed. The [Lean]({{< ref "/categories/lean" >}}) movement, which originated from the Toyota Production System, recognised the need for flexibility in production. Agile adapted these principles for software delivery, where change is not only possible but often necessary.
 
 ### Shifting the Conversation
 
@@ -75,6 +75,6 @@ If you're finding yourself in discussions about scope creep, it might be time to
 
 ### Conclusion
 
-In conclusion, if you're struggling with scope creep, it may be a sign that you're still operating under outdated paradigms. Embrace the Agile mindset, where change is not only expected but welcomed. By focusing on delivering value and maintaining a flexible approach to planning, you can navigate the complexities of product delivery with confidence. Remember, the goal is not to stick to a predetermined scope but to ensure that what you deliver meets the needs of your customers in a rapidly changing environment. 
+In conclusion, if you're struggling with scope creep, it may be a sign that you're still operating under outdated paradigms. Embrace the Agile mindset, where change is not only expected but welcomed. By focusing on delivering value and maintaining a flexible approach to planning, you can navigate the complexities of [product delivery]({{< ref "/tags/product-delivery" >}}) with confidence. Remember, the goal is not to stick to a predetermined scope but to ensure that what you deliver meets the needs of your customers in a rapidly changing environment. 
 
 Let’s shift our focus from scope to value, and in doing so, we can transform our approach to product delivery and ultimately achieve greater success.

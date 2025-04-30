@@ -45,7 +45,7 @@ tags:
 - Technical Excellence
 
 ---
-As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.
+As more and more organisations move towards a higher degree of agility, they inevitably also move towards [DevOps]({{< ref "/categories/devops" >}}) practices like [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) to facilitate shortening the feedback loops.
 
 > **Firms today experience a much higher velocity of business change. Market opportunities appear or dissolve in months or weeks instead of years.**
 >
@@ -68,7 +68,7 @@ In order to sustain this new way we must be able to maintian the resonsabilities
 
 <figcaption>
 
-Combined Engineering Model of the Azure DevOps Product Team at Microsoft
+Combined Engineering Model of the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Product Team at Microsoft
 
 </figcaption>
 

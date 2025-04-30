@@ -41,7 +41,7 @@ categories:
 ---
 ## The Order of Product Backlogs
 
-In the world of Agile and Scrum, a question I often encounter is, "What does a poor product backlog look like?"
+In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), a question I often encounter is, "What does a poor [product backlog]({{< ref "/tags/product-backlog" >}}) look like?"
 
 ## Identifying a Poor Product Backlog
 
@@ -65,6 +65,6 @@ A list where everyone — from developers to stakeholders — knows its contents
 
 Everyone is in sync.  They comprehend their roles, understand how to aid in their completion, and recognise their contribution to overarching organisational goals.
 
-Let's elevate your product backlog lists together if you're keen to transition from a 'poor' to a 'good' backlog and unravel the intricacies of effective product management.
+Let's elevate your product backlog lists together if you're keen to transition from a 'poor' to a 'good' backlog and unravel the intricacies of effective [product management]({{< ref "/categories/product-management" >}}).
 
 Remember, whether you're a seasoned Agile pro or a newcomer, ensuring a well-maintained product backlog is pivotal.

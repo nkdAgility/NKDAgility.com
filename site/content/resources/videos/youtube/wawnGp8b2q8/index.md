@@ -60,7 +60,7 @@ One common challenge I’ve observed among learners is the tendency to forget wh
 
 - **Structured Assignments**: The poly immersive learning experience addresses this by incorporating assignments that require you to conduct small experiments in your professional environment. This structure not only reinforces your learning but also holds you accountable for applying it.
 
-- **Building Habits of Experimentation**: By the end of your learning journey, you’ll have a collection of experiments that you’ve conducted. This practice can be transformative, helping you cultivate a culture of experimentation and continuous learning within your organisation.
+- **Building Habits of [Experimentation]({{< ref "/tags/experimentation" >}})**: By the end of your learning journey, you’ll have a collection of experiments that you’ve conducted. This practice can be transformative, helping you cultivate a culture of experimentation and [continuous learning]({{< ref "/tags/continuous-learning" >}}) within your organisation.
 
 ### Conclusion
 

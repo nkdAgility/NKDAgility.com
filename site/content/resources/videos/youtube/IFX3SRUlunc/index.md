@@ -44,21 +44,21 @@ categories:
 - Product Management
 
 ---
-Over the past 18 months, I've noticed a significant uptick in interest and inquiries surrounding lean product development, particularly in the context of product ownership. This shift is not just a passing trend; it reflects a deeper desire within our industry to refine our decision-making processes regarding what we build. 
+Over the past 18 months, I've noticed a significant uptick in interest and inquiries surrounding [lean]({{< ref "/categories/lean" >}}) [product development]({{< ref "/categories/product-development" >}}), particularly in the context of product ownership. This shift is not just a passing trend; it reflects a deeper desire within our industry to refine our decision-making processes regarding what we build. 
 
-### The Driving Force Behind Lean Product Development
+### The Driving Force Behind [Lean Product Development]({{< ref "/tags/lean-product-development" >}})
 
 So, what’s driving this surge in interest? I believe it stems from a collective recognition that we need to improve our ability to make informed choices about our products. Here are a few key factors contributing to this movement:
 
 - **Better Decision-Making**: There’s a growing emphasis on making the right bets. We want to ensure that the products we develop align with our customers' needs and market demands.
-- **Minimising Risks**: By adopting hypothesis-driven engineering practices, we can significantly reduce the chances of investing time and resources into the wrong projects.
+- **Minimising Risks**: By adopting hypothesis-driven [engineering practices]({{< ref "/tags/engineering-practices" >}}), we can significantly reduce the chances of investing time and resources into the wrong projects.
 - **Value Creation**: Ultimately, the goal is to create more value for less money, leading to a higher return on investment.
 
 ### The Importance of Lean Product Development
 
 Lean product development is not just a methodology; it’s a mindset that encourages us to think critically about our processes and outcomes. It’s about understanding the context in which we operate and making strategic decisions that benefit our organisations. 
 
-Joanna and I are excited to delve deeper into this topic in our upcoming workshop on product ownership and lean product management. We’ll spend about 18 minutes sharing insights, followed by a robust 40-minute Q&A session. This is your opportunity to bring your questions, ideas, and experiences to the table. 
+Joanna and I are excited to delve deeper into this topic in our upcoming workshop on product ownership and lean [product management]({{< ref "/categories/product-management" >}}). We’ll spend about 18 minutes sharing insights, followed by a robust 40-minute Q&A session. This is your opportunity to bring your questions, ideas, and experiences to the table. 
 
 ### What to Expect from the Workshop
 

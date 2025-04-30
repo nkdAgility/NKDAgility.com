@@ -48,7 +48,7 @@ categories:
 ---
 Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach—after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.
 
-## **The Reality of Agile Planning**
+## **The Reality of [Agile Planning]({{< ref "/tags/agile-planning" >}})**
 
 Imagine this: for your burndown chart to move from the top left to the bottom right in a smooth, linear fashion, you’d need to have planned the entire sprint upfront. Think about that for a moment. You’d need to know exactly what you’ll encounter over the next two weeks to deliver a perfect outcome. And, if you're doing a project burndown, this planning covers the entire product lifecycle!
 
@@ -76,7 +76,7 @@ That’s right. Your plan should be small enough to tackle the immediate work ah
 
 - **Plan the first 24 hours**: Start with a small, actionable goal.
 
-- **Get together daily**: Plan the next 24 hours in your daily Scrum.
+- **Get together daily**: Plan the next 24 hours in your daily [Scrum]({{< ref "/categories/scrum" >}}).
 
 - **Minimize the backlog**: Only add items to the sprint backlog when they are ready to be worked on.
 

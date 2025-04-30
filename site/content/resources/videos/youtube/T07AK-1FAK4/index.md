@@ -43,15 +43,15 @@ Now, let me clarify what I mean by this. These are individuals who may hold a ce
 
 ### The Dangers of Fake Agilists
 
-- **Misguided Leadership**: When someone without a solid grasp of Agile principles attempts to lead a team, it can lead to confusion and frustration. Teams may find themselves adhering to processes that are misaligned with Agile values, ultimately stifling their potential for innovation and collaboration.
+- **Misguided [Leadership]({{< ref "/categories/leadership" >}})**: When someone without a solid grasp of Agile principles attempts to lead a team, it can lead to confusion and frustration. Teams may find themselves adhering to processes that are misaligned with Agile values, ultimately stifling their potential for innovation and collaboration.
 
 - **Erosion of Trust**: Trust is a cornerstone of any successful Agile team. If team members sense that their leader lacks genuine expertise, it can create an environment of scepticism. This erosion of trust can hinder open communication and collaboration, which are vital for Agile success.
 
-- **Stagnation of Growth**: Agile is all about continuous improvement. When fake agilists are at the helm, teams may miss out on opportunities for growth and learning. Instead of fostering an environment where experimentation and adaptation are encouraged, they may inadvertently promote a culture of complacency.
+- **Stagnation of Growth**: Agile is all about [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). When fake agilists are at the helm, teams may miss out on opportunities for growth and learning. Instead of fostering an environment where [experimentation]({{< ref "/tags/experimentation" >}}) and adaptation are encouraged, they may inadvertently promote a culture of complacency.
 
 ### My Personal Experience
 
-I’ve witnessed the impact of fake agilists firsthand. In one instance, I was brought in to consult for a team that had been struggling under the guidance of a so-called Agile coach. This individual had a certification but lacked practical experience in software development. The team was bogged down by unnecessary ceremonies and processes that did not align with their actual needs. 
+I’ve witnessed the impact of fake agilists firsthand. In one instance, I was brought in to consult for a team that had been struggling under the guidance of a so-called Agile coach. This individual had a certification but lacked practical experience in [software development]({{< ref "/tags/software-development" >}}). The team was bogged down by unnecessary ceremonies and processes that did not align with their actual needs. 
 
 After a few sessions of working closely with the team, we stripped away the layers of bureaucracy and focused on what truly mattered: delivering value to our customers. It was a transformative experience, and it reinforced my belief that genuine understanding and experience in software development are crucial for anyone claiming to be an Agile leader.
 
@@ -61,7 +61,7 @@ So, how do we combat the rise of fake agilists? Here are a few strategies that I
 
 - **Prioritise Experience Over Certification**: When selecting Agile coaches or leaders, look for individuals with a proven track record in software development and Agile practices. Their real-world experience will be invaluable.
 
-- **Encourage Continuous Learning**: Foster a culture of learning within your teams. Encourage team members to pursue genuine education and training in Agile methodologies, rather than just ticking boxes for certifications.
+- **Encourage [Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: Foster a culture of learning within your teams. Encourage team members to pursue genuine education and training in Agile methodologies, rather than just ticking boxes for certifications.
 
 - **Promote Open Dialogue**: Create an environment where team members feel comfortable voicing their concerns. If something doesn’t feel right, it’s essential to address it openly and collaboratively.
 

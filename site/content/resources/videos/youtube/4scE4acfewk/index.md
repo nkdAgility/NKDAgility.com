@@ -48,7 +48,7 @@ categories:
 - Product Development
 
 ---
-When we talk about the **Seven Virtues of Agility**, one that often stands out is humility. It's an essential ingredient for effective collaboration and success within Agile teams. Whether you're a product owner, product manager, or a developer, embracing humility can dramatically impact the quality of your work and the strength of your team.
+When we talk about the **Seven Virtues of Agility**, one that often stands out is humility. It's an essential ingredient for effective collaboration and success within Agile teams. Whether you're a [product owner]({{< ref "/tags/product-owner" >}}), product manager, or a developer, embracing humility can dramatically impact the quality of your work and the strength of your team.
 
 In this post, we’re diving deep into why humility matters in Agile and how it plays a crucial role in building trust, fostering collaboration, and creating products that truly meet customer needs.
 
@@ -85,13 +85,13 @@ So how do we cultivate humility in Agile teams?
     - Stronger relationships 🤝
 
 3. **Be Open to Feedback**  
-    In Agile, feedback is a gift. It’s the key to continuous improvement. However, being receptive to feedback requires humility. We must listen not only to what our customers are saying but also to the feedback from our team.
+    In Agile, feedback is a gift. It’s the key to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, being receptive to feedback requires humility. We must listen not only to what our customers are saying but also to the feedback from our team.
 
 **Key Tip:** Don't make assumptions! 🚫 This is one of the major risks in Agile. It's easy to assume that our understanding is always accurate, but in reality, our biases can cloud judgment. Often, we need someone else to point out those biases, but we must be willing to listen to their observations.
 
 * * *
 
-## **Humility in Product Management: Listening to Data and People**
+## **Humility in [Product Management]({{< ref "/categories/product-management" >}}): Listening to Data and People**
 
 In the product world, humility goes hand in hand with **data-driven decision-making**. While it’s important to trust your instincts, you must also be open to what the data is telling you.
 

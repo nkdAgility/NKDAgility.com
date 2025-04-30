@@ -42,11 +42,11 @@ categories: []
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---
-As I sit here, sipping my morning cup of tea, I ponder the current state of organisational agility. I've been in this game long enough to have seen the rise and fall of various methodologies, each promising to be the silver bullet that will solve all of an organisation's woes. I was initially an ALM consultant, then DevOps. But, as I've often found, the reality is far from the promise.
+As I sit here, sipping my morning cup of tea, I ponder the current state of [organisational agility]({{< ref "/tags/organisational-agility" >}}). I've been in this game long enough to have seen the rise and fall of various methodologies, each promising to be the silver bullet that will solve all of an organisation's woes. I was initially an ALM consultant, then [DevOps]({{< ref "/categories/devops" >}}). But, as I've often found, the reality is far from the promise.
 
 ### TLDR;
 
-The crux of the matter is this: the goal isn't to be 'agile' or to implement SAFe, or Nexus, or Scrum@Scale. The true objective is for your organisation to have the ability to seize opportunities faster than our competitors, pivot more swiftly, and handle surprises with more **_agility_**. The world is moving at a breakneck pace, and the old system of rules and procedures is no longer sufficient. It's time for organisations to rebuild their processes from the ground up, tailored to their unique needs and market niches. The survival of the fittest applies not just to the animal kingdom but to the corporate world as well.
+The crux of the matter is this: the goal isn't to be 'agile' or to implement SAFe, or Nexus, or [Scrum]({{< ref "/categories/scrum" >}})@Scale. The true objective is for your organisation to have the ability to seize opportunities faster than our competitors, pivot more swiftly, and handle surprises with more **_agility_**. The world is moving at a breakneck pace, and the old system of rules and procedures is no longer sufficient. It's time for organisations to rebuild their processes from the ground up, tailored to their unique needs and market niches. The survival of the fittest applies not just to the animal kingdom but to the corporate world as well.
 
 ### **The Misconception of the Agile-Waterfall Hybrid**
 

@@ -47,11 +47,11 @@ categories:
 - Product Development
 
 ---
-When it comes to the role of a Scrum Master, there are a plethora of misconceptions that can cloud our understanding of what this position truly entails. Having navigated the complexities of Scrum and Agile for many years, I’ve seen firsthand how these misunderstandings can lead to dysfunction within teams and organisations. Today, I want to share my insights on the true accountabilities of a Scrum Master and how we can move beyond the common pitfalls.
+When it comes to the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, there are a plethora of misconceptions that can cloud our understanding of what this position truly entails. Having navigated the complexities of Scrum and Agile for many years, I’ve seen firsthand how these misunderstandings can lead to dysfunction within teams and organisations. Today, I want to share my insights on the true accountabilities of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) and how we can move beyond the common pitfalls.
 
 ### Understanding the Role of the Scrum Master
 
-One of the most significant issues I encounter is the confusion between the organisational role of a Scrum Master and the actual accountabilities defined by Scrum. Many individuals transition into this role from various backgrounds—be it project management, development, or even traditional management. Unfortunately, this often results in a limited understanding of the core principles and philosophies that underpin Scrum and Agile.
+One of the most significant issues I encounter is the confusion between the organisational role of a Scrum Master and the actual accountabilities defined by Scrum. Many individuals transition into this role from various backgrounds—be it [project management]({{< ref "/tags/project-management" >}}), development, or even traditional management. Unfortunately, this often results in a limited understanding of the core principles and philosophies that underpin Scrum and Agile.
 
 - **Common Misconceptions**:
   - **"You must use user stories."** User stories are not a requirement of Scrum. They are merely a tool that some teams find useful.
@@ -66,21 +66,21 @@ A common dysfunction I observe is Scrum Masters fixating on mechanisms rather th
 
 - **Key Areas of Focus**:
   - **The Team**: While it’s essential to support the team, this should not come at the expense of the broader organisational context.
-  - **The Product Owner**: Engaging with the business side is crucial for aligning team efforts with organisational goals.
+  - **The [Product Owner]({{< ref "/tags/product-owner" >}})**: Engaging with the business side is crucial for aligning team efforts with organisational goals.
   - **The Organisation**: A Scrum Master must also consider how their team fits within the larger organisational structure and work to facilitate improvements at that level.
 
 By balancing these three areas, Scrum Masters can avoid creating suboptimal changes that may lead to friction within the organisation.
 
 ### Moving Beyond Mechanical Practices
 
-It’s vital for Scrum Masters to shift their focus from mechanical practices to a deeper understanding of the principles, theories, and philosophies that guide Scrum. This shift is not just about adopting new tools or techniques; it’s about fostering a mindset that embraces adaptability and continuous improvement.
+It’s vital for Scrum Masters to shift their focus from mechanical practices to a deeper understanding of the principles, theories, and philosophies that guide Scrum. This shift is not just about adopting new tools or techniques; it’s about fostering a mindset that embraces adaptability and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 - **Common Stances of a Scrum Master**:
-  - **Coaching**: Guiding the team to self-organise and improve.
-  - **Mentoring**: Sharing knowledge and experience to help others grow.
+  - **[Coaching]({{< ref "/tags/coaching" >}})**: Guiding the team to self-organise and improve.
+  - **[Mentoring]({{< ref "/tags/mentoring" >}})**: Sharing knowledge and experience to help others grow.
   - **Teaching**: Educating team members about Scrum principles and practices.
 
-Unfortunately, I often see Scrum Masters falling into dysfunctional roles, such as acting as the “Scrum police” or merely serving as scribes for the team. These behaviours stem from a lack of competence and understanding of what it means to be an effective Scrum Master.
+Unfortunately, I often see Scrum Masters falling into dysfunctional roles, such as acting as the “Scrum police” or merely serving as scribes for the team. These behaviours stem from a lack of [competence]({{< ref "/tags/competence" >}}) and understanding of what it means to be an effective Scrum Master.
 
 ### The Importance of Competence
 

@@ -28,11 +28,11 @@ tags:
 - Agile Frameworks
 
 ---
-As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning scrum training courses. It's not just about learning; it's about transforming and leading in an agile world.
+As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning [scrum]({{< ref "/categories/scrum" >}}) training courses. It's not just about learning; it's about transforming and leading in an agile world.
 
 **Why Master Scrum?**
 
-In today's fast-paced environment, Scrum and Agile methodologies are not just buzzwords but essential frameworks that drive successful projects and innovative teamwork. Mastering Scrum means mastering efficiency, adaptability, and leadership. Whether you're looking to enhance your team's productivity or elevate your own career, Scrum training is the key.
+In today's fast-paced environment, Scrum and Agile methodologies are not just buzzwords but essential frameworks that drive successful projects and innovative teamwork. Mastering Scrum means mastering efficiency, adaptability, and [leadership]({{< ref "/categories/leadership" >}}). Whether you're looking to enhance your team's productivity or elevate your own career, Scrum training is the key.
 
 **What Makes NKD Agility Different?**
 
@@ -45,7 +45,7 @@ As part of our dedication to your growth in 2024, we offer an exclusive 20% disc
 1. **Gain In-Depth Understanding**: Dive deep into Scrum principles, roles, events, and artefacts.
 2. **Engage in Hands-On Practice**: Apply what you learn through practical exercises and collaborative sessions.
 3. **Receive Personalized Feedback**: Benefit from the insights and guidance of experienced Agile coaches.
-4. **Join a Community of Practitioners**: Connect with a network of peers and experts committed to continuous improvement.
+4. **Join a Community of Practitioners**: Connect with a network of peers and experts committed to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 **Act Now - Your Future Awaits!**
 
@@ -59,9 +59,9 @@ Warm regards,
 
 \-MrHinsh
 
-_P.S. Hurry, the exclusive 20% discount offer is valid for a limited time only! Enrol today and start your journey to becoming a Product Owner, Scrum Master or Agile Leader. Your future self will thank you!_
+_P.S. Hurry, the exclusive 20% discount offer is valid for a limited time only! Enrol today and start your journey to becoming a [Product Owner]({{< ref "/tags/product-owner" >}}), [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Agile Leader. Your future self will thank you!_
 
-**Martin Hinshelwood** Professional Scrum Trainer, Professional Kanban Trainer, & Microsoft MVP: DevOps
+**Martin Hinshelwood** [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer, Professional [Kanban]({{< ref "/categories/kanban" >}}) Trainer, & Microsoft MVP: [DevOps]({{< ref "/categories/devops" >}})
 
 naked Agility with Martin Hinshelwood | [https://nkdagility.com](https://nkdagility.com/) +44 7493 404 468| [https://wa.me/447493404468](https://wa.me/447493404468)
 
@@ -129,6 +129,6 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]

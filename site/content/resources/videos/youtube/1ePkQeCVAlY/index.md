@@ -41,9 +41,9 @@ categories:
 - Lean
 
 ---
-**What is the difference between resource efficiency and flow efficiency?**
+**What is the difference between resource efficiency and [flow efficiency]({{< ref "/tags/flow-efficiency" >}})?**
 
-As a Lean-Agile & DevOps Consultant, I frequently encounter individuals grappling with a pivotal question, which is: "What is the difference between resource efficiency and flow efficiency?" 🤔
+As a [Lean]({{< ref "/categories/lean" >}})-Agile & [DevOps]({{< ref "/categories/devops" >}}) Consultant, I frequently encounter individuals grappling with a pivotal question, which is: "What is the difference between resource efficiency and flow efficiency?" 🤔
 
 The significance of this question cannot be understated, as these two concepts are foundational pillars of any streamlined, effective Agile process. Therefore, a clear understanding of both terms is crucial to successfully implementing Agile practices.
 
@@ -89,4 +89,4 @@ Keywords:       Resource efficiency, Flow efficiency, Optimisation, Agile p
 
 Specific:           #ResourceEfficiency, #FlowEfficiency, #Optimization, #AgileProcesses
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

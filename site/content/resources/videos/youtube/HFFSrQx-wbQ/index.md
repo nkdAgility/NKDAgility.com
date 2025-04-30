@@ -56,9 +56,9 @@ When I say that tools and processes can become sacrosanct, I mean that teams can
 
 ### Embracing Change
 
-To combat this plague, it’s essential to foster a culture of continuous improvement. Here are some strategies that I've found effective:
+To combat this plague, it’s essential to foster a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). Here are some strategies that I've found effective:
 
-- **Encourage Experimentation**: Allow team members to experiment with new tools and processes. This not only promotes innovation but also helps the team discover what works best for them.
+- **Encourage [Experimentation]({{< ref "/tags/experimentation" >}})**: Allow team members to experiment with new tools and processes. This not only promotes innovation but also helps the team discover what works best for them.
 - **Regular Retrospectives**: Use retrospectives not just to reflect on what went well or poorly, but to discuss the tools and processes in use. Are they still serving the team’s needs? If not, it’s time to adapt.
 - **Empower the Team**: Give team members the autonomy to make decisions about their workflows. When people feel ownership over their processes, they are more likely to engage and innovate.
 
@@ -71,4 +71,4 @@ Agility is not a destination; it’s a journey. It requires a commitment to cont
 
 By embracing change and fostering a culture of flexibility, we can avoid the plagues of agility and ensure that our teams remain vibrant and effective.
 
-Thank you for joining me on this exploration of agility. If you found this post insightful, I encourage you to like, follow, and subscribe for more discussions on Agile, Scrum, and DevOps. I always welcome comments and would love to chat further about these topics. If you're interested in a deeper conversation, feel free to book a session with me through Naked Agility. Let’s keep the dialogue going!
+Thank you for joining me on this exploration of agility. If you found this post insightful, I encourage you to like, follow, and subscribe for more discussions on Agile, [Scrum]({{< ref "/categories/scrum" >}}), and [DevOps]({{< ref "/categories/devops" >}}). I always welcome comments and would love to chat further about these topics. If you're interested in a deeper conversation, feel free to book a session with me through Naked Agility. Let’s keep the dialogue going!

@@ -47,7 +47,7 @@ categories:
 - Product Development
 
 ---
-As a product owner, adopting an entrepreneurial stance is crucial for steering your team towards success. I often think of this stance as embodying the visionary who gazes into the future, shaping the product backlog with insights and foresight. However, there are two key aspects that I believe every product owner must keep in mind to truly harness this entrepreneurial spirit.
+As a [product owner]({{< ref "/tags/product-owner" >}}), adopting an entrepreneurial stance is crucial for steering your team towards success. I often think of this stance as embodying the visionary who gazes into the future, shaping the [product backlog]({{< ref "/tags/product-backlog" >}}) with insights and foresight. However, there are two key aspects that I believe every product owner must keep in mind to truly harness this entrepreneurial spirit.
 
 ### 1. Connecting the Team to Value
 
@@ -63,11 +63,11 @@ In my experience, when teams grasp the connection between their efforts and the 
 
 The second critical aspect is understanding where value originates and how to make informed decisions about it. I often ask product owners how they determine what is valuable. Too frequently, the response is, “I make it up as I go along.” While intuition can play a role, relying solely on gut feelings is not a sustainable strategy. Here’s how to shift towards a more evidence-based approach:
 
-- **Gather Relevant Data**: Ensure you have access to the necessary information to make informed decisions. This includes understanding both current and unrealised value within your product.
-- **Utilise Evidence-Based Management**: This approach allows you to assess your product’s current value and identify features that need to be developed. It’s about looking forward and making strategic decisions based on data rather than assumptions.
+- **Gather Relevant Data**: Ensure you have access to the necessary information to make informed decisions. This includes understanding both current and [unrealised value]({{< ref "/tags/unrealised-value" >}}) within your product.
+- **Utilise Evidence-Based Management**: This approach allows you to assess your product’s [current value]({{< ref "/tags/current-value" >}}) and identify features that need to be developed. It’s about looking forward and making strategic decisions based on data rather than assumptions.
 - **Focus on Innovation Metrics**: Track how much time your team spends on new initiatives versus maintaining existing features. This balance is crucial for long-term success. For instance, consider how Netflix evaluates its shows. They often cancel a series not because it’s bad, but because they believe investing in new content will yield a higher return. As a product owner, you must make similar decisions based on the data at your disposal.
 
-### Time to Market
+### [Time to Market]({{< ref "/tags/time-to-market" >}})
 
 Another vital metric to consider is your time to market. How swiftly can you transition from an idea to delivering a product to real users? This agility is essential in today’s fast-paced environment. 
 
@@ -76,4 +76,4 @@ Another vital metric to consider is your time to market. How swiftly can you tra
 
 In conclusion, as a product owner, embracing an entrepreneurial stance involves more than just vision; it requires a deep connection to the value being created and a commitment to making informed, evidence-based decisions. By focusing on these two areas, you can lead your team more effectively and drive your product towards success.
 
-If you found this discussion helpful, I encourage you to like, follow, and subscribe for more insights. I’m always open to conversations about agile, scrum, or DevOps, so feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can enhance our practices together!
+If you found this discussion helpful, I encourage you to like, follow, and subscribe for more insights. I’m always open to conversations about agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), so feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can enhance our practices together!

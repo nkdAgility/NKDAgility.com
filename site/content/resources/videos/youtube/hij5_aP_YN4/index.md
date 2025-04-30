@@ -50,7 +50,7 @@ resourceTypes:
 categories: []
 
 ---
-Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your coaching game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.
+Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your [coaching]({{< ref "/tags/coaching" >}}) game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.
 
 In this post, we'll explore the significance of community, how it fosters your growth, and why it's essential for delivering the most value to your customers.
 
@@ -78,7 +78,7 @@ These interactions force you to think critically, re-evaluate, and improve your 
 
 ### **How Feedback Fuels Improvement** **🔍**
 
-In my experience as a Scrum Trainer, some of my biggest breakthroughs came after receiving critical feedback from my peers. Initially, I might have resisted—who doesn't, right? But after reflecting on the feedback, I realized how valuable those insights were in sharpening my skills.
+In my experience as a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, some of my biggest breakthroughs came after receiving critical feedback from my peers. Initially, I might have resisted—who doesn't, right? But after reflecting on the feedback, I realized how valuable those insights were in sharpening my skills.
 
 This is one of the reasons why I actively seek feedback, especially from those who don’t agree with me. Yes, it can be uncomfortable, but this discomfort is where growth happens. It’s in these moments that we learn to question our assumptions and find better ways to serve our teams and clients.
 
@@ -120,7 +120,7 @@ For instance, I once joined a group where we had a heated debate about how Scrum
 
 As an Agile coach, the ultimate goal is to deliver value to your customers. But to do that effectively, you must be willing to adapt and evolve continuously. Sticking to one way of thinking—or one way of coaching—won’t serve your customers in the long run.
 
-In fact, one of the key principles in Agile is **continuous improvement**. This applies not only to the teams you coach but also to yourself as a coach. By challenging your own thinking and growing through feedback, you’re better equipped to help your teams deliver top-tier results.
+In fact, one of the key principles in Agile is **[continuous improvement]({{< ref "/tags/continuous-improvement" >}})**. This applies not only to the teams you coach but also to yourself as a coach. By challenging your own thinking and growing through feedback, you’re better equipped to help your teams deliver top-tier results.
 
 ### **Practical Steps to Provide More Value to Your Customers**
 
@@ -144,4 +144,4 @@ Remember:
 
 - **Continuously evolve**: Your growth as a coach directly impacts the value you bring to your clients.
 
-If you’re looking to connect, learn, or simply have a conversation about Agile, Scrum, or DevOps, feel free to **book a coffee chat with me** through Naked Agility. Let’s continue to grow, challenge, and support each other on this Agile journey. 🌟 **Like this post?** Feel free to comment, follow, or subscribe for more Agile insights!
+If you’re looking to connect, learn, or simply have a conversation about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), feel free to **book a coffee chat with me** through Naked Agility. Let’s continue to grow, challenge, and support each other on this Agile journey. 🌟 **Like this post?** Feel free to comment, follow, or subscribe for more Agile insights!

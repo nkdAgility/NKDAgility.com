@@ -70,7 +70,7 @@ It paints a picture of the desired end state that will inspire your team, stakeh
 
 To put it in simpler terms, a product vision is your beacon, guiding you through the development process.  It's not about the nitty-gritty details of every sprint or even the specifics of the product goal.  It's about the big picture, the direction you steer your product.
 
-Want to delve deeper into Agile and Scrum?
+Want to delve deeper into Agile and [Scrum]({{< ref "/categories/scrum" >}})?
 
 I invite you to join my Agile and Scrum courses, where we explore these concepts and much more.
 

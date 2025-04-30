@@ -53,9 +53,9 @@ When disagreements escalate, it can feel like a battlefield. Here’s how it typ
 - **Debate Turns to Contest**: As discussions heat up, the focus shifts from finding the best solution to proving who is right.
 - **Team Dynamics Shift**: At this point, the atmosphere can become toxic. Team members may start to align themselves into factions, leading to a breakdown in communication and collaboration.
 
-This is where the role of the Scrum Master becomes crucial. If you find yourself in a situation where the conflict has escalated to a "Crusade" or "World War" level, it’s time to intervene. 
+This is where the role of the [Scrum]({{< ref "/categories/scrum" >}}) Master becomes crucial. If you find yourself in a situation where the conflict has escalated to a "Crusade" or "World War" level, it’s time to intervene. 
 
-### The Scrum Master’s Role
+### The [Scrum Master]({{< ref "/tags/scrum-master" >}})’s Role
 
 As a Scrum Master, your responsibility is to foster an environment where healthy discussions can thrive without devolving into destructive conflict. Here are some strategies I recommend:
 
@@ -75,4 +75,4 @@ It's essential to be vigilant about the signs of conflict before they escalate. 
 
 In the world of Agile, we must remember that conflict is a natural part of teamwork. However, when it escalates to the point of war, it can threaten the very foundation of our collaborative efforts. As Scrum Masters and team members, we have a responsibility to manage these conflicts effectively, ensuring that our teams remain focused on their goals and continue to innovate.
 
-If you found this discussion helpful, I encourage you to engage with me further. Whether you want to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Let’s keep the conversation going and work together to navigate the complexities of team dynamics!
+If you found this discussion helpful, I encourage you to engage with me further. Whether you want to chat about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Let’s keep the conversation going and work together to navigate the complexities of team dynamics!

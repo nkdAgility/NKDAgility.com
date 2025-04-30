@@ -27,7 +27,7 @@ tags:
 - Product Owner
 
 ---
-Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and Lean Product Development.
+Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and [Lean]({{< ref "/categories/lean" >}}) [Product Development]({{< ref "/categories/product-development" >}}).
 
 [Sign up to claim your spot now!](https://events.teams.microsoft.com/event/cc8555b2-77cc-466b-bf8a-1375f89873fd@686c55d4-ab81-4a17-9eef-6472a5633fab)
 
@@ -36,13 +36,13 @@ https://www.youtube.com/watch?v=IFX3SRUlunc&amp;ab\_channel=nakedAgilitywithMart
 ## 🔍 What to Expect?
 
 - **Insights from the Experts:** Dr. Płaskonka, with her profound academic background, and Mr. Hinshelwood, renowned for his hands-on industry experience, come together to provide a balanced and comprehensive perspective.
-- **Real-World Examples:** Understand the principles of Lean Product Development through tangible examples and case studies.
+- **Real-World Examples:** Understand the principles of [Lean Product Development]({{< ref "/tags/lean-product-development" >}}) through tangible examples and case studies.
 - **Interactive Q&A Session:** Get your burning questions answered directly by the experts.
 - **Actionable Takeaways:** Equip yourself with practical strategies and tips to implement in your own projects and teams.
 
 ## 🚀 Why Attend?
 
-Whether you're a budding product owner, an experienced developer, or someone passionate about lean methodologies, this webcast promises to offer valuable insights that can propel your product development journey to new heights.
+Whether you're a budding [product owner]({{< ref "/tags/product-owner" >}}), an experienced developer, or someone passionate about lean methodologies, this webcast promises to offer valuable insights that can propel your product development journey to new heights.
 
 ## 📅 Mark Your Calendar!
 
@@ -98,7 +98,7 @@ All of [our classes](https://nkdagility.com/training/) are listed on our site, b
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" ids="10045" limit="5"\]
 
-#### **Scrum Masters**
+#### **[Scrum]({{< ref "/categories/scrum" >}}) Masters**
 
 Courses to help Scrum Masters and Delivery Managers improve their skills
 
@@ -106,7 +106,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

@@ -31,9 +31,9 @@ tags:
 ---
 **Dear Innovators and Product Enthusiasts,**
 
-**Only 5 days left!** This is your last chance to join us for the Professional Product Validation and Discovery Workshop from Scrum.org!
+**Only 5 days left!** This is your last chance to join us for the Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org!
 
-If you’ve been waiting for the perfect opportunity to elevate your product development skills, this is it—and we’re offering an exclusive **50% discount for our members** so you can invite a friend for the same price..
+If you’ve been waiting for the perfect opportunity to elevate your [product development]({{< ref "/categories/product-development" >}}) skills, this is it—and we’re offering an exclusive **50% discount for our members** so you can invite a friend for the same price..
 
 <table style="background-color: #6a0dad !important;" border="0" cellspacing="0" cellpadding="10" align="center" bgcolor="#6a0dad"><tbody><tr><td align="center"><p style="color: #ffffff; text-decoration: none; font-size: 16px; display: block;">Use code: <strong>yarnagile50-94qyfhqg</strong> in the cart!</p></td></tr></tbody></table>
 
@@ -48,11 +48,11 @@ By attending, you will:
 1. **Master Customer-Centric Development:** Learn how to place your customers at the heart of your product development process, ensuring every feature and product you create is aligned with their true needs and desires.
 2. **Enhance Validation Techniques:** Acquire practical skills in rapid prototyping, hypothesis testing, and iterative feedback loops to validate your ideas early and often, saving time and resources.
 3. **Refine Discovery Processes:** Discover how to efficiently uncover market opportunities, understand customer pain points, and create compelling product visions that drive your team’s efforts and inspire stakeholders.
-4. **Boost Team Collaboration:** Develop strategies to foster a culture of collaboration and innovation within your team, ensuring everyone is aligned and working towards a common goal.
+4. **Boost [Team Collaboration]({{< ref "/tags/team-collaboration" >}}):** Develop strategies to foster a culture of collaboration and innovation within your team, ensuring everyone is aligned and working towards a common goal.
 
 ### Meet Your Trainer: Dr. Joanna Plaskonka
 
-Leading this workshop is none other than [**Dr. Joanna Plaskonka**](https://nkdagility.com/company/people/joanna-plaskonka-phd/), a distinguished PhD in Robotics and Professional Scrum Trainer. Joanna's journey in the world of complex product development and cutting-edge technology makes her the perfect guide for this course.
+Leading this workshop is none other than [**Dr. Joanna Plaskonka**](https://nkdagility.com/company/people/joanna-plaskonka-phd/), a distinguished PhD in Robotics and [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer. Joanna's journey in the world of complex product development and cutting-edge technology makes her the perfect guide for this course.
 
 With a background that blends deep technical expertise and agile mastery, Joanna has:
 

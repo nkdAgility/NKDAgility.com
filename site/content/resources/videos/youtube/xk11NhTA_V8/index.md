@@ -73,4 +73,4 @@ Here are some strategies to consider:
 
 As we continue to embrace Agile methodologies, let’s be mindful of the judgments we impose—both on ourselves and on our teams. By fostering a culture of support and understanding, we can mitigate the negative impacts of judgment and create an environment where agility can truly thrive.
 
-If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!
+If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!

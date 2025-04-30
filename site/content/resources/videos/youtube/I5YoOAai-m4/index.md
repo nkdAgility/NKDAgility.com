@@ -41,9 +41,9 @@ Today, I'm sharing some insights about a question I often get: Agile coach or pr
 
 ## Depth of Technical Know-how
 
-It's not just about coaching. It's about the intricate understanding of the methodologies involved.
+It's not just about [coaching]({{< ref "/tags/coaching" >}}). It's about the intricate understanding of the methodologies involved.
 
-One reason why I lean more towards the prowess of an Agile coach, who I believe has the upper hand, is that an Agile coach has deep technical knowledge in understanding Agile and its practices.  💡 
+One reason why I [lean]({{< ref "/categories/lean" >}}) more towards the prowess of an Agile coach, who I believe has the upper hand, is that an Agile coach has deep technical knowledge in understanding Agile and its practices.  💡 
 
 They're not just familiar but proficient in approaches like lean and flaw, and they carry all the theory behind these very technical practices.
 
@@ -71,6 +71,6 @@ While both roles have distinct advantages, an Agile coach stands out, bridging t
 
 They don't just help teams solve problems; they introduce new ways to think, work, and innovate.  🌟
 
-Are you eager to gain a deeper understanding of Agile and Scrum practices?
+Are you eager to gain a deeper understanding of Agile and [Scrum]({{< ref "/categories/scrum" >}}) practices?
 
 Join me in my specialised courses, and together, let's unlock the next level of Agile mastery!

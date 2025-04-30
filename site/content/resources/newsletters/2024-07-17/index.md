@@ -35,7 +35,7 @@ tags:
 ---
 **Dear Innovators and Product Enthusiasts,**
 
-We are thrilled to announce the upcoming Professional Product Validation and Discovery Workshop from Scrum.org—a transformative experience designed to elevate your product development journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.
+We are thrilled to announce the upcoming Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org—a transformative experience designed to elevate your [product development]({{< ref "/categories/product-development" >}}) journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.
 
 ### Why This Workshop?
 
@@ -46,11 +46,11 @@ By attending, you will:
 1. **Master Customer-Centric Development:** Learn how to place your customers at the heart of your product development process, ensuring every feature and product you create is aligned with their true needs and desires.
 2. **Enhance Validation Techniques:** Acquire practical skills in rapid prototyping, hypothesis testing, and iterative feedback loops to validate your ideas early and often, saving time and resources.
 3. **Refine Discovery Processes:** Discover how to efficiently uncover market opportunities, understand customer pain points, and create compelling product visions that drive your team’s efforts and inspire stakeholders.
-4. **Boost Team Collaboration:** Develop strategies to foster a culture of collaboration and innovation within your team, ensuring everyone is aligned and working towards a common goal.
+4. **Boost [Team Collaboration]({{< ref "/tags/team-collaboration" >}}):** Develop strategies to foster a culture of collaboration and innovation within your team, ensuring everyone is aligned and working towards a common goal.
 
 ### Meet Your Trainer: Dr. Joanna Plaskonka
 
-Leading this workshop is none other than **Dr. Joanna Plaskonka**, a distinguished PhD in Robotics and Professional Scrum Trainer. Joanna's journey in the world of complex product development and cutting-edge technology makes her the perfect guide for this course.
+Leading this workshop is none other than **Dr. Joanna Plaskonka**, a distinguished PhD in Robotics and [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer. Joanna's journey in the world of complex product development and cutting-edge technology makes her the perfect guide for this course.
 
 With a background that blends deep technical expertise and agile mastery, Joanna has:
 

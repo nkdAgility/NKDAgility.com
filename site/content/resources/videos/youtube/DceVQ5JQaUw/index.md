@@ -57,7 +57,7 @@ Being difficult, in this context, is not about creating conflict for the sake of
 
 - **Provoke Thought**: By asking hard questions, we help teams to examine their practices and beliefs. This can lead to insights that drive innovation and efficiency.
 - **Facilitate Learning**: Engaging in difficult conversations can be uncomfortable, but it’s often where the most significant learning occurs. It’s through these discussions that teams can uncover hidden issues and opportunities for improvement.
-- **Drive Accountability**: When consultants challenge the status quo, they help teams take ownership of their processes. This accountability is vital for fostering a culture of continuous improvement.
+- **Drive Accountability**: When consultants challenge the status quo, they help teams take ownership of their processes. This accountability is vital for fostering a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### Embracing the Consultant's Role
 

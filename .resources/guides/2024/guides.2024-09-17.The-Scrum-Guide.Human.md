@@ -61,6 +61,7 @@ card:
   title: The Scrum Guide
 categories:
 - Scrum
+- Product Development
 tags:
 - Professional Scrum
 - Transparency
@@ -84,7 +85,7 @@ tags:
 - Working Software
 
 ---
-The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.
+The [Scrum]({{< ref "/categories/scrum" >}}) Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.
 {: .lead}
 
 NOTE: Extracted from the [Scrum Guide 2020](https://scrumguides.org/){:target="\_blank"}
@@ -95,7 +96,7 @@ We developed Scrum in the early 1990s. We wrote the first version of the Scrum G
 
 The Scrum Guide contains the definition of Scrum. Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum. Changing the core design or ideas of Scrum, leaving out elements, or not following the rules of Scrum, covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
 
-We follow the growing use of Scrum within an ever-growing complex world. We are humbled to see Scrum being adopted in many domains holding essentially complex work, beyond software product development where Scrum has its roots. As Scrum's use spreads, developers, researchers, analysts, scientists, and other specialists do the work. We use the word “developers” in Scrum not to exclude, but to simplify. If you get value from Scrum, consider yourself included.
+We follow the growing use of Scrum within an ever-growing complex world. We are humbled to see Scrum being adopted in many domains holding essentially complex work, beyond software [product development]({{< ref "/categories/product-development" >}}) where Scrum has its roots. As Scrum's use spreads, developers, researchers, analysts, scientists, and other specialists do the work. We use the word “developers” in Scrum not to exclude, but to simplify. If you get value from Scrum, consider yourself included.
 
 As Scrum is being used, patterns, processes, and insights that fit the Scrum framework as described in this document, may be found, applied and devised. Their description is beyond the purpose of the Scrum Guide because they are context-sensitive and differ widely between Scrum uses. Such tactics for using within the Scrum framework vary widely and are described elsewhere.
 
@@ -105,10 +106,10 @@ As Scrum is being used, patterns, processes, and insights that fit the Scrum fra
 
 Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
 
-In a nutshell, Scrum requires a Scrum Master to foster an environment where:
+In a nutshell, Scrum requires a [Scrum Master]({{< ref "/tags/scrum-master" >}}) to foster an environment where:
 
-1. A Product Owner orders the work for a complex problem into a Product Backlog.
-1. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
+1. A [Product Owner]({{< ref "/tags/product-owner" >}}) orders the work for a complex problem into a [Product Backlog]({{< ref "/tags/product-backlog" >}}).
+1. The [Scrum Team]({{< ref "/tags/scrum-team" >}}) turns a selection of the work into an [Increment]({{< ref "/tags/increment" >}}) of value during a Sprint.
 1. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
    Repeat
 
@@ -118,11 +119,11 @@ Various processes, techniques and methods can be employed within the framework. 
 
 ## Scrum Theory
 
-Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
+Scrum is founded on empiricism and [lean]({{< ref "/categories/lean" >}}) thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. [Lean thinking]({{< ref "/tags/lean-thinking" >}}) reduces waste and focuses on the essentials.
 
 Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
 
-Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation.
 
 ### Transparency
 
@@ -142,7 +143,7 @@ If any aspects of a process deviate outside acceptable limits or if the resultin
 
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
-## Scrum Values
+## [Scrum Values]({{< ref "/tags/scrum-values" >}})
 
 Successful use of Scrum depends on people becoming more proficient in living five values:
 
@@ -160,7 +161,7 @@ Scrum Teams are cross-functional, meaning the members have all the skills necess
 
 The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive. If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
 
-The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required. They are structured and empowered by the organization to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team's focus and consistency.
+The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, [experimentation]({{< ref "/tags/experimentation" >}}), research and development, and anything else that might be required. They are structured and empowered by the organization to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team's focus and consistency.
 
 The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
 
@@ -171,7 +172,7 @@ Developers are the people in the Scrum Team that are committed to creating any a
 The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
 
 - Creating a plan for the Sprint, the Sprint Backlog;
-- Instilling quality by adhering to a Definition of Done;
+- Instilling quality by adhering to a [Definition of Done]({{< ref "/tags/definition-of-done" >}});
 - Adapting their plan each day toward the Sprint Goal; and,
 - Holding each other accountable as professionals.
 
@@ -188,7 +189,7 @@ The Product Owner is also accountable for effective Product Backlog management, 
 
 The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
 
-For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.
+For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the [Sprint Review]({{< ref "/tags/sprint-review" >}}).
 
 The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
 
@@ -202,7 +203,7 @@ Scrum Masters are true leaders who serve the Scrum Team and the larger organizat
 
 The Scrum Master serves the Scrum Team in several ways, including:
 
-- Coaching the team members in self-management and cross-functionality;
+- [Coaching]({{< ref "/tags/coaching" >}}) the team members in self-management and cross-functionality;
 - Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
 - Causing the removal of impediments to the Scrum Team's progress; and,
 - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
@@ -244,7 +245,7 @@ During the Sprint:
 
 Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint's horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
 
-Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
+Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking [decision making]({{< ref "/tags/decision-making" >}}).
 
 A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
 
@@ -274,7 +275,7 @@ The Sprint Goal, the Product Backlog items selected for the Sprint, plus the pla
 
 Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
 
-### Daily Scrum
+### [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
 
 The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 
@@ -320,7 +321,7 @@ These commitments exist to reinforce empiricism and the Scrum values for the Scr
 
 The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
 
-Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities. Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
+Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities. Product [Backlog refinement]({{< ref "/tags/backlog-refinement" >}}) is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
 
 The Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs.
 

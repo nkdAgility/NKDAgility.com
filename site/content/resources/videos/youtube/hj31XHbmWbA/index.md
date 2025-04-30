@@ -21,6 +21,7 @@ aliases:
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
+- /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
 aliasesArchive:
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
@@ -28,6 +29,7 @@ aliasesArchive:
 - /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
 - quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
+- /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
 sitemap:
   filename: sitemap.xml
   priority: 0.6

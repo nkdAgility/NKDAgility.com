@@ -38,7 +38,7 @@ So, if you’ve brought your CV to HR and it sounds like Shania Twain’s 20-yea
 
 Maybe it’s time to combine everything you have learned since we last saw you for a Scrumorg course and build on that rock-solid foundation with a certification and skillset that does bring HR and hiring managers to the yard. I know the certification is valuable, but it’s what you’ll learn that it’s infinitely more valuable. What you’ll be capable of doing with these skills, models, and practices will set you apart.
 
-Who knows, maybe that creative prowess extends into creating your own business or product? With our Applying Professional Scrum and Professional Scrum with User Experience (UX) courses, you’ll be flexing something fierce and demonstrating why you’re the most valuable employee/colleague/start-up partner of 2023. Remember to apply your alumni discount at checkout to capitalise on the benefits of being a naked Agility fan.
+Who knows, maybe that creative prowess extends into creating your own business or product? With our Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) and [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with User Experience (UX) courses, you’ll be flexing something fierce and demonstrating why you’re the most valuable employee/colleague/start-up partner of 2023. Remember to apply your alumni discount at checkout to capitalise on the benefits of being a naked Agility fan.
 
 You’re welcome.
 
@@ -78,7 +78,7 @@ Are there any blog posts that you would like me to write?
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44705" limit="5"\]
 
-**Developers / Scrum Teams** - Courses to help all members of the Scrum Team improve their skills
+**Developers / Scrum Teams** - Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

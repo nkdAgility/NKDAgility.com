@@ -50,9 +50,9 @@ categories:
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 
 
-In the world of Agile and Scrum, the concept of starting with 'why' is pivotal. Simon Sinek's insightful exploration of this idea demonstrates its crucial role in motivating people and driving success.  
+In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), the concept of starting with 'why' is pivotal. Simon Sinek's insightful exploration of this idea demonstrates its crucial role in motivating people and driving success.  
 
-But, what does it mean for an Agile team or a Scrum Master? Let's dive into this compelling approach to understanding motivation and its impact on Agile practices. 
+But, what does it mean for an Agile team or a [Scrum Master]({{< ref "/tags/scrum-master" >}})? Let's dive into this compelling approach to understanding motivation and its impact on Agile practices. 
 
 **Understanding Motivation: Beyond the 'Why'** 
 
@@ -76,9 +76,9 @@ But, what does it mean for an Agile team or a Scrum Master? Let's dive into this
 
 - 🎯 **Vision and Goals in Agile**: Aligning the daily tasks of Agile teams with a broader vision ensures that everyone is moving in the same direction towards a shared purpose. 
 
-- 🌟 The Role of Vision, Value, and Validation: These three elements replace traditional project management metrics, focusing instead on the overarching goal and the steps needed to achieve it. 
+- 🌟 The Role of Vision, Value, and Validation: These three elements replace traditional [project management]({{< ref "/tags/project-management" >}}) metrics, focusing instead on the overarching goal and the steps needed to achieve it. 
 
-**The Role of Leadership in Cultivating Purpose** 
+**The Role of [Leadership]({{< ref "/categories/leadership" >}}) in Cultivating Purpose** 
 
 - 🌱 **Creating a Culture of Purpose**: Leaders in Agile environments must foster a culture where the ‘why’ is clear and every team member can connect their work to it. 
 

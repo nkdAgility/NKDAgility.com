@@ -48,11 +48,11 @@ categories:
 - Leadership
 
 ---
-In any organization, the skills and knowledge of a team can determine its success or failure. But what happens when a team is identified as deficient? How do you as a leader address the issue before resorting to drastic measures like firing? The answer lies in training and fostering a continuous learning environment.
+In any organization, the skills and knowledge of a team can determine its success or failure. But what happens when a team is identified as deficient? How do you as a leader address the issue before resorting to drastic measures like firing? The answer lies in training and fostering a [continuous learning]({{< ref "/tags/continuous-learning" >}}) environment.
 
 ## **The Power of Training** **💡**
 
-Before rushing to conclusions about a team's competence, **training** offers a powerful solution. It provides a broad foundation of knowledge that can enhance the skills of the entire group. However, it's important to recognize that not everything taught in training will be remembered. In fact, we might only retain 20-25% of what we learn in a class. But that 25% is spread across all the capabilities taught.
+Before rushing to conclusions about a team's [competence]({{< ref "/tags/competence" >}}), **training** offers a powerful solution. It provides a broad foundation of knowledge that can enhance the skills of the entire group. However, it's important to recognize that not everything taught in training will be remembered. In fact, we might only retain 20-25% of what we learn in a class. But that 25% is spread across all the capabilities taught.
 
 ### **Key Benefits of Training:**
 
@@ -98,7 +98,7 @@ Learning should be rewarding, but that doesn’t always mean financial compensat
 
 ### **Ways to Foster a Rewarding Learning Culture:**
 
-- **Freedom to try new things**: Allow your team the flexibility to experiment with new ideas and technologies. Even if they fail, the process of experimentation can lead to innovative solutions.
+- **Freedom to try new things**: Allow your team the flexibility to experiment with new ideas and technologies. Even if they fail, the process of [experimentation]({{< ref "/tags/experimentation" >}}) can lead to innovative solutions.
 
 - **Freedom to fail**: Failure is an inevitable part of learning. What’s important is that your team feels safe to fail and learn from those experiences.
 
@@ -114,7 +114,7 @@ If you find that your team is disengaged or unwilling to learn, the issue may li
 
 1. **Assess the organizational culture**: Is there room for innovation and learning, or is the organization stuck in its ways?
 
-3. **Encourage continuous improvement**: Make learning a priority and ensure that your team feels supported in their journey.
+3. **Encourage [continuous improvement]({{< ref "/tags/continuous-improvement" >}})**: Make learning a priority and ensure that your team feels supported in their journey.
 
 5. **Lead by example**: As a leader, demonstrate your own commitment to learning. Show your team that you’re also willing to evolve and grow with them.
 
@@ -126,4 +126,4 @@ Building a learning culture within your organization isn’t just a “nice-to-h
 
 Encourage learning, adapt to new technologies, and fix the system when it’s broken. By fostering a culture of growth and innovation, you’ll unlock the full potential of your team.
 
-And remember, learning isn’t just about acquiring knowledge—it’s about applying it in new and exciting ways. If you enjoyed this blog and want to dive deeper into Agile, Scrum, or DevOps, feel free to reach out and book a coffee chat with me through Naked Agility ☕.
+And remember, learning isn’t just about acquiring knowledge—it’s about applying it in new and exciting ways. If you enjoyed this blog and want to dive deeper into Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to reach out and book a coffee chat with me through Naked Agility ☕.

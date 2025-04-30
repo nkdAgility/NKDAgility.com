@@ -46,16 +46,16 @@ A traditional manager, born out of customary organisational conventions, focuses
 
 An Instigator of Change
 
-In stark contrast, an Agile Leader embraces the responsibility of challenging conventional thinking, driving organisations towards a mindset shift. They focus less on controlling and more on empowering—enabling individuals and teams to make the necessary decisions and navigate their way. Agile Leaders do not adhere to the restrictive practices of traditional management. Instead, they facilitate open communication and foster an environment conducive to quick responses and market adaptability. 🎯
+In stark contrast, an Agile Leader embraces the responsibility of challenging conventional thinking, driving organisations towards a mindset shift. They focus less on controlling and more on empowering—enabling individuals and teams to make the necessary decisions and navigate their way. Agile Leaders do not adhere to the restrictive practices of traditional management. Instead, they facilitate open communication and foster an environment conducive to quick responses and [market adaptability]({{< ref "/tags/market-adaptability" >}}). 🎯
 
 In essence, the Agile Leader is not just a manager but a change agent who catalyses growth, fosters self-reliance, and leads organisations to thrive in an ever-evolving market landscape.
 
-If you're ready to transition from a traditional management approach to embrace Agile leadership, let's connect!🚀
+If you're ready to transition from a traditional management approach to embrace Agile [leadership]({{< ref "/categories/leadership" >}}), let's connect!🚀
 
-Keywords:        Agile Leadership, Traditional Management, Decision-Making, Change
+Keywords:        [Agile Leadership]({{< ref "/tags/agile-leadership" >}}), Traditional Management, Decision-Making, Change
 
 Hashtags:         #AgileLeadership #DecisionMaking #TraditionalManagement
 
 General
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

@@ -42,7 +42,7 @@ Understanding is one of those elusive concepts that we often take for granted in
 
 ### The Art of Reading the Room
 
-As a product owner, one of the most critical skills you can develop is the ability to read the room. This means being attuned to the dynamics of your team and recognising when understanding is lacking. Here are some strategies that have worked for me:
+As a [product owner]({{< ref "/tags/product-owner" >}}), one of the most critical skills you can develop is the ability to read the room. This means being attuned to the dynamics of your team and recognising when understanding is lacking. Here are some strategies that have worked for me:
 
 - **Observe Body Language**: Are team members engaged, or do they seem distracted? Non-verbal cues can often reveal more than words.
 - **Ask Open-Ended Questions**: Instead of yes/no questions, encourage dialogue. This can help surface areas of confusion that might not be immediately apparent.

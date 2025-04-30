@@ -64,7 +64,7 @@ The core principle of Agile is to deliver **usable working products** at the end
 
 - Agile is all about **visibility and stakeholder engagement**.
 
-- It focuses on **continuous delivery** of usable products.
+- It focuses on **[continuous delivery]({{< ref "/tags/continuous-delivery" >}})** of usable products.
 
 - This practice reduces risk and increases adaptability.
 
@@ -72,7 +72,7 @@ When we adhere to these principles, we're continuously improving our product, ga
 
 ## **Traditional Risk Management vs. Agile Risk Management**
 
-In traditional project management, risk was mitigated through detailed planning. Teams would lay out extensive project plans and milestones that they believed wouldn't change much over time. This method worked in predictable environments, but in today's **complex and uncertain landscapes**, this level of detailed foresight is impossible.
+In traditional [project management]({{< ref "/tags/project-management" >}}), risk was mitigated through detailed planning. Teams would lay out extensive project plans and milestones that they believed wouldn't change much over time. This method worked in predictable environments, but in today's **complex and uncertain landscapes**, this level of detailed foresight is impossible.
 
 - In Agile, we manage risk by delivering **incremental, usable products**.
 
@@ -80,9 +80,9 @@ In traditional project management, risk was mitigated through detailed planning.
 
 That’s why **special sprints** (like bug-fix or hardening sprints) are problematic. They offer a false sense of security—a “safety net”—that undermines the core Agile principle of delivering usable work every sprint.
 
-## **Case Study: The Azure DevOps Team**
+## **Case Study: The Azure [DevOps]({{< ref "/categories/devops" >}}) Team**
 
-A great example of this issue comes from the **Azure DevOps team** when they first transitioned to Scrum. They initially planned to run six regular sprints followed by a "hardening" or "safety net" sprint, where they'd fix bugs, clean up technical debt, and ensure everything was in good shape.
+A great example of this issue comes from the **[Azure DevOps]({{< ref "/tags/azure-devops" >}}) team** when they first transitioned to [Scrum]({{< ref "/categories/scrum" >}}). They initially planned to run six regular sprints followed by a "hardening" or "safety net" sprint, where they'd fix bugs, clean up [technical debt]({{< ref "/tags/technical-debt" >}}), and ensure everything was in good shape.
 
 ### **The Problem With Safety Nets**
 
@@ -110,7 +110,7 @@ This approach led to a much healthier workflow and helped the team truly embrace
 
 ## **Why Special Sprints Are Agile Banditry**
 
-When teams rely on special sprints, they’re taking risks they shouldn’t be taking. They’re kicking the can down the road, hoping they’ll have time to clean up the mess later. But Agile isn’t about **delaying responsibility**—it’s about **continuous improvement** and **delivering value** every single sprint.
+When teams rely on special sprints, they’re taking risks they shouldn’t be taking. They’re kicking the can down the road, hoping they’ll have time to clean up the mess later. But Agile isn’t about **delaying responsibility**—it’s about **[continuous improvement]({{< ref "/tags/continuous-improvement" >}})** and **delivering value** every single sprint.
 
 Here’s why **special sprints** are a problem:
 

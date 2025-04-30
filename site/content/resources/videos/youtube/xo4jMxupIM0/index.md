@@ -48,7 +48,7 @@ categories:
 - Scrum
 
 ---
-In my journey as a Scrum Master, I've often found that the most profound learning experiences come not just from theory, but from the practical application of that theory in real-world scenarios. This is precisely what the Professional Scrum Master (PSM) immersive learning experience offers—a unique opportunity for double-loop learning. 
+In my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I've often found that the most profound learning experiences come not just from theory, but from the practical application of that theory in real-world scenarios. This is precisely what the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) immersive learning experience offers—a unique opportunity for double-loop learning. 
 
 ### The Power of Double-Loop Learning
 

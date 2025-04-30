@@ -45,17 +45,17 @@ categories:
 ---
 ## The Art of Sprint Goal Creation
 
-I'm back here again to discuss another fascinating aspect of the Scrum universe, which is the Scrum team's journey in the art of creating a Sprint Goal.🎯
+I'm back here again to discuss another fascinating aspect of the [Scrum]({{< ref "/categories/scrum" >}}) universe, which is the [Scrum team]({{< ref "/tags/scrum-team" >}})'s journey in the art of creating a Sprint Goal.🎯
 
 ##  Combining Strategic and Tactical Directions
 
 The inception of a valuable sprint goal necessitates the Scrum team to pull in a whole lot of information. 
 
-In order to create a craft a top-notch sprint goal, the Scrum team can't just grab the first item on the product backlog.
+In order to create a craft a top-notch sprint goal, the Scrum team can't just grab the first item on the [product backlog]({{< ref "/tags/product-backlog" >}}).
 
 It's far more nuanced than that.
 
-The team needs to absorb a lot of information, including the strategic direction of the product and the tactical direction the product owner is navigating.
+The team needs to absorb a lot of information, including the strategic direction of the product and the tactical direction the [product owner]({{< ref "/tags/product-owner" >}}) is navigating.
 
 Plus, they also need to delve into the current engineering issues of the product.  🚀
 

@@ -59,7 +59,7 @@ categories:
 preview: image-3-3.png
 
 ---
-One of my customers is asking me about the accountabilities of a Product Owner and how they break down. While I had seen many things around the Scrum Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.
+One of my customers is asking me about the accountabilities of a [Product Owner]({{< ref "/tags/product-owner" >}}) and how they break down. While I had seen many things around the [Scrum]({{< ref "/categories/scrum" >}}) Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.
 
 This represents my best efforts to pull together a specification of the Product Owner accountability from the Scrum Guide, agile practitioners, and a little bit of experience.
 
@@ -70,7 +70,7 @@ This represents my best efforts to pull together a specification of the Product 
 
 <figcaption>
 
-Professional Scrum Product Owner Stances
+[Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Product Owner Stances
 
 </figcaption>
 
@@ -120,7 +120,7 @@ Five A's of Product Ownership
 
 </figure>
 
-I do mention certifications, both from Scrum.org and Scrum Alliance, and please be aware that certification is not an indication of competence but may be used as a simple bar to reduce the load on interviews and assert a minimum level of knowledge, at $200 for a PSPO I assessment and $250 PSPO II assessment. With a reputation in the industry of not being totally easy, these are a no brainer for any aspiring or experienced Product Owner. There are more than 100k people with PSPO I and 2k people with PSPO II at the time of writing.
+I do mention certifications, both from Scrum.org and Scrum Alliance, and please be aware that certification is not an indication of [competence]({{< ref "/tags/competence" >}}) but may be used as a simple bar to reduce the load on interviews and assert a minimum level of knowledge, at $200 for a PSPO I assessment and $250 PSPO II assessment. With a reputation in the industry of not being totally easy, these are a no brainer for any aspiring or experienced Product Owner. There are more than 100k people with PSPO I and 2k people with PSPO II at the time of writing.
 
 ![](images/image-1-1-1.png)
 { .post-img }
@@ -133,15 +133,15 @@ The [Product Owner](https://nkdagility.com/training/audiences/product-owners/)�
 
 ### Role Summary (Accountabilities)
 
-This [Product Owner](https://nkdagility.com/training/audiences/product-owners/) is a key position that sets the tone for product leadership and the definition of success in the organization. As such, modern product management practices and mindset are expected to be put into practice daily. This [Product Owner](https://nkdagility.com/training/audiences/product-owners/) is accountable for and has the authority to maximize the value of the product and the effectiveness of the Product Backlog by using, but not limited to, these 6 key stances:
+This [Product Owner](https://nkdagility.com/training/audiences/product-owners/) is a key position that sets the tone for product [leadership]({{< ref "/categories/leadership" >}}) and the definition of success in the organization. As such, modern [product management]({{< ref "/categories/product-management" >}}) practices and mindset are expected to be put into practice daily. This [Product Owner](https://nkdagility.com/training/audiences/product-owners/) is accountable for and has the authority to maximize the value of the product and the effectiveness of the [Product Backlog]({{< ref "/tags/product-backlog" >}}) by using, but not limited to, these 6 key stances:
 
 - The Visionary
 
   - Articulating the strategic vision of the product;
-  - Developing and explicitly communicating intermediate strategic goals;
+  - Developing and explicitly communicating intermediate [strategic goals]({{< ref "/tags/strategic-goals" >}});
   - Propose how the product can tactically increase its value each Sprint;
   - Understand and shape the impact of the product on our company;
-  - Each Sprint ensuring that the Scrum Team is prepared to discuss the **most important** Product Backlog items;
+  - Each Sprint ensuring that the [Scrum Team]({{< ref "/tags/scrum-team" >}}) is prepared to discuss the **most important** Product Backlog items;
 
 - The Influencer
 
@@ -155,7 +155,7 @@ This [Product Owner](https://nkdagility.com/training/audiences/product-owners/) 
   - Collaborating closely with the Developers & Stakeholders daily;
   - Developing and communicating budget, investments, roadmaps, vision, & strategy;
   - Developing controls for a change, risk, quality, & incident management to enable professional Scrum;
-  - Developing and influencing commercial contracts that align with the agile values and principles;
+  - Developing and influencing commercial contracts that align with the [agile values and principles]({{< ref "/tags/agile-values-and-principles" >}});
 
 - The Customer Representative
 
@@ -197,7 +197,7 @@ In addition, the successful candidate will have some or all of the following att
 
 - Experience fulfilling the Product Owner role for at least two years;
 
-- Knowledge and/or experience with complimentary Agile product management techniques: Evidence-based Management, Goal-orientated Product Roadmap, Business Model Canvas, Growth Experiment Canvas, Delegation Poker, Liberating Structures, Three Horizons Innovation, Stakeholder Mapping, Impact Mapping, Value Pyramids;
+- Knowledge and/or experience with complimentary [Agile product management]({{< ref "/tags/agile-product-management" >}}) techniques: Evidence-based Management, Goal-orientated Product Roadmap, Business Model Canvas, Growth Experiment Canvas, Delegation Poker, [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Three Horizons Innovation, Stakeholder Mapping, Impact Mapping, Value Pyramids;
 
 **I would love to get your feedback and discussion on this job specification so that we can make it better!**
 

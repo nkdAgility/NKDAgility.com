@@ -41,11 +41,11 @@ categories:
 - Product Management
 
 ---
-As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 
+As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 
 
 ### Understanding the Product Owner Role
 
-When we talk about the product owner, we’re essentially discussing an agile product manager. This role encompasses all the tools and techniques of product management, but it also requires a shift in mindset. The journey of a product owner can be likened to moving from being a mere scribe—the lowest form of product ownership—to becoming a mini CEO or entrepreneur of the product. 
+When we talk about the product owner, we’re essentially discussing an agile product manager. This role encompasses all the tools and techniques of [product management]({{< ref "/categories/product-management" >}}), but it also requires a shift in mindset. The journey of a product owner can be likened to moving from being a mere scribe—the lowest form of product ownership—to becoming a mini CEO or entrepreneur of the product. 
 
 - **Ownership**: At the pinnacle of this totem pole, the product owner has full fiscal and commercial accountability for their product within the organisation. This level of ownership allows them to engage with various aspects of the business that they may not have had access to previously.
 
@@ -69,4 +69,4 @@ Imagine a group of product owners who have all attempted the same activity in th
 
 In conclusion, the immersive learning experience for product owners is not just about acquiring knowledge; it’s about fostering a community of practice where we can learn from one another. By engaging in these conversations and sharing our experiences, we can elevate our roles and become more effective in our organisations.
 
-If you found this discussion valuable, I encourage you to like, follow, and subscribe. I always welcome comments and would love to chat about agile, scrum, or DevOps. Feel free to book a coffee with me through Naked Agility. Let’s continue this journey together!
+If you found this discussion valuable, I encourage you to like, follow, and subscribe. I always welcome comments and would love to chat about agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}). Feel free to book a coffee with me through Naked Agility. Let’s continue this journey together!

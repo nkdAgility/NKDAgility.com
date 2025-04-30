@@ -47,7 +47,7 @@ categories:
 - Product Management
 
 ---
-In the fast-paced world of product development, assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
+In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
 
 ## **Introducing Assumptions to Your Product Development Toolbox**
 
@@ -55,7 +55,7 @@ One of the first and most critical lessons in our course is the introduction of 
 
 ### **The Moment of Realization: We Are Making Assumptions**
 
-The moment when you realize that you’ve been making assumptions, not just one or two, but many, is pivotal. Whether you're developing a new product, discussing its potential future, or creating product backlog items, assumptions are quietly influencing every decision. But here's the question: What kind of assumptions are you making?
+The moment when you realize that you’ve been making assumptions, not just one or two, but many, is pivotal. Whether you're developing a new product, discussing its potential future, or creating [product backlog]({{< ref "/tags/product-backlog" >}}) items, assumptions are quietly influencing every decision. But here's the question: What kind of assumptions are you making?
 
 - **Assumptions in Product Futures:** What do you believe the market will want?
 
@@ -83,7 +83,7 @@ After prioritizing your assumptions, it’s time to take the next step: transfor
 
 ### **Crafting and Testing Hypotheses**
 
-In the course, we place significant emphasis on how to create hypotheses and, more importantly, how to test them. Hypotheses are essentially educated guesses that need to be validated through experimentation.
+In the course, we place significant emphasis on how to create hypotheses and, more importantly, how to test them. Hypotheses are essentially educated guesses that need to be validated through [experimentation]({{< ref "/tags/experimentation" >}}).
 
 - **Example Hypothesis:** "If we add feature X, user engagement will increase by 20%."
 

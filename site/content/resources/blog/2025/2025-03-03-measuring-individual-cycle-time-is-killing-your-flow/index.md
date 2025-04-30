@@ -17,11 +17,13 @@ resourceTypes: blog
 slug: measuring-individual-cycle-time-is-killing-your-flow
 aliases:
 - /resources/KHEPBWiFDKJ
+- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 aliasesArchive:
 - /measuring-individual-cycle-time-is-killing-your-flow
 - /blog/measuring-individual-cycle-time-is-killing-your-flow
 - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 categories:
 - Kanban
 - Lean

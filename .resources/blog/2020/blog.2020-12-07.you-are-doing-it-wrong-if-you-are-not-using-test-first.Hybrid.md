@@ -53,7 +53,7 @@ Many teams are struggling with delivering modern software because they are not b
 
 ## TL;DR;
 
-While it takes time, effort, dedication and discipline to achieve Test First the return on investment is enormous. A common form of Test First is Test Driven Development (TDD) and we can use it to meet more of our customer's expectations, minimise our maintenance costs, and get fewer regressions and bugs in production. Ultimately without working in a test-first culture, you will be [unable to do continuous delivery](/blog/continuous-deliver-sprint/) with any confidence.
+While it takes time, effort, dedication and discipline to achieve Test First the return on investment is enormous. A common form of Test First is [Test Driven Development]({{< ref "/tags/test-driven-development" >}}) (TDD) and we can use it to meet more of our customer's expectations, minimise our maintenance costs, and get fewer regressions and bugs in production. Ultimately without working in a test-first culture, you will be [unable to do continuous delivery](/blog/continuous-deliver-sprint/) with any confidence.
 
 The only question for professional [Developers](/the-2020-scrum-guide/#developers) is how to get started.
 
@@ -68,13 +68,13 @@ Unfortunately, while the proverb above is absolutely true there are many fanatic
 You will hear a lot of different terms banded about in relations to test first:
 
 - **Test-Driven Development (TDD)** – Automated tests created before the code is written to validate that we need that code.
-- **Acceptance Test Driven Development (ATDD)** – Tests, either automated or manual, that validate business functionality
-- **Behaviour Driven Development (BDD)** – An automated test that validates a particular behaviour that you want your application to have.
+- **[Acceptance Test Driven Development]({{< ref "/tags/acceptance-test-driven-development" >}}) (ATDD)** – Tests, either automated or manual, that validate business functionality
+- **[Behaviour Driven Development]({{< ref "/tags/behaviour-driven-development" >}}) (BDD)** – An automated test that validates a particular behaviour that you want your application to have.
 - etc…
 
-> All of these topics, and more, are covered in the [Professional Scrum Developer (PSD) training](/training/courses/professional-scrum-developer-training/) that was build in combination with Scrum.org and Microsoft as the only official team training for Scrum & DevOps.
+> All of these topics, and more, are covered in the [Professional Scrum Developer (PSD) training](/training/courses/professional-scrum-developer-training/) that was build in combination with [Scrum]({{< ref "/categories/scrum" >}}).org and Microsoft as the only official team training for Scrum & [DevOps]({{< ref "/categories/devops" >}}).
 
-These terms all fulfil a specific niche and the evolution of modern software development will sprout many more. Find that which solves your specific problem and adapt until you have something that works for you, your team and your organisation.
+These terms all fulfil a specific niche and the evolution of modern [software development]({{< ref "/tags/software-development" >}}) will sprout many more. Find that which solves your specific problem and adapt until you have something that works for you, your team and your organisation.
 
 ## The essence of test first
 
@@ -100,7 +100,7 @@ Ideally, we want our tests to be as close to the code as possible, but also as e
 
 Getting validation that we are building the right thing is key to actually being able to build the right thing. This sounds like a no-brainer but what do we usually do?
 
-Well, we usually take our requirements, in whatever form we generally make them, and give them to our coders to turn into working software. Quite separately we give the same requirements to our testers and they create a bunch of tests to validate what we have built.
+Well, we usually take our requirements, in whatever form we generally make them, and give them to our coders to turn into [working software]({{< ref "/tags/working-software" >}}). Quite separately we give the same requirements to our testers and they create a bunch of tests to validate what we have built.
 
 Did you notice the problem with this workflow?
 

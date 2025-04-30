@@ -34,7 +34,7 @@ So, what does your organization need to focus on to initially survive, and then 
 
 Product Ownership is a great place to start.
 
-A great product owner acts like the CEO of the product and works closely with product development teams, customers, and product stakeholders to focus on building the most valuable product or solving the most compelling problems. They are laser focused on prioritizing work that delights customers and aligns with core organizational objectives – such as increasing customer loyalty and referrals – to ensure maximum returns on product development investments.
+A great [product owner]({{< ref "/tags/product-owner" >}}) acts like the CEO of the product and works closely with [product development]({{< ref "/categories/product-development" >}}) teams, customers, and product stakeholders to focus on building the most valuable product or solving the most compelling problems. They are laser focused on prioritizing work that delights customers and aligns with core organizational objectives – such as increasing customer loyalty and referrals – to ensure maximum returns on product development investments.
 
 Tough gig, but it's also a game-changer when you get it right. In this short video, I talk about the kind of impact a strong, skilled product owner can have in your organization.
 
@@ -44,7 +44,7 @@ Tough gig, but it's also a game-changer when you get it right. In this short vid
 
 The [Lean-Agile Practitioners Community](https://nkdagility.com/community/) has grown to over 1300+ members, and new usability updates by our platform team will hopefully make it an even bigger success this year.
 
-It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 Coaching, The Situation Room, & Tails from the Trenches!
+It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 [Coaching]({{< ref "/tags/coaching" >}}), The Situation Room, & Tails from the Trenches!
 
 _Thank you very much to all who are making this community more extraordinary._
 
@@ -86,7 +86,7 @@ All of [our classes](https://nkdagility.com/training/) are listed on our site, b
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" ids="10045" limit="5"\]
 
-#### **Scrum Masters**
+#### **[Scrum]({{< ref "/categories/scrum" >}}) Masters**
 
 Courses to help Scrum Masters and Delivery Managers improve their skills
 
@@ -94,7 +94,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

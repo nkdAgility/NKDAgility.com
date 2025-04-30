@@ -58,9 +58,9 @@ categories:
 - Product Management
 
 ---
-As a product owner, you’re essentially the mini-CEO of your product. You make critical decisions about which features to build and when, driving the success of your product. But how do you know which bets will pay off? How do you make informed decisions that steer your product toward success? This is where Evidence-Based Management (EBM) comes into play. It's a framework that helps product owners use real data to guide their decision-making and ensure they’re delivering maximum value.
+As a [product owner]({{< ref "/tags/product-owner" >}}), you’re essentially the mini-CEO of your product. You make critical decisions about which features to build and when, driving the success of your product. But how do you know which bets will pay off? How do you make informed decisions that steer your product toward success? This is where Evidence-Based Management (EBM) comes into play. It's a framework that helps product owners use real data to guide their decision-making and ensure they’re delivering maximum value.
 
-In this post, we'll explore why the Professional Agile Leadership - Evidence-Based Management (PAL-EBM) course is a fantastic opportunity for product owners and how you can use EBM to maximize your product’s value. 🚀
+In this post, we'll explore why the Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) - Evidence-Based Management (PAL-EBM) course is a fantastic opportunity for product owners and how you can use EBM to maximize your product’s value. 🚀
 
 ## **What is EBM?**
 
@@ -68,11 +68,11 @@ In this post, we'll explore why the Professional Agile Leadership - Evidence-Bas
 
 - **Unrealized Value**: The potential value your product could deliver but hasn’t yet.
 
-- **Current Value**: The value your product delivers to users right now.
+- **[Current Value]({{< ref "/tags/current-value" >}})**: The value your product delivers to users right now.
 
-- **Ability to Innovate**: How effectively your product can adapt to new opportunities.
+- **[Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}})**: How effectively your product can adapt to new opportunities.
 
-- **Time to Market**: How quickly your product can deliver new features or updates to users.
+- **[Time to Market]({{< ref "/tags/time-to-market" >}})**: How quickly your product can deliver new features or updates to users.
 
 By understanding these metrics, product owners can make better decisions about where to invest their time, energy, and resources.
 
@@ -112,13 +112,13 @@ Once you’ve identified a new path, it’s time to have a conversation with you
 
 **Pro Tip**: Regularly reviewing your EBM metrics with your stakeholders keeps everyone aligned and ensures you’re making decisions that will lead to long-term success.
 
-## **Maximizing Business Value Delivery**
+## **Maximizing Business [Value Delivery]({{< ref "/tags/value-delivery" >}})**
 
 At the core of being a product owner is delivering value. It’s not just about building features; it’s about delivering the right value to your users and stakeholders.
 
 ### **Key Considerations for Product Owners**
 
-- **Maximize Throughput**: Are your teams delivering as efficiently as possible? Throughput measures how much value your teams are generating.
+- **Maximize [Throughput]({{< ref "/tags/throughput" >}})**: Are your teams delivering as efficiently as possible? Throughput measures how much value your teams are generating.
 
 - **Deliver the Right Value**: Are you building the features that matter? Maximizing your product’s market value depends on identifying the features that will have the greatest impact.
 

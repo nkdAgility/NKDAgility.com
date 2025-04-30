@@ -57,7 +57,7 @@ Empathy is a powerful tool in fostering strong relationships. Here’s how I see
 
 - **Within the Team**: When we approach our colleagues with respect and humility, we create an environment where everyone feels valued. This openness encourages team members to share their thoughts and ideas without fear of judgement, leading to richer discussions and better outcomes.
 
-- **With Leadership**: Building empathetic relationships with leadership is equally crucial. When leaders demonstrate respect for their teams, it fosters a culture of collaboration. This, in turn, allows for more effective decision-making and a shared vision for success.
+- **With [Leadership]({{< ref "/categories/leadership" >}})**: Building empathetic relationships with leadership is equally crucial. When leaders demonstrate respect for their teams, it fosters a culture of collaboration. This, in turn, allows for more effective decision-making and a shared vision for success.
 
 - **Towards Customers**: Our customers are not just end-users; they are partners in our journey. By respecting their needs and perspectives, we can create products that truly resonate with them. Listening to customer feedback and incorporating it into our processes is essential for delivering value.
 
@@ -79,6 +79,6 @@ It’s essential to recognise that other people's perceptions can significantly 
 
 - **Building Trust**: When we actively listen to others and validate their experiences, we build trust. This trust is the bedrock of effective collaboration and ultimately leads to better results.
 
-- **Continuous Improvement**: Embracing feedback and differing perceptions fosters a culture of continuous improvement. It encourages us to adapt and evolve, which is at the heart of agility.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Embracing feedback and differing perceptions fosters a culture of continuous improvement. It encourages us to adapt and evolve, which is at the heart of agility.
 
 In conclusion, modesty and respect are not just niceties; they are essential components of a thriving agile environment. By prioritising empathy, avoiding assumptions, and valuing diverse perspectives, we can create a culture that not only enhances our agile practices but also enriches our professional relationships. Let’s commit to building trust and fostering an environment where everyone feels heard and valued. After all, agility is as much about people as it is about processes.

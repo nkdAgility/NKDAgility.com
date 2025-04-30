@@ -44,7 +44,7 @@ categories:
 - Product Development
 
 ---
-Technical debt is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.
+[Technical debt]({{< ref "/tags/technical-debt" >}}) is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.
 
 ### The Real Cost of Technical Debt
 
@@ -59,7 +59,7 @@ When I reflect on my experiences in various teams, I see a common theme: the str
 So, how do we combat this? The answer lies in fostering a culture that prioritises the delivery of a high-quality, usable product on a regular cadence. This approach is not merely a best practice; it’s a superpower for our teams and organisations. Here’s why:
 
 - **Enhanced Agility**: When we focus on maintaining a high-quality product, we can pivot and adapt more easily to changing market demands. This agility allows us to seize opportunities that might otherwise slip through our fingers.
-- **Increased Value Delivery**: Regularly delivering a usable product means we can gather feedback more frequently, allowing us to refine our offerings and better meet customer needs.
+- **Increased [Value Delivery]({{< ref "/tags/value-delivery" >}})**: Regularly delivering a usable product means we can gather feedback more frequently, allowing us to refine our offerings and better meet customer needs.
 - **Empowered Teams**: Teams that are encouraged to address technical debt feel a greater sense of ownership over their work. This empowerment leads to increased innovation and a more engaged workforce.
 
 ### Strategies for Managing Technical Debt

@@ -40,11 +40,11 @@ resourceTypes:
 categories: []
 
 ---
-As I embark on the immersive trading route, I find myself reflecting on the core reasons behind this shift. My journey into training began with a desire to address the struggles faced by individuals and organisations alike. Back in 2010, when I first delved into DevOps, I witnessed firsthand the challenges people encountered and the disconnect between their needs and what organisations were providing. This disconnect often led to a vicious cycle where organisations blamed their people for failures, rather than addressing the root causes.
+As I embark on the immersive trading route, I find myself reflecting on the core reasons behind this shift. My journey into training began with a desire to address the struggles faced by individuals and organisations alike. Back in 2010, when I first delved into [DevOps]({{< ref "/categories/devops" >}}), I witnessed firsthand the challenges people encountered and the disconnect between their needs and what organisations were providing. This disconnect often led to a vicious cycle where organisations blamed their people for failures, rather than addressing the root causes.
 
-### The Role of DevOps in Value Delivery
+### The Role of DevOps in [Value Delivery]({{< ref "/tags/value-delivery" >}})
 
-DevOps was a game changer for many. It streamlined processes and automated repetitive tasks, allowing teams to focus on delivering value. My work with Azure DevOps highlighted that while tools are essential, it’s the practices surrounding them that truly make a difference. This realisation led me to explore agile methodologies, including Scrum and Kanban, which emphasise collaboration and continuous improvement.
+DevOps was a game changer for many. It streamlined processes and automated repetitive tasks, allowing teams to focus on delivering value. My work with [Azure DevOps]({{< ref "/tags/azure-devops" >}}) highlighted that while tools are essential, it’s the practices surrounding them that truly make a difference. This realisation led me to explore agile methodologies, including [Scrum]({{< ref "/categories/scrum" >}}) and [Kanban]({{< ref "/categories/kanban" >}}), which emphasise collaboration and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### Rethinking Training Approaches
 

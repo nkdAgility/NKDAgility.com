@@ -19,6 +19,7 @@ isShort: false
 aliases:
 - /resources/qWHCBUwpOZk
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
 aliasesArchive:
 - /resources/videos/-core-practices-of-kanban-improving-a-workflow-
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
@@ -26,6 +27,7 @@ aliasesArchive:
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 - 3-core-practices-of-kanban-improving-a-workflow-
 - 3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,7 +49,7 @@ categories:
 - Product Development
 
 ---
-### Improving Your Workflow in a Kanban Strategy
+### Improving Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**
 

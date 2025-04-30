@@ -22,12 +22,14 @@ aliases:
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/ZSqNF7v9vSR
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business.
 aliasesArchive:
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+- /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business.
 tags:
 - Technical Mastery
 - Technical Debt
@@ -48,7 +50,7 @@ If you were buying a car, or a TV, you as the purchaser would do your best to un
 
 <figcaption>
 
-All technical debt is a risk to the product and to your business.
+All [technical debt]({{< ref "/tags/technical-debt" >}}) is a risk to the product and to your business.
 
 </figcaption>
 
@@ -68,7 +70,7 @@ _**All technical debt is risk to the product and to your business.**_
 
 Technical debt is like an unhedged fund! There is no asset securing that risk, no insurance for it. Technical debt is 100% risk.
 
-Since Product Delivery is a capital expenditure the output is an asset of your organisation in the same way that a building or equipment is. All of these assets should be accurately represented on a balance sheet and likely part of your year-end accounts. Part of the worth of your company.
+Since [Product Delivery]({{< ref "/tags/product-delivery" >}}) is a capital expenditure the output is an asset of your organisation in the same way that a building or equipment is. All of these assets should be accurately represented on a balance sheet and likely part of your year-end accounts. Part of the worth of your company.
 
 **There is a name given to miss representing an organisational asset, either knowingly or unknowingly, on your corporate accents: fraud.**
 
@@ -86,7 +88,7 @@ It's important to understand that technical debt does not accumulate linearly. I
 
 ## The non-linear accumulation of technical debt
 
-A good example of this is from the Developer Division (DivDev) at Microsoft in developing a product called Team Foundation Server. This commercial product was built using traditional project management practices and delivered on a two-yearly cadence. From 2005 (first beta) until 2012 they worked, successfully delivering a new version every 2 years. Even before 2012 Leadership, and engineers, had noticed that things were getting bogged down. Things were just taking longer to deliver than before and by 2012, with circa 600 people working on it, they were delivering just over 24 features to production each year.
+A good example of this is from the Developer Division (DivDev) at Microsoft in developing a product called Team Foundation Server. This commercial product was built using traditional [project management]({{< ref "/tags/project-management" >}}) practices and delivered on a two-yearly cadence. From 2005 (first beta) until 2012 they worked, successfully delivering a new version every 2 years. Even before 2012 [Leadership]({{< ref "/categories/leadership" >}}), and engineers, had noticed that things were getting bogged down. Things were just taking longer to deliver than before and by 2012, with circa 600 people working on it, they were delivering just over 24 features to production each year.
 
 <figure>
 
@@ -107,7 +109,7 @@ Technical debt had become a serious business problem!
 
 ### Paying back the technical debt
 
-Two visionaries at Microsoft, Brian Harry and Aaron Bjork, started to make changes to tackle this problem. They saw that they needed to get closer to the customers need. To do this they had to shorten the feedback loop, and they settled on 3-week Sprints using Scrum.
+Two visionaries at Microsoft, Brian Harry and Aaron Bjork, started to make changes to tackle this problem. They saw that they needed to get closer to the customers need. To do this they had to shorten the feedback loop, and they settled on 3-week Sprints using [Scrum]({{< ref "/categories/scrum" >}}).
 
 <figure>
 
@@ -122,7 +124,7 @@ Three weeks Sprints instead!
 
 </figure>
 
-And boy was that hard! Moving to 3-week Sprints created a level of transparency that instilled fear! Fear of failure, fear of being an imposter, fear of being held accountable. Aaron and Brian worked hard to push forward and alleviate those fears so that they could really see what was going on and create an environment where the product delivery teams could do their best work.
+And boy was that hard! Moving to 3-week Sprints created a level of [transparency]({{< ref "/tags/transparency" >}}) that instilled fear! Fear of failure, fear of being an imposter, fear of being held accountable. Aaron and Brian worked hard to push forward and alleviate those fears so that they could really see what was going on and create an environment where the product delivery teams could do their best work.
 
 <figure>
 
@@ -131,13 +133,13 @@ And boy was that hard! Moving to 3-week Sprints created a level of transparency 
 
 <figcaption>
 
-Azure DevOps Team Feature delivery per year!
+Azure [DevOps]({{< ref "/categories/devops" >}}) Team Feature delivery per year!
 
 </figcaption>
 
 </figure>
 
-It took them many years of hard work paying back the now transparent Technical Debt to get to where they are now. They have decoupled delivery and release, and while they still have a 3-week release cadence most of the work is done within continuous delivery. Feedback from customers can be implemented and delivered within hours or days, not months and years.
+It took them many years of hard work paying back the now transparent Technical Debt to get to where they are now. They have decoupled delivery and release, and while they still have a 3-week release cadence most of the work is done within [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). Feedback from customers can be implemented and delivered within hours or days, not months and years.
 
 <figure>
 

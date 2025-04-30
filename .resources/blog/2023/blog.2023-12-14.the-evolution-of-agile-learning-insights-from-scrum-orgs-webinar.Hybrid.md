@@ -22,12 +22,14 @@ aliases:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/Ax5c4JFICyO
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+- /resources/blog/the-evolution-of-agile-learning-insights-from-scrum.org-s-webinar
 aliasesArchive:
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+- /resources/blog/the-evolution-of-agile-learning-insights-from-scrum.org-s-webinar
 tags:
 - Continuous Learning
 - Pragmatic Thinking
@@ -36,7 +38,7 @@ categories: []
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---
-This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love (Scrum.org Product Owner) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.
+This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love ([Scrum]({{< ref "/categories/scrum" >}}).org [Product Owner]({{< ref "/tags/product-owner" >}})) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.
 
 You can watch the video below to hear what we say, but it's also worth framing the problem and the need for change here. I welcome all feedback!
 
@@ -60,7 +62,7 @@ Without a substantive change to the participant's mental models, it is unlikely 
 
 ### What is Immersive Learning?
 
-Immersive learning is typically delivered over a much longer period and may look like a combination of consulting, coaching, and teaching. For example, our immersive programs are delivered one half-day weekly for 8-12 weeks.
+Immersive learning is typically delivered over a much longer period and may look like a combination of consulting, [coaching]({{< ref "/tags/coaching" >}}), and teaching. For example, our immersive programs are delivered one half-day weekly for 8-12 weeks.
 
 Like traditional training, we have "Learn a new Concept" that enables participants to remember the content and then follow that up with "Practice with Examples" to enable understanding. However, we follow up with an "Outcome-based Assignement" that enables the application of things we have taught to their real world of work and a "Facilitated Reflection" where they can Analyse the outcome.
 
@@ -128,7 +130,7 @@ Immersive takes what we learned teaching traditional classes, in Scrumorg's case
 
 ### Webinar: Exploring the Different Ways People Learn: A Discussion about Immersive Learning Formats
 
-In this video, [Scrum.org](http://scrum.org/)’s Product Owner Sabrina Love and Professional Scrum trainers [Alex Ballarin](https://www.linkedin.com/in/alexballarin/), [Joanna Płaskonka](https://nkdagility.com/company/people/joanna-plaskonka-phd/), and myself ([Martin Hinshelwood](https://nkdagility.com/company/people/martin-hinshelwood/)) discuss the evolution and effectiveness of immersive learning in Agile environments. We delve into how this approach enhances practical application and reflection, making it a superior method for real-world problem-solving. 🤔💡
+In this video, [Scrum.org](http://scrum.org/)’s Product Owner Sabrina Love and [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) trainers [Alex Ballarin](https://www.linkedin.com/in/alexballarin/), [Joanna Płaskonka](https://nkdagility.com/company/people/joanna-plaskonka-phd/), and myself ([Martin Hinshelwood](https://nkdagility.com/company/people/martin-hinshelwood/)) discuss the evolution and effectiveness of immersive learning in Agile environments. We delve into how this approach enhances practical application and reflection, making it a superior method for real-world problem-solving. 🤔💡
 
 Check out the full webcast on [Exploring Immersive Learning in Agile Environments](https://nkdagility.com/blog/exploring-immersive-learning-in-agile-environments/)
 

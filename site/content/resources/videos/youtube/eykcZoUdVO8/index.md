@@ -68,6 +68,6 @@ And I'll confess, I've tried to do just that! I look up to his vision, and in ma
 
 ## Learn, Emulate, Innovate
 
-Inspired by pioneers like Simon, my Agile and Scrum courses aim to give you the knowledge, spirit and ethos of true Agile thinking.
+Inspired by pioneers like Simon, my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses aim to give you the knowledge, spirit and ethos of true Agile thinking.
 
 Let's learn, evolve, and drive Agile transformations together! 🚀

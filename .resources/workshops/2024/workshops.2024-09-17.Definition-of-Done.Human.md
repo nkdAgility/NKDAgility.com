@@ -29,7 +29,7 @@ categories: []
 tags: []
 
 ---
-# What is the Definition of Done (DoD)
+# What is the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD)
 
 ## Duration
 
@@ -41,7 +41,7 @@ tags: []
 
 1. Definition of Done Icebreaker - Exercise 10 minutes
 2. What is a Definition of Done? - Teaching Block 10 minutes
-3. How "Done" is an increment? - Exercise 45 minutes
+3. How "Done" is an [increment]({{< ref "/tags/increment" >}})? - Exercise 45 minutes
 4.
 
 ## Takeaways

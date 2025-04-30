@@ -72,4 +72,4 @@ The key takeaway here is that delivering value should be the primary goal, not m
 
 In conclusion, the most valuable lesson I’ve learned as a consultant is to focus on the real needs of my clients rather than the constraints of a contract. By fostering relationships and delivering genuine value, I can help organisations achieve lasting change. 
 
-If you found this insight helpful, I encourage you to engage with me. Whether you want to discuss agile, scrum, or DevOps, feel free to book a coffee chat through Naked Agility. I always welcome the opportunity to connect and share ideas.
+If you found this insight helpful, I encourage you to engage with me. Whether you want to discuss agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee chat through Naked Agility. I always welcome the opportunity to connect and share ideas.

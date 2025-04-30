@@ -39,7 +39,7 @@ When it comes to data migration, one of the most pressing concerns for organisat
 
 ### Understanding the Reality of Downtime
 
-In a typical scenario, if you have a collection of 5,000 software engineers, the idea of them being unable to work due to downtime can sound alarming. But let’s unpack that a bit. Even if TFS or Azure DevOps goes offline, your engineers can still continue their work. Sure, collaboration becomes a bit trickier, but it’s not impossible. 
+In a typical scenario, if you have a collection of 5,000 software engineers, the idea of them being unable to work due to downtime can sound alarming. But let’s unpack that a bit. Even if TFS or Azure [DevOps]({{< ref "/categories/devops" >}}) goes offline, your engineers can still continue their work. Sure, collaboration becomes a bit trickier, but it’s not impossible. 
 
 - **Git as a Lifeline**: If your team is using Git as their source control system, they can still share code and work on their tasks offline. This is reminiscent of how Linux was developed—without a central source control system, developers communicated and shared patches via email. Git supports this kind of decentralised collaboration beautifully.
 
@@ -47,7 +47,7 @@ In a typical scenario, if you have a collection of 5,000 software engineers, the
 
 ### Planning for Minimal Downtime
 
-From my experience, if you plan your migration effectively, downtime can be kept to an absolute minimum. I recall one of the largest migrations I managed, which involved moving a staggering 2.5 terabytes of data from an on-premises setup in Europe to Azure DevOps. Here’s how we achieved minimal disruption:
+From my experience, if you plan your migration effectively, downtime can be kept to an absolute minimum. I recall one of the largest migrations I managed, which involved moving a staggering 2.5 terabytes of data from an on-premises setup in Europe to [Azure DevOps]({{< ref "/tags/azure-devops" >}}). Here’s how we achieved minimal disruption:
 
 - **Strategic Timing**: We scheduled the final migration to take place over a weekend. We took the system offline at 5:00 p.m. on Friday and were back online by Sunday morning. This allowed engineers to validate the migration over the weekend, ensuring everything was in order.
 

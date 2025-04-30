@@ -56,7 +56,7 @@ tags:
 - Pragmatic Thinking
 
 ---
-The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the Scrum Team has going in, the shorter it will be. That is, if the Product Backlog is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.
+The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the [Scrum Team]({{< ref "/tags/scrum-team" >}}) has going in, the shorter it will be. That is, if the [Product Backlog]({{< ref "/tags/product-backlog" >}}) is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.
 
 I would expect a typical Sprint Planning to take from 30-120 minutes if there is a clear understanding.
 
@@ -78,7 +78,7 @@ Sprint Planning is about answering the question: “Based on the Product Goal an
 
 This workshop leverages a simple flow and consists of the following:
 
-The Product Owner presents the Product Goal, and the Scrum Team reviews the draft Sprint Goal. The Scrum Team then collaborates on selecting a Sprint Goal before then selecting the Backlog Items for that Sprint. Other than feedback from the previous Sprint Planning there should be few surprises and the expected work should be sized appropriately and ready for the Scrum Team to pull.
+The [Product Owner]({{< ref "/tags/product-owner" >}}) presents the Product Goal, and the Scrum Team reviews the draft Sprint Goal. The Scrum Team then collaborates on selecting a Sprint Goal before then selecting the Backlog Items for that Sprint. Other than feedback from the previous Sprint Planning there should be few surprises and the expected work should be sized appropriately and ready for the Scrum Team to pull.
 
 Once the Scrum Team has a Sprint Backlog they should ask themselves **"Do they feel, as a team, that there is a reasonable degree of certainty that they can achieve the Sprint Goal?"**
 
@@ -103,7 +103,7 @@ Use the Sprint Planning to make the Sprint Goal clear with "[Nine Whys](./../_te
 
 #### Part 3: Select Backlog Items [~60 mins]
 
-- **Step 1: Review the current Throughput Run Chart & Monte Carlo How Many** - This will give the team an indication of the number of items that they can expect to deliver during this Sprint.
+- **Step 1: Review the current [Throughput]({{< ref "/tags/throughput" >}}) Run Chart & Monte Carlo How Many** - This will give the team an indication of the number of items that they can expect to deliver during this Sprint.
 - ![naked Agility Scrum Framework Sprint Planning Forecast](./../assets/images/naked-agility-scrum-framework-sprint-planning-forecast.jpg)
 
 - **Step 2: Review Team Capacity for this Sprint** - Take into account vacation, as well as known pre-booked events
@@ -125,4 +125,4 @@ This is where the Scrum Team creates their actionable plan for at least the firs
 
 #### Part 5: Clear communication to Stakeholders [~5 mins]
 
-After the Sprint Review, the Scrum Team should have a clear understanding of what they will be working on, and what they will be delivering. This should be communicated to the stakeholders.
+After the [Sprint Review]({{< ref "/tags/sprint-review" >}}), the Scrum Team should have a clear understanding of what they will be working on, and what they will be delivering. This should be communicated to the stakeholders.

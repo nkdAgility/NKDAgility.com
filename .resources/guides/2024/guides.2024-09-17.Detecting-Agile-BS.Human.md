@@ -40,6 +40,7 @@ aliasesArchive:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 categories:
+- Product Development
 - Engineering Excellence
 tags:
 - Software Development
@@ -54,7 +55,7 @@ tags:
 - Value Delivery
 
 ---
-Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
+Agile is a buzzword of [software development]({{< ref "/tags/software-development" >}}), and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-[scrum]({{< ref "/categories/scrum" >}})-fall”).
 
 ![Detecting Agile BS](https://nkdagility.com/wp-content/uploads/2020/12/image-2.png){: .responsiveImage}
 
@@ -66,8 +67,8 @@ to these true agile values:
 
 | Agile value                                           | DIB maxim                                                                                             |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Individuals and interactions over processes and tools | “Competence trumps process”                                                                           |
-| Working software over comprehensive documentation     | “Minimize time from program launch to deployment of simplest useful functionality”                    |
+| Individuals and interactions over processes and tools | “[Competence]({{< ref "/tags/competence" >}}) trumps process”                                                                           |
+| [Working software]({{< ref "/tags/working-software" >}}) over comprehensive documentation     | “Minimize time from program launch to deployment of simplest useful functionality”                    |
 | Customer collaboration over contract negotiation      | “Adopt a DevSecOps culture for software systems”                                                      |
 | Responding to change over following a plan            | “Software programs should start small, be iterative, and build on success ‒ or be terminated quickly” |
 
@@ -80,17 +81,17 @@ Key flags that a project is not really agile:
 - Meeting requirements is treated as more important than getting something useful into the field as quickly as possible.
 - Stakeholders (development, test, ops, security, contracting, contractors, end-users, etc.)2 are acting more-or-less autonomously (e.g. ‘it’s not my job.’)
 - End users of the software are missing-in-action throughout development; at a minimum, they should be present during Release Planning and User Acceptance Testing.
-- DevSecOps culture is lacking if manual processes are tolerated when such processes can and should be automated (e.g. automated testing, continuous integration, continuous delivery).
+- DevSecOps culture is lacking if manual processes are tolerated when such processes can and should be automated (e.g. [automated testing]({{< ref "/tags/automated-testing" >}}), [continuous integration]({{< ref "/tags/continuous-integration" >}}), [continuous delivery]({{< ref "/tags/continuous-delivery" >}})).
 
 Some current, common tools in use by teams using agile development (these will change as better tools become available):
 
 - Git, ClearCase, or Subversion – version control system for tracking changes to source code. Git is the de-facto open-source standard for modern software development.
-- Azure Repos, BitBucket, GitHub – repository hosting sites. Also provide issues tracking, continuous integration “apps” and other productivity tools. Widely used by the open-source community.
-- Azure Pipelines, Jenkins, Circle CI, Travis CI – continuous integration service used to build and test BitBucket and GitHub software projects
-- Chef, Ansible, or Puppet – software for writing system configuration “recipes” and streamlining the task of configuring and maintaining a collection of servers
+- [Azure Repos]({{< ref "/tags/azure-repos" >}}), BitBucket, [GitHub]({{< ref "/tags/github" >}}) – repository hosting sites. Also provide issues tracking, continuous integration “apps” and other productivity tools. Widely used by the open-source community.
+- [Azure Pipelines]({{< ref "/tags/azure-pipelines" >}}), Jenkins, Circle CI, Travis CI – continuous integration service used to build and test BitBucket and GitHub software projects
+- Chef, Ansible, or Puppet – software for writing [system configuration]({{< ref "/tags/system-configuration" >}}) “recipes” and streamlining the task of configuring and maintaining a collection of servers
 - Docker – a computer program that performs operating-system-level virtualization, also known as “containerization”
 - Kubernetes or Docker Swarm – for container orchestration
-- Azure Boards, GitHub, Jira, Pivotal Tracker – issues reporting, tracking, and management
+- [Azure Boards]({{< ref "/tags/azure-boards" >}}), GitHub, Jira, Pivotal Tracker – issues reporting, tracking, and management
 
 Graphical version:
 
@@ -104,13 +105,13 @@ Graphical version:
   Advanced version: what tool suite are you using for continuous integration (CI), continuous deployment (CD), regression testing, program documentation; is your infrastructure defined by code?
 - Who are your users and how are you interacting with them?
   Advanced version: what mechanisms are you using to get direct feedback from your users? What tool suite are you using for issue reporting and tracking? How do you allocate issues to programming teams? How to you inform users that their issues are being addressed and/or have been resolved?
-- What is your (current and future) cycle time for releases to your users?
+- What is your (current and future) [cycle time]({{< ref "/tags/cycle-time" >}}) for releases to your users?
   Advanced version: what software platforms to you support? Are you using containers? What configuration management tools do you use?
 
 ## Questions for Program Management
 
 - How many programmers are part of the organizations that own the budget and milestones for the program? (Wrong answers: “we don’t know,” “zero,” “it depends on how you define a programmer”)
-- What are your management metrics for development and operations; how are they used to inform priorities, detect problems; how often are they accessed and used by leadership?
+- What are your management metrics for development and operations; how are they used to inform priorities, detect problems; how often are they accessed and used by [leadership]({{< ref "/categories/leadership" >}})?
 - What have you learned in your past three sprint cycles and what did you do about it? (Wrong answers: “what’s a sprint cycle?,” “we are waiting to get approval from management”)
 - Who are the users that you deliver value to each sprint cycle? Can we talk to them? (Wrong answers: “we don’t directly deploy our code to users”)
 
@@ -123,7 +124,7 @@ Graphical version:
 ## Questions for Program Leadership
 
 - Are teams delivering working software to at least some subset of real users every iteration (including the first) and gathering feedback? (alt: every two weeks)
-- Is there a product charter that lays out the mission and strategic goals? Do all members of the team understand both, and are they able to see how their work contributes to both?
+- Is there a product charter that lays out the mission and [strategic goals]({{< ref "/tags/strategic-goals" >}})? Do all members of the team understand both, and are they able to see how their work contributes to both?
 - Is feedback from users turned into concrete work items for sprint teams on timelines shorter than one month?
 - Are teams empowered to change the requirements based on user feedback?
 - Are teams empowered to change their process based on what they learn?

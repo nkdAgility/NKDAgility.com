@@ -39,7 +39,7 @@ categories:
 - Product Development
 
 ---
-**What is Scrum?**
+**What is [Scrum]({{< ref "/categories/scrum" >}})?**
 
 Interpreting Scrum
 

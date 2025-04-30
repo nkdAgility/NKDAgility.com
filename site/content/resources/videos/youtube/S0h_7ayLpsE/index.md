@@ -60,7 +60,7 @@ categories:
 ---
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.
 
-In this blog post, we'll explore the fundamentals of Evidence-Based Management, focusing on its four key value areas, how to collect and analyze data, and how this process leads to more successful outcomes. Whether you're a Scrum Master, Product Owner, or manager, this guide will show you how EBM can elevate your decision-making process.
+In this blog post, we'll explore the fundamentals of Evidence-Based Management, focusing on its four key value areas, how to collect and analyze data, and how this process leads to more successful outcomes. Whether you're a [Scrum]({{< ref "/categories/scrum" >}}) Master, [Product Owner]({{< ref "/tags/product-owner" >}}), or manager, this guide will show you how EBM can elevate your decision-making process.
 
 * * *
 
@@ -72,13 +72,13 @@ EBM revolves around one simple principle: **data-driven decisions**. Gathering, 
 
 In EBM, there are four key value areas that serve as the foundation for data collection and decision-making:
 
-1. **Current Value (CV)**: How much value is your product delivering to customers today?
+1. **[Current Value]({{< ref "/tags/current-value" >}}) (CV)**: How much value is your product delivering to customers today?
 
 3. **Unrealized Value (UV)**: What potential value can be unlocked by adding new features or improvements?
 
-5. **Ability to Innovate (A2I)**: How effectively can your organization innovate and deliver new features?
+5. **[Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}}) (A2I)**: How effectively can your organization innovate and deliver new features?
 
-7. **Time to Market (T2M)**: How quickly can you release new features or products to market?
+7. **[Time to Market]({{< ref "/tags/time-to-market" >}}) (T2M)**: How quickly can you release new features or products to market?
 
 For any team practicing Agile or Scrum, focusing on these value areas ensures that you’re continuously delivering the right value to your customers, while staying nimble enough to innovate and grow.
 
@@ -92,7 +92,7 @@ Once you understand the four key value areas, the next step is **gathering data*
 
 This metric is all about understanding how well your product meets customer needs. To gather data here:
 
-- **Customer Satisfaction Surveys**: Are customers happy with your product?
+- **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}}) Surveys**: Are customers happy with your product?
 
 - **Feature Usage Data**: Which features are most used, and which are ignored?
 
@@ -116,19 +116,19 @@ The ability to innovate speaks to your team’s capacity to generate new ideas a
 
 - **Innovation Rate**: What percentage of your time is spent on innovation versus maintenance?
 
-- **Technical Debt**: Are you spending too much time fixing bugs instead of creating new features?
+- **[Technical Debt]({{< ref "/tags/technical-debt" >}})**: Are you spending too much time fixing bugs instead of creating new features?
 
-For example, tracking technical debt can give you a clear view of whether you're allocating enough resources to new product development versus fixing existing problems.
+For example, tracking technical debt can give you a clear view of whether you're allocating enough resources to new [product development]({{< ref "/categories/product-development" >}}) versus fixing existing problems.
 
 ### **4\. Time to Market (T2M)**
 
 Speed is often crucial in today’s market, so understanding how long it takes to release new features is critical.
 
-- **Lead Time for Changes**: Measure how quickly you can implement a new feature from idea to release.
+- **[Lead Time]({{< ref "/tags/lead-time" >}}) for Changes**: Measure how quickly you can implement a new feature from idea to release.
 
-- **Cycle Time**: How long does it take for a feature to go from development to live?
+- **[Cycle Time]({{< ref "/tags/cycle-time" >}})**: How long does it take for a feature to go from development to live?
 
-Personal advice: In one organization, we focused heavily on reducing our cycle time by implementing continuous integration. This allowed us to identify bottlenecks and make process improvements, ultimately reducing our time to market by 40%.
+Personal advice: In one organization, we focused heavily on reducing our cycle time by implementing [continuous integration]({{< ref "/tags/continuous-integration" >}}). This allowed us to identify bottlenecks and make process improvements, ultimately reducing our time to market by 40%.
 
 * * *
 
@@ -182,7 +182,7 @@ If you're not already using Evidence-Based Management in your organization, now 
 
 - **Make data-driven decisions**: Let the evidence guide your next steps, but remember that data informs—it doesn't control.
 
-Evidence-Based Management isn’t just a methodology; it’s a powerful way to stay ahead of the competition and continuously improve. As a Scrum Master or Product Owner, embracing this approach will help you build better products, improve customer satisfaction, and ensure long-term success.
+Evidence-Based Management isn’t just a methodology; it’s a powerful way to stay ahead of the competition and continuously improve. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Product Owner, embracing this approach will help you build better products, improve customer satisfaction, and ensure long-term success.
 
 * * *
 

@@ -21,6 +21,7 @@ aliases:
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 aliasesArchive:
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 - /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
@@ -28,6 +29,7 @@ aliasesArchive:
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
 - are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -60,7 +62,7 @@ categories:
 ---
 In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury—it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.
 
-## **The Importance of Engaging with the Product Development Team**
+## **The Importance of Engaging with the [Product Development]({{< ref "/categories/product-development" >}}) Team**
 
 To be genuinely agile, we need to engage deeply with the people who are building the product. Why? Because they’re the ones who are closest to the work. They understand the intricacies of what’s being built, and as they gain more knowledge and context about the product, the market, and the goals, they are in the best position to suggest changes.
 
@@ -74,7 +76,7 @@ To be genuinely agile, we need to engage deeply with the people who are building
 
 ### **My Experience with Team Engagement**
 
-In my years as a Scrum Trainer, I've seen firsthand how empowered teams can turn a good product into a great one. I remember working with a team that was building a digital product for a niche market. Initially, the stakeholders had a clear vision of what they wanted, but as the team started working on the project, they uncovered complexities and opportunities that the stakeholders hadn’t considered.
+In my years as a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I've seen firsthand how empowered teams can turn a good product into a great one. I remember working with a team that was building a digital product for a niche market. Initially, the stakeholders had a clear vision of what they wanted, but as the team started working on the project, they uncovered complexities and opportunities that the stakeholders hadn’t considered.
 
 By fostering an environment where the team felt comfortable voicing their insights, we were able to pivot and make changes that significantly enhanced the product. The end result was not only a successful launch but also a product that was far more aligned with market needs than the original plan.
 
@@ -124,7 +126,7 @@ The people creating the product are not just executing a plan—they are an inte
 
 - **Be Willing to Pivot:** If new information or feedback suggests a different direction, be willing to pivot. Don’t get stuck in the mindset of “this is how we’ve always done it.”
 
-- **Champion the Team’s Voice:** As a Scrum Master, it’s your role to ensure that the team’s voice is heard. Advocate for their suggestions and help facilitate meaningful changes in the project.
+- **Champion the Team’s Voice:** As a [Scrum Master]({{< ref "/tags/scrum-master" >}}), it’s your role to ensure that the team’s voice is heard. Advocate for their suggestions and help facilitate meaningful changes in the project.
 
 ## **Conclusion: Are You Maximizing the Value You Deliver?**
 

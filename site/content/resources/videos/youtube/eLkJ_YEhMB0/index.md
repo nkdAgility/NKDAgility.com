@@ -46,7 +46,7 @@ categories:
 - Scrum
 
 ---
-In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and Scrum space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.
+In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.
 
 ## **The Impact of Certifications on Learning**
 
@@ -80,7 +80,7 @@ If you’ve recently earned a certification, think of it as your learner’s per
 
 ## **The Misuse of Certifications in the Professional World**
 
-Now, here's where certifications become problematic. In the professional world, we often see certifications misused as badges of expertise. But here’s the hard truth: passing a certification doesn’t make you an expert. It doesn’t automatically qualify you as a Scrum Master or an Agile Coach, and if you’re putting those titles on your LinkedIn profile after passing an exam, it’s time for a reality check.
+Now, here's where certifications become problematic. In the professional world, we often see certifications misused as badges of expertise. But here’s the hard truth: passing a certification doesn’t make you an expert. It doesn’t automatically qualify you as a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or an Agile Coach, and if you’re putting those titles on your LinkedIn profile after passing an exam, it’s time for a reality check.
 
 ### **Real-World Examples**
 
@@ -104,7 +104,7 @@ In the end, becoming a Scrum Master is about _earning_ the role through action, 
 
 ## **Overcoming the Agile Certification Ghost**
 
-If certifications are haunting your Agile journey, it’s time to address them. These "ghosts" can undermine the effectiveness of your work and stifle your growth as a professional. While certifications aren’t inherently bad, they become problematic when used as the sole measure of competence.
+If certifications are haunting your Agile journey, it’s time to address them. These "ghosts" can undermine the effectiveness of your work and stifle your growth as a professional. While certifications aren’t inherently bad, they become problematic when used as the sole measure of [competence]({{< ref "/tags/competence" >}}).
 
 ### **How to Exorcise the Certification Ghosts:**
 
@@ -118,7 +118,7 @@ Don’t let these certification phantoms haunt your career! Certifications shoul
 
 ## **Ready to Move Beyond Certifications?**
 
-If you’re struggling with the role that certifications play in your Agile journey, I’m here to help. Whether you need guidance, coaching, or just want to have a discussion about your unique situation, don’t hesitate to reach out. At NKD Agility, we’re dedicated to helping you navigate the complexities of Agile and Scrum.
+If you’re struggling with the role that certifications play in your Agile journey, I’m here to help. Whether you need guidance, [coaching]({{< ref "/tags/coaching" >}}), or just want to have a discussion about your unique situation, don’t hesitate to reach out. At NKD Agility, we’re dedicated to helping you navigate the complexities of Agile and Scrum.
 
 ### **Let’s Talk**
 
@@ -128,4 +128,4 @@ If you’re struggling with the role that certifications play in your Agile jour
 
 - **Join us** – We offer immersive training that goes beyond certifications, helping you build real-world expertise.
 
-Remember, the journey to becoming a true Agile professional is about more than just passing a test. It’s about continuous learning, hands-on experience, and making a real impact within your teams. 🛠️ **Certifications aren’t the destination—they’re just the start!**
+Remember, the journey to becoming a true Agile professional is about more than just passing a test. It’s about [continuous learning]({{< ref "/tags/continuous-learning" >}}), hands-on experience, and making a real impact within your teams. 🛠️ **Certifications aren’t the destination—they’re just the start!**

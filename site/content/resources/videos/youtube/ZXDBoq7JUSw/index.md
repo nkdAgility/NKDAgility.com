@@ -47,7 +47,7 @@ This principle allows you to step into professional excellence and underpins you
 
 Now, you might be thinking - "Martin, you mentioned three reasons!"
 
-Well, this one reason unfolds itself into a comprehensive journey towards success.  Being a professional is not a static state.  It is an ongoing process characterised by continuous learning, understanding, and trying.
+Well, this one reason unfolds itself into a comprehensive journey towards success.  Being a professional is not a static state.  It is an ongoing process characterised by [continuous learning]({{< ref "/tags/continuous-learning" >}}), understanding, and trying.
 
 This continuous cycle ensures that you remain successful in your role and remain a respected figure in your industry. 🚀
 
@@ -77,6 +77,6 @@ Your genuine care for your craft is what will drive you to new heights, making a
 
 I firmly believe that each of you has the potential to transcend the boundaries of average and step into a realm of unparalleled professionalism.
 
-I invite you to join me in my Agile and Scrum courses, where we will cultivate an environment of continuous growth and learning together.
+I invite you to join me in my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses, where we will cultivate an environment of continuous growth and learning together.
 
 Let's foster a culture where professionalism isn't just a title but a lived experience.

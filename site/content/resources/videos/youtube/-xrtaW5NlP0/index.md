@@ -39,7 +39,7 @@ categories:
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  
 
-But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, Kanban steps forward as the beacon of method in the madness. 🎨 
+But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, [Kanban]({{< ref "/categories/kanban" >}}) steps forward as the beacon of method in the madness. 🎨 
 
 ## Embracing Kanban in the Creative Process 
 
@@ -115,7 +115,7 @@ Here’s a brief 'how-to' concerto: 
 
 - Hold frequent retrospectives to refine your rhythm and keep the tempo upbeat. 
 
-📈 **Charting Continuous Improvement** 
+📈 **Charting [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})** 
 
 - Employ data from your Kanban board to direct your orchestral adjustments. 
 
@@ -125,7 +125,7 @@ Here’s a brief 'how-to' concerto: 
 
 - A design team employs Kanban to visualise their artistic endeavour, enabling quicker turnovers and accelerated client nods. 
 
-- A production squad aligns on editing priorities, making video releases sleeker and boosting customer satisfaction. 
+- A production squad aligns on editing priorities, making video releases sleeker and boosting [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}). 
 
 ## Kanban: The Maestro of the Creative Symphony 
 

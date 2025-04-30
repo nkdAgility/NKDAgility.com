@@ -22,6 +22,7 @@ videos:
 - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
   embed: https://www.youtube.com/embed/CIDFB6XfoCg
 date: 2024-09-17
+slug: site-reliability-engineering-(sre)
 weight: 660
 creator: Martin Hinshelwood
 card:
@@ -33,6 +34,6 @@ categories: []
 tags: []
 
 ---
-With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
+With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure [DevOps]({{< ref "/categories/devops" >}}) Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
 
-We will cover the importance of transparency, telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
+We will cover the importance of [transparency]({{< ref "/tags/transparency" >}}), telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.

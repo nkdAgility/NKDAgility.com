@@ -34,7 +34,7 @@ tags:
 - Product Delivery
 
 ---
-Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀
+Dive deep into the world of **[Scrum]({{< ref "/categories/scrum" >}})'s [Product Backlog]({{< ref "/tags/product-backlog" >}}) Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainers. 🚀
 
 [Sign up for a public class](https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/)
 
@@ -106,7 +106,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

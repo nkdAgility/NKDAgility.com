@@ -36,9 +36,9 @@ resourceTypes:
 categories: []
 
 ---
-## Limits of Professional Coaching
+## Limits of Professional [Coaching]({{< ref "/tags/coaching" >}})
 
-I often come across a compelling question: "Why is a Scrum team better served by an Agile consultant rather than a professional coach?" 🤔
+I often come across a compelling question: "Why is a [Scrum]({{< ref "/categories/scrum" >}}) team better served by an Agile consultant rather than a professional coach?" 🤔
 
 Let's face it: professional coaching has its limits. It often makes the assumption, which in many circumstances is the correct assumption, that the people you're coaching already understand how to solve the problems they need to solve.
 
@@ -48,15 +48,15 @@ But in reality, that's not fundamentally the case for almost all organizations a
 
 Especially in the beginning, if teams cannot continuously create usable working products in a regular cadence, they fundamentally "need to know what they don't know."
 
-At this point, an Agile consultant or Agile coach finds themselves more in a teaching or mentoring stance, helping teams to understand what they don't know.  🚀
+At this point, an Agile consultant or Agile coach finds themselves more in a teaching or [mentoring]({{< ref "/tags/mentoring" >}}) stance, helping teams to understand what they don't know.  🚀
 
 Understanding is More Than Skin Deep 🛠
 
-A deep technical understanding doesn't mean you can code beside a developer or correct a DevOps engineer's builds.
+A deep technical understanding doesn't mean you can code beside a developer or correct a [DevOps]({{< ref "/categories/devops" >}}) engineer's builds.
 
 I mean having a deep technical and philosophical understanding of the processes, practices, tools, and capabilities.
 
-This knowledge lets you grasp what great teams do differently, especially concerning their engineering practices. 🚀
+This knowledge lets you grasp what great teams do differently, especially concerning their [engineering practices]({{< ref "/tags/engineering-practices" >}}). 🚀
 
 ## Know Enough to Know Where to Look
 
@@ -68,7 +68,7 @@ You need to know enough to know where to look. With enough experience and founda
 
 So, in a nutshell, while Scrum itself is not technical, all the practices and tools around making it successful are deeply technical.  🌟
 
- And that's precisely why I believe a Scrum team is better served by an Agile consultant rather than a professional coach.  🎯
+ And that's precisely why I believe a [Scrum team]({{< ref "/tags/scrum-team" >}}) is better served by an Agile consultant rather than a professional coach.  🎯
 
 Sharpen Your Skills with Our Agile and Scrum Courses 🌟
 

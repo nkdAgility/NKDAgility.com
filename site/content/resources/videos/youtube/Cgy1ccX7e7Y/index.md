@@ -80,7 +80,7 @@ This is what the majority of agile consulting engagements are trying to achieve.
 
 ### The dichotomy of organizations.
 
-Most organizations are trapped between the consequences of the past and the need to work in a style that is appropriate for the 21st Century. Taylorism, an industrial era style of management and project management tends to reign in most traditional organizations, and that can be incredibly hard to navigate if your focus lies in innovation and product development rather than simply command and control of static resources.
+Most organizations are trapped between the consequences of the past and the need to work in a style that is appropriate for the 21st Century. Taylorism, an industrial era style of management and [project management]({{< ref "/tags/project-management" >}}) tends to reign in most traditional organizations, and that can be incredibly hard to navigate if your focus lies in innovation and [product development]({{< ref "/categories/product-development" >}}) rather than simply command and control of static resources.
 
 If the primary model is command and control, where the thinking is developed at the top and trickles down to the workers at the bottom, via a hierarchy of managers and supervisors, you are going to battle to be responsive.
 
@@ -90,7 +90,7 @@ As an agile consultant, this is the challenge that you face most often.
 
 Working within a traditional organization but attempting to grow agility despite the constraints and limitations within the organizational structure.
 
-Ideally, you want to help create an environment where the leadership teams are at the centre of the organization, providing services to the teams of teams who interact directly with customers and product stakeholders.
+Ideally, you want to help create an environment where the [leadership]({{< ref "/categories/leadership" >}}) teams are at the centre of the organization, providing services to the teams of teams who interact directly with customers and product stakeholders.
 
 Helping an organization rethink how they work, why their policies exist, and how that can evolve will help you become more effective as an agile consultant and help the organization achieve a great deal more of their objectives and goals.
 
@@ -98,7 +98,7 @@ Organizations evolve over time, and agility is simply the next evolution on thei
 
 So, the ultimate goal of an agile consultant is to help the organization shift from the traditional command and control, Tayloristic style of organization into the responsive, agile organization that is node-based with decentralized decision-making and autonomous, empowered teams.
 
-The challenge is that whilst it is incredibly hard for a legacy-oriented organization to advance into an agile, responsive organization, it is incredibly easy for an agile organization to revert back to doing things the way they have for decades prior to the agile transformation.
+The challenge is that whilst it is incredibly hard for a legacy-oriented organization to advance into an agile, responsive organization, it is incredibly easy for an agile organization to revert back to doing things the way they have for decades prior to the [agile transformation]({{< ref "/tags/agile-transformation" >}}).
 
 One of the things that a successful agile consultant will do is work directly with people in the organization to develop a more flexible, resilient mindset and culture.
 
@@ -114,13 +114,13 @@ You will help them discover:
 
 This need to exist in every part of the organization, in every person that is a part of the leadership story, rather than in pockets of consultants and coaches.
 
-The organization needs to develop their own agile capability and they need to grow their resilience. It can’t be limited to one or two individuals who are consulting or coaching.
+The organization needs to develop their own agile capability and they need to grow their resilience. It can’t be limited to one or two individuals who are consulting or [coaching]({{< ref "/tags/coaching" >}}).
 
 ## About NKD Agility
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

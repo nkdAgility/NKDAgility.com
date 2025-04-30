@@ -42,7 +42,7 @@ resourceTypes:
 categories: []
 
 ---
-Competence is more than just a buzzword in today's fast-paced world—it's a foundational element for success in any organization. If we want to create valuable products and services, investing in our team's competence is non-negotiable. It’s not just about bringing in the right people but supporting those we have in their journey of continuous learning, experimentation, and growth. Let’s dive into why competence matters and how we can foster an environment where it thrives.
+[Competence]({{< ref "/tags/competence" >}}) is more than just a buzzword in today's fast-paced world—it's a foundational element for success in any organization. If we want to create valuable products and services, investing in our team's competence is non-negotiable. It’s not just about bringing in the right people but supporting those we have in their journey of [continuous learning]({{< ref "/tags/continuous-learning" >}}), [experimentation]({{< ref "/tags/experimentation" >}}), and growth. Let’s dive into why competence matters and how we can foster an environment where it thrives.
 
 * * *
 
@@ -54,7 +54,7 @@ Competence is the engine that drives innovation and value creation in any organi
 
 - **It leads to higher productivity**: When team members know their stuff, they can deliver more efficiently and effectively.
 
-- **It’s a key to customer satisfaction**: Competent teams create better products, and better products lead to happier customers.
+- **It’s a key to [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}})**: Competent teams create better products, and better products lead to happier customers.
 
 If we don’t invest in the skills and knowledge of our people, we risk stagnation, missed opportunities, and ultimately, mediocrity.
 
@@ -116,7 +116,7 @@ When we talk about competence, we can’t ignore the role of self-care. Just lik
 
 - **Seek feedback**: Constructive criticism is a powerful tool for improvement, helping to identify areas where growth is needed.
 
-By encouraging our team members to care about their competence, we create a culture of continuous improvement where everyone strives to be better every day.
+By encouraging our team members to care about their competence, we create a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) where everyone strives to be better every day.
 
 ## **How Organizations Can Prioritize Competence**
 

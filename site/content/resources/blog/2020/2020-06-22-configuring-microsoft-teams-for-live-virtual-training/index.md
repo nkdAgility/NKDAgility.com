@@ -33,7 +33,7 @@ tags:
 ---
 Like most tools, if you want to run successful training in Microsoft Teams you need to do some homework and some configuration before your class. You can just jump in and wing it, but that will not provide a good experience for your students. Currently, I have run more than 6 Live Virtual Training in Microsoft Teams and in a few hours, my 7th will start. I have also recently had to set up Microsoft Teams for my good friend and colleague [Russell Miller](https://nkdagility.com/training/trainers/russell-miller/) so that he can also run classes on the platform.
 
-To date, I have facilitated a couple of Live Virtual F2F for the other trainers at Scrum.org to show them how it works, but we did not go into the configuration. This article will lead any Professional Scrum Trainer that wants to [Deliver Live Virtual Classes in Microsoft Teams](https://nkdagility.com/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural/) through the configuration required to do so.
+To date, I have facilitated a couple of Live Virtual F2F for the other trainers at [Scrum]({{< ref "/categories/scrum" >}}).org to show them how it works, but we did not go into the configuration. This article will lead any [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer that wants to [Deliver Live Virtual Classes in Microsoft Teams](https://nkdagility.com/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural/) through the configuration required to do so.
 
 <figure>
 

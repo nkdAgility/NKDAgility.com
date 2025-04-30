@@ -54,7 +54,7 @@ The [Sprint Goal is a Commitment for the Sprint Backlog](https://nkdagility.com/
 
 Just as the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) provides the current Strategic direction so the [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) is the smaller step, the implementation step towards it. The [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner) is accountable for maximizing the value delivered and should be thinking hard, with the help of the Developers, on what the next tactical outcome they want to try and achieve is.
 
-This [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) should be high level and I would recommend that using a Lean Canvas to help identify not only the business objective but the behaviour that the [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner) is trying to create in users or other systems. While I favour the Lean UX Canvas, which we teach in the [Professional Scrum with UX](https://nkdagility.com/training/courses/professional-scrum-with-user-experience-psu-training/), there are many valid options out there to use as a complementary practice in this space.
+This [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) should be high level and I would recommend that using a [Lean]({{< ref "/categories/lean" >}}) Canvas to help identify not only the business objective but the behaviour that the [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner) is trying to create in users or other systems. While I favour the Lean UX Canvas, which we teach in the [Professional Scrum with UX](https://nkdagility.com/training/courses/professional-scrum-with-user-experience-psu-training/), there are many valid options out there to use as a complementary practice in this space.
 
 <figure>
 
@@ -73,7 +73,7 @@ At a minimum, I would expect a [Product Owner](https://nkdagility.com/the-2020-s
 
 [Product Owners](https://nkdagility.com/the-2020-scrum-guide/#product-owner) are accountable for maximising value and should be looking to not just build features that customers need now, but predict or drive which features that they need now.
 
-### A good Product Owner will build features now that your customers need now.
+### A good [Product Owner]({{< ref "/tags/product-owner" >}}) will build features now that your customers need now.
 
 We should always be working to engage with our users; users don't engage when you build a feature that they will need in 6 months. Instead, we should focus on what will solve an immediate business problem for our users. This will engage them in the process and elicit much more excellent feedback from them.
 

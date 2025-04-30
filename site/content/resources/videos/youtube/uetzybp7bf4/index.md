@@ -51,7 +51,7 @@ categories:
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.
 
-### Cultivating a Culture of Continuous Improvement
+### Cultivating a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
 To achieve this, we need to cultivate a culture of continuous improvement. Yes, I know it sounds like buzzword bingo, but hear me out. The essence of this approach lies in hypothesis-driven practices. Here’s how it works:
 
@@ -87,6 +87,6 @@ By integrating financial insights into the daily operations of your teams, you�
 
 ### Conclusion
 
-In summary, don’t shield your teams from financial realities. Instead, empower them with the information they need to make sound decisions. Implementing team-level P&L analyses can lead to higher returns on investment and greater value delivery. When every member of your organisation understands the financial context of their work, they’ll be better equipped to contribute meaningfully to your business’s success. 
+In summary, don’t shield your teams from financial realities. Instead, empower them with the information they need to make sound decisions. Implementing team-level P&L analyses can lead to higher returns on investment and greater [value delivery]({{< ref "/tags/value-delivery" >}}). When every member of your organisation understands the financial context of their work, they’ll be better equipped to contribute meaningfully to your business’s success. 
 
 Let’s embrace this shift together and watch as our teams thrive in an environment where they feel ownership and responsibility for their contributions.

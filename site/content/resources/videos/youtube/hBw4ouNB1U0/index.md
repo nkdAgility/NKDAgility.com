@@ -49,11 +49,11 @@ In my journey with Caman, I've come to realise that one of its core tenets is th
 
 ### The Power of Metrics and Visualisation
 
-Metrics are more than just numbers; they are the stories behind our workflows. They help us identify patterns, understand our performance, and ultimately increase transparency within our teams. Here’s how I see it:
+Metrics are more than just numbers; they are the stories behind our workflows. They help us identify patterns, understand our performance, and ultimately increase [transparency]({{< ref "/tags/transparency" >}}) within our teams. Here’s how I see it:
 
 - **Identify Patterns**: By analysing metrics, we can spot trends that might not be immediately obvious. This allows us to ask deeper, more insightful questions about our processes.
 - **Increase Transparency**: Visual tools, such as dashboards and charts, make it easier for everyone involved to see what’s happening in real-time. This shared understanding is crucial for fostering collaboration and accountability.
-- **Drive Continuous Improvement**: The goal of Caman is to create a culture of ongoing enhancement. If we’re not regularly tweaking our workflows, we’re missing the essence of what Caman stands for.
+- **Drive [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: The goal of Caman is to create a culture of ongoing enhancement. If we’re not regularly tweaking our workflows, we’re missing the essence of what Caman stands for.
 
 ### Are You Making the Right Changes?
 

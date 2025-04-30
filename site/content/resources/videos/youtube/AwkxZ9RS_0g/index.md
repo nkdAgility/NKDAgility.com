@@ -52,7 +52,7 @@ It's a unique space where particular instances, ideas, and solutions spring to l
 
 ## The Power of Situational Experience
 
-I feel that I bring to a training class the situational experiences I've had with organisations, teams, and leadership groups.  🌟
+I feel that I bring to a training class the situational experiences I've had with organisations, teams, and [leadership]({{< ref "/categories/leadership" >}}) groups.  🌟
 
 These aren't just tales or fables; these are real-life lived experiences. Through these authentic situational accounts, the training process gains its full measure of value and relatability.
 
@@ -72,13 +72,13 @@ This hands-on perspective, rooted in real consulting experience, transforms the 
 
 ## losing the Gap: From Theory to Real-World Application
 
-We talk about Agile and Scrum in training, but companies are often far removed from these principles.   
+We talk about Agile and [Scrum]({{< ref "/categories/scrum" >}}) in training, but companies are often far removed from these principles.   
 
 So, how do we close this chasm?
 
 How do we go from theory to real-world applications?
 
-Surprisingly, the answer is straightforward: a trainer with a substantial Agile or DevOps consulting background.
+Surprisingly, the answer is straightforward: a trainer with a substantial Agile or [DevOps]({{< ref "/categories/devops" >}}) consulting background.
 
 Step Into a Training Experience Grounded in Reality
 

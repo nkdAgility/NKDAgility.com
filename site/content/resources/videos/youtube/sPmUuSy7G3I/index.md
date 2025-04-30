@@ -49,7 +49,7 @@ categories:
 - Scrum
 
 ---
-When it comes to effective planning and prioritisation within a Scrum team, the question often arises: how do we navigate this complex landscape? It’s a challenge that many teams face, and I can assure you, it’s not a one-size-fits-all solution. The intricacies of planning and prioritisation hinge significantly on the specific business context and its overarching goals.
+When it comes to effective planning and prioritisation within a [Scrum]({{< ref "/categories/scrum" >}}) team, the question often arises: how do we navigate this complex landscape? It’s a challenge that many teams face, and I can assure you, it’s not a one-size-fits-all solution. The intricacies of planning and prioritisation hinge significantly on the specific business context and its overarching goals.
 
 ### Understanding Business Goals
 
@@ -62,17 +62,17 @@ First and foremost, it’s essential to grasp what the business is striving to a
 
 Once we have a clear understanding of the business goals, we need to delve into the specifics of the work itself. This is where things can get a bit tricky. 
 
-- **Sizing Work Items**: While I’m trying to avoid the dreaded ‘E’ word—estimation—sizing is a necessary step. Understanding the scale of tasks helps us gauge their potential return on investment (ROI).
+- **Sizing Work Items**: While I’m trying to avoid the dreaded ‘E’ word—[estimation]({{< ref "/tags/estimation" >}})—sizing is a necessary step. Understanding the scale of tasks helps us gauge their potential return on investment (ROI).
 - **Assessing Value**: This is often a more significant challenge. The business must have a clear grasp of what constitutes value. It’s not just about completing tasks; it’s about delivering meaningful outcomes.
 
 ### Balancing Value, Risk, and Size
 
 With an understanding of value and size, we can start to formulate a prioritisation strategy. Here’s a simplified approach that I often refer to:
 
-- **Value Minus Risk Divided by Size**: This formula can serve as a rudimentary method for ordering your product backlog. It’s not perfect, but it provides a starting point for discussions.
+- **Value Minus Risk Divided by Size**: This formula can serve as a rudimentary method for ordering your [product backlog]({{< ref "/tags/product-backlog" >}}). It’s not perfect, but it provides a starting point for discussions.
 - **Keep the Backlog Manageable**: One of the most critical pieces of advice I can offer is to avoid cluttering your product backlog. If you find yourself with thousands of items, it’s time to declutter. A bloated backlog is not a product backlog; it’s a dumping ground.
 
-### The Importance of a Lean Backlog
+### The Importance of a [Lean]({{< ref "/categories/lean" >}}) Backlog
 
 In my experience, the most effective product backlogs are concise. Ideally, they should only encompass items that are relevant for the next two to three sprints. Here’s why:
 
@@ -88,6 +88,6 @@ Planning and prioritisation are not static processes. They require ongoing evalu
 
 ### Conclusion
 
-In summary, effective planning and prioritisation in a Scrum team is a multifaceted endeavour that requires a deep understanding of business goals, a clear assessment of value and risk, and a commitment to maintaining a lean backlog. By focusing on what truly matters and continuously iterating based on data, we can ensure that our efforts are aligned with the needs of the business and our customers.
+In summary, effective planning and prioritisation in a [Scrum team]({{< ref "/tags/scrum-team" >}}) is a multifaceted endeavour that requires a deep understanding of business goals, a clear assessment of value and risk, and a commitment to maintaining a lean backlog. By focusing on what truly matters and continuously iterating based on data, we can ensure that our efforts are aligned with the needs of the business and our customers.
 
-If you found this discussion helpful, I encourage you to engage with me. I always welcome comments and questions, and if you’d like to chat further about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Let’s keep the conversation going!
+If you found this discussion helpful, I encourage you to engage with me. I always welcome comments and questions, and if you’d like to chat further about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Let’s keep the conversation going!

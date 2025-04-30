@@ -20,6 +20,7 @@ aliases:
 - /resources/Ys0dWfKVSeA
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/videos/scrum-the-mirror-to-organizational-challenges
+- /resources/videos/scrum-doesn-t-solve-problems-it-reveals-them.-how-and-why-is-that-valuable
 aliasesArchive:
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
@@ -29,6 +30,7 @@ aliasesArchive:
 - /resources/videos/scrum-the-mirror-to-organizational-challenges-
 - scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/videos/scrum-the-mirror-to-organizational-challenges
+- /resources/videos/scrum-doesn-t-solve-problems-it-reveals-them.-how-and-why-is-that-valuable
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -57,7 +59,7 @@ categories:
 - Scrum
 
 ---
-## Reflecting on Scrum's Mirror  
+## Reflecting on [Scrum]({{< ref "/categories/scrum" >}})'s Mirror  
 
 There's an old adage often echoed by agile enthusiasts: Scrum is like a mirror. But what does this mirror reveal?  
 
@@ -71,11 +73,11 @@ Embarking on the Scrum journey requires an understanding of its core principles.
 
 ## Unpacking Scrum: More Than Just a Methodology 
 
- Delving into the nuances of Scrum, it becomes evident that it extends beyond being just a methodology, serving instead as a transformative approach to project management and team collaboration. 
+ Delving into the nuances of Scrum, it becomes evident that it extends beyond being just a methodology, serving instead as a transformative approach to [project management]({{< ref "/tags/project-management" >}}) and [team collaboration]({{< ref "/tags/team-collaboration" >}}). 
 
 - 🤔 **Understanding Scrum's Nature**: At its heart, Scrum is straightforward. A team works together towards a shared objective, taking on a piece of work, building it, and then delivering it. This cycle is repeated, with each iteration informed by the feedback received from the previous one. 
 
-- 💡 **A Continuous Learning Path**: Scrum encourages learning and adapting. It's like teaching a child to walk – they observe, try, fall, and get back up. Scrum instils a similar mindset in organizations, urging them to learn from their experiences and continually improve. 
+- 💡 **A [Continuous Learning]({{< ref "/tags/continuous-learning" >}}) Path**: Scrum encourages learning and adapting. It's like teaching a child to walk – they observe, try, fall, and get back up. Scrum instils a similar mindset in organizations, urging them to learn from their experiences and continually improve. 
 
 ## Reflecting on the Way We Work 
 
@@ -89,13 +91,13 @@ Scrum, often likened to a mirror, meticulously reflects the intricacies of our w
 
 Scrum orchestrates a harmonious symphony of collaboration, leveraging Agile principles to ensure that diverse roles and functions seamlessly converge towards achieving shared objectives. 
 
-- 🎼 **Harmony in Diversity**: Scrum values diverse roles – the Product Owner, Scrum Master, and the Development Team – and brings them together in a harmonious symphony of collaboration. 
+- 🎼 **Harmony in Diversity**: [Scrum values]({{< ref "/tags/scrum-values" >}}) diverse roles – the [Product Owner]({{< ref "/tags/product-owner" >}}), [Scrum Master]({{< ref "/tags/scrum-master" >}}), and the Development Team – and brings them together in a harmonious symphony of collaboration. 
 
-- 🌟 **Emphasising Common Goals**: By highlighting the common goal, Scrum fosters a sense of unity and purpose among team members. 
+- 🌟 **Emphasising [Common Goals]({{< ref "/tags/common-goals" >}})**: By highlighting the common goal, Scrum fosters a sense of unity and purpose among team members. 
 
-## The Value of Transparency and Inspection 
+## The Value of [Transparency]({{< ref "/tags/transparency" >}}) and Inspection 
 
-Emphasising openness and regular scrutiny, Scrum underscores the importance of transparency and inspection in fostering an environment of continuous improvement and accountability. 
+Emphasising openness and regular scrutiny, Scrum underscores the importance of transparency and inspection in fostering an environment of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and accountability. 
 
 - 🌈 **Transparent Processes**: Scrum's essence lies in promoting transparency. Every team member has a clear understanding of their responsibilities, progress, and potential roadblocks. 
 
@@ -117,7 +119,7 @@ Sprint planning, a pivotal phase in Scrum, acts as a detective, unravelling pote
 
 - 🧩 **Example from Merrill Lynch**: The requirement of paperwork six weeks before a deployment became a mirror, revealing the need for a procedural overhaul. 
 
-- 🏆 **Continuous Delivery**: Embracing continuous delivery exposed organizational black marks, highlighting the need for strong leadership to support innovative processes. 
+- 🏆 **[Continuous Delivery]({{< ref "/tags/continuous-delivery" >}})**: Embracing continuous delivery exposed organizational black marks, highlighting the need for strong [leadership]({{< ref "/categories/leadership" >}}) to support innovative processes. 
 
 ## The Power of Daily Stand-ups: Revealing Communication Gaps 
 
@@ -127,7 +129,7 @@ The ritual of Daily Stand-ups serves as a powerful tool within Scrum, revealing 
 
 - ✅ **Feedback Loops**: Kids learn to walk by continually trying and falling. Similarly, organizations should embrace the feedback loop Scrum offers. 
 
-## Sprint Review and Retrospective Insights: Learning from Reflection 
+## [Sprint Review]({{< ref "/tags/sprint-review" >}}) and Retrospective Insights: Learning from Reflection 
 
 Through Sprint Reviews and Retrospectives, Scrum facilitates a culture of reflection, enabling teams to learn from their experiences and continually refine their strategies. 
 
@@ -137,7 +139,7 @@ Through Sprint Reviews and Retrospectives, Scrum facilitates a culture of reflec
 
 ## How Scrum's Revelations Are Invaluable 
 
- Scrum's ability to unearth underlying issues and bring them to the forefront is invaluable, acting as a catalyst for organisational change and process optimisation. 
+ Scrum's ability to unearth underlying issues and bring them to the forefront is invaluable, acting as a catalyst for [organisational change]({{< ref "/tags/organisational-change" >}}) and process optimisation. 
 
 - 🌟 **Exposing Problems for Resolution**: Scrum doesn’t solve problems; it points them out, triggering mechanisms to rectify issues. 
 

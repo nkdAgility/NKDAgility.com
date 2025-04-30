@@ -17,12 +17,14 @@ aliases:
 - /resources/IcmNR--u-kg
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
+- /resources/videos/transform-your-team-s-skills-the-power-of-immersive-learning-in-the-workplace
 aliasesArchive:
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
 - transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
+- /resources/videos/transform-your-team-s-skills-the-power-of-immersive-learning-in-the-workplace
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false
@@ -50,7 +52,7 @@ Here’s what I’ve observed about the benefits of immersive learning:
 - **Feedback Loops**: The immersive programme encourages a feedback loop where learners can return to the group to discuss their experiences. This is where the magic happens—participants engage in "double loop learning," reflecting on their experiences and collaboratively solving problems.
 - **Challenging Stubborn Ideas**: It’s not uncommon for individuals to cling to the phrase, “This is how I’ve always done it.” Immersive learning creates a safe space for challenging these entrenched beliefs, fostering a culture of openness and adaptability.
 
-### The Role of Coaching and Consulting
+### The Role of [Coaching]({{< ref "/tags/coaching" >}}) and Consulting
 
 One of the standout features of our immersive training is the inclusion of coaching and consulting. This isn’t just a one-off training session; it’s an ongoing journey. Participants receive individual coaching as part of the programme, allowing them to delve deeper into their specific challenges and receive tailored guidance.
 
@@ -61,4 +63,4 @@ One of the standout features of our immersive training is the inclusion of coach
 
 In my view, the shift from traditional training to immersive learning is essential for developing the capabilities that today’s organisations need. By connecting theory to practice and fostering an environment of continuous feedback and support, we empower individuals to thrive in their roles.
 
-If you’re interested in exploring how immersive learning can transform your team’s capabilities, I invite you to reach out. Let’s have a chat over coffee—book a session with me through Naked Agility. I’m always eager to discuss agile, scrum, or DevOps, and I look forward to hearing your thoughts!
+If you’re interested in exploring how immersive learning can transform your team’s capabilities, I invite you to reach out. Let’s have a chat over coffee—book a session with me through Naked Agility. I’m always eager to discuss agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), and I look forward to hearing your thoughts!

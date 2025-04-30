@@ -46,7 +46,7 @@ categories:
 - Scrum
 
 ---
-In high competition markets, how does scrum product development help acquire and retain customers?
+In high competition markets, how does [scrum]({{< ref "/categories/scrum" >}}) [product development]({{< ref "/categories/product-development" >}}) help acquire and retain customers?
 
 It depends.
 
@@ -54,7 +54,7 @@ On one hand, it doesn’t. Scrum is a product development framework, but it does
 
 Remember the agile value, individuals and interactions over processes and tools? The scrum framework enables teams to do great work and achieve competitive advantage in the markets they serve but if they aren’t creative, collaborative, or pioneering solutions then it doesn’t matter what process they follow or what tool they employ, they will fail.
 
-On the other hand, if you have leaders with great business acumen supported by collaborative, creative, and engaged product development teams; scrum will be a game-changer in your organization and facilitate heaps of competitive advantage, improved customer acquisition, and improved customer satisfaction.
+On the other hand, if you have leaders with great business acumen supported by collaborative, creative, and engaged product development teams; scrum will be a game-changer in your organization and facilitate heaps of competitive advantage, improved customer acquisition, and improved [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}).
 
 ## Capturing and Creating Value
 
@@ -64,11 +64,11 @@ First, let’s look at market value.
 
 Market value is how well your current product, features, and services deliver value to customers.
 
-You might measure things like customer satisfaction, employee satisfaction, customer retention, and market share. You may analyze how well you are creating and capturing value for customers relative to how effectively your competitors are doing those same things in the market.
+You might measure things like customer satisfaction, employee satisfaction, [customer retention]({{< ref "/tags/customer-retention" >}}), and [market share]({{< ref "/tags/market-share" >}}). You may analyze how well you are creating and capturing value for customers relative to how effectively your competitors are doing those same things in the market.
 
 You will also have a finger on the pulse of how well utilized your product is. Hopefully, you have lots of telemetry that enables you to see what buttons are being pushed, what features are being employed, and so forth to understand how much value is being derived from your product.
 
-This helps you understand current value.
+This helps you understand [current value]({{< ref "/tags/current-value" >}}).
 
 Your focus should also be on uncaptured or unrealized value in the market.
 
@@ -76,7 +76,7 @@ This is a key focus of [Professional Agile Leadership – Evidence Based Managem
 
 Unrealized value is the value that you aren’t yet capturing or creating in your product. It is a brief look into the future to ascertain what you could be doing better, where your customers are currently underserved, and anticipating what they will consider valuable in the months and years to come.
 
-You could be measuring customer satisfaction gaps, competitor analysis, and market trends to figure out what should be on your product backlog and how that work should be prioritized.
+You could be measuring customer satisfaction gaps, competitor analysis, and market trends to figure out what should be on your [product backlog]({{< ref "/tags/product-backlog" >}}) and how that work should be prioritized.
 
 These two things, current and future value, scrum can’t help you with.
 
@@ -88,9 +88,9 @@ So, acquiring and developing a deep understanding of market value is the role of
 
 We are looking at organizational capabilities from two perspectives:
 
-- The ability to innovate. In essence, how effectively can we create value.
+- The [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}). In essence, how effectively can we create value.
 
-- The ability to execute. In essence, time to market.
+- The ability to execute. In essence, [time to market]({{< ref "/tags/time-to-market" >}}).
 
 These are two elements that people inside your organization do have full control over.
 
@@ -104,13 +104,13 @@ The maximum cadence for delivery in scrum is four weeks.
 
 That’s the longest it should take to deliver a working, valuable product or feature to a customer and the maximum period that you would work without getting feedback from customers.
 
-If we aren’t able to deliver that working product at the end of each sprint, we have a problem that needs to be solved. Maybe it’s better engineering practices. Maybe there are skills that must be acquired. Maybe we need to address the team dynamic. Maybe it’s an organizational policy.
+If we aren’t able to deliver that working product at the end of each sprint, we have a problem that needs to be solved. Maybe it’s better [engineering practices]({{< ref "/tags/engineering-practices" >}}). Maybe there are skills that must be acquired. Maybe we need to address the team dynamic. Maybe it’s an organizational policy.
 
 It’s said that scrum doesn’t solve problems for you, but it will highlight the problems you do have.
 
-It will show you what you need to improve, why you need to improve it, but it won’t show you how to improve it. That’s on the product development and leadership teams.
+It will show you what you need to improve, why you need to improve it, but it won’t show you how to improve it. That’s on the product development and [leadership]({{< ref "/categories/leadership" >}}) teams.
 
-Empirical Process Control, which is the foundation of Scrum, encourages us to develop a hypothesis, design and run a quick, cheap experiment to validate or disprove that hypothesis, and use the data and feedback we gather to adapt and respond appropriately.
+[Empirical Process Control]({{< ref "/tags/empirical-process-control" >}}), which is the foundation of Scrum, encourages us to develop a hypothesis, design and run a quick, cheap experiment to validate or disprove that hypothesis, and use the data and feedback we gather to adapt and respond appropriately.
 
 This is where scrum can be incredibly helpful in product development.
 

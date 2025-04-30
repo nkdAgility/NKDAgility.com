@@ -47,9 +47,9 @@ categories:
 - Scrum
 
 ---
-How does the APS course help people apply scrum effectively?
+How does the APS course help people apply [scrum]({{< ref "/categories/scrum" >}}) effectively?
 
-The APS (Applying Professional Scrum) course helps people apply scrum effectively in a number of ways.
+The APS (Applying [Professional Scrum]({{< ref "/tags/professional-scrum" >}})) course helps people apply scrum effectively in a number of ways.
 
 ## A practical encounter with Scrum.
 
@@ -69,7 +69,7 @@ People see how a traditional mindset and way of working hinders collaboration, p
 
 Differentiation between people who have experience with scrum and those that don’t.
 
-We sometimes have people attending the course who are part of a scrum team and work in a so-called agile environment. They are looking to understand how to apply scrum effectively because their current setup or application of scrum is not delivering results.
+We sometimes have people attending the course who are part of a [scrum team]({{< ref "/tags/scrum-team" >}}) and work in a so-called agile environment. They are looking to understand how to apply scrum effectively because their current setup or application of scrum is not delivering results.
 
 So, for these people, we create a simulation that tests their capability and reveals the dysfunction in their current application of scrum. A simulation that provides a benchmark of current capability and allows them to assess how different the outcomes are when they apply scrum effectively.
 
@@ -83,11 +83,11 @@ Each delegate will learn how to apply scrum effectively regardless of their expe
 
 Most of our delegates attend the APS course because they have pockets of agility in the organization, but are still bound by the constraints of the organization and its traditional management practices and policies.
 
-In an ideal world, your organization embraces agility and everything in the environment, from remuneration to policies, are designed to unleash business agility and tap into the power of scrum.
+In an ideal world, your organization embraces agility and everything in the environment, from remuneration to policies, are designed to unleash [business agility]({{< ref "/tags/business-agility" >}}) and tap into the power of scrum.
 
 This just isn’t the case in 90% of applications so people need to know how to apply scrum effectively despite the constraints and challenges of their environment.
 
-The simulations we run mirror the challenges they experience in the traditional project management and micro-management setup, and are designed to help highlight how their current approach and practices fall apart under duress.
+The simulations we run mirror the challenges they experience in the traditional [project management]({{< ref "/tags/project-management" >}}) and micro-management setup, and are designed to help highlight how their current approach and practices fall apart under duress.
 
 We then focus on teaching how to apply scrum effectively, within the constraints of a traditional organization, with the objective of teaching teams how to navigate complexity effectively and achieve their desired outcomes.
 
@@ -103,7 +103,7 @@ In many ways, a shift from optimizing at the local level and thinking in alignme
 
 It’s said that scrum doesn’t solve problems, it highlights them.
 
-That is something we see in the APS course too. Sometimes, leadership teams who are a part of the course begin to understand how policies, procedures, and red tape block teams from achieving their goals.
+That is something we see in the APS course too. Sometimes, [leadership]({{< ref "/categories/leadership" >}}) teams who are a part of the course begin to understand how policies, procedures, and red tape block teams from achieving their goals.
 
 They witness how management decisions, organizational policies, or power plays by senior managers prevent teams from doing great work. It is often a massive eye-opener for them and we frequently see those items being included in a backlog to be addressed when they return to work.
 

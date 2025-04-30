@@ -16,6 +16,7 @@ aliases:
 - /resources/XF95kabzSeY
 - /resources/videos/filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/videos/filling-the-understanding-gap-a-product-owner-s-guide-to-vision-engagement-and-value
 aliasesArchive:
 - /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
 - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
@@ -23,6 +24,7 @@ aliasesArchive:
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/videos/filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
 - filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
+- /resources/videos/filling-the-understanding-gap-a-product-owner-s-guide-to-vision-engagement-and-value
 preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
@@ -40,7 +42,7 @@ categories:
 - Product Management
 
 ---
-As I step into the role of a new Product Owner, I often reflect on the pivotal moments that define our journey in product development. One of the most crucial aspects I’ve learned is the importance of filling the vacuum of understanding within our teams and across the organisation. This is not just a task; it’s a responsibility that can make or break the success of our product.
+As I step into the role of a new [Product Owner]({{< ref "/tags/product-owner" >}}), I often reflect on the pivotal moments that define our journey in [product development]({{< ref "/categories/product-development" >}}). One of the most crucial aspects I’ve learned is the importance of filling the vacuum of understanding within our teams and across the organisation. This is not just a task; it’s a responsibility that can make or break the success of our product.
 
 ### Understanding Your Product Vision
 
@@ -62,7 +64,7 @@ Communication is key. As a Product Owner, you need to engage people in your stor
 Now that you’ve established your vision and engaged your audience, it’s time to focus on the value you’re delivering. This is where the rubber meets the road. Ask yourself:
 
 - **Are We Aligned?**: Are the features and functionalities you’re developing aligned with the vision? Each piece of work should serve a purpose in moving towards that North Star.
-- **Measure Success**: Define what success looks like for your product. This could be user engagement, revenue targets, or customer satisfaction. Whatever it is, ensure that your team understands these metrics.
+- **Measure Success**: Define what success looks like for your product. This could be user engagement, revenue targets, or [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}). Whatever it is, ensure that your team understands these metrics.
 
 ### Conclusion
 

@@ -16,12 +16,14 @@ aliases:
 - /resources/uvU_ATou6QY
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner
+- /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliasesArchive:
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
 - /resources/what-does-failure-look-like-as-a-product-owner-
 - /resources/videos/what-does-failure-look-like-as-a-product-owner
 - signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+- /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
@@ -41,7 +43,7 @@ categories:
 - Product Management
 
 ---
-As a product owner, I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 
+As a [product owner]({{< ref "/tags/product-owner" >}}), I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 
 
 ### Recognising the Signs of Failure
 

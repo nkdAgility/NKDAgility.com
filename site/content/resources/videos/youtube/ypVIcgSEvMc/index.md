@@ -33,7 +33,7 @@ resourceTypes:
 categories: []
 
 ---
-## The DevOps Evolution: More Than a Simple Shift
+## The [DevOps]({{< ref "/categories/devops" >}}) Evolution: More Than a Simple Shift
 
 The path from a DevOps practitioner to a DevOps consultant is one wrapped in curiosity and complexity. It's a testament to growth, an emblem of one's desire to know more and do more.
 
@@ -71,6 +71,6 @@ It's a lifeline, a propellant, enabling them to fortify their skillset, ensuring
 
 ## Embarking on Your DevOps Voyage
 
-If you've contemplated elevating your stature, transitioning from a practitioner to a consultant, or simply deepening your Agile and Scrum expertise, this is your cue.
+If you've contemplated elevating your stature, transitioning from a practitioner to a consultant, or simply deepening your Agile and [Scrum]({{< ref "/categories/scrum" >}}) expertise, this is your cue.
 
 Engage, expand, and excel with our meticulously crafted courses. Remember, your odyssey with us is a treasured alliance. 🚀

@@ -80,7 +80,7 @@ Modern teams need more than just coders:
 
 ## **The Tools and Techniques That Enable Shifting Left**
 
-Adopting a shift-left mindset requires leveraging modern engineering practices. Here are a few tools and techniques I’ve seen deliver incredible results:
+Adopting a shift-left mindset requires leveraging modern [engineering practices]({{< ref "/tags/engineering-practices" >}}). Here are a few tools and techniques I’ve seen deliver incredible results:
 
 ### **1. Test-Driven Development (TDD)**
 
@@ -110,11 +110,11 @@ I won’t sugarcoat it—shifting left takes effort. The first time you implemen
 - **Long-term efficiency:** Each task done “right” the first time means fewer bugs, fewer reworks, and less wasted effort down the line.
 - **Reduced exponential costs:** Poor engineering practices don’t just create linear problems—they create exponential ones. Imagine building a skyscraper on shaky foundations. With software, at least, we can go back and strengthen those foundations. But wouldn’t it be better to build it right the first time?
 
-## **A Real-World Example: Azure DevOps’ Transformation**
+## **A Real-World Example: Azure [DevOps]({{< ref "/categories/devops" >}})’ Transformation**
 
-The Azure DevOps team is a perfect case study in the power of shifting left. Here’s their story:
+The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team is a perfect case study in the power of shifting left. Here’s their story:
 
-- **The challenge:** Moving from a waterfall model to continuous delivery meant dealing with years of accumulated technical debt.
+- **The challenge:** Moving from a waterfall model to [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) meant dealing with years of accumulated [technical debt]({{< ref "/tags/technical-debt" >}}).
 - **The investment:** It took four years to pay back that debt. But the results? Stunning.
 - **The results:**
   - They went from delivering 25 features per year to nearly 150 features—with the same team size.
@@ -124,11 +124,11 @@ The lesson? The initial cost of shifting left is irrelevant compared to the long
 
 ## **The Building Analogy: Why Quality Matters**
 
-Let me share a simple analogy: Imagine constructing a building. If the first floor is made of substandard materials, every subsequent floor is at risk. In software, poor-quality foundations might not cause an immediate collapse, but they create an unstable system that limits your ability to innovate.
+Let me share a simple analogy: Imagine constructing a building. If the first floor is made of substandard materials, every subsequent floor is at risk. In software, poor-quality foundations might not cause an immediate collapse, but they create an unstable system that limits your [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}).
 
 Unlike physical buildings, though, software gives us the unique opportunity to refactor and strengthen foundations as we go. By using techniques like TDD and continuous delivery, you can ensure that every new "floor" of your product is stable and ready for future growth.
 
-## **Shifting Left Enables Engineering Excellence**
+## **Shifting Left Enables [Engineering Excellence]({{< ref "/categories/engineering-excellence" >}})**
 
 When you embrace shift-left practices, you’re not just improving your product—you’re transforming your organization. Here’s how:
 
@@ -146,7 +146,7 @@ Implementing these practices can be daunting, especially if your organization ha
 
 ### **SEO Keywords**
 
-- Shift left software development
+- Shift left [software development]({{< ref "/tags/software-development" >}})
 - Modern software engineering practices
 - Building quality into software
 - Test-driven development (TDD)

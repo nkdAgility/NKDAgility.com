@@ -41,7 +41,7 @@ categories:
 - Product Development
 
 ---
-One of my favourite classes to teach is the Product Owner class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective product management. 
+One of my favourite classes to teach is the [Product Owner]({{< ref "/tags/product-owner" >}}) class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective [product management]({{< ref "/categories/product-management" >}}). 
 
 ### The Importance of Product Management
 
@@ -53,7 +53,7 @@ In my experience, product management is often overlooked, yet it is the cornerst
 
 ### My Journey with Product Ownership
 
-Reflecting on my journey, I remember the early days when I first started teaching this class. I was struck by how many teams struggled with the concept of product ownership. Many had a vague understanding of the role, often confusing it with project management. 
+Reflecting on my journey, I remember the early days when I first started teaching this class. I was struck by how many teams struggled with the concept of product ownership. Many had a vague understanding of the role, often confusing it with [project management]({{< ref "/tags/project-management" >}}). 
 
 Through teaching, I’ve had the privilege of witnessing the transformation that occurs when teams embrace effective product management. I’ve seen teams go from chaotic, unfocused efforts to well-oiled machines, all because they had a dedicated product owner guiding them. 
 
@@ -61,7 +61,7 @@ Through teaching, I’ve had the privilege of witnessing the transformation that
 
 If you’re looking to step into the role of a product owner or improve your skills, here are some key takeaways from my experience:
 
-1. **Embrace Continuous Learning**: The landscape of product management is always evolving. Stay updated with the latest trends, tools, and techniques.
+1. **Embrace [Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: The landscape of product management is always evolving. Stay updated with the latest trends, tools, and techniques.
 2. **Foster Collaboration**: Build strong relationships with your team and stakeholders. Collaboration is essential for gathering insights and making informed decisions.
 3. **Be Decisive**: You’ll often face tough choices. Trust your instincts and data to make decisions that align with the product vision.
 4. **Communicate Clearly**: Ensure that your vision and priorities are communicated effectively. This clarity will help keep the team aligned and motivated.

@@ -54,7 +54,7 @@ categories:
 - Product Development
 
 ---
-In today's fast-paced business world, managers are expected to not only manage but also lead. This shift can be daunting, especially when there’s little to no training or guidance provided. Most managers are left to figure out how to become leaders on their own. While some exceptional individuals thrive in this environment, many would benefit from a bit of help. That’s where agile leadership training comes into play.
+In today's fast-paced business world, managers are expected to not only manage but also lead. This shift can be daunting, especially when there’s little to no training or guidance provided. Most managers are left to figure out how to become leaders on their own. While some exceptional individuals thrive in this environment, many would benefit from a bit of help. That’s where agile [leadership]({{< ref "/categories/leadership" >}}) training comes into play.
 
 ## The Challenge of Transitioning to Leadership
 
@@ -66,7 +66,7 @@ Many organizations assume that leadership skills will just develop naturally. Ho
 
 - 🚀 **The Exceptional Few**: While some managers adapt quickly, the majority need guidance and training.
 
-### The Need for Training: Agile Leadership
+### The Need for Training: [Agile Leadership]({{< ref "/tags/agile-leadership" >}})
 
 One of the primary training programs that can support this transition is the **Professional Agile Leadership class**. This course focuses on helping managers understand the principles of servant leadership and apply them effectively within their teams.
 
@@ -128,9 +128,9 @@ Leadership is not something that happens overnight, and it’s not something tha
 
 - 🎯 **Servant Leadership is Crucial**: Leaders should focus on enabling their teams rather than controlling them.
 
-- 📊 **Data-Driven Decision Making**: Use metrics to ensure that organizational goals are being met.
+- 📊 **Data-Driven [Decision Making]({{< ref "/tags/decision-making" >}})**: Use metrics to ensure that organizational goals are being met.
 
-- 🌱 **Continuous Learning**: Leadership is a skill that requires continuous development, and training programs are essential for that growth.
+- 🌱 **[Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: Leadership is a skill that requires continuous development, and training programs are essential for that growth.
 
 If you’re a manager who’s transitioning into a leadership role or someone who wants to improve their leadership effectiveness, I highly recommend exploring these training opportunities. They provide a solid foundation for becoming the kind of leader who not only empowers teams but also ensures that the entire organization moves in the right direction.
 

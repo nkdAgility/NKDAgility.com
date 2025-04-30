@@ -34,7 +34,7 @@ resourceTypes:
 categories: []
 
 ---
-## Democracy vs. Dictatorship in Agile Leadership: Finding the Middle Ground 
+## Democracy vs. Dictatorship in Agile [Leadership]({{< ref "/categories/leadership" >}}): Finding the Middle Ground 
 
 Hello, Agile enthusiasts. It's Martin here. Let's delve into a topic that's sparked much debate in management circles: the tug-of-war between dictatorship and democracy in leadership, particularly within the Agile framework. 🤔⚖️ 
 
@@ -60,7 +60,7 @@ Research and numerous papers have shown that groups collaborating towards a comm
 
 ## Striking the Perfect Balance  
 
-So, how do we find the sweet spot between dictatorship and democracy in Agile leadership? 🎯 
+So, how do we find the sweet spot between dictatorship and democracy in [Agile leadership]({{< ref "/tags/agile-leadership" >}})? 🎯 
 
 - **Set Clear Strategic Directions:** The leader outlines the vision and objectives. 
 

@@ -34,7 +34,7 @@ resourceTypes:
 categories: []
 
 ---
-## Project Management in Intricate Environments
+## [Project Management]({{< ref "/tags/project-management" >}}) in Intricate Environments
 
 As Agile Consultants, we know that Project Management can falter in complex environments, so I wanted to spend a little time discussing _why_ traditional Project Management might not be the best fit for complex environments.
 
@@ -66,4 +66,4 @@ The following types of Project Management show the different approaches that sho
 
 Struggling to manage projects in complex environments?  🔔
 
-Explore my Agile and Scrum courses for a fresh perspective and effective tools!
+Explore my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses for a fresh perspective and effective tools!

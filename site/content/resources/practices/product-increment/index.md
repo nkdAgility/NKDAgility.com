@@ -28,4 +28,4 @@ categories:
 tags: []
 
 ---
-## What is a Product Increment?
+## What is a Product [Increment]({{< ref "/tags/increment" >}})?

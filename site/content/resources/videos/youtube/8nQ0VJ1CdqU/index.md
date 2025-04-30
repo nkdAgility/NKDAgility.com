@@ -65,7 +65,7 @@ The people who are involved in the implementation are often not the people who g
 
 In other words, a ‘solution’ is imposed on the team rather than cocreated with the teams.
 
-Leadership will decide that X is going to be adopted, but the people actively doing the work know that it’s the wrong solution. It simply isn’t a great fit and doesn’t solve the problems that the product development teams are experiencing.
+[Leadership]({{< ref "/categories/leadership" >}}) will decide that X is going to be adopted, but the people actively doing the work know that it’s the wrong solution. It simply isn’t a great fit and doesn’t solve the problems that the [product development]({{< ref "/categories/product-development" >}}) teams are experiencing.
 
 Often, this happens when a consultant sells an **off-the-shelf agile solution** rather than investing time and effort with the teams, customers, and product stakeholders to select the agile framework that best serves the environment.
 
@@ -111,7 +111,7 @@ The people on the ground have:
 
 So, it really does serve **leadership teams** to embrace the unique knowledge, skills, and capabilities of the experts in the team environment and include them in decision-making for the transformation.
 
-## Open Space Agile
+## [Open Space Agile]({{< ref "/tags/open-space-agile" >}})
 
 There has been a lot of great work produced by [Open Space Agile](https://openspaceagility.com/) that allows relevant people to be involved in decision-making throughout the organization.
 
@@ -131,7 +131,7 @@ So, in my opinion and experience, this is the greatest reason why agile transfor
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

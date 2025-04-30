@@ -40,15 +40,15 @@ categories:
 - Scrum
 
 ---
-## Ascending the Leadership Ladder
+## Ascending the [Leadership]({{< ref "/categories/leadership" >}}) Ladder
 
-A recurring question I've been getting, which is both pertinent and insightful in the Agile world, is: "Why is the Professional Agile Leadership Essentials class viewed as the core evolution for a seasoned Scrum Master?"
+A recurring question I've been getting, which is both pertinent and insightful in the Agile world, is: "Why is the Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials class viewed as the core evolution for a seasoned [Scrum]({{< ref "/categories/scrum" >}}) Master?"
 
 Delving into this course is more than just an academic pursuit; it's a strategic climb up the leadership ladder.  🎯
 
 ## The Two Pillars of Evolution
 
-I've always said that there are two primary reasons, two significant aspects that drive this natural evolution for a Scrum Master.
+I've always said that there are two primary reasons, two significant aspects that drive this natural evolution for a [Scrum Master]({{< ref "/tags/scrum-master" >}}).
 
 Let's take a closer look at these two points:
 
@@ -84,7 +84,7 @@ For those who've been traversing the Scrum journey and are now at the crossroads
 
 Our courses are created to guide you, illuminate less travelled paths, and offer profound and actionable  Scrum and Agile insights.
 
-Let's converse if any of this resonates with you or triggers a tiny spark of curiosity about Agile, Scrum, or even the broader realm of DevOps.
+Let's converse if any of this resonates with you or triggers a tiny spark of curiosity about Agile, Scrum, or even the broader realm of [DevOps]({{< ref "/categories/devops" >}}).
 
 If you wish to engage in anything Agile, Scrum, or DevOps, please grab a coffee slot with me through Naked Agility.
 

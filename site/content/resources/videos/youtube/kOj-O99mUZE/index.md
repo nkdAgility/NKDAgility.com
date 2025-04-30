@@ -51,7 +51,7 @@ categories:
 - Product Development
 
 ---
-### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level
+### [Scaling]({{< ref "/tags/scaling" >}}) Portfolio [Kanban]({{< ref "/categories/kanban" >}}): Enhancing Flow and Predictability at the Organizational Level
 
 **Introduction**
 
@@ -67,7 +67,7 @@ Scaling Portfolio Kanban offers several advantages for large organizations:
 
 - **Holistic View**: Understand and manage work across multiple teams and departments.
 
-- **Increased Predictability**: Improve forecasting and delivery timelines.
+- **Increased Predictability**: Improve [forecasting]({{< ref "/tags/forecasting" >}}) and delivery timelines.
 
 - **Value Maximization**: Focus on delivering the highest value items and making informed decisions about projects.
 
@@ -95,7 +95,7 @@ The "Applying Scaling Portfolio Kanban" course helps leaders and managers analyz
 
 - Identify bottlenecks and areas for improvement in the overall system.
 
-1. **Strategic Decision Making**:
+1. **Strategic [Decision Making]({{< ref "/tags/decision-making" >}})**:
 
 - Learn to make data-driven decisions about which projects to pursue, which to abandon, and which need significant changes.
 
@@ -107,11 +107,11 @@ The "Applying Scaling Portfolio Kanban" course helps leaders and managers analyz
 
 - Understand the impact of different types of work on the system and how to balance them effectively.
 
-1. **Engaging Leadership**:
+1. **Engaging [Leadership]({{< ref "/categories/leadership" >}})**:
 
-- Designed for heads of departments, agile coaches, project managers, development leads, high-level product owners, scrum masters, and product managers.
+- Designed for heads of departments, agile coaches, project managers, development leads, high-level product owners, [scrum]({{< ref "/categories/scrum" >}}) masters, and product managers.
 
-- Equip leaders with the tools to ask insightful questions and drive continuous improvement.
+- Equip leaders with the tools to ask insightful questions and drive [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 * * *
 
@@ -125,13 +125,13 @@ Implementing the strategies from this course will provide several benefits:
 
 - **Informed Decisions**: Data-driven decision-making for project prioritization and resource allocation.
 
-- **Increased Value Delivery**: Focus on delivering high-value projects more efficiently.
+- **Increased [Value Delivery]({{< ref "/tags/value-delivery" >}})**: Focus on delivering high-value projects more efficiently.
 
 * * *
 
 **Conclusion**
 
-The "Applying Scaling Portfolio Kanban" course is essential for leaders who want to optimize their organizational workflow, improve predictability, and maximize value delivery. By understanding and applying Kanban strategies at a portfolio level, you can transform your project management approach and achieve better outcomes for your business.
+The "Applying Scaling Portfolio Kanban" course is essential for leaders who want to optimize their organizational workflow, improve predictability, and maximize value delivery. By understanding and applying Kanban strategies at a portfolio level, you can transform your [project management]({{< ref "/tags/project-management" >}}) approach and achieve better outcomes for your business.
 
 **Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, Scrum, or any other Agile practices, feel free to book a coffee with me through Naked Agility.
 

@@ -48,7 +48,7 @@ categories:
 - Product Development
 
 ---
-When it comes to Kanban, many teams get excited about visualizing their work. But there's a crucial element often overlooked: **limiting work in progress (WIP)**. Without this, you're not truly practicing Kanban. Limiting WIP is fundamental to controlling your workflow, understanding the system's bottlenecks, and delivering high-quality products at a sustainable pace.
+When it comes to [Kanban]({{< ref "/categories/kanban" >}}), many teams get excited about visualizing their work. But there's a crucial element often overlooked: **limiting work in progress (WIP)**. Without this, you're not truly practicing Kanban. Limiting WIP is fundamental to controlling your workflow, understanding the system's bottlenecks, and delivering high-quality products at a sustainable pace.
 
 In this post, I’ll delve into why limiting WIP is essential in Kanban, how it helps teams stay focused, and share personal insights on its impact on real-world projects.
 
@@ -76,7 +76,7 @@ When teams take on too much work at once, the flow of work slows down. Why? Beca
 
 ### **Personal Experience: The Time My Team Took on Too Much WIP** **🛑**
 
-I remember working with a team that had no limit on their work in progress. We were constantly starting new features, fixing bugs, and dealing with customer requests. However, the lack of focus meant that everything was moving slowly. The team felt overwhelmed, and customer satisfaction was declining.
+I remember working with a team that had no limit on their work in progress. We were constantly starting new features, fixing bugs, and dealing with customer requests. However, the lack of focus meant that everything was moving slowly. The team felt overwhelmed, and [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}) was declining.
 
 By introducing WIP limits, we quickly saw improvements. Tasks started moving through the system faster, quality improved, and we could actually **see** where the bottlenecks were. Limiting WIP was a game-changer for us.
 
@@ -84,7 +84,7 @@ By introducing WIP limits, we quickly saw improvements. Tasks started moving thr
 
 If you're not limiting your work in progress, guess what? You're not doing Kanban.
 
-### **Focus on Value Delivery** **🚀**
+### **Focus on [Value Delivery]({{< ref "/tags/value-delivery" >}})** **🚀**
 
 Limiting WIP allows teams to focus on what truly matters: **delivering value**. By narrowing down the number of tasks in progress, team members can concentrate on completing the highest priority items, leading to faster delivery of usable products.
 
@@ -150,7 +150,7 @@ The key here is to start with a manageable number and adjust as you go.
 
 ### **Step 3: Monitor and Adjust** **⚙️**
 
-Kanban is all about continuous improvement, so don’t be afraid to tweak your WIP limits as the team evolves. If you notice work is getting stuck, try lowering the limit. If things are moving too quickly, you might be able to increase it slightly.
+Kanban is all about [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), so don’t be afraid to tweak your WIP limits as the team evolves. If you notice work is getting stuck, try lowering the limit. If things are moving too quickly, you might be able to increase it slightly.
 
 ## **Pro Tip: Keep the Team Engaged** **💡**
 
@@ -158,7 +158,7 @@ Limiting WIP can feel restrictive at first, but it’s important to get the whol
 
 ### **Personal Advice: Involve the Team in Setting WIP Limits** **🗣️**
 
-In one of my Scrum teams, we initially faced resistance to setting WIP limits. Team members felt it would slow them down. However, after a few sprints of experimentation and involving them in the process, they started to see the value. Productivity went up, and frustration went down.
+In one of my [Scrum]({{< ref "/categories/scrum" >}}) teams, we initially faced resistance to setting WIP limits. Team members felt it would slow them down. However, after a few sprints of [experimentation]({{< ref "/tags/experimentation" >}}) and involving them in the process, they started to see the value. Productivity went up, and frustration went down.
 
 ## **Conclusion: Limit Your WIP, Boost Your Productivity** **💪**
 

@@ -30,15 +30,15 @@ tags:
 ---
 Dear NKD Agilists!
 
-We are thrilled to unveil our latest endeavour in revolutionizing how we work, build, and achieve results in the 21st century. Brace yourselves for an extraordinary announcement: NKD Agility proudly presents our new multi-week immersive learning experiences designed to empower individuals like you with the skills, knowledge, and competence to become the next generation of agile practitioners.
+We are thrilled to unveil our latest endeavour in revolutionizing how we work, build, and achieve results in the 21st century. Brace yourselves for an extraordinary announcement: NKD Agility proudly presents our new multi-week immersive learning experiences designed to empower individuals like you with the skills, knowledge, and [competence]({{< ref "/tags/competence" >}}) to become the next generation of agile practitioners.
 
-In this rapidly evolving world, where adaptability and innovation are essential, the demand for agile professionals has never been greater. At NKD Agility, we believe that true transformation begins with a deep understanding of methodologies such as scrum, agile leadership, product ownership, and the application of professional scrum. Our immersive learning experiences are meticulously crafted to take you on a journey of personal and professional growth, equipping you with the tools necessary to navigate the complexities of the modern workplace.
+In this rapidly evolving world, where adaptability and innovation are essential, the demand for agile professionals has never been greater. At NKD Agility, we believe that true transformation begins with a deep understanding of methodologies such as [scrum]({{< ref "/categories/scrum" >}}), agile [leadership]({{< ref "/categories/leadership" >}}), product ownership, and the application of [professional scrum]({{< ref "/tags/professional-scrum" >}}). Our immersive learning experiences are meticulously crafted to take you on a journey of personal and professional growth, equipping you with the tools necessary to navigate the complexities of the modern workplace.
 
-Picture yourself immersed in an environment that fosters collaboration, creativity, and continuous improvement. Our expert trainers will guide you through a series of hands-on exercises, real-world case studies, and interactive workshops, ensuring that you not only grasp the theoretical foundations but also develop the practical skills to excel in an agile setting. Imagine being able to take what you have learned, apply it in your working environment, and then return to class the following week, armed with questions and reviews of what worked and what didn’t work.
+Picture yourself immersed in an environment that fosters collaboration, creativity, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). Our expert trainers will guide you through a series of hands-on exercises, real-world case studies, and interactive workshops, ensuring that you not only grasp the theoretical foundations but also develop the practical skills to excel in an agile setting. Imagine being able to take what you have learned, apply it in your working environment, and then return to class the following week, armed with questions and reviews of what worked and what didn’t work.
 
-Imagine a learning experience that blends the best of training, coaching, and consulting. Live, real-time, on-the-job.
+Imagine a learning experience that blends the best of training, [coaching]({{< ref "/tags/coaching" >}}), and consulting. Live, real-time, on-the-job.
 
-NKD Agility leads with a deep commitment to nurturing a new breed of agile practitioners who excel in their craft and champion the values of collaboration, adaptability, and continuous learning. We believe that the true measure of success lies in delivering exceptional products and services, building high-performing teams, and fostering a culture of innovation.
+NKD Agility leads with a deep commitment to nurturing a new breed of agile practitioners who excel in their craft and champion the values of collaboration, adaptability, and [continuous learning]({{< ref "/tags/continuous-learning" >}}). We believe that the true measure of success lies in delivering exceptional products and services, building high-performing teams, and fostering a culture of innovation.
 
 By joining our multi-week immersive learning experiences, you become part of a community of like-minded individuals who share a common aspiration: to transform how we work, what we build, and what we achieve. Together, we will redefine the boundaries of what's possible in the 21st century.
 
@@ -104,7 +104,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

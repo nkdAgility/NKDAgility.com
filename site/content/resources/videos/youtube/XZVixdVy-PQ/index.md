@@ -20,6 +20,7 @@ aliases:
 - /resources/XZVixdVy-PQ
 - /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/videos/redefining-agile-s-core-beyond-rituals-and-procedures
 aliasesArchive:
 - /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/redefining-agiles-core-beyond-rituals-and-procedures
@@ -27,6 +28,7 @@ aliasesArchive:
 - /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 - /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
 - redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/redefining-agile-s-core-beyond-rituals-and-procedures
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +51,7 @@ categories:
 - Product Development
 
 ---
-There’s a quote from Ken Schwaber, one of the co-creators of Scrum, that goes:
+There’s a quote from Ken Schwaber, one of the co-creators of [Scrum]({{< ref "/categories/scrum" >}}), that goes:
 
 “Agile is not about rituals; it’s about developing software in a different way.”
 
@@ -65,7 +67,7 @@ Let’s break down this idea and understand what Agile should really mean for or
 
 Many organizations today measure success by asking:
 
-- "Is everyone attending the daily Scrum?"
+- "Is everyone attending the [daily Scrum]({{< ref "/tags/daily-scrum" >}})?"
 
 - "Do we have Sprint reviews?"
 
@@ -73,7 +75,7 @@ These checkboxes can quickly lead to what we call **zombie Scrum** or **mechanic
 
 🧟‍♂️ **Zombie Scrum**: Teams are following the Agile rituals, but with no understanding or belief in why they are doing them.
 
-When we focus purely on the rituals, we miss out on the purpose behind them. **Daily stand-ups, Sprint reviews, and retrospectives** are meant to help the team reflect, adapt, and improve. But when they become merely a routine, their effectiveness plummets. This leads to teams going through the motions but missing the point of **continuous improvement**.
+When we focus purely on the rituals, we miss out on the purpose behind them. **Daily stand-ups, Sprint reviews, and retrospectives** are meant to help the team reflect, adapt, and improve. But when they become merely a routine, their effectiveness plummets. This leads to teams going through the motions but missing the point of **[continuous improvement]({{< ref "/tags/continuous-improvement" >}})**.
 
 ### **The Goal Is Not the Rituals**
 
@@ -109,7 +111,7 @@ Here’s the lesson: while automation can handle routine processes, **complex sy
 
 ## **Complex Systems and Computer Limitations**
 
-Computers, by nature, can only manage what we tell them to. They’re excellent at handling **predefined rules**, but when faced with **complex systems**—whether it’s software, product development, or procurement—computers fall short.
+Computers, by nature, can only manage what we tell them to. They’re excellent at handling **predefined rules**, but when faced with **complex systems**—whether it’s software, [product development]({{< ref "/categories/product-development" >}}), or procurement—computers fall short.
 
 This is why large, pre-built systems can become a bottleneck. Over time, as new edge cases and scenarios arise, these systems become **clunky** and less flexible. Agile, on the other hand, embraces complexity by focusing on **adaptability** over strict adherence to pre-defined processes.
 

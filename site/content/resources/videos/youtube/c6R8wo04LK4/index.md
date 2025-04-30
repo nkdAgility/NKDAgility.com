@@ -36,7 +36,7 @@ categories: []
 ---
 ## Debunking the "Magic" Myth
 
-A question that often pops up in my discussions is, "What is the hardest part of adopting Scrum?
+A question that often pops up in my discussions is, "What is the hardest part of adopting [Scrum]({{< ref "/categories/scrum" >}})?
 
 It's a valid inquiry; I believe many of you have pondered it too.
 
@@ -56,7 +56,7 @@ There's this mistaken belief that repeating the same actions will result in diff
 
 These beliefs, while hopeful, border on the absurd and are very far from the reality of Scrum adoption.
 
-Shattering these illusions and ingraining a culture of continuous learning and adaptability is genuinely the toughest aspect of Scrum adoption.  🚫 
+Shattering these illusions and ingraining a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and adaptability is genuinely the toughest aspect of Scrum adoption.  🚫 
 
 Recognising and addressing these deeply rooted beliefs is paramount; in my view, this understanding and transformation is the _real challenge_ in Scrum adoption.
 

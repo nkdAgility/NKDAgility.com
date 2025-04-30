@@ -55,7 +55,7 @@ categories:
 - Leadership
 
 ---
-When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of product management - these are the MVPs who redefine the game. 🌟 
+When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of [product management]({{< ref "/categories/product-management" >}}) - these are the MVPs who redefine the game. 🌟 
 
 ## Crafting Agile Journeys: The Microsoft Model 
 
@@ -93,7 +93,7 @@ This wasn't merely a process adjustment; it was a strategic pivot towards what n
 
 ## The Impact of Strategic Vision and Relentless Pursuit 
 
-Harry's relentless work ethic, combined with his strategic acumen, was a force to be reckoned with. By leveraging his stature and respect within Microsoft, he initiated changes that many others wouldn't dare to. It's a testament to the power of a Product Owner with a vision backed by the vigour to see it through. 🛠️ 
+Harry's relentless work ethic, combined with his strategic acumen, was a force to be reckoned with. By leveraging his stature and respect within Microsoft, he initiated changes that many others wouldn't dare to. It's a testament to the power of a [Product Owner]({{< ref "/tags/product-owner" >}}) with a vision backed by the vigour to see it through. 🛠️ 
 
 ## Aaron Bjork: The Catalyst for Agile Culture 
 
@@ -105,7 +105,7 @@ Let’s break this down: 
 
 - Championing the Agile mindset across teams and management levels. 
 
-- Spreading Agile best practices through workshops, talks, and one-on-one mentoring. 
+- Spreading Agile best practices through workshops, talks, and one-on-one [mentoring]({{< ref "/tags/mentoring" >}}). 
 
 **Cultural Advocacy:** 
 
@@ -117,15 +117,15 @@ Let’s break this down: 
 
 - Ensuring that Agile practices are sustainable and embedded into the company culture. 
 
-- Addressing challenges and resistance to change through persistent advocacy and leadership. 
+- Addressing challenges and resistance to change through persistent advocacy and [leadership]({{< ref "/categories/leadership" >}}). 
 
 ## Satya Nadella: Watering the Agile Seed 
 
 While Harry and Bjork laid the groundwork, it was Satya Nadella who amplified and watered these ideas of agility across Microsoft. His leadership enabled an environment where these Agile principles could flourish, demonstrating the significance of executive buy-in for transformative change. 
 
-## From Azure DevOps to DevOps Culture: A Legacy 
+## From Azure [DevOps]({{< ref "/categories/devops" >}}) to DevOps Culture: A Legacy 
 
-The legacy left by Harry and Bjork is not confined to Microsoft's walls. They have influenced the broader narrative of product development by demonstrating that it's possible to have both scale and agility, to shorten feedback loops without sacrificing quality or vision. 
+The legacy left by Harry and Bjork is not confined to Microsoft's walls. They have influenced the broader narrative of [product development]({{< ref "/categories/product-development" >}}) by demonstrating that it's possible to have both scale and agility, to shorten feedback loops without sacrificing quality or vision. 
 
 In Summary:   
 

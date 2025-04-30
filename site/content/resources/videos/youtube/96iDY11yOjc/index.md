@@ -74,7 +74,7 @@ Drawing a fascinating parallel, I'd like to highlight what martial artists and m
 
 I believe that training classes can serve as an avenue for this much-needed practice, provided they are structured correctly.
 
-However, this element of practice is where the true prowess of training classes shines.  Not those that have you glued to a PowerPoint presentation but ones that foster a dynamic, engaging, and interactive learning environment, akin to what I strive to cultivate in my Agile and Scrum courses.
+However, this element of practice is where the true prowess of training classes shines.  Not those that have you glued to a PowerPoint presentation but ones that foster a dynamic, engaging, and interactive learning environment, akin to what I strive to cultivate in my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses.
 
 I prefer to incorporate elements of flipped learning in my training classes.
 

@@ -40,7 +40,11 @@ tags:
 - Evidence Based Management
 - Operational Practices
 - Product Delivery
+- Time to Market
+- Unrealised Value
+- Current Value
 categories:
+- Product Development
 - Product Management
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
@@ -49,13 +53,13 @@ Over the past decade, a recurring query has been echoing in my ears: "How can we
 
 ### TLDR;
 
-Story Points, while subjective, can be a valuable tool for team discussions and understanding. However, they shouldn't be the primary metric for comparing teams or predicting future deliverables. Instead, focus on objective metrics like throughput, to gauge and optimise team performance.
+Story Points, while subjective, can be a valuable tool for team discussions and understanding. However, they shouldn't be the primary metric for comparing teams or predicting future deliverables. Instead, focus on objective metrics like [throughput]({{< ref "/tags/throughput" >}}), to gauge and optimise [team performance]({{< ref "/tags/team-performance" >}}).
 
 ### These are not the metrics that you are looking for!
 
 First and foremost, Story Points are inherently subjective. They're influenced by individual perceptions, making them unsuitable for broad comparisons or future projections. While they might offer a vague direction, they're often misused in planning and measuring.
 
-The essence of agile frameworks like Scrum is value delivery, and the correlation between the subjective nature of story points and their velocity doesn't necessarily equate to the value delivered. There are better choices for teams aiming to optimise their value delivery than relying solely on Story Points and Velocity.
+The essence of [agile frameworks]({{< ref "/tags/agile-frameworks" >}}) like [Scrum]({{< ref "/categories/scrum" >}}) is [value delivery]({{< ref "/tags/value-delivery" >}}), and the correlation between the subjective nature of story points and their velocity doesn't necessarily equate to the value delivered. There are better choices for teams aiming to optimise their value delivery than relying solely on Story Points and Velocity.
 
 **But is there any value in Story Points?**
 
@@ -75,7 +79,7 @@ It's straightforward to gauge the throughput of backlog items and their flow. By
 
 - Throughput
 
-- Cycle Time
+- [Cycle Time]({{< ref "/tags/cycle-time" >}})
 
 - Work Item Age
 
@@ -84,17 +88,17 @@ It's straightforward to gauge the throughput of backlog items and their flow. By
 ![](images/image-1280x720-3-3.png)
 { .post-img }
 
-Such metrics empower us to make informed decisions rooted in tangible data. They allow us to pinpoint potential issues, identify items needing further breakdown, and employ probabilistic forecasting for future projections.
+Such metrics empower us to make informed decisions rooted in tangible data. They allow us to pinpoint potential issues, identify items needing further breakdown, and employ probabilistic [forecasting]({{< ref "/tags/forecasting" >}}) for future projections.
 
 Simultaneously, to truly maximise team output, we must also focus on the value of the work. Given its subjective nature, defining value can be multifaceted. A practical approach is to examine the four primary value areas from evidence-based management practices:
 
-- **Current Value** - Evaluating the existing product's value. Is it meeting customer expectations?
+- **[Current Value]({{< ref "/tags/current-value" >}})** - Evaluating the existing product's value. Is it meeting customer expectations?
 
-- **Unrealised Value** \- Identifying gaps in your product that could be filled.
+- **[Unrealised Value]({{< ref "/tags/unrealised-value" >}})** \- Identifying gaps in your product that could be filled.
 
-- **Time to Market** - Assessing the speed from ideation to user engagement. Dormant value is essentially no value.
+- **[Time to Market]({{< ref "/tags/time-to-market" >}})** - Assessing the speed from ideation to user engagement. Dormant value is essentially no value.
 
-- **Ability to Innovate** \- Determining the balance between maintenance and innovation.
+- **[Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}})** \- Determining the balance between maintenance and innovation.
 
 ![](images/image-1-1280x717-1-1.png)
 { .post-img }

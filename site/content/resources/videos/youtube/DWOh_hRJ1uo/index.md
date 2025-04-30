@@ -41,11 +41,11 @@ categories:
 - Scrum
 
 ---
-**What is your best advice for becoming a Scrum Master outside software engineering?**
+**What is your best advice for becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master outside software engineering?**
 
-I'm a Lean-Agile & DevOps Consultant at NKD Agility, and I've spent countless hours navigating the intricate pathways of the Agile world! 🌎 My journey has given me a treasure trove of insights and experiences, which I am always eager to share.
+I'm a [Lean]({{< ref "/categories/lean" >}})-Agile & [DevOps]({{< ref "/categories/devops" >}}) Consultant at NKD Agility, and I've spent countless hours navigating the intricate pathways of the Agile world! 🌎 My journey has given me a treasure trove of insights and experiences, which I am always eager to share.
 
-If you've ever wondered about the whys and hows of pursuing a certification path in your career, you're not alone. The question 💭pops up quite often, especially when it comes to becoming a Scrum Master outside of the realm of software engineering. 🤔
+If you've ever wondered about the whys and hows of pursuing a certification path in your career, you're not alone. The question 💭pops up quite often, especially when it comes to becoming a [Scrum Master]({{< ref "/tags/scrum-master" >}}) outside of the realm of software engineering. 🤔
 
 Perhaps you've been thinking about this, looking for guidance, or just curious about the potential routes you can explore in your Scrum journey.
 

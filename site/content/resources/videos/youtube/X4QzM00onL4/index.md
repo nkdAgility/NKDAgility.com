@@ -58,7 +58,7 @@ Chaos in Agile teams often stems from:
 - **Divergent Goals**: If team members are not pulling in the same direction, it’s like trying to row a boat with everyone paddling at different speeds and angles. 
 - **Lack of Understanding**: When individuals don’t grasp the overarching goals of the organisation or the product, their daily tasks can feel disconnected and meaningless.
 
-This chaos doesn’t just exist at the team level; it permeates throughout the entire organisation. If the leadership team isn’t aligned on the goals, how can we expect the rest of the organisation to be? 
+This chaos doesn’t just exist at the team level; it permeates throughout the entire organisation. If the [leadership]({{< ref "/categories/leadership" >}}) team isn’t aligned on the goals, how can we expect the rest of the organisation to be? 
 
 ### The Importance of Alignment
 
@@ -76,9 +76,9 @@ From my experience, here are a few strategies to combat chaos and foster alignme
    
 2. **Regular Check-ins**: Hold frequent meetings to discuss progress and realign as necessary. This keeps everyone on the same page and allows for adjustments when needed.
 
-3. **Encourage Open Communication**: Create an environment where team members feel comfortable sharing their thoughts and concerns. This transparency can help identify misalignments early on.
+3. **Encourage Open Communication**: Create an environment where team members feel comfortable sharing their thoughts and concerns. This [transparency]({{< ref "/tags/transparency" >}}) can help identify misalignments early on.
 
-4. **Visualise Progress**: Use tools like Kanban boards or dashboards to visualise work and progress towards goals. This can help teams see how their efforts contribute to the overall objectives.
+4. **Visualise Progress**: Use tools like [Kanban]({{< ref "/categories/kanban" >}}) boards or dashboards to visualise work and progress towards goals. This can help teams see how their efforts contribute to the overall objectives.
 
 5. **Celebrate Successes**: Acknowledge and celebrate milestones and achievements. This reinforces the shared goals and motivates teams to continue working together.
 
@@ -86,4 +86,4 @@ From my experience, here are a few strategies to combat chaos and foster alignme
 
 In conclusion, chaos in Agile teams is a symptom of misalignment and lack of clarity. By fostering a culture of shared goals and open communication, we can mitigate this chaos and steer our teams towards success. Remember, it’s not just about doing Agile; it’s about being Agile—embracing the principles that allow us to work effectively together.
 
-If you found this discussion helpful, I encourage you to engage with me. Like, follow, and subscribe for more insights. I’m always open to conversations about Agile, Scrum, or DevOps, so feel free to book a coffee chat with me through Naked Agility. Let’s tackle the chaos together!
+If you found this discussion helpful, I encourage you to engage with me. Like, follow, and subscribe for more insights. I’m always open to conversations about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), so feel free to book a coffee chat with me through Naked Agility. Let’s tackle the chaos together!

@@ -37,7 +37,7 @@ categories:
 - Product Development
 
 ---
-## Bridging DevOps & Software Engineering Through Scrum! 🔥
+## Bridging [DevOps]({{< ref "/categories/devops" >}}) & Software Engineering Through [Scrum]({{< ref "/categories/scrum" >}})! 🔥
 
 Hello Agile enthusiasts! 🌟
 
@@ -55,11 +55,11 @@ Imagine that – tangible results, sprint after sprint, yes, even the inaugural 
 
 This isn't just a stipulation or a lofty ideal. It's foundational. 
 
-It's a practical, actionable outcome that embodies the spirit of transparency and feedback and is the hallmark of what makes Scrum so effective.
+It's a practical, actionable outcome that embodies the spirit of [transparency]({{< ref "/tags/transparency" >}}) and feedback and is the hallmark of what makes Scrum so effective.
 
 ## How Do We Achieve Synchronicity
 
-So, how do we manifest this engineering excellence?
+So, how do we manifest this [engineering excellence]({{< ref "/categories/engineering-excellence" >}})?
 
 It's tempting to think that such harmony emerges out of the blue.
 
@@ -69,8 +69,8 @@ Well, it's far from magic and it's not some spontaneous occurrence. No, far from
 
 It's about discipline. It's about engineering excellence. It's about embedding DevOps practices deep into our workflow.  🔧 
 
-When we couple these formidable software engineering practices with the guiding principles of Scrum, we're not just churning out software. We're striving to craft masterpieces.
+When we couple these formidable software [engineering practices]({{< ref "/tags/engineering-practices" >}}) with the guiding principles of Scrum, we're not just churning out software. We're striving to craft masterpieces.
 
 Eager to experience this synergy firsthand?
 
-Take a look at my Agile and Scrum courses, and together, let's revolutionise how we think about software development!
+Take a look at my Agile and Scrum courses, and together, let's revolutionise how we think about [software development]({{< ref "/tags/software-development" >}})!

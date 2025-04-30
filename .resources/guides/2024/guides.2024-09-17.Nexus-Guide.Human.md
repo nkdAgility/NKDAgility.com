@@ -39,9 +39,11 @@ card:
   title: Nexus Guide
 categories:
 - Scrum
+- Product Development
 tags:
 - Professional Scrum
 - Agile Frameworks
+- Scaling
 - Software Development
 - Increment
 - Product Delivery
@@ -59,16 +61,15 @@ tags:
 - Team Collaboration
 - Team Performance
 - Cross Functional Teams
-- Product Owner
 
 ---
-The Definitive Guide to Scaling Scrum with Nexus
+The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus
 
 January 2021
 
 # Purpose of the Nexus Guide
 
-Product delivery is complex, and the integration of product development work into a valuable product requires coordinating many diverse activities. Nexus is a framework for developing and sustaining scaled product delivery initiatives. It builds upon Scrum, extending it only where absolutely necessary to minimize and manage dependencies between multiple Scrum Teams while promoting empiricism and the Scrum Values.
+[Product delivery]({{< ref "/tags/product-delivery" >}}) is complex, and the integration of [product development]({{< ref "/categories/product-development" >}}) work into a valuable product requires coordinating many diverse activities. Nexus is a framework for developing and sustaining scaled product delivery initiatives. It builds upon Scrum, extending it only where absolutely necessary to minimize and manage dependencies between multiple Scrum Teams while promoting empiricism and the [Scrum Values]({{< ref "/tags/scrum-values" >}}).
 
 The Nexus framework inherits the purpose and intent of the Scrum framework as documented in the [Scrum Guide](../_guides/scrum-guide.md) Scaled Scrum is still Scrum. Nexus does not change the core design or ideas of Scrum, or leave out elements, or negate the rules of Scrum. Doing so covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
 
@@ -80,15 +81,15 @@ As organizations use Nexus, they typically discover complementary patterns, proc
 
 # Nexus Definition
 
-A Nexus is a group of approximately three to nine Scrum Teams that work together to deliver a single product; it is a connection between people and things. A Nexus has a single Product Owner who manages a single Product Backlog from which the Scrum Teams work.
+A Nexus is a group of approximately three to nine Scrum Teams that work together to deliver a single product; it is a connection between people and things. A Nexus has a single [Product Owner]({{< ref "/tags/product-owner" >}}) who manages a single [Product Backlog]({{< ref "/tags/product-backlog" >}}) from which the Scrum Teams work.
 
-The Nexus framework defines the accountabilities, events, and artifacts that bind and weave together the work of the Scrum Teams in a Nexus. Nexus builds upon Scrum's foundation, and its parts will be familiar to those who have used Scrum. It minimally extends the Scrum framework only where absolutely necessary to enable multiple teams to work from a single Product Backlog to build an Integrated Increment that meets a goal.
+The Nexus framework defines the accountabilities, events, and artifacts that bind and weave together the work of the Scrum Teams in a Nexus. Nexus builds upon Scrum's foundation, and its parts will be familiar to those who have used Scrum. It minimally extends the Scrum framework only where absolutely necessary to enable multiple teams to work from a single Product Backlog to build an Integrated [Increment]({{< ref "/tags/increment" >}}) that meets a goal.
 
 # Nexus Theory
 
 At its heart, Nexus seeks to preserve and enhance Scrum's foundational bottom-up intelligence and empiricism while enabling a group of Scrum Teams to deliver more value than can be achieved by a single team. The goal of Nexus is to scale the value that a group of Scrum Teams, working on a single product, is able to deliver. It does this by reducing the complexity that those teams encounter as they collaborate to deliver an integrated, valuable, useful product Increment at least once every Sprint.
 
-The Nexus Framework helps teams solve common scaling challenges like reducing cross-team dependencies, preserving team self-management and transparency, and ensuring accountability. Nexus helps to make transparent dependencies. These dependencies are often caused by mismatches related to:
+The Nexus Framework helps teams solve common scaling challenges like reducing cross-team dependencies, preserving team self-management and [transparency]({{< ref "/tags/transparency" >}}), and ensuring accountability. Nexus helps to make transparent dependencies. These dependencies are often caused by mismatches related to:
 
 1.  **Product structure:** The degree to which different concerns are independently separated in the product will greatly affect the complexity of creating an integrated product release.
 2.  **Communication structure:** The way that people communicate within and between teams affects their ability to get work done; delays in communication and feedback reduce the flow of work.
@@ -103,7 +104,7 @@ Nexus builds upon Scrum by enhancing the foundational elements of Scrum in ways 
 
 Nexus extends Scrum in the following ways:
 
-- **Accountabilities**: The Nexus Integration Team ensures that the Nexus delivers a valuable, useful Integrated Increment at least once every Sprint. The Nexus Integration Team consists of the Product Owner, a Scrum Master, and Nexus Integration Team Members.
+- **Accountabilities**: The Nexus Integration Team ensures that the Nexus delivers a valuable, useful Integrated Increment at least once every Sprint. The Nexus Integration Team consists of the Product Owner, a [Scrum Master]({{< ref "/tags/scrum-master" >}}), and Nexus Integration Team Members.
 - **Events**: Events are appended to, placed around, or replace regular Scrum events to augment them. As modified, they serve both the overall effort of all Scrum Teams in the Nexus, and each individual team. A Nexus Sprint Goal is the objective for the Sprint.
 - **Artifacts**: All Scrum Teams use the same, single Product Backlog. As the Product Backlog items are refined and made ready, indicators of which team will most likely do the work inside a Sprint are made transparent. A Nexus Sprint Backlog exists to assist with transparency during the Sprint. The Integrated Increment represents the current sum of all integrated work completed by a Nexus.
 
@@ -111,7 +112,7 @@ Figure 1: The Nexus Framework
 
 # Accountabilities in Nexus
 
-A Nexus consists of Scrum Teams that work together toward a Product Goal. The Scrum framework defines three specific sets of accountabilities within a Scrum Team: the Developers, the Product Owner, and the Scrum Master. These accountabilities are prescribed in the Scrum Guide. In Nexus, an additional accountability is introduced, the Nexus Integration Team.
+A Nexus consists of Scrum Teams that work together toward a Product Goal. The Scrum framework defines three specific sets of accountabilities within a [Scrum Team]({{< ref "/tags/scrum-team" >}}): the Developers, the Product Owner, and the Scrum Master. These accountabilities are prescribed in the Scrum Guide. In Nexus, an additional accountability is introduced, the Nexus Integration Team.
 
 ## Nexus Integration Team 
 
@@ -119,13 +120,13 @@ The Nexus Integration Team is accountable for ensuring that a done Integrated In
 
 While Scrum Teams address integration issues within the Nexus, the Nexus Integration Team provides a focal point of integration for the Nexus. Integration includes addressing technical and non-technical cross-functional team constraints that may impede a Nexus' ability to deliver a constantly Integrated Increment. It should use bottom-up intelligence from within the Nexus to achieve resolution.
 
-The Product Owner, a Scrum Master, and the appropriate members from the Scrum Teams belong to the Nexus Integration Team. Appropriate members are the people with the necessary skills and knowledge to help resolve the issues the Nexus faces at any point in time. Composition of the Nexus Integration Team may change over time to reflect the current needs of a Nexus. Common activities the Nexus Integration Team might perform include coaching, consulting, and highlighting awareness of dependencies and cross-team issues.
+The Product Owner, a Scrum Master, and the appropriate members from the Scrum Teams belong to the Nexus Integration Team. Appropriate members are the people with the necessary skills and knowledge to help resolve the issues the Nexus faces at any point in time. Composition of the Nexus Integration Team may change over time to reflect the current needs of a Nexus. Common activities the Nexus Integration Team might perform include [coaching]({{< ref "/tags/coaching" >}}), consulting, and highlighting awareness of dependencies and cross-team issues.
 
 The Nexus Integration Team consists of:
 
 - **The Product Owner:** A Nexus works off a single Product Backlog, and as described in Scrum, a Product Backlog has a single Product Owner who has the final say on its contents. The Product Owner is accountable for maximizing the value of the product and the work performed and integrated by the Scrum Teams in a Nexus. The Product Owner is also accountable for effective Product Backlog management. How this is done may vary widely across organizations, Nexuses, Scrum Teams, and individuals.
 - **A Scrum Master:** The Scrum Master in the Nexus Integration Team is accountable for ensuring the Nexus framework is understood and enacted as described in the Nexus Guide. This Scrum Master may also be a Scrum Master in one or more of the Scrum Teams in the Nexus.
-- **One or more\*\***Nexus Integration Team Members:\*\* The Nexus Integration Team often consists of Scrum Team members who help the Scrum Teams to adopt tools and practices that contribute to the Scrum Teams' ability to deliver a valuable and useful Integrated Increment that frequently meets the Definition of Done.
+- **One or more\*\***Nexus Integration Team Members:\*\* The Nexus Integration Team often consists of Scrum Team members who help the Scrum Teams to adopt tools and practices that contribute to the Scrum Teams' ability to deliver a valuable and useful Integrated Increment that frequently meets the [Definition of Done]({{< ref "/tags/definition-of-done" >}}).
 
 The Nexus Integration Team is responsible for coaching and guiding the Scrum Teams to acquire, implement, and learn practices and tools that improve their ability to produce a valuable, useful Increment.
 
@@ -167,13 +168,13 @@ The result of Nexus Sprint Planning is:
 - a single Nexus Sprint Backlog that represents the work of the Nexus toward the Nexus Sprint Goal and makes cross-team dependencies transparent
 - A Sprint Backlog for each Scrum Team, which makes transparent the work they will do in support of the Nexus Sprint Goal
 
-## Nexus Daily Scrum
+## Nexus [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
 
 The purpose of the Nexus Daily Scrum is to identify any integration issues and inspect progress toward the Nexus Sprint Goal. Appropriate representatives from the Scrum Teams attend the Nexus Daily Scrum, inspect the current state of the integrated Increment, and identify integration issues and newly discovered cross-team dependencies or impacts. Each Scrum Team's Daily Scrum complements the Nexus Daily Scrum by creating plans for the day, focused primarily on addressing the integration issues raised during the Nexus Daily Scrum.
 
 The Nexus Daily Scrum is not the only time Scrum Teams in the Nexus are allowed to adjust their plan. Cross-team communication can occur throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint's work.
 
-## Nexus Sprint Review
+## Nexus [Sprint Review]({{< ref "/tags/sprint-review" >}})
 
 The Nexus Sprint Review is held at the end of the Sprint to provide feedback on the done Integrated Increment that the Nexus has built over the Sprint and determine future adaptations.
 

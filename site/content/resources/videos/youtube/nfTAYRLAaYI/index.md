@@ -45,7 +45,7 @@ categories:
 - Product Development
 
 ---
-In the fast-paced world of Agile, many teams find themselves searching for frameworks that help them improve efficiency, transparency, and collaboration. One such method that stands out is **Kanban**. Known for its simplicity and effectiveness, Kanban helps teams visualize their work, manage their flow, and continuously improve. In this post, we’ll dive into the three core principles of Kanban and explore how you can implement them to boost your team’s productivity.
+In the fast-paced world of Agile, many teams find themselves searching for frameworks that help them improve efficiency, [transparency]({{< ref "/tags/transparency" >}}), and collaboration. One such method that stands out is **[Kanban]({{< ref "/categories/kanban" >}})**. Known for its simplicity and effectiveness, Kanban helps teams visualize their work, manage their flow, and continuously improve. In this post, we’ll dive into the three core principles of Kanban and explore how you can implement them to boost your team’s productivity.
 
 * * *
 
@@ -109,7 +109,7 @@ From personal experience, I’ve learned that when teams actively manage their w
 
 ## **3\. Improving Your Workflow**
 
-### **The Art of Continuous Improvement** **🔄**
+### **The Art of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})** **🔄**
 
 The third principle of Kanban is to always **improve your workflow**. Kanban is not a static system. You want to continually make changes to how your team works to make things flow better. This is where **continuous improvement** (or Kaizen) comes into play. The goal is to identify areas of inefficiency and tweak the workflow to make things smoother.
 
@@ -127,7 +127,7 @@ In one of my projects, we realized that tasks were constantly stuck in the “In
 
 - Involve the entire team in identifying **areas for improvement**.
 
-- Use **metrics** like cycle time or lead time to measure the impact of your changes.
+- Use **metrics** like [cycle time]({{< ref "/tags/cycle-time" >}}) or [lead time]({{< ref "/tags/lead-time" >}}) to measure the impact of your changes.
 
 * * *
 
@@ -143,7 +143,7 @@ Mastering Kanban is about more than just setting up a board and moving tasks aro
 
 - **Continuously improve** by making small, incremental changes that boost efficiency.
 
-By implementing these core principles, you’ll not only see improvements in your team’s productivity, but you’ll also foster a culture of continuous learning and improvement. 🎉
+By implementing these core principles, you’ll not only see improvements in your team’s productivity, but you’ll also foster a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and improvement. 🎉
 
 * * *
 

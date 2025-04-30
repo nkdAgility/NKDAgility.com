@@ -44,7 +44,7 @@ I think the most common mistake made by a **rookie agile consultant** is the bel
 
 A belief that these practices and processes will solve any problems you may encounter.
 
-**Scrum** is a great tool, but it is only a tool and not a solution in and of itself.
+**[Scrum]({{< ref "/categories/scrum" >}})** is a great tool, but it is only a tool and not a solution in and of itself.
 
 - People must want to use scrum; it can’t be imposed on them for it to succeed.
 
@@ -68,7 +68,7 @@ Getting caught up in dogma and insisting people follow scrum by rote rather than
 
 - What are the goals and objectives for the organization?
 
-- What are the goals and objectives for the product development team?
+- What are the goals and objectives for the [product development]({{< ref "/categories/product-development" >}}) team?
 
 - Why are both entities failing to meet those goals and objectives?
 
@@ -94,7 +94,7 @@ So, going through the motions achieves very little, and that is what I see most 
 
 A rookie agile consultant can walk you down the path and insist that you do everything the way the scrum guide tells you to, but a seasoned, skilled agile coach will coach and mentor you through each iteration and empower the team to improve in significant ways.
 
-It’s the difference between the little league coach walking under 9’s through the rules of the game versus Pep Guardiola coaching a professional, elite football team to success in every competition they enter.
+It’s the difference between the little league coach walking under 9’s through the rules of the game versus Pep Guardiola [coaching]({{< ref "/tags/coaching" >}}) a professional, elite football team to success in every competition they enter.
 
 Those are the two most common mistakes I witness with rookie agile consultants.
 

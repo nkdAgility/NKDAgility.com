@@ -51,9 +51,9 @@ categories:
 - Scrum
 
 ---
-# Tailoring Scrum to Scale: Building Your Own Framework for Success
+# Tailoring [Scrum]({{< ref "/categories/scrum" >}}) to Scale: Building Your Own Framework for Success
 
-Scaling Scrum within an organization presents unique challenges and opportunities. While there is no one-size-fits-all course that teaches you how to scale Scrum, there are courses available that equip you with the tools and techniques necessary to create a scaling framework tailored to your organization's needs. This approach ensures that the framework you develop is perfectly suited to your organization’s context, products, and teams.
+[Scaling]({{< ref "/tags/scaling" >}}) Scrum within an organization presents unique challenges and opportunities. While there is no one-size-fits-all course that teaches you how to scale Scrum, there are courses available that equip you with the tools and techniques necessary to create a scaling framework tailored to your organization's needs. This approach ensures that the framework you develop is perfectly suited to your organization’s context, products, and teams.
 
 ## Understanding Scaling in Scrum
 
@@ -79,13 +79,13 @@ Creating a scaling framework that fits your organization like a glove involves u
 
 1. **Assess Your Current State:** Understand the specific challenges and opportunities within your organization that scaling needs to address.
 
-3. **Educate and Equip Your Teams:** Utilize courses like the Scaled Professional Scrum (SPS) from Scrum.org to familiarize your teams with scaling concepts and the foundational tools necessary for building your framework.
+3. **Educate and Equip Your Teams:** Utilize courses like the Scaled [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (SPS) from Scrum.org to familiarize your teams with scaling concepts and the foundational tools necessary for building your framework.
 
 5. **Identify Key Practices:** From the array of practices discussed in such courses, choose those most relevant to your context. While not all 50 practices might be applicable, selecting those that address your core challenges is crucial.
 
 7. **Iterate and Adapt:** Implement the chosen practices and closely monitor their impact. Be prepared to adapt and iterate on your framework based on real-world feedback and evolving organizational needs.
 
-9. **Focus on Culture and Mindset:** Scaling successfully requires not just structural changes but also a shift in culture and mindset across the organization. Emphasize collaboration, transparency, and a continuous improvement mindset.
+9. **Focus on Culture and Mindset:** Scaling successfully requires not just structural changes but also a shift in culture and mindset across the organization. Emphasize collaboration, [transparency]({{< ref "/tags/transparency" >}}), and a [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) mindset.
 
 ## Conclusion: A Customized Approach to Scaling
 

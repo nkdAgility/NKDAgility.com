@@ -123,7 +123,7 @@ The Agile Manifesto didn’t lay down strict rules. Instead, it suggested a new 
 
 The intent was to create an environment where teams could thrive, build valuable products, and adapt quickly to change. However, there was an underlying assumption that has since proven problematic.
 
-## **The Competence Gap in Agile Roles**
+## **The [Competence]({{< ref "/tags/competence" >}}) Gap in Agile Roles**
 
 When the Agile movement took off, it assumed a certain level of **craftsmanship** and **competence** from its participants. But the demand for skilled engineers, product managers, and leaders who understood Agile far exceeded the supply. Even today, this **competence gap** remains.
 
@@ -131,15 +131,15 @@ When the Agile movement took off, it assumed a certain level of **craftsmanship*
 
 - **Engineering**: It’s not just about writing code; it’s about delivering value.
 
-- **Product Management**: Understanding user needs and translating them into valuable features.
+- **[Product Management]({{< ref "/categories/product-management" >}})**: Understanding user needs and translating them into valuable features.
 
-- **Leadership**: Guiding teams through uncertainty, focusing on outcomes over outputs.
+- **[Leadership]({{< ref "/categories/leadership" >}})**: Guiding teams through uncertainty, focusing on outcomes over outputs.
 
 When I entered the workforce in 2001, there was a rush to fill these roles, but the focus wasn't on **quality**. As a result, many organizations hired people who didn’t fully grasp what Agile was supposed to achieve. The outcome? A watered-down version of Agile that didn’t live up to its potential.
 
 ## **The Competence Crisis: A Struggle for Value**
 
-Today, many organizations are facing a **competence crisis**. They’ve invested in Agile practices, hired Scrum Masters and coaches, but they aren’t seeing the **return on investment** they expected.
+Today, many organizations are facing a **competence crisis**. They’ve invested in Agile practices, hired [Scrum]({{< ref "/categories/scrum" >}}) Masters and coaches, but they aren’t seeing the **return on investment** they expected.
 
 ### **The Symptoms of the Competence Crisis**
 
@@ -147,9 +147,9 @@ Today, many organizations are facing a **competence crisis**. They’ve invested
 
 - **Lack of leadership skills**: Many leaders in Agile roles don’t understand how to guide teams through complexity.
 
-- **Misaligned expectations**: Organizations expect immediate results, but Agile requires patience and continuous improvement.
+- **Misaligned expectations**: Organizations expect immediate results, but Agile requires patience and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-This gap between expectation and reality is forcing many companies to rethink their Agile journey. They’re starting to see that **competence** is the missing ingredient, and without it, their Agile transformation is likely to fail.
+This gap between expectation and reality is forcing many companies to rethink their Agile journey. They’re starting to see that **competence** is the missing ingredient, and without it, their [Agile transformation]({{< ref "/tags/agile-transformation" >}}) is likely to fail.
 
 ## **The Commercialization of Agile: A Reset is Coming**
 
@@ -169,7 +169,7 @@ Agile isn’t just about ceremonies and rituals. It’s about creating environme
 
 Agile isn’t new, but our understanding of it continues to evolve. As we move forward, it’s critical that we focus on the **competence** of those driving Agile transformations. Here’s my advice for anyone on this journey:
 
-- **Invest in continuous learning**: Whether you’re a Scrum Master, engineer, or product manager, keep building your skills.
+- **Invest in [continuous learning]({{< ref "/tags/continuous-learning" >}})**: Whether you’re a [Scrum Master]({{< ref "/tags/scrum-master" >}}), engineer, or product manager, keep building your skills.
 
 - **Embrace feedback**: The best Agile practitioners are those who listen, adapt, and improve.
 

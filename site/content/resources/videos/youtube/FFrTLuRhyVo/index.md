@@ -46,7 +46,7 @@ categories:
 - Product Development
 
 ---
-Technical debt is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.
+[Technical debt]({{< ref "/tags/technical-debt" >}}) is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.
 
 ### The Real Cost of Technical Debt
 
@@ -61,7 +61,7 @@ When I reflect on my experiences in various teams, I see a common theme: the str
 So, how do we combat this? The answer lies in fostering a culture that prioritises the delivery of a high-quality, usable product on a regular cadence. This approach is not merely a best practice; it’s a superpower for both teams and organisations. Here’s why:
 
 - **Enhanced Agility**: When we focus on maintaining a high-quality product, we can respond to changes and new opportunities more swiftly. This agility allows us to pivot and adapt, ensuring we’re always aligned with market demands.
-- **Increased Value Delivery**: A usable product means we can deliver value consistently. This regular cadence of delivery not only satisfies customers but also builds trust with stakeholders, as they see tangible results from our efforts.
+- **Increased [Value Delivery]({{< ref "/tags/value-delivery" >}})**: A usable product means we can deliver value consistently. This regular cadence of delivery not only satisfies customers but also builds trust with stakeholders, as they see tangible results from our efforts.
 - **Encouraging Innovation**: With a solid foundation, teams are empowered to explore new ideas and innovations without the fear of being hindered by technical debt. This freedom can lead to breakthroughs that drive the organisation forward.
 
 ### Taking Action
@@ -70,7 +70,7 @@ To truly harness the power of a high-quality product, we must take proactive ste
 
 1. **Regularly Assess Technical Debt**: Make it a habit to evaluate the state of your technical debt. This can be done through retrospectives or dedicated sessions focused on identifying areas for improvement.
    
-2. **Prioritise Refactoring**: Allocate time in your sprints for refactoring and addressing technical debt. This ensures that it doesn’t accumulate unchecked and allows for continuous improvement.
+2. **Prioritise Refactoring**: Allocate time in your sprints for refactoring and addressing technical debt. This ensures that it doesn’t accumulate unchecked and allows for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 3. **Foster a Culture of Quality**: Encourage your team to take ownership of the quality of their work. This can be achieved through training, mentorship, and creating an environment where quality is valued over speed.
 

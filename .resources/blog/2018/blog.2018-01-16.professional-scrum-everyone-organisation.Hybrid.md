@@ -54,20 +54,20 @@ categories:
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---
-Recently I worked with a new customer in Denver to help them move towards a greater degree of Scrum in their software development. The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.
+Recently I worked with a new customer in Denver to help them move towards a greater degree of [Scrum]({{< ref "/categories/scrum" >}}) in their [software development]({{< ref "/tags/software-development" >}}). The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.
 
 Healthgrades have been doing Scrum for about 8 years but has recognised that they are struggling to [organise around the delivery of working software](https://nkdagility.com/professional-scrum-teams-build-software-works/). Like every other company, once you have something as complex as software to work on, and knowledge workers to do it, [the old management styles of the 20th century](https://nkdagility.com/professional-organisational-change-ghana-police-service/) are just like pouring water on a fat fire…
 
 ![image](images/image-1-1.png "image")
 { .post-img }
 
-This is a common problem that I train Scrum Masters to respond to in the [Professional Scrum Master (PSM)](https://nkdagility.com/training/courses/professional-scrum-foundations/) class, but the fundamental understanding of why this is wrong takes both practical and theoretical knowledge grounded in actual experience. This is why the Professional Scrum Foundation (PSF) class [requires that students work in teams to build working software](https://nkdagility.com/professional-scrum-training-ghana-police-service/).
+This is a common problem that I train Scrum Masters to respond to in the [Professional Scrum Master (PSM)](https://nkdagility.com/training/courses/professional-scrum-foundations/) class, but the fundamental understanding of why this is wrong takes both practical and theoretical knowledge grounded in actual experience. This is why the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundation (PSF) class [requires that students work in teams to build working software](https://nkdagility.com/professional-scrum-training-ghana-police-service/).
 
 The real struggle of implementing agile is that of the [old ways, Taylorism, the illusion of command and control, and the belief in magic](https://nkdagility.com/professional-organisational-change-ghana-police-service/).
 
 ## Professional Scrum is for everyone in your organisation
 
-Armed with previous experience with Scrum.org, the [PSF](https://nkdagility.com/training/courses/professional-scrum-foundations/) class, and me; the CIO, CJ Singh, asked me to come along and train as many people as we could in the time that we had available. Turns out that looked like 147 people from the engineering department, and my did we had a lot of fun. While they have been constantly moving towards a greater degree of value delivery there were a lot of misconceptions built up about Scrum over the last 8 years… those misconceptions were creating a glass ceiling and inhibiting the flow of value to the business.
+Armed with previous experience with Scrum.org, the [PSF](https://nkdagility.com/training/courses/professional-scrum-foundations/) class, and me; the CIO, CJ Singh, asked me to come along and train as many people as we could in the time that we had available. Turns out that looked like 147 people from the engineering department, and my did we had a lot of fun. While they have been constantly moving towards a greater degree of [value delivery]({{< ref "/tags/value-delivery" >}}) there were a lot of misconceptions built up about Scrum over the last 8 years… those misconceptions were creating a glass ceiling and inhibiting the flow of value to the business.
 
 https://youtu.be/Fm24oKNN--w
 
@@ -89,7 +89,7 @@ As with all courses where one trains everyone there are usually many dissenters.
 
 ## Creating a bounded environment for change
 
-So many teams I work with across the world forget, or never knew in the first place, why we have things in Scrum. They forget that we need the transparency of the past provided by the Increment of Working Software. They forget that without the Product Backlog we get no transparency on what we are doing next, and without the Sprint Backlog, we have no visibility into what we are doing now. They forget that without that transparency there can be no meaningful inspection of what is going on at each of the Events and no meaningful change to the way that things happen.
+So many teams I work with across the world forget, or never knew in the first place, why we have things in Scrum. They forget that we need the [transparency]({{< ref "/tags/transparency" >}}) of the past provided by the [Increment]({{< ref "/tags/increment" >}}) of [Working Software]({{< ref "/tags/working-software" >}}). They forget that without the [Product Backlog]({{< ref "/tags/product-backlog" >}}) we get no transparency on what we are doing next, and without the Sprint Backlog, we have no visibility into what we are doing now. They forget that without that transparency there can be no meaningful inspection of what is going on at each of the Events and no meaningful change to the way that things happen.
 
 https://youtu.be/XMLdLH6f4N8
 
@@ -103,7 +103,7 @@ Each instance of the PSF class I learned new things about the organisation, its 
 
 **Healthgrades now has 147 people are the pioneers, evangelists, and change agents that now feel empowered to make meaningful change.**
 
-One of the outcomes of the Professional Scrum Foundations, along with the new knowledge and excitement, is an organisational change backlog. One that has been created by those that are doing the work and understand the constraints and challenges of the work. The hope is that management then uses the [Agility Guide for Evidence-based Management](https://www.scrum.org/resources/agility-guide-evidence-based-change) to facilitate changes in the organisation to get rid of those pesky impediments to value delivery that are out with the control of the teams.
+One of the outcomes of the Professional Scrum Foundations, along with the new knowledge and excitement, is an [organisational change]({{< ref "/tags/organisational-change" >}}) backlog. One that has been created by those that are doing the work and understand the constraints and challenges of the work. The hope is that management then uses the [Agility Guide for Evidence-based Management](https://www.scrum.org/resources/agility-guide-evidence-based-change) to facilitate changes in the organisation to get rid of those pesky impediments to value delivery that are out with the control of the teams.
 
 **Healthgrades now has a Backlog of things that need to change in order to facilitate meaningful change.**
 

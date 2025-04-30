@@ -8,7 +8,7 @@
 
 
 $levelSwitch.MinimumLevel = 'Information'
-
+$ResourceCatalogue = @{}
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
@@ -123,14 +123,27 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource'
         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource'
     }
+
+    $slug = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-' -replace '-{2,}', '-').Trim('-').ToLower()
+    $hugoSlugSimulation = ($hugoMarkdown.FrontMatter.title -replace '[^A-Za-z0-9._~]+', '-' -replace '-{2,}', '-' ).Trim('-').ToLower()
+    If ($hugoSlugSimulation -ne $slug) {
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $slug  -addAfter 'date'
+    }   
     # =================Add aliases===================
     $aliases = @()
+   
     switch ($ResourceType) {
         "blog" { 
+            If ($hugoSlugSimulation -ne $slug) {
+                $aliases += "/resources/blog/$hugoSlugSimulation"
+            }
         }
         "podcast" { 
         }
         "videos" { 
+            If ($hugoSlugSimulation -ne $slug) {
+                $aliases += "/resources/videos/$hugoSlugSimulation"
+            }
         }
     }
     # Always add the ResourceId as an alias
@@ -150,19 +163,6 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $aliasesArchive += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
     switch ($ResourceType) {
         "blog" { 
-            if ($hugoMarkdown.FrontMatter.Contains("slug")) {
-                $slug = $hugoMarkdown.FrontMatter.slug
-                $aliasesArchive += "/$slug"
-                $aliasesArchive += "/blog/$slug"
-            }
-            if ($hugoMarkdown.FrontMatter.Contains("title")) {
-                $slug = $hugoMarkdown.FrontMatter.slug
-                $urlSafeTitle = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-').ToLower()
-                if ($urlSafeTitle -ne $slug) {
-                    $aliasesArchive += "/$urlSafeTitle"
-                    $aliasesArchive += "/blog/$urlSafeTitle"
-                }           
-            }
         }
         "podcast" { 
                 

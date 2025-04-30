@@ -63,13 +63,13 @@ In the Agile world, Sprint reviews are pivotal events where feedback can be a go
 
 What happens when this feedback is not just critical but harsh or non-existent?  
 
-How should Agile teams, especially Product Owners and Scrum Masters, navigate this challenging terrain? 
+How should Agile teams, especially Product Owners and [Scrum]({{< ref "/categories/scrum" >}}) Masters, navigate this challenging terrain? 
 
 In this post, we'll delve into understanding and managing harsh feedback during Sprint reviews.   
 
 ## Understanding the Gravity of Feedback 🤔 
 
-When your Sprint review brings in harsh or scathing feedback, or worse, a deafening silence, it's a red flag that needs immediate attention. But, as John says, this isn't the time to retreat – it's an opportunity for introspection and action. 
+When your [Sprint review]({{< ref "/tags/sprint-review" >}}) brings in harsh or scathing feedback, or worse, a deafening silence, it's a red flag that needs immediate attention. But, as John says, this isn't the time to retreat – it's an opportunity for introspection and action. 
 
 Key points to ponder: 
 
@@ -125,6 +125,6 @@ Takeaways 
 
 - 🗣️ **Engage Stakeholders:** Make your reviews more engaging and relevant. 
 
-Agile practices like Sprint reviews are about more than just ticking boxes; they're about creating a dynamic, responsive environment for product development.  
+Agile practices like Sprint reviews are about more than just ticking boxes; they're about creating a dynamic, responsive environment for [product development]({{< ref "/categories/product-development" >}}).  
 
 So, take that harsh feedback and turn it into your most valuable asset! 🚀

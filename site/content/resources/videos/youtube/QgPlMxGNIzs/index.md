@@ -54,9 +54,9 @@ I think **agile** has been evolving steadily, although not always in the way we 
 
 ## Hierarchy
 
-One of the central ideas expressed in the agile manifesto, and reinforced through the **agile values and principles**, is a shift from the traditional top-down management structures to a decentralized environment where decision-making is pushed down to the experts doing the work.
+One of the central ideas expressed in the agile manifesto, and reinforced through the **[agile values and principles]({{< ref "/tags/agile-values-and-principles" >}})**, is a shift from the traditional top-down management structures to a decentralized environment where decision-making is pushed down to the experts doing the work.
 
-Sure, **leadership** and **executive teams** are best positioned to make decisions around strategy, the future of the organization, and the vision for the product, but we want the people who have the most skill, experience, and expertise about how things should be done to make the decisions about how something should be done.
+Sure, **[leadership]({{< ref "/categories/leadership" >}})** and **executive teams** are best positioned to make decisions around strategy, the future of the organization, and the vision for the product, but we want the people who have the most skill, experience, and expertise about how things should be done to make the decisions about how something should be done.
 
 The thinking is that those who are closest to the market and customers, can make decisions that empower us, as an organization, to adapt and respond most effectively.
 
@@ -70,9 +70,9 @@ Many teams, although they have adopted agile, played no role in that decision, n
 
 ## Agile 2.0
 
-We are seeing movement in the transition from traditional management to agile leadership.
+We are seeing movement in the transition from traditional management to [agile leadership]({{< ref "/tags/agile-leadership" >}}).
 
-I think this is the next area that we will see massive leaps of progress. Organizations are beginning to understand that a team doing scrum is not the same as developing agile capability throughout the organization.
+I think this is the next area that we will see massive leaps of progress. Organizations are beginning to understand that a team doing [scrum]({{< ref "/categories/scrum" >}}) is not the same as developing agile capability throughout the organization.
 
 It needs more than a single team. It requires leadership, suppliers, partners, and execution teams to develop agile capabilities and demonstrate agile behaviours.
 

@@ -44,11 +44,11 @@ categories:
 - Product Management
 
 ---
-Product Discovery is a term that's often used in the world of product development, but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.
+[Product Discovery]({{< ref "/tags/product-discovery" >}}) is a term that's often used in the world of [product development]({{< ref "/categories/product-development" >}}), but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.
 
 ## **What is Product Discovery?**
 
-Product Discovery encompasses all the work involved in planning for the future of your product. It's about identifying what you need to do to make your product better, more valuable, and more appealing to your users. While it might seem similar to what we've always done, Product Discovery adds a layer of intentionality and scope that goes beyond traditional methods like Scrum's refinement.
+Product Discovery encompasses all the work involved in planning for the future of your product. It's about identifying what you need to do to make your product better, more valuable, and more appealing to your users. While it might seem similar to what we've always done, Product Discovery adds a layer of intentionality and scope that goes beyond traditional methods like [Scrum]({{< ref "/categories/scrum" >}})'s refinement.
 
 ### **The Dual Nature of Product Discovery**
 
@@ -68,13 +68,13 @@ So why is Product Discovery so important? Simply put, it’s about maximizing th
 
 Every successful product starts with a clear vision and goals. Product Discovery helps you define what you’re trying to achieve as a business and how your product fits into that vision. It’s about setting a direction and then figuring out the steps you need to take to get there.
 
-- **Example**: Think of the Azure DevOps team at Microsoft. At one point, they had over 90 teams working on a single product. To keep everything aligned, they set a high-level strategic direction. Each level of the organization then engaged in its own discovery process to figure out how to contribute to that overarching goal.
+- **Example**: Think of the Azure [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft. At one point, they had over 90 teams working on a single product. To keep everything aligned, they set a high-level strategic direction. Each level of the organization then engaged in its own discovery process to figure out how to contribute to that overarching goal.
 
 ### **The Scale of Product Discovery**
 
 The scale of Product Discovery can vary depending on the size and complexity of your organization. For a small team, it might be a relatively straightforward process. But for a large organization, Product Discovery can be a massive undertaking, involving multiple teams and layers of decision-making.
 
-- **Portfolio-Level Discovery**: At a high level, organizations need to define their value propositions, set strategic goals, and decide on the initiatives that will drive progress toward those goals. This might involve market research, competitive analysis, and long-term planning.
+- **Portfolio-Level Discovery**: At a high level, organizations need to define their value propositions, set [strategic goals]({{< ref "/tags/strategic-goals" >}}), and decide on the initiatives that will drive progress toward those goals. This might involve market research, competitive analysis, and long-term planning.
 
 - **Team-Level Discovery**: Each team within the organization then takes those high-level goals and translates them into actionable plans. This involves figuring out what features to build, what user needs to address, and how to measure success.
 
@@ -82,7 +82,7 @@ The scale of Product Discovery can vary depending on the size and complexity of 
 
 Let’s take a look at some real-world examples to see how Product Discovery works in practice.
 
-### **The Azure DevOps Example**
+### **The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Example**
 
 As mentioned earlier, the Azure DevOps team at Microsoft had to manage a massive product with multiple teams contributing to its development. They set a strategic direction at the portfolio level, and then each team engaged in discovery to figure out how to move the needle on their specific goals.
 
@@ -90,7 +90,7 @@ As mentioned earlier, the Azure DevOps team at Microsoft had to manage a massive
 
 ### **The Microsoft Creators Update**
 
-Another great example is Microsoft’s approach to product updates. They follow a season-based model, planning their product goals in six-month increments. One of their major initiatives was the Creators Update, aimed at increasing market share among creative professionals like artists, writers, and musicians.
+Another great example is Microsoft’s approach to product updates. They follow a season-based model, planning their product goals in six-month increments. One of their major initiatives was the Creators Update, aimed at increasing [market share]({{< ref "/tags/market-share" >}}) among creative professionals like artists, writers, and musicians.
 
 - **How They Did It**: Microsoft focused on enhancing tools and features that would appeal to creators. For example, they increased the pressure levels of their digital pens from 255 to 1024, improving the experience for artists using their devices. This required coordination across multiple teams, from hardware to software, all working together towards a common goal.
 

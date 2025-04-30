@@ -22,12 +22,14 @@ aliases:
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/z18IcQhlD7I
 - /resources/blog/getting-started-definition-done-dod
+- /resources/blog/getting-started-with-a-definition-of-done-dod
 aliasesArchive:
 - /blog/getting-started-definition-done-dod
 - /getting-started-definition-done-dod
 - /getting-started-with-a-definition-of-done-(dod)
 - /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/blog/getting-started-definition-done-dod
+- /resources/blog/getting-started-with-a-definition-of-done-dod
 tags:
 - Working Software
 - Definition of Done
@@ -55,24 +57,24 @@ categories:
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
 
 ---
-In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a Definition of Done (DoD).
+In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD).
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/blog/update-scrum-guide-25th-anniversary-scrum-framework/)
 
 ## TL;DR;
 
-Your [Developers](/the-2020-scrum-guide/#developers) are ultimately responsible for creating done increments of working software. Done Increments. **Done**.
+Your [Developers](/the-2020-scrum-guide/#developers) are ultimately responsible for creating done increments of [working software]({{< ref "/tags/working-software" >}}). Done Increments. **Done**.
 
 ![](images/naked-Agility-Scrum-Framework-Definition-of-Done-920x720-1-2.jpg)
 { .post-img }
 
-[Developers](/the-2020-scrum-guide/#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. Working Software is not specific to a PBI; it's applied regardless of PBI to the entire delivery. Not just for each PBI.
+[Developers](/the-2020-scrum-guide/#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every [Increment]({{< ref "/tags/increment" >}}) of software that they deliver. Working Software is not specific to a PBI; it's applied regardless of PBI to the entire delivery. Not just for each PBI.
 
-> "The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration."
+> "The Definition of Done creates [transparency]({{< ref "/tags/transparency" >}}) by providing everyone a shared understanding of what work was completed as part of the Increment. If a [Product Backlog]({{< ref "/tags/product-backlog" >}}) item does not meet the Definition of Done, it cannot be released or even presented at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). Instead, it returns to the Product Backlog for future consideration."
 >
 > \-[The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)
 
-If you can't ship working software at least every 30 days then by its very definition, you are not yet doing Scrum. Since [Professional Scrum Teams build software that works](/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by "working" continuously, and at least on a regular cadence.
+If you can't ship working software at least every 30 days then by its very definition, you are not yet doing [Scrum]({{< ref "/categories/scrum" >}}). Since [Professional Scrum Teams build software that works](/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by "working" continuously, and at least on a regular cadence.
 
 ## What is a Definition of Done (DoD)
 

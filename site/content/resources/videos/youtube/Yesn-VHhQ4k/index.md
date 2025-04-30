@@ -90,7 +90,7 @@ The code that solved the previous problem won’t work on the next one; we desig
 
 **It is continuous complex work.**
 
-In this scenario, we can use the framework and empirical process control as a guide to creating the solution or solving the complex problem, but we can’t create a production line for the complete work.
+In this scenario, we can use the framework and [empirical process control]({{< ref "/tags/empirical-process-control" >}}) as a guide to creating the solution or solving the complex problem, but we can’t create a production line for the complete work.
 
 There are no best practices; there are only emergent practices.
 
@@ -98,11 +98,11 @@ We start with the best thing we can do right now, using what we have learned up 
 
 It’s a world of surprises.
 
-Some of these are pleasant surprises that help us evolve, and others are nasty surprises where we discover that what we are doing isn’t working, nor will it work in the future. We must return to the drawing board and pursue a new line of reasoning, experimentation, and discovery.
+Some of these are pleasant surprises that help us evolve, and others are nasty surprises where we discover that what we are doing isn’t working, nor will it work in the future. We must return to the drawing board and pursue a new line of reasoning, [experimentation]({{< ref "/tags/experimentation" >}}), and discovery.
 
 ## Values and Principles
 
-In this world, values guide how we do the work. A great example of that are scrum values.
+In this world, values guide how we do the work. A great example of that are [scrum]({{< ref "/categories/scrum" >}}) values.
 
 1. Commitment
 

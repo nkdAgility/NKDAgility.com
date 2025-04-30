@@ -48,9 +48,9 @@ resourceTypes:
 categories: []
 
 ---
-**1 critical skill for a Scrum Master and why?**
+**1 critical skill for a [Scrum]({{< ref "/categories/scrum" >}}) Master and why?**
 
-When you think of the role of a Scrum Master, I bet teaching isn't the first thing that comes to mind. Most view Scrum Masters as facilitators, project managers, or even referees. 
+When you think of the role of a [Scrum Master]({{< ref "/tags/scrum-master" >}}), I bet teaching isn't the first thing that comes to mind. Most view Scrum Masters as facilitators, project managers, or even referees. 
 
 But when you dig a little deeper, you may be a little surprised to find one keyword that pops up more often than most - teaching. And it's not just your garden-variety, read-from-a-textbook kind of teaching. No, it's the kind of teaching that lights up ideas💡 in people's minds, paving the way for deep understanding and impactful change.
 
@@ -72,7 +72,7 @@ As a Scrum Master:
 
 ✔️ Teaching the 'why' behind Scrum principles fuels engagement and motivation.
 
-✔️ Once team members understand the value of Agile Transformation, they become more open to change and often drive that change themselves.
+✔️ Once team members understand the value of [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), they become more open to change and often drive that change themselves.
 
 In summary, understanding the why is vital, and it's through effective teaching, as a Scrum Master, that I can help teams embrace Agile.
 

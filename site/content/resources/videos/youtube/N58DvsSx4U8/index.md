@@ -41,9 +41,9 @@ categories:
 - DevOps
 
 ---
-## A Journey to DevOps Success
+## A Journey to [DevOps]({{< ref "/categories/devops" >}}) Success
 
-I've been asked to share my favourite DevOps consulting outcome, and this question immediately led me straight down memory lane to a unique project that went from chaos to one engineering system with an exceptional client.  🎯
+I've been asked to share my favourite DevOps consulting outcome, and this question immediately led me straight down memory lane to a unique project that went from chaos to [one engineering system]({{< ref "/tags/one-engineering-system" >}}) with an exceptional client.  🎯
 
 So, today, I'll share the story of my favourite experience of one of my most rewarding DevOps outcomes with a long-term client. 
 
@@ -57,7 +57,7 @@ I guess you could call this experience a journey of simplification and unity, an
 
 Our story starts with a software project that began with a complex start and completely fragmented teams.  This particular client was knee-deep in crafting a piece of software that was a multi-billion-dollar product.
 
-With a profit margin running into billions, the leadership's knee-jerk solution to most problems was, "Why not just hire more people?"
+With a profit margin running into billions, the [leadership]({{< ref "/categories/leadership" >}})'s knee-jerk solution to most problems was, "Why not just hire more people?"
 
 But as we all know, this isn't always the most efficient solution.
 
@@ -89,7 +89,7 @@ And boy, did they rise to the occasion!  🚀
 
 ## 5\.  A Unified Front - Triumph Over Fragmentation
 
-Over the course of a marathon of four years, a period they jokingly referred to as a 'company record', we successfully moved everyone onto Azure DevOps.  They now use Team Foundation Version Control, a single source control system.
+Over the course of a marathon of four years, a period they jokingly referred to as a 'company record', we successfully moved everyone onto [Azure DevOps]({{< ref "/tags/azure-devops" >}}).  They now use Team Foundation Version Control, a single source control system.
 
 This was undoubtedly a significant milestone.
 
@@ -125,6 +125,6 @@ This experience of DevOps transformation in action is one that I'm proud to reco
 
 And the beauty of this journey is that all organisations, regardless of size or industry, can embrace this approach, experience its transformative power, and reap the benefits.  🎓
 
-Feeling inspired to embark on your Agile and Scrum journey?
+Feeling inspired to embark on your Agile and [Scrum]({{< ref "/categories/scrum" >}}) journey?
 
 Explore my Agile and Scrum courses, and let's empower your team and revolutionise your organisation's productivity together!

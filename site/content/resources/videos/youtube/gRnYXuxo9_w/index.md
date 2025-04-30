@@ -48,7 +48,7 @@ categories:
 - Scrum
 
 ---
-Openness in Scrum: The Key to Trust and Transparency
+Openness in [Scrum]({{< ref "/categories/scrum" >}}): The Key to Trust and [Transparency]({{< ref "/tags/transparency" >}})
 
 As I reflect on the core values of Scrum, one aspect stands out as particularly vital: openness. You might wonder, what does openness truly mean in the context of Scrum, and why is it so crucial? Let me share my thoughts and experiences on this topic.
 
@@ -64,7 +64,7 @@ So, what does it mean to be open? It involves several key aspects:
 
 - **Clear Communication**: Are we sharing information openly within our teams? It’s essential to discuss what’s happening in the organisation, ensuring everyone understands the context and the decisions being made. 
 
-- **Accessibility of Information**: Is our product backlog easy to find and comprehend? Are our working practices documented and readily available? If team members struggle to access this information, we are not being as open as we should be.
+- **Accessibility of Information**: Is our [product backlog]({{< ref "/tags/product-backlog" >}}) easy to find and comprehend? Are our working practices documented and readily available? If team members struggle to access this information, we are not being as open as we should be.
 
 - **Emotional Openness**: Openness extends beyond just sharing facts; it also encompasses our emotional landscape. Are we expressing our feelings when something bothers us? Are we communicating our concerns or frustrations? This emotional transparency is crucial for fostering a healthy team dynamic.
 
@@ -76,6 +76,6 @@ Openness allows us to engage in meaningful conversations about our processes, ou
 
 ### Conclusion
 
-In conclusion, openness is a cornerstone of the Scrum values that cannot be overlooked. It serves as a bridge to transparency and trust, enabling us to communicate effectively and work collaboratively. As we strive to embody this value, let’s remember that openness is not just about sharing information; it’s about fostering an environment where everyone feels valued and heard.
+In conclusion, openness is a cornerstone of the [Scrum values]({{< ref "/tags/scrum-values" >}}) that cannot be overlooked. It serves as a bridge to transparency and trust, enabling us to communicate effectively and work collaboratively. As we strive to embody this value, let’s remember that openness is not just about sharing information; it’s about fostering an environment where everyone feels valued and heard.
 
-If you found this discussion on openness in Scrum insightful, I encourage you to engage with me. Like, follow, and subscribe for more insights. I always welcome comments and conversations, so if you’d like to chat about this or any other aspect of Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Let’s keep the conversation going!
+If you found this discussion on openness in Scrum insightful, I encourage you to engage with me. Like, follow, and subscribe for more insights. I always welcome comments and conversations, so if you’d like to chat about this or any other aspect of Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Let’s keep the conversation going!

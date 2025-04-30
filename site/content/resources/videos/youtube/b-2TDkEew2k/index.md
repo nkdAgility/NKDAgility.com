@@ -55,7 +55,7 @@ When I think about the various aspects of agile practices, this mantra applies u
 
 - **Team Composition**: How many developers do we need? Again, the answer is just enough and no more. Having too many developers can lead to communication overhead and inefficiencies, while too few can hinder progress. The key is to find the right balance that allows the team to function optimally.
 
-- **Refinement Time**: How much time should we dedicate to backlog refinement? You guessed it—just enough and no more. Spending excessive time on refinement can lead to analysis paralysis, while insufficient time can result in poorly defined user stories. The goal is to strike a balance that keeps the team aligned and ready to deliver.
+- **Refinement Time**: How much time should we dedicate to [backlog refinement]({{< ref "/tags/backlog-refinement" >}})? You guessed it—just enough and no more. Spending excessive time on refinement can lead to analysis paralysis, while insufficient time can result in poorly defined user stories. The goal is to strike a balance that keeps the team aligned and ready to deliver.
 
 - **Upfront Planning**: How much planning should we do before starting a project? Just enough and no more. While planning is essential, over-planning can stifle creativity and adaptability. Agile encourages us to embrace change and be ready to pivot as needed.
 
@@ -71,6 +71,6 @@ One of the core principles of the Agile Manifesto is to maximise the amount of w
 
 ### Conclusion
 
-In my experience, embracing the "just enough and no more" philosophy has transformed the way I approach agile practices. It encourages a mindset of focus, efficiency, and continuous improvement. By applying this principle across various aspects of our work, we can create a more agile environment that fosters collaboration, innovation, and ultimately, success.
+In my experience, embracing the "just enough and no more" philosophy has transformed the way I approach agile practices. It encourages a mindset of focus, efficiency, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). By applying this principle across various aspects of our work, we can create a more agile environment that fosters collaboration, innovation, and ultimately, success.
 
 So, the next time you find yourself grappling with a quantity question, remember Ken's words: "Just enough and no more." It’s a powerful reminder to keep things simple and focused, allowing us to maximise our impact while minimising unnecessary effort.

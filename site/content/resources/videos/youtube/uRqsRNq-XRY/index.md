@@ -83,6 +83,6 @@ To combat the detrimental effects of judgment, it’s crucial to establish clear
 
 ### Conclusion
 
-In my experience, the journey towards a truly agile mindset requires us to be vigilant against the pitfalls of judgment. By setting meaningful goals and adapting our metrics, we can create an environment that promotes collaboration, innovation, and continuous improvement. 
+In my experience, the journey towards a truly agile mindset requires us to be vigilant against the pitfalls of judgment. By setting meaningful goals and adapting our metrics, we can create an environment that promotes collaboration, innovation, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). 
 
 Let’s strive to build Agile teams that are not only productive but also resilient and empowered. After all, agility is about more than just following rules; it’s about fostering a culture where everyone can thrive.

@@ -46,15 +46,15 @@ Before we jump into the questions, I want to remind you that this is an interact
 
 ### What I’ve Been Up To
 
-This week has been particularly busy for me. I conducted my fourth Professional Scrum Foundations class online, engaging with around 20 participants across different time zones. It’s been a tiring but rewarding experience, and I’m thrilled with the discussions we had, especially around the roles, artefacts, and events in Scrum.
+This week has been particularly busy for me. I conducted my fourth Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations class online, engaging with around 20 participants across different time zones. It’s been a tiring but rewarding experience, and I’m thrilled with the discussions we had, especially around the roles, artefacts, and events in Scrum.
 
-One of the key takeaways from our discussions was the idea that productivity often outweighs the sheer number of features delivered. As Satya Nadella has pointed out, focusing on the productivity of your team can lead to greater long-term success. For instance, the Azure DevOps team has transitioned from delivering 25 features a year to nearly 300, all thanks to prioritising productivity over mere feature count.
+One of the key takeaways from our discussions was the idea that productivity often outweighs the sheer number of features delivered. As Satya Nadella has pointed out, focusing on the productivity of your team can lead to greater long-term success. For instance, the Azure [DevOps]({{< ref "/categories/devops" >}}) team has transitioned from delivering 25 features a year to nearly 300, all thanks to prioritising productivity over mere feature count.
 
 ### Addressing Common Questions
 
 Now, let’s delve into the three main questions I want to address today:
 
-1. **Conflating Definition of Done with Acceptance Criteria**
+1. **Conflating [Definition of Done]({{< ref "/tags/definition-of-done" >}}) with Acceptance Criteria**
 2. **Spikes vs. Refinement**
 3. **Handling Ad Hoc Work in Sprints**
 
@@ -64,7 +64,7 @@ A common misconception I encounter is the conflation of the Definition of Done (
 
 - **Definition of Done**: This is a measure of quality that outlines what must be true for a product to be considered complete. It includes aspects like documentation, testing, and performance requirements. Essentially, it’s a checklist that ensures quality across all work items, regardless of their specific features.
 
-- **Acceptance Criteria**: These are specific conditions that a product backlog item must meet to be accepted by the product owner or stakeholders. They focus on the features and behaviours expected from the product.
+- **Acceptance Criteria**: These are specific conditions that a [product backlog]({{< ref "/tags/product-backlog" >}}) item must meet to be accepted by the [product owner]({{< ref "/tags/product-owner" >}}) or stakeholders. They focus on the features and behaviours expected from the product.
 
 To clarify, the DoD is about the minimum quality required for delivery, while acceptance criteria detail what needs to be achieved for a specific item. Both are essential, but they are not interchangeable.
 
@@ -82,7 +82,7 @@ Finally, let’s talk about ad hoc work. Many believe that Scrum cannot accommod
 
 - **Capacity Planning**: It’s crucial to understand your team’s capacity for the sprint. This includes accounting for planned work, business as usual (BAU) tasks, and any unexpected issues that arise. 
 
-- **Transparency**: Be open about how much time is reserved for ad hoc work. For instance, if you allocate 10% of your capacity for unexpected tasks, make sure the team is aware of this. 
+- **[Transparency]({{< ref "/tags/transparency" >}})**: Be open about how much time is reserved for ad hoc work. For instance, if you allocate 10% of your capacity for unexpected tasks, make sure the team is aware of this. 
 
 - **Retrospective Discussions**: Use retrospectives to discuss how to reduce the impact of ad hoc work on your sprint goals. This could involve identifying areas for automation or improving processes to minimise disruptions.
 

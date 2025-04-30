@@ -56,7 +56,7 @@ categories:
 - Product Development
 
 ---
-If you're venturing into the realm of continuous delivery, you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the DevOps framework. 
+If you're venturing into the realm of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the [DevOps]({{< ref "/categories/devops" >}}) framework. 
 
 ### The Real Value of Automation
 
@@ -74,7 +74,7 @@ In my journey, I’ve seen how automation can protect not just the business, but
 
 - **Continuous Everything**: Embracing continuous testing, continuous deployment, and continuous delivery allows for rapid feedback loops. This means that if something goes awry, developers can identify and rectify issues much faster.
 
-### The Azure DevOps Transformation
+### The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Transformation
 
 A prime example of the power of continuous delivery is the transformation witnessed by the Azure DevOps team at Microsoft. They managed to increase their feature delivery from 12 to an astonishing 280 features per year, all while maintaining the same team size. How did they achieve this? 
 
@@ -82,7 +82,7 @@ A prime example of the power of continuous delivery is the transformation witnes
 
 ### Real-World Impact
 
-The implications of continuous delivery extend beyond internal processes. For instance, the Windows team at Microsoft exemplifies the power of rapid deployment. They can move code from development to production in less than 24 hours. This agility allows them to get features in front of users quickly, iterating based on real-world feedback.
+The implications of continuous delivery extend beyond internal processes. For instance, the [Windows]({{< ref "/tags/windows" >}}) team at Microsoft exemplifies the power of rapid deployment. They can move code from development to production in less than 24 hours. This agility allows them to get features in front of users quickly, iterating based on real-world feedback.
 
 If organisations like CrowdStrike had adopted similar practices, they could have avoided the errors that plagued their deployments. Continuous delivery, when executed effectively, reduces risk, enhances effectiveness, and accelerates feedback.
 

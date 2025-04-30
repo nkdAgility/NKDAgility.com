@@ -48,10 +48,10 @@
     categories:
     - Scrum
     - Technical Leadership
-    - Engineering Excellence
+    - Product Development
     preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
   BodyContent: |
-    As a DevOps consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software product development. It’s astonishing how many Scrum Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.
+    As a [DevOps]({{< ref "/categories/devops" >}}) consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software [product development]({{< ref "/categories/product-development" >}}). It’s astonishing how many [Scrum]({{< ref "/categories/scrum" >}}) Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.
 
     A significant portion of Scrum Masters (about 61%\*) have either never read the Scrum Guide, lack technical proficiency relevant to their teams, or have only a superficial grasp of how to apply Scrum principles.
 
@@ -69,16 +69,16 @@
 
     The recent challenges to economic stability have led most companies to "tighten their belts," prompting a closer evaluation of the value they receive for their spending. Agile Coaches and Scrum Masters have largely failed to make a measurable difference—or even to define metrics by which their impact could be assessed. After more than 20 years of agile methodologies, there are still no clear standards or ways to measure the effectiveness of Scrum Masters. Without measurable impact, companies are questioning the need for the expense.
 
-    However, many companies that have reduced their number of Scrum Masters are still hiring—just with higher expectations. Now, they demand competence. They want to know exactly how a Scrum Master will contribute to the business’s success and how that impact will be measured.
+    However, many companies that have reduced their number of Scrum Masters are still hiring—just with higher expectations. Now, they demand [competence]({{< ref "/tags/competence" >}}). They want to know exactly how a [Scrum Master]({{< ref "/tags/scrum-master" >}}) will contribute to the business’s success and how that impact will be measured.
 
     ## **What should a Scrum Master for a software team know?**
 
-    The core accountability of a Scrum Master is the effectiveness of the Scrum Team! Can you help them be effective if you don't understand the practices within that team's context? Of course not, but what does that look like? What are the practices that you should expect your Scrum Master to understand?
+    The core accountability of a Scrum Master is the effectiveness of the [Scrum Team]({{< ref "/tags/scrum-team" >}})! Can you help them be effective if you don't understand the practices within that team's context? Of course not, but what does that look like? What are the practices that you should expect your Scrum Master to understand?
 
     ![](images/image-1-1.png)
     { .post-img}
 
-    > "A Scrum Master is a lean agile practitioner with techical mastery, business mastery, and organsiational evolutionary mastery!" - Lyssa Adkins\*\*
+    > "A Scrum Master is a [lean]({{< ref "/categories/lean" >}}) agile practitioner with techical mastery, business mastery, and organsiational evolutionary mastery!" - Lyssa Adkins\*\*
 
     I would expect a Scrum Master for a software team to know:
 
@@ -86,25 +86,25 @@
 
     - **DevOps**: understand the three ways of DevOps, common practices, and how to apply them effectively. This means knowing automation, infrastructure as code (IaC), and continuous feedback loops.
 
-    - **Modern Engineering practices**: everything from DevOps, plus... CI/CD, SOLID principles, test-first strategies, progressive rollout strategies, feature flags, 1ES (One Engineering System), observability of product. Familiarity with design patterns, refactoring, and coding standards.
+    - **Modern [Engineering practices]({{< ref "/tags/engineering-practices" >}})**: everything from DevOps, plus... CI/CD, SOLID principles, test-first strategies, progressive rollout strategies, feature flags, 1ES ([One Engineering System]({{< ref "/tags/one-engineering-system" >}})), observability of product. Familiarity with design patterns, refactoring, and coding standards.
 
-    - **Agile/lean beyond Scrum**: a strong understanding of other Agile/lean philosophies like Kanban, XP (Extreme Programming), and TPS. Know when and how to integrate elements from other frameworks and strategies to complement Scrum.
+    - **Agile/lean beyond Scrum**: a strong understanding of other Agile/lean philosophies like [Kanban]({{< ref "/categories/kanban" >}}), XP (Extreme Programming), and TPS. Know when and how to integrate elements from other frameworks and strategies to complement Scrum.
 
-    - **Release Planning**: understanding what release planning entails, how to break down product roadmaps, and how to forecast releases while balancing priorities. Be able to facilitate discussions with the Product Owner and Developers about product increment goals.
+    - **Release Planning**: understanding what release planning entails, how to break down product roadmaps, and how to forecast releases while balancing priorities. Be able to facilitate discussions with the [Product Owner]({{< ref "/tags/product-owner" >}}) and Developers about product [increment]({{< ref "/tags/increment" >}}) goals.
 
-    - **Product Discovery & Validation**: understanding what needs to be built and how to make decisions based on limited knowlage. Know and understand evidence-based management and hypothesis-driven engineering practices.
+    - **[Product Discovery]({{< ref "/tags/product-discovery" >}}) & Validation**: understanding what needs to be built and how to make decisions based on limited knowlage. Know and understand evidence-based management and hypothesis-driven engineering practices.
 
     - **Stakeholder Management**: understanding how to work with stakeholders, communicate progress, manage expectations, and foster alignment. Know how to teach the team to shield themselves from external pressure while still delivering value.
 
-    - **Scaling Agile**: Understand frameworks for scaling Agile, such as Descaling, LeSS, or Nexus. Be able to coach teams on how to function effectively within a scaled environment and manage dependencies.
+    - **[Scaling]({{< ref "/tags/scaling" >}}) Agile**: Understand frameworks for scaling Agile, such as Descaling, LeSS, or Nexus. Be able to coach teams on how to function effectively within a scaled environment and manage dependencies.
 
-    - **Coaching and Facilitation Skills**: the ability to coach the team towards self-management, continuous improvement, and collaboration. Skilled in facilitation techniques like liberating structires to be able to facilitate meetings and events.
+    - **[Coaching]({{< ref "/tags/coaching" >}}) and Facilitation Skills**: the ability to coach the team towards self-management, [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), and collaboration. Skilled in facilitation techniques like liberating structires to be able to facilitate meetings and events.
 
     - **Conflict Management**: possess the ability to navigate the grone zone safely leverage managed conflicts within the team and foster a healthy team environment for ideation and discovery. Understand team dynamics and how to encourage constructive feedback and communication.
 
-    - **Metrics and Continuous Improvement**: familiarity with Agile metrics (e.g., Cycle Time, Work Item Aging, Work In Process, Throughput), and how to use them to enable improvement. Ability to encourage the team to reflect on these metrics and find ways to improve.
+    - **Metrics and Continuous Improvement**: familiarity with Agile metrics (e.g., [Cycle Time]({{< ref "/tags/cycle-time" >}}), Work Item Aging, Work In Process, [Throughput]({{< ref "/tags/throughput" >}})), and how to use them to enable improvement. Ability to encourage the team to reflect on these metrics and find ways to improve.
 
-    While the Scrum Master may not directly perform the tasks mentioned above, they are accountable for ensuring that these tasks are carried out effectively. This involves training and mentoring teams in the necessary practices, and once the teams have a solid understanding, knowing when to shift towards coaching and facilitating the team, their stakeholders, and the broader organization.
+    While the Scrum Master may not directly perform the tasks mentioned above, they are accountable for ensuring that these tasks are carried out effectively. This involves training and [mentoring]({{< ref "/tags/mentoring" >}}) teams in the necessary practices, and once the teams have a solid understanding, knowing when to shift towards coaching and facilitating the team, their stakeholders, and the broader organization.
 
     ## When everyone around is incompetent, competence looks like an ideal!
 
@@ -149,13 +149,16 @@
     - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
     - /resources/KHNSdDjr5K_
     - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
+    - /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
     aliasesArchive:
     - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
     - /you-cant-stop-the-signal-but-you-can-ignore-it
     - /you-can't-stop-the-signal--but-you-can-ignore-it-
     - /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
     - /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
+    - /resources/blog/you-can-t-stop-the-signal-but-you-can-ignore-it
     categories:
+    - Product Development
     - Scrum
     preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
     tags:
@@ -180,15 +183,15 @@
     - Change Management
     - Continuous Learning
   BodyContent: |
-    In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!
+    In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and [Scrum]({{< ref "/categories/scrum" >}}) (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!
 
     Yet, teams often overlook these clear signals. This raises the question: Why does such a disconnect exist between receiving these critical signals and acting on them? What barriers within teams and organizations prevent them from hearing and responding to these alerts?
 
-    We can draw parallels to Toyota's manufacturing process and its concept of the "andon" chain. This chain enables any worker to stop the entire production line upon detecting a flaw, addressing problems immediately instead of allowing defective products to proceed. This approach, critical to Toyota's quality assurance, symbolizes a commitment to excellence and continuous improvement.
+    We can draw parallels to Toyota's manufacturing process and its concept of the "andon" chain. This chain enables any worker to stop the entire production line upon detecting a flaw, addressing problems immediately instead of allowing defective products to proceed. This approach, critical to Toyota's quality assurance, symbolizes a commitment to excellence and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
     When American car manufacturers adopted this concept, they installed the physical chain, but workers hesitated to pull it. The underlying fear was that stopping the line would result in punitive measures rather than being viewed as a positive step toward quality maintenance. This situation reveals a profound truth: the effectiveness of such systems lies not in their physical presence but in the culture and philosophy that empower their use. Thus, it's not the "andon" chain that's broken; it's the systemic failure to foster an environment that encourages and values its use.
 
-    This analogy highlights the challenges of implementing Agile and Scrum within organizations. These philosophies act as the software development and product management's "andon" chain, signaling when something goes wrong and necessitating action. However, if an organization's culture or a team's mindset does not align with principles of transparency, continuous improvement, and feedback responsiveness, these signals will remain ignored.
+    This analogy highlights the challenges of implementing Agile and Scrum within organizations. These philosophies act as the [software development]({{< ref "/tags/software-development" >}}) and [product management]({{< ref "/categories/product-management" >}})'s "andon" chain, signaling when something goes wrong and necessitating action. However, if an organization's culture or a team's mindset does not align with principles of [transparency]({{< ref "/tags/transparency" >}}), continuous improvement, and feedback responsiveness, these signals will remain ignored.
 
     The primary barrier often stems from fear—fear of repercussions, fear of change, or the inertia of existing practices that discourage deviation from the norm. A lack of understanding or commitment to Agile and Scrum's underlying philosophies may also contribute to a superficial implementation that fails to capitalize on these frameworks' full potential.
 
@@ -225,6 +228,7 @@
     - /resources/blog/pragmatism-crushes-dogma-in-the-wild
     categories:
     - Scrum
+    - Product Development
     preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
     tags:
     - Agile Planning
@@ -248,9 +252,9 @@
     - Complexity Thinking
     - Value Delivery
   BodyContent: |
-    In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.
+    In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of [Scrum]({{< ref "/categories/scrum" >}}). This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.
 
-    The program structured around a series of sprints in Minecraft, aimed to mirror the real-world complexities and dynamism present in product development projects. Starting from the initial chaos of Sprint 1, where participants grappled with the inherent complexity of a new project, the program progressively unfolded to reveal the power of Scrum. By Sprint 2, the fruits of understanding empiricism and embracing a philosophy of flexibility were evident. The teams learned to navigate and adapt to complexities with much less stress and frustration.
+    The program structured around a series of sprints in Minecraft, aimed to mirror the real-world complexities and dynamism present in [product development]({{< ref "/categories/product-development" >}}) projects. Starting from the initial chaos of Sprint 1, where participants grappled with the inherent complexity of a new project, the program progressively unfolded to reveal the power of Scrum. By Sprint 2, the fruits of understanding empiricism and embracing a philosophy of flexibility were evident. The teams learned to navigate and adapt to complexities with much less stress and frustration.
 
     However, it was Sprint 3 that truly tested the resilience of the system we had built. With the introduction of unforeseen challenges, such as mobbing in Minecraft and the accidental loss of the project world, the teams were thrust into a scenario of significant complexity. Yet, the response was remarkable. The team's ability to quickly organise, adapt, and maintain direction despite these surprises highlighted the real power of Scrum. It wasn't about rigidly adhering to rules but about maintaining enough structure to guide while allowing for adaptability to unforeseen challenges.
 
@@ -270,11 +274,11 @@
 
     - The Sprint Goal must be finalized prior to the end of Sprint Planning.
 
-    - \[The Scrum Team\] must fulfill (or abandon) one \[Product Goal\] before taking on the next.
+    - \[The [Scrum Team]({{< ref "/tags/scrum-team" >}})\] must fulfill (or abandon) one \[Product Goal\] before taking on the next.
 
-    - In order to provide value, the Increment must be usable.
+    - In order to provide value, the [Increment]({{< ref "/tags/increment" >}}) must be usable.
 
-    - If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum.
+    - If the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum.
 
     - If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
 
@@ -326,14 +330,14 @@
     - Kanban
     preview: NKDAgility-technically-BlockedColumns-7-7.jpg
   BodyContent: |
-    The Boards in Azure DevOps are a powerful tool that your teams can leverage to enable transparent visualization of the current state of value delivery.
+    The Boards in Azure [DevOps]({{< ref "/categories/devops" >}}) are a powerful tool that your teams can leverage to enable transparent visualization of the current state of [value delivery]({{< ref "/tags/value-delivery" >}}).
 
     However, the inclusion of Blocked columns can stealthily erode the very foundations of efficiency these boards are meant to uphold. By obfuscating the state of work-in-progress and breeding a culture of hands-off responsibility, Blocked columns can become the silent saboteurs in your workflow.
 
     ![](images/image-5-5.png)
     { .post-img }
 
-    **Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness:**
+    **Blocked Columns on [Kanban]({{< ref "/categories/kanban" >}}) Boards Obfuscate Workflow and Undermine Effectiveness:**
 
     Kanban boards serve as the visual representation of the crucial steps involved in knowledge discovery. However, labeling a column as "Blocked" does not align with the essence of this visualization.
 
@@ -355,9 +359,9 @@
 
     *It’s imperative to recognize that 'Blocked' is distinct from 'Waiting'.* They are not interchangeable. Especially in workflows that involve approval, legal compliance, risk assessment, or governance considerations, tasks are not Blocked per se, but rather waiting for input or feedback. This waiting period needs to be accurately captured, and the sources of delay must be identified and addressed. Knowledge of these elements and the duration of delays is fundamental in tackling and resolving the root causes.
 
-    In light of these pitfalls, it is crucial for teams to approach the use of Blocked columns with caution. Instead, a more efficient approach may involve annotating tasks with specific information about the blockages and keeping them within their respective stages, thereby maintaining transparency, accountability, and the integrity of the knowledge discovery steps.
+    In light of these pitfalls, it is crucial for teams to approach the use of Blocked columns with caution. Instead, a more efficient approach may involve annotating tasks with specific information about the blockages and keeping them within their respective stages, thereby maintaining [transparency]({{< ref "/tags/transparency" >}}), accountability, and the integrity of the knowledge discovery steps.
 
-    **How do you show that a work item is blocked In Azure DevOps?**
+    **How do you show that a work item is blocked In [Azure DevOps]({{< ref "/tags/azure-devops" >}})?**
 
     By far the best way to indicate blocked is to use a Blocked tag on your Work Item.
 

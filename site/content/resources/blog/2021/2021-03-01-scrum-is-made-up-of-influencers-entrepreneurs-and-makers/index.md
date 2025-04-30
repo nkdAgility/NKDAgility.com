@@ -40,7 +40,7 @@ categories:
 preview: image-4-5-5.png
 
 ---
-In the empirical world, we have 3 key skill areas of accountability that are needed to effectively deliver products of the highest possible value! We need Influencers that can provide leadership and create environments within which groups of people can organise the work. I consider this the Leadership Track where you have Scrum Masters, Coaches, and CEO. We need Entrepreneurs who can have a vision and project knowledge and understanding of that vision to the people that need to make that vision happen. This is the Value Track and may be made up of Product Owners, Analysts, and Subject Matter Experts. Last we have the Makers who are the ones who do the work that brings the product to life. They are on the Technical Track and focus on turning the vision into a reality. They have many skills and may have coders, testers, and other experts...
+In the empirical world, we have 3 key skill areas of accountability that are needed to effectively deliver products of the highest possible value! We need Influencers that can provide [leadership]({{< ref "/categories/leadership" >}}) and create environments within which groups of people can organise the work. I consider this the Leadership Track where you have [Scrum]({{< ref "/categories/scrum" >}}) Masters, Coaches, and CEO. We need Entrepreneurs who can have a vision and project knowledge and understanding of that vision to the people that need to make that vision happen. This is the Value Track and may be made up of Product Owners, Analysts, and Subject Matter Experts. Last we have the Makers who are the ones who do the work that brings the product to life. They are on the Technical Track and focus on turning the vision into a reality. They have many skills and may have coders, testers, and other experts...
 
 ![](images/image-4-1280x720-4-4.png)
 { .post-img }
@@ -57,7 +57,7 @@ The job of folks on the Leadership Track is to create an environment within whic
 
 Those on the Leadership Track have often had experience in both the Value Track and the Technical Track and are familiar with the difficulties of both. They focus on enacting change in the organisation that makes others lives easier and focus on inspiring them to greatness.
 
-Job Titles that might exist in the Leadership Track: **Scrum Master, Manager, Agile Coach, Human Resources, CEO, Vice President, Practice Lead**
+Job Titles that might exist in the Leadership Track: **[Scrum Master]({{< ref "/tags/scrum-master" >}}), Manager, Agile Coach, Human Resources, CEO, Vice President, Practice Lead**
 
 #### **Our Training for the Leadership Track**
 
@@ -67,9 +67,9 @@ Job Titles that might exist in the Leadership Track: **Scrum Master, Manager, Ag
 
 The job of folks in the Value Track is to maximise the value delivered in the product.
 
-Those on the Value Track should have experience in the Business Domain, and be experts in the product. Ideally, they have an entrepreneurial spirit and are adept at experimentation and understanding that decision needs to be made based on data.
+Those on the Value Track should have experience in the Business Domain, and be experts in the product. Ideally, they have an entrepreneurial spirit and are adept at [experimentation]({{< ref "/tags/experimentation" >}}) and understanding that decision needs to be made based on data.
 
-Job Titles that might exist in the Value Track: **Business Analysis, Product Owner, User Experience Designer, Subject Matter Expert**
+Job Titles that might exist in the Value Track: **Business Analysis, [Product Owner]({{< ref "/tags/product-owner" >}}), User Experience Designer, Subject Matter Expert**
 
 #### **Our Content for the Value Track**
 

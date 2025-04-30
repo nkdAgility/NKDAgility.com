@@ -66,7 +66,7 @@ tags:
 - Metrics and Learning
 
 ---
-When designing a flow for an event, it is hugely important to be clear on the purpose. For the Sprint Review, the purpose is to inspect the increment that was created during the Sprint as well as to adapt the Product Backlog based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.
+When designing a flow for an event, it is hugely important to be clear on the purpose. For the [Sprint Review]({{< ref "/tags/sprint-review" >}}), the purpose is to inspect the [increment]({{< ref "/tags/increment" >}}) that was created during the Sprint as well as to adapt the [Product Backlog]({{< ref "/tags/product-backlog" >}}) based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.
 
 _This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_
 
@@ -76,9 +76,9 @@ _This recipe is an example and starting point with a number of different facilit
 
 This workshop leverages a simple flow and consists of the following:
 
-The Product Owner presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.
+The [Product Owner]({{< ref "/tags/product-owner" >}}) presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.
 
-Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.
+Although [Scrum]({{< ref "/categories/scrum" >}}) Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.
 
 ### Part 1: Product Owner Presents Product Vision and Goal [5 mins]
 
@@ -90,7 +90,7 @@ There will always be Backlog Items that we were unable to complete during a Spri
 
 ![Cycle Time Scatter Plot](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
 
-Review both the **Cycle Time Scatter Plot** and the **Throughput Run Chart** to understand what happened during this Sprint.
+Review both the **[Cycle Time]({{< ref "/tags/cycle-time" >}}) Scatter Plot** and the **[Throughput]({{< ref "/tags/throughput" >}}) Run Chart** to understand what happened during this Sprint.
 
 ### Part 3: Sprint Demo - Show what was created [~15 mins]
 

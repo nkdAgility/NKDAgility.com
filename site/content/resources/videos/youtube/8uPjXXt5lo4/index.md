@@ -43,9 +43,9 @@ What is the most valuable thing you have learned through training people?
 
 I’ve learned that no matter where you are in the world, everyone faces the same primary problems.
 
-When organizations decide to adopt agile, often using an **agile framework** like **scrum**, everyone runs into the exact same teething problems.
+When organizations decide to adopt agile, often using an **agile framework** like **[scrum]({{< ref "/categories/scrum" >}})**, everyone runs into the exact same teething problems.
 
-As soon as you consider **empiricism**, that being transparency, inspection, and adaptation, you often find that people have to make a massive adjustment from traditional project management and transition from robust, rigid **project management frameworks** to **agile values and principles**.
+As soon as you consider **empiricism**, that being [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation, you often find that people have to make a massive adjustment from traditional [project management]({{< ref "/tags/project-management" >}}) and transition from robust, rigid **project management frameworks** to **[agile values and principles]({{< ref "/tags/agile-values-and-principles" >}})**.
 
 People think that the walls they are bumping into are unique to their organization, their culture, their environment but as soon as they start **scrum training**, they quickly realise that everyone on the class, despite being from all around the world, are grappling with the same issues.
 
@@ -69,7 +69,7 @@ Regardless of the territory,
 
 - People are trying to solve complex problems.
 
-- People are trying to improve time to market.
+- People are trying to improve [time to market]({{< ref "/tags/time-to-market" >}}).
 
 - People are trying to respond to competitor disruption.
 
@@ -87,7 +87,7 @@ The great thing about our digital, live delivery of scrum training is that peopl
 
 A developer in Mumbai may be dealing with the challenges of remote work in multiple territories, across multiple teams, where the developer in Glasgow may never have encountered anything outside of working in a small, 6-person team.
 
-These shared experiences really bring home how powerful scrum can be, and how fit for purpose it is for product development despite an astonishing array of applications and territories.
+These shared experiences really bring home how powerful scrum can be, and how fit for purpose it is for [product development]({{< ref "/categories/product-development" >}}) despite an astonishing array of applications and territories.
 
 So, if you’re struggling with a topic, challenge, or problem within your environment, join us for a scrum course and you will find the answers and experiments to run that you are looking for.
 

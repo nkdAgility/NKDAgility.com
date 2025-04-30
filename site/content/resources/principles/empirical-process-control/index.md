@@ -32,4 +32,4 @@ tags:
 - Professional Scrum
 
 ---
-Empirical Process Control: Scrum is an empirical process that relies on transparency, inspection, and adaptation. It means that the Scrum team and stakeholders should be transparent about the work, inspect the progress regularly, and adapt the plan as necessary to achieve the desired outcomes.
+[Empirical Process Control]({{< ref "/tags/empirical-process-control" >}}): [Scrum]({{< ref "/categories/scrum" >}}) is an empirical process that relies on [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation. It means that the [Scrum team]({{< ref "/tags/scrum-team" >}}) and stakeholders should be transparent about the work, inspect the progress regularly, and adapt the plan as necessary to achieve the desired outcomes.

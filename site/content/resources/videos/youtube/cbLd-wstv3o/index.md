@@ -66,7 +66,7 @@ In this post, we’ll explore how EBM can help you find unrealized value in your
 
 Before diving into how to find unrealized value, let’s clarify what it means. Unrealized value refers to the potential value your product could offer but hasn’t yet. It’s the gap between where your product is now and where it could be, based on customer needs, market trends, or business opportunities.
 
-EBM includes a Key Value Area called **Unrealized Value** that helps you identify and measure these gaps, enabling you to refine your product backlog and prioritize future development efforts.
+EBM includes a Key Value Area called **Unrealized Value** that helps you identify and measure these gaps, enabling you to refine your [product backlog]({{< ref "/tags/product-backlog" >}}) and prioritize future development efforts.
 
 ## Identifying the Gaps: Metrics to Consider
 
@@ -76,9 +76,9 @@ Now that you understand the concept, how do you actually find those gaps? EBM pr
 
 - 📊 **Customer Feedback:** How satisfied are your customers with the product? Are there areas where they express dissatisfaction or where their expectations aren’t being met?
 
-- 🤔 **Surveys & NPS (Net Promoter Score):** These tools can provide valuable insights into how your product is perceived versus how it could perform in terms of customer satisfaction.
+- 🤔 **Surveys & NPS (Net Promoter Score):** These tools can provide valuable insights into how your product is perceived versus how it could perform in terms of [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}).
 
-### 2\. **Market Share**
+### 2\. **[Market Share]({{< ref "/tags/market-share" >}})**
 
 - 📈 **Competitive Analysis:** What percentage of the market do you currently hold? Where do your competitors outperform you, and what features or functionalities might they offer that you don’t?
 
@@ -94,7 +94,7 @@ These metrics can provide a concrete, data-driven understanding of the value you
 
 ## Turning Insights into Action: Your Product Backlog
 
-The purpose of uncovering unrealized value isn’t just to admire the potential—it’s to act on it! This is where your **product backlog** comes in. The gaps you identify through EBM metrics should guide your future product development efforts.
+The purpose of uncovering unrealized value isn’t just to admire the potential—it’s to act on it! This is where your **product backlog** comes in. The gaps you identify through EBM metrics should guide your future [product development]({{< ref "/categories/product-development" >}}) efforts.
 
 ### Building Your Backlog Based on Unrealized Value
 
@@ -110,7 +110,7 @@ The purpose of uncovering unrealized value isn’t just to admire the potential�
 
 4. ✨ Their insights can help you balance short-term needs with long-term growth potential.
 
-6. **Focus on Continuous Improvement**
+6. **Focus on [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 3. 🚀 Embrace the Agile principle of continuous improvement. Keep reviewing your backlog, re-prioritizing tasks, and incorporating new metrics as they become available.
 
@@ -118,7 +118,7 @@ The purpose of uncovering unrealized value isn’t just to admire the potential�
 
 ## Real-World Example: A Case Study in Discovering Unrealized Value
 
-Let me share a real-world example from my own experience as a Scrum Trainer and Product Owner. In one of the teams I worked with, we noticed that despite solid user numbers and positive feedback, there was still room for improvement in user satisfaction. We were missing opportunities to enhance the product’s value.
+Let me share a real-world example from my own experience as a [Scrum]({{< ref "/categories/scrum" >}}) Trainer and [Product Owner]({{< ref "/tags/product-owner" >}}). In one of the teams I worked with, we noticed that despite solid user numbers and positive feedback, there was still room for improvement in user satisfaction. We were missing opportunities to enhance the product’s value.
 
 ### Step 1: Applying EBM Metrics
 

@@ -23,8 +23,9 @@ card:
     content: Learn More
   content: Discover more about Product Increment and how it can help you in your Agile journey!
   title: Product Increment
-categories: []
+categories:
+- Product Development
 tags: []
 
 ---
-## What is a Product Increment?
+## What is a Product [Increment]({{< ref "/tags/increment" >}})?

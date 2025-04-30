@@ -40,7 +40,7 @@ categories:
 - Kanban
 
 ---
-One of the core practices of Kanban that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 
+One of the core practices of [Kanban]({{< ref "/categories/kanban" >}}) that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 
 
 ### Why Define and Visualise Your Workflow?
 
@@ -82,7 +82,7 @@ You may have heard the term "stable system" thrown around in discussions about K
 
 - **Everyone agrees on the process**: There’s a collective understanding of how work should flow.
 - **Processes are documented**: We’ve written down our agreed-upon methods, making it easier to onboard new team members and maintain consistency.
-- **Visualisation is key**: By visualising our workflow, we can all see what’s happening at a glance, which fosters transparency and accountability.
+- **Visualisation is key**: By visualising our workflow, we can all see what’s happening at a glance, which fosters [transparency]({{< ref "/tags/transparency" >}}) and accountability.
 
 ### Conclusion
 

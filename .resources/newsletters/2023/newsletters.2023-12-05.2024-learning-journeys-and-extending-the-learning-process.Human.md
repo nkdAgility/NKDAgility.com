@@ -26,7 +26,7 @@ tags:
 - Competence
 
 ---
-We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:
+We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:
 
 ![](images/2023-12-01_14-10-36-1-800x363.webp)
 
@@ -36,13 +36,13 @@ Below, you will find our 24Q1 schedule and the awesome classes and bundles that 
 
 **Extending the Learning Process**
 
-Our courses are traditionally interactive 2-day learning experiences within a classroom setting, emphasizing valuable, hands-on outcomes. Immersion Training offers a refreshing alternative, breaking the class into shorter sessions across several weeks. This format not only extends learning into real-world business applications but also incorporates reflective sessions for continuous improvement, making it a highly effective and practical approach.
+Our courses are traditionally interactive 2-day learning experiences within a classroom setting, emphasizing valuable, hands-on outcomes. Immersion Training offers a refreshing alternative, breaking the class into shorter sessions across several weeks. This format not only extends learning into real-world business applications but also incorporates reflective sessions for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), making it a highly effective and practical approach.
 
 ![](images/NKDAgility-Immersive-learning-overview-450x450.png)
 
 - **Incremental Classroom Learning**: In Immersion Training, classes are concise, live sessions spanning several weeks. Each session introduces and practices a new concept, allowing students to digest the material at a comfortable pace and ensuring a deep understanding before moving forward. Sessions are capped at 4 hours to keep learners engaged and to foster an effective learning environment.
 - **Outcome-Based Assignments**: These assignments, tied to each classroom session, are designed to apply the concepts learned directly. They focus on outcomes rather than outputs, catering to various backgrounds and skill levels. The emphasis is on innovation and boundary-pushing, not just completion, making the assignments relevant for both new and seasoned learners.
-- **Facilitated Reflections**: After the initial session, each class starts with a reflection period. Here, students and their Professional Scrum Trainer discuss the assignments, sharing challenges and successes. These sessions are vital for learning, encouraging peer interaction and actionable feedback, and fostering collective growth and understanding.
+- **Facilitated Reflections**: After the initial session, each class starts with a reflection period. Here, students and their [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer discuss the assignments, sharing challenges and successes. These sessions are vital for learning, encouraging peer interaction and actionable feedback, and fostering collective growth and understanding.
 
 Starting in 2024, we will be running immersive classes in bundles as Learning Journeys that you can book together, or
 
@@ -58,7 +58,7 @@ Yours in agile excellence,
 
 \-MrHinsh
 
-**Martin Hinshelwood** Professional Scrum Trainer, Professional Kanban Trainer, & Microsoft MVP: DevOps
+**Martin Hinshelwood** Professional Scrum Trainer, Professional [Kanban]({{< ref "/categories/kanban" >}}) Trainer, & Microsoft MVP: [DevOps]({{< ref "/categories/devops" >}})
 
 naked Agility with Martin Hinshelwood | [https://nkdagility.com](https://nkdagility.com/) +44 7493 404 468| [https://wa.me/447493404468](https://wa.me/447493404468)
 
@@ -112,7 +112,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

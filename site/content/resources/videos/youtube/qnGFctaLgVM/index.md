@@ -39,13 +39,13 @@ categories:
 
 ## Russell: A Software Sage with a Maverick Edge 🛠 
 
-In the realm of Product Ownership, Russell stands as a beacon of innovation and expertise. His story isn't just about code; it's about a journey through the echelons of product development that's as diverse as it is profound. 
+In the realm of Product Ownership, Russell stands as a beacon of innovation and expertise. His story isn't just about code; it's about a journey through the echelons of [product development]({{< ref "/categories/product-development" >}}) that's as diverse as it is profound. 
 
 ## Unparalleled Experience in the Trenches of Product Development ✈️ 
 
 Russell's odyssey spans more than the digital landscape: 
 
-- **Beyond Software:** From crafting control systems for military aircraft to mentoring burgeoning Product Owners, his canvas is vast. 
+- **Beyond Software:** From crafting control systems for military aircraft to [mentoring]({{< ref "/tags/mentoring" >}}) burgeoning Product Owners, his canvas is vast. 
 
 - **Technical Versatility:** Russell's command over both technology and strategy marks him out as a PSPO trainer par excellence. 
 

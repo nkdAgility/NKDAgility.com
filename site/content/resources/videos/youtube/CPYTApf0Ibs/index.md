@@ -59,11 +59,11 @@ categories:
 - Leadership
 
 ---
-When it comes to Agile transformation, one of the most crucial aspects often overlooked is the shared understanding of the product vision and strategic goals within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.
+When it comes to [Agile transformation]({{< ref "/tags/agile-transformation" >}}), one of the most crucial aspects often overlooked is the shared understanding of the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}}) within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.
 
 ## **The Second Agile Litmus Test: Is Your Product Vision Truly Understood?**
 
-The second question that we should be asking leadership in any Agile organization is simple yet profound: **Is there a product vision that lays out the strategic goals, and do all members of the team understand both of those things?** More importantly, are they able to see how their everyday work contributes to these overarching objectives?
+The second question that we should be asking [leadership]({{< ref "/categories/leadership" >}}) in any Agile organization is simple yet profound: **Is there a product vision that lays out the strategic goals, and do all members of the team understand both of those things?** More importantly, are they able to see how their everyday work contributes to these overarching objectives?
 
 In my experience working with various organizations, this understanding is often lacking. Surprisingly, even in companies that have a clear product vision and strategic goals, these are not always effectively communicated to the people actually doing the work. This disconnect can be more detrimental than the absence of a usable working product.
 
@@ -143,7 +143,7 @@ To truly gauge your organization’s agility, consider the following six questio
 
 5. **Can they articulate how their work contributes to these goals?**
 
-7. **Is there a culture of continuous improvement?**
+7. **Is there a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}})?**
 
 9. **Do teams collaborate effectively towards common objectives?**
 

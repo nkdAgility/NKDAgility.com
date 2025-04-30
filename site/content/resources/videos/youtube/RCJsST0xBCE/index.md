@@ -37,7 +37,7 @@ resourceTypes:
 categories: []
 
 ---
-As many of you know, I’m Martin Hinshelwood, and I’ve dedicated a significant portion of my career to developing tools that facilitate seamless migrations within Azure DevOps. Today, I want to share my insights and experiences with the Azure DevOps Migration Tools, which you can find on the Visual Studio Marketplace. With over 50,000 migration sessions per month and a staggering 340,000 work items migrated in just the last 30 days, it’s clear that these tools are making a substantial impact.
+As many of you know, I’m Martin Hinshelwood, and I’ve dedicated a significant portion of my career to developing tools that facilitate seamless migrations within Azure [DevOps]({{< ref "/categories/devops" >}}). Today, I want to share my insights and experiences with the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Migration Tools, which you can find on the Visual Studio Marketplace. With over 50,000 migration sessions per month and a staggering 340,000 work items migrated in just the last 30 days, it’s clear that these tools are making a substantial impact.
 
 ### Getting Started with Azure DevOps Migration Tools
 
@@ -75,7 +75,7 @@ From my experience, here are some best practices to keep in mind:
 
 ### Community Support and Contributions
 
-As an open-source project, the Azure DevOps Migration Tools thrive on community contributions. If you encounter issues or have suggestions for improvements, I encourage you to create an issue on GitHub. Our community is robust, with over 40 contributors ready to assist.
+As an open-source project, the Azure DevOps Migration Tools thrive on community contributions. If you encounter issues or have suggestions for improvements, I encourage you to create an issue on [GitHub]({{< ref "/tags/github" >}}). Our community is robust, with over 40 contributors ready to assist.
 
 ### Conclusion
 

@@ -58,7 +58,7 @@ categories:
 - Scrum
 
 ---
-## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 
+## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and [Scrum]({{< ref "/categories/scrum" >}}) 🌟 
 
 In the Agile realm, 'gluttony' extends beyond mere overconsumption. It's a metaphor for the excessive accumulation of backlogs and products, often paralysing the agility of teams.
 
@@ -66,7 +66,7 @@ In the Agile realm, 'gluttony' extends beyond mere overconsumption. It's a metap
 
 This blog delves into how Agile teams can avoid falling into this common pitfall. 
 
-## **The Pitfall of an Overloaded Product Backlog** 📚✨ 
+## **The Pitfall of an Overloaded [Product Backlog]({{< ref "/tags/product-backlog" >}})** 📚✨ 
 
 - **Consequences of a Bloated Backlog:** A crowded product backlog can lead to confusion, decreased focus, and hindered agility. The presence of too many items can obscure the team's vision of what's truly important. 
 
@@ -80,7 +80,7 @@ This blog delves into how Agile teams can avoid falling into this common pitfall
 
 - **Striking the Right Balance:** Successful Sprint planning lies in setting attainable goals. A well-planned Sprint with realistic targets can lead to consistent, high-quality outputs, fostering a sense of achievement and motivation within the team. 
 
-## **Streamlining the Product: A Lean Approach** 🛠️💡 
+## **Streamlining the Product: A [Lean]({{< ref "/categories/lean" >}}) Approach** 🛠️💡 
 
 - **The Weight of Unused Features:** An overcrowded product with seldom-used features can significantly impede a team's progress. It's not just about the quantity of features but their impact and usage. 
 
@@ -100,6 +100,6 @@ The key to avoiding gluttony in Agile and Scrum is recognising that more isn't a
 
 - **Feature Audits:** Regularly assess and remove features that don't add value. 
 
-- **Embrace Value Delivery:** Ensure every feature and task adds real value. 
+- **Embrace [Value Delivery]({{< ref "/tags/value-delivery" >}}):** Ensure every feature and task adds real value. 
 
 - **Leverage Feedback:** Use insights from customers and team members to guide decisions.

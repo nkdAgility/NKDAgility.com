@@ -47,7 +47,7 @@ categories:
 - Product Management
 
 ---
-In my journey through the world of product development, I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional Scrum with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 
+In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional [Scrum]({{< ref "/categories/scrum" >}}) with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 
 
 ### The Hypothesis-Driven Approach
 
@@ -77,16 +77,16 @@ One of the most significant insights I gained from the PSU course is the importa
 
 - **Micro-Decisions Matter**: Every team member makes countless micro-decisions daily that can impact the product's architecture and overall design. By fostering collaboration, we can ensure that these decisions align with the long-term strategic direction set by the design team.
 
-### Integrating Strategy and Continuous Delivery
+### Integrating Strategy and [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}})
 
 The PSU course also highlights the need to balance upfront work with continuous delivery. 
 
 - **Unified Strategy**: We must integrate our hypothesis-driven engineering into our regular delivery cadence. This means continuously running experiments—perhaps five or six each sprint—to see how our changes affect user behaviour.
 
-- **Feedback Loops**: The data we gather from these experiments should feed back into our product strategy. This iterative process allows us to shape our product in alignment with user needs and long-term goals.
+- **Feedback Loops**: The data we gather from these experiments should feed back into our [product strategy]({{< ref "/tags/product-strategy" >}}). This iterative process allows us to shape our product in alignment with user needs and long-term goals.
 
 ### Conclusion
 
-In summary, the Professional Scrum with User Experience course has equipped me with invaluable tools for making more effective product development decisions. By adopting a hypothesis-driven approach, running small experiments, fostering collaboration between design and engineering, and integrating our strategies into a continuous delivery model, we can create products that truly resonate with our users.
+In summary, the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with User Experience course has equipped me with invaluable tools for making more effective product development decisions. By adopting a hypothesis-driven approach, running small experiments, fostering collaboration between design and engineering, and integrating our strategies into a continuous delivery model, we can create products that truly resonate with our users.
 
-If you're interested in exploring these concepts further or have any questions about agile, scrum, or DevOps, I invite you to book a coffee chat with me through Naked Agility. Let's continue the conversation and drive meaningful change in our product development practices!
+If you're interested in exploring these concepts further or have any questions about agile, scrum, or [DevOps]({{< ref "/categories/devops" >}}), I invite you to book a coffee chat with me through Naked Agility. Let's continue the conversation and drive meaningful change in our product development practices!

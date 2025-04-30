@@ -58,7 +58,7 @@ categories:
 - Product Development
 
 ---
-In the ever-evolving world of Agile, the ability to deliver working software to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.
+In the ever-evolving world of Agile, the ability to deliver [working software]({{< ref "/tags/working-software" >}}) to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.
 
 ## **Why Delivering Working Software Matters**
 
@@ -87,7 +87,7 @@ Until your product is in the hands of actual users, everything you've built is j
 
 Agile isn't just about delivering software quickly; it's about delivering value. By focusing on delivering working software every iteration, you're ensuring that:
 
-- **Stakeholders See Progress:** Frequent releases demonstrate tangible progress, which builds confidence and trust among stakeholders.
+- **Stakeholders See Progress:** [Frequent releases]({{< ref "/tags/frequent-releases" >}}) demonstrate tangible progress, which builds confidence and trust among stakeholders.
 
 - **Maximizing Work Not Done:** One of the key principles of Agile is to maximize the amount of work not done. This means focusing only on what's essential to deliver value. By delivering small, functional increments of software, you can prioritize the most valuable features and avoid wasting time on unnecessary work.
 
@@ -127,7 +127,7 @@ Automation is your best friend when it comes to delivering working software ever
 
 - **Speed Up Releases:** Automated deployment pipelines allow you to release new features quickly and with confidence.
 
-### **5\. Embrace a Culture of Continuous Improvement**
+### **5\. Embrace a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 Agile is all about continuous improvement. Encourage your team to reflect on each iteration and identify areas for improvement.
 

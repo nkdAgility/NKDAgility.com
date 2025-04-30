@@ -33,6 +33,6 @@ tags:
 - Product Owner
 
 ---
-Value-based Prioritization: Focus on delivering value to the stakeholders. The product backlog is prioritized based on the value it delivers, and the Scrum team works on the highest-priority items first.
+Value-based Prioritization: Focus on delivering value to the stakeholders. The [product backlog]({{< ref "/tags/product-backlog" >}}) is prioritized based on the value it delivers, and the [Scrum]({{< ref "/categories/scrum" >}}) team works on the highest-priority items first.
 
 ## Value Creation vs Revenue Extraction

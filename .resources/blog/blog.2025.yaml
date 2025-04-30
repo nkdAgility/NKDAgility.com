@@ -6,12 +6,15 @@
     ResourceType: blog
     ResourceContentOrigin: hybrid
     date: 2025-07-07T09:00:00Z
+    slug: stop-building-silos-start-building-systems
     weight: 180
     aliases:
     - /resources/zLhc3UKUWOj
+    - /resources/blog/stop-building-silos.-start-building-systems
     aliasesArchive:
     - /stop-building-silos--start-building-systems
     - /blog/stop-building-silos--start-building-systems
+    - /resources/blog/stop-building-silos.-start-building-systems
     categories:
     - DevOps
     - Engineering Excellence
@@ -53,7 +56,7 @@
 
     ## Fragmentation Is Not an Engineering Strategy
 
-    When every team uses a different deployment tool, stores secrets in a [personal]({{< ref "/tags/personal" >}}) vault, and runs tests on unmonitored boxes, you’ve created a system that _no one_ understands and _no one_ can change safely.
+    When every team uses a different deployment tool, stores secrets in a personal vault, and runs tests on unmonitored boxes, you’ve created a system that _no one_ understands and _no one_ can change safely.
 
     This isn’t flexibility. It’s fragility.
 
@@ -73,9 +76,9 @@
 
     DevOps without visibility is cargo cult. DevOps across disconnected systems is just automation theatre. And DevOps without learning is just [technical debt]({{< ref "/tags/technical-debt" >}}) in fast-forward.
 
-    ## Building [One Engineering System]({{< ref "/tags/one-engineering-system" >}}) (1ES) through [Platform Engineering]({{< ref "/tags/platform-engineering" >}})
+    ## Building One Engineering System (1ES) through Platform Engineering
 
-    If DevOps is the ethos, then **Platform Engineering** is the strategy, and **One Engineering System (1ES)** is the execution model.
+    If DevOps is the ethos, then **[Platform Engineering]({{< ref "/tags/platform-engineering" >}})** is the strategy, and **[One Engineering System]({{< ref "/tags/one-engineering-system" >}}) (1ES)** is the execution model.
 
     Platform Engineering is not just infrastructure automation. It's a practice grounded in DevOps principles that aims to improve every development team's time-to-value, compliance, cost control, and security through **improved developer experiences** and **governed self-service**. It's both a mindset shift and a system of reusable tools and services.
 
@@ -1432,11 +1435,13 @@
     slug: measuring-individual-cycle-time-is-killing-your-flow
     aliases:
     - /resources/KHEPBWiFDKJ
+    - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
     aliasesArchive:
     - /measuring-individual-cycle-time-is-killing-your-flow
     - /blog/measuring-individual-cycle-time-is-killing-your-flow
     - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
     - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+    - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
     categories:
     - Kanban
     - Lean

@@ -125,7 +125,7 @@ Here are a few tips to help your organization embrace continuous adaptation:
 
 - **Increased competitiveness**: Adapting to market changes allows businesses to stay ahead of their competitors.
 
-- **Improved customer satisfaction**: By responding to customer needs, businesses can deliver more value.
+- **Improved [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}})**: By responding to customer needs, businesses can deliver more value.
 
 - **Enhanced profitability**: Continuous adaptation drives long-term success by maximizing both revenue and efficiency.
 

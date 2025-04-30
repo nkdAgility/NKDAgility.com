@@ -43,14 +43,14 @@ Welcome back to my blog! Today, I want to share some insights from my recent off
 I recently had a thought-provoking conversation on Twitter with Daniel Kahney, who suggested that story points have caused more harm than good in our industry over the past two decades. Initially, I was a fan of story points, but my perspective has shifted significantly. Here’s why:
 
 - **Lack of Value**: Story points are meant to be a relative measure of effort, but they often fail to provide real value. Each team interprets story points differently, making cross-team comparisons meaningless.
-- **Predictability Issues**: The standard deviation in story point estimation can be as high as 30%. This wide variance makes it difficult to predict what a team can deliver in a sprint accurately.
-- **Focus on Throughput**: Instead of relying on story points, I advocate for measuring throughput. This approach focuses on the number of items completed in a given timeframe, allowing teams to optimise their processes more effectively.
+- **Predictability Issues**: The standard deviation in story point [estimation]({{< ref "/tags/estimation" >}}) can be as high as 30%. This wide variance makes it difficult to predict what a team can deliver in a sprint accurately.
+- **Focus on [Throughput]({{< ref "/tags/throughput" >}})**: Instead of relying on story points, I advocate for measuring throughput. This approach focuses on the number of items completed in a given timeframe, allowing teams to optimise their processes more effectively.
 
-By shifting our focus from story points to throughput and cycle time, teams can make more informed decisions and improve their delivery capabilities. I believe that embracing this change sooner rather than later will lead to better outcomes.
+By shifting our focus from story points to throughput and [cycle time]({{< ref "/tags/cycle-time" >}}), teams can make more informed decisions and improve their delivery capabilities. I believe that embracing this change sooner rather than later will lead to better outcomes.
 
 ### Rethinking Team Size
 
-Another question that came up during my office hours was about team size. The Scrum Guide suggests a team size of 3 to 9 members, but I’ve seen teams thrive with sizes beyond this range. Here’s what I’ve observed:
+Another question that came up during my office hours was about team size. The [Scrum]({{< ref "/categories/scrum" >}}) Guide suggests a team size of 3 to 9 members, but I’ve seen teams thrive with sizes beyond this range. Here’s what I’ve observed:
 
 - **Larger Teams Can Work**: In my experience, teams of 10 to 12 members can be effective, especially when they incorporate various roles, such as site reliability engineers, within the sprint. This structure allows for better handling of outages and ensures that the team can maintain focus on delivering value.
 - **Quality and Efficiency**: Larger teams can manage more complex tasks and maintain high-quality software in production. They can also run essential checks, such as security and performance benchmarks, without disrupting the flow of work.
@@ -69,4 +69,4 @@ The final topic I want to address is the concept of emergent architecture. This 
 
 In summary, my recent discussions have reinforced my belief that we need to evolve our practices to stay relevant in the agile landscape. Moving away from story points, re-evaluating team sizes, and embracing emergent architecture are all steps in the right direction. 
 
-If you have any questions or want to dive deeper into these topics, feel free to reach out. I’m here to help you navigate your agile journey. And remember, Naked Agility is available for DevOps and agile training and consulting—don’t hesitate to contact us for a free consultation!
+If you have any questions or want to dive deeper into these topics, feel free to reach out. I’m here to help you navigate your agile journey. And remember, Naked Agility is available for [DevOps]({{< ref "/categories/devops" >}}) and agile training and consulting—don’t hesitate to contact us for a free consultation!

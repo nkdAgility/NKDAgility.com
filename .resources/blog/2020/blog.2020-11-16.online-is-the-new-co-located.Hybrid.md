@@ -103,7 +103,7 @@ Well, it would be if many agile practitioners were not suffering from cognitive 
 
 ## Co-location re-defined
 
-Its been 25 (1995) years since the first Scrum project and the average internet speed was 56kbps! Here is a list of the important dates since then and the average internet speed in brackets:
+Its been 25 (1995) years since the first [Scrum]({{< ref "/categories/scrum" >}}) project and the average internet speed was 56kbps! Here is a list of the important dates since then and the average internet speed in brackets:
 
 - 1995 - First Scrum project (56kbps)
 
@@ -120,11 +120,11 @@ Today I, along with most folks in the technology industry, have internet speed i
 While we need to re-define co-located for the general usage of the word I have always used the following:
 
 > **Co-Location:**  
-> Co-location is a complimentary agile practice where all members of the same Scrum Team work daily in the same room, within visual sight of each other.
+> Co-location is a complimentary agile practice where all members of the same [Scrum Team]({{< ref "/tags/scrum-team" >}}) work daily in the same room, within visual sight of each other.
 >
 > \-[Martin Hinshelwood: What is your perspective on collocation?](https://nkdagility.com/blog/what-is-your-perspective-on-collocation/)
 
-This definition encompasses both in-person and virtual events as long as we can see everyone. We need to see folks express and posture in order to gain a greater degree of transparency over what they are thinking, how they are absorbing the information and how we need to adapt the material to increase understanding. How do you expect the facilitator to understand what you as a participant get or don't without being able to see you?
+This definition encompasses both in-person and virtual events as long as we can see everyone. We need to see folks express and posture in order to gain a greater degree of [transparency]({{< ref "/tags/transparency" >}}) over what they are thinking, how they are absorbing the information and how we need to adapt the material to increase understanding. How do you expect the facilitator to understand what you as a participant get or don't without being able to see you?
 
 <figure>
 

@@ -38,15 +38,15 @@ categories:
 - Product Development
 
 ---
-## The Missing Piece in My Initial Scrum Journey
+## The Missing Piece in My Initial [Scrum]({{< ref "/categories/scrum" >}}) Journey
 
-Discovering the 'Lean' Approach Sooner 🌟
+Discovering the '[Lean]({{< ref "/categories/lean" >}})' Approach Sooner 🌟
 
 Reflecting back on the onset of my Scrum journey, there's one crucial element that I fervently wish had graced my path sooner - the ‘lean’ philosophy.
 
 I can't help but ponder how my trajectory would have taken a different shape, potentially an even more successful one, had I embraced a 'lean' narrative from the very beginning. 🚀
 
-Unfortunately, it was only about 7 or 8 years into my scrum narrative when I finally stumbled upon the transformative power of lean principles. The realisation dawned on me then, the dynamism it brought into the entire process was a game-changer.
+Unfortunately, it was only about 7 or 8 years into my scrum narrative when I finally stumbled upon the transformative power of [lean principles]({{< ref "/tags/lean-principles" >}}). The realisation dawned on me then, the dynamism it brought into the entire process was a game-changer.
 
 ## Scrum & Lean: A Symbiotic Relationship
 

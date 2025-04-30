@@ -50,7 +50,7 @@ categories: []
 ---
 When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms—**compassion, benevolence, empathy**—and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.
 
-In this post, we’ll explore kindness as one of the **Seven Virtues of Agility** and why it's essential for both **customer focus** and **team collaboration**.
+In this post, we’ll explore kindness as one of the **Seven Virtues of Agility** and why it's essential for both **customer focus** and **[team collaboration]({{< ref "/tags/team-collaboration" >}})**.
 
 ## **Relentless Customer Focus: Building Empathy and Trust**
 
@@ -126,7 +126,7 @@ When we treat our customers and teams with kindness, they trust us to make the r
 
 As a leader, your role is to **model kindness**. Show your team what it looks like to treat both customers and colleagues with respect, compassion, and empathy. This doesn’t just make for a nicer workplace—it directly impacts the quality of your product and your company’s success.
 
-If you’re struggling to integrate the **Seven Virtues of Agility** into your workflow, don’t hesitate to ask for help. Whether it's **coaching, training, or consulting**, my team at **Naked Agility** can guide you in embedding kindness and other virtues into the DNA of your organization.
+If you’re struggling to integrate the **Seven Virtues of Agility** into your workflow, don’t hesitate to ask for help. Whether it's **[coaching]({{< ref "/tags/coaching" >}}), training, or consulting**, my team at **Naked Agility** can guide you in embedding kindness and other virtues into the DNA of your organization.
 
 ## **Conclusion: Embrace Kindness for True Agility**
 

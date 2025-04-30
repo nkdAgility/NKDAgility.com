@@ -47,11 +47,11 @@ As I embark on the next phase of my professional journey, I'm zeroing in on crea
 
 Interestingly, I realise I've already planted this initiative's seeds. Numerous individuals who have attended my training classes continue to engage, forming an organic, ongoing learning community and growing into what I now recognise as agile apprentices.😊
 
-### Open Invitation for Continuous Learning 📚
+### Open Invitation for [Continuous Learning]({{< ref "/tags/continuous-learning" >}}) 📚
 
 Throughout my career, I've had the privilege of introducing a myriad of professionals to the concepts of Agile through my training programmes. What has been truly fascinating to witness is the number of these individuals who choose to continue their learning journey with me, transforming our relationship into an ongoing, insightful hangout rich with Agile discussions. 🙌
 
-In a bid to stimulate an environment of continuous learning, I've maintained an open invitation to anyone interested in booking a casual, 30-minute coffee chat with me. During these sessions, we can engage in an informal discourse on anything from Agile to Scrum to DevOps, fostering an enduring knowledge exchange. ☕
+In a bid to stimulate an environment of continuous learning, I've maintained an open invitation to anyone interested in booking a casual, 30-minute coffee chat with me. During these sessions, we can engage in an informal discourse on anything from Agile to [Scrum]({{< ref "/categories/scrum" >}}) to [DevOps]({{< ref "/categories/devops" >}}), fostering an enduring knowledge exchange. ☕
 
 ### Added Consultation Incentive 🕰️
 
@@ -61,13 +61,13 @@ These initiatives - coffee chats, bonus consulting time, and an open invitation 
 
 ## Apprentice-Mentor Relationship
 
-Take the case of one of my students, Rickard, who is a Scrum Master who frequently reaches out for additional consulting hours. Our interactions, whether revolving around his achievements, his need for guidance, or simply a sounding board for his ideas, always prove mutually enriching. 👥
+Take the case of one of my students, Rickard, who is a [Scrum Master]({{< ref "/tags/scrum-master" >}}) who frequently reaches out for additional consulting hours. Our interactions, whether revolving around his achievements, his need for guidance, or simply a sounding board for his ideas, always prove mutually enriching. 👥
 
 This Scrum Master-Mentor model is a prototype of the Agile apprenticeship concept I envision. It involves creating a safe space for Scrum Masters and other professionals to express doubts, share victories, and seek advice. Sometimes, the most important feedback they can get is the assurance that they're on the right track. Other times, they benefit from a fresh perspective and new strategies to experiment with. 🚀
 
 ### Looking Forward to the Future of Agile Apprenticeships
 
-So, I am looking forward to this new mentoring direction, eager to hear more success stories as people implement the teachings in real-life situations. After all, seeing these ideas come to life and bring about positive change is thrilling! 🚀
+So, I am looking forward to this new [mentoring]({{< ref "/tags/mentoring" >}}) direction, eager to hear more success stories as people implement the teachings in real-life situations. After all, seeing these ideas come to life and bring about positive change is thrilling! 🚀
 
 Let's embark on this journey of learning and growth together!
 

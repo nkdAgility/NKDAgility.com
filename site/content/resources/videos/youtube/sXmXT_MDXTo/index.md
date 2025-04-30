@@ -20,12 +20,14 @@ aliases:
 - /resources/sXmXT_MDXTo
 - /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
+- /resources/videos/devops-elevating-your-organization-s-performance-through-bespoke-solutions
 aliasesArchive:
 - /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 - /resources/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 - devops-elevating-your-organizations-performance-through-bespoke-solutions
+- /resources/videos/devops-elevating-your-organization-s-performance-through-bespoke-solutions
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +45,7 @@ categories:
 - Engineering Excellence
 
 ---
-In the fast-evolving world of software development and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to DevOps that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.
+In the fast-evolving world of [software development]({{< ref "/tags/software-development" >}}) and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to [DevOps]({{< ref "/categories/devops" >}}) that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.
 
 ## **Understanding the Current State with DevOps Reports**
 
@@ -65,7 +67,7 @@ When conducting a State of DevOps Report, consider the following areas:
 
 - **Tooling:** What tools are currently in use? Are they the right fit for your needs, or is there redundancy that could be streamlined?
 
-- **Ground-Level Practices:** What’s happening on the ground, not just at the leadership level? This involves understanding the real processes used by the teams.
+- **Ground-Level Practices:** What’s happening on the ground, not just at the [leadership]({{< ref "/categories/leadership" >}}) level? This involves understanding the real processes used by the teams.
 
 _Example:_ I once worked with an organization that had 13 different source control systems in use for a single product. The waste was staggering, and it was clear that streamlining this process would lead to significant improvements.
 
@@ -93,9 +95,9 @@ One of the significant challenges many organizations face when adopting DevOps p
 
 ### **The Reality**
 
-- **SOX Compliance:** It’s a myth that SOX compliance requires a strict separation between developers and those who release code. In reality, it’s possible to meet SOX requirements while still embracing DevOps principles like continuous integration and delivery.
+- **SOX Compliance:** It’s a myth that SOX compliance requires a strict separation between developers and those who release code. In reality, it’s possible to meet SOX requirements while still embracing DevOps principles like [continuous integration]({{< ref "/tags/continuous-integration" >}}) and delivery.
 
-- **Education and Coaching:** Part of our role in helping organizations adopt DevOps is to educate and coach both technical teams and business leadership on how to meet compliance requirements without sacrificing the benefits of DevOps.
+- **Education and [Coaching]({{< ref "/tags/coaching" >}}):** Part of our role in helping organizations adopt DevOps is to educate and coach both technical teams and business leadership on how to meet compliance requirements without sacrificing the benefits of DevOps.
 
 _Example:_ Automatic deployments are often resisted due to compliance fears. However, with the right controls in place, it’s entirely possible to automate deployments while staying compliant with SOX and other regulations.
 
@@ -105,11 +107,11 @@ One of the most significant benefits of adopting DevOps is the shift towards own
 
 ### **Why Ownership Matters**
 
-- **Continuous Delivery:** DevOps enables more frequent, higher-quality deliveries by fostering a sense of ownership among teams.
+- **[Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}):** DevOps enables more frequent, higher-quality deliveries by fostering a sense of ownership among teams.
 
 - **Reduced Friction:** When teams are responsible for the entire process, there’s less friction in getting software out the door.
 
-- **Closing Feedback Loops:** Ownership ensures that feedback loops are closed, leading to continuous improvement.
+- **Closing Feedback Loops:** Ownership ensures that feedback loops are closed, leading to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### **Practical Steps to Enhance Ownership**
 
@@ -137,7 +139,7 @@ A recent incident with CrowdStrike highlights the importance of controlling the 
 
 - **Strategic Timing:** Deploy on Monday mornings, not Fridays, to ensure that any issues can be addressed promptly.
 
-_Example:_ Even organizations with high-quality products, like Windows, control their blast radius by deploying to a small group before a full rollout. This approach minimizes risk and ensures a smoother deployment process.
+_Example:_ Even organizations with high-quality products, like [Windows]({{< ref "/tags/windows" >}}), control their blast radius by deploying to a small group before a full rollout. This approach minimizes risk and ensures a smoother deployment process.
 
 ## **Conclusion**
 

@@ -54,9 +54,9 @@ categories:
 - Product Development
 
 ---
-In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for continuous improvement is **Kanban**.
+In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is **[Kanban]({{< ref "/categories/kanban" >}})**.
 
-Kanban is more than just a method; it’s a mindset. It offers transparency into your existing system, helping teams gain valuable insights into their processes and identify areas for improvement. In this blog post, we’ll explore how understanding your system through Kanban can transform your workflow and foster an environment of continuous delivery and improvement.
+Kanban is more than just a method; it’s a mindset. It offers [transparency]({{< ref "/tags/transparency" >}}) into your existing system, helping teams gain valuable insights into their processes and identify areas for improvement. In this blog post, we’ll explore how understanding your system through Kanban can transform your workflow and foster an environment of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) and improvement.
 
 ## **Understanding Your System: The First Step** **🛠️**
 
@@ -74,7 +74,7 @@ When we talk about “the system,” we mean all the elements that make up how w
 
 - The cadence of your deliveries
 
-In my experience as a Scrum Trainer, **gaining a deep understanding of these elements** is where transformation begins. Without this foundational understanding, it’s impossible to make meaningful improvements. By visualizing your system through Kanban, you start to notice the hidden intricacies and interdependencies that might otherwise go unnoticed.
+In my experience as a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, **gaining a deep understanding of these elements** is where transformation begins. Without this foundational understanding, it’s impossible to make meaningful improvements. By visualizing your system through Kanban, you start to notice the hidden intricacies and interdependencies that might otherwise go unnoticed.
 
 **Personal Example: Transparency Saved Our Project** **🚨**
 
@@ -90,11 +90,11 @@ One of the standout features of **Kanban** is its ability to provide clear metri
 
 Kanban helps teams track important metrics such as:
 
-- **Lead Time:** The time it takes from when work starts to when it's completed.
+- **[Lead Time]({{< ref "/tags/lead-time" >}}):** The time it takes from when work starts to when it's completed.
 
-- **Cycle Time:** The time taken to complete individual tasks.
+- **[Cycle Time]({{< ref "/tags/cycle-time" >}}):** The time taken to complete individual tasks.
 
-- **Throughput:** The number of tasks completed in a set period.
+- **[Throughput]({{< ref "/tags/throughput" >}}):** The number of tasks completed in a set period.
 
 These metrics give your team a better understanding of the efficiency of your workflow. They highlight where you may be hitting bottlenecks or inefficiencies, and they provide a basis for continuous improvement.
 
@@ -144,7 +144,7 @@ By understanding your workflow and seeing where the inefficiencies lie, you’re
 
 - **Continuously improve:** With each improvement, you can track the results and iterate, ensuring that your process gets better over time.
 
-- **Increase team collaboration:** Transparency leads to better communication and collaboration within the team, as everyone has a shared understanding of the current state of work.
+- **Increase [team collaboration]({{< ref "/tags/team-collaboration" >}}):** Transparency leads to better communication and collaboration within the team, as everyone has a shared understanding of the current state of work.
 
 ### **My Advice for Scrum Teams** **📝**
 

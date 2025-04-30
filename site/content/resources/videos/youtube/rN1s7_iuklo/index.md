@@ -81,13 +81,13 @@ One of the most common mistakes in Agile implementation is the belief that one p
 
 ## **How to Empower Your Teams**
 
-### **Foster a Culture of Continuous Improvement**
+### **Foster a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 Empowering teams starts with fostering a culture of continuous improvement. Encourage your teams to regularly reflect on their processes and identify areas for enhancement.
 
 - **Retrospectives**: Use retrospectives not just as a routine meeting, but as a genuine opportunity for teams to discuss what’s working, what isn’t, and what could be improved. Make it clear that changes are welcomed and supported.
 
-- **Experimentation**: Promote a mindset of experimentation. Allow teams to try new tools, techniques, and practices to see what works best for them. Failure should be seen as a learning opportunity rather than a setback.
+- **[Experimentation]({{< ref "/tags/experimentation" >}})**: Promote a mindset of experimentation. Allow teams to try new tools, techniques, and practices to see what works best for them. Failure should be seen as a learning opportunity rather than a setback.
 
 ### **Provide the Right Tools and Support**
 
@@ -95,9 +95,9 @@ Empowerment isn't about leaving teams to figure it out on their own—it's about
 
 - **Access to Tools**: Ensure that teams have access to a variety of tools and resources that can help them optimize their processes. This might include software, training, or even just the freedom to rearrange their workspace to better suit their needs.
 
-- **Supportive Leadership**: Leaders play a crucial role in empowering teams. Provide guidance, but avoid micromanaging. Trust your teams to make decisions about how they work best, and be available to support them when needed.
+- **Supportive [Leadership]({{< ref "/categories/leadership" >}})**: Leaders play a crucial role in empowering teams. Provide guidance, but avoid micromanaging. Trust your teams to make decisions about how they work best, and be available to support them when needed.
 
-### **Encourage Cross-Team Collaboration**
+### **Encourage Cross-[Team Collaboration]({{< ref "/tags/team-collaboration" >}})**
 
 While each team may have its own unique processes, there’s still value in collaboration and sharing best practices across teams.
 

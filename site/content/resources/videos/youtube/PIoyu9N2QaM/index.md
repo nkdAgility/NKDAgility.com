@@ -47,11 +47,11 @@ categories:
 ---
 ## Unpacking the Differences
 
-A newbie vs professional Scrum Master could be considered a misconception.
+A newbie vs professional [Scrum]({{< ref "/categories/scrum" >}}) Master could be considered a misconception.
 
 Allow me to explain why.
 
-In the Agile world, and particularly in Scrum, answering an intriguing question like the title of this article can be tricky. Still, as I'm often asked, - "What's the difference between a newbie Scrum Master and a professional Scrum Master?" I'll tackle it and let's look at the differences together.  🎯
+In the Agile world, and particularly in Scrum, answering an intriguing question like the title of this article can be tricky. Still, as I'm often asked, - "What's the difference between a newbie [Scrum Master]({{< ref "/tags/scrum-master" >}}) and a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master?" I'll tackle it and let's look at the differences together.  🎯
 
 Is There Such a Thing as a 'Newbie' or a 'Professional' Scrum Master?
 
@@ -61,7 +61,7 @@ In my opinion, the concept of a 'newbie' or 'professional' Scrum Master doesn't 
 
 Surprised? Let me explain.
 
-You don't become a Scrum Master as a newbie. Instead, you step into the role because you've showcased competence within your team. The moment you take accountability as a Scrum Master, you're an experienced, effective professional.
+You don't become a Scrum Master as a newbie. Instead, you step into the role because you've showcased [competence]({{< ref "/tags/competence" >}}) within your team. The moment you take accountability as a Scrum Master, you're an experienced, effective professional.
 
 When you take on the role of a Scrum Master, you're no longer a novice. 🏅
 
