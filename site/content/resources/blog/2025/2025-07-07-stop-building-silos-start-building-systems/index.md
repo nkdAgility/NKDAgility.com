@@ -8,37 +8,37 @@ ResourceContentOrigin: hybrid
 date: 2025-07-07T09:00:00Z
 weight: 180
 aliases:
-  - /resources/zLhc3UKUWOj
+- /resources/zLhc3UKUWOj
 aliasesArchive:
-  - /stop-building-silos--start-building-systems
-  - /blog/stop-building-silos--start-building-systems
+- /stop-building-silos--start-building-systems
+- /blog/stop-building-silos--start-building-systems
 categories:
-  - DevOps
-  - Engineering Excellence
-  - Product Development
+- DevOps
+- Engineering Excellence
+- Product Development
 tags:
-  - One Engineering System
-  - Platform Engineering
-  - Operational Practices
-  - Internal Developer Platform
-  - Technical Excellence
-  - Pragmatic Thinking
-  - Product Delivery
-  - Software Development
-  - Technical Mastery
-  - Continuous Delivery
-  - Engineering Practices
-  - Flow Efficiency
-  - Value Delivery
-  - Azure Pipelines
-  - Azure DevOps
-  - Deployment Frequency
-  - Market Adaptability
-  - Team Performance
-  - Time to Market
-  - Scaling
----
+- One Engineering System
+- Platform Engineering
+- Operational Practices
+- Internal Developer Platform
+- Technical Excellence
+- Pragmatic Thinking
+- Product Delivery
+- Software Development
+- Technical Mastery
+- Continuous Delivery
+- Engineering Practices
+- Flow Efficiency
+- Value Delivery
+- Azure Pipelines
+- Azure DevOps
+- Deployment Frequency
+- Market Adaptability
+- Team Performance
+- Time to Market
+- Scaling
 
+---
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.
 
 If your automation strategy looks something like this:

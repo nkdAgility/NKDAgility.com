@@ -7,58 +7,12 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 
-$levelSwitch.MinimumLevel = 'Debug'
-
-# Iterate through each blog folder and update markdown files
-$outputDir = ".\site\content\resources\"
-$resources = $null
-# Get list of directories and select the first 10
-$resources = Get-ChildItem -Path $outputDir  -Recurse -Filter "index.md"  | Sort-Object { $_ } -Descending 
-#$resources += Get-ChildItem -Path "site\content\capabilities\training-courses"  -Recurse -Include "index.md", "_index.md"  | Sort-Object { $_ } -Descending
-
-$Counter = 1
+$levelSwitch.MinimumLevel = 'Information'
 
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
-$ResourceCatalogue = @{}
-$numberOfYears = 10
-$ResourceCatalogueCutoffDate = (Get-Date).AddYears(-$numberOfYears)
-
-Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $resources.Count
-$resourceCount = $resources.Count
-$progressStep = [math]::Ceiling($resourceCount / 10)  # Calculate step for 10% progress
-$hugoMarkdownObjects = @()
-
-$resources | ForEach-Object -Begin { $index = 0 } -Process {
-    if (Test-Path $_) {
-        $hugoMarkdown = Get-HugoMarkdown -Path $_
-        $hugoMarkdownObjects += $hugoMarkdown
-    }
-
-    $index++
-    if ($index % $progressStep -eq 0 -or $index -eq $resourceCount) {
-        Write-InformationLog "Progress: $([math]::Round(($index / $resourceCount) * 100))% complete"
-    }
-}
-
-$TotalItems = $hugoMarkdownObjects.Count
-Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $TotalItems
-### FILTER hugoMarkdownObjects
-$hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date } -Descending #| Select-Object -First 200 
-$hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { 
-    if ($_.FrontMatter.date) { 
-        $date = [DateTime]::Parse($_.FrontMatter.date)
-        return $date -gt $ResourceCatalogueCutoffDate
-    }
-    else {
-        return $false  # Skip objects with null/empty dates
-    }
-} | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
-
-
-# Display the filtered results
-#$hugoMarkdownObjects | Select-Object FrontMatter
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -67,51 +21,23 @@ $hugoMarkdownQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
 $hugoMarkdownObjects | ForEach-Object {
     $hugoMarkdownQueue.Enqueue($_)
 }
-$hugoMarkdownBatchQueue = New-Object System.Collections.Generic.Queue[HugoMarkdown]
 $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 Write-InfoLog "Initialise Batch Count..."
-$batchesInProgress = 0# Get-OpenAIBatchesInProgress <----------------------------------------------
-$batchOverage = 10
-Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
-$runBatchCheck = $false
-$batchCheckCount = 0
-$batchCheckCountMax = 0
 
-while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
-    if (($hugoMarkdownBatchQueue.Count -le $batchesInProgress)) {
-        $runBatchCheck = $false
-    }
-    $ActivityText = "Processing [Q1:$($Counter)/$TotalItems][Q2:$($hugoMarkdownBatchQueue.count)/$batchesInProgress|$($hugoMarkdownBatchQueue.Count - $batchesInProgress - $batchOverage)]"
+
+while ($hugoMarkdownQueue.Count -gt 0) {
+   
+    $ActivityText = "Processing [Q1:$($Counter)/$TotalItems]"
     Write-InformationLog $ActivityText 
-    if ((($runBatchCheck -and $hugoMarkdownBatchQueue.Count -gt 0) -and $batchCheckCount -le $hugoMarkdownBatchQueue.Count) -or $hugoMarkdownQueue.Count -eq 0) {
-        $hugoMarkdown = $hugoMarkdownBatchQueue.Dequeue()
-        $batchCheckCount++
-        Write-Progress -id 1 -Activity $ActivityText -Status "Batch Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
-        Write-InfoLog "Processing Batch: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-        if ($batchCheckCount -ge $batchCheckCountMax) {
-            Write-DebugLog "Checking Batch status..."
-            $batchesInProgress = Get-OpenAIBatchesInProgress
-            Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
-            $runBatchCheck = $false
-            $batchCheckCount = 0
-            $batchCheckCountMax = 0
-        }        
-    }
-    elseif ($hugoMarkdownQueue.Count -gt 0) {
-        $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
-        $Counter++
-        $PercentComplete = ($Counter / $TotalItems) * 100
-        Write-Progress -id 1 -Activity $ActivityText -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
-        Write-DebugLog "--------------------------------------------------------"
-        Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-    }
-    else {
-        Write-DebugLog "Checking Batch status..."
-        $batchesInProgress = Get-OpenAIBatchesInProgress
-        Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
-        continue
-    }
+
+    $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
+    $Counter++
+    $PercentComplete = ($Counter / $TotalItems) * 100
+    Write-Progress -id 1 -Activity $ActivityText -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+    Write-DebugLog "--------------------------------------------------------"
+    Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
+   
 
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
@@ -345,21 +271,6 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         }
     }
 
-    #=================Batch=================  
-    # If there are any batches for this item add it to the batch queue for reprocessing
-    $resources = Get-ChildItem -Path $hugoMarkdown.FolderPath  -Recurse -Filter "*.batch"
-    if ($resources.Count -gt 0) {
-        $hugoMarkdownBatchQueue.Enqueue($hugoMarkdown)
-        if ((($hugoMarkdownBatchQueue.Count) -gt $batchesInProgress) -and $runBatchCheck -eq $false) {
-            Write-DebugLog "Checking Batch status..."
-            $batchesInProgress = Get-OpenAIBatchesInProgress
-            Write-InfoLog "Batch Status: [Queued:{queued}] [InProgress:{batchesInProgress}]" -PropertyValues ($hugoMarkdownBatchQueue.count), $batchesInProgress
-        }
-        if (($hugoMarkdownBatchQueue.Count - $batchesInProgress) -gt $batchOverage) {
-            $runBatchCheck = $true
-            $batchCheckCountMax = $hugoMarkdownBatchQueue.Count
-        }
-    }
 }
 
 Write-Progress -id 1 -Completed

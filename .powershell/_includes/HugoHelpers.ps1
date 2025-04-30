@@ -353,4 +353,69 @@ function Get-HugoMarkdownList {
     return $metadataList
 }
 
+function Get-HugoMarkdownListAsHashTable {
+    param (
+        [Parameter(Mandatory = $true)]
+        [Array]$hugoMarkdownList
+    )
+
+    $hashTable = @{}
+    
+    foreach ($item in $hugoMarkdownList) {
+        if ($item.PSObject.Properties['ResourceId']) {
+            $hashTable[$item.ResourceId] = $item
+        }
+        else {
+            Write-Warning "Item missing ResourceId: $($item | Out-String)"
+        }
+    }
+
+    return $hashTable
+}
+
+function Get-RecentHugoMarkdownResources {
+    param (
+        [string]$Path = ".\site\content\resources",
+        [int]$YearsBack = 10
+    )
+
+    Write-InformationLog "Retrieving markdown files from '$Path'..."
+
+    $cutoffDate = (Get-Date).AddYears(-$YearsBack)
+    $resources = Get-ChildItem -Path $Path -Recurse -Filter "index.md" | Sort-Object { $_ } -Descending
+    $resourceCount = $resources.Count
+    $progressStep = [math]::Ceiling($resourceCount / 10)
+    $hugoMarkdownObjects = @()
+
+    Write-InformationLog "Loading ({count}) markdown files..." -PropertyValues $resourceCount
+
+    $resources | ForEach-Object -Begin { $index = 0 } -Process {
+        if (Test-Path $_) {
+            $hugoMarkdown = Get-HugoMarkdown -Path $_
+            $hugoMarkdownObjects += $hugoMarkdown
+        }
+
+        $index++
+        if ($index % $progressStep -eq 0 -or $index -eq $resourceCount) {
+            Write-InformationLog "Progress: $([math]::Round(($index / $resourceCount) * 100))% complete"
+        }
+    }
+
+    Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownObjects.Count
+
+    $filtered = $hugoMarkdownObjects | Where-Object {
+        if ($_.FrontMatter.date) {
+            $date = [DateTime]::Parse($_.FrontMatter.date)
+            return $date -gt $cutoffDate
+        }
+        return $false
+    } | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
+
+    Write-InformationLog "Filtered to ({count}) recent HugoMarkdown Objects." -PropertyValues $filtered.Count
+
+    return $filtered
+}
+
+
+
 Write-InfoLog "HugoHelpers.ps1 loaded"

@@ -226,8 +226,18 @@ function Submit-OpenAIBatch {
         return $null
     }
     $tokenEstimate = 0
+    $total = $Prompts.Count
+    $counter = 0
+    $nextPercent = 10
     $BatchData = $Prompts | ForEach-Object {
         $tokenEstimate += Get-TokenCount $_
+        $counter++
+        $percent = [math]::Floor(($counter / $total) * 100)
+        if ($percent -ge $nextPercent) {
+            Write-Host "Processed $counter of $total prompts ($percent%)"
+            $nextPercent += 10
+        }
+
         [PSCustomObject]@{
             custom_id = "request-$([System.Guid]::NewGuid().ToString())"
             method    = "POST"
@@ -241,7 +251,8 @@ function Submit-OpenAIBatch {
                 max_tokens = 5000
             }
         } | ConvertTo-Json -Depth 10 -Compress
-    } 
+    }
+
     
     # Ensure each JSON object is written as a new line in the .jsonl file
     $BatchData -join "`n" | Set-Content -Path $OutputFile -Encoding utf8
@@ -259,12 +270,18 @@ function Submit-OpenAIBatch {
         $batchesInProgress++
     }
     Write-Host "Batch submitted. ID: $BatchId"
-    return $BatchId
+    return  [PSCustomObject]@{
+        BatchId              = $BatchId
+        TokenEstimate        = $tokenEstimate
+        BatchesInProgress    = $batchesInProgress
+        BatchesInProgressMax = $batchesInProgressMax
+    }
 }
 
 function Get-OpenAIBatchStatus {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
+        [Parameter(Mandatory = $true)]
         [string]$BatchId
     )
     
