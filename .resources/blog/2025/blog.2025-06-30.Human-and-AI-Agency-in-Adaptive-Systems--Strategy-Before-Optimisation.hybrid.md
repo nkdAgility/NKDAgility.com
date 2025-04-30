@@ -52,7 +52,7 @@ In professional practice, I map **human agency** and **AI agency** to different 
 
 The strategic layer demands human discernment because it must constantly negotiate ethical trade-offs, respond to uncertainty, and reset direction as new information emerges. Tactical layers benefit from AI’s raw speed, capacity for pattern recognition, and ability to handle enormous volumes of data. There is synergy, but it is not a partnership of equals. Humans govern; AI serves.
 
-{{< mermaid >}}
+{{< mermaid width="400px" >}}
 flowchart TD
 A([Decision Point]) --> B{Is strategy or purpose changing?}
 B -- Yes --> H[/"Human Agency"/]
