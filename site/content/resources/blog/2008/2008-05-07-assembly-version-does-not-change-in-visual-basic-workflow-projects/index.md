@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: assembly-version-does-not-change-in-visual-basic-workflow-projects
 aliases:
-- /blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
-- /assembly-version-does-not-change-in-visual-basic-workflow-projects
 - /resources/k9UAGHKPtUz
-- /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
 aliasesArchive:
 - /blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
 - /assembly-version-does-not-change-in-visual-basic-workflow-projects

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliases:
-- /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
-- /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/V6qWqBrh4kv
-- /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliasesArchive:
 - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive

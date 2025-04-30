@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: screenshots-of-vista-from-2002-to-today
 aliases:
-- /blog/screenshots-of-vista-from-2002-to-today
-- /screenshots-of-vista-from-2002-to-today
 - /resources/jKVJOS1VMWK
-- /resources/blog/screenshots-of-vista-from-2002-to-today
 aliasesArchive:
 - /blog/screenshots-of-vista-from-2002-to-today
 - /screenshots-of-vista-from-2002-to-today

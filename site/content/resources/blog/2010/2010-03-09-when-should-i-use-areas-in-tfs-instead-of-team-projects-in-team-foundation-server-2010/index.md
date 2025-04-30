@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 aliases:
-- /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
-- /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /resources/vrUQdaxyOTf
-- /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 aliasesArchive:
 - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 - /when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010

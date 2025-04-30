@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: error-creating-listener-in-team-build
 aliases:
-- /blog/error-creating-listener-in-team-build
-- /error-creating-listener-in-team-build
 - /resources/Eonka3snrWz
-- /resources/blog/error-creating-listener-in-team-build
 aliasesArchive:
 - /blog/error-creating-listener-in-team-build
 - /error-creating-listener-in-team-build

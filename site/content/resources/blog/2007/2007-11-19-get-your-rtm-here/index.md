@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: get-your-rtm-here
 aliases:
-- /blog/get-your-rtm-here
-- /get-your-rtm-here
-- /get-your-rtm-here-
-- /blog/get-your-rtm-here-
 - /resources/8gqTTHiRrpk
-- /resources/blog/get-your-rtm-here
 aliasesArchive:
 - /blog/get-your-rtm-here
 - /get-your-rtm-here

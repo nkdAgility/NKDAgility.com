@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: studying-for-the-new-job
 aliases:
-- /blog/studying-for-the-new-job
-- /studying-for-the-new-job
 - /resources/Vt_AB1py8ZH
-- /resources/blog/studying-for-the-new-job
 aliasesArchive:
 - /blog/studying-for-the-new-job
 - /studying-for-the-new-job

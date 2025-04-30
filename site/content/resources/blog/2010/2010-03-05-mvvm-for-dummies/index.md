@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: mvvm-for-dummies
 aliases:
-- /blog/mvvm-for-dummies
-- /mvvm-for-dummies
 - /resources/__7oXNKjdWP
-- /resources/blog/mvvm-for-dummies
 aliasesArchive:
 - /blog/mvvm-for-dummies
 - /mvvm-for-dummies

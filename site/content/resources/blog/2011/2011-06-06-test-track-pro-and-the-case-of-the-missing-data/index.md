@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: test-track-pro-and-the-case-of-the-missing-data
 aliases:
-- /blog/test-track-pro-and-the-case-of-the-missing-data
-- /test-track-pro-and-the-case-of-the-missing-data
 - /resources/h4j0yIumt7h
-- /resources/blog/test-track-pro-and-the-case-of-the-missing-data
 aliasesArchive:
 - /blog/test-track-pro-and-the-case-of-the-missing-data
 - /test-track-pro-and-the-case-of-the-missing-data

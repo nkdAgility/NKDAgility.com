@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-usage-statistics
 aliases:
-- /blog/tfs-usage-statistics
-- /tfs-usage-statistics
 - /resources/s5nBJ6ec37-
-- /resources/blog/tfs-usage-statistics
 aliasesArchive:
 - /blog/tfs-usage-statistics
 - /tfs-usage-statistics

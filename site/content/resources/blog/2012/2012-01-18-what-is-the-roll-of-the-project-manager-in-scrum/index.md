@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: what-is-the-roll-of-the-project-manager-in-scrum
 aliases:
-- /blog/what-is-the-roll-of-the-project-manager-in-scrum
-- /what-is-the-roll-of-the-project-manager-in-scrum
-- /what-is-the-roll-of-the-project-manager-in-scrum-
-- /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/nEmEarH66B7
-- /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 aliasesArchive:
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum
 - /what-is-the-roll-of-the-project-manager-in-scrum

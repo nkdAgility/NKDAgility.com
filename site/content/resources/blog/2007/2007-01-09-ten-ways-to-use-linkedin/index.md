@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: ten-ways-to-use-linkedin
 aliases:
-- /blog/ten-ways-to-use-linkedin
-- /ten-ways-to-use-linkedin
 - /resources/f_wB3o4HlXs
-- /resources/blog/ten-ways-to-use-linkedin
 aliasesArchive:
 - /blog/ten-ways-to-use-linkedin
 - /ten-ways-to-use-linkedin

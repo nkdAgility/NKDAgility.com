@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-8-issue-local-network-is-detected-as-public
 aliases:
-- /blog/windows-8-issue-local-network-is-detected-as-public
-- /windows-8-issue-local-network-is-detected-as-public
-- /windows-8-issue--local-network-is-detected-as-public
-- /blog/windows-8-issue--local-network-is-detected-as-public
 - /resources/Ws3mtPZiqjo
-- /resources/blog/windows-8-issue-local-network-is-detected-as-public
 aliasesArchive:
 - /blog/windows-8-issue-local-network-is-detected-as-public
 - /windows-8-issue-local-network-is-detected-as-public

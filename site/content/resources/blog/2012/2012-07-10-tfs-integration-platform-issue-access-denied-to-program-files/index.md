@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-platform-issue-access-denied-to-program-files
 aliases:
-- /blog/tfs-integration-platform-issue-access-denied-to-program-files
-- /tfs-integration-platform-issue-access-denied-to-program-files
-- /tfs-integration-tools-–-issue--access-denied-to-program-files
-- /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/wzTZxQrjbzO
-- /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 aliasesArchive:
 - /blog/tfs-integration-platform-issue-access-denied-to-program-files
 - /tfs-integration-platform-issue-access-denied-to-program-files

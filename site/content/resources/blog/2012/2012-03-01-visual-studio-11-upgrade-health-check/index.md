@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-11-upgrade-health-check
 aliases:
-- /blog/visual-studio-11-upgrade-health-check
-- /visual-studio-11-upgrade-health-check
 - /resources/A8N6LXr-4Ql
-- /resources/blog/visual-studio-11-upgrade-health-check
 aliasesArchive:
 - /blog/visual-studio-11-upgrade-health-check
 - /visual-studio-11-upgrade-health-check

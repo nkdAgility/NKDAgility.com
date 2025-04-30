@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: what-to-do-when-you-dont-have-a-working-computer
 aliases:
-- /blog/what-to-do-when-you-dont-have-a-working-computer
-- /what-to-do-when-you-dont-have-a-working-computer
-- /what-to-do-when-you-dont-have-a-working-computer-
-- /blog/what-to-do-when-you-dont-have-a-working-computer-
 - /resources/nD4pBeQgpZK
-- /resources/blog/what-to-do-when-you-dont-have-a-working-computer
 aliasesArchive:
 - /blog/what-to-do-when-you-dont-have-a-working-computer
 - /what-to-do-when-you-dont-have-a-working-computer

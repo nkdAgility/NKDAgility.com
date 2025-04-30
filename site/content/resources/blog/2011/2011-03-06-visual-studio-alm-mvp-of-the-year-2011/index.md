@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-alm-mvp-of-the-year-2011
 aliases:
-- /blog/visual-studio-alm-mvp-of-the-year-2011
-- /visual-studio-alm-mvp-of-the-year-2011
 - /resources/EN9cabHmNmb
-- /resources/blog/visual-studio-alm-mvp-of-the-year-2011
 aliasesArchive:
 - /blog/visual-studio-alm-mvp-of-the-year-2011
 - /visual-studio-alm-mvp-of-the-year-2011

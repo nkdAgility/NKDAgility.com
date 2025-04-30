@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 aliases:
-- /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-- /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /resources/2kvi44Dp0xl
-- /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 aliasesArchive:
 - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools

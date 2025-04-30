@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 aliases:
-- /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
-- /tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
-- /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /resources/gkD4iN7ZkP4
-- /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 aliasesArchive:
 - /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 - /tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters

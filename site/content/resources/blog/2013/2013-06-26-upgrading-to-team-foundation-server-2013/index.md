@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2013
 aliases:
-- /blog/upgrading-to-team-foundation-server-2013
-- /upgrading-to-team-foundation-server-2013
 - /resources/Ni5lk4V30pb
-- /resources/blog/upgrading-to-team-foundation-server-2013
 aliasesArchive:
 - /blog/upgrading-to-team-foundation-server-2013
 - /upgrading-to-team-foundation-server-2013

@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: avoid-pick-n-mix-branching-anti-pattern
 aliases:
-- /blog/avoid-pick-n-mix-branching-anti-pattern
-- /avoid-pick-n-mix-branching-anti-pattern
-- /avoid-the-pick-n-mix-branching-anti-pattern
-- /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/IVl4r4gpkQ6
-- /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 aliasesArchive:
 - /blog/avoid-pick-n-mix-branching-anti-pattern
 - /avoid-pick-n-mix-branching-anti-pattern

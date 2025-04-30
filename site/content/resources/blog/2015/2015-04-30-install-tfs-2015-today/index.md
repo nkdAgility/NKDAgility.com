@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: install-tfs-2015-today
 aliases:
-- /blog/install-tfs-2015-today
-- /install-tfs-2015-today
 - /resources/v-m2PYvEaWx
-- /resources/blog/install-tfs-2015-today
 aliasesArchive:
 - /blog/install-tfs-2015-today
 - /install-tfs-2015-today

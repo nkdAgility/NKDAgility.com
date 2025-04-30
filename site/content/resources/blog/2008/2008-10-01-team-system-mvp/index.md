@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: team-system-mvp
 aliases:
-- /blog/team-system-mvp
-- /team-system-mvp
 - /resources/-4be4NdCc9K
-- /resources/blog/team-system-mvp
 aliasesArchive:
 - /blog/team-system-mvp
 - /team-system-mvp

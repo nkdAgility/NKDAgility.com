@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: engaging-with-complexity-sharepoint-edition
 aliases:
-- /blog/engaging-with-complexity-sharepoint-edition
-- /engaging-with-complexity-sharepoint-edition
-- /engaging-with-complexity
-- /engaging-with-complexity---sharepoint-edition
-- /blog/engaging-with-complexity---sharepoint-edition
 - /resources/Lzmlul_Elhj
-- /resources/blog/engaging-with-complexity-sharepoint-edition
 aliasesArchive:
 - /blog/engaging-with-complexity-sharepoint-edition
 - /engaging-with-complexity-sharepoint-edition

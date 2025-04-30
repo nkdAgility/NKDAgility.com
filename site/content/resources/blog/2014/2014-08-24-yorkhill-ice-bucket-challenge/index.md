@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: yorkhill-ice-bucket-challenge
 aliases:
-- /blog/yorkhill-ice-bucket-challenge
-- /yorkhill-ice-bucket-challenge
 - /resources/dALLwF2kL-U
-- /resources/blog/yorkhill-ice-bucket-challenge
 aliasesArchive:
 - /blog/yorkhill-ice-bucket-challenge
 - /yorkhill-ice-bucket-challenge

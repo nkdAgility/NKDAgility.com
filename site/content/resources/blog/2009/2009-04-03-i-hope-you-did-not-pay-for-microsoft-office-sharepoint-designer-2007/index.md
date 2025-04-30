@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 aliases:
-- /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
-- /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /resources/RQY0XkuFgIq
-- /resources/blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 aliasesArchive:
 - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007

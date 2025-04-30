@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-in-salt-lake-city-utah
 aliases:
-- /blog/professional-scrum-foundations-in-salt-lake-city-utah
-- /professional-scrum-foundations-in-salt-lake-city-utah
-- /professional-scrum-foundations-in-salt-lake-city,-utah
-- /blog/professional-scrum-foundations-in-salt-lake-city,-utah
 - /resources/f7cHTAGDbeh
-- /professional-scrum-foundations-in-salt-lake-city--utah
-- /blog/professional-scrum-foundations-in-salt-lake-city--utah
-- /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 aliasesArchive:
 - /blog/professional-scrum-foundations-in-salt-lake-city-utah
 - /professional-scrum-foundations-in-salt-lake-city-utah

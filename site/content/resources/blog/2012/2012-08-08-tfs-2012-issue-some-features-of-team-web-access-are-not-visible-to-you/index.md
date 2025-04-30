@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliases:
-- /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-- /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
-- /tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
-- /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/bqwr6oBwO6C
-- /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliasesArchive:
 - /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 - /tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you

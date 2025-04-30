@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: adventures-in-scrum-lesson-2-for-the-record
 aliases:
-- /blog/adventures-in-scrum-lesson-2-for-the-record
-- /adventures-in-scrum-lesson-2-for-the-record
-- /adventures-in-scrum--lesson-2---for-the-record
-- /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/ycDsUu_-hNR
-- /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 aliasesArchive:
 - /blog/adventures-in-scrum-lesson-2-for-the-record
 - /adventures-in-scrum-lesson-2-for-the-record

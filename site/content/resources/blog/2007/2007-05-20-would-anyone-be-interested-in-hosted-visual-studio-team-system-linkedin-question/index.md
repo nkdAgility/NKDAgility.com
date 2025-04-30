@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliases:
-- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-- /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
-- /would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
-- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/aGh8Dn3evEi
-- /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliasesArchive:
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 - /would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question

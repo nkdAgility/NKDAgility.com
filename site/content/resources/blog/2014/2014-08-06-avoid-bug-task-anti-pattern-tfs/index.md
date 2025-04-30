@@ -14,13 +14,7 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 aliases:
-- /blog/avoid-bug-task-anti-pattern-tfs
-- /avoid-bug-task-anti-pattern-tfs
-- /avoid-the-bug-as-task-anti-pattern-in-azure-devops
-- /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
-- /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/ppfe8CkVNf0
-- /resources/blog/
 aliasesArchive:
 - /blog/avoid-bug-task-anti-pattern-tfs
 - /avoid-bug-task-anti-pattern-tfs

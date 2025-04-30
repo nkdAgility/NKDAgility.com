@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: htc-touch
 aliases:
-- /blog/htc-touch
-- /htc-touch
 - /resources/nPextmaNube
-- /resources/blog/htc-touch
 aliasesArchive:
 - /blog/htc-touch
 - /htc-touch

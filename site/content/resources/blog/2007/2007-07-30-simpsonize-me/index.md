@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: simpsonize-me
 aliases:
-- /blog/simpsonize-me
-- /simpsonize-me
-- /simpsonize-me-
-- /blog/simpsonize-me-
 - /resources/vThsgxwl-Tv
-- /resources/blog/simpsonize-me
 aliasesArchive:
 - /blog/simpsonize-me
 - /simpsonize-me

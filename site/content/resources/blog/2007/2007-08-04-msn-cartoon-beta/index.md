@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: msn-cartoon-beta
 aliases:
-- /blog/msn-cartoon-beta
-- /msn-cartoon-beta
-- /msn-cartoon-(beta)
-- /blog/msn-cartoon-(beta)
 - /resources/fFkCnlj8PXW
-- /resources/blog/msn-cartoon-beta
 aliasesArchive:
 - /blog/msn-cartoon-beta
 - /msn-cartoon-beta

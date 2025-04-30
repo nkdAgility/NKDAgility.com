@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrade-to-visual-studio-11-team-foundation-service-done
 aliases:
-- /blog/upgrade-to-visual-studio-11-team-foundation-service-done
-- /upgrade-to-visual-studio-11-team-foundation-service-done
-- /upgrade-to-visual-studio-11-team-foundation-service
-- /upgrade-to-visual-studio-11-team-foundation-service---done
-- /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /resources/qZoGIj62YP4
-- /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 aliasesArchive:
 - /blog/upgrade-to-visual-studio-11-team-foundation-service-done
 - /upgrade-to-visual-studio-11-team-foundation-service-done

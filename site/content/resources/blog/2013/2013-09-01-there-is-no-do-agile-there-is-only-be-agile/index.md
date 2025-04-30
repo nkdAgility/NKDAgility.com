@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: there-is-no-do-agile-there-is-only-be-agile
 aliases:
-- /blog/there-is-no-do-agile-there-is-only-be-agile
-- /there-is-no-do-agile-there-is-only-be-agile
-- /there-is-no--do-agile--there-is-only--be-agile-
-- /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/QIFsyx_OqLG
-- /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 aliasesArchive:
 - /blog/there-is-no-do-agile-there-is-only-be-agile
 - /there-is-no-do-agile-there-is-only-be-agile

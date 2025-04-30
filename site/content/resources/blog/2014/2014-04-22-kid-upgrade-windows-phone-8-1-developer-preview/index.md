@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: kid-upgrade-windows-phone-8-1-developer-preview
 aliases:
-- /blog/kid-upgrade-windows-phone-8-1-developer-preview
-- /kid-upgrade-windows-phone-8-1-developer-preview
-- /be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
-- /blog/be-a-kid-again-and-upgrade-to-windows-phone-8-1-developer-preview
 - /resources/CDwU__r19XS
-- /resources/blog/kid-upgrade-windows-phone-8-1-developer-preview
 aliasesArchive:
 - /blog/kid-upgrade-windows-phone-8-1-developer-preview
 - /kid-upgrade-windows-phone-8-1-developer-preview

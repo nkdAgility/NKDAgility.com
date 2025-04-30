@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-exception-handling
 aliases:
-- /blog/tfs-gotcha-exception-handling
-- /tfs-gotcha-exception-handling
-- /tfs-gotcha-(exception-handling)
-- /blog/tfs-gotcha-(exception-handling)
 - /resources/OMGmyApgm0G
-- /resources/blog/tfs-gotcha-exception-handling
 aliasesArchive:
 - /blog/tfs-gotcha-exception-handling
 - /tfs-gotcha-exception-handling

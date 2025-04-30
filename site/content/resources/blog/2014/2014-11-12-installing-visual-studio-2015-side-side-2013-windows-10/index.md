@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2015-side-side-2013-windows-10
 aliases:
-- /blog/installing-visual-studio-2015-side-side-2013-windows-10
-- /installing-visual-studio-2015-side-side-2013-windows-10
-- /installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
-- /blog/installing-visual-studio-2015-side-by-side-with-2013-on-windows-10
 - /resources/HPkHnEoaEbR
-- /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
 aliasesArchive:
 - /blog/installing-visual-studio-2015-side-side-2013-windows-10
 - /installing-visual-studio-2015-side-side-2013-windows-10

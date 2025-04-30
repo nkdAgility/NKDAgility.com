@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: requirement-management-in-the-modern-application-lifecycle
 aliases:
-- /blog/requirement-management-in-the-modern-application-lifecycle
-- /requirement-management-in-the-modern-application-lifecycle
-- /requirement-management-in-the-modern-application-lifecycle-with-tfs
-- /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/xCKZmk2o5Me
-- /resources/blog/requirement-management-in-the-modern-application-lifecycle
 aliasesArchive:
 - /blog/requirement-management-in-the-modern-application-lifecycle
 - /requirement-management-in-the-modern-application-lifecycle

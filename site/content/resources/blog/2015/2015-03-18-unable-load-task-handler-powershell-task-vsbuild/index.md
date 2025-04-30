@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: unable-load-task-handler-powershell-task-vsbuild
 aliases:
-- /blog/unable-load-task-handler-powershell-task-vsbuild
-- /unable-load-task-handler-powershell-task-vsbuild
-- /unable-to-load-task-handler-powershell-for-task-vsbuild
-- /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
 - /resources/Rqhhvr6lAQK
-- /resources/blog/unable-load-task-handler-powershell-task-vsbuild
 aliasesArchive:
 - /blog/unable-load-task-handler-powershell-task-vsbuild
 - /unable-load-task-handler-powershell-task-vsbuild

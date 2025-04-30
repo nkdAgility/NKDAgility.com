@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-reporting-process
 aliases:
-- /blog/visual-studio-2010-overview-reporting-process
-- /visual-studio-2010-overview-reporting-process
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---reporting-&-process
-- /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/Ryiemqc7hnZ
-- /resources/blog/visual-studio-2010-overview-reporting-process
 aliasesArchive:
 - /blog/visual-studio-2010-overview-reporting-process
 - /visual-studio-2010-overview-reporting-process

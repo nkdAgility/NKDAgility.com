@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: vs2008-update
 aliases:
-- /blog/vs2008-update
-- /vs2008-update
 - /resources/EbUyy4iPQCa
-- /resources/blog/vs2008-update
 aliasesArchive:
 - /blog/vs2008-update
 - /vs2008-update

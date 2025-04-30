@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-stick-buddy-v0-4-0-ctp2-released
 aliases:
-- /blog/tfs-stick-buddy-v0-4-0-ctp2-released
-- /tfs-stick-buddy-v0-4-0-ctp2-released
 - /resources/G2LTuEadTg9
-- /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 aliasesArchive:
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 - /tfs-stick-buddy-v0-4-0-ctp2-released

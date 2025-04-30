@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: guidance-branching-for-each-sprint
 aliases:
-- /blog/guidance-branching-for-each-sprint
-- /guidance-branching-for-each-sprint
-- /guidance
-- /guidance---branching-for-each-sprint
-- /blog/guidance---branching-for-each-sprint
 - /resources/hPGpt57lpYZ
-- /resources/blog/guidance-branching-for-each-sprint
 aliasesArchive:
 - /blog/guidance-branching-for-each-sprint
 - /guidance-branching-for-each-sprint

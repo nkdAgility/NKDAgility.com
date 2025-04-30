@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: compatibility-view-in-ie8
 aliases:
-- /blog/compatibility-view-in-ie8
-- /compatibility-view-in-ie8
 - /resources/Spq444zEHgM
-- /resources/blog/compatibility-view-in-ie8
 aliasesArchive:
 - /blog/compatibility-view-in-ie8
 - /compatibility-view-in-ie8

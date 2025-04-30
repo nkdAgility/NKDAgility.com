@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-in-alameda-california
 aliases:
-- /blog/professional-scrum-foundations-in-alameda-california
-- /professional-scrum-foundations-in-alameda-california
-- /professional-scrum-foundations-in-alameda,-california
-- /blog/professional-scrum-foundations-in-alameda,-california
 - /resources/If3c0gr1udB
-- /professional-scrum-foundations-in-alameda--california
-- /blog/professional-scrum-foundations-in-alameda--california
-- /resources/blog/professional-scrum-foundations-in-alameda-california
 aliasesArchive:
 - /blog/professional-scrum-foundations-in-alameda-california
 - /professional-scrum-foundations-in-alameda-california

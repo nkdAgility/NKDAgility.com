@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: updating-the-command-line-parser
 aliases:
-- /blog/updating-the-command-line-parser
-- /updating-the-command-line-parser
 - /resources/ZMPPpD1TIuP
-- /resources/blog/updating-the-command-line-parser
 aliasesArchive:
 - /blog/updating-the-command-line-parser
 - /updating-the-command-line-parser

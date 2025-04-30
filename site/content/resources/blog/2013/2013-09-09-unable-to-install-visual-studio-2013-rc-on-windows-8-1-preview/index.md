@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 aliases:
-- /blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
-- /unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 - /resources/RXXbeQU6tAH
-- /resources/blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 aliasesArchive:
 - /blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 - /unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview

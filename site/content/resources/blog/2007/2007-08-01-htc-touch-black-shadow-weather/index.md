@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: htc-touch-black-shadow-weather
 aliases:
-- /blog/htc-touch-black-shadow-weather
-- /htc-touch-black-shadow-weather
-- /htc-touch
-- /htc-touch---black-shadow-weather
-- /blog/htc-touch---black-shadow-weather
 - /resources/zGbUhq_phsz
-- /resources/blog/htc-touch-black-shadow-weather
 aliasesArchive:
 - /blog/htc-touch-black-shadow-weather
 - /htc-touch-black-shadow-weather

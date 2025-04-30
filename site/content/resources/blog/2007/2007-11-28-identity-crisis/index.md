@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: identity-crisis
 aliases:
-- /blog/identity-crisis
-- /identity-crisis
 - /resources/mY6h9tz2JRJ
-- /resources/blog/identity-crisis
 aliasesArchive:
 - /blog/identity-crisis
 - /identity-crisis

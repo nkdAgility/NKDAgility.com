@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: msbuild-and-business-intelligence-packages-ahhhhhh
 aliases:
-- /blog/msbuild-and-business-intelligence-packages-ahhhhhh
-- /msbuild-and-business-intelligence-packages-ahhhhhh
-- /msbuild-and-business-intelligence-packages,-ahhhhhh-
-- /blog/msbuild-and-business-intelligence-packages,-ahhhhhh-
 - /resources/lttzdaIlzel
-- /msbuild-and-business-intelligence-packages--ahhhhhh-
-- /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
-- /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 aliasesArchive:
 - /blog/msbuild-and-business-intelligence-packages-ahhhhhh
 - /msbuild-and-business-intelligence-packages-ahhhhhh

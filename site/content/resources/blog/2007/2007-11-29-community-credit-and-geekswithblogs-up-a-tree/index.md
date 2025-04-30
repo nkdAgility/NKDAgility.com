@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: community-credit-and-geekswithblogs-up-a-tree
 aliases:
-- /blog/community-credit-and-geekswithblogs-up-a-tree
-- /community-credit-and-geekswithblogs-up-a-tree---
-- /blog/community-credit-and-geekswithblogs-up-a-tree---
 - /resources/hEA0D2QOf3l
-- /community-credit-and-geekswithblogs-up-a-tree
-- /resources/blog/community-credit-and-geekswithblogs-up-a-tree
 aliasesArchive:
 - /blog/community-credit-and-geekswithblogs-up-a-tree
 - /community-credit-and-geekswithblogs-up-a-tree---

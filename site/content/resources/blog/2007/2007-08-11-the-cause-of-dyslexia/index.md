@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-cause-of-dyslexia
 aliases:
-- /blog/the-cause-of-dyslexia
-- /the-cause-of-dyslexia
 - /resources/W_2y81Yg8QB
-- /resources/blog/the-cause-of-dyslexia
 aliasesArchive:
 - /blog/the-cause-of-dyslexia
 - /the-cause-of-dyslexia

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 aliases:
-- /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
-- /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /resources/tT1kPVxzv3D
-- /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 aliasesArchive:
 - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x

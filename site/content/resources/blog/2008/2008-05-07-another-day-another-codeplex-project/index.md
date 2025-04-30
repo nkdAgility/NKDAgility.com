@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: another-day-another-codeplex-project
 aliases:
-- /blog/another-day-another-codeplex-project
-- /another-day-another-codeplex-project
 - /resources/Jk2Pp119tUF
-- /resources/blog/another-day-another-codeplex-project
 aliasesArchive:
 - /blog/another-day-another-codeplex-project
 - /another-day-another-codeplex-project

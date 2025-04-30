@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: access-to-team-foundation-server
 aliases:
-- /blog/access-to-team-foundation-server
-- /access-to-team-foundation-server
 - /resources/ttgv7j3g-kW
-- /resources/blog/access-to-team-foundation-server
 aliasesArchive:
 - /blog/access-to-team-foundation-server
 - /access-to-team-foundation-server

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-new-normal-of-the-modern-application-lifecycle
 aliases:
-- /blog/the-new-normal-of-the-modern-application-lifecycle
-- /the-new-normal-of-the-modern-application-lifecycle
 - /resources/4xvg8avKMPA
-- /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 aliasesArchive:
 - /blog/the-new-normal-of-the-modern-application-lifecycle
 - /the-new-normal-of-the-modern-application-lifecycle

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliases:
-- /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
-- /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/sE7yYXG4Th_
-- /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliasesArchive:
 - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform

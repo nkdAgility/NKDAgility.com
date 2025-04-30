@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: searching-for-self-organisation
 aliases:
-- /blog/searching-for-self-organisation
-- /searching-for-self-organisation
 - /resources/EjoEHTWiJtf
-- /resources/blog/searching-for-self-organisation
 aliasesArchive:
 - /blog/searching-for-self-organisation
 - /searching-for-self-organisation

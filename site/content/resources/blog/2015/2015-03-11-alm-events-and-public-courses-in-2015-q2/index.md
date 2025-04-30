@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: alm-events-and-public-courses-in-2015-q2
 aliases:
-- /blog/alm-events-and-public-courses-in-2015-q2
-- /alm-events-and-public-courses-in-2015-q2
 - /resources/ag9EVTamt5M
-- /resources/blog/alm-events-and-public-courses-in-2015-q2
 aliasesArchive:
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /alm-events-and-public-courses-in-2015-q2

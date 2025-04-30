@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: move-azure-vm-virtual-network
 aliases:
-- /blog/move-azure-vm-virtual-network
-- /move-azure-vm-virtual-network
-- /move-your-azure-vm-to-a-virtual-network
-- /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/nTSBTp1_gBy
-- /resources/blog/move-azure-vm-virtual-network
 aliasesArchive:
 - /blog/move-azure-vm-virtual-network
 - /move-azure-vm-virtual-network

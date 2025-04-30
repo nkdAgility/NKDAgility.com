@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: why-is-the-vs2010-iso-so-small
 aliases:
-- /blog/why-is-the-vs2010-iso-so-small
-- /why-is-the-vs2010-iso-so-small
-- /why-is-the-vs2010-iso-so-small-
-- /blog/why-is-the-vs2010-iso-so-small-
 - /resources/mWIIbovMbyN
-- /resources/blog/why-is-the-vs2010-iso-so-small
 aliasesArchive:
 - /blog/why-is-the-vs2010-iso-so-small
 - /why-is-the-vs2010-iso-so-small

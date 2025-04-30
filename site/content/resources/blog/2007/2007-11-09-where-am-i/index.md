@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: where-am-i
 aliases:
-- /blog/where-am-i
-- /where-am-i
-- /where-am-i-
-- /blog/where-am-i-
 - /resources/LIBAeHbeyk9
-- /resources/blog/where-am-i
 aliasesArchive:
 - /blog/where-am-i
 - /where-am-i

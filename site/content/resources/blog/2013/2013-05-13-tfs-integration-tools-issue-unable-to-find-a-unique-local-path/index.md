@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 aliases:
-- /blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
-- /tfs-integration-tools-issue-unable-to-find-a-unique-local-path
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--unable-to-find-a-unique-local-path
-- /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /resources/-dAwZr3zpgy
-- /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 aliasesArchive:
 - /blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 - /tfs-integration-tools-issue-unable-to-find-a-unique-local-path

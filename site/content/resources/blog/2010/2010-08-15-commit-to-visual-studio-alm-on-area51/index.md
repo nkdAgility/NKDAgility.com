@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: commit-to-visual-studio-alm-on-area51
 aliases:
-- /blog/commit-to-visual-studio-alm-on-area51
-- /commit-to-visual-studio-alm-on-area51
 - /resources/czqyZFQxRrp
-- /resources/blog/commit-to-visual-studio-alm-on-area51
 aliasesArchive:
 - /blog/commit-to-visual-studio-alm-on-area51
 - /commit-to-visual-studio-alm-on-area51

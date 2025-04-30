@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: delete-work-items-tfs-vso
 aliases:
-- /blog/delete-work-items-tfs-vso
-- /delete-work-items-tfs-vso
-- /how-to-delete-work-items-from-tfs-or-vso
-- /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/MYXrtTYV2UD
-- /resources/blog/delete-work-items-tfs-vso
 aliasesArchive:
 - /blog/delete-work-items-tfs-vso
 - /delete-work-items-tfs-vso

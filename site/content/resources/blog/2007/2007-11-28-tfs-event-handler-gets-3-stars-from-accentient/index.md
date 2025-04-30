@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-gets-3-stars-from-accentient
 aliases:
-- /blog/tfs-event-handler-gets-3-stars-from-accentient
-- /tfs-event-handler-gets-3-stars-from-accentient
 - /resources/CfR2sFbofzG
-- /resources/blog/tfs-event-handler-gets-3-stars-from-accentient
 aliasesArchive:
 - /blog/tfs-event-handler-gets-3-stars-from-accentient
 - /tfs-event-handler-gets-3-stars-from-accentient

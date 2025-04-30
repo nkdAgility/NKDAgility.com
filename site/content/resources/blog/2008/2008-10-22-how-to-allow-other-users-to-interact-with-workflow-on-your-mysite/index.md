@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliases:
-- /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
-- /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
-- /how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
-- /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/JUQrPR1RNmh
-- /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliasesArchive:
 - /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 - /how-to-allow-other-users-to-interact-with-workflow-on-your-mysite

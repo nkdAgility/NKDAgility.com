@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: team-system-web-access-finally-released
 aliases:
-- /blog/team-system-web-access-finally-released
-- /team-system-web-access-finally-released
 - /resources/8tIDL2NtDSj
-- /resources/blog/team-system-web-access-finally-released
 aliasesArchive:
 - /blog/team-system-web-access-finally-released
 - /team-system-web-access-finally-released

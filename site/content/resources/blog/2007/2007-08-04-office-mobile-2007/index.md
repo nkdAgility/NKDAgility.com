@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: office-mobile-2007
 aliases:
-- /blog/office-mobile-2007
-- /office-mobile-2007
 - /resources/E0X7Vjy0zKw
-- /resources/blog/office-mobile-2007
 aliasesArchive:
 - /blog/office-mobile-2007
 - /office-mobile-2007

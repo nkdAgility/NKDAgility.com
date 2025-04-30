@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2013-update-2-rc-coming-ready
 aliases:
-- /blog/team-foundation-server-2013-update-2-rc-coming-ready
-- /team-foundation-server-2013-update-2-rc-coming-ready
-- /team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
-- /blog/team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
 - /resources/VV_h0xkmY8J
-- /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
-- /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
-- /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
 aliasesArchive:
 - /blog/team-foundation-server-2013-update-2-rc-coming-ready
 - /team-foundation-server-2013-update-2-rc-coming-ready

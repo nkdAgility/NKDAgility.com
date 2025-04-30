@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-prototype-configuration-demystified
 aliases:
-- /blog/tfs-event-handler-prototype-configuration-demystified
-- /tfs-event-handler-prototype-configuration-demystified
 - /resources/ENx7u9d6Q6z
-- /resources/blog/tfs-event-handler-prototype-configuration-demystified
 aliasesArchive:
 - /blog/tfs-event-handler-prototype-configuration-demystified
 - /tfs-event-handler-prototype-configuration-demystified

@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 aliases:
-- /blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
-- /visual-studio-2010-overview-intellitrace-and-test-impact-analysis
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---intellitrace-and-test-impact-analysis
-- /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /resources/AzpXVrfEwZ1
-- /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 aliasesArchive:
 - /blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 - /visual-studio-2010-overview-intellitrace-and-test-impact-analysis

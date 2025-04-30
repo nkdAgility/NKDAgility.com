@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-trouble-with-iis6-pac-files-and-dns
 aliases:
-- /blog/the-trouble-with-iis6-pac-files-and-dns
-- /the-trouble-with-iis6-pac-files-and-dns
-- /the-trouble-with-iis6,--pac-files-and-dns
-- /blog/the-trouble-with-iis6,--pac-files-and-dns
 - /resources/R2MUioX4tLG
-- /the-trouble-with-iis6---pac-files-and-dns
-- /blog/the-trouble-with-iis6---pac-files-and-dns
-- /resources/blog/the-trouble-with-iis6-pac-files-and-dns
 aliasesArchive:
 - /blog/the-trouble-with-iis6-pac-files-and-dns
 - /the-trouble-with-iis6-pac-files-and-dns

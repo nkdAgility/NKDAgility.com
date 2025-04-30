@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: building-release-pipeline-release-management-visual-studio-2013
 aliases:
-- /blog/building-release-pipeline-release-management-visual-studio-2013
-- /building-release-pipeline-release-management-visual-studio-2013
-- /building-a-release-pipeline-with-release-management-with-visual-studio-2013
-- /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/Q7mjPfg5d4Q
-- /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 aliasesArchive:
 - /blog/building-release-pipeline-release-management-visual-studio-2013
 - /building-release-pipeline-release-management-visual-studio-2013

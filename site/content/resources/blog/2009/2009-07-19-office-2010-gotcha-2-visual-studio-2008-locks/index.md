@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: office-2010-gotcha-2-visual-studio-2008-locks
 aliases:
-- /blog/office-2010-gotcha-2-visual-studio-2008-locks
-- /office-2010-gotcha-2-visual-studio-2008-locks
-- /office-2010-gotcha-2--visual-studio-2008-locks
-- /blog/office-2010-gotcha-2--visual-studio-2008-locks
 - /resources/nGYbw5F1t5Y
-- /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
 aliasesArchive:
 - /blog/office-2010-gotcha-2-visual-studio-2008-locks
 - /office-2010-gotcha-2-visual-studio-2008-locks

@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliases:
-- /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-- /the-tfs-automation-platform-is-dead-long-live-the-tfplugable
-- /the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
-- /blog/the-tfs-automation-platform-is-dead,-long-live-the-tfplugable
 - /resources/cMYx4JN2az5
-- /the-tfs-automation-platform-is-dead--long-live-the-tfplugable
-- /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
-- /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliasesArchive:
 - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 - /the-tfs-automation-platform-is-dead-long-live-the-tfplugable

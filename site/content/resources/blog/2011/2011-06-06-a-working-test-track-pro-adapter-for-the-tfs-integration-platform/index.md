@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliases:
-- /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
-- /a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /resources/W5oq_99ThZi
-- /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliasesArchive:
 - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 - /a-working-test-track-pro-adapter-for-the-tfs-integration-platform

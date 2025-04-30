@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: hinshelm-vs-fernienator
 aliases:
-- /blog/hinshelm-vs-fernienator
-- /hinshelm-vs-fernienator
 - /resources/RqLAuKHYWAJ
-- /resources/blog/hinshelm-vs-fernienator
 aliasesArchive:
 - /blog/hinshelm-vs-fernienator
 - /hinshelm-vs-fernienator

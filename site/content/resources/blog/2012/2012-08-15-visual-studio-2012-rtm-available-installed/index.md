@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-rtm-available-installed
 aliases:
-- /blog/visual-studio-2012-rtm-available-installed
-- /visual-studio-2012-rtm-available-installed
-- /visual-studio-2012-rtm-available-&-installed
-- /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/1pWQ2Krlit5
-- /resources/blog/visual-studio-2012-rtm-available-installed
 aliasesArchive:
 - /blog/visual-studio-2012-rtm-available-installed
 - /visual-studio-2012-rtm-available-installed

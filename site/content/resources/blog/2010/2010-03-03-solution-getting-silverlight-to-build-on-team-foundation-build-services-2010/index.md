@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 aliases:
-- /blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-- /solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-- /solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
-- /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/KPVUDFGZRaX
-- /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 aliasesArchive:
 - /blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /solution-getting-silverlight-to-build-on-team-foundation-build-services-2010

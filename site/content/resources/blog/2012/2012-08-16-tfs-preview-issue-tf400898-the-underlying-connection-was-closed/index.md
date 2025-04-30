@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 aliases:
-- /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-- /tfs-preview-issue-tf400898-the-underlying-connection-was-closed
-- /tfs-preview
-- /tfs-preview---issue--tf400898-the-underlying-connection-was-closed
-- /blog/tfs-preview---issue--tf400898-the-underlying-connection-was-closed
 - /resources/0O-R50XIwUP
-- /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 aliasesArchive:
 - /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 - /tfs-preview-issue-tf400898-the-underlying-connection-was-closed

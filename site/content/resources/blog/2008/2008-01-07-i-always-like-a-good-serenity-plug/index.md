@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: i-always-like-a-good-serenity-plug
 aliases:
-- /blog/i-always-like-a-good-serenity-plug
-- /i-always-like-a-good-serenity-plug---
-- /blog/i-always-like-a-good-serenity-plug---
 - /resources/5Grofbh67Vs
-- /i-always-like-a-good-serenity-plug
-- /resources/blog/i-always-like-a-good-serenity-plug
 aliasesArchive:
 - /blog/i-always-like-a-good-serenity-plug
 - /i-always-like-a-good-serenity-plug---

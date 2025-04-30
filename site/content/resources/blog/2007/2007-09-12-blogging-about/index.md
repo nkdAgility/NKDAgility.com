@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: blogging-about
 aliases:
-- /blog/blogging-about
-- /blogging-about---
-- /blog/blogging-about---
 - /resources/mYU-gZ_KBo3
-- /blogging-about
-- /resources/blog/blogging-about
 aliasesArchive:
 - /blog/blogging-about
 - /blogging-about---

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: scrum-damentals-webcast-on-17th-february-2012
 aliases:
-- /blog/scrum-damentals-webcast-on-17th-february-2012
-- /scrum-damentals-webcast-on-17th-february-2012
 - /resources/bUSVyRUNCl3
-- /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 aliasesArchive:
 - /blog/scrum-damentals-webcast-on-17th-february-2012
 - /scrum-damentals-webcast-on-17th-february-2012

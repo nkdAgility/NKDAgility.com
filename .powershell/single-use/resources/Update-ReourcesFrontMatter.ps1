@@ -49,7 +49,7 @@ $hugoMarkdownObjects = $hugoMarkdownObjects | Sort-Object { $_.FrontMatter.date 
 $hugoMarkdownObjects = $hugoMarkdownObjects | Where-Object { 
     if ($_.FrontMatter.date) { 
         $date = [DateTime]::Parse($_.FrontMatter.date)
-        return $date -gt $ResourceCatalogueCutoffDate
+        return $date -lt $ResourceCatalogueCutoffDate
     }
     else {
         return $false  # Skip objects with null/empty dates
@@ -321,8 +321,8 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         }
     }
     # =================CONTENT===================
-    #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
-    #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
 

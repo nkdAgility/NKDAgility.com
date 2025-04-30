@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: its-that-time-again
 aliases:
-- /blog/its-that-time-again
-- /its-that-time-again
 - /resources/n0GHiv0sTfp
-- /resources/blog/its-that-time-again
 aliasesArchive:
 - /blog/its-that-time-again
 - /its-that-time-again

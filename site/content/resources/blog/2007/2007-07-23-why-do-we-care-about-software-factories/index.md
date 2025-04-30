@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: why-do-we-care-about-software-factories
 aliases:
-- /blog/why-do-we-care-about-software-factories
-- /why-do-we-care-about-software-factories
-- /why-do-we-care-about-software-factories-
-- /blog/why-do-we-care-about-software-factories-
 - /resources/cdrcglA4d9D
-- /resources/blog/why-do-we-care-about-software-factories
 aliasesArchive:
 - /blog/why-do-we-care-about-software-factories
 - /why-do-we-care-about-software-factories

@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 aliases:
-- /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
-- /combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
-- /combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
-- /blog/combining-scrum,-tfs2010-and-email-to-keep-everyone-in-the-loop
 - /resources/aU3PspgaeEN
-- /combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
-- /blog/combining-scrum--tfs2010-and-email-to-keep-everyone-in-the-loop
-- /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 aliasesArchive:
 - /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 - /combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop

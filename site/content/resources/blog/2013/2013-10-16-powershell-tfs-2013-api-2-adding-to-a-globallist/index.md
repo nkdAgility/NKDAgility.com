@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: powershell-tfs-2013-api-2-adding-to-a-globallist
 aliases:
-- /blog/powershell-tfs-2013-api-2-adding-to-a-globallist
-- /powershell-tfs-2013-api-2-adding-to-a-globallist
-- /powershell-tfs-2013-api--2
-- /powershell-tfs-2013-api--2---adding-to-a-globallist
-- /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
 - /resources/Y2XTGIaY_Os
-- /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 aliasesArchive:
 - /blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 - /powershell-tfs-2013-api-2-adding-to-a-globallist

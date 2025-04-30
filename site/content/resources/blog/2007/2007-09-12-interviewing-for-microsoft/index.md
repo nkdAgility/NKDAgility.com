@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: interviewing-for-microsoft
 aliases:
-- /blog/interviewing-for-microsoft
-- /interviewing-for-microsoft
 - /resources/ldGtzdVxYwE
-- /resources/blog/interviewing-for-microsoft
 aliasesArchive:
 - /blog/interviewing-for-microsoft
 - /interviewing-for-microsoft

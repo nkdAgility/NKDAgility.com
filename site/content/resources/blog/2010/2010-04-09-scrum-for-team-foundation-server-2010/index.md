@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: scrum-for-team-foundation-server-2010
 aliases:
-- /blog/scrum-for-team-foundation-server-2010
-- /scrum-for-team-foundation-server-2010
 - /resources/rDtXzVuotXt
-- /resources/blog/scrum-for-team-foundation-server-2010
 aliasesArchive:
 - /blog/scrum-for-team-foundation-server-2010
 - /scrum-for-team-foundation-server-2010

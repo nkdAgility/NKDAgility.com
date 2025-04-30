@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: teamplain-error-tf14002
 aliases:
-- /blog/teamplain-error-tf14002
-- /teamplain-error-tf14002
-- /teamplain-error--tf14002
-- /blog/teamplain-error--tf14002
 - /resources/PHs0D35ZIo4
-- /resources/blog/teamplain-error-tf14002
 aliasesArchive:
 - /blog/teamplain-error-tf14002
 - /teamplain-error-tf14002

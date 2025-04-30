@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: improvements-in-visual-studio-alm-from-the-alm-summit
 aliases:
-- /blog/improvements-in-visual-studio-alm-from-the-alm-summit
-- /improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/E9mwcXKPJ0C
-- /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 aliasesArchive:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
 - /improvements-in-visual-studio-alm-from-the-alm-summit

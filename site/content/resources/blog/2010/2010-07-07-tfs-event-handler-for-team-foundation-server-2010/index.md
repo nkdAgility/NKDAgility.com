@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-for-team-foundation-server-2010
 aliases:
-- /blog/tfs-event-handler-for-team-foundation-server-2010
-- /tfs-event-handler-for-team-foundation-server-2010
 - /resources/_WmwS96RyDS
-- /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 aliasesArchive:
 - /blog/tfs-event-handler-for-team-foundation-server-2010
 - /tfs-event-handler-for-team-foundation-server-2010

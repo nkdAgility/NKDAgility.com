@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: announcing-scrum-at-scale-workshop-scrum-org
 aliases:
-- /blog/announcing-scrum-at-scale-workshop-scrum-org
-- /announcing-scrum-at-scale-workshop-scrum-org
-- /upcomming-scrum-at-scale-workshop-from-scrum-org
-- /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/eSPePG8uDaZ
-- /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 aliasesArchive:
 - /blog/announcing-scrum-at-scale-workshop-scrum-org
 - /announcing-scrum-at-scale-workshop-scrum-org

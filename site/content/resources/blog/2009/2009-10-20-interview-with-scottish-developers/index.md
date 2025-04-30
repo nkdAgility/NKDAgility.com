@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: interview-with-scottish-developers
 aliases:
-- /blog/interview-with-scottish-developers
-- /interview-with-scottish-developers
 - /resources/-9zhZou8GwO
-- /resources/blog/interview-with-scottish-developers
 aliasesArchive:
 - /blog/interview-with-scottish-developers
 - /interview-with-scottish-developers

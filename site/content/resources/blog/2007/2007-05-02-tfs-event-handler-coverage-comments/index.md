@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-coverage-comments
 aliases:
-- /blog/tfs-event-handler-coverage-comments
-- /tfs-event-handler-coverage-comments
-- /tfs-event-handler--coverage-&-comments
-- /blog/tfs-event-handler--coverage-&-comments
 - /resources/PEksFd3ugtL
-- /resources/blog/tfs-event-handler-coverage-comments
 aliasesArchive:
 - /blog/tfs-event-handler-coverage-comments
 - /tfs-event-handler-coverage-comments

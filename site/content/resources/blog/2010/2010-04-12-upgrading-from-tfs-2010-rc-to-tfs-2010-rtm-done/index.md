@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 aliases:
-- /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
-- /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 - /resources/wGdSgbWfpEB
-- /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 aliasesArchive:
 - /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 - /upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done

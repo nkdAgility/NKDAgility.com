@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-wave-3
 aliases:
-- /blog/windows-live-wave-3
-- /windows-live-wave-3
 - /resources/V2MkZWsiMbX
-- /resources/blog/windows-live-wave-3
 aliasesArchive:
 - /blog/windows-live-wave-3
 - /windows-live-wave-3

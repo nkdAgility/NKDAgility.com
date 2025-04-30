@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
-- /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
-- /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /resources/XOt3b4gzyH8
-- /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliasesArchive:
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details

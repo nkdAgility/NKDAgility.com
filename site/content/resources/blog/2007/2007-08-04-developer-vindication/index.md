@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: developer-vindication
 aliases:
-- /blog/developer-vindication
-- /developer-vindication
 - /resources/YexFt6yC4wk
-- /resources/blog/developer-vindication
 aliasesArchive:
 - /blog/developer-vindication
 - /developer-vindication

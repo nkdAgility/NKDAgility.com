@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: microsofts-internal-uptake-of-team-foundation-server
 aliases:
-- /blog/microsofts-internal-uptake-of-team-foundation-server
-- /microsofts-internal-uptake-of-team-foundation-server
-- /microsoft's-internal-uptake-of-team-foundation-server
-- /blog/microsoft's-internal-uptake-of-team-foundation-server
 - /resources/1NIc24-e5FY
-- /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 aliasesArchive:
 - /blog/microsofts-internal-uptake-of-team-foundation-server
 - /microsofts-internal-uptake-of-team-foundation-server

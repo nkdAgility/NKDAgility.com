@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: least-opportune-time
 aliases:
-- /blog/least-opportune-time
-- /least-opportune-time
-- /least-opportune-time-
-- /blog/least-opportune-time-
 - /resources/wBoC9CmdiGq
-- /resources/blog/least-opportune-time
 aliasesArchive:
 - /blog/least-opportune-time
 - /least-opportune-time

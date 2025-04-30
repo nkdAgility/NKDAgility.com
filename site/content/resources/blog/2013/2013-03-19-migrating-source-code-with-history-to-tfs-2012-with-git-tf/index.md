@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: migrating-source-code-with-history-to-tfs-2012-with-git-tf
 aliases:
-- /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
-- /migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /resources/tiIa1A7zPP-
-- /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 aliasesArchive:
 - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 - /migrating-source-code-with-history-to-tfs-2012-with-git-tf

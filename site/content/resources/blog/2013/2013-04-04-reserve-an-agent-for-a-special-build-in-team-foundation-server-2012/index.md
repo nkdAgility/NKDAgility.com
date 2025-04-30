@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 aliases:
-- /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
-- /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /resources/SrsgdgZeWGm
-- /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 aliasesArchive:
 - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 - /reserve-an-agent-for-a-special-build-in-team-foundation-server-2012

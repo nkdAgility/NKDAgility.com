@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-eventhandler-now-on-codeplex
 aliases:
-- /blog/tfs-eventhandler-now-on-codeplex
-- /tfs-eventhandler-now-on-codeplex
-- /tfs-eventhandler--now-on-codeplex
-- /blog/tfs-eventhandler--now-on-codeplex
 - /resources/24Qmd0tzO5s
-- /resources/blog/tfs-eventhandler-now-on-codeplex
 aliasesArchive:
 - /blog/tfs-eventhandler-now-on-codeplex
 - /tfs-eventhandler-now-on-codeplex

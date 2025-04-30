@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: about-me
 aliases:
-- /blog/about-me
-- /about-me
 - /resources/sLyEoCihMuc
-- /resources/blog/about-me
 aliasesArchive:
 - /blog/about-me
 - /about-me

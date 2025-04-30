@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: connecting-to-sql-server-using-dns-update
 aliases:
-- /blog/connecting-to-sql-server-using-dns-update
-- /connecting-to-sql-server-using-dns-update
 - /resources/P0XjI6SRWz-
-- /resources/blog/connecting-to-sql-server-using-dns-update
 aliasesArchive:
 - /blog/connecting-to-sql-server-using-dns-update
 - /connecting-to-sql-server-using-dns-update

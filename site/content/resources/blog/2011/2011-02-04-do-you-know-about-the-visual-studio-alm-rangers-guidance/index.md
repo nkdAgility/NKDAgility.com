@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-alm-rangers-guidance
 aliases:
-- /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
-- /do-you-know-about-the-visual-studio-alm-rangers-guidance
-- /do-you-know-about-the-visual-studio-alm-rangers-guidance-
-- /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /resources/X_Bw0WdCwEc
-- /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 - /do-you-know-about-the-visual-studio-alm-rangers-guidance

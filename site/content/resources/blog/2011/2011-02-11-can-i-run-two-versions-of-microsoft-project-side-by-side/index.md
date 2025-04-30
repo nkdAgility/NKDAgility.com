@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: can-i-run-two-versions-of-microsoft-project-side-by-side
 aliases:
-- /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
-- /can-i-run-two-versions-of-microsoft-project-side-by-side
-- /can-i-run-two-versions-of-microsoft-project-side-by-side-
-- /blog/can-i-run-two-versions-of-microsoft-project-side-by-side-
 - /resources/BPWVrzpIhxt
-- /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 aliasesArchive:
 - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 - /can-i-run-two-versions-of-microsoft-project-side-by-side

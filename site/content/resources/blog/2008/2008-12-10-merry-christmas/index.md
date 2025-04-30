@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: merry-christmas
 aliases:
-- /blog/merry-christmas
-- /merry-christmas
 - /resources/MUY1jFEETH6
-- /resources/blog/merry-christmas
 aliasesArchive:
 - /blog/merry-christmas
 - /merry-christmas

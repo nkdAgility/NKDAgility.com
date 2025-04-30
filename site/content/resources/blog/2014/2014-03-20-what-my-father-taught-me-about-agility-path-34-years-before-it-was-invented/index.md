@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 aliases:
-- /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
-- /what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
-- /what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
-- /blog/what-my-father-taught-me-about-evidence-based-management-(34-years-before-it-was-invented-)
 - /resources/gYcZPh6B2eg
-- /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 aliasesArchive:
 - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 - /what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented

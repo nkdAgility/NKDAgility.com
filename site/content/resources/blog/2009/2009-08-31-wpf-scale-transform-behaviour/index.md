@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: wpf-scale-transform-behaviour
 aliases:
-- /blog/wpf-scale-transform-behaviour
-- /wpf-scale-transform-behaviour
 - /resources/PXeY0Nggg1B
-- /resources/blog/wpf-scale-transform-behaviour
 aliasesArchive:
 - /blog/wpf-scale-transform-behaviour
 - /wpf-scale-transform-behaviour

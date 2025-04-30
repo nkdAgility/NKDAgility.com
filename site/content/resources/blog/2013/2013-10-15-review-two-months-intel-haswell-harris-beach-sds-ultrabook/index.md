@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: review-two-months-intel-haswell-harris-beach-sds-ultrabook
 aliases:
-- /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
-- /review-two-months-intel-haswell-harris-beach-sds-ultrabook
-- /review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
-- /blog/review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/LSTyPpa3cnS
-- /resources/blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
 aliasesArchive:
 - /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
 - /review-two-months-intel-haswell-harris-beach-sds-ultrabook

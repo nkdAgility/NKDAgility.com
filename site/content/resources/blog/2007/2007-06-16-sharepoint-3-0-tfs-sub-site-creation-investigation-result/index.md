@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-3-0-tfs-sub-site-creation-investigation-result
 aliases:
-- /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
-- /sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /resources/eel2kPfabid
-- /resources/blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 aliasesArchive:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /sharepoint-3-0-tfs-sub-site-creation-investigation-result

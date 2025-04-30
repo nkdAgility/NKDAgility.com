@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: dealing-with-invalid-subversion-ssl-certificates-and-migrations
 aliases:
-- /blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
-- /dealing-with-invalid-subversion-ssl-certificates-and-migrations
-- /subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
-- /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /resources/OqcEk7HmSwT
-- /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 aliasesArchive:
 - /blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /dealing-with-invalid-subversion-ssl-certificates-and-migrations

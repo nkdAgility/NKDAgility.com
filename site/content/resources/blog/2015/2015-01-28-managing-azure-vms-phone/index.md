@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: managing-azure-vms-phone
 aliases:
-- /blog/managing-azure-vms-phone
-- /managing-azure-vms-phone
-- /managing-your-azure-vm's-with-your-phone
-- /blog/managing-your-azure-vm's-with-your-phone
 - /resources/N-rk9OlMyUm
-- /resources/blog/managing-azure-vms-phone
 aliasesArchive:
 - /blog/managing-azure-vms-phone
 - /managing-azure-vms-phone

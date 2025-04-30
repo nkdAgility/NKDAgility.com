@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2013-is-production-ready
 aliases:
-- /blog/team-foundation-server-2013-is-production-ready
-- /team-foundation-server-2013-is-production-ready
 - /resources/HxDL5HRMiX4
-- /resources/blog/team-foundation-server-2013-is-production-ready
 aliasesArchive:
 - /blog/team-foundation-server-2013-is-production-ready
 - /team-foundation-server-2013-is-production-ready

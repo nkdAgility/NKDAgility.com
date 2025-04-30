@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: investigation-seo-permanent-redirects-for-old-urls
 aliases:
-- /blog/investigation-seo-permanent-redirects-for-old-urls
-- /investigation-seo-permanent-redirects-for-old-urls
-- /investigation---seo-permanent-redirects-for-old-url’s-
-- /blog/investigation---seo-permanent-redirects-for-old-url’s-
 - /resources/roXmyU8SYFJ
-- /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 aliasesArchive:
 - /blog/investigation-seo-permanent-redirects-for-old-urls
 - /investigation-seo-permanent-redirects-for-old-urls

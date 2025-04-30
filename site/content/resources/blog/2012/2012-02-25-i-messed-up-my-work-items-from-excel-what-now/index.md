@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: i-messed-up-my-work-items-from-excel-what-now
 aliases:
-- /blog/i-messed-up-my-work-items-from-excel-what-now
-- /i-messed-up-my-work-items-from-excel-what-now
-- /i-messed-up-my-work-items-from-excel--what-now-
-- /blog/i-messed-up-my-work-items-from-excel--what-now-
 - /resources/jZw9emMhGRh
-- /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 aliasesArchive:
 - /blog/i-messed-up-my-work-items-from-excel-what-now
 - /i-messed-up-my-work-items-from-excel-what-now

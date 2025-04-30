@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: get-a-free-team-companion-licence-for-visual-studio-2012-launch
 aliases:
-- /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
-- /get-a-free-team-companion-licence-for-visual-studio-2012-launch
-- /get-a-free-team-companion-licence-for-visual-studio-2012-launch-
-- /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch-
 - /resources/kl2QemMiXN4
-- /resources/blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
 aliasesArchive:
 - /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
 - /get-a-free-team-companion-licence-for-visual-studio-2012-launch

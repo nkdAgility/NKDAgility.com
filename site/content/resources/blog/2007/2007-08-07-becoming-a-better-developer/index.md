@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: becoming-a-better-developer
 aliases:
-- /blog/becoming-a-better-developer
-- /becoming-a-better-developer---
-- /blog/becoming-a-better-developer---
 - /resources/BonYegnhwPu
-- /becoming-a-better-developer
-- /resources/blog/becoming-a-better-developer
 aliasesArchive:
 - /blog/becoming-a-better-developer
 - /becoming-a-better-developer---

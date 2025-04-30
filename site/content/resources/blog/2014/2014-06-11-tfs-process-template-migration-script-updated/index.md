@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-process-template-migration-script-updated
 aliases:
-- /blog/tfs-process-template-migration-script-updated
-- /tfs-process-template-migration-script-updated
 - /resources/__k7mlKoTxt
-- /resources/blog/tfs-process-template-migration-script-updated
 aliasesArchive:
 - /blog/tfs-process-template-migration-script-updated
 - /tfs-process-template-migration-script-updated

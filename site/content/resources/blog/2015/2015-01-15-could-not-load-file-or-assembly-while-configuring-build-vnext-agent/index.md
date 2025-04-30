@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 aliases:
-- /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
-- /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/zd3C3XiE0H4
-- /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 aliasesArchive:
 - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent

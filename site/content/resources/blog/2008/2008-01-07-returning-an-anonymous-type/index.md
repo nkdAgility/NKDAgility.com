@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: returning-an-anonymous-type
 aliases:
-- /blog/returning-an-anonymous-type
-- /returning-an-anonymous-type---
-- /blog/returning-an-anonymous-type---
 - /resources/ZD6hMyXVz9s
-- /returning-an-anonymous-type
-- /resources/blog/returning-an-anonymous-type
 aliasesArchive:
 - /blog/returning-an-anonymous-type
 - /returning-an-anonymous-type---

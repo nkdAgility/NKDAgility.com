@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: teamplain-install-and-initial-views
 aliases:
-- /blog/teamplain-install-and-initial-views
-- /teamplain-install-and-initial-views
-- /teamplain---install-and-initial-views
-- /blog/teamplain---install-and-initial-views
 - /resources/SlsFZ5kO1Jc
-- /resources/blog/teamplain-install-and-initial-views
 aliasesArchive:
 - /blog/teamplain-install-and-initial-views
 - /teamplain-install-and-initial-views

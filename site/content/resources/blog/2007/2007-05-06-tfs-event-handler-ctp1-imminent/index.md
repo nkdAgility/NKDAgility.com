@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp1-imminent
 aliases:
-- /blog/tfs-event-handler-ctp1-imminent
-- /tfs-event-handler-ctp1-imminent
-- /tfs-event-handler--ctp1-imminent
-- /blog/tfs-event-handler--ctp1-imminent
 - /resources/VWTrf8PCadG
-- /resources/blog/tfs-event-handler-ctp1-imminent
 aliasesArchive:
 - /blog/tfs-event-handler-ctp1-imminent
 - /tfs-event-handler-ctp1-imminent

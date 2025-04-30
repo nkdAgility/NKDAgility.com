@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 aliases:
-- /blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
-- /visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 - /resources/nsaShwBHR0g
-- /resources/blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 aliasesArchive:
 - /blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 - /visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle

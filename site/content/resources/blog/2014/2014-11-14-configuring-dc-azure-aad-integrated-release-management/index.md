@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: configuring-dc-azure-aad-integrated-release-management
 aliases:
-- /blog/configuring-dc-azure-aad-integrated-release-management
-- /configuring-dc-azure-aad-integrated-release-management
-- /configuring-a-dc-in-azure-for-aad-integrated-release-management
-- /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /resources/6z5uZom4gof
-- /resources/blog/configuring-dc-azure-aad-integrated-release-management
 aliasesArchive:
 - /blog/configuring-dc-azure-aad-integrated-release-management
 - /configuring-dc-azure-aad-integrated-release-management

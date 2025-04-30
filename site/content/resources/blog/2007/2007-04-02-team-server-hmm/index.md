@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: team-server-hmm
 aliases:
-- /blog/team-server-hmm
-- /team-server-hmm
-- /team-server-hmm-
-- /blog/team-server-hmm-
 - /resources/_HIn465Bu9n
-- /resources/blog/team-server-hmm
 aliasesArchive:
 - /blog/team-server-hmm
 - /team-server-hmm

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: netidme
 aliases:
-- /blog/netidme
-- /netidme
 - /resources/QY3BJhuGqTa
-- /resources/blog/netidme
 aliasesArchive:
 - /blog/netidme
 - /netidme

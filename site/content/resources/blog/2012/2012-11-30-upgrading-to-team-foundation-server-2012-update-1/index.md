@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2012-update-1
 aliases:
-- /blog/upgrading-to-team-foundation-server-2012-update-1
-- /upgrading-to-team-foundation-server-2012-update-1
 - /resources/vKHJlHHjnpC
-- /resources/blog/upgrading-to-team-foundation-server-2012-update-1
 aliasesArchive:
 - /blog/upgrading-to-team-foundation-server-2012-update-1
 - /upgrading-to-team-foundation-server-2012-update-1

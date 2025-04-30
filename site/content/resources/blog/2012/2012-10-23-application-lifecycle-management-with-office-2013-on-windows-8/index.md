@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: application-lifecycle-management-with-office-2013-on-windows-8
 aliases:
-- /blog/application-lifecycle-management-with-office-2013-on-windows-8
-- /application-lifecycle-management-with-office-2013-on-windows-8
 - /resources/HS-74Zxqz0l
-- /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 aliasesArchive:
 - /blog/application-lifecycle-management-with-office-2013-on-windows-8
 - /application-lifecycle-management-with-office-2013-on-windows-8

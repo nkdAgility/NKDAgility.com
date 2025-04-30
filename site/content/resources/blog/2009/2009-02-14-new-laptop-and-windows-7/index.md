@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: new-laptop-and-windows-7
 aliases:
-- /blog/new-laptop-and-windows-7
-- /new-laptop-and-windows-7
 - /resources/XCiJC8QfDPG
-- /resources/blog/new-laptop-and-windows-7
 aliasesArchive:
 - /blog/new-laptop-and-windows-7
 - /new-laptop-and-windows-7

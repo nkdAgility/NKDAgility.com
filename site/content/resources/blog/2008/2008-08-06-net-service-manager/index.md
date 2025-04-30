@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: net-service-manager
 aliases:
-- /blog/net-service-manager
-- /net-service-manager
-- /-net-service-manager
-- /blog/-net-service-manager
 - /resources/tzY7cIvFnOc
-- /resources/blog/net-service-manager
 aliasesArchive:
 - /blog/net-service-manager
 - /net-service-manager

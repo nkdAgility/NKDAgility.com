@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-insufficiency-of-scrum-is-a-fallacy
 aliases:
-- /blog/the-insufficiency-of-scrum-is-a-fallacy
-- /the-insufficiency-of-scrum-is-a-fallacy
 - /resources/n9OhtpbJs0-
-- /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 aliasesArchive:
 - /blog/the-insufficiency-of-scrum-is-a-fallacy
 - /the-insufficiency-of-scrum-is-a-fallacy

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: move-your-active-directory-domain-to-another-server
 aliases:
-- /blog/move-your-active-directory-domain-to-another-server
-- /move-your-active-directory-domain-to-another-server
 - /resources/koQQ-rllpsw
-- /resources/blog/move-your-active-directory-domain-to-another-server
 aliasesArchive:
 - /blog/move-your-active-directory-domain-to-another-server
 - /move-your-active-directory-domain-to-another-server

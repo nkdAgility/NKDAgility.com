@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: bug-in-observablecollection
 aliases:
-- /blog/bug-in-observablecollection
-- /bug-in-observablecollection
-- /bug-in-observablecollection-
-- /blog/bug-in-observablecollection-
 - /resources/L9aNTno7QM3
-- /resources/blog/bug-in-observablecollection
 aliasesArchive:
 - /blog/bug-in-observablecollection
 - /bug-in-observablecollection

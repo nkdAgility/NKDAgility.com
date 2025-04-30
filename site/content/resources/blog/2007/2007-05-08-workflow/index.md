@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: workflow
 aliases:
-- /blog/workflow
-- /workflow
 - /resources/X7LXRyvtNg0
-- /resources/blog/workflow
 aliasesArchive:
 - /blog/workflow
 - /workflow

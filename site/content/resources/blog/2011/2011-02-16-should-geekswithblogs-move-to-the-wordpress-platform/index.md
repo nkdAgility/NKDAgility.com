@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: should-geekswithblogs-move-to-the-wordpress-platform
 aliases:
-- /blog/should-geekswithblogs-move-to-the-wordpress-platform
-- /should-geekswithblogs-move-to-the-wordpress-platform
-- /should-geekswithblogs-move-to-the-wordpress-platform-
-- /blog/should-geekswithblogs-move-to-the-wordpress-platform-
 - /resources/INzImndgeUG
-- /resources/blog/should-geekswithblogs-move-to-the-wordpress-platform
 aliasesArchive:
 - /blog/should-geekswithblogs-move-to-the-wordpress-platform
 - /should-geekswithblogs-move-to-the-wordpress-platform

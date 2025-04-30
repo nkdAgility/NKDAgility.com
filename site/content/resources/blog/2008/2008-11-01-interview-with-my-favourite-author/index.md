@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: interview-with-my-favourite-author
 aliases:
-- /blog/interview-with-my-favourite-author
-- /interview-with-my-favourite-author
 - /resources/7fvyK7-tU4O
-- /resources/blog/interview-with-my-favourite-author
 aliasesArchive:
 - /blog/interview-with-my-favourite-author
 - /interview-with-my-favourite-author

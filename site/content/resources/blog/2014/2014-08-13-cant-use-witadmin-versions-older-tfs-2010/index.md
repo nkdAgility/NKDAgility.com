@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: cant-use-witadmin-versions-older-tfs-2010
 aliases:
-- /blog/cant-use-witadmin-versions-older-tfs-2010
-- /cant-use-witadmin-versions-older-tfs-2010
-- /you-can't-use-witadmin-on-versions-older-than-tfs-2010
-- /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/UF4o8raFE4r
-- /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 aliasesArchive:
 - /blog/cant-use-witadmin-versions-older-tfs-2010
 - /cant-use-witadmin-versions-older-tfs-2010

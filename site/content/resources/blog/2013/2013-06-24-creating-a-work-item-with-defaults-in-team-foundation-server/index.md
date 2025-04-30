@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-work-item-with-defaults-in-team-foundation-server
 aliases:
-- /blog/creating-a-work-item-with-defaults-in-team-foundation-server
-- /creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/v1HLcU8PfsS
-- /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 aliasesArchive:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /creating-a-work-item-with-defaults-in-team-foundation-server

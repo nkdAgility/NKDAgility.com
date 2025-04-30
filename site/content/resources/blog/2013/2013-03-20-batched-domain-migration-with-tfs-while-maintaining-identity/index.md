@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: batched-domain-migration-with-tfs-while-maintaining-identity
 aliases:
-- /blog/batched-domain-migration-with-tfs-while-maintaining-identity
-- /batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/vzIIFAI5ygR
-- /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 aliasesArchive:
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
 - /batched-domain-migration-with-tfs-while-maintaining-identity

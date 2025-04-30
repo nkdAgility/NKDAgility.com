@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: live-framework
 aliases:
-- /blog/live-framework
-- /live-framework
 - /resources/Z0HJqKyl85C
-- /resources/blog/live-framework
 aliasesArchive:
 - /blog/live-framework
 - /live-framework

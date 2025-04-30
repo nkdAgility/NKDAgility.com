@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: introduction-to-visual-studio-11
 aliases:
-- /blog/introduction-to-visual-studio-11
-- /introduction-to-visual-studio-11
 - /resources/jo0zeQr1paY
-- /resources/blog/introduction-to-visual-studio-11
 aliasesArchive:
 - /blog/introduction-to-visual-studio-11
 - /introduction-to-visual-studio-11

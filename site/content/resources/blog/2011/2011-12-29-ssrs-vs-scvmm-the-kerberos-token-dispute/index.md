@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: ssrs-vs-scvmm-the-kerberos-token-dispute
 aliases:
-- /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
-- /ssrs-vs-scvmm-the-kerberos-token-dispute
-- /ssrs-vs-scvmm---the-kerberos-token-dispute
-- /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/o4bErdW-aL2
-- /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 aliasesArchive:
 - /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 - /ssrs-vs-scvmm-the-kerberos-token-dispute

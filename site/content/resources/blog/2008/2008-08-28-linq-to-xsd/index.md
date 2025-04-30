@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: linq-to-xsd
 aliases:
-- /blog/linq-to-xsd
-- /linq-to-xsd
 - /resources/6v73sdkKVTr
-- /resources/blog/linq-to-xsd
 aliasesArchive:
 - /blog/linq-to-xsd
 - /linq-to-xsd

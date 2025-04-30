@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: mozy-backup
 aliases:
-- /blog/mozy-backup
-- /mozy-backup
 - /resources/w40y2iYjQLv
-- /resources/blog/mozy-backup
 aliasesArchive:
 - /blog/mozy-backup
 - /mozy-backup

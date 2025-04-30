@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: branch-comparea-life-saver
 aliases:
-- /blog/branch-comparea-life-saver
-- /branch-comparea-life-saver
-- /branch-compare…a-life-saver
-- /blog/branch-compare…a-life-saver
 - /resources/x-pH6Gc3gyt
-- /resources/blog/branch-comparea-life-saver
 aliasesArchive:
 - /blog/branch-comparea-life-saver
 - /branch-comparea-life-saver

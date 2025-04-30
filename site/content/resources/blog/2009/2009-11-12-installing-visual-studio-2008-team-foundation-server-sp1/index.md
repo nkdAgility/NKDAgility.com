@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2008-team-foundation-server-sp1
 aliases:
-- /blog/installing-visual-studio-2008-team-foundation-server-sp1
-- /installing-visual-studio-2008-team-foundation-server-sp1
 - /resources/DLfCYd5JcOQ
-- /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
 aliasesArchive:
 - /blog/installing-visual-studio-2008-team-foundation-server-sp1
 - /installing-visual-studio-2008-team-foundation-server-sp1

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: how-to-become-a-multi-dimensional-free-thinker
 aliases:
-- /blog/how-to-become-a-multi-dimensional-free-thinker
-- /how-to-become-a-multi-dimensional-free-thinker
 - /resources/zHaP_THOBQT
-- /resources/blog/how-to-become-a-multi-dimensional-free-thinker
 aliasesArchive:
 - /blog/how-to-become-a-multi-dimensional-free-thinker
 - /how-to-become-a-multi-dimensional-free-thinker

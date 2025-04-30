@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 aliases:
-- /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-- /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /resources/D-CZSgtpLGe
-- /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 aliasesArchive:
 - /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /unboxing-the-intel-haswell-harris-beach-sds-ultrabook

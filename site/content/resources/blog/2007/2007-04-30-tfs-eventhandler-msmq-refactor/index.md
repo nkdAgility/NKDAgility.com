@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-eventhandler-msmq-refactor
 aliases:
-- /blog/tfs-eventhandler-msmq-refactor
-- /tfs-eventhandler-msmq-refactor
-- /tfs-eventhandler--msmq-refactor
-- /blog/tfs-eventhandler--msmq-refactor
 - /resources/1monS4nfW6w
-- /resources/blog/tfs-eventhandler-msmq-refactor
 aliasesArchive:
 - /blog/tfs-eventhandler-msmq-refactor
 - /tfs-eventhandler-msmq-refactor

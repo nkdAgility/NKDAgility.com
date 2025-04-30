@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: silverlight-4-mvvm-and-test-driven-development
 aliases:
-- /blog/silverlight-4-mvvm-and-test-driven-development
-- /silverlight-4-mvvm-and-test-driven-development
-- /silverlight-4,-mvvm-and-test-driven-development
-- /blog/silverlight-4,-mvvm-and-test-driven-development
 - /resources/n9sGWuBTtUf
-- /silverlight-4--mvvm-and-test-driven-development
-- /blog/silverlight-4--mvvm-and-test-driven-development
-- /resources/blog/silverlight-4-mvvm-and-test-driven-development
 aliasesArchive:
 - /blog/silverlight-4-mvvm-and-test-driven-development
 - /silverlight-4-mvvm-and-test-driven-development

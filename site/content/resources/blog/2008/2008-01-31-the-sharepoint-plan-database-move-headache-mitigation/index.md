@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-sharepoint-plan-database-move-headache-mitigation
 aliases:
-- /blog/the-sharepoint-plan-database-move-headache-mitigation
-- /the-sharepoint-plan-database-move-headache-mitigation
-- /the-sharepoint-plan--database-move-headache-mitigation
-- /blog/the-sharepoint-plan--database-move-headache-mitigation
 - /resources/8G7jFUB3MHo
-- /resources/blog/the-sharepoint-plan-database-move-headache-mitigation
 aliasesArchive:
 - /blog/the-sharepoint-plan-database-move-headache-mitigation
 - /the-sharepoint-plan-database-move-headache-mitigation

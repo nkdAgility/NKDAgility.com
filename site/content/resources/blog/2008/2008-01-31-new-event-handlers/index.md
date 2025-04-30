@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: new-event-handlers
 aliases:
-- /blog/new-event-handlers
-- /new-event-handlers
 - /resources/kofEeioSTH9
-- /resources/blog/new-event-handlers
 aliasesArchive:
 - /blog/new-event-handlers
 - /new-event-handlers

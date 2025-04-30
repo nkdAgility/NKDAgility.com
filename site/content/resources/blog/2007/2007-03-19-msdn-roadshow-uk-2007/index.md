@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: msdn-roadshow-uk-2007
 aliases:
-- /blog/msdn-roadshow-uk-2007
-- /msdn-roadshow-uk-2007
 - /resources/gm2PHIhIPbi
-- /resources/blog/msdn-roadshow-uk-2007
 aliasesArchive:
 - /blog/msdn-roadshow-uk-2007
 - /msdn-roadshow-uk-2007

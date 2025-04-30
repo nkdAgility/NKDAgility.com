@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: composite-wpf-and-merged-dictionaries
 aliases:
-- /blog/composite-wpf-and-merged-dictionaries
-- /composite-wpf-and-merged-dictionaries
 - /resources/rVJ3HWMCFYD
-- /resources/blog/composite-wpf-and-merged-dictionaries
 aliasesArchive:
 - /blog/composite-wpf-and-merged-dictionaries
 - /composite-wpf-and-merged-dictionaries

@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 aliases:
-- /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
-- /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /resources/VfWTqYc6S-M
-- /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 aliasesArchive:
 - /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010

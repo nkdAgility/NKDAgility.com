@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: using-build-vnext-capabilities-demands-system
 aliases:
-- /blog/using-build-vnext-capabilities-demands-system
-- /using-build-vnext-capabilities-demands-system
-- /using-the-build-vnext-capabilities-and-demands-system
-- /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/iEMi_TIORPX
-- /resources/blog/using-build-vnext-capabilities-demands-system
 aliasesArchive:
 - /blog/using-build-vnext-capabilities-demands-system
 - /using-build-vnext-capabilities-demands-system

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: soapbox-beta
 aliases:
-- /blog/soapbox-beta
-- /soapbox-beta
 - /resources/pFTm6k2yWBc
-- /resources/blog/soapbox-beta
 aliasesArchive:
 - /blog/soapbox-beta
 - /soapbox-beta

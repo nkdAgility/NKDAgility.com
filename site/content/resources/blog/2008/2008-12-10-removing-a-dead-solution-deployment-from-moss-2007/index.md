@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: removing-a-dead-solution-deployment-from-moss-2007
 aliases:
-- /blog/removing-a-dead-solution-deployment-from-moss-2007
-- /removing-a-dead-solution-deployment-from-moss-2007
 - /resources/JD6-7WEsi2d
-- /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
 aliasesArchive:
 - /blog/removing-a-dead-solution-deployment-from-moss-2007
 - /removing-a-dead-solution-deployment-from-moss-2007

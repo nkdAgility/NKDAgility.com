@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: import-excel-data-into-tfs-with-history
 aliases:
-- /blog/import-excel-data-into-tfs-with-history
-- /import-excel-data-into-tfs-with-history
 - /resources/Kf-5JC3RyWF
-- /resources/blog/import-excel-data-into-tfs-with-history
 aliasesArchive:
 - /blog/import-excel-data-into-tfs-with-history
 - /import-excel-data-into-tfs-with-history

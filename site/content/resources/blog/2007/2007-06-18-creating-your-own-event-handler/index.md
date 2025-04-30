@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-your-own-event-handler
 aliases:
-- /blog/creating-your-own-event-handler
-- /creating-your-own-event-handler
 - /resources/53h9G1A5o8G
-- /resources/blog/creating-your-own-event-handler
 aliasesArchive:
 - /blog/creating-your-own-event-handler
 - /creating-your-own-event-handler

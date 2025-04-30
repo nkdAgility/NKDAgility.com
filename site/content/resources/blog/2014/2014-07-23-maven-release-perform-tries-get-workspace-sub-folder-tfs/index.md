@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: maven-release-perform-tries-get-workspace-sub-folder-tfs
 aliases:
-- /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
-- /maven-release-perform-tries-get-workspace-sub-folder-tfs
-- /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
-- /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/yXZtGRWsXfS
-- /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 aliasesArchive:
 - /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 - /maven-release-perform-tries-get-workspace-sub-folder-tfs

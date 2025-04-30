@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: internet-connection-speed-wow
 aliases:
-- /blog/internet-connection-speed-wow
-- /internet-connection-speed-wow
-- /internet-connection-speed,-wow
-- /blog/internet-connection-speed,-wow
 - /resources/iBNwIFFQrmS
-- /internet-connection-speed--wow
-- /blog/internet-connection-speed--wow
-- /resources/blog/internet-connection-speed-wow
 aliasesArchive:
 - /blog/internet-connection-speed-wow
 - /internet-connection-speed-wow

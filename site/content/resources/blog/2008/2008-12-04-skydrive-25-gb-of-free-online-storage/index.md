@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: skydrive-25-gb-of-free-online-storage
 aliases:
-- /blog/skydrive-25-gb-of-free-online-storage
-- /skydrive-25-gb-of-free-online-storage
-- /skydrive--25-gb-of-free-online-storage
-- /blog/skydrive--25-gb-of-free-online-storage
 - /resources/MxQH0mzNWaj
-- /resources/blog/skydrive-25-gb-of-free-online-storage
 aliasesArchive:
 - /blog/skydrive-25-gb-of-free-online-storage
 - /skydrive-25-gb-of-free-online-storage

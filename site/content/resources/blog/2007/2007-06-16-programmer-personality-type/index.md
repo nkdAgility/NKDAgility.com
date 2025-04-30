@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: programmer-personality-type
 aliases:
-- /blog/programmer-personality-type
-- /programmer-personality-type
 - /resources/ruFX2_EJk4k
-- /resources/blog/programmer-personality-type
 aliasesArchive:
 - /blog/programmer-personality-type
 - /programmer-personality-type

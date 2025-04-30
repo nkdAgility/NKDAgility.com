@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2012-teams-without-areas
 aliases:
-- /blog/team-foundation-server-2012-teams-without-areas
-- /team-foundation-server-2012-teams-without-areas
-- /teams-without-areas-using-a-team-field-in-tfs
-- /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/5IipWQTVLEo
-- /resources/blog/team-foundation-server-2012-teams-without-areas
 aliasesArchive:
 - /blog/team-foundation-server-2012-teams-without-areas
 - /team-foundation-server-2012-teams-without-areas

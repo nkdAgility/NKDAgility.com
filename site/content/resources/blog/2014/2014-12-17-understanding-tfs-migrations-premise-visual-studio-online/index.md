@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: understanding-tfs-migrations-premise-visual-studio-online
 aliases:
-- /blog/understanding-tfs-migrations-premise-visual-studio-online
-- /understanding-tfs-migrations-premise-visual-studio-online
-- /understanding-tfs-migrations-from-on-premise-to-visual-studio-online
-- /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /resources/lov38doo6uB
-- /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
 aliasesArchive:
 - /blog/understanding-tfs-migrations-premise-visual-studio-online
 - /understanding-tfs-migrations-premise-visual-studio-online

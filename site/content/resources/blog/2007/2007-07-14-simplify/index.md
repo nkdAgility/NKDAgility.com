@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: simplify
 aliases:
-- /blog/simplify
-- /simplify
 - /resources/CEZVS03cb-9
-- /resources/blog/simplify
 aliasesArchive:
 - /blog/simplify
 - /simplify

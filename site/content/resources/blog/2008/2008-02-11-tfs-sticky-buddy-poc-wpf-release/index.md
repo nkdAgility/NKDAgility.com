@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-poc-wpf-release
 aliases:
-- /blog/tfs-sticky-buddy-poc-wpf-release
-- /tfs-sticky-buddy-poc-wpf-release
-- /tfs-sticky-buddy-poc-(wpf)-release
-- /blog/tfs-sticky-buddy-poc-(wpf)-release
 - /resources/y9N2dVYGwK3
-- /resources/blog/tfs-sticky-buddy-poc-wpf-release
 aliasesArchive:
 - /blog/tfs-sticky-buddy-poc-wpf-release
 - /tfs-sticky-buddy-poc-wpf-release

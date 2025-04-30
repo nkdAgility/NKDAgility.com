@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: ihandlerfactory
 aliases:
-- /blog/ihandlerfactory
-- /ihandlerfactory
 - /resources/kYNSKaqUYb7
-- /resources/blog/ihandlerfactory
 aliasesArchive:
 - /blog/ihandlerfactory
 - /ihandlerfactory

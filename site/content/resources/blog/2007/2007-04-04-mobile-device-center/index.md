@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: mobile-device-center
 aliases:
-- /blog/mobile-device-center
-- /mobile-device-center
 - /resources/KLy7B-gdNTJ
-- /resources/blog/mobile-device-center
 aliasesArchive:
 - /blog/mobile-device-center
 - /mobile-device-center

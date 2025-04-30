@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: developing-for-sharepoint-on-your-local-computer
 aliases:
-- /blog/developing-for-sharepoint-on-your-local-computer
-- /developing-for-sharepoint-on-your-local-computer
 - /resources/WDzxUI3sjlD
-- /resources/blog/developing-for-sharepoint-on-your-local-computer
 aliasesArchive:
 - /blog/developing-for-sharepoint-on-your-local-computer
 - /developing-for-sharepoint-on-your-local-computer

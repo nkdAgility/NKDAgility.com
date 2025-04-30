@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: fun-with-virgin
 aliases:
-- /blog/fun-with-virgin
-- /fun-with-virgin
-- /fun-with-virgin+
-- /blog/fun-with-virgin+
 - /resources/PHUHjUVq45E
-- /resources/blog/fun-with-virgin
 aliasesArchive:
 - /blog/fun-with-virgin
 - /fun-with-virgin

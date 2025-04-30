@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: always-prompted-for-credentials-in-tfs-2010
 aliases:
-- /blog/always-prompted-for-credentials-in-tfs-2010
-- /always-prompted-for-credentials-in-tfs-2010
-- /always-prompted-for-credentials-in-tfs-2010-
-- /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/fESk_RDaaIB
-- /resources/blog/always-prompted-for-credentials-in-tfs-2010
 aliasesArchive:
 - /blog/always-prompted-for-credentials-in-tfs-2010
 - /always-prompted-for-credentials-in-tfs-2010

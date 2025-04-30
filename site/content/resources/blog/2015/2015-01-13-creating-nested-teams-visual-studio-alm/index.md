@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-nested-teams-visual-studio-alm
 aliases:
-- /blog/creating-nested-teams-visual-studio-alm
-- /creating-nested-teams-visual-studio-alm
-- /creating-nested-teams-in-visual-studio-alm
-- /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/wu1tvjyyrZU
-- /resources/blog/creating-nested-teams-visual-studio-alm
 aliasesArchive:
 - /blog/creating-nested-teams-visual-studio-alm
 - /creating-nested-teams-visual-studio-alm

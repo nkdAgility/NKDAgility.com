@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: list-all-files-changed-under-an-iteration
 aliases:
-- /blog/list-all-files-changed-under-an-iteration
-- /list-all-files-changed-under-an-iteration
 - /resources/M07b_KU6l8f
-- /resources/blog/list-all-files-changed-under-an-iteration
 aliasesArchive:
 - /blog/list-all-files-changed-under-an-iteration
 - /list-all-files-changed-under-an-iteration

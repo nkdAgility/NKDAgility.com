@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: even-scrum-should-have-detailed-task-descriptions
 aliases:
-- /blog/even-scrum-should-have-detailed-task-descriptions
-- /even-scrum-should-have-detailed-task-descriptions
 - /resources/7J9zEPmBq-C
-- /resources/blog/even-scrum-should-have-detailed-task-descriptions
 aliasesArchive:
 - /blog/even-scrum-should-have-detailed-task-descriptions
 - /even-scrum-should-have-detailed-task-descriptions

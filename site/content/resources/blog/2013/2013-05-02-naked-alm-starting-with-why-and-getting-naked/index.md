@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
-- /blog/naked-alm-starting-with-why-and-getting-naked
-- /naked-alm-starting-with-why-and-getting-naked
-- /naked-alm--starting-with-why-and-getting-naked
-- /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/SrQHWVkcvAL
-- /resources/blog/naked-alm-starting-with-why-and-getting-naked
 aliasesArchive:
 - /blog/naked-alm-starting-with-why-and-getting-naked
 - /naked-alm-starting-with-why-and-getting-naked

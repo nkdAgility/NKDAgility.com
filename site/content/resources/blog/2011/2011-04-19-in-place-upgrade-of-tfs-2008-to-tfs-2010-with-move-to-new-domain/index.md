@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 aliases:
-- /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
-- /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /resources/LSYjtifbvOt
-- /resources/blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 aliasesArchive:
 - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 - /in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain

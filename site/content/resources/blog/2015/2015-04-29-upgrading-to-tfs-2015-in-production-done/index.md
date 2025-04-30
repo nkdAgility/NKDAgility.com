@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-tfs-2015-in-production-done
 aliases:
-- /blog/upgrading-to-tfs-2015-in-production-done
-- /upgrading-to-tfs-2015-in-production-done
-- /upgrading-to-tfs-2015-in-production
-- /upgrading-to-tfs-2015-in-production---done
-- /blog/upgrading-to-tfs-2015-in-production---done
 - /resources/lJiwJaztYBO
-- /resources/blog/upgrading-to-tfs-2015-in-production-done
 aliasesArchive:
 - /blog/upgrading-to-tfs-2015-in-production-done
 - /upgrading-to-tfs-2015-in-production-done

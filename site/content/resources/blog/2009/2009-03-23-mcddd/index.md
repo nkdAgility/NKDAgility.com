@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: mcddd
 aliases:
-- /blog/mcddd
-- /mcddd
 - /resources/6pw2YiuYEJ1
-- /resources/blog/mcddd
 aliasesArchive:
 - /blog/mcddd
 - /mcddd

@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 aliases:
-- /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
-- /presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
-- /presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
-- /blog/presenting-visual-studio-alm-and-upgrading-tfs-2010-to-tfs-2012-in-production-–-done
 - /resources/XVaSDKBKQvb
-- /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 aliasesArchive:
 - /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 - /presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done

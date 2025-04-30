@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: my-first-alm-and-second-vsts-presentaton
 aliases:
-- /blog/my-first-alm-and-second-vsts-presentaton
-- /my-first-alm-and-second-vsts-presentaton
-- /my-first-alm-and-second-vsts-presentaton-
-- /blog/my-first-alm-and-second-vsts-presentaton-
 - /resources/v3tFzfmLkHa
-- /resources/blog/my-first-alm-and-second-vsts-presentaton
 aliasesArchive:
 - /blog/my-first-alm-and-second-vsts-presentaton
 - /my-first-alm-and-second-vsts-presentaton

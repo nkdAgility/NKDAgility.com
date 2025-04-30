@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 aliases:
-- /blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
-- /tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
-- /blog/tfs-integration-tools---issue--tf14009--cannot-merge-source-into-target-because-the-target-is-underneath-source
 - /resources/pwygxmIIHOc
-- /resources/blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 aliasesArchive:
 - /blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 - /tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source

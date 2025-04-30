@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-solutions-rant
 aliases:
-- /blog/sharepoint-solutions-rant
-- /sharepoint-solutions-rant
 - /resources/z6JKvHvhWuI
-- /resources/blog/sharepoint-solutions-rant
 aliasesArchive:
 - /blog/sharepoint-solutions-rant
 - /sharepoint-solutions-rant

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 aliases:
-- /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
-- /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 - /resources/Ks6r6mfVUxy
-- /resources/blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 aliasesArchive:
 - /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 - /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country

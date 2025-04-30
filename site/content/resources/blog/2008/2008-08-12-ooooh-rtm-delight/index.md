@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: ooooh-rtm-delight
 aliases:
-- /blog/ooooh-rtm-delight
-- /ooooh-rtm-delight
-- /ooooh,-rtm-delight
-- /blog/ooooh,-rtm-delight
 - /resources/i8GZ_Yop1t_
-- /ooooh--rtm-delight
-- /blog/ooooh--rtm-delight
-- /resources/blog/ooooh-rtm-delight
 aliasesArchive:
 - /blog/ooooh-rtm-delight
 - /ooooh-rtm-delight

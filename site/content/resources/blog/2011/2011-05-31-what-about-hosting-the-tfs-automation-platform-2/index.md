@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: what-about-hosting-the-tfs-automation-platform-2
 aliases:
-- /blog/what-about-hosting-the-tfs-automation-platform-2
-- /what-about-hosting-the-tfs-automation-platform-2
-- /what-about-hosting-the-tfs-automation-platform
-- /blog/what-about-hosting-the-tfs-automation-platform
 - /resources/je145Y3qB7P
-- /resources/blog/what-about-hosting-the-tfs-automation-platform-2
 aliasesArchive:
 - /blog/what-about-hosting-the-tfs-automation-platform-2
 - /what-about-hosting-the-tfs-automation-platform-2

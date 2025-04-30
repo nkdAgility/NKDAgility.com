@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-server-name
 aliases:
-- /blog/tfs-gotcha-server-name
-- /tfs-gotcha-server-name
-- /tfs-gotcha-(server-name)
-- /blog/tfs-gotcha-(server-name)
 - /resources/l7s81fXVkty
-- /resources/blog/tfs-gotcha-server-name
 aliasesArchive:
 - /blog/tfs-gotcha-server-name
 - /tfs-gotcha-server-name

@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-2010-database-projects-guidance
 aliases:
-- /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
-- /do-you-know-about-the-visual-studio-2010-database-projects-guidance
-- /do-you-know-about-the-visual-studio-2010-database-projects-guidance-
-- /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /resources/84KSaMagvy0
-- /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance

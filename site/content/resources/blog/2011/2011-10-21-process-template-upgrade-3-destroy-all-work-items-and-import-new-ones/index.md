@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 aliases:
-- /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
-- /process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
-- /process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
-- /blog/process-template-upgrade--3---destroy-all-work-items-and-import-new-ones
 - /resources/Lt6VAvnEOjb
-- /resources/blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 aliasesArchive:
 - /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 - /process-template-upgrade-3-destroy-all-work-items-and-import-new-ones

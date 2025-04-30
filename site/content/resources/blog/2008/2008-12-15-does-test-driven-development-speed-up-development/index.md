@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: does-test-driven-development-speed-up-development
 aliases:
-- /blog/does-test-driven-development-speed-up-development
-- /does-test-driven-development-speed-up-development
-- /does-test-driven-development-speed-up-development-
-- /blog/does-test-driven-development-speed-up-development-
 - /resources/ASBKRFatUhc
-- /resources/blog/does-test-driven-development-speed-up-development
 aliasesArchive:
 - /blog/does-test-driven-development-speed-up-development
 - /does-test-driven-development-speed-up-development

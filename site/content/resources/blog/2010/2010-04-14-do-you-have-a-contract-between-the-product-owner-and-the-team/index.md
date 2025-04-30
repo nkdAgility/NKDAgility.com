@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-have-a-contract-between-the-product-owner-and-the-team
 aliases:
-- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
-- /do-you-have-a-contract-between-the-product-owner-and-the-team
-- /do-you-have-a-contract-between-the-product-owner-and-the-team-
-- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /resources/8d4KN3bxVfX
-- /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 aliasesArchive:
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 - /do-you-have-a-contract-between-the-product-owner-and-the-team

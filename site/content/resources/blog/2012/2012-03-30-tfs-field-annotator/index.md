@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-field-annotator
 aliases:
-- /blog/tfs-field-annotator
-- /tfs-field-annotator
 - /resources/Nb7mmrBQDyM
-- /resources/blog/tfs-field-annotator
 aliasesArchive:
 - /blog/tfs-field-annotator
 - /tfs-field-annotator

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: unique-id-in-sharepoint-list
 aliases:
-- /blog/unique-id-in-sharepoint-list
-- /unique-id-in-sharepoint-list
 - /resources/IydVW3AXWCp
-- /resources/blog/unique-id-in-sharepoint-list
 aliasesArchive:
 - /blog/unique-id-in-sharepoint-list
 - /unique-id-in-sharepoint-list

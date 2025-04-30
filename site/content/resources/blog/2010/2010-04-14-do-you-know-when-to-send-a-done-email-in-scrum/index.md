@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-when-to-send-a-done-email-in-scrum
 aliases:
-- /blog/do-you-know-when-to-send-a-done-email-in-scrum
-- /do-you-know-when-to-send-a-done-email-in-scrum
-- /do-you-know-when-to-send-a-done-email-in-scrum-
-- /blog/do-you-know-when-to-send-a-done-email-in-scrum-
 - /resources/iHdkPl8gwwm
-- /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 aliasesArchive:
 - /blog/do-you-know-when-to-send-a-done-email-in-scrum
 - /do-you-know-when-to-send-a-done-email-in-scrum

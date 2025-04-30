@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 aliases:
-- /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
-- /integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /resources/nNxCVaaSYOS
-- /resources/blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 aliasesArchive:
 - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 - /integrate-reporting-and-analyses-services-with-team-foundation-server-2013

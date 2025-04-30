@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: event-msdn-sharepoint-for-developers-edinburgh
 aliases:
-- /blog/event-msdn-sharepoint-for-developers-edinburgh
-- /event-msdn-sharepoint-for-developers-edinburgh
-- /event--msdn--sharepoint-for-developers-(edinburgh)
-- /blog/event--msdn--sharepoint-for-developers-(edinburgh)
 - /resources/Z3OPR0BDfsD
-- /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
 aliasesArchive:
 - /blog/event-msdn-sharepoint-for-developers-edinburgh
 - /event-msdn-sharepoint-for-developers-edinburgh

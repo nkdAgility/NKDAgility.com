@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-error-28936
 aliases:
-- /blog/team-foundation-server-error-28936
-- /team-foundation-server-error-28936
 - /resources/pfq93Zq1pW6
-- /resources/blog/team-foundation-server-error-28936
 aliasesArchive:
 - /blog/team-foundation-server-error-28936
 - /team-foundation-server-error-28936

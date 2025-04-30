@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-toolsissue-analysisprovider-not-found
 aliases:
-- /blog/tfs-integration-toolsissue-analysisprovider-not-found
-- /tfs-integration-toolsissue-analysisprovider-not-found
-- /tfs-integration-tools–issue--analysisprovider-not-found
-- /blog/tfs-integration-tools–issue--analysisprovider-not-found
 - /resources/8A-nFDUhe2o
-- /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 aliasesArchive:
 - /blog/tfs-integration-toolsissue-analysisprovider-not-found
 - /tfs-integration-toolsissue-analysisprovider-not-found

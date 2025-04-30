@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: bruce-lee-on-scrum-and-agile
 aliases:
-- /blog/bruce-lee-on-scrum-and-agile
-- /bruce-lee-on-scrum-and-agile
 - /resources/mDZ9tLsZEI-
-- /resources/blog/bruce-lee-on-scrum-and-agile
 aliasesArchive:
 - /blog/bruce-lee-on-scrum-and-agile
 - /bruce-lee-on-scrum-and-agile

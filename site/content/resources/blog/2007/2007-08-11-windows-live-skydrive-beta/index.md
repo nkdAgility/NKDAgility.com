@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-skydrive-beta
 aliases:
-- /blog/windows-live-skydrive-beta
-- /windows-live-skydrive-beta
 - /resources/oN9JK2ZkXJ3
-- /resources/blog/windows-live-skydrive-beta
 aliasesArchive:
 - /blog/windows-live-skydrive-beta
 - /windows-live-skydrive-beta

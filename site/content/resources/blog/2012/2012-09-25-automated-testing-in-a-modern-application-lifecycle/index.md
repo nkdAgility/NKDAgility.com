@@ -15,11 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: automated-testing-in-a-modern-application-lifecycle
 aliases:
-- /blog/automated-testing-in-a-modern-application-lifecycle
-- /automated-testing-in-a-modern-application-lifecycle/
-- /automated-testing-in-a-modern-application-lifecycle
 - /resources/IOUOjgnp-hB
-- /resources/blog/automated-testing-in-a-modern-application-lifecycle
 aliasesArchive:
 - /blog/automated-testing-in-a-modern-application-lifecycle
 - /automated-testing-in-a-modern-application-lifecycle/

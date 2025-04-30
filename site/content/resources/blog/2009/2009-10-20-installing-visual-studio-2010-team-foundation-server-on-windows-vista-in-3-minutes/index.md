@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 aliases:
-- /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
-- /installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 - /resources/1915ua1v0mc
-- /resources/blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 aliasesArchive:
 - /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 - /installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes

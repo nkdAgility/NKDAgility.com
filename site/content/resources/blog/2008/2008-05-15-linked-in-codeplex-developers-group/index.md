@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: linked-in-codeplex-developers-group
 aliases:
-- /blog/linked-in-codeplex-developers-group
-- /linked-in-codeplex-developers-group
 - /resources/UJU5tO1-TLi
-- /resources/blog/linked-in-codeplex-developers-group
 aliasesArchive:
 - /blog/linked-in-codeplex-developers-group
 - /linked-in-codeplex-developers-group

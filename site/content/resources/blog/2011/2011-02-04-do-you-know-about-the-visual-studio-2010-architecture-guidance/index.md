@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliases:
-- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
-- /do-you-know-about-the-visual-studio-2010-architecture-guidance
-- /do-you-know-about-the-visual-studio-2010-architecture-guidance-
-- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /resources/_88PkXdkKu8
-- /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 - /do-you-know-about-the-visual-studio-2010-architecture-guidance

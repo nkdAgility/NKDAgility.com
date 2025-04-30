@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: falling-of-the-tfs-rehabilitation-wagon
 aliases:
-- /blog/falling-of-the-tfs-rehabilitation-wagon
-- /falling-of-the-tfs-rehabilitation-wagon---
-- /blog/falling-of-the-tfs-rehabilitation-wagon---
 - /resources/xhOqFwLeKh2
-- /falling-of-the-tfs-rehabilitation-wagon
-- /resources/blog/falling-of-the-tfs-rehabilitation-wagon
 aliasesArchive:
 - /blog/falling-of-the-tfs-rehabilitation-wagon
 - /falling-of-the-tfs-rehabilitation-wagon---

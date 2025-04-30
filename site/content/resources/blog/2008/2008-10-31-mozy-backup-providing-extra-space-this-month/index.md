@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: mozy-backup-providing-extra-space-this-month
 aliases:
-- /blog/mozy-backup-providing-extra-space-this-month
-- /mozy-backup-providing-extra-space-this-month
 - /resources/VgEgURg3LhB
-- /resources/blog/mozy-backup-providing-extra-space-this-month
 aliasesArchive:
 - /blog/mozy-backup-providing-extra-space-this-month
 - /mozy-backup-providing-extra-space-this-month

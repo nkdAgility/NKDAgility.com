@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 aliases:
-- /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-- /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
-- /deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
-- /blog/deploy-from-visual-studio-2012-to-ios,-windows-phone,-android-and-windows
 - /resources/n5gPXqsSzYn
-- /deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
-- /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
-- /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 aliasesArchive:
 - /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 - /deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows

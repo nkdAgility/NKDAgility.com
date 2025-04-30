@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 aliases:
-- /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
-- /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/cYRmqyXmGQf
-- /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 aliasesArchive:
 - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project

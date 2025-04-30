@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-update-2-supports-2010-build-servers
 aliases:
-- /blog/visual-studio-2012-update-2-supports-2010-build-servers
-- /visual-studio-2012-update-2-supports-2010-build-servers
 - /resources/wOYxXY4OsUH
-- /resources/blog/visual-studio-2012-update-2-supports-2010-build-servers
 aliasesArchive:
 - /blog/visual-studio-2012-update-2-supports-2010-build-servers
 - /visual-studio-2012-update-2-supports-2010-build-servers

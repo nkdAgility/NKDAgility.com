@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 aliases:
-- /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-- /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
-- /project-server-2013-issue
-- /project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
-- /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /resources/YXA8oHuhkaD
-- /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 aliasesArchive:
 - /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 - /project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance

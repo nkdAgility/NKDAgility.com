@@ -15,15 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-a-day-in-the-life-of
 aliases:
-- /blog/visual-studio-2010-overview-a-day-in-the-life-of
-- /visual-studio-2010-overview-a-day-in-the-life-of
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
-- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 - /resources/oXATaMW00Ct
-- /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
-- /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
-- /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
 aliasesArchive:
 - /blog/visual-studio-2010-overview-a-day-in-the-life-of
 - /visual-studio-2010-overview-a-day-in-the-life-of

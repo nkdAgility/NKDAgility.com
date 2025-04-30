@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 aliases:
-- /blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-- /office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-- /office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
-- /blog/office-2013-issue--there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 - /resources/2slV7lVD3rC
-- /resources/blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 aliasesArchive:
 - /blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 - /office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013

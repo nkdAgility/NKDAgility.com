@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-team-foundation-server-service-pack-1
 aliases:
-- /blog/installing-visual-studio-team-foundation-server-service-pack-1
-- /installing-visual-studio-team-foundation-server-service-pack-1
 - /resources/LpdTshxayAB
-- /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
 aliasesArchive:
 - /blog/installing-visual-studio-team-foundation-server-service-pack-1
 - /installing-visual-studio-team-foundation-server-service-pack-1

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: calculating-the-rank-of-your-blog-posts-or-pages
 aliases:
-- /blog/calculating-the-rank-of-your-blog-posts-or-pages
-- /calculating-the-rank-of-your-blog-posts-or-pages
 - /resources/DrHRcRNSIRX
-- /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
 aliasesArchive:
 - /blog/calculating-the-rank-of-your-blog-posts-or-pages
 - /calculating-the-rank-of-your-blog-posts-or-pages

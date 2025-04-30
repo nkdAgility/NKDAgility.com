@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-want-to-be-an-alm-consultant
 aliases:
-- /blog/do-you-want-to-be-an-alm-consultant
-- /do-you-want-to-be-an-alm-consultant
-- /do-you-want-to-be-an-alm-consultant-
-- /blog/do-you-want-to-be-an-alm-consultant-
 - /resources/VWFF90m9BYG
-- /resources/blog/do-you-want-to-be-an-alm-consultant
 aliasesArchive:
 - /blog/do-you-want-to-be-an-alm-consultant
 - /do-you-want-to-be-an-alm-consultant

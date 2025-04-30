@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: ad-update-o-matic
 aliases:
-- /blog/ad-update-o-matic
-- /ad-update-o-matic
 - /resources/PxQXixHg3e3
-- /resources/blog/ad-update-o-matic
 aliasesArchive:
 - /blog/ad-update-o-matic
 - /ad-update-o-matic

@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 aliases:
-- /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-- /vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
-- /vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
-- /blog/vss-converter-–-issue--tf60014-&-tf60087--failed-to-initialise-user-mapper
 - /resources/a2ptmGZFk8P
-- /resources/blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 aliasesArchive:
 - /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 - /vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper

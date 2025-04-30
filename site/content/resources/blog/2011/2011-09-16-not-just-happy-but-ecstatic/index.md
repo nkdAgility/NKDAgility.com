@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: not-just-happy-but-ecstatic
 aliases:
-- /blog/not-just-happy-but-ecstatic
-- /not-just-happy-but-ecstatic
-- /not-just-happy,-but-ecstatic
-- /blog/not-just-happy,-but-ecstatic
 - /resources/C7FpzXTFpU_
-- /not-just-happy--but-ecstatic
-- /blog/not-just-happy--but-ecstatic
-- /resources/blog/not-just-happy-but-ecstatic
 aliasesArchive:
 - /blog/not-just-happy-but-ecstatic
 - /not-just-happy-but-ecstatic

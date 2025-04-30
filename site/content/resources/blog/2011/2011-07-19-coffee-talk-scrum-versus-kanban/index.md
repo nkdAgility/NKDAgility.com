@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban
 aliases:
-- /blog/coffee-talk-scrum-versus-kanban
-- /coffee-talk-scrum-versus-kanban
-- /coffee-talk--scrum-versus-kanban
-- /blog/coffee-talk--scrum-versus-kanban
 - /resources/1VmIrtnFKy7
-- /resources/blog/coffee-talk-scrum-versus-kanban
 aliasesArchive:
 - /blog/coffee-talk-scrum-versus-kanban
 - /coffee-talk-scrum-versus-kanban

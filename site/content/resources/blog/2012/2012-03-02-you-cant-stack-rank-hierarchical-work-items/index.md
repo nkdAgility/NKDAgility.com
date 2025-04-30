@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: you-cant-stack-rank-hierarchical-work-items
 aliases:
-- /blog/you-cant-stack-rank-hierarchical-work-items
-- /you-cant-stack-rank-hierarchical-work-items
-- /you-can't-stack-rank-hierarchical-work-items-
-- /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/u9Eh1rXDhGE
-- /resources/blog/you-cant-stack-rank-hierarchical-work-items
 aliasesArchive:
 - /blog/you-cant-stack-rank-hierarchical-work-items
 - /you-cant-stack-rank-hierarchical-work-items

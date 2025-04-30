@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2008-team-edition-for-architects
 aliases:
-- /blog/visual-studio-2008-team-edition-for-architects
-- /visual-studio-2008-team-edition-for-architects
 - /resources/wPAkb39sRlH
-- /resources/blog/visual-studio-2008-team-edition-for-architects
 aliasesArchive:
 - /blog/visual-studio-2008-team-edition-for-architects
 - /visual-studio-2008-team-edition-for-architects

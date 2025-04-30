@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 aliases:
-- /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
-- /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /resources/YBExXvBtNAN
-- /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 aliasesArchive:
 - /blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010

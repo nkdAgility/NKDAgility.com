@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-new-clustermaps-neoworx
 aliases:
-- /blog/the-new-clustermaps-neoworx
-- /the-new-clustermaps-neoworx
-- /the-new-clustermaps--neoworx
-- /blog/the-new-clustermaps--neoworx
 - /resources/_tT2jcz-s4u
-- /resources/blog/the-new-clustermaps-neoworx
 aliasesArchive:
 - /blog/the-new-clustermaps-neoworx
 - /the-new-clustermaps-neoworx

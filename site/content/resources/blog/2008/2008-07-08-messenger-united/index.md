@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: messenger-united
 aliases:
-- /blog/messenger-united
-- /messenger-united
 - /resources/RvQ6ePytMFh
-- /resources/blog/messenger-united
 aliasesArchive:
 - /blog/messenger-united
 - /messenger-united

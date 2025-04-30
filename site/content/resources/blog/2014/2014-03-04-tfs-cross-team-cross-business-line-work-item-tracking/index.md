@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-cross-team-cross-business-line-work-item-tracking
 aliases:
-- /blog/tfs-cross-team-cross-business-line-work-item-tracking
-- /tfs-cross-team-cross-business-line-work-item-tracking
-- /tfs-for-cross-team-and-cross-business-line-work-item-tracking
-- /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/l6LGPY2BGU5
-- /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 aliasesArchive:
 - /blog/tfs-cross-team-cross-business-line-work-item-tracking
 - /tfs-cross-team-cross-business-line-work-item-tracking

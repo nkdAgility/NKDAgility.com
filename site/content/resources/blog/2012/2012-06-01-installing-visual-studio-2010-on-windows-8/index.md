@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2010-on-windows-8
 aliases:
-- /blog/installing-visual-studio-2010-on-windows-8
-- /installing-visual-studio-2010-on-windows-8
 - /resources/9182z5AEKd6
-- /resources/blog/installing-visual-studio-2010-on-windows-8
 aliasesArchive:
 - /blog/installing-visual-studio-2010-on-windows-8
 - /installing-visual-studio-2010-on-windows-8

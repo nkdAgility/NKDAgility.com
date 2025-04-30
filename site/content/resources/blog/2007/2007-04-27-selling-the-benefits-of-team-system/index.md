@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: selling-the-benefits-of-team-system
 aliases:
-- /blog/selling-the-benefits-of-team-system
-- /selling-the-benefits-of-team-system
 - /resources/_jpQbjqxlCl
-- /resources/blog/selling-the-benefits-of-team-system
 aliasesArchive:
 - /blog/selling-the-benefits-of-team-system
 - /selling-the-benefits-of-team-system

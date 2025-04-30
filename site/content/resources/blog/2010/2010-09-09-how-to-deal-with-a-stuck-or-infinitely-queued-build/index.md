@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: how-to-deal-with-a-stuck-or-infinitely-queued-build
 aliases:
-- /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
-- /how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /resources/gfvOPIZKbEI
-- /resources/blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 aliasesArchive:
 - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 - /how-to-deal-with-a-stuck-or-infinitely-queued-build

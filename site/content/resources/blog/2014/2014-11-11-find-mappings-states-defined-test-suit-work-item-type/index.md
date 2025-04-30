@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: find-mappings-states-defined-test-suit-work-item-type
 aliases:
-- /blog/find-mappings-states-defined-test-suit-work-item-type
-- /find-mappings-states-defined-test-suit-work-item-type
-- /could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
-- /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/tAug7ZHHqTM
-- /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 aliasesArchive:
 - /blog/find-mappings-states-defined-test-suit-work-item-type
 - /find-mappings-states-defined-test-suit-work-item-type

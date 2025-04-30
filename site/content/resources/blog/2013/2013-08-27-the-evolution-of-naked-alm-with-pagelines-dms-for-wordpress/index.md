@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliases:
-- /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
-- /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/csMYp4a7yBd
-- /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliasesArchive:
 - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress

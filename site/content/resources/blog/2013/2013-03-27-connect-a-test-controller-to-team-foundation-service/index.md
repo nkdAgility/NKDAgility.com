@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: connect-a-test-controller-to-team-foundation-service
 aliases:
-- /blog/connect-a-test-controller-to-team-foundation-service
-- /connect-a-test-controller-to-team-foundation-service
 - /resources/D5NhnVpHAwD
-- /resources/blog/connect-a-test-controller-to-team-foundation-service
 aliasesArchive:
 - /blog/connect-a-test-controller-to-team-foundation-service
 - /connect-a-test-controller-to-team-foundation-service

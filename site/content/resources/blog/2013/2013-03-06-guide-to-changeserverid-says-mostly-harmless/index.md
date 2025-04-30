@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: guide-to-changeserverid-says-mostly-harmless
 aliases:
-- /blog/guide-to-changeserverid-says-mostly-harmless
-- /guide-to-changeserverid-says-mostly-harmless
 - /resources/hoewU67YJfb
-- /resources/blog/guide-to-changeserverid-says-mostly-harmless
 aliasesArchive:
 - /blog/guide-to-changeserverid-says-mostly-harmless
 - /guide-to-changeserverid-says-mostly-harmless

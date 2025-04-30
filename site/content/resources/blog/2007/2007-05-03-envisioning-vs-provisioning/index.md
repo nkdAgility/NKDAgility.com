@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: envisioning-vs-provisioning
 aliases:
-- /blog/envisioning-vs-provisioning
-- /envisioning-vs-provisioning
 - /resources/klxWFYrDmai
-- /resources/blog/envisioning-vs-provisioning
 aliasesArchive:
 - /blog/envisioning-vs-provisioning
 - /envisioning-vs-provisioning

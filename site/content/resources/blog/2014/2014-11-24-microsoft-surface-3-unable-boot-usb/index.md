@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-surface-3-unable-boot-usb
 aliases:
-- /blog/microsoft-surface-3-unable-boot-usb
-- /microsoft-surface-3-unable-boot-usb
-- /microsoft-surface-3-unable-to-boot-from-usb
-- /blog/microsoft-surface-3-unable-to-boot-from-usb
 - /resources/a3t-_ypf_UJ
-- /resources/blog/microsoft-surface-3-unable-boot-usb
 aliasesArchive:
 - /blog/microsoft-surface-3-unable-boot-usb
 - /microsoft-surface-3-unable-boot-usb

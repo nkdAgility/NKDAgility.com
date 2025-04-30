@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-long-wait-is-over
 aliases:
-- /blog/the-long-wait-is-over
-- /the-long-wait-is-over
 - /resources/Ahz5CpOOGZl
-- /resources/blog/the-long-wait-is-over
 aliasesArchive:
 - /blog/the-long-wait-is-over
 - /the-long-wait-is-over

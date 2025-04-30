@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-poc-winforms-release
 aliases:
-- /blog/tfs-sticky-buddy-poc-winforms-release
-- /tfs-sticky-buddy-poc-winforms-release
-- /tfs-sticky-buddy-poc-(winforms)-release
-- /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/FSoIFwapvMt
-- /resources/blog/tfs-sticky-buddy-poc-winforms-release
 aliasesArchive:
 - /blog/tfs-sticky-buddy-poc-winforms-release
 - /tfs-sticky-buddy-poc-winforms-release

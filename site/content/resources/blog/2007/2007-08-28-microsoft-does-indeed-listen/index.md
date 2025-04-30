@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-does-indeed-listen
 aliases:
-- /blog/microsoft-does-indeed-listen
-- /microsoft-does-indeed-listen
 - /resources/vZZ_DZ3emxB
-- /resources/blog/microsoft-does-indeed-listen
 aliasesArchive:
 - /blog/microsoft-does-indeed-listen
 - /microsoft-does-indeed-listen

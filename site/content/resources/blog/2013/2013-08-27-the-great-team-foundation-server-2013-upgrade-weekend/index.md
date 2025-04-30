@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-great-team-foundation-server-2013-upgrade-weekend
 aliases:
-- /blog/the-great-team-foundation-server-2013-upgrade-weekend
-- /the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/vBfV--PVVr7
-- /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 aliasesArchive:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /the-great-team-foundation-server-2013-upgrade-weekend

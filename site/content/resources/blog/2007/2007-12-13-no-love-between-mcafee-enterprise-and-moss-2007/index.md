@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: no-love-between-mcafee-enterprise-and-moss-2007
 aliases:
-- /blog/no-love-between-mcafee-enterprise-and-moss-2007
-- /no-love-between-mcafee-enterprise-and-moss-2007
 - /resources/uprMOboloWH
-- /resources/blog/no-love-between-mcafee-enterprise-and-moss-2007
 aliasesArchive:
 - /blog/no-love-between-mcafee-enterprise-and-moss-2007
 - /no-love-between-mcafee-enterprise-and-moss-2007

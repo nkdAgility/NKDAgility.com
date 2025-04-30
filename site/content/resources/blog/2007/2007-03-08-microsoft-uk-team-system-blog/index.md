@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-uk-team-system-blog
 aliases:
-- /blog/microsoft-uk-team-system-blog
-- /microsoft-uk-team-system-blog
 - /resources/7sufhYTYvt-
-- /resources/blog/microsoft-uk-team-system-blog
 aliasesArchive:
 - /blog/microsoft-uk-team-system-blog
 - /microsoft-uk-team-system-blog

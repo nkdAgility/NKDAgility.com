@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: whats-in-a-burndown
 aliases:
-- /blog/whats-in-a-burndown
-- /whats-in-a-burndown
-- /what's-in-a-burndown-
-- /blog/what's-in-a-burndown-
 - /resources/SdYtGr9X2KV
-- /resources/blog/whats-in-a-burndown
 aliasesArchive:
 - /blog/whats-in-a-burndown
 - /whats-in-a-burndown

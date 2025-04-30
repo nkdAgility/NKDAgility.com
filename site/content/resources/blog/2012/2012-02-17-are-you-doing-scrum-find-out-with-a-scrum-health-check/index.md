@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: are-you-doing-scrum-find-out-with-a-scrum-health-check
 aliases:
-- /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
-- /are-you-doing-scrum-find-out-with-a-scrum-health-check
-- /are-you-doing-scrum--find-out-with-a-scrum-health-check-
-- /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /resources/sd5d5KYoXsO
-- /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 aliasesArchive:
 - /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 - /are-you-doing-scrum-find-out-with-a-scrum-health-check

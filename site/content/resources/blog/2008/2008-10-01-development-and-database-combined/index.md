@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: development-and-database-combined
 aliases:
-- /blog/development-and-database-combined
-- /development-and-database-combined
 - /resources/9u4z7lAsHAh
-- /resources/blog/development-and-database-combined
 aliasesArchive:
 - /blog/development-and-database-combined
 - /development-and-database-combined

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: updating-to-visual-studio-2008-sp1
 aliases:
-- /blog/updating-to-visual-studio-2008-sp1
-- /updating-to-visual-studio-2008-sp1
 - /resources/kV6Jktk_APX
-- /resources/blog/updating-to-visual-studio-2008-sp1
 aliasesArchive:
 - /blog/updating-to-visual-studio-2008-sp1
 - /updating-to-visual-studio-2008-sp1

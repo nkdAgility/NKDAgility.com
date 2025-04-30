@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: are-scrum-masters-agents-for-change
 aliases:
-- /blog/are-scrum-masters-agents-for-change
-- /are-scrum-masters-agents-for-change
-- /are-scrum-masters-agents-for-change-
-- /blog/are-scrum-masters-agents-for-change-
 - /resources/d3jujAd6f6r
-- /resources/blog/are-scrum-masters-agents-for-change
 aliasesArchive:
 - /blog/are-scrum-masters-agents-for-change
 - /are-scrum-masters-agents-for-change

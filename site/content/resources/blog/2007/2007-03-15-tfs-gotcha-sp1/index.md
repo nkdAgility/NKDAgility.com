@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-sp1
 aliases:
-- /blog/tfs-gotcha-sp1
-- /tfs-gotcha-sp1
-- /tfs-gotcha-(sp1)
-- /blog/tfs-gotcha-(sp1)
 - /resources/ZlJuM9fduW9
-- /resources/blog/tfs-gotcha-sp1
 aliasesArchive:
 - /blog/tfs-gotcha-sp1
 - /tfs-gotcha-sp1

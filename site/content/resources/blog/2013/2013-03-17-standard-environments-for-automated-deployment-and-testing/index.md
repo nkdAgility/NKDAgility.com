@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: standard-environments-for-automated-deployment-and-testing
 aliases:
-- /blog/standard-environments-for-automated-deployment-and-testing
-- /standard-environments-for-automated-deployment-and-testing
 - /resources/Xmo3nfcFGmv
-- /resources/blog/standard-environments-for-automated-deployment-and-testing
 aliasesArchive:
 - /blog/standard-environments-for-automated-deployment-and-testing
 - /standard-environments-for-automated-deployment-and-testing

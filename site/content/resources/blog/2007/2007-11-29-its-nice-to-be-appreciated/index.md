@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: its-nice-to-be-appreciated
 aliases:
-- /blog/its-nice-to-be-appreciated
-- /its-nice-to-be-appreciated
-- /it's-nice-to-be-appreciated-
-- /blog/it's-nice-to-be-appreciated-
 - /resources/Kmtwkw7RD0K
-- /resources/blog/its-nice-to-be-appreciated
 aliasesArchive:
 - /blog/its-nice-to-be-appreciated
 - /its-nice-to-be-appreciated

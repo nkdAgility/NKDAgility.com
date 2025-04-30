@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-handover
 aliases:
-- /blog/tfs-handover
-- /tfs-handover
 - /resources/pHZwP7oD5dE
-- /resources/blog/tfs-handover
 aliasesArchive:
 - /blog/tfs-handover
 - /tfs-handover

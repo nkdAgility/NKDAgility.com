@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: twitter-with-style
 aliases:
-- /blog/twitter-with-style
-- /twitter-with-style
 - /resources/eIU0OIoHUfa
-- /resources/blog/twitter-with-style
 aliasesArchive:
 - /blog/twitter-with-style
 - /twitter-with-style

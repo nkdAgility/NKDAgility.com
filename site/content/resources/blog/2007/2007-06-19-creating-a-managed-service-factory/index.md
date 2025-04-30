@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-managed-service-factory
 aliases:
-- /blog/creating-a-managed-service-factory
-- /creating-a-managed-service-factory
 - /resources/dfhN35mUMDl
-- /resources/blog/creating-a-managed-service-factory
 aliasesArchive:
 - /blog/creating-a-managed-service-factory
 - /creating-a-managed-service-factory

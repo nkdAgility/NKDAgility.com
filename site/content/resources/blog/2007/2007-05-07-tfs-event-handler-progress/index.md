@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-progress
 aliases:
-- /blog/tfs-event-handler-progress
-- /tfs-event-handler-progress
 - /resources/MY8gn3hmXhh
-- /resources/blog/tfs-event-handler-progress
 aliasesArchive:
 - /blog/tfs-event-handler-progress
 - /tfs-event-handler-progress

@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: loosing-the-battle-but-the-war-goes-on
 aliases:
-- /blog/loosing-the-battle-but-the-war-goes-on
-- /loosing-the-battle-but-the-war-goes-on
-- /loosing-the-battle,-but-the-war-goes-on
-- /blog/loosing-the-battle,-but-the-war-goes-on
 - /resources/eDmNn28RPGH
-- /loosing-the-battle--but-the-war-goes-on
-- /blog/loosing-the-battle--but-the-war-goes-on
-- /resources/blog/loosing-the-battle-but-the-war-goes-on
 aliasesArchive:
 - /blog/loosing-the-battle-but-the-war-goes-on
 - /loosing-the-battle-but-the-war-goes-on

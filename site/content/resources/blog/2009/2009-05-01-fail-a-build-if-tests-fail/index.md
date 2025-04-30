@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: fail-a-build-if-tests-fail
 aliases:
-- /blog/fail-a-build-if-tests-fail
-- /fail-a-build-if-tests-fail
 - /resources/VuY5udPg1uD
-- /resources/blog/fail-a-build-if-tests-fail
 aliasesArchive:
 - /blog/fail-a-build-if-tests-fail
 - /fail-a-build-if-tests-fail

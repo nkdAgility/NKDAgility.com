@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-custom-proxy-class
 aliases:
-- /blog/creating-a-custom-proxy-class
-- /creating-a-custom-proxy-class
 - /resources/S4XG-Is-FHq
-- /resources/blog/creating-a-custom-proxy-class
 aliasesArchive:
 - /blog/creating-a-custom-proxy-class
 - /creating-a-custom-proxy-class
