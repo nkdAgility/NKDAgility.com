@@ -22,7 +22,8 @@ $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 $ResourceCatalogue = @{}
-$ResourceCatalogueCutoffDate = [DateTime]::Parse("2000-01-01")
+$numberOfYears = 10
+$ResourceCatalogueCutoffDate = (Get-Date).AddYears(-$numberOfYears)
 
 Write-InformationLog "Loading ({count}) markdown files...." -PropertyValues $resources.Count
 $resourceCount = $resources.Count
@@ -210,9 +211,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
         $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
     }
-    $numberOfYears = 10
-    $cutoffDate = (Get-Date).AddYears(-$numberOfYears)
-    if ($hugoMarkdown.FrontMatter.date -lt $cutoffDate) {
+    if ([DateTime]$hugoMarkdown.FrontMatter.date -lt $ResourceCatalogueCutoffDate) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug' -Overwrite
     }
     else {
@@ -271,12 +270,12 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
     # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
     #-----------------Categories-------------------
-    $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     #-----------------Tags-------------------
-    $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+    $tagClassification = Get-ClassificationsForType -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $tagClassification | Select-Object -First 20
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
@@ -322,8 +321,8 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         }
     }
     # =================CONTENT===================
-    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
-    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+    #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
 
