@@ -8,37 +8,37 @@ ResourceContentOrigin: hybrid
 date: 2025-07-07T09:00:00Z
 weight: 180
 aliases:
-- /resources/zLhc3UKUWOj
+  - /resources/zLhc3UKUWOj
 aliasesArchive:
-- /stop-building-silos--start-building-systems
-- /blog/stop-building-silos--start-building-systems
+  - /stop-building-silos--start-building-systems
+  - /blog/stop-building-silos--start-building-systems
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- One Engineering System
-- Platform Engineering
-- Operational Practices
-- Internal Developer Platform
-- Technical Excellence
-- Pragmatic Thinking
-- Product Delivery
-- Software Development
-- Technical Mastery
-- Continuous Delivery
-- Engineering Practices
-- Flow Efficiency
-- Value Delivery
-- Azure Pipelines
-- Azure DevOps
-- Deployment Frequency
-- Market Adaptability
-- Team Performance
-- Time to Market
-- Scaling
-
+  - One Engineering System
+  - Platform Engineering
+  - Operational Practices
+  - Internal Developer Platform
+  - Technical Excellence
+  - Pragmatic Thinking
+  - Product Delivery
+  - Software Development
+  - Technical Mastery
+  - Continuous Delivery
+  - Engineering Practices
+  - Flow Efficiency
+  - Value Delivery
+  - Azure Pipelines
+  - Azure DevOps
+  - Deployment Frequency
+  - Market Adaptability
+  - Team Performance
+  - Time to Market
+  - Scaling
 ---
+
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.
 
 If your automation strategy looks something like this:
@@ -74,9 +74,9 @@ DevOps isn’t a toolkit war. It’s the discipline of enabling feedback, flow, 
 
 DevOps without visibility is cargo cult. DevOps across disconnected systems is just automation theatre. And DevOps without learning is just [technical debt]({{< ref "/tags/technical-debt" >}}) in fast-forward.
 
-## Building [One Engineering System]({{< ref "/tags/one-engineering-system" >}}) (1ES) through [Platform Engineering]({{< ref "/tags/platform-engineering" >}})
+## Building One Engineering System (1ES) through Platform Engineering
 
-If DevOps is the ethos, then **Platform Engineering** is the strategy, and **One Engineering System (1ES)** is the execution model.
+If DevOps is the ethos, then **[Platform Engineering]({{< ref "/tags/platform-engineering" >}})** is the strategy, and **[One Engineering System]({{< ref "/tags/one-engineering-system" >}}) (1ES)** is the execution model.
 
 Platform Engineering is not just infrastructure automation. It's a practice grounded in DevOps principles that aims to improve every development team's time-to-value, compliance, cost control, and security through **improved developer experiences** and **governed self-service**. It's both a mindset shift and a system of reusable tools and services.
 
