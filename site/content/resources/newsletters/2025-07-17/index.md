@@ -11,22 +11,22 @@ ResourceContentOrigin: human
 resourceTypes: newsletter
 layout: newsletter
 aliases:
-- /resources/AORP41zLNTi
+  - /resources/AORP41zLNTi
 categories:
-- Technical Leadership
-- Leadership
-- DevOps
+  - Technical Leadership
+  - Leadership
+  - DevOps
 tags:
-- Operational Practices
-- Business Agility
-- Pragmatic Thinking
-- Market Adaptability
-- Organisational Agility
-- Product Delivery
-- Software Development
-- Value Delivery
-
+  - Operational Practices
+  - Business Agility
+  - Pragmatic Thinking
+  - Market Adaptability
+  - Organisational Agility
+  - Product Delivery
+  - Software Development
+  - Value Delivery
 ---
+
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.
 
 This issue calls on CTOs and development managers to **step up as technical leaders** who shape the system, not just manage people.
