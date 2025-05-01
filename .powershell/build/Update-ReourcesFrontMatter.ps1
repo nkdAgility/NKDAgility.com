@@ -199,6 +199,9 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
+    if ($categories.Count -eq 0) {
+        $categories = @("Uncategorized")
+    }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------Tags-------------------
