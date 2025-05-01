@@ -1717,5 +1717,57 @@
     "final_score": 64.0,
     "reasoning": "The content discusses fostering engineering excellence and technical leadership, which relates to the development of capabilities. It mentions themes like quality, collaboration, and skills development which are associated with cultivating organizational capabilities. However, it primarily focuses on specific practices and approaches rather than deeply exploring the concept of capability itself, which diminishes its alignment and depth in this category.",
     "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "tdOSrPOlyAI",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:48:56",
+    "ai_confidence": 68.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses fostering engineering excellence and technical leadership, but it lacks a direct focus on specific actionable principles. Instead, it talks more about practices and high-level concepts related to quality and management without explicitly addressing the principles of Agile, Lean, or DevOps. While it touches on continuous improvement and value creation, these ideas are not explicitly linked to established principles, rather they are mentioned in a more general sense, which limits the depth of the discussion and adherence to the principles category.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "tdOSrPOlyAI",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:48:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses principles like 'shifting left' and continuous integration relevant to Agile practices, but it does not specifically focus on any tools that support these practices. The term 'naked agility' is used, but it's conceptual rather than a discussion about actual tools. Mentions of practices and processes are present, but they stray from the core focus on specific tools, which leads to a low confidence score for alignment with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "tdOSrPOlyAI",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:48:56",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 28,
+    "ai_depth": 34,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses key themes related to values, such as building trust, transparency, and a culture of quality. It emphasizes the importance of instilling a mindset that prioritizes values like quality and collaboration. However, while it references aspects that reflect values, it primarily deals with practices rather than explicitly discussing underlying values as central to the narrative. As a result, I assigned a moderately high confidence score, balancing the clear mentions of values with the presence of a stronger focus on practical outcomes.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "tdOSrPOlyAI",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:48:56",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on practical aspects and techniques of 'naked agility', detailing steps for improving engineering practices and addressing technical debt. While it briefly touches on concepts like transparency and a culture of quality that have philosophical implications, it lacks a deeper exploration of the foundational beliefs behind these practices, which are more aligned with the philosophy category. Therefore, it does not meet the strong requirements for a high confidence score in Philosophy.",
+    "level": "Ignored"
   }
 }

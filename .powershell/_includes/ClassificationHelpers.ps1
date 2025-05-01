@@ -140,9 +140,10 @@ function Update-ClassificationsForHugoMarkdownList {
                     Write-InformationLog "Outcome: Complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $countOfBatchResults, $countOfResultsThatAreBad
                     # Cleanup batch file after processing
                     # Filter out the batch with the matching ID
-                    $updatedBatches = $batches | Where-Object { $_.batchId -ne $batchId }
+                    $batchesFromFile = Get-Content $BatchFile | ConvertFrom-Json
+                    $batchesForFile = $batchesFromFile | Where-Object { $_.batchId -ne $batchId }
                     # Save the updated list back to the file
-                    $updatedBatches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    $batchesForFile | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
                     ## Clean up
                     $inputFile = Join-Path $CacheFolder $batch.inputFile
                     if (Test-Path $inputFile) {

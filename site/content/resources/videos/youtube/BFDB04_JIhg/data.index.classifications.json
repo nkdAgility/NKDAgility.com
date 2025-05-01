@@ -1650,5 +1650,70 @@
     "final_score": 85.0,
     "reasoning": "The content strongly focuses on Kanban as an actionable practice for team improvement. It discusses the practical implementation of Kanban techniques, such as visualization, metrics, WIP limits, and continuous improvement—all key components related to team practices within the category 'Practice.' The information is detailed and provides clear actionable advice, enhancing its alignment and depth regarding the theme of improving team performance through practices. The primary focus remains on actionable techniques and tips rather than on tools or philosophical discussions, resulting in a high confidence score.",
     "level": "Primary"
+  },
+  "Method": {
+    "resourceId": "BFDB04_JIhg",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:50:51",
+    "ai_confidence": 65.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Kanban method extensively and provides specific procedures such as visualizing workflow, defining explicit policies, and implementing WIP limits, which align well with the category of 'Method'. However, it also focuses heavily on the general concept of Kanban as a tool rather than strictly outlining a structured, step-by-step method applicable in various contexts. This broader focus detracts from a stronger alignment with the strict procedural approach emphasized in the category, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "BFDB04_JIhg",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:50:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content extensively discusses Kanban as a tool for visualizing and managing workflows, which aligns closely with the 'Model' category's emphasis on frameworks used for process improvement. It explicitly mentions features like visualization, metrics, and continuous improvement, which reflect the core themes of the category. Despite the focus on Kanban, the discussion stays primarily within practical applications rather than directly addressing broader conceptual models, thus limiting its depth of theoretical analysis. Overall, while it is primarily focused on a model, the lack of deep exploration of processes beyond Kanban affects the score.",
+    "level": "Secondary"
+  },
+  "Framework": {
+    "resourceId": "BFDB04_JIhg",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:50:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Kanban as a framework within Agile, discussing its features, how to implement it, and providing practical advice for teams. It delves into visualization, metrics, continuous improvement, and real-world application, showing a strong alignment with the category's core themes. However, while it discusses Kanban in depth, it often frames it as a tool rather than emphasizing its framework status, which affects the overall confidence in complete alignment with the category.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "BFDB04_JIhg",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:50:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 33,
+    "ai_depth": 27,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses how Kanban can be implemented as a guiding tool for teams looking to improve their workflows, which aligns with the principles of continuous improvement and visualization, indeed key tenets of Agile methodologies. It provides actionable advice such as defining workflows, using WIP limits, and regularly reviewing metrics, showcasing a prescriptive approach. However, while there are specific practices mentioned, the primary focus is more on the benefits and features of Kanban as a tool rather than on tenets specifically. Therefore, the confidence score reflects a strong alignment with the category, although it doesn't dwell strictly on actionable tenets throughout.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "BFDB04_JIhg",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:50:51",
+    "ai_confidence": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on Kanban as a tool rather than discussing capabilities in an enduring and systematic way. While it touches on continuous improvement, which aligns somewhat with the capability theme, it lacks a deep exploration of capabilities themselves, such as how they are cultivated or integrated into organizational culture. The discussion is more about the functional aspects of Kanban rather than the enduring competencies that empower teams over time.",
+    "level": "Ignored"
   }
 }
