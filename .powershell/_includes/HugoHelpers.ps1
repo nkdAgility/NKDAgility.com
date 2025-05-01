@@ -362,8 +362,8 @@ function Get-HugoMarkdownListAsHashTable {
     $hashTable = @{}
     
     foreach ($item in $hugoMarkdownList) {
-        if ($item.PSObject.Properties['ResourceId']) {
-            $hashTable[$item.ResourceId] = $item
+        if ($item.FrontMatter.ResourceId) {
+            $hashTable[$item.FrontMatter.ResourceId] = $item
         }
         else {
             Write-Warning "Item missing ResourceId: $($item | Out-String)"

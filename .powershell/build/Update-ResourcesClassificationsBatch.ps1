@@ -6,7 +6,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
-
+$ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
 
 $hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources" -YearsBack 10

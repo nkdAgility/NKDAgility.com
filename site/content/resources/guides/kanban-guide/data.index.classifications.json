@@ -1579,5 +1579,83 @@
     "final_score": 5.0,
     "reasoning": "The content focuses exclusively on Kanban, a methodology distinct from Open Space Agile. There are no direct mentions of Open Space Agile principles or practices, and the discussion does not align with the core themes of collective participation, psychological safety, or co-creation that characterise Open Space Agile. The depth of discussion is entirely centred on Kanban practices, making it irrelevant to the Open Space Agile category.",
     "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:06:36",
+    "ai_confidence": 76.0,
+    "ai_mentions": 8,
+    "ai_alignment": 32,
+    "ai_depth": 36,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content focuses on Kanban as a strategy for optimizing value flow and discusses specific principles such as defining workflow, managing work in progress, and improving the workflow. It provides actionable insights into how these principles can be applied in practice, indicating a strong alignment with the category of 'Principle'. The content effectively connects Kanban practices to the principles of continuous improvement and value delivery, and it discusses the underlying theories that inform these practices. While it includes explanations of Kanban concepts, the core focus is on guiding principles that influence decision-making, thus justifying a high confidence level.",
+    "level": "Secondary"
+  },
+  "Values": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:06:36",
+    "ai_confidence": 27.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 27.0,
+    "reasoning": "The content primarily discusses Kanban as a method for optimizing value flow in workflows, with a focus on practices, metrics, and definitions rather than discussing core organizational values or principles. While there are brief mentions of principles and values in the context of workflow optimization, the main emphasis is on process improvement and efficiency rather than on a foundational discussion of values that guide behavior and decision-making in teams or organizations.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:06:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the practical elements of Kanban, including definitions, practices, and specific implementation strategies. While it briefly mentions core themes like 'flow' and organizational challenges, these discussions remain grounded in how to implement Kanban rather than exploring the philosophical underpinnings of its principles. The focus on metrics, practices, and procedures indicates a strong departure from philosophical discourse, which is inherently about the foundational beliefs and 'why' rather than 'how'.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:06:36",
+    "ai_confidence": 27.0,
+    "ai_mentions": 4,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 27.0,
+    "reasoning": "The content primarily focuses on Kanban as a strategy for optimizing workflow rather than discussing Observability directly. While it briefly mentions metrics related to flow, such as WIP and cycle time, it does not deeply engage with the principles of observability, like understanding internal states based on generated data. It lacks a clear focus on how metrics, logs, or traces contribute to observability in software systems. Therefore, although there are tangential mentions of related concepts, they do not constitute a robust exploration of Observability.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:06:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the Kanban model as a strategy for optimizing the flow of value through processes. It covers key practices associated with Kanban, including defining and visualizing workflows, active management, and continuous improvement. The text aligns well with the core themes of the 'Model' category, particularly in terms of managing complexity in Agile environments. The depth of discussion regarding Kanban practices and their application to improve workflows showcases a strong alignment with the category's focus on conceptual representations for informed decision-making within organizational contexts.",
+    "level": "Primary"
+  },
+  "Capability": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:06:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the Kanban Guide discusses the optimization of workflows and value delivery, it primarily focuses on the practices and techniques of Kanban rather than the enduring competencies or capabilities that organizations cultivate over time. The content mentions concepts like continuous improvement, value optimization, and workflow management, but it does so within the context of specific Kanban practices rather than a broader discussion on capabilities. Therefore, while it aligns with the 'Capability' category to some extent, it lacks depth in addressing the systemic development of capabilities and their integration within organizational culture.",
+    "level": "Ignored"
   }
 }
