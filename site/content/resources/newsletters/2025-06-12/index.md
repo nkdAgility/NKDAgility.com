@@ -1,12 +1,28 @@
 ---
-title: "Why Resilience Demands More Than Survival"
+title: Why Resilience Demands More Than Survival
+description: Discover how true resilience in organisations goes beyond survival, focusing on technical health and disciplined engineering for sustainable delivery.
+ResourceId: X2BzJPMloRw
+ResourceImport: false
 date: 2025-06-12
+weight: 215
 author: MrHinsh
 ResourceType: newsletters
+ResourceContentOrigin: human
 resourceTypes: newsletter
 layout: newsletter
----
+aliases:
+- /resources/X2BzJPMloRw
+categories:
+- Engineering Excellence
+- DevOps
+tags:
+- Operational Practices
+- Software Development
+- Technical Excellence
+- Technical Mastery
+- Pragmatic Thinking
 
+---
 In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient — they are brittle.
 
 Real resilience comes from embedding rigorous engineering discipline. Every time you patch a production issue, you must ask:

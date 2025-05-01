@@ -1,12 +1,20 @@
 ---
-title: "Agentic Agility: Why You Need Both Human and AI Agency"
+title: 'Agentic Agility: Why You Need Both Human and AI Agency'
+description: Discover how **agentic agility** combines human and AI agency for effective decision-making, driving measurable value and enhancing team performance.
+ResourceId: OQOqFl5-FAi
+ResourceImport: false
 date: 2025-05-08
 author: MrHinsh
 ResourceType: newsletters
+ResourceContentOrigin: human
 resourceTypes: newsletter
 layout: newsletter
----
+aliases:
+- /resources/OQOqFl5-FAi
+categories:
+- Leadership
 
+---
 Agility today is not about ceremonies or frameworks. It is about **agentic agility** — the deliberate interaction between human agency (people making meaningful, accountable decisions) and AI agency (systems that can act and adapt on their own).
 
 Most organisations fail because they only get one side right:

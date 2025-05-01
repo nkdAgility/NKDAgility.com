@@ -281,6 +281,7 @@ function Update-MissingClassificationsLive {
     $prompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
     $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
     Write-InformationLog "Updating {count} missing classifications for {resourceId}" -PropertyValues $prompts.count, $hugoMarkdown.FrontMatter.ResourceId
+    $count = 0;
     foreach ($prompt in $prompts) {
         $count++
         # Calls processing

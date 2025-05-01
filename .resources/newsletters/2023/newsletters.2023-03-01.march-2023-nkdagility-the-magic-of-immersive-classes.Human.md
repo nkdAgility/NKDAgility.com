@@ -1,5 +1,5 @@
 ---
-title: 'March 2023 NKDAgility: The magic of immersive classes'
+title: "March 2023 NKDAgility: The magic of immersive classes"
 description: Transform your learning with our Immersion Program! Engage in real-world applications over 8 weeks, enhancing skills through practical experience and collaboration.
 ResourceId: Y8ySIcajwoP
 ResourceImport: true
@@ -13,19 +13,19 @@ resourceTypes: newsletter
 layout: newsletter
 slug: march-2023-nkdagility-the-magic-of-immersive-classes
 aliases:
-- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/Y8ySIcajwoP
+  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/Y8ySIcajwoP
 aliasesArchive:
-- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 categories:
-- Scrum
+  - Scrum
 tags:
-- Continuous Learning
-- Pragmatic Thinking
-
+  - Continuous Learning
+  - Pragmatic Thinking
 ---
+
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.
 
 This compresses learning into a short space of time and minimises not only the amount that folks remember but also denies them the ability to try things and come back to the trainer.
@@ -110,13 +110,13 @@ A short list of out blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work In Scotland Webcasts
 

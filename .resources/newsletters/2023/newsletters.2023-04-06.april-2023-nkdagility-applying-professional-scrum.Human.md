@@ -1,5 +1,5 @@
 ---
-title: 'April 2023 NKDAgility: Applying Professional Scrum'
+title: "April 2023 NKDAgility: Applying Professional Scrum"
 description: Unlock your Scrum potential! Join our Applying Professional Scrum course to enhance your team's effectiveness and drive continuous improvement.
 ResourceId: WAc9JUyPY5M
 ResourceImport: true
@@ -12,23 +12,23 @@ resourceTypes: newsletter
 layout: newsletter
 slug: april-2023-nkdagility-applying-professional-scrum
 aliases:
-- /newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/WAc9JUyPY5M
+  - /newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /resources/WAc9JUyPY5M
 aliasesArchive:
-- /newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Agile Frameworks
-- Pragmatic Thinking
-- Empirical Process Control
-- Professional Scrum
-
+  - Software Development
+  - Agile Frameworks
+  - Pragmatic Thinking
+  - Empirical Process Control
+  - Professional Scrum
 ---
+
 Learning about [scrum]({{< ref "/categories/scrum" >}}) is important, but growing your capability to deploy and implement scrum effectively is way more important.
 
 All the theory in the world doesn’t help if your team are grappling with the action elements. Actively doing the work, creating the product implement, integrating customer feedback and data into decision-making for the next product evolution. It often isn’t scrum that is the problem, it is a fundamental lack of knowledge and understanding around the core pillars of Empiricism that under pin scrum.
@@ -82,13 +82,13 @@ A short list of out blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work In Scotland Webcasts
 
@@ -96,7 +96,7 @@ Are there any blog posts that you would like me to write?
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}
 
 ## What Classes are Right for you
 

@@ -12,19 +12,19 @@ author: MrHinsh
 resourceTypes: newsletter
 slug: 2024-learning-journeys-and-extending-the-learning-process
 aliases:
-- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/-wdSJlbQQbK
+  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /resources/-wdSJlbQQbK
 aliasesArchive:
-- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
-- Scrum
+  - Scrum
 tags:
-- Continuous Learning
-- Pragmatic Thinking
-
+  - Continuous Learning
+  - Pragmatic Thinking
 ---
+
 We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:
 
 ![](images/2023-12-01_14-10-36-1-800x363.webp)
@@ -79,13 +79,13 @@ A short list of our blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work in Scotland Webcasts
 
@@ -93,7 +93,7 @@ Are there any blog posts that you would like me to write?
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}
 
 ## What classes are right for you
 

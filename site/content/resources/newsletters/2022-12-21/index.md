@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: seasons-greetings-upcoming-professional-scrum-training-classes
 aliases:
-- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/Tx-0zZJ1biI
+  - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /resources/Tx-0zZJ1biI
 aliasesArchive:
-- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 categories:
-- Scrum
+  - Scrum
 tags: []
-
 ---
+
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]
 
 ## News for 2023
@@ -77,7 +77,7 @@ A short list of out blogs, videos, and webcasts!
 
 ### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
@@ -85,7 +85,7 @@ Are there any blog posts that you would like me to write?
 
 \[wp-rss-aggregator template="newsletter-preview" feeds="nkdagility-youtube" limit="1"\]
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work In Scotland Webcasts
 

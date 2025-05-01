@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance
 aliases:
-- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/x0sJSqJhVRG
+  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/x0sJSqJhVRG
 aliasesArchive:
-- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!
 
 [![](images/nkdagility-agile-2023-Scotland-Experiance.png)](https://events.agilealliance.org/aascotland2023/begin?i=L7wyli35dzYJ1d70S2e1mR-yDTlopQRK)
@@ -72,13 +72,13 @@ A short list of our blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work in Scotland Webcasts
 
@@ -86,7 +86,7 @@ Are there any blog posts that you would like me to write?
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}
 
 ## What classes are right for you
 

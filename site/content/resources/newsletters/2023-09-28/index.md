@@ -1,5 +1,5 @@
 ---
-title: 'Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development!'
+title: "Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development!"
 description: Join industry experts Dr. Joanna Płaskonka and Martin Hinshelwood for an 18-minute deep dive into Product Ownership and Lean Product Development. Sign up now!
 ResourceId: GdoDhtTM-Rn
 ResourceImport: true
@@ -13,18 +13,18 @@ resourceTypes: newsletter
 layout: newsletter
 slug: exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development
 aliases:
-- /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
-- /resources/newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
-- /resources/GdoDhtTM-Rn
+  - /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
+  - /resources/newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
+  - /resources/GdoDhtTM-Rn
 aliasesArchive:
-- /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
-- /resources/newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
+  - /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
+  - /resources/newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags: []
-
 ---
+
 Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and [Lean]({{< ref "/categories/lean" >}}) [Product Development]({{< ref "/categories/product-development" >}}).
 
 [Sign up to claim your spot now!](https://events.teams.microsoft.com/event/cc8555b2-77cc-466b-bf8a-1375f89873fd@686c55d4-ab81-4a17-9eef-6472a5633fab)
@@ -72,13 +72,13 @@ A short list of our blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work in Scotland Webcasts
 
@@ -86,7 +86,7 @@ Are there any blog posts that you would like me to write?
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}
 
 ## What classes are right for you
 

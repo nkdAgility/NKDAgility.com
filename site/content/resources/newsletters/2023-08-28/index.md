@@ -1,5 +1,5 @@
 ---
-title: 'September 2023 NKDAgility: Empower Your Learning Journey with Our Referral Programme'
+title: "September 2023 NKDAgility: Empower Your Learning Journey with Our Referral Programme"
 description: Join our Referral Programme! Share your unique code, earn credits for future classes, and help others save 20% on their course fees. It's a win-win!
 ResourceId: TJDLWyX3cZt
 ResourceImport: true
@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme
 aliases:
-- /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
-- /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
-- /resources/TJDLWyX3cZt
+  - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+  - /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+  - /resources/TJDLWyX3cZt
 aliasesArchive:
-- /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
-- /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+  - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
+  - /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 Greetings,
 
 We hope this message finds you in good spirits and health. As a valued member of our community, we are always looking for ways to enhance your experience and provide you with the utmost value. Today, we are thrilled to share an exciting update that does just that.
@@ -80,13 +80,13 @@ A short list of our blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work in Scotland Webcasts
 
@@ -94,7 +94,7 @@ Are there any blog posts that you would like me to write?
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}
 
 ## What classes are right for you
 

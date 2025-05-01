@@ -12,20 +12,20 @@ resourceTypes: newsletter
 layout: newsletter
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
-- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-- /resources/bvPDNFJju4h
+  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /resources/bvPDNFJju4h
 aliasesArchive:
-- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
-- Product Development
-- Product Management
+  - Product Development
+  - Product Management
 tags:
-- Product Validation
-- Product Discovery
-
+  - Product Validation
+  - Product Discovery
 ---
+
 **Dear Innovators and Product Enthusiasts,**
 
 **Only 5 days left!** This is your last chance to join us for the Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org!
@@ -85,14 +85,14 @@ A short list of our blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}

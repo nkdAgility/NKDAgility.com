@@ -13,14 +13,14 @@
     layout: newsletter
     slug: seasons-greetings-upcoming-professional-scrum-training-classes
     aliases:
-    - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-    - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-    - /resources/Tx-0zZJ1biI
+      - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+      - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+      - /resources/Tx-0zZJ1biI
     aliasesArchive:
-    - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-    - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+      - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+      - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
     categories:
-    - Scrum
+      - Scrum
     tags: []
   BodyContent: |
     \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]
@@ -76,7 +76,7 @@
 
     ### Recent Blog Posts
 
-    \[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+    {{< recent-resources ResourceTypes="blog" >}}
 
     Are there any blog posts that you would like me to write?
 
@@ -84,7 +84,7 @@
 
     \[wp-rss-aggregator template="newsletter-preview" feeds="nkdagility-youtube" limit="1"\]
 
-    \[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+    {{< recent-resources ResourceTypes="vidoes" >}}
 
     #### The Future of Work In Scotland Webcasts
 
@@ -140,14 +140,14 @@
     layout: newsletter
     slug: newsletter-2022
     aliases:
-    - /newsletters/newsletter-2022/
-    - /resources/newsletters/newsletter-2022/
-    - /resources/Kn3i3yGquon
+      - /newsletters/newsletter-2022/
+      - /resources/newsletters/newsletter-2022/
+      - /resources/Kn3i3yGquon
     aliasesArchive:
-    - /newsletters/newsletter-2022/
-    - /resources/newsletters/newsletter-2022/
+      - /newsletters/newsletter-2022/
+      - /resources/newsletters/newsletter-2022/
     categories:
-    - Uncategorized
+      - Uncategorized
     tags: []
   BodyContent: |
     As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.
@@ -178,7 +178,7 @@
 
     ### Recent Blog Posts
 
-    \[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+    {{< recent-resources ResourceTypes="blog" >}}
 
     Are there any blog posts that you would like me to write?
 
@@ -186,7 +186,7 @@
 
     \[wp-rss-aggregator template="newsletter-preview" feeds="nkdagility-youtube" limit="1"\]
 
-    \[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+    {{< recent-resources ResourceTypes="vidoes" >}}
 
     ### The Future of Work In Scotland Webcasts
 
@@ -219,4 +219,3 @@
     _Reach out to me directly if you would like to schedule a private course at your organization._
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\newsletters\2022-11-28\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\newsletters\2022-11-28
-

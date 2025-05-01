@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: newsletter-2022
 aliases:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
-- /resources/Kn3i3yGquon
+  - /newsletters/newsletter-2022/
+  - /resources/newsletters/newsletter-2022/
+  - /resources/Kn3i3yGquon
 aliasesArchive:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
+  - /newsletters/newsletter-2022/
+  - /resources/newsletters/newsletter-2022/
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.
 
 Why? Because it empowers us to run experiments, frequently inspect, and regularly adapt. That’s how we navigate complexity. That’s how we create value, despite uncertainty, regardless of the industry or environment we serve.
@@ -52,7 +52,7 @@ Find a class and location near you or [search](https://nkdagility.com/training/
 
 ### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
@@ -60,7 +60,7 @@ Are there any blog posts that you would like me to write?
 
 \[wp-rss-aggregator template="newsletter-preview" feeds="nkdagility-youtube" limit="1"\]
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 ### The Future of Work In Scotland Webcasts
 
