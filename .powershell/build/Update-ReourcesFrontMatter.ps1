@@ -28,16 +28,15 @@ Write-InfoLog "Initialise Batch Count..."
 
 while ($hugoMarkdownQueue.Count -gt 0) {
    
-    $ActivityText = "Processing [Q1:$($Counter)/$TotalItems]"
-    Write-InformationLog $ActivityText 
+   
+    
 
     $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
     $Counter++
     $PercentComplete = ($Counter / $TotalItems) * 100
     #Write-Progress -id 1 -Activity $ActivityText -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
     Write-DebugLog "--------------------------------------------------------"
-    Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
-   
+    Write-InformationLog "Processing [Q1:$($Counter)/$TotalItems] {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
 
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
@@ -197,7 +196,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
     #-----------------Categories-------------------
     $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
-    $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $categoryClassification | Select-Object -First 3
+    $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
     if ($categories.Count -eq 0) {
         $categories = @("Uncategorized")

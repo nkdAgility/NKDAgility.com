@@ -234,7 +234,7 @@ function Get-ClassificationsForType {
 
     $CacheFolder = $hugoMarkdown.FolderPath
     # Populate Catalogues
-    Write-InfoLog "   Populating Catalogues"
+    Write-DebugLog "   Populating Catalogues"
     $catalog = @{}    
     switch ($ClassificationType) {
         { $_ -in "categories", "tags", "concepts" } {
