@@ -5,14 +5,14 @@ ResourceId: O_VlmDj7n3V
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-date: 2025-06-30T09:00:00Z
+date: 2025-07-07T09:00:00Z
 weight: 1000
 aliases:
-- /resources/O_VlmDj7n3V
-categories: []
-tags: []
-
+  - /resources/O_VlmDj7n3V
+categories: ["Engineering Excellence"]
+tags: ["Software Development", "Team Collaboration", "Continuous Delivery", "Leadership", "Value Delivery"]
 ---
+
 ## Topic Branches: The Backbone of High-Quality Delivery
 
 In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
