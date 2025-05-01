@@ -29,14 +29,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Software Development
-- Product Owner
+tags: []
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## Defining Roles in Agile

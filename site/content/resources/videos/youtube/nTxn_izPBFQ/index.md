@@ -33,7 +33,6 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
 resourceTypes:
 - video
 categories:

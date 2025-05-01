@@ -29,12 +29,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Coaching
-- Software Development
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

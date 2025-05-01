@@ -31,13 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
-- Agile Philosophy
-- Organisational Agility
-- Organisational Change
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 Product of Conventional Practices

@@ -31,8 +31,8 @@ aliasesArchive:
 - /resources/blog/live-virtual-classroom-s-and-the-new-normal
 tags:
 - Remote Working
-- Pragmatic Thinking
-categories: []
+categories:
+- Uncategorized
 preview: image-1-1-1.png
 
 ---

@@ -29,15 +29,14 @@ duration: 50
 isShort: true
 tags:
 - Operational Practices
-- Transparency
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When I find myself in discussions about Caman versus [Scrum]({{< ref "/categories/scrum" >}}), I often notice a common thread: a misunderstanding of what Caman truly represents. It’s crucial to clarify that Caman is not merely another framework to pit against Scrum; rather, it’s a versatile strategy that can be applied across various systems and processes. 

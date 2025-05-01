@@ -37,16 +37,6 @@ tags:
 - Agile Planning
 - Business Agility
 - Pragmatic Thinking
-- Agile Values and Principles
-- Agile Transformation
-- Agile Leadership
-- Continuous Learning
-- Organisational Change
-- Organisational Culture
-- Sociotechnical Systems
-- Complexity Thinking
-- Market Adaptability
-- Personal
 resourceTypes:
 - video
 categories:

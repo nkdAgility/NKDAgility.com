@@ -33,9 +33,6 @@ tags:
 - Agile Product Management
 - Scrum Team
 - Agile Planning
-- Agile Frameworks
-- Pragmatic Thinking
-- Professional Scrum
 resourceTypes:
 - video
 categories:

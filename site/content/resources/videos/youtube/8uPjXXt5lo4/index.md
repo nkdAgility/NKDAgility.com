@@ -36,7 +36,8 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 What is the most valuable thing you have learned through training people?

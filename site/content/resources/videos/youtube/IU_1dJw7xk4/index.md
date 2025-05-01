@@ -36,15 +36,10 @@ tags:
 - Software Development
 - Metrics and Learning
 - Pragmatic Thinking
-- Agile Transformation
-- Continuous Improvement
-- Flow Efficiency
-- Project Management
 resourceTypes:
 - video
 categories:
 - Kanban
-- Product Development
 
 ---
 ### Transitioning from Traditional [Project Management]({{< ref "/tags/project-management" >}}) to [Kanban]({{< ref "/categories/kanban" >}})

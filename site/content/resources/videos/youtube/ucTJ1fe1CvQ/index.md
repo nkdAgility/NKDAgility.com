@@ -33,8 +33,6 @@ tags:
 - Product Discovery
 - Pragmatic Thinking
 - Continuous Learning
-- Product Owner
-- Sensemaking
 resourceTypes:
 - video
 categories:

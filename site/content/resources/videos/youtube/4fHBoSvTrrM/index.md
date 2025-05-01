@@ -33,9 +33,6 @@ sitemap:
 tags:
 - Scrum Master
 - Professional Scrum
-- Agile Frameworks
-- Scrum Team
-- Software Development
 resourceTypes:
 - video
 layout: video

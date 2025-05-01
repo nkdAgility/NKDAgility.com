@@ -41,10 +41,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Operational Practices
-- Competence
-- Scrum Team
-- Professional Scrum
-- Transparency
 resourceTypes:
 - video
 categories:

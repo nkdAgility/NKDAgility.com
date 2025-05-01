@@ -24,7 +24,8 @@ aliasesArchive:
 - /resources/blog/ahaaaa
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Uncategorized
 
 ---
 As you can see from my other posts, I seem to be having a problem putting code into the posts. I will persevere and see if I can get the hang of it, then fix the other posts...

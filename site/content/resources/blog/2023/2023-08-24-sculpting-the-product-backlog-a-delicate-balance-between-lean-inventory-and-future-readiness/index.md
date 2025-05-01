@@ -35,21 +35,9 @@ tags:
 - Product Backlog
 - Product Owner
 - Product Delivery
-- Agile Planning Tools
-- Continuous Improvement
-- Lean Principles
-- Lean Product Development
-- Professional Scrum
-- Software Development
-- Transparency
-- Value Delivery
-- Backlog Refinement
-- Lean Thinking
-- Unrealised Value
 categories:
 - Product Management
 - Product Development
-- Lean
 preview: image-1.jpg
 
 ---

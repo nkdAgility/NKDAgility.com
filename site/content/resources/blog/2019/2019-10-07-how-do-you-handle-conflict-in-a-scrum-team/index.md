@@ -35,14 +35,8 @@ tags:
 - Team Collaboration
 - Scrum Master
 - Pragmatic Thinking
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Coaching
-- Social Technologies
 categories:
 - Scrum
-- Technical Leadership
 preview: 1061204442-1-1.jpg
 
 ---

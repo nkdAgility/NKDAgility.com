@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

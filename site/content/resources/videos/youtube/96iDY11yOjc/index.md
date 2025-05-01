@@ -32,14 +32,10 @@ sitemap:
 tags:
 - Continuous Learning
 - Competence
-- Coaching
-- Agile Philosophy
-- Employee Engagement
-- Pragmatic Thinking
-- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

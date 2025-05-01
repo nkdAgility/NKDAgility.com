@@ -39,20 +39,13 @@ tags:
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Value Delivery
-- Agile Values and Principles
-- Operational Practices
-- Self Organisation
-- Agile Frameworks
-- Organisational Culture
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Leadership
-- Product Development
+- Uncategorized
 
 ---
 [Organisational agility]({{< ref "/tags/organisational-agility" >}}) is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.

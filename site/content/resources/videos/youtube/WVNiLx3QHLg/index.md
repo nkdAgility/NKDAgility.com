@@ -35,7 +35,8 @@ tags:
 - Competence
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Why I love heirarchies of [competence]({{< ref "/tags/competence" >}})**

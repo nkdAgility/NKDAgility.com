@@ -45,15 +45,10 @@ tags:
 - Systems Thinking
 - Agile Strategy
 - Operational Practices
-- Agile Frameworks
-- Agile Leadership
-- Business Agility
-- Metrics and Learning
-- Organisational Culture
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

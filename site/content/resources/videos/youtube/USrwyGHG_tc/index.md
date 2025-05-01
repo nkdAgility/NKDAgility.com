@@ -47,16 +47,10 @@ tags:
 - Pragmatic Thinking
 - Professional Scrum
 - Team Motivation
-- Agile Planning
-- Agile Values and Principles
-- Mentoring
-- Employee Engagement
 resourceTypes:
 - video
 categories:
 - Technical Leadership
-- Scrum
-- Product Development
 
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 

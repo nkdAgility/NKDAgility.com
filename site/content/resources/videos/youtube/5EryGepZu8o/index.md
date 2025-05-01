@@ -36,13 +36,6 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Software Development
-- Agile Frameworks
-- Complexity Thinking
-- Pragmatic Thinking
-- Value Delivery
-- Organisational Agility
-- Product Delivery
-- Team Performance
 resourceTypes:
 - video
 layout: video

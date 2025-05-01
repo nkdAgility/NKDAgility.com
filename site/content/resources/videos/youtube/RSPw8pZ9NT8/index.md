@@ -31,10 +31,6 @@ tags:
 - Decision Theory
 - Throughput
 - Value Delivery
-- Agile Frameworks
-- Metrics and Learning
-- Flow Efficiency
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +38,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
-- Product Development
+- Uncategorized
 
 ---
 In my recent [Kanban]({{< ref "/categories/kanban" >}}) workshop with Procamban.org, titled "APK: Applying Professional Kanban," I had the opportunity to delve deep into the strategic underpinnings of [DevOps]({{< ref "/categories/devops" >}}). Over the course of 16 hours, we explored how Kanban serves as a meta-process that can be applied to any existing workflow, regardless of its nature. Whether your team is using [Scrum]({{< ref "/categories/scrum" >}}), a homegrown process, or even something like SSADM, Kanban provides a framework to observe and enhance your current practices.

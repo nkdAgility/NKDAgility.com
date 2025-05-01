@@ -29,19 +29,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Scrum Team
-- Professional Scrum
-- Personal
-- Pragmatic Thinking
-- Product Owner
-- Sociotechnical Systems
+tags: []
 resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

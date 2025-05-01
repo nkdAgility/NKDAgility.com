@@ -7,15 +7,15 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 date: 2024-02-22
 weight: 1000
-categories: []
+categories:
+- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 slug: mindset-versus-philosophy
 aliases:
 - /resources/G2XUaCtiq8w
-tags:
-- Transparency
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

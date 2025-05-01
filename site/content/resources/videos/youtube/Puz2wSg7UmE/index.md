@@ -42,14 +42,6 @@ tags:
 - Metrics and Learning
 - Business Agility
 - Pragmatic Thinking
-- Unrealised Value
-- Technical Debt
-- Digital Transformation
-- Operational Practices
-- Organisational Agility
-- Value Delivery
-- Software Development
-- Current Value
 resourceTypes:
 - video
 categories:

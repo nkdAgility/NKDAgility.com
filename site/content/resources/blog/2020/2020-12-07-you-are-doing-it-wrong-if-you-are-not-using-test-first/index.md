@@ -40,8 +40,6 @@ tags:
 - Shift-Left Strategy
 - Competence
 - Product Delivery
-- Acceptance Test Driven Development
-- Product Validation
 categories:
 - Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg

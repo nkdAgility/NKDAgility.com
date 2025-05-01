@@ -36,15 +36,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Common Goals
-- Agile Frameworks
-- Agile Product Management
-- Product Owner
-- Professional Scrum
-- Working Software
-- Agile Strategy
-- Agile Transformation
-- Decision Making
-- Social Technologies
 resourceTypes:
 - video
 categories:

@@ -26,9 +26,8 @@ aliasesArchive:
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
 - Software Development
-- Agile Frameworks
 categories:
-- Kanban
+- Uncategorized
 preview: applying-professional-kanban-background-logo-2-2.jpg
 
 ---

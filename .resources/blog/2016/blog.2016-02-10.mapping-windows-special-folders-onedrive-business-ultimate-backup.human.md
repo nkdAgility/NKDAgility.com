@@ -31,8 +31,8 @@ aliasesArchive:
 - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 tags:
 - Windows
-- Install and Configuration
-categories: []
+categories:
+- Uncategorized
 preview: clip_image001-1-1.png
 
 ---

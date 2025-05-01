@@ -43,11 +43,6 @@ tags:
 - Pragmatic Thinking
 - Organisational Culture
 - Agile Planning
-- Social Technologies
-- Agile Philosophy
-- Market Adaptability
-- Sociotechnical Systems
-- Agile Frameworks
 categories:
 - Scrum
 - Leadership

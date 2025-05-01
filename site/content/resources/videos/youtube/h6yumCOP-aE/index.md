@@ -41,11 +41,10 @@ tags:
 - Team Performance
 - Pragmatic Thinking
 - Team Collaboration
-- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement

@@ -28,13 +28,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Leadership
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 **Why do you prefer agile consulting over agile [coaching]({{< ref "/tags/coaching" >}})?**

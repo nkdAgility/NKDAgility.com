@@ -35,8 +35,6 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Product Delivery
-- Agile Planning Tools
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

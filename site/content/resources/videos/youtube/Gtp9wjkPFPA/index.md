@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## [DevOps]({{< ref "/categories/devops" >}}) & Agile: Two Sides of the Same Coin 🪙

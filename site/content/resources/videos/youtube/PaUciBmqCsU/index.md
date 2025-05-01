@@ -39,7 +39,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 If you're talking about [Kanban]({{< ref "/categories/kanban" >}}) versus [Scrum]({{< ref "/categories/scrum" >}}), chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.

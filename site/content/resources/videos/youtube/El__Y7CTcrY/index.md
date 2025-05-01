@@ -30,12 +30,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
+tags: []
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 One of the most rewarding aspects of teaching [Scrum]({{< ref "/categories/scrum" >}}) is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

@@ -32,17 +32,6 @@ tags:
 - Pragmatic Thinking
 - Throughput
 - Team Performance
-- Agile Frameworks
-- Agile Product Management
-- Agile Planning
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
-- Operational Practices
-- Product Delivery
-- Time to Market
-- Unrealised Value
-- Current Value
 categories:
 - Product Development
 - Product Management

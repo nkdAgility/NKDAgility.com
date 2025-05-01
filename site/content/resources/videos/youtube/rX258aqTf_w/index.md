@@ -30,15 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Software Development
-- Organisational Agility
-- Agile Transformation
-- Agile Leadership
-- Competence
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 In what circumstances is agile consulting appropriate?

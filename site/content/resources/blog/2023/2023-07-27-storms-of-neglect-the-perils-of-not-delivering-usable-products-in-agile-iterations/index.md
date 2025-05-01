@@ -38,15 +38,9 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Transparency
-- Agile Strategy
-- Organisational Agility
-- Competence
-- Team Performance
-- Technical Debt
 categories:
 - Product Development
 - Scrum
-- Product Management
 preview: image-1.jpg
 
 ---

@@ -35,11 +35,6 @@ tags:
 - Lean Startup
 - Product Discovery
 - Product Validation
-- Continuous Learning
-- Evidence Based Management
-- Metrics and Learning
-- Decision Making
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -44,11 +44,6 @@ tags:
 - Empirical Process Control
 - Change Management
 - Organisational Change
-- Team Performance
-- Product Delivery
-- Agile Frameworks
-- Agile Strategy
-- Coaching
 categories:
 - Scrum
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg

@@ -30,7 +30,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement

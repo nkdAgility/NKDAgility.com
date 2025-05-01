@@ -32,7 +32,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I sit down to write this, I’m reminded of the ever-evolving landscape of work and how we, as agile practitioners, must adapt to the changes around us. Tonight, I’ll be hosting a meetup in collaboration with the British Computer Society, where I’ll delve into the intriguing topic of "[Scaling]({{< ref "/tags/scaling" >}}) Dragons." This isn’t just a whimsical title; it encapsulates the dual nature of scaling agility—what can propel us forward and what could potentially derail our efforts.

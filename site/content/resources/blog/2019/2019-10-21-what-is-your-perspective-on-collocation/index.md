@@ -30,12 +30,6 @@ aliasesArchive:
 tags:
 - Team Collaboration
 - Team Performance
-- Agile Frameworks
-- Agile Product Management
-- Pragmatic Thinking
-- Scrum Team
-- Software Development
-- Sociotechnical Systems
 categories:
 - Scrum
 preview: 1026661500-1-1.jpg

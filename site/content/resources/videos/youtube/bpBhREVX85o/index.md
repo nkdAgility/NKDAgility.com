@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 How does [scrum]({{< ref "/categories/scrum" >}}) help [leadership]({{< ref "/categories/leadership" >}}) teams pick the most valuable work to focus on?

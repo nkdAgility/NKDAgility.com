@@ -39,15 +39,9 @@ tags:
 - Technical Debt
 - Agile Transformation
 - Organisational Agility
-- Forecasting
-- Business Agility
-- Scrum Team
-- Increment
-- Agile Strategy
 categories:
 - Scrum
 - Engineering Excellence
-- Technical Leadership
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

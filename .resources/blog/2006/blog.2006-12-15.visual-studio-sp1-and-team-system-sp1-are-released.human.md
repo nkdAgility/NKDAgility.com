@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/visual-studio-sp1-and-team-system-sp1-are-released-
 - /resources/blog/visual-studio-sp1-and-team-system-sp1-are-released
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

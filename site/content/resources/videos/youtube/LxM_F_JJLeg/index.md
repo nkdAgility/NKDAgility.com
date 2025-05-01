@@ -35,13 +35,6 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Agile Values and Principles
-- Change Management
-- Coaching
-- Continuous Improvement
-- Operational Practices
-- Social Technologies
-- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +42,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, [Scrum]({{< ref "/categories/scrum" >}}) Master, or [product owner]({{< ref "/tags/product-owner" >}}).

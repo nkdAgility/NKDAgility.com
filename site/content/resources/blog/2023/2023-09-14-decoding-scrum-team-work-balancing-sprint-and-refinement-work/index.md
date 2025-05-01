@@ -38,15 +38,6 @@ tags:
 - Agile Planning
 - Pragmatic Thinking
 - Product Delivery
-- Team Collaboration
-- Operational Practices
-- Product Backlog
-- Working Software
-- Backlog Refinement
-- Increment
-- Scrum Master
-- Value Delivery
-- Azure DevOps
 categories:
 - Product Development
 - Scrum

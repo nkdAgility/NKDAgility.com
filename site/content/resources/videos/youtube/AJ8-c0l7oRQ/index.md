@@ -30,7 +30,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

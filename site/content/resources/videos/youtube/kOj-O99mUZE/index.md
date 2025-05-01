@@ -35,16 +35,6 @@ tags:
 - Scaling
 - Agile Frameworks
 - Portfolio Management
-- Flow Efficiency
-- Value Delivery
-- Enterprise Agility
-- Agile Strategy
-- Large Scale Agility
-- Pragmatic Thinking
-- Product Delivery
-- Organisational Physics
-- Project Management
-- Throughput
 resourceTypes:
 - video
 categories:

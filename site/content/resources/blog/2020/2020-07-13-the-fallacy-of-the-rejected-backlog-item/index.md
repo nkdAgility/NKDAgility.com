@@ -39,15 +39,9 @@ tags:
 - Product Delivery
 - Product Owner
 - Value Delivery
-- Agile Transformation
-- Scrum Master
-- Pragmatic Thinking
-- Team Performance
-- Definition of Done
 categories:
 - Scrum
 - Product Management
-- Engineering Excellence
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

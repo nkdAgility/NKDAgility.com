@@ -36,12 +36,10 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Scrum Team
-- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 ## Escaping the Administrative Vortex: Insights for [Scrum]({{< ref "/categories/scrum" >}}) Masters - Part 2

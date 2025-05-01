@@ -33,14 +33,10 @@ tags:
 - Continuous Learning
 - Competence
 - Product Owner
-- Continuous Improvement
-- Agile Product Management
-- Metrics and Learning
 resourceTypes:
 - video
 categories:
 - Product Development
-- Product Management
 
 ---
 As a new [product owner]({{< ref "/tags/product-owner" >}}), you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **[continuous learning]({{< ref "/tags/continuous-learning" >}})**.

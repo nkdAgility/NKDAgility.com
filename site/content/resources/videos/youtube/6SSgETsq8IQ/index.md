@@ -28,11 +28,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Professional Scrum
-- Continuous Learning
-- Agile Transformation
-- Software Development
-- Value Delivery
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,9 +32,6 @@ tags:
 - Agile Product Management
 - Team Performance
 - Agile Planning
-- Scrum Master
-- Social Technologies
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

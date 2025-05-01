@@ -30,12 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Empirical Process Control
-- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 What is a common mistake made by rookie agile consultants?

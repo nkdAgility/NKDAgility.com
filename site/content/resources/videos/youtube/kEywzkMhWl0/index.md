@@ -36,16 +36,10 @@ tags:
 - Scrum Master
 - Agile Transformation
 - Professional Scrum
-- Agile Frameworks
-- Scrum Team
-- Software Development
-- Agile Leadership
-- Change Management
-- Competence
-- Mentoring
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **1 critical skill for a [Scrum]({{< ref "/categories/scrum" >}}) Master and why?**

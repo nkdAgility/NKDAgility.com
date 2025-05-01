@@ -25,22 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 isShort: false
-tags:
-- Agile Leadership
-- Team Motivation
-- Psychological Safety
-- Team Performance
-- Agile Philosophy
-- Organisational Culture
-- Social Technologies
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold. 

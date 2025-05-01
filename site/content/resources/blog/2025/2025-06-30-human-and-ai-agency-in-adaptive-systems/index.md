@@ -25,10 +25,6 @@ tags:
 - Organisational Physics
 - Decision Making
 - Sociotechnical Systems
-- Decision Theory
-- Artificial Intelligence
-- Organisational Agility
-- Product Strategy
 
 ---
 Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.

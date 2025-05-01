@@ -29,7 +29,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Must have trait in an Agile Consultant**

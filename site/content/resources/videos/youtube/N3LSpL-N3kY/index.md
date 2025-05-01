@@ -27,11 +27,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Owner
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The [Product Owner]({{< ref "/tags/product-owner" >}}) Journey

@@ -44,11 +44,6 @@ tags:
 - Market Adaptability
 - Metrics and Learning
 - Pragmatic Thinking
-- Product Discovery
-- Product Validation
-- Value Delivery
-- Lean Startup
-- MVP
 resourceTypes:
 - video
 categories:

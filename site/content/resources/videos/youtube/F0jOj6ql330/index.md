@@ -32,7 +32,8 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The Joy of Being a [Scrum]({{< ref "/categories/scrum" >}}) Developer

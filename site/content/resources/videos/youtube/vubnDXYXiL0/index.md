@@ -33,22 +33,10 @@ tags:
 - Agile Transformation
 - Software Development
 - Pragmatic Thinking
-- Professional Scrum
-- Large Scale Agility
-- Agile Planning
-- Agile Product Management
-- Continuous Improvement
-- Agile Frameworks
-- Organisational Agility
-- Product Delivery
-- Agile Strategy
-- Team Performance
-- Value Delivery
 resourceTypes:
 - video
 categories:
 - Product Development
-- Scrum
 
 ---
 # Tailoring [Scrum]({{< ref "/categories/scrum" >}}) to Scale: Building Your Own Framework for Success

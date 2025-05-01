@@ -29,9 +29,8 @@ aliasesArchive:
 - /resources/blog/migrating-codeplex-github
 tags:
 - Software Development
-- Install and Configuration
-- Modern Source Control
-categories: []
+categories:
+- Uncategorized
 preview: clip_image001-1-1.png
 
 ---

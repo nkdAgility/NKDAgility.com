@@ -30,12 +30,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Software Development
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Spotting an Ineffective [Scrum]({{< ref "/categories/scrum" >}}) Master's Day

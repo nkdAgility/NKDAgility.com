@@ -30,13 +30,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories:
-- DevOps
+- Uncategorized
 
 ---
 **What is Your Peeve in [DevOps]({{< ref "/categories/devops" >}})**

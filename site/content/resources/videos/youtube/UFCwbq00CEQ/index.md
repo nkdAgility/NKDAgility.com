@@ -39,13 +39,6 @@ tags:
 - Agile Leadership
 - Business Agility
 - Team Collaboration
-- Agnostic Agile
-- Agile Frameworks
-- Coaching
-- Agile Planning
-- Current Value
-- Organisational Culture
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

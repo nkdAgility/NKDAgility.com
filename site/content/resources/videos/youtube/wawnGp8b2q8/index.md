@@ -33,7 +33,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through the world of learning and development, I've come to appreciate the profound impact that poly immersive learning experiences can have. Today, I want to share three key benefits that stand out to me, particularly in our complex and ever-evolving environment.

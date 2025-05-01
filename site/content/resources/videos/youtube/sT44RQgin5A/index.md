@@ -45,11 +45,6 @@ tags:
 - Time to Market
 - Unrealised Value
 - Empirical Process Control
-- Working Software
-- Ability to Innovate
-- Business Agility
-- Market Adaptability
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -29,9 +29,6 @@ tags:
 - Software Development
 - Scrum Master
 - Collaboration Tools
-- Scrum Team
-- Agile Planning Tools
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

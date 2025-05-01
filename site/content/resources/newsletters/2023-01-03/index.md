@@ -19,7 +19,8 @@ aliases:
 aliasesArchive:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

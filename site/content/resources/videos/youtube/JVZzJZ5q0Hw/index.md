@@ -37,9 +37,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Product Delivery
-- Product Backlog
-- Agile Planning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

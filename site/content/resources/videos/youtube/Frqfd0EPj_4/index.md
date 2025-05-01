@@ -36,16 +36,6 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Social Technologies
-- Professional Scrum
-- Coaching
-- Operational Practices
-- Scrum Master
-- Scrum Team
-- Sociotechnical Systems
-- Value Delivery
-- Change Management
-- Organisational Agility
-- Competence
 resourceTypes:
 - video
 categories:

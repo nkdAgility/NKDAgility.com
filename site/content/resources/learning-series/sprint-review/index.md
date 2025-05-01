@@ -36,7 +36,8 @@ card:
   title: The Sprint Review
 aliases:
 - /resources/9omxdDJCVDL
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

@@ -33,7 +33,8 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **What was your best day as an Agile consultant?**

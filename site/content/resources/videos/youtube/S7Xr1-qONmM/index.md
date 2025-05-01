@@ -31,18 +31,10 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Product Delivery
-- Agile Frameworks
-- Agile Product Management
-- Decision Making
-- Product Owner
-- Sociotechnical Systems
-- Value Delivery
 resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 
 ---
 Why do you think the PSU course has become so popular for [product development]({{< ref "/categories/product-development" >}})?

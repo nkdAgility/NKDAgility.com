@@ -24,7 +24,7 @@ card:
   content: Discover more about Product Increment and how it can help you in your Agile journey!
   title: Product Increment
 categories:
-- Product Development
+- Uncategorized
 tags: []
 
 ---

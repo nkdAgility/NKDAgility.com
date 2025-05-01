@@ -41,11 +41,8 @@ tags:
 - Empirical Process Control
 - Team Performance
 - Product Delivery
-- Agile Product Management
-- Continuous Improvement
 categories:
 - Scrum
-- Engineering Excellence
 preview: 20190906_152025-2-2.gif
 
 ---

@@ -37,8 +37,8 @@
     - Pragmatic Thinking
     - Windows
     - System Configuration
-    - Continuous Integration
-    categories: []
+    categories:
+    - Uncategorized
     preview: clip_image004-4-4.png
   BodyContent: |
     I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…
@@ -125,13 +125,8 @@
     tags:
     - Release Management
     - Software Development
-    - Azure DevOps
-    - Azure Pipelines
-    - Frequent Releases
-    - Operational Practices
-    - Product Delivery
     categories:
-    - DevOps
+    - Uncategorized
     preview: 2016-01-04_15-52-31-1-1.png
   BodyContent: |
     Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new [Release Management]({{< ref "/tags/release-management" >}}) tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on [DevOps]({{< ref "/categories/devops" >}}) and the focus of my session was on both Build and Release.
@@ -184,9 +179,6 @@
     - Agile Frameworks
     - Pragmatic Thinking
     - Agile Transformation
-    - Large Scale Agility
-    - Agile Product Management
-    - Team Performance
     categories:
     - Scrum
     preview: clip_image003-3-3.png
@@ -250,8 +242,6 @@
     - Software Development
     - Agile Frameworks
     - Professional Scrum
-    - Agile Product Management
-    - Agile Transformation
     categories:
     - Scrum
     preview: clip_image001-1-1.png
@@ -285,4 +275,1651 @@
     Mechanical Scrum is only the start \[[read more...](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-06-24-big-scrum-are-you-doing-mechanical-scrum\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-06-24-big-scrum-are-you-doing-mechanical-scrum
+- FrontMatter:
+    title: How to rename a Team Project in TFS 2015
+    description: Learn how to easily rename a Team Project in TFS 2015 with our step-by-step guide. Ensure a smooth transition and minimal impact on your workflow!
+    ResourceId: ysF0Hy8v8Rf
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11317
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-04-30
+    weight: 1000
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: how-to-rename-a-team-project-in-tfs-2015
+    aliases:
+    - /resources/ysF0Hy8v8Rf
+    aliasesArchive:
+    - /blog/how-to-rename-a-team-project-in-tfs-2015
+    - /how-to-rename-a-team-project-in-tfs-2015
+    - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
+    tags:
+    - Install and Configuration
+    categories:
+    - Uncategorized
+    preview: clip_image0041-4-4.png
+  BodyContent: |
+    By the launch of TFS 2010 we had given up on getting rename in TFS. 5 years of no rename had taken its toll. Now, as a surprise present with TFS 2015 (and on VSO) and I have a bunch of projects to "zz". Did you know that you should always "zz" something before you delete it. If you delete something then its gone. If you prefix it with "zz" then it falls to the bottom of any list and you can ignore it until later… but if someone complains… you can easily recover it.
+
+    \[pl_button type="info" link="https://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx" target="blank"\]Download 2015 today\[/pl_button\]
+
+    Renaming your Team Project is easy. You will need to be a Team Project Administrator, and there are some caveats and advanced instructions, but …
+
+    ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
+    { .post-img }
+
+    You need to first access the admin page for your Team Project first. Make sure that you are currently selected on the Default Team in your team project. You are on the default team if it just says the "Team Project" name at the top of your browser rather than "Team Project \\ Team" if you are on a non-default team.
+
+    ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+    { .post-img }
+
+    Once in the admin you can see the name below the profile picture, and up until now that was not editable. Now however you can change the team project name by simply selecting the team project name and changing the text.
+
+    ![clip_image003](images/clip_image0031-3-3.png "clip_image003")
+    { .post-img }
+
+    Once you start editing it you will have a "save" and "undo" button. Click "save" to start the Process to change the team project name.
+
+    ![clip_image004](images/clip_image0041-4-4.png "clip_image004")
+    { .post-img }
+
+    You will be warned that there is an impact to this. Remember that the name is used in a lot of the URL's and not all clients will support this gracefully. By the time TFS 2015 RTM's Visual Studio 2010 will be out of mainstream support and there will be no requirement for the product team to make sure that Visual Studio 2010 supports renaming a team project. To get the best compatibility and easiest transition you should make sure that all the clients are updated to Visual Studio 2013 Update 5 or Visual Studio 2015. However Visual Studio 2012 and other versions will be supported, it just might not be without a little tinkering… like clearing the cache or reconfiguring your TFS connection.
+
+    ![clip_image005](images/clip_image0051-5-5.png "clip_image005")
+    { .post-img }
+
+    If you have a busy TFS server then it may have to wait a while for the task to complete, but in the 5 renames I have done so far all of them took less than 10 seconds to complete. I have only currently renamed the team projects that are no longer needed and not yet hit an in-use project, but that is the plan for later in the week.
+
+    ![clip_image006](images/clip_image0061-6-6.png "clip_image006")
+    { .post-img }
+
+    Once you click "close" the page will refresh and the new team project name will be presented. At this point the old name will still work. If you hit it you will get the right page an all of the links from there will be the new name. This 'redirect' will be there until he old name is reused. So from the web access there should be minimal impact.
+
+    ![clip_image007](images/clip_image0071-7-7.png "clip_image007")
+    { .post-img }
+
+    You can see the four renames I have done so far and the additional three proposed for the end of the week. We will be picking a lightly used one first so that we can gauge the impact, and then roll on with the rest.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-04-30-how-to-rename-a-team-project-in-tfs-2015\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-04-30-how-to-rename-a-team-project-in-tfs-2015
+- FrontMatter:
+    title: Install TFS 2015 today
+    description: Learn how to install and configure TFS 2015 effortlessly. Upgrade your system with essential tips and insights from expert Martin Hinshelwood. Get started now!
+    ResourceId: v-m2PYvEaWx
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11286
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-04-30
+    weight: 840
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: install-tfs-2015-today
+    aliases:
+    - /resources/v-m2PYvEaWx
+    aliasesArchive:
+    - /blog/install-tfs-2015-today
+    - /install-tfs-2015-today
+    - /resources/blog/install-tfs-2015-today
+    tags:
+    - Install and Configuration
+    - Windows
+    - System Configuration
+    - Software Development
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-11-11.png
+  BodyContent: |
+    It has been a while since I had to install, configure, or upgrade TFS. Most of my customers have been moving to Visual Studio Online (VSO) which is effectively TFS in the cloud, and that requires "migration" of data rather than "upgrade". Although there are [great reasons to pick VSO over TFS, even for enterprise](http://nkdagility.com/benefits-visual-studio-online-enterprise/), many companies have a cultural issue with the cloud and are not ready to go there yet. For this we still have TFS and all of its fantastic features are updated and improved for 2015.
+
+    If you are on TFS 2010 (or any prior version) then remember that support ends at the end of July and that you should upgrade. If you are upgrading anyway then you should upgrade to TFS 2015.
+
+    \[pl_button type="info" link="https://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx" target="blank"\]Download 2015 today\[/pl_button\]
+
+    I like to do a few practice installs before I go for the main event, and I always like to document what I am doing so…
+
+    ## Installing TFS 2015
+
+    First, Microsoft have radically reduced the size of the bits. The ISO is under 500mb and that included the old agents.
+
+    ![clip_image001[6]](images/clip_image0016-1-1.png "clip_image001[6]")
+    { .post-img }
+
+    If you are on, and you should be, Server 2012, 2012 R2, or the Technical Preview then you can just open the ISO and it will be mounted by Windows natively.
+
+    ![clip_image002[6]](images/clip_image0026-2-2.png "clip_image002[6]")
+    { .post-img }
+
+    Some folks like to install the bits to another drive, however there is no need in the modern world. In the old days we put apps on another drive to improve performance, but as we have fast disks and virtual machines that need has gone. Staying as close to the defaults is always the best option.
+
+    The [System Requirements for TFS 2015](https://msdn.microsoft.com/en-us/library/dd578592.aspx?f=255&MSPPError=-2147217396) have not yet been announced and the link will take you to the latest version of the requirements, so when they get updates it should be automatic.
+
+    ![clip_image003[6]](images/clip_image0036-3-3.png "clip_image003[6]")
+    { .post-img }
+
+    On my Technical Preview server the installation was completed in only a few minutes and did not require a restart. As you will be installing a new version of .NET a restart seemed likely, but it looks like the TFS team have come through on minimising this from earlier versions.
+
+    ![clip_image004[6]](images/clip_image0046-4-4.png "clip_image004[6]")
+    { .post-img }
+
+    And that’s it! The TFS team, since TFS 2008, have taken the idea of a zero configuration install to heart and you have no options at install. The bits are laid down and then the configuration wizard, pictured above, is launched. This allows you to have an Ops team do the install, or to put the bits on chocolatey for an automated process.
+
+    In the Configuration Center not much has changed and the usual suspects are available. There are four options for installing the main parts of TFS, the application tier.
+
+    - **Basic Server** - This is the one that I will be using as it will lay down all of the pre-requisites and install everything automatically for you. It will install SQL Express and configure TFS to use that.
+    - **Full Server** \- This is the old "Advanced Install" and represents the works. You will be asked for SQL, Reporting Services, Analysis Services, and SharePoint integration options. You will be able to choose if you will be using Reporting, and SharePoint during this wizard. If you want those things up front, or you want to use your own SQL instance then you need to pick this option.
+    - **Application Tier Only** - If you are adding an additional Application Tier to your existing TFS Server or you are moving either your Application Tier or Data Tier to another server then this option just enabled the Application Tier to work against an existing instance.
+    - **Upgrade** - If TFS detects an existing instance that is a previous version of TFS then it will automatically pop this option for you. Here is where you get lead through "upgrading" from one version to another. If you, like me, don’t like to do in-place upgrades and have restored your TFS databases to a new server then you will need to install TFS and pick this option to upgrade and move hardware at the same time.
+
+    If you have an existing TFS server and you want to add a Proxy server, used to cache TFVC data for performance in remote locations, or configure the SharePoint extensions for your SharePoint farm then you run the same install, but pick the additional options above the line.
+
+    In addition there are a number of tools that can be used with TFS. If, perish the thought, you still have some Visual SourceSafe (VSS) data lying around then you should immediately install the Visual SourceSafe Upgrade tool and get that data into TFS. If you still want to use the old Xaml Build format, there is a new build system in TFS 2015, then you can access the old 2013 Xaml Build Agents here.
+
+    ## Configuring a TFS 2015 Server using the Basic Server option
+
+    The Basic install of TFS fulfils two scenarios. First, if you have a blank server, as I do, it will lay down everything you need to just get started. This will install SQL Express and setup a default build agent on your TFS server. It’s the getting started option.
+
+    ![clip_image005[6]](images/clip_image0056-5-5.png "clip_image005[6]")
+    { .post-img }
+
+    Your first option is to select your SQL Server. You can either select an existing SQL Server that you have installed yourself, or you can let TFS install and configure Express for you.
+
+    You get a complimentary copy of SQL Server Standard to run your TFS Server on in a single server instance. As long as you don’t put any other databases other than those used by TFS then you are covered.
+
+    You can always upgrade to full SQL later…
+
+    ![clip_image006[6]](images/clip_image0066-6-6.png "clip_image006[6]")
+    { .post-img }
+
+    The new build system in TFS 2015 comes with a new agent. This agent does not run the old Xaml legacy builds but a new task based build system. You will get an agent installed, but you get to choose if it is started automatically or not.
+
+    The new agent is awesome and you can [configure as many agents as you like](http://nkdagility.com/configure-a-build-vnext-agent-on-vso/) by just running a little bit of PowerShell.
+
+    ![clip_image007[6]](images/clip_image0076-7-7.png "clip_image007[6]")
+    { .post-img }
+
+    As usual you get to review the configuration and you have to run a bunch of readiness checks that will validate that you can configure all of the bits correctly on this system. The old days of hard installs of TFS 2005 and 2008 are gone… if the checks go OK you can then click "Configure".
+
+    ![clip_image008[6]](images/clip_image0086-8-8.png "clip_image008[6]")
+    { .post-img }
+
+    The configuration will perform all of the tasks, with prepping the system as well as installing SQL Express and configuring the new TFS configuration and collection databases…
+
+    ![clip_image009[6]](images/clip_image0096-9-9.png "clip_image009[6]")
+    { .post-img }
+
+    When done you will have a nice new TFS server to start working in.
+
+    ![clip_image010[6]](images/clip_image0106-10-10.png "clip_image010[6]")
+    { .post-img }
+
+    Creating a new Team Project is the test of a TFS server and this can still only be done in Visual Studio (Team Explorer). TFS, unlike VSO, still depends on Reporting Services, and optionally SharePoint for some of its services and the server work required to get the Team Project wizard running server side is just silly work. So time to pop open Visual Studio and create your first team project.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-04-30-install-tfs-2015-today\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-04-30-install-tfs-2015-today
+- FrontMatter:
+    title: Upgrading to TFS 2015 in production - DONE
+    description: Discover the first production upgrade to TFS 2015! Learn essential steps, tips, and best practices to ensure a smooth transition for your team.
+    ResourceId: lJiwJaztYBO
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11308
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-04-29
+    weight: 840
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: upgrading-to-tfs-2015-in-production-done
+    aliases:
+    - /resources/lJiwJaztYBO
+    aliasesArchive:
+    - /blog/upgrading-to-tfs-2015-in-production-done
+    - /upgrading-to-tfs-2015-in-production-done
+    - /upgrading-to-tfs-2015-in-production
+    - /upgrading-to-tfs-2015-in-production---done
+    - /blog/upgrading-to-tfs-2015-in-production---done
+    - /resources/blog/upgrading-to-tfs-2015-in-production-done
+    tags:
+    - Install and Configuration
+    - System Configuration
+    - Software Development
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-22-22.png
+  BodyContent: |
+    I am onsite today with a customer in London to do an upgrade of their production system to TFS 2015. We have a backup of the databases and a snapshot of the VM and are good to go.
+
+    It looks like this may have been the [first upgrade to TFS 2015 in production](http://blogs.msdn.com/b/bharry/archive/2015/04/27/first-tfs-2015-rc-production-upgrade-i-know-of.aspx), at least beyond internal consulting company's.
+
+    \[pl_button type="info" link="http://visualstudio.com" target="blank"\]Download 2015 today\[/pl_button\]
+
+    With the availability of a fully supported version of TFS 2015 I will be upgrading my customers production TFS server to TFS 2015 so that they can get all of the goodies.
+
+    This customer does not have huge TFS databases with only circa 9GB of data in their only configuration database so this should not take long. But remember, there are significant schema changes in TFS 2015 and you will need at least the same amount of free space as data that you have in TFS.
+
+    If you are on TFS 2010 (or any prior version) then remember that support ends at the end of July and that you should upgrade. If you are upgrading anyway then you should upgrade to TFS 2015.
+
+    For prepping for this upgrade I ran a bunch of installs and test upgrades over the weekend and we too backups. For backup we have a two party system. We have a SQL Server full backup that was taken when the TFS server was off, that is to prevent the need for marked transaction logging for a possible restore if anything goes wrong. We also took a snapshot of the TFS application tier to enable a much quicker re-configuration of TFS 2013. While this does not include the SQL databases that are on the SQL Server cluster, it does include things like .NET version and IIS configuration.
+
+    <table class="table"><tbody><tr><td valign="top" width="80">TFS Instance</td><td valign="top" width="80">Database</td><td valign="top" width="80">Size</td><td valign="top" width="80">Duration</td><td valign="top" width="80">&nbsp;</td></tr><tr><td valign="top" width="80">CustomerA</td><td valign="top" width="80">Tfs_Configuration</td><td valign="top" width="80">590mb</td><td valign="top" width="80">2 minutes</td><td valign="top" width="80">&nbsp;</td></tr><tr><td valign="top" width="80">&nbsp;</td><td valign="top" width="80">Tfs_DefaultCollection</td><td valign="top" width="80">9gb</td><td valign="top" width="80">9 minutes</td><td valign="top" width="80">&nbsp;</td></tr></tbody></table>
+
+    The duration for this server upgrade will be recorded above. This time is totally dependent on hardware and network communication.
+
+    ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+    { .post-img }
+
+    As usual I will be installing the losable bits on the C drive with the operating system. This is consistent with modern best practices.
+
+    ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+    { .post-img }
+
+    The install is pretty quick and only took a few minutes, \[same as a fresh install of TFS 2015\]. As I am just running the install and relying on the TFS bits to get rid of the old bits this seems pretty fast.
+
+    ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+    { .post-img }
+
+    As I mentioned when I was installing a clean TFS 2015 the installer will pop the configuration wizard and the wizard will detect of it is an upgrade and automatically launch the upgrade wizard. You will need all of the Server names and accounts with passwords that TFS runs under to complete the upgrade.
+
+    Note: If your IS department has messed with the permissions of your TFS or SQL servers you may need to make sure that you have Server Admin and SysAdmin on the required boxes before you proceed.
+
+    TFS 2015 will make sure that you have all of the required pre-requisites before you start the install, and you may need to fix a few things before you proceed.
+
+    ![clip_image004](images/clip_image004-4-4.png "clip_image004")
+    { .post-img }
+
+    First you need to verify the database settings. This will default to the same settings as your previous server as was previously set and will show the databases available. If you are moving servers then you should change to the new DB server now so that you don’t accidentally upgrade the current production databases. However in this case I am doing an in place upgrade to TFS 2015.
+
+    As this is a big upgrade you will need to select two confirmation checks. First is new and gets you to verify that you have enough disk space to proceed with a FULL recovery model. Typically you need at least twice the space that your databases currently take up and I like to make sure that there is a little more. I have 22GB free and 9GB of data to upgrade.
+
+    The second is the usual "yes, I am not a dumb ass and I have taken a backup" checkbox. At this point… go validate that you have a backup! Then check the box…
+
+    ![clip_image005](images/clip_image005-5-5.png "clip_image005")
+    { .post-img }
+
+    As a security precaution the TFS server will always ask you to enter your credentials again for the TFS Service account. Have them handy.
+
+    ![clip_image006](images/clip_image006-6-6.png "clip_image006")
+    { .post-img }
+
+    The TFS Cache folder defaults to the C drive and you may want to stick it somewhere else. This is not a speed issue, but one of space.
+
+    ![clip_image007](images/clip_image007-7-7.png "clip_image007")
+    { .post-img }
+
+    By default the build agent bits are put onto the server but it will not configure it. If you want it to be configured you need to tick the box and give it credentials. You also get to set the folder that is used for the temporary build bits.
+
+    ![clip_image008](images/clip_image008-8-8.png "clip_image008")
+    { .post-img }
+
+    If you have reporting services configured now this will be ticked by default, if not it will be unticked. If you want to change this, then now is the time to choose.
+
+    ![clip_image009](images/clip_image009-9-9.png "clip_image009")
+    { .post-img }
+
+    If you have reporting services pre-configured then you will need to make sure that you account has permission to read the URL's from the WMI interface. Easiest way to achieve this is to have Admin on the Reporting Services instance. This can be controversial as you may have more than one instance in that server, however this is a read only action and permissions can be removed after.
+
+    If you need to configure reporting later you can go back a page and NOT configure reporting…
+
+    ![clip_image010](images/clip_image010-10-10.png "clip_image010")
+    { .post-img }
+
+    In this case the nice folks in IS gave me temp permission to proceed and all was well in the world again.
+
+    ![clip_image011](images/clip_image011-11-11.png "clip_image011")
+    { .post-img }
+
+    AS it might be on a different location you also need to select the location of your warehouse. If necessary the upgrade wizard will upgrader the warehouse rather than rebuild it to save time.
+
+    ![clip_image012](images/clip_image012-12-12.png "clip_image012")
+    { .post-img }
+
+    Make sure that you can also access analysis services and have the correct permission to configure things. Should be OK, but always hit the "test" button so that you are sure.
+
+    ![clip_image013](images/clip_image013-13-13.png "clip_image013")
+    { .post-img }
+
+    It is very recommended to use a separate account for the report reader account, however in this case I do not have one. TFS lets you use the same service account that it runs under.
+
+    ![clip_image014](images/clip_image014-14-14.png "clip_image014")
+    { .post-img }
+
+    If your organisation still has an on-premises SharePoint instance I would highly recommend that you move to Office 365, to be hones I also recommend moving to VSO, and not to integrate with TFS. The value is not worth the pain. I am happy with my current customer, although they are using an on-premises TFS they don’t have on-premises SharePoint.
+
+    ![clip_image015](images/clip_image015-15-15.png "clip_image015")
+    { .post-img }
+
+    You can review your configuration before you move forward with the verification. Once you are happy click verify…
+
+    ![clip_image016](images/clip_image016-16-16.png "clip_image016")
+    { .post-img }
+
+    My customer has a custom configuration in TFS that is not really recommended ort supported. They have created a custom website in IIS that allows them to have TFS on port 80. TFS is by default installed on port 8080 and in a virtual directory as SharePoint normally exists on the box and coexisting with it is hard. As we don’t have SharePoint this configuration is fine, but non-standard. If you have this configuration you will have to manually undo it for every upgrade and redo it after…
+
+    ![clip_image017](images/clip_image017-17-17.png "clip_image017")
+    { .post-img }
+
+    Once you have corrected the IIS configuration the errors disappear and you will almost always have some sort of warning. Here the cache folder is not considered big enough, ok… and as we know the Reporting account is the same as the TFS Service one…ok… and Analysis Services is not set to start automatically… I will talk to IS later for that one… so no show stoppers…
+
+    ![clip_image018](images/clip_image018-18-18.png "clip_image018")
+    { .post-img }
+
+    Time to configure.. If you hit the configuration button it will start the real upgrade. At this point there is no way back apart from a database restore, which is why you have to have a backup.
+
+    ![clip_image019](images/clip_image019-19-19.png "clip_image019")
+    { .post-img }
+
+    Once it gets to the collection the UI will show a huge number of steps (608) and each of the areas in the DB as they are upgraded. You can either sit and watch it or click close and wait.
+
+    ![clip_image020](images/clip_image020-20-20.png "clip_image020")
+    { .post-img }
+
+    Once done you will get a lovely green tick and then be able to view the upgraded TFS. In my case this erred out due to the non-standard configuration of the original TFS server and I had to manually create the TFS site in IIS.
+
+    ![clip_image021](images/clip_image021-21-21.png "clip_image021")
+    { .post-img }
+
+    Creating it was easy, it just a cse of copying the OOB IIS and making sure that you add the new Queue application under the root.
+
+    ## Conclusion
+
+    Although TFS 2015 is currently only in RC it does have a Go-Live licence. Go-Live licences are somewhat of a tradition of the Developer Division that allows them to release a fully supported version of the product early so that more folks try it. The reality for CTP's is that no one will really put it through its paces until its supported and can be installed in production. Go-Live enables this..
+
+    Go on, be a kid again and install Team Foundation Server 2015 RC in production. Its fully supported and has some awesome new features…
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-04-29-upgrading-to-tfs-2015-in-production-done\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-04-29-upgrading-to-tfs-2015-in-production-done
+- FrontMatter:
+    title: Unable to load task handler PowerShell for task VSBuild
+    description: Resolve the 'Unable to load task handler PowerShell for task VSBuild' error in TFS 2015 with our troubleshooting guide. Get your builds running smoothly!
+    ResourceId: Rqhhvr6lAQK
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11097
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-03-18
+    weight: 840
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: unable-load-task-handler-powershell-task-vsbuild
+    aliases:
+    - /resources/Rqhhvr6lAQK
+    aliasesArchive:
+    - /blog/unable-load-task-handler-powershell-task-vsbuild
+    - /unable-load-task-handler-powershell-task-vsbuild
+    - /unable-to-load-task-handler-powershell-for-task-vsbuild
+    - /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
+    - /resources/blog/unable-load-task-handler-powershell-task-vsbuild
+    tags:
+    - Windows
+    - Troubleshooting
+    - Software Development
+    - Install and Configuration
+    categories:
+    - Uncategorized
+    preview: puzzle-issue-problem-128-link-7-7.png
+  BodyContent: |
+    If you are setting up to run Team Foundation Server's vNext build system that Microsoft is previewing on VSO you may hit a "Unable to load task handler PowerShell for task VSBuild with version 1.0.1" error when you try to build on Windows Server Technical Preview.
+
+    #### Download Team Foundation Server 2015 today
+
+    Microsoft has released a CTP of TFS 2015 that includes the vNext build system. You can [download TFS 2015](https://www.visualstudio.com/en-us/downloads/visual-studio-2015-ctp-vs) and try it out today. Remember that this is _not_ a go-live version and you should _not_ install it in production.
+
+    ![clip_image001](images/clip_image0013-1-1.png "clip_image001")
+    { .post-img }
+
+    After you have [configured a vNext build agent](http://nkdagility.com/configure-vso-vnext-build-agent/) you may get an error when you try and build. This error occurs regardless of the tasks that you pick for your build.
+
+    ```
+    ******************************************************************************
+    Starting Build (debug, any cpu)
+    ******************************************************************************
+    Executing the following commandline:
+    C:\VsoWinAgent\agent\worker\vsoWorker.exe /name:Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df /id:4649b2ea-e06d-47b0-9a89-5f4aa4d545df /rootFolder:"C:\VsoWinAgent" /logger:Forwarding,1.0.0;Verbosity=Verbose,Name=Agent1;JobId=4649b2ea-e06d-47b0-9a89-5f4aa4d545df
+    Unable to load task handler PowerShell for task VSBuild with version 1.0.1.
+    ******************************************************************************
+    Finishing Build (debug, any cpu)
+    ******************************************************************************
+    Worker Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df finished running job 4649b2ea-e06d-47b0-9a89-5f4aa4d545df
+
+    ```
+
+    I tried to build both with the "Visual Studio Build" task and the "MS Build" tasks that come out of the box. Both resulted in the same error and I can only assume that there is an internal dependency on a particular PowerShell version that is not present.
+
+    After some investigation on Windows Server Technical Preview I noticed that only PowerShell 5 is available and enabled out of the box. Just like on Server 2008 R2, if you want an older version of PowerShell or .NET to be available then you need to go manually enable it.
+
+    ![clip_image002](images/clip_image0024-2-2.png "clip_image002")
+    { .post-img }
+
+    If you launch the "Add roles and features" you should see, on the features tab, an option for PowerShell with only PowerShell 5.0 installed. As this is only available in the Technical Preview my assumption would be that the team targeted the latest common version. Which would be the 2.x version.
+
+    ![clip_image003](images/clip_image0033-3-3.png "clip_image003")
+    { .post-img }
+
+    On Server 2012 R2 you will also find that only PowerShell 4.0 is configured by default and you will need to add PowerShell 2.0 here as well. This will in addition also enable .NET 2 / 3.5 if it has not been already.
+
+    ![clip_image004](images/clip_image0043-4-4.png "clip_image004")
+    { .post-img }
+
+    Although a better error message could be used, like detecting if the Windows feature is indeed enabled, this is an alfa version of the product and you don’t expect any such polish. After enabling the feature, and re-running the build…
+
+    And Poo, I still have a problem, so that’s not it. This brought me to the end of my wits and I had to go ask some folks.
+
+    ![clip_image005](images/clip_image0053-5-5.png "clip_image005")
+    { .post-img }
+
+    After a flurry of emails to my peers on the champs list Jakob asked if I had Unblocked the Zip files! Do what now?
+
+    It turns out that if you download a zip file from the internet it may be "partially" blocked. Windows will block access to some files that it deems risky but not warn you nor stop you from unpacking it. Unfortunately it will only partially unpack… which rendered my build agent useless.
+
+    So if you are downloading a Zip file from the internet you may need to unblock them before you can use them fully.
+
+    ![clip_image006](images/clip_image0063-6-6.png "clip_image006")
+    { .post-img }
+
+    Woohoo… A successful build on the new Build vNext…
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-18-unable-load-task-handler-powershell-task-vsbuild\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-18-unable-load-task-handler-powershell-task-vsbuild
+- FrontMatter:
+    title: It's that time again; get ready to upgrade to TFS 2015
+    description: Prepare for the TFS 2015 upgrade! Discover essential strategies and tips to ensure a smooth transition before support for TFS 2010 ends. Don't wait!
+    ResourceId: 7gr-fTIcGUp
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11241
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-03-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+    aliases:
+    - /resources/7gr-fTIcGUp
+    - /resources/blog/it-s-that-time-again-get-ready-to-upgrade-to-tfs-2015
+    aliasesArchive:
+    - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+    - /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+    - /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+    - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
+    - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+    - /resources/blog/it-s-that-time-again-get-ready-to-upgrade-to-tfs-2015
+    tags: []
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-1-1.png
+  BodyContent: |
+    With the release of Team Foundation Server 2015 CTP you should be starting to plan your upgrade strategy. It's going to be a tough one but you should get ready to upgrade to TFS 2015 now.
+
+    Mainstream support for TFS 2010 ends on 14/07/2015.
+
+    If you have been looking enviously at the new features popping up every three weeks on Visual Studio Online (VSO) then you will be waiting for TFS 2015 with baited breath. Now that the TFS 2015 CTP is available you should start planning for your upgrade. It's early yet, but as there are major changes in the schema for the operational store, it is likely to be a very lengthy upgrade. To get a feel for just how long you should restore your databases to your recovery environment and run a trial upgrade.
+
+    Not only will this give you access to all of the new features, but it will give you an idea of how much planning you will need for the real upgrade. Don’t wait until you are sitting staring at the upgrade progress bar for hours to find out. As with the TFS 2010 and TFS 2012 Update 1 upgrade the schema changes will require a complete rebuild of your TFS data and that means lots of spare disk space and time to complete the upgrade. If your database is over 1TB in size then you should seriously consider upgrading over a weekend.
+
+    Indeed with [mainstream support for TFS 2010 scheduled to stop in July](http://support.microsoft.com/lifecycle/search?sort=PN&alpha=Microsoft+Visual+Studio+Team+Foundation+Server+2010&Filter=FilterNO) there is no better time to start thinking of upgrading that aging TFS instance. Remember that you don’t need to upgrade Visual Studio, so if you still need to support development in Visual Studio 2005, 2008, or 2010 you can continue to do so. Heck, even FoxPro is still supported through the MSSCCI provider.
+
+    If you are on a version of TFS prior to 2010 you are so far out of support that a strait upgrade is no longer possible and you will need to stage through TFS 2012. No
+
+    Don’t get caught short with no support for your TFS server! Get ready to upgrade to TFS 2015…
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-17-its-that-time-again-get-ready-to-upgrade-to-tfs-2015\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-17-its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+- FrontMatter:
+    title: ALM Events and public courses in 2015 Q2
+    description: Join Martin Hinshelwood for live online ALM training courses in Q2 2015, covering DevOps, Scrum, and project management. Enhance your skills today!
+    ResourceId: ag9EVTamt5M
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11248
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-03-11
+    weight: 1000
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: alm-events-and-public-courses-in-2015-q2
+    aliases:
+    - /resources/ag9EVTamt5M
+    aliasesArchive:
+    - /blog/alm-events-and-public-courses-in-2015-q2
+    - /alm-events-and-public-courses-in-2015-q2
+    - /resources/blog/alm-events-and-public-courses-in-2015-q2
+    tags: []
+    categories:
+    - Uncategorized
+    preview: metro-event-icon-1-1.png
+  BodyContent: |
+    I have had a lot of folks asking for dates of the public courses that I will be running in the next few months.
+
+    When I moved back from the USA and started consulting I initially alighted at my parents' house as the house I was in before moving out was still being rented. Well that house was sold and so, for my one day a week visit home between engagements, I have been staying at my parents. I know… I am sure there is a joke in there somewhere. I have been getting many requests for online live ALM training, and unfortunately my parents has had no room to run them.
+
+    Well, this very weekend that is resolved as I move into a new house that does indeed have an office. I am now in a position to schedule some events and I wanted to update those that have been asking. I have had a number of enquiries over the last few months for live online training in Visual Studio ALM, TFS, & VSO and unfortunately I have had nothing in the mix. Well, I have scheduled the next few months of courses. Kicking off the run of courses is my good friend Anthony Borton from Australia.
+
+    - **23/03/2015 - [DevOps with Visual Studio ALM & TFS](http://visualstudiodevops23mar2015.eventbrite.com/?aff=nkdalm)** _\[3 day\]\[Live Online\]_
+      My good friend and colleague is teaching the DevOps course in eastern European time.
+    - **16/05/2015 - [Professional Scrum Master](http://nkdagility.com/training/courses/professional-scrum-master/)** _\[2 day\]_
+      In Seattle, the weekend before the ALM Forum 2015, I will be running a PSM course. If you are going to the ALM Forum in May, and you don’t yet have your Professional Scrum Expert certification, or if you just want to refresh your knowledge then you can book your seat.
+    - **18/05/2015 - [ALM Forum 2015](http://www.alm-forum.com)**
+      The ALM Forum is the premier conference event in the US for Application Lifecycle Management. Although I am not speaking, I will be there to hang out with the usual suspects and will be doing time at the Scrum.org booth.
+    - **28/05/2015 -** [Managing Projects with TFS in Visual Studio ALM](http://nkdagility.com/training/courses/managing-projects-with-tfs/ "Managing Projects with TFS in Visual Studio ALM") \[Live Online\]
+      This is an awesome course that I have taught a number of times. This is the first time In have taught it online and I am looking forward to it. This course is for anyone who manages their projects in TFS and applies to Visual Studio Online (VSO) as well.
+    - **09/06/2015 - [TFS 2013 Configuration & Administration](http://nkdagility.com/training/courses/tfs-2013-configuration-administration/)** *\[Live Online\]*
+      TFS up and running and still figuring out where all the levers are? The TFS Administration and Configuration course will bring your knowledge up to speed.
+    - **15/06/2015 - [NDC Oslo 2015](http://www.ndcoslo.com)**
+      I will be speaking at NDC Oslo this year. I missed the cut off last year and only made it to NDC London 2014, and this year I made the cut again.
+    - **07/07/2015 - [DevOps with Visual Studio ALM, TFS, & VSO](http://nkdagility.com/training/courses/devops-with-visual-studio-alm/)** _\[Live Online\]_
+      Fancy taking the continuous delivery challenge? This introductory course to build and release with Visual Studio ALM will set you up to successfully create a professional release pipeline that will allow you to run rings around your competitors.
+
+    Over the next 6 months I will be busy with both onsite consulting for Visual Studio ALM and Scrum, with some public live online events. If the events prove popular I will add more.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-11-alm-events-and-public-courses-in-2015-q2\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-11-alm-events-and-public-courses-in-2015-q2
+- FrontMatter:
+    title: Using the Build vNext capabilities and demands system
+    description: Explore the new Build vNext capabilities and demands system in TFS 2015. Simplify your build process with enhanced features and auto-detection. Learn more!
+    ResourceId: iEMi_TIORPX
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11081
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-03-11
+    weight: 790
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: using-build-vnext-capabilities-demands-system
+    aliases:
+    - /resources/iEMi_TIORPX
+    aliasesArchive:
+    - /blog/using-build-vnext-capabilities-demands-system
+    - /using-build-vnext-capabilities-demands-system
+    - /using-the-build-vnext-capabilities-and-demands-system
+    - /blog/using-the-build-vnext-capabilities-and-demands-system
+    - /resources/blog/using-build-vnext-capabilities-demands-system
+    tags:
+    - Azure Pipelines
+    - Software Development
+    - Azure DevOps
+    - Install and Configuration
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-7-7.png
+  BodyContent: |
+    Using the Build vNext capabilities and demands in VSO is one of the new cool features of the vNext build system being developed by Microsoft on VSO.
+
+    #### Download Team Foundation Server 2015 today
+
+    Microsoft has released a CTP of TFS 2015 that includes the vNext build system. You can [download TFS 2015](https://www.visualstudio.com/en-us/downloads/visual-studio-2015-ctp-vs) and try it out today. Remember that this is _not_ a go-live version and you should _not_ install it in production.
+
+    The current build system that shipped in TFS 2005 and has continued through to TFS 2013 and VSO has a tagging system for build agents. You have a Controller that can have many agents attached.
+
+    ![clip_image001](images/clip_image0012-1-1.png "clip_image001")
+    { .post-img }
+
+    Each agent can be 'tagged' with a set of… well… tags…
+
+    ![clip_image002](images/clip_image0023-2-2.png "clip_image002")
+    { .post-img }
+
+    You could then open your build definition and add tags that would match the server. You had a "match exactly" or "match any" option.
+
+    With Build vNext we get a new system where we add Capabilities to the build agent in the administration section and then add Demands to the build definition that need to match those capabilities. I think that this terminology is a little more specific to the task and make a lot more sense in the context.
+
+    ![clip_image003](images/clip_image0032-3-3.png "clip_image003")
+    { .post-img }
+
+    So what do we get. Well, when you register a build agent you don’t get to configure any of that stuff. You need to go to the Build vNext tab in the administration section of your server and select an agent. You can see the list of System Capabilities listed above. These capabilities are the ones that the build system has automatically detected. It automatically detects things like Visual Studio version and all the paths where stuff from Microsoft is installed. I am sure that there will be more capabilities added dynamically later, and when a cross-platform agent becomes available you can imagine it detecting things like OSX version or Java folder paths.
+
+    I have two agents above and only one of them works. I had a problem with the BLD02 which has Windows Server Technical Preview installed that I have been unable to rectify. It is likely due to the only version of the preview that is available on Azure being 9841 and most testing likely happening on 9871 which is the latest build. But why am I telling you this?
+
+    Well I decided to add the OS version as a capability. I would have liked for the agent to detect this but it is not currently listed. BLD01 is Server 2012 R2 and I want to be able to target builds only to that, or other working, agents.
+
+    ![clip_image004](images/clip_image0042-4-4.png "clip_image004")
+    { .post-img }
+
+    So for each Build vNext Agent I have added a user capability of "OS-Version". On BLD01 I am setting this to "6" to signify 2012 R2, and on BLD02 I am setting it to 10 to signify the technical preview. Now I could be a lot more specific, but this is good enough for now.
+
+    Capabilities added I can now focus on the build definition and how we configure it to use the capabilities.
+
+    ![clip_image005](images/clip_image0052-5-5.png "clip_image005")
+    { .post-img }
+
+    With the current incarnation of Build vNext only available on VSO and at the moment only for early adopters you may see the tab in VSO or you may not. If you don’t, then hang tight and it will be along in a bit.
+
+    You can now [create a Build vNext build definition](http://nkdagility.com/create-a-build-vnext-build-definition-on-vso/) and configure the capabilities as you see above. On the General tab there is a list of Demands for this particular build and the system has added a few for itself. Because we have used the Visual Studio Build and VSTest tasks we get demands for both Visual Studio and VSTest to at least exist. Note that this does not specify the version of the tool, just the tool itself.
+
+    If you click the "Add demand" button you will get a new editable blank row where you can enter your own. Here I am adding my "OS-Version" with an "equals" operator and a 6 as the value. That six should make sure that only Build Agents that have a Capability of Server 2012 R2 are used for this build.
+
+    ![clip_image006](images/clip_image0062-6-6.png "clip_image006")
+    { .post-img }
+
+    If there is no matching build agent then you will be warned when you try to queue the build.
+
+    ### Conclusion
+
+    The new capabilities and demands system in Build vNext gives us the same features as the old tagging system but makes a lot more sense in context. Additionally with the new web interface and the auto detection on the agent of many of the needed values the whole process gets a lot simpler.
+
+    I am looking forward to more cool features in Build vNext.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-11-using-build-vnext-capabilities-demands-system\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-11-using-build-vnext-capabilities-demands-system
+- FrontMatter:
+    title: Create a Build vNext build definition
+    description: Learn how to create a Build vNext definition on VSO with this comprehensive guide. Enhance your CI/CD process and streamline your development workflow!
+    ResourceId: ey-p-MBUzgQ
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11047
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-03-04
+    weight: 640
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: create-a-build-vnext-build-definition-on-vso
+    aliases:
+    - /resources/ey-p-MBUzgQ
+    aliasesArchive:
+    - /blog/create-a-build-vnext-build-definition-on-vso
+    - /create-a-build-vnext-build-definition-on-vso
+    - /create-a-build-vnext-build-definition
+    - /blog/create-a-build-vnext-build-definition
+    - /resources/blog/create-a-build-vnext-build-definition-on-vso
+    tags:
+    - Software Development
+    - Azure Pipelines
+    - Azure DevOps
+    - Continuous Integration
+    - Install and Configuration
+    - Azure Repos
+    - Modern Source Control
+    - Windows
+    - Internal Developer Platform
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-26-26.png
+  BodyContent: |
+    I am going to show how to create a Build vNext build definition on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alfa of the service available for that program and I have been giving it a spin.
+
+    #### Download Team Foundation Server 2015 today
+
+    Microsoft has released a CTP of TFS 2015 that includes the vNext build system. You can [download TFS 2015](https://www.visualstudio.com/en-us/downloads/visual-studio-2015-ctp-vs) and try it out today. Remember that this is _not_ a go-live version and you should _not_ install it in production.
+
+    Now that we have [configured a Build vNext agent](http://nkdagility.com/configure-a-build-vnext-agent-on-vso/) we can get on with the job of creating a build. I had hoped that for my [demo at NDC London last month](http://nkdagility.com/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome/) that I would have been able to use this but it took an extra month for the product team to get the Alfa ready. This is really just part of the realities of software development that we can't know how long something will take until its done.
+
+    ![Create a vNext Build on VSO](images/clip_image001-1-1.png "Create a vNext Build on VSO")
+    { .post-img }
+
+    There are a number of out-of-the-box templates available and I believe that there will be more by launch. For my FabirikamFiber site I will be using the standard "Visual Studio" definition.
+
+    ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+    { .post-img }
+
+    You will get dropped out at Build tab of the "New Visual Studio definition 1" definition that has been created for you. Here you can add new tasks and configure them, which we will discuss in a moment.
+
+    ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+    { .post-img }
+
+    This has not yet been saved, so the first thing I am going to do is save my detention with a little more memorable name.
+
+    ![clip_image004](images/clip_image004-4-4.png "clip_image004")
+    { .post-img }
+
+    Back at the "Task" list you can click "Add new task" to get a list of all of the available tasks. This is probably pretty close to the list of tasks that we will see initially when the preview becomes more generally available and it is extensive:
+
+    - **Android Build** - Run an Android build using Gradle and optionally start the emulator for unit tests.
+      ![clip_image005](images/clip_image005-5-5.png "clip_image005")
+      { .post-img }
+    - **CMake** - Cross platform build system. I have never used it but it really does sound handy.
+      ![clip_image006](images/clip_image006-6-6.png "clip_image006")
+      { .post-img }
+    - **Cmd Script** - Run a Windows cmd or batch script and optionally allow it to change the environment
+      ![clip_image007](images/clip_image007-7-7.png "clip_image007")
+      { .post-img }
+    - **Jake** - Javascript build tool, similar to Make or Rake. Built to work with Node.js
+      ![clip_image008](images/clip_image008-8-8.png "clip_image008")
+      { .post-img }
+    - **MSBuild** - Build with MSBuild; In the pre-2010 builds everything was done in MSBuild and in 2010+ (XAML Builds) these build types were only supported in the legacy build template, "UpgradeTemnplate.xaml". You do not need Visual Studio installed to execute this, but your compilation might.
+      ![clip_image009](images/clip_image009-9-9.png "clip_image009")
+      { .post-img }
+    - **Visual Studio Build** - This build is executed through Visual Studio and should run in the same way that it would locally.
+      ![clip_image010](images/clip_image010-10-10.png "clip_image010")
+      { .post-img }
+    - **VSTest** - You can run tests using the Visual Studio Test Runner. This runner will load tests from any framework that has a test adapter so it supports; MS Test, jUnit, xUnit, mbUnit, and others.
+      ![clip_image011](images/clip_image011-11-11.png "clip_image011")
+      { .post-img }
+    - **Xcode Build** - This task allows you to build an Xcode project with the xcodebuild tool. Microsoft has had a new strategy for a while to support everyone else's stuff and as they release new versions of their products is it becoming more and more obvious that this is no longer a case of lip service.
+      ![clip_image012](images/clip_image012-12-12.png "clip_image012")
+      { .post-img }
+    - **PowerShell** - Need to run a PowerShell? In TFS 2013 the build workflows were simplified to allow PowerShell both post and pre build as well as post and pre-test. Now you can insert a task any place you like in the build process. PowerShell will let you do anything from moving files around to manipulating the build numbers.
+      ![clip_image013](images/clip_image013-13-13.png "clip_image013")
+      { .post-img }
+    - **Process Runner** - Is the logic that you need to run wrapped up in an executable? Use the Process Runner to execute any executable process.
+      ![clip_image014](images/clip_image014-14-14.png "clip_image014")
+      { .post-img }
+    - **Azure Cloud Service Deployment via PowerShell** – Just like the old Xaml templates to do the same job here is a pre-configured PowerShell command to do the deployment. You can always create a customer PowerShell is you need it, but this is a helper.
+      ![clip_image015](images/clip_image015-15-15.png "clip_image015")
+      { .post-img }
+    - **Azure PowerShell** – Do you ever feel the need to run some PowerShell on one of your servers as part of a build? I don't, as I use Release Management for environmental bits, but if you have an immature build process you may need this.
+      ![clip_image016](images/clip_image016-16-16.png "clip_image016")
+      { .post-img }
+    - **Azure Web Site Deployment via PowerShell** – I just want to deploy my website to azure! Well here you you go.
+      ![clip_image017](images/clip_image017-17-17.png "clip_image017")
+      { .post-img }
+
+    This is just the list that is available in the preview, which is alfa. The plan, as I currently understand it, is to make this extensible so that you can create any sort of tasks that you like and have them listed in the system. At the moment however there is no way to do this and I am not sure when this will happen.
+
+    ![clip_image018](images/clip_image018-18-18.png "clip_image018")
+    { .post-img }
+
+    The second tab is the "Options" tab. This is a list of general options that applicable to any build that you would run. Here we can select:
+
+    - **MultiConfiguration** - This allows us to build more than one configuration as part of the same pass. You can even elect to run them in parallel. You just enter the same name that you have in the configuration pick-list in Visual Studio to either build more than one, or something other than the default. I have used this before to have websites built locally use different parameters than those built on the server. That way I can have my local developer setting built by default, and then have things like the connection string replaced at compilation time with a generic "\_\_connectionStrong\_\_" value for Release management.
+    - **Copy to Staging Folder** - In previous versions of Team Build this was more or less a non-optional step as the VS Test platform needed all of the files copied to the staging location for testing. Now you can control both what files are picked up and where to. This will be very useful for output that is not the traditional "bin" output.
+    - **Create Build Drop** - You might ask why you would not want to have a build drop created but I have seen this for teams with large output and many CI's. I may not need all the output. The traditional option here is to drop everything onto a network share with a UNC path. However TFS 2012 introduced the concept of a "Server drop". This is where the build output is stored as a zip files inside TFS. The advantage to this is that you have one location to backup as the build output is an organisational asset. I prefer server drops every time.
+
+    ![clip_image019](images/clip_image019-19-19.png "clip_image019")
+    { .post-img }
+
+    Currently the new Team Build vNext system only support Git as the source repository, but you can also select Github and point to any repository that you like. Although I have not tried it I believe that it will support any Git repository that uses the same protocols as GitHub. Nice…
+
+    Info: VSO Build vNext has built in support for GitHub builds
+
+    ![clip_image020](images/clip_image020-20-20.png "clip_image020")
+    { .post-img }
+
+    In addition to where to get the source code from you may need to create some custom variables that will be available as part of the build. These would be available in your scripts and any other location. There are some enforced variables and most are configurable.
+
+    You may use this to inject an option like "HardenPlatfrorm" that takes a Boolean option and you can then use that in your scripts and commands to choose wither you apply your application hardening techniques for piracy protection. Allows you to easily turn it off and on per build...
+
+    ![clip_image021](images/clip_image021-21-21.png "clip_image021")
+    { .post-img }
+
+    At the moment the only trigger available is "Continuous Integration" or CI. I would expect in the future to maintain the ability to Schedule builds as well and I really like the fact that you select it with a check-box rather than a radio-button. That bodes well for the future.
+
+    ![clip_image022](images/clip_image022-22-22.png "clip_image022")
+    { .post-img }
+
+    "General" configuration contains the last few nuggets of usefulness. First is the pre-defined default queue and maybe a description for the build. I am hoping that we can dynamically update the build number from within the tasks as this is what the majority of my customers want. It just makes sense, to me, to be able to have the build number reflect the version of the code that is being built.
+
+    For TFVC I normally change the build number to be something like "1.3.$(YY)$(DayofYear)$(rev:.r)" which would produce something like "1.3.15001.1" as the build number. I would then have a PowerShell that stripped that build number and used it for the DLL's and the Nuget packages that are produced as part of the build. This works great when we have a single build definition per branch.
+
+    However, for Git we need something a little different. With Git builds we build all branches (potentially) with the same build definition. So here we want to have a file checked into the branch that has the filter above so that it can be different per branch. That means that the first thing that we need to do as part of the build is to have a PowerShell execute that reads that file and changes the build name in TFS to match. We will see if that is possible in the new build system as it was hard, but not impossible, in the old one.
+
+    ![clip_image023](images/clip_image023-23-23.png "clip_image023")
+    { .post-img }
+
+    Finally, a much requested feature. Most folks want to do a little bit of audit on their build configuration as from some reason folks go in there and change stuff. Now you will know not only who did the change but what they changed. Just above the entry is a little "Diff" button…
+
+    ![clip_image024](images/clip_image024-24-24.png "clip_image024")
+    { .post-img }
+
+    …Where you get a full diff of the configuration changes that were made between edits. This makes it really easy to see what was changed and the comment should give you an idea of why. Here you can see that I added a trigger of type 2 (CI).
+
+    ![clip_image025](images/clip_image025-25-25.png "clip_image025")
+    { .post-img }
+
+    You now have a build definition configured and you can queue a new build. You can see the Associated commits and other information coming in immediately and there is a new real-time (kinda) command window where it shows the status of the build as it executes.
+
+    ### Conclusion
+
+    All in all I am very impressed with the current system. My only issue, as you see the build failed above, is that I get a PowerShell version miss match during execution. This may be due to me using Windows Server Technical Preview as by build platform and I have reached out to the awesome build guys to find out what the issue is. In the mean time I will likely build out a Server 2012 R2 to do more testing…
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-04-create-a-build-vnext-build-definition-on-vso\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-03-04-create-a-build-vnext-build-definition-on-vso
+- FrontMatter:
+    title: My journey into Professional Scrum
+    description: Explore my journey into Professional Scrum and discover how agile practices can transform software development and enhance business agility. Join me!
+    ResourceId: PqEhZ1JIcDe
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11115
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-02-04
+    weight: 415
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: journey-professional-scrum
+    aliases:
+    - /resources/PqEhZ1JIcDe
+    aliasesArchive:
+    - /blog/journey-professional-scrum
+    - /journey-professional-scrum
+    - /my-journey-into-professional-scrum
+    - /blog/my-journey-into-professional-scrum
+    - /resources/blog/journey-professional-scrum
+    tags:
+    - Agile Transformation
+    - Professional Scrum
+    - Pragmatic Thinking
+    - Software Development
+    - Agile Frameworks
+    - Organisational Agility
+    - Business Agility
+    - Product Delivery
+    categories:
+    - Scrum
+    preview: nakedalm-experts-professional-scrum-5-5.png
+  BodyContent: |
+    It has been just over a year since I returned from 3 years in the USA and started naked ALM Consulting, and things are going well.. So far. The key to success in software development is, I believe, Professional Scrum.
+
+    A move into consulting was the next logical step for my career back in 2010 when I went to work for Adam Cogan's SSW in Sydney Australia. Here I learned to work in a team, Scrum, and how to be a Professional Scrum Developer. I also learned how to work remotely, as I lived a full 11 hours difference from the office.
+
+    <table class="table table-hover table-condensed table-bordered"><tbody><tr><td><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image001" src="images/clip_image0014-1-1.png" alt="clip_image001" width="64" height="64" border="0"></td><td><h4><a href="http://nkdagility.com/training/courses/professional-scrum-developer/">Professional Scrum Developer</a></h4><p>PSD13 | 3 Days | Intermediate | Programmers, Testers</p></td></tr></tbody></table>
+
+    The PSD was my introduction to the Scrum world and it changed my outlook on software development in a profound way. I no longer hated all the project managers that I had ever worked with, instead I realised that they were just doing what everyone else was doing.
+
+    After my stint at SSW I moved to Bellevue, Washington to work with the premier ALM Consultancy in the USA, Northwest Cadence. In my 3 years at Northwest Cadence I honed my consulting skills and learned how to both build and deliver training material. I created and delivered training in Scrum and Visual Studio ALM. In early 2011 I upped my Scrum game and became a Professional Scrum Training adding the Professional Scrum Master course to my repertoire.
+
+    <table class="table table-hover table-condensed table-bordered"><tbody><tr><td><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image002" src="images/clip_image0025-2-2.png" alt="clip_image002" width="64" height="64" border="0"></td><td><h4><a href="http://nkdagility.com/training/courses/professional-scrum-master/">Professional Scrum Master</a></h4><p>PSM13 | 2 Days | Advanced | Scrum Masters, Project Managers</p></td></tr></tbody></table>
+
+    Northwest Cadence had their own, home build, training for ALM, and I delivered the PSF both publically for training organisations and privately for customers.
+
+    > Martin is a pragmatic scrum coach and a great presenter. His teaching style stirs enthusiasm and collaboration, making the training very engaging and pleasant.  
+    > \-Hamid Zar, Director of Engineering at Mitchell International
+
+    Scrum.org then came out with a very interesting course that every single one of the Professional Scrum Trainers could deliver. The Professional Scrum Foundations was the most unique course that I have ever taught. Developed by David Starr, it provided a practical look for participants at not just how to do Scrum but why it works.
+
+    <table class="table table-hover table-condensed table-bordered"><tbody><tr><td><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image003" src="images/clip_image0034-3-3.png" alt="clip_image003" width="64" height="64" border="0"></td><td><h4><a href="http://nkdagility.com/training/courses/professional-scrum-foundations/">Professional Scrum Foundations</a></h4><p>PSF13 | 2 Days | Beginner | Stakeholders, Managers, Development Team, Product Owners, Scrum Masters</p></td></tr></tbody></table>
+
+    My first ever teach of this course was my most awesome experience of teaching to date. The attendees of the private teach in Park City, Utah were from varying backgrounds, from coders and testers, to warehouse managers and executives. We all learned something and teaching this course showed me the value of training everyone in your organisation. There is so much value in level setting everyone that I don’t price the course per student, and instead charge a flat rate for up to 30 people.
+
+    > Martin did Scrum training for Backcountry through Scrum.org for three days and I must say it was very useful three days for us. The whole team of about 50+ people thoroughly enjoyed the training and got a lot out of it. In addition to great material and exercises Martin had a great style of delivery and won the respect of everyone including our engineers, which is a big deal.  
+    > \- Charanjeet Singh, CIO at Backcountry.com
+
+    In the end though my time at Northwest Cadence came to an end and I headed back to Scotland and started naked ALM Consulting. For the last 15 months I have been working around Europe as a consultant in the ALM (Application Lifecycle Management) domain. This domain is complex and consists of many moving parts. There are so many technologies to understand and learn that it is a very tight knit community.
+
+    I learned early that while tools are awesome, especially Team Foundation Server, tools do not solve problems. Only people can solve problems. And problems are rarely about technology. Given a significantly difficult technical problem and smart people who are allowed to experiment, they will inevitably engineer themselves a solution. However almost 100% of problems for software teams are cultural. They are the "way that things are done here" and process and practices (or lack thereof) is the fundamental unit of impediment for any organisation. It is hard to walk that fine line between too little and too much process and most organisations get it wrong.
+
+    The solution is easy to understand but hard to implement:
+
+    - You need professionals individuals. That is, you need Professionals that can learn new techniques and that are open mined enough to adapt their solutions to the situation at hand. You don’t want closed minded individuals that that will carry on doing the wrong thing because "that’s the way things are done here" or continuously use the phrase: "that will not work here".
+    - You need professional teams. People that will work together in groups, self-organising around the problems to be solved and taking accountability and responsibility for the work that they deliver.
+
+    All of this will result in a greater degree of business agility allowing your organisation to consistently and continuously deliver high quality software that is of value to your customers. I have realised that it is time for a Profession of Software Development to be formed in this world of modern application delivery. There is no room for the cowboy anymore and those organisations out there that are doing this agile thing well are innovating their way around all of their competition.
+
+    What works well for the team does not necessarily work well for the rest of the organisation an there are many cookie cutter approaches to delivering Scrum at Scale and in most cases they fail. Why? I fully believe that these cookie cutter approaches were developed in good faith and did indeed work somewhere. However, the culture of every organisation is different and the idea that the same approach will work at every organisation is naive at best, and nefarious at worst. Each company must create its own path from where they are towards greater business agility.
+
+    <table class="table table-hover table-condensed table-bordered"><tbody><tr><td><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="clip_image004" src="images/clip_image0044-4-4.png" alt="clip_image004" width="64" height="64" border="0"></td><td><h4><a href="http://nkdagility.com/training/courses/scaling-professional-scrum/">Scaling Professional Scrum Workshop</a></h4><p>SPS14 | 2 Days | Intermediate | Development Managers, Coaches, Facilitators, Change Agents, Leaders</p></td></tr></tbody></table>
+
+    Scrum is but a framework around which your team can build the processes, practices, and tools that best suit your organisation, its strategy, its people, and its customers. That’s why it’s a framework and not a methodology. That same framework, along with evidence-based techniques can be used at the organisational level to incrementally and continuously move your organisation down the path to greater business agility. This is not a path along which we know our destination, but with a rough strategic vision we can keep moving in the right direction and occasionally consulting the compass. I recently attended the trainer-prep of the Scaling Professional Scrum workshop and found it enlightening in enshrining that understanding of "no one size fits all" when it comes to agility.
+
+    These are the things that I have learned with Professional Scrum. What have you learned?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-02-04-journey-professional-scrum\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-02-04-journey-professional-scrum
+- FrontMatter:
+    title: Managing your Azure VM's with your Phone
+    description: Manage your Azure VMs effortlessly with your phone! Discover how the Mobile Azure Manager app simplifies cloud management on the go. Save time and costs!
+    ResourceId: N-rk9OlMyUm
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11152
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-01-28
+    weight: 940
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: managing-azure-vms-phone
+    aliases:
+    - /resources/N-rk9OlMyUm
+    - /resources/blog/managing-your-azure-vm-s-with-your-phone
+    aliasesArchive:
+    - /blog/managing-azure-vms-phone
+    - /managing-azure-vms-phone
+    - /managing-your-azure-vm's-with-your-phone
+    - /blog/managing-your-azure-vm's-with-your-phone
+    - /resources/blog/managing-azure-vms-phone
+    - /resources/blog/managing-your-azure-vm-s-with-your-phone
+    tags: []
+    categories:
+    - Uncategorized
+    preview: nakedalm-windows-logo-7-7.png
+  BodyContent: |
+    I have been doing quite a bit of [ALM Training](http://nkdagility.com/training/) recently and have been trying to figure out how best to manage my training VM's.
+
+    [Download Mobile Azure Manager from US Store](http://www.windowsphone.com/en-us/store/app/mobile-azure-manager/5fa3d0e0-181c-4d0b-ad2c-e5b08d4658b6)
+
+    [Download Mobile Azure Manager from UK store](http://www.windowsphone.com/en-gb/store/app/mobile-azure-manager/5fa3d0e0-181c-4d0b-ad2c-e5b08d4658b6)
+
+    In the last few months I have taught both the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) and [TFS 2013 Developer Fundamentals](http://nkdagility.com/training/courses/tfs-2013-developer-fundamentals/) a number of times and this week was no exception. I was in Luton with an awesome customer getting their coders up to speed with the features in TFS 2013. For all of the ALM courses I [create training machines in Azure](http://nkdagility.com/creating-training-virtual-machines-azure/) based on the Microsoft provided all in one demo box. I have a number of PowerShell scripts for setting up, shutting down and starting up the VM's.
+
+    However, at the end of my course I am usually heading to the airport and don’t sometimes have time to run the PowerShell required. You can only execute one command at a time and shutting down each VM takes a few minutes… with 7-14 VM's to shutdown, that can take some time.
+
+    ![clip_image001](images/clip_image0016-1-1.png "clip_image001")
+    { .post-img }
+
+    Managing your virtual machines and cloud services now becomes a piece of cake using the Mobile Azure Manager! Easily start and stop your Virtual Machines on the go and keep track of the virtual machines core information. Reducing your cloud services costs has never been easier before!
+
+    ![clip_image002](images/clip_image002-2-2.jpg "clip_image002")
+    { .post-img }
+
+    I went searching for a solution and found the Mobile Azure Manager in the store. This is a fantastic app that does exactly what I need. You can manage individual virtual machines as well as whole Cloud Services. Indeed, you can create a groups. You start by adding a subscription, here is my default one above, and it shows some nice overview information for it. You can see that I had my default 20 cores increased to 64, which is for spinning up fast demo machines.
+
+    ![clip_image003](images/clip_image003-3-3.jpg "clip_image003")
+    { .post-img }
+
+    If you hit Virtual Machines then you get a simple flat list of all of your VM's within that subscription. You can quickly, depending on your internet speed, head down that list and stop or start any one of your VM's. If you stop one it will be de-allocated, so you will get a new IP when they are started. The app also tries to have a go at calculating the cost. However I have found it to be inaccurate and have fed that back to the support team.
+
+    The support team are awesome. I have had every one of my questions and issues dealt with quickly and efficiently.
+
+    ![clip_image004](images/clip_image004-4-4.jpg "clip_image004")
+    { .post-img }
+
+    Your Cloud Services list is similar to your VM list, however each entry may represent more than one entity. When you start and stop at this level you need to be aware that you are stopping the whole thing. Fantastic if you have large groups of machines configured for training as I have.
+
+    ![clip_image005](images/clip_image005-5-5.jpg "clip_image005")
+    { .post-img }
+
+    My favourite feature is the Groups. I had been creating multiple VM's in a single Cloud Service for training but I found that this makes it difficult to RDP to the machines. You effectively need to know the auto generated RDP port for each VM. This is because a single Cloud Service gets a single URL ( mycloudservice.cloudservice.com ) which means that you need to map ports to machines. Azure takes care of this complexity, but now you need to know the port for each VM rather than just the name of the Cloud Service.
+
+    But if we create separate Cloud Services, and add a 3389 mapping, we now loose the single entity for stopping or deleting all of the VM's later. Groups to the rescue.
+
+    ![clip_image006](images/clip_image006-6-6.jpg "clip_image006")
+    { .post-img }
+
+    They will even try to figure out what the machines contained within the group will cost you per hour. I believe that this figure is an order of magnitude out as these machines should cost me a $1 per day, not per hour. A small bug that I have reported.
+
+    ### Conclusion
+
+    This application is just perfect for what I am doing and I think if you have any azure assets it can be of use to you. If you are regularly stopping and starting machines or cloud services you can.
+
+    I was able to turn all my D2 VM's that I used for a training session (7 machines) off on the way to the airport and saved more than the cost of the application.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-28-managing-azure-vms-phone\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-28-managing-azure-vms-phone
+- FrontMatter:
+    title: The benefits of Visual Studio Online for the Enterprise
+    description: Discover the advantages of Visual Studio Online for enterprises. Learn how it enhances agility, streamlines processes, and supports cloud-based development.
+    ResourceId: raLa_TzImU3
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11158
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-01-26
+    weight: 690
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: benefits-visual-studio-online-enterprise
+    aliases:
+    - /resources/raLa_TzImU3
+    aliasesArchive:
+    - /blog/benefits-visual-studio-online-enterprise
+    - /benefits-visual-studio-online-enterprise
+    - /the-benefits-of-visual-studio-online-for-the-enterprise
+    - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
+    - /resources/blog/benefits-visual-studio-online-enterprise
+    tags:
+    - Azure DevOps
+    - Release Management
+    - Software Development
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-6-6.png
+  BodyContent: |
+    I last posted on [why you should use Visual Studio ALM](http://nkdagility.com/why-should-i-use-visual-studio-alm-whether-tfs-or-vso/) due to a customer ask, and now I have been asked to justify a move to Visual Studio Online for a company looking to use it for about 5,000 people.
+
+    I had been concerned of late by the number of organisations implementing solutions without really understanding the benefits of what they have and what they will lose in the move. I used to do a bunch of Developer Tools Deployment Planning Services (DTDPS) engagements for Microsoft (you need to go through a Gold ALM Partner) and I would do the analysis for organisations. As you need at least 3 people to be an ALM Gold partner I have been working through 'proxies' to deliver these benefits in Europe.
+
+    At my current customer I have been asked to do a presentation on "Why they should move to VSO?". Now, this is not a small company, with over 2000 programmers, not to mention testers, managers, and all the other folks involved in software development. They are currently mid-way through moving to TFS 2013, and are interested in the cloud. There are a number of benefits, as well as some missing features, when you look at VSO compared to TFS, so let's take a look.
+
+    ### Overview of VSO features
+
+    Visual Studio Online provides a number of benefits in addition to all of the bits that you get out of the box with TFS. You get an integrated Build Service, where Microsoft provide a dynamic build just for you. What they effectively do is provide a pool of pre-configured build agents. These agents have all of the Microsoft, as well as some third party, tools installed. When you queue a build one of the ready agents is attached to your account and the build executed. After your build has completed it is scrubbed and a new agent added to the pool. Safe, scalable builds.
+
+    Note: You can also setup your own Azure, AWS, or local VM's to run your build agents and connect them to VSO. This mode will likely suit enterprises better as you get to install whatever you like on the agents.
+
+    ![clip_image001](images/clip_image0017-1-1.png "clip_image001")
+    { .post-img }
+
+    The next two services can be used with TFS as well, but the systems are only available in the cloud. The Load Testing Service allows you to use azure infrastructure to execute massive amounts of load tests from around the world with little or no setup. Just create a load test in the normal way in Visual Studio, there is also a new web-based experience, a give it to Azure. You can simulate up to 2.5 million simultaneous users from around the world.
+
+    Application Insights is an analytics application that you can use to monitor usage and performance of your applications. On your client application you can monitor it with a simple SDK, and add features and paths through your application. On the web there is JavaScript to monitor clicks and usage there. The real power, however, is that you can also install a monitoring agent onto your server and monitor the server for load and performance. Since you have all this data in one system, and it's from the TFS team, it will correlate all of the data so you could look at CPU usage on your server by feature usage in your application. Let's run a load test and see how our application performs.
+
+    This is invaluable, and helps you answer that very important question:
+
+    "What percentage of my features are my customers using, and what features should I not continue to invest in."
+
+    We also get hosted Release Management to allow us to [build a release pipeline](http://nkdagility.com/create-release-management-pipeline-professional-developers/) and deploy the output of our builds. This will allow us to manage which builds end up where, and to track what is in our builds. RM will build a report of which features have been delivered to which environment so that we always know what is going on.
+
+    You can also use a local Release Management server and connect it to VSO. This would allow you to also use the old, but still supported, Agent based deployments.
+
+    Release Management has the capability to permission who can deploy to what environments and also to solicit approvals from the appropriate person for the appropriate stage.
+
+    Due to the way the current version of the agent communicates the VSO version of RM only currently supports agent-less deployment.
+
+    If you are partial to continuous delivery you also get access to a new build template that lets you do Continuous Deployment to Azure for all of your azure applications. This should speed up your ability to get constant feedback as each and every build gets pushed and made available.
+
+    ### Benefits of VSO
+
+    Those are features, but features are not the immediate value of being on VSO over a standard TFS server. These benefits should allow you to be a lot more agile and progressive in your rollout of new features and now that both the TFS team themselves, and more recently the Windows team, have moved to VSO there is no dough that it can support the scale that is within the context of this post.
+
+    ![clip_image002](images/clip_image0026-2-2.png "clip_image002")
+    { .post-img }
+
+    VSO is always kept up to date. The reality of the modern application lifecycle is that we all need to adapt more frequently. In the past organisations moving towards a greater degree of business agility have run into something of a glass ceiling where tools, especially enterprise tools, are concerned. As the majority of enterprises are only just waking up to the need for greater agility, most tool vendors have nowhere near the level of flexibility to keep up with what is a small minority of their customers. This gap has widened significantly over the last decade as those already at business agility are totally out-pacing those without. Subsequently tool vendors have started to loose relevance and customers as they fail to meet the new business needs.
+
+    If you read their [engineering story](http://stories.visualstudio.com/) you can see, at the realisation of their continued progress towards irrelevance, the TFS team turned it all around and moved to a ship cycle where they are delivering new features to production every singe 3 week Sprint. This is an incredible turnaround and the journey to get there was littered with dead ends and mistakes, however the team have risen to the challenge and evolved their processes and practices to move into a modern application lifecycle rather than the multi-year cycle they had previously been under. So successful have they been that Microsoft is rolling out these changes to their other products as well.
+
+    It's not all sweetness and light. Your organisation will need a substantial cultural change to be able to get to the level of [business agility](http://nkdagility.com/experts/business-agility/) described here. This is hard and generally disruptive in the short term. Most enterprises fail because they lack the courage to continue with the changes in the face of overwhelming resistance within the organisation. "that’s not the way we do thing here" will start to fill you with the same horror that has plagued process consultants since time began.
+
+    There is however, depending on the end user use, a difficulty in getting users to accept delivery on the newer cadence. I like what the Windows team are trying to do with Windows 10, they just don’t 'get it' yet. So TFS moved from an on-premises only product to Visual Studio Online where they can ship new features every three weeks and get feedback from over a million users instantly.
+
+    The value that an enterprise gets is flexibility. They now have access to a product that they no longer have to worry about getting behind on versions, nor wither the product has the right features. If the customers are continuously shaping the product at the other end of the adoption curve, then by the time the enterprise starts using it wholesale it is just there, and ready to use. No waiting. No deployment costs… just there.
+
+    As you will always have the latest version you will see features that you use be incrementally improved or even dropped as feedback and usage data is acted upon. You become a stakeholder in the overall product and as such you should provide as much feedback at as many levels as possible to make sure that VSO meets you needs. This is the trade-off. You no longer have to support servers or low level product management. You don’t lose time to
+
+    And for the more troublesome teams within an enterprise, you know… the ones that want to use continuous delivery or
+
+    Git now, the features that they need are there already. So not only do you have a single unified product that supports the majority of your teams, even the more progressive teams get what they want. Indeed with the integrations of Azure into the mix even the dream of self-service development teams, and thus the ultimate DevOps experience is attainable for those teams that are ready.
+
+    Accessing VSO from anywhere is a key feature of the SAAS (Software as a Service) experience. You also gain full access, with no VPN getting in the way, from anywhere in the world. You can easily secure VSO so that only Active Directory users can access your work and [integrate that with your on-premises AD through Azure Active Directory](http://nkdagility.com/use-corporate-identities-existing-vso-accounts/). You can configure seamless single-sign on so users don’t even have to enter their credentials and, if you so choose, you can add external users as external entities (foreign principals) rather than having an additional account to create and maintain.
+
+    There have been two major outages of VSO in the last 2 years and a few smaller ones. Each outage was under 8 hours and still within the three nines service level agreement that Microsoft provides. However the instant it happens the very best people, those that actually developed the components are on the case.
+
+    - [Explanation of July 18th outage](http://blogs.msdn.com/b/bharry/archive/2014/07/31/explanation-of-july-18th-outage.aspx)
+    - [Retrospective on the Aug 14th VS Online outage](http://blogs.msdn.com/b/bharry/archive/2014/08/22/retrospective-on-the-aug-14th-vs-online-outage.aspx)
+    - [Outage on Monday Nov-24](http://blogs.msdn.com/b/bharry/archive/2014/12/03/outage-on-monday-nov-24.aspx)
+
+    All of this allows you to focus on using the tool and not supporting it. Support of the platform is handled by Microsoft and this lets you focus on learning the capabilities of the tool and implementing them. With over a million users on VSO, and at least two major applications within Microsoft already using it in production the likelihood of you finding an issue that they have not is a little like winning the lottery.
+
+    There is also a new monthly subscription model, in addition to the MSDN you already have, available for users that are either periodic, or non-technical. Why should you have to buy an MSDN licence for your project managers or portfolio managers. Now you don’t have to, you can buy a monthly advanced licence for them. With this you can even give access to the testing tools to record the efforts of sustained user acceptance testing as well.
+
+    ### Missing features in VSO
+
+    There are still a number of features that are available in TFS that are not currently available on VSO. This is due to technological and scale limitations and Microsoft is working to negate them. Each sprint they deliver gets us closer to a more unified experience there. There are however many features of VSO, described above, that will never come to TFS.
+
+    ![clip_image003](images/clip_image0036-3-3.png "clip_image003")
+    { .post-img }
+
+    The most prevalent feature for enterprises that is missing is the ability to customise the process template. This is not available in VSO as the current implementation under the covers is not really scalable or compatible at that level. Work is underway to resolve this and, as you can see above, is on the backlog as a big rock.
+
+    Although I have no special insight into the dates I know that Process Template Customisation in VSO is very high on the Product Teams backlog.
+
+    Counter to that I tend to recommend to customers, especially those with very complex customisations, that this is a good thing. A complex set of customisations implies too much process, or even dysfunctional behaviour in most cases that I have seen. Microsoft is working to build in some choices into VSO to mitigate the issue and Tagging and the Bug on Backlog features are targeted at this very issue.
+
+    #### Mitigate lack of Customisation
+
+    Most teams are using Tags heavily to mitigate for the lack of customisation and are being very successful with this. Outwith that the product team is moving to fill gaps with web based customisation for perticular purposes, like being able to switch between "bug as a task" and "bug on the backlog".
+
+    There is also no data warehouse and cube plugged into VSO and it is currently not possible to do that manually. The team have already delivered features to mitigate this in the form of Charts associated to Queries that can be pinned to the homepage. I would expect to see more in this space.
+
+    #### Tabular Data model
+
+    There is work ongoing to create a Tabular data model that would give you all of the capabilities of the current reporting model and more. This tabular model currently works on TFS and is being updated to work against the REST API for Visual Studio Online and TFS. You would install an analysis services server locally and set VSO as the data source.
+
+    There is no SharePoint integration as there is with TFS. So you get no Documents tab in Team Explorer with direct access to documents and no dynamically configured SharePoint portal associated with your Team Project. For most enterprises this is a non-feature as both of those capabilities are unattainable with their enterprise SharePoint farm. The farm administrators would more likely move to protect their instance rather than integrated with TFS. You can however manually configure Excel Services to connect to the Tabular data model.
+
+    ### Data Security in VSO
+
+    The big issue, particularly in light of the scope of the US Patriot Act, is that of data security. There are a number of recent happening that have moved to mitigate these issues.
+
+    If you have a devision or section of your company registered to trade in the USA then everything is unfortunately mute as the US Security Services can request any data that you have in any data center and you would be required to comply.
+
+    The TFS team have been working on two important things help. The first is the implementation of VSO in the European data centres. You can now choose to have all of your VSO data stored in Europe rather than the USA. A simple solution to the problem of data protection.
+
+    ![clip_image004](images/clip_image0045-4-4.png "clip_image004")
+    { .post-img }
+
+    The second is a move towards industry recognised certification. Initially VSO has [certified for ISO 27001](http://aka.ms/vsosecurity) which will give most customers the warm fuzziness that they need to accept cloud, at least technically.
+
+    Ultimately the only reason not to embrace cloud services and platforms is unsubstantiated fear of change. Again we get bac to "we can't do that here".
+
+    ### Support in VSO
+
+    If you do have issues when using VSO Microsoft offers [99.9% uptime under their SLA](http://www.microsoft.com/en-us/download/details.aspx?id=42290) and you can, as with all of their products, pay for really fast support.
+
+    ![clip_image005](images/clip_image0054-5-5.png "clip_image005")
+    { .post-img }
+
+    These options and support levels allow you to be sure that if you have an issue it will be resolved quickly. Can you make those guarantees with your own infrastructure and your teams supporting TFS?
+
+    ### Conclusion
+
+    If you can get over the cultural issues to moving towards the cloud then there is really no substantiative reason not to be moving towards VSO no matter how large your organisation is. You will save money on licencing and support and drastically reduce the complexity of connecting and keeping the product up to date.
+
+    Take the plunge today and get your [\[company\].visualstudio.com](http://tfs.visualstudio.com) URL today…
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-26-benefits-visual-studio-online-enterprise\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-26-benefits-visual-studio-online-enterprise
+- FrontMatter:
+    title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
+    description: Looking for an expert in Visual Studio ALM, TFS, or Scrum? Martin Hinshelwood is available for consulting and training in February. Connect now!
+    ResourceId: za3YB57XYl0
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11120
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-01-21
+    weight: 840
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: need-expert-visual-studio-alm-tfs-scrum
+    aliases:
+    - /resources/za3YB57XYl0
+    aliasesArchive:
+    - /blog/need-expert-visual-studio-alm-tfs-scrum
+    - /need-expert-visual-studio-alm-tfs-scrum
+    - /do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
+    - /blog/do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
+    - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
+    - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
+    - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
+    tags: []
+    categories:
+    - Uncategorized
+    preview: nakedalm-logo-260-5-5.png
+  BodyContent: |
+    Due to the decimation of the oil prices one of my larger customers has had to cancel our engagement for February. I am suddenly and surprisingly available in February!
+
+    I usually have engagements booked out up to 3 months in advance and that makes for some difficult conversations with potential customers that want me onsite within two weeks. I have been trying to limit any one customer to no more than 2 consecutive weeks to mitigate this, but customers can be demanding. I did have an engagement booked in Oslo for February. I was going to be migrating over 20 Team Projects into a single uber Team Project. I was really looking forward to it… then a barrel of oil dropped to below $50…
+
+    ![clip_image001](images/clip_image0015-1-1.png "clip_image001")
+    { .post-img }
+
+    I have been working with a large customer in the oil and gas industry and if you are following the news you will not be surprised to know that they need to push our engagement back by a few months. It happens…
+
+    **Do you know of anyone looking for an expert in Visual Studio ALM, TFS, or Scrum next month?**
+
+    I have been doing work all across Europe, but I would also be very willing to go further afield, consulting on both Visual Studio ALM and Scrum.
+
+    ## Onsite Training
+
+    I have been teaching both ALM and Scrum courses ac cross the world. More recently in Europe but also in the USA. Most of the courses have been private courses delivered onsite at a customer. This gives me the greatest flexibility as I do not change per student for Scrum course and only £100 per day per student for ALM courses to cover Azure, printing, and licencing costs. The idea is to give the customer the most value and allow you to put as many people as you can into a single instance of the course.
+
+    <table class="table table-hover table-condensed table-bordered"><tbody><tr><td><img title="clip_image004" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="clip_image004" src="images/clip_image0044-4-4.png" width="64" height="64"></td><td><h4><a href="http://nkdagility.com/training/courses/scaling-professional-scrum/">Scaling Professional Scrum Workshop</a></h4><p>SPS14 | 2 Days | Intermediate | Development Managers, Coaches, Facilitators, Change Agents, Leaders</p></td></tr></tbody></table>
+
+    I have a number of [Scrum courses available from Scrum.org](http://nkdagility.com/training/), only the best for my customers, and can deliver them at short notice anywhere worldwide. There is some logistics around these courses, but as there is no technical requirements from my end they can be scheduled quickly.
+
+    <table class="table table-hover table-condensed table-bordered"><tbody><tr><td><img title="clip_image003" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="clip_image003" src="images/clip_image0035-3-3.png" width="64" height="64"></td><td><h4><a href="http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/">Managing Projects with Microsoft Visual Studio Team Foundation Server 2013</a></h4><p>ALMP13| 2 Days | Beginner | Stakeholders, Managers, Development Team, Product Owners, Scrum Masters</p></td></tr><tr><td><img title="clip_image003[1]" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="clip_image003[1]" src="images/clip_image00311-2-2.png" width="64" height="64"></td><td><h4><a href="http://nkdagility.com/training/courses/tfs-2013-configuration-administration/">TFS 2013 Configuration &amp; Administration</a></h4><p>ALMA13| 3 Days | Intermediate | IT Pros, Dev Team Leads</p></td></tr></tbody></table>
+
+    The [ALM Training courses](http://nkdagility.com/training/) are all delivered onsite with course materials and practical labs. I have been delivering quite a few of these recently and as long as you allow RDP connections to Azure I can spin up training machines on very short notice. It current take 20 minutes to make VM's available for 10 students…
+
+    ## Onsite Consulting
+
+    Consulting onsite with customers has been my main activity for over 4 years and this experience allows me to meet my customers' needs quickly. I have often seen the same issues elsewhere, and even when I have not, I am used to working in a time limited fashion. If I have back-to-back engagements with customers, and I book three months out, then there really is no other option but to solve as many issues as possible in the time allotted.
+
+    To mitigate issues I most often engage on the basis of a backlog. We work together to create an initial backlogs of things that we want to achieve in the consulting engagement. That backlog could contain informal training, presentations, discussions, and documentation that you need to be part of the overall delivery. You, the customer, are the Product Owner of that backlog and can order, and re-order, it any time you like. When I come onsite we work through it on a daily cadence and get as much done as possible. Each day we update the backlog with the information we just learned on the preceding day.
+
+    If you are wondering how this works in practice then checkout my [testimonials page](http://nkdagility.com/testimonials/) or my [Microsoft Pinpoint partner](https://pinpoint.microsoft.com/Companies/4299142012) site. I have, so far, never had an unhappy customer.
+
+    ## Conclusion
+
+    I am free to provide consulting, and/or training in February on Visual Studio ALM or Scrum. I am happy to work anywhere in Europe, or even further afield. Training can be done in the USA, but I believe consulting is a little more complicated. But ultimately my question is:
+
+    **Do you know of anyone looking for an expert in Visual Studio ALM, TFS, or Scrum next month?**
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-21-need-expert-visual-studio-alm-tfs-scrum\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-21-need-expert-visual-studio-alm-tfs-scrum
+- FrontMatter:
+    title: Could not load file or assembly while configuring Build vNext Agent
+    description: Encountering 'Could not load file or assembly' errors while configuring the Build vNext Agent? Discover solutions and tips to resolve this issue effectively.
+    ResourceId: zd3C3XiE0H4
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11072
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-01-15
+    weight: 1000
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+    aliases:
+    - /resources/zd3C3XiE0H4
+    aliasesArchive:
+    - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+    - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+    - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+    tags:
+    - Windows
+    - Troubleshooting
+    - Install and Configuration
+    - Software Development
+    - System Configuration
+    categories:
+    - Uncategorized
+  BodyContent: |
+    If you are using Windows Server 2012 R2 to test out the new vNext build agent then you may run into an error where it could not load file or assembly while configuring Build vNext Agent.
+
+    #### Download Team Foundation Server 2015 today
+
+    Microsoft has released a CTP of TFS 2015 that includes the vNext build system. You can [download TFS 2015](https://www.visualstudio.com/en-us/downloads/visual-studio-2015-ctp-vs) and try it out today. Remember that this is _not_ a go-live version and you should _not_ install it in production.
+
+    I have been playing around with the new Build vNext Agent that Microsoft has been developing and I found that I was not able to register the Agent on Windows Server 2012 R2 when I had Visual Studio 2015 Preview installed. Before I installed Visual Studio I had no issues, but once on I got a "Could not load file or assembly" when trying to run the registration.
+
+    ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")
+    { .post-img }
+
+    It looks like there is a version mismatch on the DLL.
+
+    ```
+    Unhandled Exception: System.IO.FileLoadException: Could not load file or assembly 'Microsoft.VisualStudio.Services.Client, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Strong name validation failed. (Exception from HRESULT: 0x8013141A) ---> System.Security.SecurityException: Strong name validation failed. (Exception from HRESULT: 0x8013141A)
+
+    --- End of inner exception stack trace ---
+
+    at VsoAgent.Program.Main(String[] args)
+
+    WARNING: UnConfigure agent finish with Error, you can check logs under _diag folder, determine whether you can ignore the error.
+
+    ```
+
+    I am fairly sure that this is a time limited error and once VS 2015 comes out of Preview, or the DLL versions settle down this will not be an issue, however to fix it for now we need to turn of Strong Naming for .NET at the command prompt.
+
+    ![clip_image002](images/clip_image0022-2-2.png "clip_image002")
+    { .post-img }
+
+    You need to run "sn -Vr \*,\*" on the server to disable strong signing. This should only be the case as part of the current preview program. I would expect this issue to go away with the next release, at least on Server 2012 R2.
+
+    This is only required when you are running Visual Studio 2015 Preview on the Build vNext Agent.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-15-could-not-load-file-or-assembly-while-configuring-build-vnext-agent\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-15-could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+- FrontMatter:
+    title: Configure a Build vNext Agent
+    description: Learn how to configure a Build vNext Agent on VSO with this comprehensive guide. Simplify your build process and enhance your development workflow today!
+    ResourceId: hyJFelRdglq
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11021
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-01-14
+    weight: 640
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: configure-a-build-vnext-agent-on-vso
+    aliases:
+    - /resources/hyJFelRdglq
+    aliasesArchive:
+    - /blog/configure-a-build-vnext-agent-on-vso
+    - /configure-a-build-vnext-agent-on-vso
+    - /configure-a-build-vnext-agent
+    - /blog/configure-a-build-vnext-agent
+    - /resources/blog/configure-a-build-vnext-agent-on-vso
+    tags:
+    - Azure DevOps
+    - Continuous Integration
+    - Azure Pipelines
+    - Windows
+    - Software Development
+    - Install and Configuration
+    - System Configuration
+    - Azure Repos
+    - Internal Developer Platform
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-27-27.png
+  BodyContent: |
+    I am going to show how to configure a Build vNext Agent on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alpha of the service available for that program and I have been giving it a spin.
+
+    #### Download Team Foundation Server 2015 today
+
+    Microsoft has released a CTP of TFS 2015 that includes the vNext build system. You can [download TFS 2015](https://www.visualstudio.com/en-us/downloads/visual-studio-2015-ctp-vs) and try it out today. Remember that this is _not_ a go-live version and you should _not_ install it in production.
+
+    In order to configure one of the vNext Build Agents on your Visual Studio Online (VSO) account you will need to create and configure your own build server. In its current preview state it is not part of the Hosted Build scenario and you have to manage it yourself. Luckily, with your MSDN you get £95 ($150) of VM time on Azure. So spinning up your own machine is free.
+
+    [![clip_image001](images/clip_image001_thumb-1-1.png "clip_image001")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0014-2-2.png)
+    { .post-img }
+
+    The new model in the VSO vNext Build system is not based on the same collection/controller model but instead is based on a "pool" model. You can add an agent to a pool and share a pool across many collections. This removed the old need to have completely separate sets of agents for each collection. Each collection does however get its own queue, which is how it gets access to the agents that belong to a pool. Each of these entities can also be secured… so no more fafing around with controllers and collections.
+
+    [![clip_image002](images/clip_image002_thumb-3-3.png "clip_image002")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0023-4-4.png)
+    { .post-img }
+
+    If you are lucky enough to have access to the new bits (you need to be in the early adopter program for now) then you get an extra tab in the administration of your account that gives you access to the queues and pools. At the moment you get to create new pools that can only be the same name as the first queue that you add to it. You can also add additional queues to an existing pool.
+
+    You can imagine that you would be able to throttle and prioritise queues and also restrict permissions. That way you might be able to have a "release" queue that has restricted permissions on who can push builds to it as well as a priority in the Pool… your release build will get serviced first. We used to have to create all separate controllers and agents to make these sorts of guarantees.
+
+    > Controllers never really gave any guarantee around permissions or even priority due to the way agent reservation worked within the build workflow.Chris Patterson, TFS Build Team
+
+    ### Creating a VM for the VSO vNext Build Agent
+
+    At this time there is no hosted agent option so I will be spinning up a Windows Server in Azure.
+
+    [![clip_image003](images/clip_image003_thumb-5-5.png "clip_image003")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0033-6-6.png)
+    { .post-img }
+
+    I almost never use the "Quick create" for VM's as there are far too many backed defaults that I do not like.
+
+    [![clip_image004](images/clip_image004_thumb-7-7.png "clip_image004")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0043-8-8.png)
+    { .post-img }
+
+    I have been building everything out in Windows Technical Preview of late as I always like to use the latest of everything. While there might be additional risks in using a preview OS I get to know what all of the ins and outs of the new bits will be. Happy to take my lumps for preview bits on preview bits.
+
+    [![clip_image005](images/clip_image005_thumb-9-9.png "clip_image005")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0051-10-10.png)
+    { .post-img }
+
+    As the old agent had a minimum ram of 2GB I thought I should at least have that. I have not seen any documented restrictions for the new agent, but preview documented is always a little loose.
+
+    [![clip_image006](images/clip_image006_thumb-11-11.png "clip_image006")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0061-12-12.png)
+    { .post-img }
+
+    As usual I like to keep thins neat and I am sticking to the single cloud service (resource group) for my infrastructure needs and a build agent fits that perfectly.
+
+    [![clip_image007](images/clip_image007_thumb-13-13.png "clip_image007")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0071-14-14.png)
+    { .post-img }
+
+    No need to install any extensions at this time as we have some manual work to do. Hopefully we can have these bits completed with Chocolatey or OneGet at a later time.
+
+    ### Pre-requisits for VSO vNext Build Agent
+
+    The only required pre-requisite is to have Visual Studio 2013 or 2015 installed which I missed the first time through and ended up with a nasty error.
+
+    [![clip_image008](images/clip_image008_thumb-15-15.png "clip_image008")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0081-16-16.png)
+    { .post-img }
+
+    So If you get a "BrowserFlowException: SP324095: Our service was unable to complete the request" error you need to go back and install Visual Studio 2013 or Visual Studio 2015. This should not be required on the final version but this is an early alpha.
+
+    [![clip_image009](images/clip_image009_thumb-17-17.png "clip_image009")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0091-18-18.png)
+    { .post-img }
+
+    In this case I have installed 2015 as I am primeralily using it now. If your build process needs other custom components then you may want to go ahead and install them yourself. For me I only need VS 2015.
+
+    ### Installing the VSO vNext Build Agent
+
+    We now need to download and configure the agent on the new VM and add it to our default pool on VSO.
+
+    [![clip_image010](images/clip_image010_thumb-19-19.png "clip_image010")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0101-20-20.png)
+    { .post-img }
+
+    Installing is a bit or an over-statement at the moment. It currently involves downloading a zip and running a PowerShell that it contains. To be honest I much prefer the PowerShell option to an MSI one. MSI is dead and we should not encourage its use. PowerShell is the Windows deployment tool of choice.
+
+    [![clip_image011](images/clip_image011_thumb-21-21.png "clip_image011")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0111-22-22.png)
+    { .post-img }
+
+    ```
+    PS C:\VsoWinAgent> .\ConfigureAgent.ps1
+    Security warning
+    Run only scripts that you trust. While scripts from the internet can be
+    useful, this script can potentially harm your computer. If you trust this
+    script, use the Unblock-File cmdlet to allow the script to run without this warning message. Do you want to run C:\VsoWinAgent\ConfigureAgent.ps1?
+    [D] Do not run [R] Run once [S] Suspend [?] Help (default is "D"): r
+    Enter the name for this agent (default is Agent-NKD-INFRA-BLD02):
+    Enter the url for the Team Foundation Server (ex. https://myaccount.visualstudio.com): https://nakedalm.visualstudio.com
+    Configure this agent against which agent pool? (default pool name is 'default'):
+    Enter the path of work folder for this agent (default is the Root Folder of VSOAgent):
+    Would you like to install the agent as a Windows Service (Y/N): y
+    Enter the name of the user account to use for the service (default: NT AUTHORITY\LocalService):
+    Would you like to overwrite any existing configuration (Y/N): y
+    Configuring agent
+    Calling agent configure with /RunningAsService
+    Calling agent configure without /Force
+    Installing service vsoagent.nakedalm.Agent-NKD-INFRA-BLD02...
+    Service vsoagent.nakedalm.Agent-NKD-INFRA-BLD02 has been successfully installed.
+    Creating EventLog source vsoagent.nakedalm.Agent-NKD-INFRA-BLD02 in log Application...
+    Object reference not set to an instance of an object.
+    Configure agent succeeded.
+    Agent is now running as a Windows Service.
+    PS C:\VsoWinAgent>
+
+    ```
+
+    At this point we then have the agent configured as a service and it should start automatically with the server.
+
+    [![clip_image012](images/clip_image012_thumb-23-23.png "clip_image012")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0121-24-24.png)
+    { .post-img }
+
+    Once the agent is started it will show up in your web access administration tab. From here you can configure the capabilities of the server and see a bunch of system detected ones…
+
+    ### Conclusion
+
+    The new build system promises to be both versatile and much simpler than its predecessor. I for one am happy with the new capabilities of the TFS build vnext and this early Christmas present form Chris Patterson is a welcome one…
+
+    [![clip_image013](images/clip_image013_thumb-25-25.png "clip_image013")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0131-26-26.png)
+    { .post-img }
+
+    …thanks Chris!
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-14-configure-a-build-vnext-agent-on-vso\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-14-configure-a-build-vnext-agent-on-vso
+- FrontMatter:
+    title: Creating nested teams in Visual Studio ALM
+    description: Learn how to create nested teams in Visual Studio ALM for better organization and reporting. Enhance your agile processes with expert insights from Martin Hinshelwood.
+    ResourceId: wu1tvjyyrZU
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11068
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-01-13
+    weight: 1000
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: creating-nested-teams-visual-studio-alm
+    aliases:
+    - /resources/wu1tvjyyrZU
+    aliasesArchive:
+    - /blog/creating-nested-teams-visual-studio-alm
+    - /creating-nested-teams-visual-studio-alm
+    - /creating-nested-teams-in-visual-studio-alm
+    - /blog/creating-nested-teams-in-visual-studio-alm
+    - /resources/blog/creating-nested-teams-visual-studio-alm
+    tags:
+    - Software Development
+    - Azure DevOps
+    - Install and Configuration
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-17-17.png
+  BodyContent: |
+    I just got a question on [Teams without areas using Team Field in TFS](http://nkdagility.com/team-foundation-server-2012-teams-without-areas/) and I decided that it warranted a bigger answer. The question was around creating nested teams and how to achieve it. Now, this applies to both Visual Studio Online and Team Foundation Server if you are using area path, and only TFS if you are using Team Field.
+
+    With TFS 2012 the product team introduced the concept of Team. Team is kina like a glorified security group, so it has members which are your team. However we often have some sort of hierarchical, or nested, team structure within our organisation. So let's paint a hypothetical.
+
+    I have a company, Awesomecorp, that is currently working on two major products. They have Omniworks, which is a custom source control solution. And they have Multiplex, which is a document management solution. Each product has a vice president of development and they each have their own development teams working to deliver software.
+
+    ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
+    { .post-img }
+
+    They often have organisation level initiatives and goals that span the entire organisation and do kanban at the executive and portfolio level. Because they did some investigation and understood the issues around multiple team projects they ended up with [one team project to rule them all](http://nkdagility.com/one-team-project/) called "Awesomecorp". They still want to have some way to represent their nested team and product structure so that and want to have a way to segment each of their teams and reporting.
+
+    Lets take the out-of-the-box Area Path approach to the problem… I will augment with notes where the solution differs for Team Field.
+
+    ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+    { .post-img }
+
+    If we were starting from scratch your first job is to create a new team project for Awesomecorp. They will be having only one team project as they are a small-ish company with only two products and five teams. If you had products with many tens of teams then you may want to use the isolation of a Team Project for each. In this case you should create a Team Project Collection for each product, each with a single Team Project. This will give you independent backup and restore, as well as the ability to sell a product and the collection goes with it.
+
+    ![clip_image003](images/clip_image0031-3-3.png "clip_image003")
+    { .post-img }
+
+    Your new virgin team project is bereft of all configuration. Head to the Admin, the cog in the top right, to get started.
+
+    ![clip_image004](images/clip_image0041-4-4.png "clip_image004")
+    { .post-img }
+
+    When you create a team project you always get a single team that is configured as the default. The default team is kina hidden from lists as you select only the team project to select it by default. While this confuses some users it is way less confusing for others who are not interested in teams.
+
+    ![clip_image005](images/clip_image0051-5-5.png "clip_image005")
+    { .post-img }
+
+    Head on over to the Area tab and create your hierarchy for your nested teams. If you want to have a team at a level then you should create a node for that level. Here we have only three levels of teams as per our diagram. Things to note here is that for this team, remember that we are on the default team, there is two key configurations.
+
+    There is a column of check boxes at the start of the area path. If you check a box then you are saying that, for this team, this is the content that is shown in your teams scope. In this case the scope for the default team, which will become the Portfolio team, is everything.
+
+    The second key option here is the "sub-areas are included" option. If you experiment with it you will find that if you say "sub-areas are excluded" then only items that have the exact matching area path will be included. If you say, assigned a PBI to Team 1, it will not be shown if you exclude sub-areas. However, here, we want to include everything for our portfolio kanban boards to flow.
+
+    If you have your Team Project configured for Team Field you will not be able to "include sub-areas" as the list of teams is flat. You can however configure a Team to 'own' multiple values from the team dropdown allowing you to simulate hierarchy and maintain nested teams there.
+
+    ![clip_image006](images/clip_image0061-6-6.png "clip_image006")
+    { .post-img }
+
+    We now need our teams. Here I am creating a Team for each level that I want to manage independently. Make sure that you uncheck the "create an area path with the same name as the team" as I have already created all the Area Paths that we need.
+
+    Once you have all of the teams created we need to look at mapping each of the teams to the respective bit of the hierarchy that they care about. This will give us our virtual nested teams so that we can get the views that we are looking for.
+
+    ![clip_image007](images/clip_image0071-7-7.png "clip_image007")
+    { .post-img }
+
+    This, to be honest is the hard part to understand. The concept of relating this flat team list to the hierarchy that is the Area Path can be a little confusing.
+
+    It gets worse conceptually in that a single team can actually own two nodes! Let's say that we had Team 5 doing work on both Omniworks and Multiplex. We could have two "Team 5" nodes, one under each of the parent node and the team could "own" them both. That team would see a combined backlog and boards that contained all of the items within that scope. And yes, while you have to have a single 'default' you can set "sub-areas are included" differently. It can get a little strange… simple is better.
+
+    If you have Team Field configured the Multiplex team must own "Multiplex", "Team 4", and "Team 5, values in order to simulate the "sub-areas are included" functionality you get with Area Path… this gets old quick if you have a complicated structure.
+
+    ![clip_image008](images/clip_image0081-8-8.png "clip_image008")
+    { .post-img }
+
+    The goal now is to configure each of the teams with the area paths that they own. To do that you need to first select the team that you want to configure.
+
+    ![clip_image009](images/clip_image0091-9-9.png "clip_image009")
+    { .post-img }
+
+    Once selected you will get thrown out to the Overview tab for the Team configuration and at the top of the screen you will see "\[team project\] > \[team\]" displayed to signify we are not looking at the teams configuration.
+
+    Head over to the "Area" or "Team Field" tabs to do the configuration.
+
+    ![clip_image010](images/clip_image0101-10-10.png "clip_image010")
+    { .post-img }
+
+    On the Area tab you should check the box beside the level that you want that team to own. In this case we are owning the "Omniworks" level. Then go and do this for each of the teams in turn… and we are done… Area Path now controls out nested team structure and what our dashboards show.
+
+    [![clip_image011](images/clip_image011_thumb-11-11.png "clip_image011")](http://nkdagility.com/wp-content/uploads/2015/01/clip_image0111-12-12.png)
+    { .post-img }
+
+    Above I am selected on the root team which I have named "Awesomecorp Portfolio Team" and that will show the entire body of work for Awesomecorp. This will be the case for all of the boards as well, so you will see all the work underway in a sprint. At the Portfolio level we are probably only concerned with Features and generally how the PBI's ar3e getting on to achieve them.
+
+    You can have additional levels above Feature, and I have seen Epic, or Goal, Or Imitative. Portfolios concern is above the backlog.
+
+    [![clip_image012](images/clip_image012_thumb-13-13.png "clip_image012")](http://nkdagility.com/wp-content/uploads/2015/01/clip_image0121-14-14.png)
+    { .post-img }
+
+    On the "Omniworks Product Owner" backlog you will see everything from the Omniworks product but none of the Multiplex product work. This lets the owner of the Omniworks backlog focus on prioritising only what they care about. They can view Features that are assigned to them, however in this case none of the features have been assigned to the product, however if I use the "View" option to "look-up" at features the tool will bring in the features that we care about.
+
+    [![clip_image013](images/clip_image013_thumb-15-15.png "clip_image013")](http://nkdagility.com/wp-content/uploads/2015/01/clip_image0131-16-16.png)
+    { .post-img }
+
+    If we select "Omniworks Team 1" we get only the work that has been assigned to that team. With custom boards as well as Sprint Planning and all the other trimmings of managing a team.
+
+    ### Conclusion
+
+    This format gives us a huge amount of flexibility to create and manage work within any agile process as well as supporting non-agile processes as well. If you know your way around the configuration there are many ways to organise and visualise the work that you are doing and still work predominantly within the bounds of the tools.
+
+    This is an fantastically flexible system and I encourage you to play around and figure out what the best configuration for you is.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-13-creating-nested-teams-visual-studio-alm\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-13-creating-nested-teams-visual-studio-alm
+- FrontMatter:
+    title: Why should I use Visual Studio ALM
+    description: Discover why Visual Studio ALM is essential for effective application lifecycle management. Learn key considerations for tool selection and maximize your team's potential.
+    ResourceId: btixjSyu9NI
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 10990
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-01-07
+    weight: 640
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+    aliases:
+    - /resources/btixjSyu9NI
+    aliasesArchive:
+    - /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+    - /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+    - /why-should-i-use-visual-studio-alm
+    - /blog/why-should-i-use-visual-studio-alm
+    - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+    tags:
+    - Application Lifecycle Management
+    - Software Development
+    - Pragmatic Thinking
+    - Working Software
+    - Product Delivery
+    categories:
+    - Uncategorized
+    preview: nakedalm-experts-visual-studio-alm-3-3.png
+  BodyContent: |
+    I see many organisations looking at TFS and trying to make the decision on why should I use Visual Studio ALM. Often you already have some tools and you want to move to TFS, or you have TFS and you are evaluating other tools as part of a reorganisation.
+
+    I was contacted yesterday by a customer that, as part of a reorganisation, is looking to replace Visual Studio ALM with Git and Jenkins. This is very confusing to me as Visual Studio ALM does not equal Git and Jenkins. First, a Git and Jenkins combination provides only a small part of the platform that is Visual Studio ALM. Second, Visual Studio ALM provides Git as part of its platform. So in this case, with a move from Visual Studio ALM to Git and Jenkins we are removing over 90% of our available functionality for only getting whatever the difference between TF Build and Jenkins is. That does not seem like a good comparison, let alone a good decision…
+
+    So what are the considerations when looking at a change to your tooling. There are three key questions that you need to answer:
+
+    - **What am I replacing?** - if you are replacing Visual Studio ALM, HP ALM, or Rational with a simple source and build tool you are not looking at the right comparison.
+    - **What am I getting?** - This is less about core functionality but about the difference. What additional features to I get from the new tooling that I do not have now. It's also important to understand when the current tooling has features that are 'good enough' but the new tooling is better.
+    - **What am I loosing?** - Its critically important to look at what functionality you will lose by moving to new tooling. Consider in that loss what parts of the tool that you are currently using, and also the strategic intent of your organisation. While you may not currently be using some piece of functionality it may be strategically important to the future direction.
+
+    There is a lot more to an ALM tool than simple source and compilation. So let's look at what we mean by Application Lifecycle Management tooling. This is a long list so bear with me:
+
+    - **Requirements management** - This is your work items, there may be Requirements, User Stories, Features, or PBI's but they are all types of requirement.
+    - **Project management** - You may do a work breakdown or need agile planning tools, however you work you need to manage the project/product so that you know what's going on.
+    - **Change management** - Whatever sort of requirements and project management you need to understand how those things change over time. Sometimes this is just because you want to, at others you have a regulatory requirement. Whatever the reason you want to maintain every value of every field on your data so that you can see, for any point in time, what the state of that field was.
+    - **Task management** - When you are doing software development the critical thing to monitor is effort. How much effort is required to deliver each item so that I know, for future items, how much effort might be required. Each individual should be able to monitor their effort within your delivery.
+    - **Code management** - If you are building software this is a critical quantity. You need to be sure that you have a secure and versioned asset. While features may vary between tools, they all solve the same critical problem.
+    - **Quality management** - Wither you need to just record the acceptance criteria or you have a top down specification you need to represent this as test cases that you can record status and results against. Some of your test cases may be automated and others will be a little more manual.
+    - **Feedback management** - Customers tell you things. These things need triaged into something that the development team can deal with, but you need somewhere to capture it. I call it feedback, but you might call it a ticket or a support request. Whatever it is, you need to have it somewhere.
+    - **Defect management** - When you do find failures of your tests you may need to raise a defect and monitor it to completion. Your cope of defect may vary wildly… I like "a bug is the result of a failing test case" while others say something is a bug if the UI is out a single pixel or there is a spelling mistake.
+    - **Build management** - Build is about compilation and non-instance unit tests. You need to compile your code and test the output. Then store the output somewhere secure as a potential asset of your organisation.
+    - **Release management** - You need to manage the deployment of your assets through a pipeline of ever increasing quality that eventually results in production. Maybe you need authorisation and approval, maybe you need continuous release… I tend to believe that you need a bit of both depending on the environment that you are deploying to.
+    - **Lab management** - If you are deploying to a non-production environment you may want to execute tests in a managed context in that environment. You effectively want to be able to collect data from all of your servers within an environment and provide that data to those that fix the problems so that they can understand them better.
+    - **Analytics management** - If you are deploying to non-production environments then you likely need some way to collect operational statistics and data on things like memory and CPU from the servers as well as number of users in your application and how users interact with it.
+
+    These are the key areas that you have to decide what your plan is for each one. Regardless of wither you will be using Excel for requirements management, or Trello, you need to make that decision. So here, if we are going to replace TFS with Git and Jenkins we need to decide what we are going to do with Analytics, Lab, Release, Defects, Feedback, Quality, Tasks, Change, Projects, and Requirements. What have you missed?
+
+    So now that we have identified what is part of an ALM system what are the comparable choices? Luckily there are organisations out there that do the analysis and have come up with an independent comparison.
+
+    [![clip_image001](images/clip_image0013-1-1.png "clip_image001")](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-30-15-metablogapi/1425.image1_5F00_13048664.png)
+    { .post-img }
+
+    At this point you might be asking where Git and Jenkins are in this picture. Well they are so far to the left bottom of this graph that they do not even register. Git + Jenkins is only a tiny part of that Visual Studio ALM story. Indeed with TFS 2013 Microsoft has baked Git into the platform and with TFS 2015 we are getting cross-platform build agents as well as an end-to-end ALM story for Android and iOS.
+
+    At this time, according to Gartner, there is not better ALM platform than Visual Studio ALM.
+
+    ![clip_image002](images/clip_image002-2-2.jpg "clip_image002")
+    { .post-img }
+
+    One potentially valuable exercise is to script out your organisational workflow at a high level from the perspective of tool support. The workflow above is what I teach companies to use and it maps pretty well with Visual Studio ALM. You then have a choice to make. You can either build your own custom ALM solution or choose one that already exists. You can check out my [end-to-end demo from NDC London](http://nkdagility.com/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome/), while not everything went perfectly you can see the story.
+
+    I imagine that you can think of your favourite tool for each of the ALM capability areas. Think about your favourite tool for a moment for each of those capabilities. Have you picked one for requirements management? How about build and source?
+
+    OK, Now think about how you might want to join that together.
+
+    - **Scenario 1:** You want your builds to know what work that they include. Is it good enough to just know what code changes are included? Or do you need to know which requirements, or parts of your requirements are included.
+    - **Scenario 2:** Where so you store your test cases, and test plans. How do you know which ones have been executed against your application. Against which version? What sort and how many defects did you find?
+
+    I could go on creating scenarios all day, but let's focus on just these two. Think about your favourite tools for requirements and test management that we added to the list. How will they be integrated? Do you know how to integrate Excel for my test results and the build that the tests were executed against? Do you know which parts of your codebase produces the most bugs so that you can understand your complexity?
+
+    There are tools out there to help you knit your custom home groan ALM solution together. One such is TaskTop which is an awesome tool, but you then need to licence many tools and have them work together. Now think about who you go to for support?
+
+    ### Conclusion
+
+    In my experience it is best to start small and grow, however migrating toolsets is next to impossible and causes infinite frustration. You need an ALM tool that you can use only part of and that will grow with you adding new functionality as you go. You want an ALM tool that figures out what data goes together itself so that I don’t have to do all of the work in knitting it together. In my experience the only tool that works at that level is Visual Studio ALM.
+
+    You can even start as small as a single project in Visual Studio Online (TFS in the cloud) and then scale to an entire enterprise. [Scott Gu](http://weblogs.asp.net/scottgu) recently talked about the trial and tribulations of moving the Windows teams at Microsoft to Visual Studio Online so you can even start big.
+
+    Do you want to maintain your own hybrid solution? Coz it’s a lot of work to get what Visual Studio ALM provides out of the box to hand together effectively. For me, I am happy to use TFS and VSO for both small simple solutions, and for large complicated ones.
+
+    **What is your ALM story?**
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-07-why-should-i-use-visual-studio-alm-whether-tfs-or-vso\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-01-07-why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 

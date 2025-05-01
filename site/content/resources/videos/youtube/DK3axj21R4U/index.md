@@ -30,7 +30,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

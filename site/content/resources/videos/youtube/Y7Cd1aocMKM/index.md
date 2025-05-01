@@ -30,11 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Remote Working
-- Pragmatic Thinking
-- Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.

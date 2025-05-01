@@ -38,23 +38,11 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Team Performance
-- Product Owner
-- Professional Scrum
-- Agile Philosophy
-- Scrum Team
-- Working Software
-- Empirical Process Control
-- Agile Strategy
-- Customer Feedback Loops
-- Product Delivery
-- Team Collaboration
-- Value Delivery
 resourceTypes:
 - video
 categories:
 - Product Development
 - Scrum
-- Product Management
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

@@ -28,14 +28,14 @@ duration: 280
 isShort: false
 tags:
 - Personal
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Reflecting on My Worst Day as an Agile Consultant

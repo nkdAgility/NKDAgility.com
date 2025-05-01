@@ -33,19 +33,6 @@ tags:
 - Value Delivery
 - Agile Product Management
 - Product Delivery
-- Agile Product Operating Model
-- Metrics and Learning
-- Product Strategy
-- Working Software
-- Unrealised Value
-- Agile Strategy
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
-- Organisational Agility
-- Pragmatic Thinking
-- Time to Market
-- Current Value
 resourceTypes:
 - video
 categories:

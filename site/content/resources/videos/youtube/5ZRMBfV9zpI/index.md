@@ -29,10 +29,6 @@ tags:
 - Scrum Master
 - Software Development
 - Competence
-- Agile Frameworks
-- Coaching
-- Scrum Team
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,7 +32,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=qnWVeumTKcE)

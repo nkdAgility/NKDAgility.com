@@ -40,11 +40,6 @@ tags:
 - Agile Frameworks
 - Professional Scrum
 - Team Collaboration
-- Continuous Improvement
-- Organisational Agility
-- Increment
-- Technical Mastery
-- Agile Strategy
 categories:
 - Engineering Excellence
 - Scrum

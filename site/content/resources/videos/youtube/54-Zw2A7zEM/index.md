@@ -27,13 +27,12 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}}) Master vs. Seasoned Agile Coach: What Sets Them Apart?

@@ -37,8 +37,6 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Team Performance
-- Agile Transformation
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,7 +46,6 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
-- Product Management
 
 ---
 When it comes to effective Sprint planning, I’ve learned that there are a couple of key principles that can make all the difference. Drawing from my experiences, I want to share my top tips to help you and your team navigate this crucial phase of the Agile process.

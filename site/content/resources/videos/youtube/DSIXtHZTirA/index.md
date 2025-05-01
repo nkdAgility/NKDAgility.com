@@ -32,13 +32,6 @@ tags:
 - Shift-Left Strategy
 - Technical Mastery
 - Technical Excellence
-- Customer Satisfaction
-- Customer Feedback Loops
-- Azure DevOps
-- Engineering Practices
-- Pragmatic Thinking
-- Experimentation
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

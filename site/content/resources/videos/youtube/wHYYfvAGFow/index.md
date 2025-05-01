@@ -28,11 +28,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Project Management
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 What is Taylorism and how did it influence [project management]({{< ref "/tags/project-management" >}})?

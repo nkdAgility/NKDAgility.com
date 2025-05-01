@@ -26,13 +26,6 @@ duration: 36
 isShort: true
 tags:
 - Software Development
-- Unrealised Value
-- Technical Debt
-- Continuous Improvement
-- Value Delivery
-- Working Software
-- Product Delivery
-- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

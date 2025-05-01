@@ -45,10 +45,6 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Value Delivery
-- Frequent Releases
-- Operational Practices
-- Team Performance
-- Deployment Frequency
 categories:
 - Scrum
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg

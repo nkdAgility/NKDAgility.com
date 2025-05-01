@@ -46,11 +46,6 @@ tags:
 - Team Performance
 - Agile Planning
 - Transparency
-- Competence
-- Value Delivery
-- Continuous Improvement
-- Empirical Process Control
-- Test First Development
 categories:
 - Scrum
 - Engineering Excellence

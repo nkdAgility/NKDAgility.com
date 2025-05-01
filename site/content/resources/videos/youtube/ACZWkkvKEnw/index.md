@@ -37,7 +37,8 @@ tags:
 - Systems Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through the realms of agile and organisational efficiency, I've often encountered a rather amusing yet telling analogy that perfectly encapsulates a common pitfall in our approach to governance and optimisation. Picture this: a cog in a machine, struggling to turn because it’s bogged down by the other cogs around it. Now, if we were to take a drastic step and remove all the teeth from this cog, it would spin freely, right? But here’s the catch—it would no longer serve its purpose in driving the entire system forward. 

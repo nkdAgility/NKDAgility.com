@@ -27,11 +27,6 @@ duration: 205
 isShort: false
 tags:
 - Agile Product Management
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Philosophy
-- Software Development
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"

@@ -29,9 +29,6 @@ tags:
 - Agile Frameworks
 - Professional Scrum
 - Product Owner
-- Agile Planning Tools
-- Agile Planning
-- Product Delivery
 
 ---
 Dive deep into the world of **[Scrum]({{< ref "/categories/scrum" >}})'s [Product Backlog]({{< ref "/tags/product-backlog" >}}) Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainers. 🚀

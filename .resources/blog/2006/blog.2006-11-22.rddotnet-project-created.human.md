@@ -22,7 +22,8 @@ aliasesArchive:
 - /resources/blog/rddotnet-project-created
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Uncategorized
 
 ---
 I have now created a new project within [CodePlex](http://www.codeplex.com "CodePlex") that encompases all of the features of WhiteLabel, but with a whole host of extras. The WhiteLabel project is now complete and a release will be uploaded as soon as [CodePlex](http://www.codeplex.com "CodePlex") starts working again.

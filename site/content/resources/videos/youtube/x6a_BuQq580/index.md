@@ -32,7 +32,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When it comes to migrating to the cloud, I often encounter a common concern: the fear of incomplete migrations. Many people worry that essential data will be lost or unavailable during the transition. However, having conducted hundreds of migrations using Microsoft's database import tool, I can confidently say that I have never experienced any data loss that wasn't already known beforehand. 

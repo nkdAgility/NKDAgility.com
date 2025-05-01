@@ -36,16 +36,10 @@ tags:
 - Pragmatic Thinking
 - Business Agility
 - Organisational Change
-- Agile Leadership
-- Enterprise Agility
-- Sociotechnical Systems
-- Software Development
-- Change Management
-- Organisational Culture
-- Market Adaptability
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 What would be an example of a great agile consulting outcome for a client?

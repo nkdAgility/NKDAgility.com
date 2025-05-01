@@ -30,18 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
-- Agile Philosophy
-- Agile Frameworks
-- Software Development
-- Agile Strategy
-- Organisational Agility
-- Pragmatic Thinking
-- Personal
 resourceTypes:
 - video
 categories:
-- Leadership
-- Product Development
+- Uncategorized
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

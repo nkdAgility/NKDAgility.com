@@ -14,7 +14,6 @@ aliasesArchive:
 - /blog/the-missing-lever-in-agile-transformations
 categories:
 - Leadership
-- Product Development
 tags:
 - Agentic Agility
 - Organisational Agility
@@ -31,11 +30,6 @@ tags:
 - Self Organisation
 - Market Adaptability
 - Social Technologies
-- Agile Leadership
-- Organisational Physics
-- Sociotechnical Systems
-- Beta Codex
-- Evidence Based Leadership
 
 ---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.

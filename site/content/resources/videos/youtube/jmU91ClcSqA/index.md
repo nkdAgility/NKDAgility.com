@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Unpacking [Project Management]({{< ref "/tags/project-management" >}})

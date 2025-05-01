@@ -28,16 +28,14 @@ duration: 291
 isShort: false
 tags:
 - Scrum Master
-- Competence
-- Continuous Learning
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I reflect on the journey of [Scrum]({{< ref "/categories/scrum" >}}) Masters and their progression through the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) certifications, I can't help but notice a troubling trend: many Scrum Masters never advance beyond the PSM1 level. This observation leads me to a crucial question: why is that? 

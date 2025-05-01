@@ -27,7 +27,6 @@ duration: 1906
 isShort: false
 tags:
 - Software Development
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

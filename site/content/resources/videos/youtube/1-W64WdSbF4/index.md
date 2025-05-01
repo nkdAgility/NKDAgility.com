@@ -41,9 +41,6 @@ tags:
 - Agile Planning Tools
 - Collaboration Tools
 - Release Management
-- Software Development
-- Sprint Review
-- Professional Scrum
 resourceTypes:
 - video
 layout: video

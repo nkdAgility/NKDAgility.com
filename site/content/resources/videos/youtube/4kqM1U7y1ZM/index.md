@@ -39,13 +39,6 @@ tags:
 - Software Development
 - Value Delivery
 - Working Software
-- Self Organisation
-- Team Collaboration
-- Agile Frameworks
-- Agile Planning
-- Team Performance
-- Agile Transformation
-- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -56,7 +49,6 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
-- Technical Leadership
 
 ---
 When I embark on the journey of working with a new [Scrum]({{< ref "/categories/scrum" >}}) team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 

@@ -35,10 +35,8 @@ tags:
 - Market Adaptability
 - Organisational Change
 - Pragmatic Thinking
-- Agile Philosophy
-- Agile Strategy
-- Strategic Goals
-categories: []
+categories:
+- Uncategorized
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---

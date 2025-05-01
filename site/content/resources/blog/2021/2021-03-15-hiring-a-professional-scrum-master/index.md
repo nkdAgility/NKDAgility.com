@@ -30,14 +30,9 @@ tags:
 - Software Development
 - Agile Frameworks
 - Team Performance
-- Agile Product Management
-- Coaching
-- Competence
-- Agile Leadership
 categories:
 - Scrum
 - Technical Leadership
-- Leadership
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

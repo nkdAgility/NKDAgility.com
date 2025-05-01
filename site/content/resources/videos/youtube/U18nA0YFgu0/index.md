@@ -39,13 +39,10 @@ tags:
 - Organisational Culture
 - Psychological Safety
 - Team Motivation
-- Organisational Agility
-- Agile Values and Principles
-- Personal
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

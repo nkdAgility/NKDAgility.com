@@ -39,9 +39,6 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Product Delivery
-- Team Collaboration
-- Frequent Releases
-- Self Organisation
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

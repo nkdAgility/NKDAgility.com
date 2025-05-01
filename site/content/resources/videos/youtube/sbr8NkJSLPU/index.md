@@ -28,8 +28,6 @@ tags:
 - Operational Practices
 - Software Development
 - Agile Frameworks
-- Flow Efficiency
-- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

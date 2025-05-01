@@ -35,11 +35,6 @@ tags:
 - Value Delivery
 - Azure Pipelines
 - Azure DevOps
-- Deployment Frequency
-- Market Adaptability
-- Team Performance
-- Time to Market
-- Scaling
 
 ---
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.

@@ -28,8 +28,6 @@ isShort: false
 tags:
 - Agile Transformation
 - Software Development
-- Agile Frameworks
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,7 +35,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 As I sit here in Scotland, reflecting on a recent conversation with my good friend Jim from the Midwest, I can’t help but think about the challenges many organisations face on their agile journey. Jim reached out to me with a pressing question: how do we train development teams to embrace an agile mindset? This is a topic that resonates deeply with me, and I believe it’s crucial for the success of any [agile transformation]({{< ref "/tags/agile-transformation" >}}).

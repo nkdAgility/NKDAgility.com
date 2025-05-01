@@ -30,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Synergy Between Consulting and Training

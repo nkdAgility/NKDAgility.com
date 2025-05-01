@@ -27,7 +27,6 @@ duration: 53
 isShort: true
 tags:
 - Product Discovery
-- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

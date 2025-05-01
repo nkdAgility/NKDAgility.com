@@ -30,14 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Scrum Team
-- Software Development
-- Product Owner
 resourceTypes:
 - video
 categories:
-- Product Development
-- Scrum
+- Uncategorized
 
 ---
 ## [Product Owner]({{< ref "/tags/product-owner" >}})'s Misstep

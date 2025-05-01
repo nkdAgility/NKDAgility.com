@@ -27,15 +27,12 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
-- Software Development
-- Personal
+tags: []
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## The Missing Piece in My Initial [Scrum]({{< ref "/categories/scrum" >}}) Journey

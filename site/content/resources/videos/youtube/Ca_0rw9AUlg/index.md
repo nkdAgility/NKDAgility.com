@@ -39,11 +39,10 @@ tags:
 - Organisational Agility
 - Sociotechnical Systems
 - Agile Philosophy
-- Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an [Agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s a cultural transformation.”

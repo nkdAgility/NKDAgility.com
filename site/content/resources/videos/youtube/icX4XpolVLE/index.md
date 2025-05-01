@@ -37,14 +37,6 @@ tags:
 - Continuous Improvement
 - Continuous Learning
 - Technical Excellence
-- Market Adaptability
-- Metrics and Learning
-- Organisational Agility
-- Organisational Culture
-- Organisational Physics
-- Sociotechnical Systems
-- Systems Thinking
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,14 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Continuous Learning
-- Competence
-- Pragmatic Thinking
-- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

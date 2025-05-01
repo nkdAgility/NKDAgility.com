@@ -28,14 +28,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Value Delivery
-- Ability to Innovate
-- Evidence Based Leadership
-- Evidence Based Management
-- Metrics and Learning
-- Pragmatic Thinking
-- Decision Making
-- Current Value
-- Time to Market
 sitemap:
   filename: sitemap.xml
   priority: 0.6

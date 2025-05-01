@@ -36,14 +36,6 @@ tags:
 - Team Performance
 - Agile Frameworks
 - Pragmatic Thinking
-- Agile Product Management
-- Agile Planning
-- Agile Transformation
-- Collaboration Tools
-- Team Collaboration
-- Product Delivery
-- Transparency
-- Value Delivery
 resourceTypes:
 - video
 categories:

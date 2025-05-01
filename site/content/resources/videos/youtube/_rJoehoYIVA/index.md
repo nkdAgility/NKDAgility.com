@@ -32,7 +32,6 @@ tags:
 - Azure DevOps
 - Software Development
 - Pragmatic Thinking
-- Operational Practices
 resourceTypes:
 - video
 layout: video

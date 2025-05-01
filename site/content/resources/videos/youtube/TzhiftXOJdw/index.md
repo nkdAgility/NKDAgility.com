@@ -43,13 +43,6 @@ tags:
 - Sociotechnical Systems
 - Business Agility
 - Beta Codex
-- Enterprise Agility
-- Agile Frameworks
-- Agile Leadership
-- Agile Values and Principles
-- Continuous Improvement
-- Digital Transformation
-- Strategic Goals
 resourceTypes:
 - video
 categories:

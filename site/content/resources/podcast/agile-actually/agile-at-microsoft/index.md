@@ -7,15 +7,15 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 date: 2024-04-25
 weight: 1000
-categories: []
+categories:
+- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 slug: agile-at-microsoft
 aliases:
 - /resources/U_pzYjx6qk6
-tags:
-- Transparency
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)

@@ -42,13 +42,6 @@ tags:
 - Organisational Physics
 - Agile Philosophy
 - Enterprise Agility
-- Agile Frameworks
-- Agile Product Management
-- Common Goals
-- Metrics and Learning
-- Organisational Change
-- Value Delivery
-- Product Delivery
 resourceTypes:
 - video
 categories:

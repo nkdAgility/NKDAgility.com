@@ -36,15 +36,10 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Scrum Master
-- Agile Frameworks
-- Scrum Values
-- Agile Philosophy
-- Agile Transformation
-- Agile Values and Principles
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Worst agile advice you've ever heard?**

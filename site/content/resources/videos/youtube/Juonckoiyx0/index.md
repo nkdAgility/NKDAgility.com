@@ -37,12 +37,6 @@ tags:
 - Agile Planning
 - Agile Frameworks
 - Product Delivery
-- Scrum Team
-- Agile Transformation
-- Team Performance
-- Pragmatic Thinking
-- Product Owner
-- Value Delivery
 resourceTypes:
 - video
 categories:

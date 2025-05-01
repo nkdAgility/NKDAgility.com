@@ -26,11 +26,6 @@ duration: 351
 isShort: false
 tags:
 - Pragmatic Thinking
-- Value Delivery
-- Agile Philosophy
-- Software Development
-- Personal
-- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +34,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 When I’m engaged as an agile consultant, I often find myself pondering a fundamental question: does the client dictate what they need, or is it my role to guide them towards the right solutions? My experience has led me to believe that it’s the latter, but the reality is often more nuanced.

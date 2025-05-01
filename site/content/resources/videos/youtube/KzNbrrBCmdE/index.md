@@ -25,9 +25,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true
-tags:
-- Software Development
-- Agile Philosophy
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,7 +33,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 In my journey through the world of agile methodologies, I've often found myself reflecting on the delicate balance between flexibility and inflexibility. It’s a topic that resonates deeply with me, especially when I consider the myriad of projects and teams I've worked with over the years. 

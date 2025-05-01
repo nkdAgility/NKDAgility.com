@@ -28,10 +28,6 @@ duration: 183
 isShort: false
 tags:
 - Agile Product Management
-- Team Collaboration
-- Pragmatic Thinking
-- Product Delivery
-- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,7 +36,6 @@ resourceTypes:
 - video
 categories:
 - Product Development
-- Product Management
 
 ---
 As an entrepreneur, I often find myself reflecting on the multifaceted role of a [product owner]({{< ref "/tags/product-owner" >}}). Recently, I’ve been diving deep into the Advanced Professional [Scrum]({{< ref "/categories/scrum" >}}) Product Owner (PSPO) course, and I can’t help but think how perfectly it aligns with the needs of entrepreneurs. It’s not just about innovation; it’s about balance, understanding your customers, and ensuring that your product evolves in a way that meets their needs.

@@ -36,8 +36,6 @@ tags:
 - Value Delivery
 - Agile Planning Tools
 - Pragmatic Thinking
-- Agile Frameworks
-- Transparency
 categories:
 - Scrum
 - Product Management

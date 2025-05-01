@@ -30,11 +30,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Operational Practices
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Think legacy systems can't be automated? Think again. I’ve encountered this misconception time and again in my journey through the tech landscape. Many organisations assume that because a system is old, it’s untouchable; that automation is only for modern, cloud-native systems. This couldn’t be further from the truth. In fact, I’ve found that the most significant efficiency gains often come from tackling those outdated, cumbersome processes that everyone else has written off.

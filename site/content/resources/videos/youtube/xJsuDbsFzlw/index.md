@@ -31,11 +31,6 @@ tags:
 - Agile Planning Tools
 - Software Development
 - Agile Planning
-- Operational Practices
-- Coaching
-- Team Performance
-- Agile Transformation
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +40,6 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
-- Technical Leadership
 
 ---
 When it comes to Sprint planning, I often find that organisations struggle to grasp its true potential. Having facilitated numerous workshops, I’ve seen firsthand how a well-structured Sprint planning session can transform a team's approach to Agile. Today, I want to share my insights on how we can make Sprint planning not just a routine, but a powerful tool for success.

@@ -32,13 +32,10 @@ tags:
 - Software Development
 - Scrum Team
 - Team Performance
-- Agile Product Management
-- Pragmatic Thinking
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 Sure, there are poor practices that impact **[scrum]({{< ref "/categories/scrum" >}}) teams**, but I tend to focus on the outcomes to determine whether a **[scrum team]({{< ref "/tags/scrum-team" >}})** is failing or progressing.

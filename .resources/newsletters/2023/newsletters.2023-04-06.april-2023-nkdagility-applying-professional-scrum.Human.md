@@ -20,16 +20,12 @@ aliasesArchive:
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
 - Scrum
-- Product Development
 tags:
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking
 - Empirical Process Control
 - Professional Scrum
-- Agile Product Management
-- Agile Transformation
-- Competence
 
 ---
 Learning about [scrum]({{< ref "/categories/scrum" >}}) is important, but growing your capability to deploy and implement scrum effectively is way more important.

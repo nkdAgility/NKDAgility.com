@@ -35,16 +35,6 @@ tags:
 - Increment
 - Agile Philosophy
 - Product Delivery
-- Ability to Innovate
-- Evidence Based Leadership
-- Agile Strategy
-- Business Agility
-- Continuous Improvement
-- Lean Startup
-- Organisational Agility
-- Release Management
-- Frequent Releases
-- Agile Values and Principles
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg

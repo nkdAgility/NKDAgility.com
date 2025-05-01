@@ -25,11 +25,8 @@
     - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
     tags:
     - Scrum Values
-    - Agile Values and Principles
-    - Software Development
-    - Agile Philosophy
-    - Competence
-    categories: []
+    categories:
+    - Uncategorized
     preview: clip_image001-2-2.png
   BodyContent: |
     I have been honoured by being asked to speak at [Agile in Africa](http://agileinafrica.com/) today on the topic of [Kalabule or a Professional at Agile in Africa](http://agileinafrica.com/speaker/martin-hinshelwood/). I was a little disappointed when Nana asked me, as I had already booked a customer on those dates in Houston, Texas. Nana asked if I could do remote, so I could attend anyway :). This is my second presentation at Agile In Africa, and it sounds like this years event is just as awesome as the last.
@@ -91,9 +88,9 @@
     - /blog/vsts-sync-migration-tools
     - /vsts-sync-migration-tools
     - /resources/blog/vsts-sync-migration-tools
-    tags:
-    - Software Development
-    categories: []
+    tags: []
+    categories:
+    - Uncategorized
     preview: image_thumb-1-1.png
   BodyContent: |
     I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.
@@ -150,10 +147,6 @@
     - /resources/blog/scaling-professional-scrum-visual-studio-team-services
     tags:
     - Software Development
-    - Large Scale Agility
-    - Agile Frameworks
-    - Professional Scrum
-    - Pragmatic Thinking
     categories:
     - Scrum
     preview: Scalled-Professional-Scrum-1280-2-2.jpg
@@ -230,8 +223,6 @@
     - Software Development
     - Modern Source Control
     - Pragmatic Thinking
-    - Azure Pipelines
-    - Operational Practices
     categories:
     - DevOps
     preview: nakedalm-experts-visual-studio-alm-14-14.png
@@ -385,9 +376,8 @@
     - /resources/blog/migrating-codeplex-github
     tags:
     - Software Development
-    - Install and Configuration
-    - Modern Source Control
-    categories: []
+    categories:
+    - Uncategorized
     preview: clip_image001-1-1.png
   BodyContent: |
     I have a repository on Codeplex that was the result of the code that I had to write to move my blog from GeeksWithBlogs many moons ago over to Wordpress. This was a very difficult process and recently quite a few of my friends have had to go through it as well. Since GeeksWithBlogs has been sold to 'the man' many bugs have crept into the system and features are sparse. With the most recent request for access I decided it was time to ditch Codeplex and move to [Github]({{< ref "/tags/github" >}}). If you have not seen the writing on the wall yet the only Open Source host of any note is GitHub. All my private repositories are in VSTS ([http://tfs.visualstudio.com](http://tfs.visualstudio.com)) but anything Open Source will be moved to GitHub.
@@ -486,8 +476,8 @@
     - /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
     tags:
     - Windows
-    - Install and Configuration
-    categories: []
+    categories:
+    - Uncategorized
     preview: clip_image001-1-1.png
   BodyContent: |
     Do you worry that you will lose files on your computer? Well you should! At any time your harddrive can fail, or your house could be hit by a meteor, or stolen. I keep everything on my computer encrypted with BitLocker and can remote wipe any of my data, however I want to be able to access it from anywhere. Everything needs to be in at least two locations to be called a backup, a local separate disk is only partial backup and realis on being at home to backup leading to stale data. That means that the only viable place to securely store your data is the cloud.
@@ -552,7 +542,8 @@
     tags:
     - Windows
     - Install and Configuration
-    categories: []
+    categories:
+    - Uncategorized
     preview: clip_image001-1-1-1.png
   BodyContent: |
     I recent ran into a problem where my OneDrive files were taking up too much space on my main drive and preventing [Windows]({{< ref "/tags/windows" >}}) 10 updates on the Insider Program. This works for both OneDrive consumer application and the new OnDrive for Business beta application.
@@ -633,9 +624,9 @@
     - /agile-in-africa-2016
     - /blog/agile-in-africa-2016
     - /resources/blog/agile-africa-2016
-    tags:
-    - Personal
-    categories: []
+    tags: []
+    categories:
+    - Uncategorized
     preview: clip_image001-1-2-2.jpg
   BodyContent: |
     When someone comes to you with an opportunity in the developing world you better have a good reason to say no. For the last few years Nana Abana had been trying to achieve the impossible, conduct a high profile Agile event in West Africa. It's not just the holding of the event that seemed impossible, but getting together a group of people that can really bring agility to Africa. Up until now many of the endeavours  into agility in west africa have been pushed by sharlotons that are intent only in profiting from Africa and not improving development practices. Making money and not helping people. It is posible to do both, but you will need to invest up front to get there.
@@ -708,8 +699,8 @@
     - Software Development
     - Azure Repos
     - Modern Source Control
-    - Azure DevOps
-    categories: []
+    categories:
+    - Uncategorized
     preview: image-2-2-2.png
   BodyContent: |
     I have been working with a large customer in Norway that is moving to TFS whole sale and also needs to continue using a server based source control system for the time being. It would be awesome for them to be able to move to Git, however the codebase is currently incompatible. Work is ongoing to remove this issue, and many components will be able to move as soon as we can add Git repositories to a TFVC Team Project (in TFS 2015 Update 1). SO in the mean time we need a way to apply policies to particular branches.
@@ -785,10 +776,8 @@
     - /resources/blog/professional-scrum-courses-2016-oslo-norway
     tags:
     - Software Development
-    - Professional Scrum
-    - Scrum Master
     categories:
-    - Scrum
+    - Uncategorized
     preview: clip_image001-1-1.jpg
   BodyContent: |
     Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.

@@ -34,19 +34,10 @@ tags:
 - Personal
 - Sociotechnical Systems
 - Team Motivation
-- Organisational Agility
-- Organisational Psychology
-- Agile Leadership
-- Agile Philosophy
-- Organisational Change
-- Social Technologies
-- Team Collaboration
-- Team Performance
 resourceTypes:
 - video
 categories:
 - Leadership
-- Product Development
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

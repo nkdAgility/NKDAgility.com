@@ -30,15 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Frameworks
-- Agile Planning
-- Scrum Master
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Development
+- Uncategorized
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in [Scrum]({{< ref "/categories/scrum" >}}) Teams

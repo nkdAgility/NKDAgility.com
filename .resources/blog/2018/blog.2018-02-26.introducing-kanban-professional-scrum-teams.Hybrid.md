@@ -31,9 +31,8 @@ tags:
 - Software Development
 - Agile Frameworks
 - Operational Practices
-- Throughput
-- Flow Efficiency
-categories: []
+categories:
+- Uncategorized
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

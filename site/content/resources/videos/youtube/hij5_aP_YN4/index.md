@@ -36,18 +36,10 @@ tags:
 - Agile Philosophy
 - Competence
 - Social Technologies
-- Software Development
-- Organisational Agility
-- Agile Leadership
-- Agile Transformation
-- Agile Values and Principles
-- Continuous Improvement
-- Organisational Culture
-- Team Motivation
-- Value Delivery
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your [coaching]({{< ref "/tags/coaching" >}}) game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.

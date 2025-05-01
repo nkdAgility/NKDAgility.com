@@ -33,24 +33,8 @@ tags:
 - Throughput
 - Forecasting
 - Metrics and Learning
-- Agile Frameworks
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Agile Strategy
-- Cycle Time
-- Decision Making
-- Operational Practices
-- Organisational Agility
-- Organisational Change
-- Product Delivery
-- Professional Scrum
-- Value Delivery
-- Estimation
-- Flow Efficiency
 categories:
 - Scrum
-- Product Management
 preview: 993957510-1-1.jpg
 
 ---

@@ -32,20 +32,14 @@ tags:
 - Personal
 - Coaching
 - Continuous Learning
-- Organisational Agility
-- Agile Transformation
-- Team Motivation
-- Agile Leadership
-- Agile Philosophy
-- Social Technologies
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.

@@ -32,12 +32,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Transformation
-- Software Development
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

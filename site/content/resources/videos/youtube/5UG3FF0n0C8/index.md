@@ -31,7 +31,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
  Bring your questions on any topic from [DevOps]({{< ref "/categories/devops" >}}) to Agility and Martin will do his best to answer them. Martin is a Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer with Scrum.org and a Microsoft MVP in [Azure DevOps]({{< ref "/tags/azure-devops" >}}). Ask him anything!

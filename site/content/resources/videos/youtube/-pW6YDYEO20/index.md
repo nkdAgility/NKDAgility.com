@@ -29,15 +29,11 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Scrum Team
-- Team Performance
-- Software Development
-- Agile Frameworks
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 **Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**

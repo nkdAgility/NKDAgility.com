@@ -46,11 +46,6 @@ tags:
 - Pragmatic Thinking
 - Social Technologies
 - Agile Philosophy
-- Team Performance
-- Strategic Goals
-- Agile Leadership
-- Value Delivery
-- Product Strategy
 resourceTypes:
 - video
 categories:

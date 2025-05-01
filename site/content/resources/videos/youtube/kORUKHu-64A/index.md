@@ -35,13 +35,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Frameworks
-- Agile Transformation
-- Agile Product Management
-- Sociotechnical Systems
-- Pragmatic Thinking
-- Software Development
+tags: []
 resourceTypes:
 - video
 categories:

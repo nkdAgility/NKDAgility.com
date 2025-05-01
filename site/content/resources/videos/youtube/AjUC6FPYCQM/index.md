@@ -30,19 +30,13 @@ tags:
 - Software Development
 - Agile Frameworks
 - Competence
-- Agile Product Management
-- Professional Scrum
-- Agile Transformation
-- Pragmatic Thinking
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Development
+- Uncategorized
 
 ---
 Do teams truly grasp the power of applying [Scrum]({{< ref "/categories/scrum" >}}) professionally? This is a challenging and somewhat contentious question. In my experience, many teams I've encountered operate more like amateurs than professionals. This isn't necessarily their fault; it's often a reflection of the expectations set by their organisations. Too frequently, companies don't demand professionalism; instead, they push for speed and output, which leads us, as software engineers, to adopt shortcuts that prioritise the easy, fast, and cheap over the right way of doing things. This environment fosters unprofessional behaviour and ultimately undermines the potential of Scrum.

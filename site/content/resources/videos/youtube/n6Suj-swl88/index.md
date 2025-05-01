@@ -38,10 +38,6 @@ tags:
 - Product Delivery
 - Agile Frameworks
 - Value Delivery
-- Working Software
-- Agile Transformation
-- Team Performance
-- Product Backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6

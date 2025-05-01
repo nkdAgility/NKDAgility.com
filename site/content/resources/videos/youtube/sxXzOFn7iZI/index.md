@@ -38,9 +38,6 @@ tags:
 - Mentoring
 - Organisational Agility
 - Competence
-- Agile Frameworks
-- Continuous Improvement
-- Team Motivation
 resourceTypes:
 - video
 categories:

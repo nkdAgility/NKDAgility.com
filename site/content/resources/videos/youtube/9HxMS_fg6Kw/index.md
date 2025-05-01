@@ -28,13 +28,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
-- Agile Philosophy
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 What are some big red flags when hiring an agile consultant?

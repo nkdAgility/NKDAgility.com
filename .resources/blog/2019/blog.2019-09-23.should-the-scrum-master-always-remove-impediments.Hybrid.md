@@ -32,9 +32,6 @@ tags:
 - Scrum Master
 - Professional Scrum
 - Software Development
-- Agile Frameworks
-- Pragmatic Thinking
-- Team Performance
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg

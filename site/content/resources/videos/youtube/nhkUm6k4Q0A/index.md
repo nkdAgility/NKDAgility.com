@@ -36,20 +36,10 @@ tags:
 - Agile Philosophy
 - Agnostic Agile
 - Agile Frameworks
-- Competence
-- Value Delivery
-- Lean Principles
-- Agile Leadership
-- Coaching
-- Continuous Improvement
-- Lean Thinking
-- Social Technologies
-- Organisational Agility
 resourceTypes:
 - video
 categories:
-- Technical Leadership
-- Product Development
+- Uncategorized
 
 ---
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be [Scrum]({{< ref "/categories/scrum" >}})—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.

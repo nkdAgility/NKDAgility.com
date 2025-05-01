@@ -31,13 +31,8 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Product Delivery
-- Product Owner
-- Value Delivery
-- Strategic Goals
-- Product Backlog
 categories:
 - Scrum
-- Product Management
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 
 ---

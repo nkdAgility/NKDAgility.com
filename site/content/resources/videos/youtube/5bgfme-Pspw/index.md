@@ -30,7 +30,8 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Momentum**

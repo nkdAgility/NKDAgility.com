@@ -29,8 +29,6 @@ isShort: true
 tags:
 - Agile Product Management
 - Product Owner
-- Value Delivery
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

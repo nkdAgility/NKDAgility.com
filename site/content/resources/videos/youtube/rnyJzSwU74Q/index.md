@@ -34,12 +34,6 @@ tags:
 - Working Software
 - Agile Transformation
 - Agile Frameworks
-- Agile Product Management
-- Transparency
-- Agile Planning
-- Agile Strategy
-- Market Adaptability
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

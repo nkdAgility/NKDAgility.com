@@ -32,7 +32,8 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

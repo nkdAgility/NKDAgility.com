@@ -29,12 +29,6 @@ tags:
 - Team Performance
 - Scrum Team
 - Scrum Master
-- Coaching
-- Software Development
-- Agile Leadership
-- Psychological Safety
-- Social Technologies
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Development
-- Technical Leadership
+- Uncategorized
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

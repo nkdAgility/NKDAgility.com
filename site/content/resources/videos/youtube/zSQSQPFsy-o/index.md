@@ -33,11 +33,6 @@ tags:
 - Software Development
 - Transparency
 - Agile Transformation
-- Pragmatic Thinking
-- Agile Product Management
-- Empirical Process Control
-- Professional Scrum
-- Team Performance
 resourceTypes:
 - video
 categories:

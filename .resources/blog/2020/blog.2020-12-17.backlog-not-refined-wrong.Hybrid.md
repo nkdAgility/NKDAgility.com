@@ -44,13 +44,8 @@ tags:
 - Agile Planning Tools
 - Product Owner
 - Scrum Master
-- Working Software
-- Operational Practices
-- Agile Transformation
-- Value Delivery
 categories:
 - Scrum
-- Product Management
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

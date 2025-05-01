@@ -36,16 +36,10 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Social Technologies
-- Agile Transformation
-- Agile Strategy
-- Agile Values and Principles
-- Team Motivation
-- Software Development
 resourceTypes:
 - video
 categories:
-- Technical Leadership
-- Product Development
+- Uncategorized
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

@@ -12,9 +12,9 @@ aliases:
 aliasesArchive:
 - /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 - /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
-categories: []
-tags:
-- Agentic Agility
+categories:
+- Uncategorized
+tags: []
 
 ---
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.

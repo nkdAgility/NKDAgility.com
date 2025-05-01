@@ -30,11 +30,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Digital Transformation
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Modern legacy systems present a unique challenge for many organisations. It’s a delicate balancing act between maintaining what works and embracing the need for innovation. I’ve seen firsthand how this struggle can manifest in various ways, and I want to share some insights that might help you navigate this complex landscape.

@@ -20,10 +20,8 @@ aliasesArchive:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 categories:
-- Product Management
-tags:
-- Agile Product Management
-- Product Owner
+- Uncategorized
+tags: []
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

@@ -33,12 +33,6 @@ tags:
 - Agile Product Management
 - Pragmatic Thinking
 - Software Development
-- Competence
-- Continuous Learning
-- Professional Scrum
-- Scrum Team
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 layout: video

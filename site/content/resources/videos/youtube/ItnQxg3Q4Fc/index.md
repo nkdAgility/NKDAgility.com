@@ -41,16 +41,10 @@ tags:
 - Change Management
 - Agile Strategy
 - Business Agility
-- Agile Product Management
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Market Adaptability
-- Product Delivery
 resourceTypes:
 - video
 categories:
 - Leadership
-- Product Development
 
 ---
 ## Why Senior [Leadership]({{< ref "/categories/leadership" >}}) is Non-Negotiable in an Agile Consulting Journey

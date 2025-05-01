@@ -40,11 +40,6 @@ tags:
 - Sociotechnical Systems
 - Technical Debt
 - Technical Excellence
-- Transparency
-- Working Software
-- Increment
-- Continuous Delivery
-- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

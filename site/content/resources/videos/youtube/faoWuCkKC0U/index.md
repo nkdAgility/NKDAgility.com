@@ -28,13 +28,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
+tags: []
 resourceTypes:
 - video
 categories:
-- Product Development
-- Product Management
+- Uncategorized
 
 ---
 ## Step Up Your Game with the PSPO-A Course

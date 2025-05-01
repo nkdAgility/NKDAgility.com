@@ -25,15 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
-tags:
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous [forecasting]({{< ref "/tags/forecasting" >}}), which I discussed with Daniel Vacanti during our recent Professional [Scrum]({{< ref "/categories/scrum" >}}) with [Kanban]({{< ref "/categories/kanban" >}}) class.

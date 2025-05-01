@@ -34,14 +34,6 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Scrum Team
-- Software Development
-- Team Performance
-- Social Technologies
-- Agile Philosophy
-- Agile Values and Principles
-- Operational Practices
-- Organisational Agility
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +41,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around [remote working]({{< ref "/tags/remote-working" >}}), the integration of UX in Agile practices, and the importance of team dynamics. 

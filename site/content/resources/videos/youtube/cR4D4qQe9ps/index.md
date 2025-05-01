@@ -37,7 +37,6 @@ tags:
 - Software Development
 - Scrum Master
 - Agile Frameworks
-- Scrum Team
 resourceTypes:
 - video
 categories:

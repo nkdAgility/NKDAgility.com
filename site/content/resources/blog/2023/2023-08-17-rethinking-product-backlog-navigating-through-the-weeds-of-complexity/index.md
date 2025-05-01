@@ -39,13 +39,6 @@ tags:
 - Product Owner
 - Agile Philosophy
 - Sensemaking
-- Self Organisation
-- Agile Strategy
-- Agile Values and Principles
-- Sociotechnical Systems
-- Systems Thinking
-- Organisational Physics
-- Product Delivery
 categories:
 - Product Management
 - Product Development

@@ -27,10 +27,8 @@ tags:
 - Transparency
 - Team Collaboration
 - Remote Working
-- Scrum Values
-- Pragmatic Thinking
-- Social Technologies
-categories: []
+categories:
+- Uncategorized
 preview: image-21-3-3.png
 
 ---

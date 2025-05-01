@@ -27,17 +27,6 @@ duration: 379
 isShort: false
 tags:
 - Value Delivery
-- Business Agility
-- Continuous Improvement
-- Decision Theory
-- Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Current Value
-- Decision Making
-- Entrepreneurship
-- Organisational Culture
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +34,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Leadership
-- Product Development
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.

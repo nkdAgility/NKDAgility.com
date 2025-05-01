@@ -38,15 +38,6 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Team Performance
-- Scrum Master
-- Continuous Improvement
-- Continuous Learning
-- Organisational Agility
-- Agile Strategy
-- Agile Values and Principles
-- Market Adaptability
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 layout: video

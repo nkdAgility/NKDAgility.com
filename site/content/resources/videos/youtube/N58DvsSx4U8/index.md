@@ -33,8 +33,6 @@ tags:
 - Pragmatic Thinking
 - One Engineering System
 - Software Development
-- Operational Practices
-- Azure Repos
 resourceTypes:
 - video
 categories:

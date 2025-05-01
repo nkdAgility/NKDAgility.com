@@ -33,16 +33,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Software Development
-- Business Agility
-- Organisational Agility
-- Metrics and Learning
-- Agile Product Operating Model
-- Decision Making
-- Evidence Based Leadership
-- Product Strategy
-- Social Technologies
-- Sociotechnical Systems
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

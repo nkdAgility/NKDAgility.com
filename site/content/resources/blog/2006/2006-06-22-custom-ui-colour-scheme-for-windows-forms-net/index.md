@@ -16,16 +16,18 @@ resourceTypes: blog
 slug: custom-ui-colour-scheme-for-windows-forms-net
 aliases:
 - /resources/2vSr2gsP4Rt
+- /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
 aliasesArchive:
 - /blog/custom-ui-colour-scheme-for-windows-forms-net
 - /custom-ui-colour-scheme-for-windows-forms-net
 - /custom-ui-colour-scheme-for-windows-forms--net
 - /blog/custom-ui-colour-scheme-for-windows-forms--net
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-net
+- /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
 tags:
 - Windows
-- Software Development
-categories: []
+categories:
+- Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

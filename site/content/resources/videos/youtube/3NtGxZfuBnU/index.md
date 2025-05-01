@@ -29,17 +29,12 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Values and Principles
-- Organisational Agility
-- Sociotechnical Systems
-- Agile Transformation
-- Organisational Culture
-- Agile Strategy
+tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

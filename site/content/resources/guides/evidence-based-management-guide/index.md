@@ -52,11 +52,6 @@ tags:
 - Enterprise Agility
 - Common Goals
 - Continuous Improvement
-- Current Value
-- Hypothesis Driven Development
-- Unrealised Value
-- Empirical Process Control
-- Pragmatic Thinking
 
 ---
 # The Evidence-Based Management Guide: Improving [Value Delivery]({{< ref "/tags/value-delivery" >}}) under Conditions of Uncertainty

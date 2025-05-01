@@ -42,9 +42,6 @@ tags:
 - Scrum Team
 - Team Performance
 - Technical Mastery
-- Engineering Practices
-- Operational Practices
-- Product Delivery
 categories:
 - Scrum
 - Technical Leadership

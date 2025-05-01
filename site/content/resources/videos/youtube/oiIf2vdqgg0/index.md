@@ -33,7 +33,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## It's All About Direction

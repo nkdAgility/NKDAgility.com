@@ -32,7 +32,8 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The Magic of the 4-Day Training Format!

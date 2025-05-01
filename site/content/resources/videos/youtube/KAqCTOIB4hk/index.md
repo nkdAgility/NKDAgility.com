@@ -36,16 +36,6 @@ tags:
 - Continuous Learning
 - Evidence Based Leadership
 - Pragmatic Thinking
-- Competence
-- Current Value
-- Agile Product Management
-- Coaching
-- Decision Making
-- Evidence Based Management
-- Organisational Agility
-- Organisational Change
-- Sociotechnical Systems
-- Value Delivery
 resourceTypes:
 - video
 categories:

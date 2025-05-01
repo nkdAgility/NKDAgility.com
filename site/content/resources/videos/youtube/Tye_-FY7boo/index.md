@@ -38,8 +38,6 @@ tags:
 - Product Validation
 - Agile Strategy
 - Pragmatic Thinking
-- Agile Philosophy
-- Product Delivery
 resourceTypes:
 - video
 categories:

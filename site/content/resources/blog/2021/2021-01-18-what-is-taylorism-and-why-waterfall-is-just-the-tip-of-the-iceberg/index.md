@@ -40,10 +40,8 @@ tags:
 - Complexity Thinking
 - Organisational Psychology
 - Pragmatic Thinking
-- Organisational Change
-- Employee Engagement
 categories:
-- Lean
+- Uncategorized
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

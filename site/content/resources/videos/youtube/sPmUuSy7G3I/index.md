@@ -32,11 +32,6 @@ tags:
 - Product Delivery
 - Agile Frameworks
 - Pragmatic Thinking
-- Value Delivery
-- Agile Planning Tools
-- Software Development
-- Product Backlog
-- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6

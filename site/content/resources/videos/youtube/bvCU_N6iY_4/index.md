@@ -28,15 +28,14 @@ duration: 21
 isShort: true
 tags:
 - Business Agility
-- Social Technologies
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I sit down to write this post, I’m reminded of the vibrant discussions that take place during our monthly [Business Agility]({{< ref "/tags/business-agility" >}}) Raw sessions. If you haven’t joined us yet, I highly encourage you to mark your calendars for the fourth Wednesday of every month. It’s a fantastic opportunity to engage with like-minded individuals and explore the pressing topics that matter most to us in the realm of business agility.

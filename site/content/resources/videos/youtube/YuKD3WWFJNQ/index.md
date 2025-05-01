@@ -45,20 +45,11 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Agile Frameworks
-- Transparency
-- Product Owner
-- Sprint Review
-- Agile Planning
-- Coaching
-- Common Goals
-- Professional Scrum
-- Scrum Team
 resourceTypes:
 - video
 categories:
 - Product Development
 - Scrum
-- Product Management
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

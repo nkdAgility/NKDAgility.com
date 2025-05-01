@@ -35,17 +35,10 @@ tags:
 - Organisational Agility
 - Agile Philosophy
 - Agile Values and Principles
-- Enterprise Agility
-- Agile Frameworks
-- Agile Leadership
-- Agile Strategy
-- Organisational Change
-- Sociotechnical Systems
-- Business Agility
-- Organisational Culture
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 How do you think Agile is evolving since its inception in 2001?

@@ -29,10 +29,6 @@ aliasesArchive:
 - /resources/blog/scaling-professional-scrum-visual-studio-team-services
 tags:
 - Software Development
-- Large Scale Agility
-- Agile Frameworks
-- Professional Scrum
-- Pragmatic Thinking
 categories:
 - Scrum
 preview: Scalled-Professional-Scrum-1280-2-2.jpg

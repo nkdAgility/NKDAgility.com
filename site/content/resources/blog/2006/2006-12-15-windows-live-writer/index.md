@@ -20,7 +20,8 @@ aliasesArchive:
 - /blog/windows-live-writer
 - /windows-live-writer
 - /resources/blog/windows-live-writer
-categories: []
+categories:
+- Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
 

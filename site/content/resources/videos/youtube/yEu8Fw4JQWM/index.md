@@ -35,16 +35,10 @@ tags:
 - Flow Efficiency
 - Throughput
 - Pragmatic Thinking
-- Agile Frameworks
-- Software Development
-- Agile Transformation
-- Lean Thinking
-- Lean Principles
 resourceTypes:
 - video
 categories:
-- Kanban
-- Product Development
+- Uncategorized
 
 ---
 ## Why Less is Always More When It Comes to WIP

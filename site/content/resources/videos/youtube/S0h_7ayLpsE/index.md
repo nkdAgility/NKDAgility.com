@@ -45,17 +45,11 @@ tags:
 - Current Value
 - Unrealised Value
 - Time to Market
-- Empirical Process Control
-- Business Agility
-- Agile Strategy
-- Continuous Improvement
-- Customer Satisfaction
 resourceTypes:
 - video
 categories:
 - Product Management
 - Product Development
-- Engineering Excellence
 
 ---
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.

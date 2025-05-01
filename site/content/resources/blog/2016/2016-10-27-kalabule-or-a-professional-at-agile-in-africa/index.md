@@ -25,11 +25,8 @@ aliasesArchive:
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 tags:
 - Scrum Values
-- Agile Values and Principles
-- Software Development
-- Agile Philosophy
-- Competence
-categories: []
+categories:
+- Uncategorized
 preview: clip_image001-2-2.png
 
 ---

@@ -28,20 +28,14 @@ isShort: true
 tags:
 - Team Motivation
 - Team Performance
-- Social Technologies
-- Team Collaboration
-- Organisational Culture
-- Sociotechnical Systems
-- Employee Engagement
-- Evidence Based Leadership
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through various organisations, I've come to realise a fundamental truth: the way we measure people profoundly influences their behaviour. This insight has been a game-changer for me, especially when navigating the complexities of team dynamics and [organisational culture]({{< ref "/tags/organisational-culture" >}}). 

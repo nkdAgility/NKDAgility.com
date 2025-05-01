@@ -26,15 +26,14 @@ tags:
 - Install and Configuration
 - System Configuration
 - Software Development
-- Release Management
-- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I sit down to configure release management for a new Team Foundation Server (TFS), I can’t help but reflect on the journey that has brought me to this point. The intricacies of setting up a robust release management system can be daunting, but with the right approach, it becomes a manageable task. Today, I want to share my experience and insights on configuring TFS for release management, hoping to make your journey a little smoother.

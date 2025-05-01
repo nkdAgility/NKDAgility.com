@@ -30,7 +30,8 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-categories: []
+categories:
+- Uncategorized
 preview: clip_image001-1-1-1.png
 
 ---

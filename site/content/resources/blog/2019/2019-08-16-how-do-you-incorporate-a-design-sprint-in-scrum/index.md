@@ -30,14 +30,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Frameworks
-- Scrum Team
-- Agile Planning
-- Agile Product Management
-- Pragmatic Thinking
-- Professional Scrum
-- Team Collaboration
-- Team Performance
-- Working Software
 categories:
 - Scrum
 preview: 1130646316-1-1-1.jpg

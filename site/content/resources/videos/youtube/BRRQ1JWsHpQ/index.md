@@ -31,17 +31,13 @@ tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Continuous Learning
-- Coaching
-- Organisational Agility
-- Social Technologies
-- Software Development
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When it comes to training in agile methodologies, one of the most pressing questions I often encounter is: how do we effectively transfer our training experiences into our day-to-day jobs? The answer lies in [experimentation]({{< ref "/tags/experimentation" >}}). I always encourage participants to try things out, to take the tools and techniques we discuss in class and apply them in their own environments. 

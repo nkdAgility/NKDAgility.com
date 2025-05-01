@@ -38,13 +38,6 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Value Delivery
-- Agile Product Management
-- Agile Strategy
-- Continuous Improvement
-- Organisational Agility
-- Software Development
-- Current Value
-- Empirical Process Control
 resourceTypes:
 - video
 layout: video

@@ -32,7 +32,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I dive into the intricacies of configuring a release management system, I want to share my experience with setting up email notifications using Office 365. This process can seem daunting at first, but with a little guidance, you’ll find it’s quite straightforward. Let’s break it down step by step.

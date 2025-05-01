@@ -27,16 +27,14 @@ isShort: false
 tags:
 - Continuous Learning
 - Coaching
-- Continuous Improvement
-- Organisational Culture
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 At Naked Agility Limited, we are passionate about fostering an environment where individuals and teams can evolve, integrate, and continuously improve. Our approach to training is designed to reflect this ethos, and I want to share how we do it.

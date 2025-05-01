@@ -38,17 +38,8 @@ tags:
 - Digital Transformation
 - Organisational Culture
 - Organisational Physics
-- Agile Frameworks
-- Agile Strategy
-- Business Agility
-- Competence
-- Empirical Process Control
-- Enterprise Agility
-- Strategic Goals
-- Organisational Psychology
 categories:
 - Leadership
-- Scrum
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

@@ -32,12 +32,6 @@ tags:
 - Professional Scrum
 - Scrum Team
 - Software Development
-- Team Collaboration
-- Agile Planning
-- Agile Product Management
-- Self Organisation
-- Team Performance
-- Increment
 categories:
 - Scrum
 preview: naked-Agility-Scrum-Framework-3-2.jpg

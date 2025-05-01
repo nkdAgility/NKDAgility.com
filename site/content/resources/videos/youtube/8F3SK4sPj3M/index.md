@@ -30,11 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## Stepping Up Your Game as a [Product Owner]({{< ref "/tags/product-owner" >}})

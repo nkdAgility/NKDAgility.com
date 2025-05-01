@@ -34,13 +34,6 @@ tags:
 - Throughput
 - Team Performance
 - Pragmatic Thinking
-- Continuous Improvement
-- Cycle Time
-- Empirical Process Control
-- Agile Transformation
-- Flow Efficiency
-- Operational Practices
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

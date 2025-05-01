@@ -13,7 +13,8 @@ resourceTypes: newsletter
 layout: newsletter
 aliases:
 - /resources/I3QFLrCOXnN
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

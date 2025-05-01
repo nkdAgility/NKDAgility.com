@@ -38,11 +38,6 @@ tags:
 - Pragmatic Thinking
 - Scrum Team
 - Operational Practices
-- Time to Market
-- Agile Planning
-- Agile Strategy
-- Market Adaptability
-- Release Management
 categories:
 - Product Development
 - Scrum

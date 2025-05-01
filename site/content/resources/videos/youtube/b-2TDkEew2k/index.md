@@ -33,8 +33,6 @@ tags:
 - Agile Planning
 - Agile Transformation
 - Agile Values and Principles
-- Agile Strategy
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

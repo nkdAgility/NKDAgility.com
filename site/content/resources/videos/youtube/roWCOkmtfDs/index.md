@@ -43,10 +43,6 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Product Strategy
-- Agile Product Management
-- Lean Startup
-- Product Owner
-- Entrepreneurship
 resourceTypes:
 - video
 categories:

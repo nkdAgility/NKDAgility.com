@@ -23,7 +23,8 @@ aliasesArchive:
 - /blog/codeplex-project--rddotnet-white-label
 - /resources/blog/codeplex-project-rddotnet-white-label
 tags: []
-categories: []
+categories:
+- Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

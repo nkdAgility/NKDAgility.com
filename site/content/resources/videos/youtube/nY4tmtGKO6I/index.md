@@ -38,11 +38,6 @@ tags:
 - Coaching
 - Agile Transformation
 - Competence
-- Agile Product Management
-- Agile Planning
-- Continuous Improvement
-- Mentoring
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -52,7 +47,6 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
-- Technical Leadership
 
 ---
 As I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself returning to the foundational elements that are crucial for any new [Scrum team]({{< ref "/tags/scrum-team" >}}). When a team is just starting out, it’s essential to recognise that their understanding of Scrum, empiricism, and the [Scrum values]({{< ref "/tags/scrum-values" >}}) will significantly influence their effectiveness. 

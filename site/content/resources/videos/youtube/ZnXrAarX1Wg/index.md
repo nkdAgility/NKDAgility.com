@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **No go zone for Agile consultants**

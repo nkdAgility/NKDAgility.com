@@ -27,12 +27,11 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Value Delivery
 resourceTypes:
 - video
 layout: video
 categories:
-- DevOps
+- Uncategorized
 
 ---
 ## Game-Changer in Software Engineering!

@@ -38,14 +38,10 @@ tags:
 - Flow Efficiency
 - Agile Frameworks
 - Pragmatic Thinking
-- Continuous Improvement
-- Cycle Time
-- Value Delivery
 resourceTypes:
 - video
 categories:
-- Kanban
-- Product Development
+- Uncategorized
 
 ---
 ### Integrating [Kanban]({{< ref "/categories/kanban" >}}) with [Scrum]({{< ref "/categories/scrum" >}}): Enhancing Your Workflow

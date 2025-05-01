@@ -27,9 +27,9 @@ aliasesArchive:
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
-tags:
-- Software Development
-categories: []
+tags: []
+categories:
+- Uncategorized
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 
 ---

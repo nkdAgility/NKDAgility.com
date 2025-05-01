@@ -40,19 +40,10 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Beta Codex
-- Agile Philosophy
-- Agile Product Management
-- Agile Frameworks
-- Enterprise Agility
-- Organisational Change
-- Organisational Agility
-- Team Motivation
-- Team Performance
-- Transparency
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 Why did so many of the early agile transformations fail?

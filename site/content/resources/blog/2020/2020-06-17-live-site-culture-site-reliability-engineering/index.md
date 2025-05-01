@@ -29,20 +29,11 @@ aliasesArchive:
 - /resources/blog/live-site-culture-site-reliability-engineering
 categories:
 - DevOps
-- Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
 - Frequent Releases
 - Deployment Frequency
 - Software Development
-- Continuous Delivery
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-- Value Delivery
-- Market Adaptability
-- Product Delivery
-- Technical Excellence
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards [DevOps]({{< ref "/categories/devops" >}}) practices like [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) to facilitate shortening the feedback loops.

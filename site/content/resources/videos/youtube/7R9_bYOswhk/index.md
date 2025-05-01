@@ -31,13 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Leadership
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
-- Scrum
+- Uncategorized
 
 ---
 ## Ascending the [Leadership]({{< ref "/categories/leadership" >}}) Ladder

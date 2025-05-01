@@ -35,11 +35,6 @@ tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Agile Planning
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Evidence Based Leadership
-- Lean Product Development
 categories:
 - Product Development
 - Engineering Excellence

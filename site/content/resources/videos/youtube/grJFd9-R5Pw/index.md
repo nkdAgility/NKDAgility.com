@@ -38,9 +38,6 @@ tags:
 - Agile Transformation
 - Agile Planning
 - Scrum Master
-- Agile Product Management
-- Team Collaboration
-- Competence
 resourceTypes:
 - video
 categories:

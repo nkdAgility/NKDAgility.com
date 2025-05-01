@@ -34,14 +34,6 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Agile Transformation
-- Agile Values and Principles
-- Continuous Improvement
-- Scrum Master
-- Social Technologies
-- Agile Strategy
-- Self Organisation
-- Organisational Agility
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Product Development
-- Scrum
 
 ---
 In my journey through the world of [Scrum]({{< ref "/categories/scrum" >}}), I've often found myself frustrated by a recurring theme: the overwhelming focus on the mechanics of Scrum rather than its underlying principles. It seems that many people and organisations are quick to declare, “You’re not doing Scrum if you’re not standing up!” This fixation on rituals and practices is not only misguided but also distracts us from what truly matters in agile methodologies.

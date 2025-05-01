@@ -46,11 +46,6 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Deployment Frequency
-- Agile Philosophy
-- Agile Transformation
-- Agile Values and Principles
-- Increment
-- Agile Product Operating Model
 resourceTypes:
 - video
 layout: video

@@ -30,7 +30,8 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}}) in a [DevOps]({{< ref "/categories/devops" >}}) World: A Game Changer!

@@ -27,15 +27,14 @@ duration: 62
 isShort: false
 tags:
 - Competence
-- Organisational Culture
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 I’ve always had a deep appreciation for hierarchies of [competence]({{< ref "/tags/competence" >}}). Unlike traditional hierarchies that often revolve around control and authority, these structures are rooted in respect and recognition of individual capabilities. This distinction is crucial, especially in today’s fast-paced work environments where collaboration and expertise are paramount.

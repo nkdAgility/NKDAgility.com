@@ -34,11 +34,10 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Competence
-- Agile Transformation
-- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 How does Naked Agility select associate [Scrum]({{< ref "/categories/scrum" >}}) Trainers?

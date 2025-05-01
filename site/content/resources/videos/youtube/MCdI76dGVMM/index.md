@@ -35,11 +35,10 @@ sitemap:
 tags:
 - Competence
 - Scrum Master
-- Continuous Learning
-- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Navigating the Journey to Professionalism in the Agile World

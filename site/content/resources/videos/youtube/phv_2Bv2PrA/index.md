@@ -36,15 +36,14 @@ tags:
 - Business Agility
 - Organisational Agility
 - Agile Frameworks
-- Operational Practices
-- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a [Kanban]({{< ref "/categories/kanban" >}}) trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work. 

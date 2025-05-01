@@ -27,16 +27,6 @@ tags:
 - Organisational Change
 - Organisational Agility
 - Organisational Culture
-- Enterprise Agility
-- Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Change Management
-- Digital Transformation
-- Market Adaptability
-- Pragmatic Thinking
-- Sociotechnical Systems
 categories:
 - Leadership
 preview: image-3-3-3.png

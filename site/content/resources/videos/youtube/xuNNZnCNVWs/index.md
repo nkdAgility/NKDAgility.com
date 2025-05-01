@@ -36,10 +36,6 @@ tags:
 - Social Technologies
 - Agile Frameworks
 - Organisational Agility
-- Scrum Team
-- Agile Product Management
-- Continuous Improvement
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

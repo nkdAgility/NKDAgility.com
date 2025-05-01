@@ -40,14 +40,8 @@ tags:
 - Agile Product Management
 - Common Goals
 - Enterprise Agility
-- Product Discovery
-- Agile Philosophy
-- Agile Product Operating Model
-- Agile Transformation
-- Empirical Process Control
 categories:
 - Product Management
-- Leadership
 preview: naked-agility-hypothesis-driven-1-1.jpg
 
 ---

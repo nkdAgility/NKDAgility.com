@@ -27,12 +27,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Philosophy
-- Organisational Agility
-- Agile Transformation
-- Agile Values and Principles
-- Pragmatic Thinking
 categories:
-- Product Development
+- Uncategorized
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

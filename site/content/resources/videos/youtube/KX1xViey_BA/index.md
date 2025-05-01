@@ -36,7 +36,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## People, Systems, and Finding the Balance 

@@ -43,15 +43,9 @@ tags:
 - Technical Debt
 - Competence
 - Engineering Practices
-- Operational Practices
-- Agile Transformation
-- Continuous Improvement
-- Technical Excellence
-- Value Delivery
 categories:
 - Scrum
 - Engineering Excellence
-- Technical Leadership
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

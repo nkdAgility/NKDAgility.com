@@ -30,11 +30,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Professional Scrum
-- Agile Product Management
-- Agile Transformation
-- Team Collaboration
-- Personal
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

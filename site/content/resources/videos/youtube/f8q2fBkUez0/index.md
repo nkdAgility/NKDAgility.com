@@ -32,7 +32,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In the world of agile and organisational development, one topic that often surfaces is the relationship between financial awareness and employee motivation. Recently, I had the opportunity to engage in a thought-provoking discussion with my colleagues, Ryan and Michael, about whether companies should take money off the table when it comes to motivating their employees. This conversation sparked some reflections on my own experiences and the broader implications for businesses today.

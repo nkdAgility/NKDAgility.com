@@ -33,10 +33,8 @@ aliasesArchive:
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
 tags:
 - Software Development
-- Professional Scrum
-- Scrum Master
 categories:
-- Scrum
+- Uncategorized
 preview: clip_image001-1-1.jpg
 
 ---

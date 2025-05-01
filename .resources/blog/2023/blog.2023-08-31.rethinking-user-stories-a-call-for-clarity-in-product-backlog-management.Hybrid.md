@@ -34,8 +34,6 @@ tags:
 - Software Development
 - Product Delivery
 - Transparency
-- Product Owner
-- Agile Product Management
 categories:
 - Product Management
 - Product Development

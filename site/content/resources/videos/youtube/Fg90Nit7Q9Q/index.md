@@ -28,13 +28,10 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Transformation
-- Pragmatic Thinking
-- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## Bridging [DevOps]({{< ref "/categories/devops" >}}) & Software Engineering Through [Scrum]({{< ref "/categories/scrum" >}})! 🔥

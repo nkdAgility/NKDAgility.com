@@ -37,16 +37,6 @@ tags:
 - Technical Excellence
 - Working Software
 - Product Delivery
-- Organisational Agility
-- Agile Philosophy
-- Continuous Learning
-- Operational Practices
-- Release Management
-- Value Delivery
-- Market Adaptability
-- Engineering Practices
-- Frequent Releases
-- Technical Mastery
 resourceTypes:
 - video
 sitemap:
@@ -55,7 +45,6 @@ sitemap:
 categories:
 - Engineering Excellence
 - Product Development
-- DevOps
 
 ---
 I often find myself in discussions about the best practices for enabling [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) within teams. It’s a question that comes up frequently, and I want to address it head-on: there are no best practices in complex environments. Best practices are a concept that applies to simple tasks in straightforward situations where a procedure can be followed consistently to achieve the same results. However, the world we operate in is anything but simple.

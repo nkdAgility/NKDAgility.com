@@ -36,10 +36,6 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Business Agility
-- Competence
-- Agile Product Management
-- Coaching
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

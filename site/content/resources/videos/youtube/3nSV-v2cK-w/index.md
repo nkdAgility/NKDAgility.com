@@ -35,9 +35,6 @@ tags:
 - Team Motivation
 - Agile Leadership
 - Pragmatic Thinking
-- Agile Values and Principles
-- Agile Strategy
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

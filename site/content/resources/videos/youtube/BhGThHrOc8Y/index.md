@@ -30,8 +30,6 @@ duration: 243
 isShort: false
 tags:
 - Software Development
-- Pragmatic Thinking
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

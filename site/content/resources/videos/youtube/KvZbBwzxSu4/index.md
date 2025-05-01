@@ -45,11 +45,6 @@ tags:
 - Agile Strategy
 - Common Goals
 - Organisational Agility
-- Business Agility
-- Sensemaking
-- Agile Product Management
-- Change Management
-- Enterprise Agility
 resourceTypes:
 - video
 categories:

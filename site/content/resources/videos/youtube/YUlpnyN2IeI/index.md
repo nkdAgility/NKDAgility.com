@@ -39,16 +39,10 @@ tags:
 - Organisational Agility
 - Agile Frameworks
 - Agile Transformation
-- Agnostic Agile
-- Agile Product Management
-- Continuous Improvement
-- Empirical Process Control
-- Personal
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Development
+- Uncategorized
 
 ---
 ## The Golden Nugget of [Scrum]({{< ref "/categories/scrum" >}}) Advice I've Ever Received

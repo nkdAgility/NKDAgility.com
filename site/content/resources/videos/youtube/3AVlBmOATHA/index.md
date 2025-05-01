@@ -33,18 +33,11 @@ tags:
 - Software Development
 - Agile Strategy
 - Value Delivery
-- Agile Frameworks
-- Organisational Agility
-- Agile Product Management
-- Agile Leadership
-- Business Agility
-- Change Management
-- Organisational Change
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

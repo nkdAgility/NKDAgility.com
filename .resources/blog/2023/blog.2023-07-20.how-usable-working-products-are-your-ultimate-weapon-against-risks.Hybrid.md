@@ -36,19 +36,8 @@ tags:
 - Frequent Releases
 - Agile Transformation
 - Market Adaptability
-- Organisational Agility
-- Customer Feedback Loops
-- Agile Planning
-- Empirical Process Control
-- Agile Philosophy
-- Agile Strategy
-- Automated Testing
-- Engineering Practices
-- Product Validation
 categories:
 - Product Development
-- Engineering Excellence
-- Product Management
 preview: image-1.jpg
 
 ---

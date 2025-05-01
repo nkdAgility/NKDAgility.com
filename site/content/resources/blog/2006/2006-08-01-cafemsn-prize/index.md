@@ -22,7 +22,8 @@ aliasesArchive:
 - /resources/blog/cafemsn-prize
 tags: []
 preview: nakedalm-logo-128-link-1-1.png
-categories: []
+categories:
+- Uncategorized
 
 ---
 I managed to win an amazon voucher from Microsoft for my answers on cafemsn, not once but twice!

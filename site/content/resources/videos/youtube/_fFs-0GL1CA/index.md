@@ -26,7 +26,6 @@ duration: 372
 isShort: false
 tags:
 - Competence
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +33,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When I reflect on my journey in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) landscape, one question often arises: why should I encourage individuals to pursue a certification path in their careers? The answer is quite simple and resonates with the same rationale that drives people to attend university. Certifications, much like degrees, serve as a foot in the door. They provide a way to validate your knowledge, but let’s be clear—certifications themselves hold no intrinsic value. 

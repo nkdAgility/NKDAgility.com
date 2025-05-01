@@ -36,11 +36,6 @@ tags:
 - Scrum Team
 - Software Development
 - Increment
-- Agile Transformation
-- Agile Product Management
-- Team Performance
-- Pragmatic Thinking
-- Agile Planning
 resourceTypes:
 - video
 categories:

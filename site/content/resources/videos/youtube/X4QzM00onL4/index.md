@@ -32,13 +32,6 @@ tags:
 - Software Development
 - Agile Strategy
 - Organisational Agility
-- Agile Product Management
-- Organisational Culture
-- Agile Leadership
-- Agile Philosophy
-- Agile Planning
-- Agile Transformation
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

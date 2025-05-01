@@ -34,18 +34,10 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Pragmatic Thinking
-- Agile Frameworks
-- Agile Planning
-- Agile Strategy
-- Continuous Improvement
-- Empirical Process Control
-- Organisational Agility
-- Sociotechnical Systems
-- Working Software
-- Increment
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 How is agile [product development]({{< ref "/categories/product-development" >}}) different to waterfall [project management]({{< ref "/tags/project-management" >}})?

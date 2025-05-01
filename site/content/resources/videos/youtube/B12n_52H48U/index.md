@@ -34,19 +34,10 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Software Development
-- Agile Product Management
-- Agile Strategy
-- Business Agility
-- Decision Making
-- Decision Theory
-- Product Delivery
-- Agile Planning
-- Product Owner
 resourceTypes:
 - video
 categories:
 - Product Development
-- Product Management
 
 ---
 ## The Role of the [Product Owner]({{< ref "/tags/product-owner" >}}): Navigating the Agile Seas 🌊 

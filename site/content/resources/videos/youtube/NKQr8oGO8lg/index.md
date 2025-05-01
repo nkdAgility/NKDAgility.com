@@ -25,16 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false
-tags:
-- Continuous Learning
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and [coaching]({{< ref "/tags/coaching" >}}), I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 

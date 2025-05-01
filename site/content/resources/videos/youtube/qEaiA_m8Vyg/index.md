@@ -28,15 +28,10 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Coaching
-- Continuous Improvement
-- Customer Feedback Loops
-- Metrics and Learning
-- Empirical Process Control
-- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

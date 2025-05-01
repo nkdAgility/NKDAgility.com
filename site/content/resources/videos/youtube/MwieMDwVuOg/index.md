@@ -36,8 +36,6 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
-- Organisational Change
-- Large Scale Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +43,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't just about moving fast; it's about moving smart and sustainably. I've seen it time and again: organisations rush to scale without laying the right foundations, and what do they end up with? A bigger mess. It’s crucial to understand that while agile methodologies provide a pathway to scale, simply picking a framework and running with it isn’t the answer.

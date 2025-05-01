@@ -37,12 +37,6 @@ tags:
 - Agile Planning
 - Pragmatic Thinking
 - Team Performance
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Professional Scrum
-- Working Software
-- Product Delivery
 resourceTypes:
 - video
 categories:

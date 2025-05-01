@@ -24,9 +24,6 @@ categories:
 tags:
 - Product Validation
 - Product Discovery
-- Agile Product Management
-- Product Owner
-- Product Delivery
 
 ---
 **Dear Innovators and Product Enthusiasts,**

@@ -34,8 +34,6 @@ tags:
 - Engineering Practices
 - Working Software
 - Pragmatic Thinking
-- Operational Practices
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,8 +41,6 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- DevOps
-- Product Development
 
 ---
 # [Technical Debt]({{< ref "/tags/technical-debt" >}}) Management for Long-Term Quality | Martin Hinshelwood  

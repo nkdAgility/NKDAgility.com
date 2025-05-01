@@ -44,14 +44,6 @@ tags:
 - Team Collaboration
 - Agile Transformation
 - Empirical Process Control
-- Agile Product Management
-- Scrum Team
-- Organisational Agility
-- Professional Scrum
-- Value Delivery
-- Continuous Improvement
-- Social Technologies
-- Product Delivery
 resourceTypes:
 - video
 categories:

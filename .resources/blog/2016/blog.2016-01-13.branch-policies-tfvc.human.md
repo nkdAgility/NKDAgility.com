@@ -31,8 +31,8 @@ tags:
 - Software Development
 - Azure Repos
 - Modern Source Control
-- Azure DevOps
-categories: []
+categories:
+- Uncategorized
 preview: image-2-2-2.png
 
 ---

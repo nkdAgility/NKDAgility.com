@@ -31,14 +31,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Decision Theory
-- Organisational Agility
-- Agile Philosophy
-- Business Agility
-- Agile Strategy
-- Project Management
-- Agile Planning
-- Complexity Thinking
-- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

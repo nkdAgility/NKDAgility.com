@@ -19,11 +19,10 @@ aliasesArchive:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
-- Scrum
+- Uncategorized
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-- Competence
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:

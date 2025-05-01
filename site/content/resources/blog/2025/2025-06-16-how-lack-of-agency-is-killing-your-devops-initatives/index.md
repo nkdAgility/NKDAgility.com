@@ -14,7 +14,6 @@ aliasesArchive:
 - /blog/how-lack-of-agency-is-killing-your-devops-initiatives
 categories:
 - DevOps
-- Engineering Excellence
 tags:
 - Agentic Agility
 - Pragmatic Thinking
@@ -22,15 +21,6 @@ tags:
 - Operational Practices
 - Value Delivery
 - Self Organisation
-- Social Technologies
-- Frequent Releases
-- Continuous Delivery
-- Market Adaptability
-- Organisational Agility
-- Continuous Improvement
-- Deployment Frequency
-- Product Delivery
-- Sociotechnical Systems
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

@@ -34,15 +34,6 @@ tags:
 - Empirical Process Control
 - Professional Scrum
 - Pragmatic Thinking
-- Agile Planning
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Metrics and Learning
-- Estimation
-- Product Delivery
-- Team Performance
-- Cycle Time
 categories:
 - Scrum
 preview: image-9-14-14.png

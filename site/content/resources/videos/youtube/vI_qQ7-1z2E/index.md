@@ -38,11 +38,6 @@ tags:
 - Continuous Learning
 - Professional Scrum
 - Pragmatic Thinking
-- Coaching
-- Scrum Team
-- Mentoring
-- Software Development
-- Liberating Structures
 resourceTypes:
 - video
 categories:

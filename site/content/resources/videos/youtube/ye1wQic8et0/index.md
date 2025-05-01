@@ -31,15 +31,6 @@ tags:
 - Agile Strategy
 - Organisational Agility
 - Value Delivery
-- Business Agility
-- Agile Product Management
-- Agile Transformation
-- Agile Values and Principles
-- Agile Philosophy
-- Enterprise Agility
-- Market Adaptability
-- Operational Practices
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,7 +38,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce [time to market]({{< ref "/tags/time-to-market" >}}). Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.

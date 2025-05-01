@@ -26,18 +26,8 @@ aliasesArchive:
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags:
 - Software Development
-- Increment
-- Agile Philosophy
-- Agile Product Management
-- Competence
-- Pragmatic Thinking
-- Scrum Master
-- Agile Transformation
-- Agile Values and Principles
-- Team Performance
-- Agile Frameworks
 categories:
-- Scrum
+- Uncategorized
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 
 ---

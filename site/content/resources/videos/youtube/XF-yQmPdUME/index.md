@@ -44,10 +44,6 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Agile Strategy
-- Scrum Team
-- Agile Transformation
-- Market Adaptability
-- Current Value
 resourceTypes:
 - video
 categories:

@@ -23,15 +23,9 @@ aliasesArchive:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-tags:
-- Agile Frameworks
-- Organisational Agility
-- Agile Philosophy
-- Agile Transformation
-- Business Agility
-- Organisational Change
-- Organisational Culture
-categories: []
+tags: []
+categories:
+- Uncategorized
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---

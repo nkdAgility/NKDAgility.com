@@ -37,8 +37,8 @@ tags:
 - Pragmatic Thinking
 - Windows
 - System Configuration
-- Continuous Integration
-categories: []
+categories:
+- Uncategorized
 preview: clip_image004-4-4.png
 
 ---

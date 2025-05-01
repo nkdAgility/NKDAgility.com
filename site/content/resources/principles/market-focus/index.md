@@ -22,7 +22,8 @@ card:
     content: Learn More
   content: Discover more about Market Focus and how it can help you in your Agile journey!
   title: Market Focus
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

@@ -29,15 +29,6 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Team Performance
-- Continuous Improvement
-- Organisational Agility
-- Social Technologies
-- Agile Leadership
-- Agile Values and Principles
-- Pragmatic Thinking
-- Psychological Safety
-- Software Development
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call the "judgment trap." This is one of the seven signs of the agile apocalypse, and it’s something that can derail even the most well-intentioned teams. Today, I want to share my thoughts on how judgment manifests in Agile environments and how we can navigate this challenge to foster a healthier, more productive atmosphere.

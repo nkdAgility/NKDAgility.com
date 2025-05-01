@@ -36,13 +36,6 @@ tags:
 - Agile Philosophy
 - Product Delivery
 - Value Delivery
-- Agile Values and Principles
-- Agile Frameworks
-- Agile Strategy
-- Agile Transformation
-- Agile Product Management
-- Increment
-- Market Adaptability
 categories:
 - Product Development
 preview: image-1.jpg

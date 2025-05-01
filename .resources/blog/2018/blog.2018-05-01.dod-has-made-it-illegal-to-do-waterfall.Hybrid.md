@@ -39,13 +39,8 @@ tags:
 - Continuous Improvement
 - Agile Frameworks
 - Agile Planning
-- Agile Strategy
-- Trend Analysis
-- Market Adaptability
-- Agile Values and Principles
-- Enterprise Agility
 categories:
-- Engineering Excellence
+- Uncategorized
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

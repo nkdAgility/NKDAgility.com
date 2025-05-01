@@ -32,14 +32,6 @@ sitemap:
 tags:
 - Software Development
 - Personal
-- Agile Product Management
-- Value Delivery
-- Agile Frameworks
-- Professional Scrum
-- Scrum Master
-- Competence
-- Continuous Learning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

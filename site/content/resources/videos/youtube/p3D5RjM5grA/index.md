@@ -29,7 +29,6 @@ tags:
 - Agile Leadership
 - Social Technologies
 - Agile Transformation
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

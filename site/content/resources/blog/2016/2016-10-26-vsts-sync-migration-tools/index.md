@@ -23,9 +23,9 @@ aliasesArchive:
 - /blog/vsts-sync-migration-tools
 - /vsts-sync-migration-tools
 - /resources/blog/vsts-sync-migration-tools
-tags:
-- Software Development
-categories: []
+tags: []
+categories:
+- Uncategorized
 preview: image_thumb-1-1.png
 
 ---

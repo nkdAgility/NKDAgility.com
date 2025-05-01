@@ -7,7 +7,8 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 date: 2023-06-01
 weight: 1000
-categories: []
+categories:
+- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

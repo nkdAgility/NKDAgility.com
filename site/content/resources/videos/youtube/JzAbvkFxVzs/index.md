@@ -37,14 +37,6 @@ tags:
 - Agile Transformation
 - Agile Product Management
 - Software Development
-- Agile Philosophy
-- Agile Strategy
-- Scrum Master
-- Scrum Team
-- Team Collaboration
-- Working Software
-- Product Delivery
-- Current Value
 resourceTypes:
 - video
 categories:

@@ -33,18 +33,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Transformation
-- Organisational Agility
-- Agile Product Management
-- Scrum Team
-- Empirical Process Control
-- Organisational Change
-- Scrum Master
-- Social Technologies
-- Team Collaboration
-- Working Software
-- Personal
-- Agile Planning
-- Team Performance
 categories:
 - Scrum
 preview: clip_image006_thumb-3-3.jpg

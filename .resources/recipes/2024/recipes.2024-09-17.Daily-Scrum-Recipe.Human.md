@@ -57,8 +57,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Transparency
-- Operational Practices
-- Scrum Master
 
 ---
 The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the

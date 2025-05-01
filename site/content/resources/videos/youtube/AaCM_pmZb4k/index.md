@@ -35,12 +35,10 @@ tags:
 - Competence
 - Sociotechnical Systems
 - Organisational Agility
-- Organisational Culture
-- Organisational Physics
-- Organisational Change
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Hierarchies of [Competence]({{< ref "/tags/competence" >}}) Vs Control: Insights & Relevance

@@ -33,7 +33,8 @@ sitemap:
   priority: 0.4
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?

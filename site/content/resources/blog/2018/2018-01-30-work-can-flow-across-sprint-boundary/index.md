@@ -42,14 +42,8 @@ tags:
 - Agile Planning
 - Flow Efficiency
 - Product Delivery
-- Value Delivery
-- Agile Transformation
-- Scrum Master
-- Scrum Team
-- Continuous Delivery
-- Engineering Practices
-- Throughput
-categories: []
+categories:
+- Uncategorized
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

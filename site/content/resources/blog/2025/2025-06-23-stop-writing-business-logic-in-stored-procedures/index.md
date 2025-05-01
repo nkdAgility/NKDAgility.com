@@ -23,9 +23,6 @@ tags:
 - Pragmatic Thinking
 - Technical Debt
 - Continuous Improvement
-- Automated Testing
-- Continuous Delivery
-- Shift-Left Strategy
 
 ---
 Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.

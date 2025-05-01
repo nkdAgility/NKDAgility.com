@@ -25,7 +25,8 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title: 
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

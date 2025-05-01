@@ -33,13 +33,6 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
-- Organisational Agility
-- Agile Planning Tools
-- Agile Product Management
-- Pragmatic Thinking
-- Transparency
-- Empirical Process Control
-- Product Delivery
 resourceTypes:
 - video
 categories:

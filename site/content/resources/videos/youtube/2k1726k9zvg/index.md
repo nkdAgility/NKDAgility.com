@@ -28,12 +28,6 @@ tags:
 - Software Development
 - Scrum Master
 - Professional Scrum
-- Agile Frameworks
-- Scrum Team
-- Pragmatic Thinking
-- Competence
-- Personal
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +36,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Product Development
-- Scrum
+- Uncategorized
 
 ---
 When I’m asked about the difference between a newbie [Scrum]({{< ref "/categories/scrum" >}}) Master and a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master, I can’t help but feel that neither of those labels truly captures the essence of what it means to be a [Scrum Master]({{< ref "/tags/scrum-master" >}}). In my experience, the term "newbie" implies a lack of [competence]({{< ref "/tags/competence" >}}), but that’s simply not the case. When you step into the role of a Scrum Master, you’ve already demonstrated a level of effectiveness within your team. You’re not just a novice; you’re taking on an important accountability that requires skill and understanding.

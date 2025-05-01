@@ -25,20 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
-tags:
-- Pragmatic Thinking
-- Agile Transformation
-- Change Management
-- Organisational Culture
-- Organisational Agility
-- Organisational Change
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and [coaching]({{< ref "/tags/coaching" >}}). 

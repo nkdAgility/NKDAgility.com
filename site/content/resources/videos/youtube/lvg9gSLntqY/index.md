@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## [Project Management]({{< ref "/tags/project-management" >}}) in Intricate Environments

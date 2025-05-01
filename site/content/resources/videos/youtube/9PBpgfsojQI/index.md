@@ -33,21 +33,10 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Agile Product Management
-- Organisational Agility
-- Agile Frameworks
-- Agile Strategy
-- Continuous Improvement
-- Operational Practices
-- Product Strategy
-- Software Development
-- Competence
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 categories:
-- Product Management
+- Uncategorized
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

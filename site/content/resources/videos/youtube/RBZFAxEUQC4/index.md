@@ -34,12 +34,10 @@ sitemap:
 tags:
 - Agile Philosophy
 - Agile Transformation
-- Organisational Agility
-- Organisational Culture
-- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

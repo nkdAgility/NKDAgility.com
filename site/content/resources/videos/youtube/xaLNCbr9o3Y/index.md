@@ -25,15 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 isShort: false
-tags:
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the [Kanban]({{< ref "/categories/kanban" >}}) community, about our upcoming Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.

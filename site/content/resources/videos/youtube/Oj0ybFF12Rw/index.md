@@ -34,11 +34,10 @@ tags:
 - Software Development
 - Agile Frameworks
 - Professional Scrum
-- Scaling
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 ## "Don't scale [scrum]({{< ref "/categories/scrum" >}})" - A Common Refrain 

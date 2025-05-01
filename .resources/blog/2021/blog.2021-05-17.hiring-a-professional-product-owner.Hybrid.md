@@ -49,10 +49,6 @@ tags:
 - Value Delivery
 - Product Backlog
 - Pragmatic Thinking
-- Agile Frameworks
-- Decision Making
-- Evidence Based Leadership
-- Evidence Based Management
 categories:
 - Product Management
 - Scrum

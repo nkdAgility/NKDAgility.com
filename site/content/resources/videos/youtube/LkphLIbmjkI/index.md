@@ -30,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Frameworks
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Limits of Professional [Coaching]({{< ref "/tags/coaching" >}})

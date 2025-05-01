@@ -34,11 +34,6 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Frameworks
-- Scrum Team
-- Software Development
-- Professional Scrum
-- Competence
 resourceTypes:
 - video
 categories:

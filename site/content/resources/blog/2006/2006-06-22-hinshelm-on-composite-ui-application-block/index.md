@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
 - Software Development
-- Technical Mastery
-categories: []
+categories:
+- Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

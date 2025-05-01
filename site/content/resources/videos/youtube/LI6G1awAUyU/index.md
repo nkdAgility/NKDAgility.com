@@ -30,11 +30,6 @@ tags:
 - Software Development
 - Operational Practices
 - Pragmatic Thinking
-- Organisational Agility
-- Market Adaptability
-- Time to Market
-- Product Delivery
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +38,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Product Development
 
 ---
 In my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I often find myself facing a set of challenges that, while unique to each organisation, share a common thread. Much like my experiences in agile consulting, the primary issue I encounter is the struggle to deliver working products quickly. It’s a frustrating reality when teams are unable to see their ideas come to life in a timely manner, and it’s a problem that can stifle innovation and growth.

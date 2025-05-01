@@ -34,13 +34,9 @@ tags:
 - Working Software
 - Professional Scrum
 - Transparency
-- Empirical Process Control
-- Pragmatic Thinking
-- Product Delivery
 categories:
 - Product Development
 - Scrum
-- Engineering Excellence
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

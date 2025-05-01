@@ -27,18 +27,14 @@ duration: 5631
 isShort: false
 tags:
 - Pragmatic Thinking
-- Agile Transformation
-- Continuous Improvement
-- Business Agility
-- Agile Philosophy
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I sit down to reflect on my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I can't help but think about the rapid changes we are witnessing in the business landscape. The velocity of change is staggering, and it’s not just about adopting new processes; it’s about mastering the balance between [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and effective processes. 

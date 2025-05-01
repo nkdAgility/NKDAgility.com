@@ -28,15 +28,14 @@ isShort: false
 tags:
 - Software Development
 - Pragmatic Thinking
-- Continuous Learning
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When I reflect on how my real-world experience shapes my training style, I realise just how pivotal my journey has been. I began my career as a software engineer, diving into the world of coding just before .NET emerged. My first year was spent with ASP, but once .NET came along, I found my sweet spot. This foundation has been instrumental in my understanding of [software development]({{< ref "/tags/software-development" >}}) and the intricacies of the industry.

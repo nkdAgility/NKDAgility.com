@@ -31,8 +31,6 @@ tags:
 - Software Development
 - Large Scale Agility
 - Pragmatic Thinking
-- Agile Product Management
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

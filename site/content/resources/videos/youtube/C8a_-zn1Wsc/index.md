@@ -41,7 +41,6 @@ tags:
 - Coaching
 - Continuous Improvement
 - Agile Philosophy
-- Scrum Master
 resourceTypes:
 - video
 categories:

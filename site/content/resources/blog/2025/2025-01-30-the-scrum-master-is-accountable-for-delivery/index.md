@@ -44,11 +44,6 @@ tags:
 - Agile Product Management
 - Agile Transformation
 - Operational Practices
-- Competence
-- Pragmatic Thinking
-- Agile Leadership
-- Continuous Improvement
-- Team Collaboration
 categories:
 - Scrum
 - Product Development

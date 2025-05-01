@@ -29,16 +29,11 @@ sitemap:
   priority: 0.6
 tags:
 - Value Delivery
-- Software Development
-- Agile Philosophy
-- Market Adaptability
-- Product Delivery
-- Systems Thinking
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 What is [DevOps]({{< ref "/categories/devops" >}}) and how is it different to Agile?

@@ -37,15 +37,6 @@ tags:
 - Agile Planning
 - Agile Planning Tools
 - Operational Practices
-- Agile Product Management
-- Product Backlog
-- Software Development
-- Product Owner
-- Product Delivery
-- Agile Frameworks
-- Agile Transformation
-- Professional Scrum
-- Working Software
 resourceTypes:
 - video
 categories:

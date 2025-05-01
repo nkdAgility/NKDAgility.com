@@ -34,13 +34,6 @@ tags:
 - Agile Frameworks
 - Coaching
 - Software Development
-- Scrum Team
-- Agile Leadership
-- Agile Product Management
-- Agile Transformation
-- Social Technologies
-- Mentoring
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Development
 
 ---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one of the most persistent misconceptions I encounter is the belief that a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 

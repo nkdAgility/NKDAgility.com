@@ -36,9 +36,6 @@ tags:
 - Personal
 - Agile Transformation
 - Mentoring
-- Agile Leadership
-- Organisational Agility
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

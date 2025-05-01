@@ -33,12 +33,6 @@ tags:
 - Software Development
 - Organisational Agility
 - Organisational Culture
-- Agile Product Management
-- Pragmatic Thinking
-- Agile Transformation
-- Psychological Safety
-- Team Motivation
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -33,7 +33,8 @@ tags:
 - Competence
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

@@ -36,16 +36,6 @@ tags:
 - Product Discovery
 - Product Validation
 - Metrics and Learning
-- Agile Strategy
-- Continuous Improvement
-- Decision Theory
-- Enterprise Agility
-- Lean Startup
-- Market Adaptability
-- Continuous Learning
-- Decision Making
-- Evidence Based Leadership
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

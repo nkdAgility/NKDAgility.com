@@ -34,10 +34,6 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Agile Product Management
-- Evidence Based Management
-- Agile Philosophy
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -39,15 +39,6 @@ tags:
 - Team Performance
 - Flow Efficiency
 - Agile Philosophy
-- Agile Planning
-- Agile Values and Principles
-- Agile Transformation
-- Time to Market
-- Cycle Time
-- Metrics and Learning
-- Product Delivery
-- Working Software
-- Current Value
 resourceTypes:
 - video
 categories:

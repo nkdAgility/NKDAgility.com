@@ -43,19 +43,11 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Team Collaboration
-- Organisational Agility
-- Agile Product Management
-- Agile Values and Principles
-- Coaching
-- Organisational Culture
-- Agile Planning
-- Mentoring
 resourceTypes:
 - video
 categories:
 - Scrum
 - Product Development
-- Technical Leadership
 
 ---
 ## Reinvigorating Your [Scrum]({{< ref "/categories/scrum" >}}) Team: The Agile Coach's Playbook 🚀 

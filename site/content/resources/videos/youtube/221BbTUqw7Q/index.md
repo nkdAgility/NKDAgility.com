@@ -34,16 +34,11 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Frameworks
-- Pragmatic Thinking
-- Professional Scrum
-- Scrum Master
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Product Development
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}})'s True Potential: A Journey Through the APS Immersive Class

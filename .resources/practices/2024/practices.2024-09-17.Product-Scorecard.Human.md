@@ -21,7 +21,8 @@ card:
     content: Learn More
   content: Discover more about Product Scorecard and how it can help you in your Agile journey!
   title: Product Scorecard
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

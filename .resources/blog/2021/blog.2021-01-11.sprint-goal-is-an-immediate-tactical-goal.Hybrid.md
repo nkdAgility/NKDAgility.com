@@ -34,9 +34,6 @@ tags:
 - Agile Frameworks
 - Value Delivery
 - Product Delivery
-- Hypothesis Driven Development
-- Agile Strategy
-- Pragmatic Thinking
 categories:
 - Product Management
 - Scrum

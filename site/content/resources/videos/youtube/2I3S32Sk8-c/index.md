@@ -37,10 +37,6 @@ tags:
 - Scrum Team
 - Scrum Master
 - Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Continuous Improvement
-- Professional Scrum
 resourceTypes:
 - video
 layout: video

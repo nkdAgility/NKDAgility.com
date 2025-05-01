@@ -47,11 +47,6 @@ tags:
 - Social Technologies
 - Organisational Culture
 - Agile Frameworks
-- Agile Planning
-- Agile Strategy
-- Agile Transformation
-- Agile Values and Principles
-- Operational Practices
 resourceTypes:
 - video
 categories:

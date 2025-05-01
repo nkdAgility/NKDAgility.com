@@ -43,14 +43,8 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-- Complexity Thinking
-- Organisational Physics
-- Beta Codex
-- Empirical Process Control
-- Sociotechnical Systems
 categories:
 - Leadership
-- Technical Leadership
 preview: image-15-5-4.png
 
 ---

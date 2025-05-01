@@ -34,14 +34,6 @@ tags:
 - Software Development
 - Agile Leadership
 - Team Performance
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Coaching
-- Team Motivation
-- Team Collaboration
-- Pragmatic Thinking
-- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,7 +43,6 @@ resourceTypes:
 categories:
 - Scrum
 - Leadership
-- Technical Leadership
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), a common question arises: why isn’t the [Scrum Master]({{< ref "/tags/scrum-master" >}}) endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.

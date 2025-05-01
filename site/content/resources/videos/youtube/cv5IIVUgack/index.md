@@ -31,12 +31,10 @@ sitemap:
 tags:
 - Continuous Learning
 - Software Development
-- Competence
-- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## From Developer to [Scrum]({{< ref "/categories/scrum" >}}) Developer: A Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})

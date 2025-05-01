@@ -30,10 +30,6 @@ tags:
 - Technical Mastery
 - Pragmatic Thinking
 - Software Development
-- Operational Practices
-- Technical Excellence
-- Value Delivery
-- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

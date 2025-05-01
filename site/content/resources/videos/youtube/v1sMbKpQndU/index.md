@@ -43,20 +43,11 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Team Motivation
-- Software Development
-- Scrum Team
-- Agile Strategy
-- Coaching
-- Continuous Improvement
-- Self Organisation
-- Sociotechnical Systems
-- Mentoring
 resourceTypes:
 - video
 categories:
 - Technical Leadership
 - Product Development
-- Scrum
 
 ---
 ## The Agile Landscape: A Guide to Effective [Coaching]({{< ref "/tags/coaching" >}}) and [Leadership]({{< ref "/categories/leadership" >}}) 

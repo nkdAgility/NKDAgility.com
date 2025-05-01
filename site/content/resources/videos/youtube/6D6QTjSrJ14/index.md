@@ -32,15 +32,11 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Coaching
-- Continuous Improvement
-- Customer Feedback Loops
-- Competence
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

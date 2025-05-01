@@ -32,9 +32,6 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Organisational Change
-- Coaching
-- Mentoring
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +39,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 As I reflect on my journey in agile [leadership]({{< ref "/categories/leadership" >}}), I often find myself pondering the pivotal role that effective training plays in shaping the leaders of tomorrow. Recently, I had the opportunity to delve into the Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials course, which serves as a crucial stepping stone for managers and leaders transitioning from traditional management styles to agile leadership. This course is designed to empower [Scrum]({{< ref "/categories/scrum" >}}) teams and agile practitioners, helping them flourish and create exceptional products.

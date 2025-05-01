@@ -31,14 +31,11 @@ tags:
 - Flow Efficiency
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
-- Complexity Thinking
-- Systems Thinking
 resourceTypes:
 - video
 layout: video
 categories:
-- Lean
+- Uncategorized
 
 ---
 **What is the difference between resource efficiency and [flow efficiency]({{< ref "/tags/flow-efficiency" >}})?**

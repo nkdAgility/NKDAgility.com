@@ -37,16 +37,10 @@ tags:
 - Software Development
 - Operational Practices
 - Pragmatic Thinking
-- Team Collaboration
-- Market Adaptability
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 categories:
 - DevOps
-- Engineering Excellence
-- Technical Leadership
 
 ---
 ## Why Agile Alone Isn't Enough Without [DevOps]({{< ref "/categories/devops" >}}) Consulting 

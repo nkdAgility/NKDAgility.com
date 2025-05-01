@@ -30,15 +30,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Frameworks
-- Agile Planning
-- Organisational Agility
-- Agile Strategy
-- Agile Transformation
-- Customer Feedback Loops
-- Team Collaboration
-- Team Motivation
-- Team Performance
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

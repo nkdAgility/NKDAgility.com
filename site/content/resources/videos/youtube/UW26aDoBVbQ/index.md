@@ -32,11 +32,6 @@ tags:
 - Value Delivery
 - Lean Principles
 - Lean Thinking
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Strategy
-- Operational Practices
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6

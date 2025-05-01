@@ -36,11 +36,6 @@ tags:
 - Product Delivery
 - Agile Planning
 - Scrum Team
-- Agile Frameworks
-- Agile Transformation
-- Backlog Refinement
-- Pragmatic Thinking
-- Value Delivery
 resourceTypes:
 - video
 layout: video

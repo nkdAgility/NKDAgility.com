@@ -35,12 +35,11 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
-- Decision Theory
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## **What Is Traditional Management?**

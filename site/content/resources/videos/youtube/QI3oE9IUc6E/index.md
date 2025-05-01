@@ -36,13 +36,6 @@ tags:
 - Agile Frameworks
 - Software Development
 - Professional Scrum
-- Agile Product Management
-- Agile Transformation
-- Pragmatic Thinking
-- Working Software
-- Scrum Master
-- Product Delivery
-- Team Performance
 resourceTypes:
 - video
 categories:

@@ -32,16 +32,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Transformation
-- Software Development
-- Continuous Improvement
-- Competence
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 Why did you choose the [Scrum]({{< ref "/categories/scrum" >}}).Org track rather than the Scrum Alliance track?

@@ -28,9 +28,6 @@ isShort: true
 tags:
 - Operational Practices
 - Software Development
-- Agile Frameworks
-- Continuous Improvement
-- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +36,6 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Product Development
 
 ---
 When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.

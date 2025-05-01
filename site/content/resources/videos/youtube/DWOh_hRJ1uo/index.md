@@ -33,12 +33,10 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Competence
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 **What is your best advice for becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master outside software engineering?**

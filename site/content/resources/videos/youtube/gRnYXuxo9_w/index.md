@@ -36,8 +36,6 @@ tags:
 - Social Technologies
 - Team Collaboration
 - Team Motivation
-- Agile Transformation
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

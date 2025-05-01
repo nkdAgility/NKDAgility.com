@@ -24,15 +24,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
-tags:
-- Pragmatic Thinking
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When it comes to data migration, one of the most pressing concerns for organisations is often the potential for downtime. However, I’ve learned through experience that this concern can sometimes be overstated, especially in environments with a large number of software engineers. Let me share some insights from my journey that might help you navigate this complex process.

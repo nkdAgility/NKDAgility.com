@@ -35,12 +35,6 @@ tags:
 - Team Performance
 - Agile Product Management
 - Social Technologies
-- Software Development
-- Coaching
-- Organisational Agility
-- Team Collaboration
-- Agile Leadership
-- Organisational Culture
 resourceTypes:
 - video
 layout: video

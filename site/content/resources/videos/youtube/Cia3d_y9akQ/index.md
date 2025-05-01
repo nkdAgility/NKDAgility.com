@@ -34,8 +34,6 @@ tags:
 - Competence
 - Pragmatic Thinking
 - Team Performance
-- Agile Philosophy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

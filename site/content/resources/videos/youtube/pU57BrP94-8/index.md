@@ -30,15 +30,10 @@ sitemap:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-- Coaching
-- Team Collaboration
-- Organisational Agility
-- Social Technologies
-- Competence
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

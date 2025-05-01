@@ -34,12 +34,10 @@ sitemap:
   priority: 0.6
 tags:
 - Personal
-- Scrum Values
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 ## My Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer Legacy: What Matters Most to Me?

@@ -36,10 +36,10 @@ tags:
 - Scrum Team
 - Social Technologies
 - Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 

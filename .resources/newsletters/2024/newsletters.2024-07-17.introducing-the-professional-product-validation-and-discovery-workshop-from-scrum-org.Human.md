@@ -27,10 +27,6 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Delivery
-- Customer Satisfaction
-- MVP
-- Product Owner
-- Experimentation
 
 ---
 **Dear Innovators and Product Enthusiasts,**

@@ -22,7 +22,8 @@ card:
     content: Learn More
   content: Discover more about Emergant Work and how it can help you in your Agile journey!
   title: Emergant Work
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

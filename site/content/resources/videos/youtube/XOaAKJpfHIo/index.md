@@ -32,13 +32,10 @@ tags:
 - Software Development
 - Value Delivery
 - Product Delivery
-- Pragmatic Thinking
-- Market Adaptability
-- Working Software
 resourceTypes:
 - video
 categories:
-- DevOps
+- Uncategorized
 
 ---
 How important is [DevOps]({{< ref "/categories/devops" >}}) in [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to customers?

@@ -44,15 +44,9 @@ tags:
 - Empirical Process Control
 - Product Delivery
 - Organisational Agility
-- Working Software
-- Trend Analysis
-- Agile Transformation
-- Business Agility
-- Customer Satisfaction
 categories:
 - Product Management
 - Scrum
-- Engineering Excellence
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

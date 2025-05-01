@@ -30,14 +30,11 @@ sitemap:
 tags:
 - Software Development
 - Agile Product Management
-- Pragmatic Thinking
-- Agile Planning
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Development
-- Scrum
+- Uncategorized
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

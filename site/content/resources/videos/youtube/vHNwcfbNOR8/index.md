@@ -31,12 +31,10 @@ sitemap:
 tags:
 - Continuous Learning
 - Mentoring
-- Coaching
-- Personal
-- Agile Transformation
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **What is your feeling on creating Agile apprenticeships?**

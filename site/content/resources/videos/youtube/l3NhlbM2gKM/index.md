@@ -33,12 +33,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Empirical Process Control
-- Agile Philosophy
-- Agile Planning
-- Software Development
+tags: []
 resourceTypes:
 - video
 categories:

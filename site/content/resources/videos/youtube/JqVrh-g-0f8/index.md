@@ -31,12 +31,10 @@ sitemap:
 tags:
 - Software Development
 - Product Backlog
-- Product Owner
-- Agile Product Management
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ## The Order of Product Backlogs

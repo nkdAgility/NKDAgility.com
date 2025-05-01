@@ -43,13 +43,8 @@ tags:
 - Beta Codex
 - Agile Philosophy
 - Agile Strategy
-- Complexity Thinking
-- Large Scale Agility
-- Social Technologies
-- Agile Leadership
-- Strategic Goals
 categories:
-- Leadership
+- Uncategorized
 preview: 1686217267121-1-1-1.jpg
 
 ---

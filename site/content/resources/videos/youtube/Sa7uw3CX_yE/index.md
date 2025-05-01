@@ -24,16 +24,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 isShort: false
-tags:
-- Continuous Improvement
-- Social Technologies
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I reflect on my recent experiences with agile practices and the challenges that many organisations face, I find myself drawn to the concept of [transparency]({{< ref "/tags/transparency" >}}) and the importance of understanding what it truly means to be agile. In a world where 81% of development teams claim to be agile, it’s crucial to ask ourselves: are we genuinely embracing the principles of agility, or are we merely paying lip service to the idea?

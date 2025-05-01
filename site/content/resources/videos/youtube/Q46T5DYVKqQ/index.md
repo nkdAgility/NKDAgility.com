@@ -34,16 +34,6 @@ tags:
 - Pragmatic Thinking
 - Agile Philosophy
 - Continuous Improvement
-- Ability to Innovate
-- Agile Product Management
-- Continuous Learning
-- Organisational Agility
-- Agile Planning
-- Agile Transformation
-- Evidence Based Management
-- Agile Values and Principles
-- Market Adaptability
-- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

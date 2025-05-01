@@ -34,15 +34,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Product Management
-- Agile Planning Tools
-- Scrum Team
-- Agile Transformation
-- Product Delivery
-- Professional Scrum
-- Team Collaboration
-- Working Software
-- Product Owner
-- Team Performance
 resourceTypes:
 - video
 categories:

@@ -33,7 +33,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share some insights from my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}). Over the past few weeks, I’ve been engaging in live sessions, and it’s been fascinating to see how many of you are actively inspecting and adapting your practices. This is a testament to the Agile mindset, and I’m excited to continue these discussions regularly.

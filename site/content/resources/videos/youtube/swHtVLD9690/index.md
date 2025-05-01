@@ -35,15 +35,10 @@ tags:
 - Pragmatic Thinking
 - Customer Feedback Loops
 - Market Adaptability
-- Continuous Improvement
-- Operational Practices
-- Metrics and Learning
-- Product Delivery
 resourceTypes:
 - video
 categories:
 - DevOps
-- Product Development
 
 ---
 When organizations embark on the journey of adopting [DevOps]({{< ref "/categories/devops" >}}) practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.

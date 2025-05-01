@@ -29,12 +29,6 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Product Management
-- Scrum Team
-- Common Goals
-- Product Delivery
-- Scrum Values
-- Team Performance
-- Transparency
 categories:
 - Scrum
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg

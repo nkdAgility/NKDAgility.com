@@ -49,11 +49,6 @@ tags:
 - Continuous Improvement
 - Customer Satisfaction
 - Operational Practices
-- Social Technologies
-- Agile Philosophy
-- Agile Values and Principles
-- Pragmatic Thinking
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

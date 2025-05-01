@@ -38,12 +38,6 @@ tags:
 - Software Development
 - Scrum Team
 - Product Owner
-- Agile Planning
-- Product Backlog
-- Agile Transformation
-- Pragmatic Thinking
-- Product Delivery
-- Team Performance
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

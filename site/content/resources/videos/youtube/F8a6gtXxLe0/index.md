@@ -26,10 +26,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 isShort: false
-tags:
-- Social Technologies
-- Continuous Improvement
-- Personal
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,7 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
+- Uncategorized
 
 ---
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I can't help but think about the transformative power of understanding the processes that underpin our work. Recently, I had the pleasure of speaking with Dave Fresh, a developer at Health Grades, who shared his initial resistance to a Scrum course. His story resonated with me, as it highlights a common misconception many professionals have about stepping away from their daily tasks to focus on process improvement.

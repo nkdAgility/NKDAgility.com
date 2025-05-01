@@ -33,7 +33,6 @@ sitemap:
 tags:
 - Software Development
 - Agile Product Management
-- Agile Planning
 resourceTypes:
 - video
 categories:

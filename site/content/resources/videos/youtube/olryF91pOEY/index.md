@@ -42,12 +42,6 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Organisational Agility
-- Scrum Master
-- Coaching
-- Continuous Learning
-- Team Motivation
-- Agile Planning
-- Product Delivery
 resourceTypes:
 - video
 categories:

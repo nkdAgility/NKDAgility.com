@@ -32,7 +32,8 @@ tags:
 - Competence
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills

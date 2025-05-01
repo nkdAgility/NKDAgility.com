@@ -24,8 +24,6 @@ tags:
 - Technical Excellence
 - Operational Practices
 - Software Development
-- Product Delivery
-- Value Delivery
 
 ---
 Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).

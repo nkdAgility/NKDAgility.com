@@ -30,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Scrum Master
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Unlock the Full Potential of [Scrum]({{< ref "/categories/scrum" >}}) with APS Courses

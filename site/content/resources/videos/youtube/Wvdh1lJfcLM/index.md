@@ -33,9 +33,6 @@ tags:
 - Azure DevOps
 - Software Development
 - Install and Configuration
-- Digital Transformation
-- Operational Practices
-- Troubleshooting
 resourceTypes:
 - video
 categories:

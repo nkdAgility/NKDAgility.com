@@ -32,13 +32,6 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Product Owner
-- Agile Frameworks
-- Professional Scrum
-- Scrum Team
-- Pragmatic Thinking
-- Product Backlog
-- Software Development
-- Product Delivery
 categories:
 - Scrum
 - Product Management

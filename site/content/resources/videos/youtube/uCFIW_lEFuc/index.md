@@ -41,13 +41,6 @@ tags:
 - Organisational Culture
 - Product Validation
 - Value Delivery
-- Pragmatic Thinking
-- Working Software
-- Team Performance
-- Product Delivery
-- Continuous Learning
-- Deployment Frequency
-- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -56,7 +49,6 @@ resourceTypes:
 - video
 categories:
 - Product Development
-- Scrum
 
 ---
 One of the seven deadly sins of Agile is sloth, and I’ve seen it manifest in various ways across teams, organisations, and [leadership]({{< ref "/categories/leadership" >}}). It’s a pervasive issue that often goes unnoticed, yet it can severely hinder our progress towards true agility. 

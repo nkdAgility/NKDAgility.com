@@ -47,11 +47,6 @@ tags:
 - Release Management
 - Agile Planning
 - Continuous Delivery
-- Flow Efficiency
-- Customer Feedback Loops
-- Team Performance
-- Time to Market
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -30,7 +30,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The [DevOps]({{< ref "/categories/devops" >}}) Evolution: More Than a Simple Shift

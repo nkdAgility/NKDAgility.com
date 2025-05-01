@@ -39,14 +39,10 @@ tags:
 - Agile Frameworks
 - Transparency
 - Flow Efficiency
-- Agile Strategy
-- Pragmatic Thinking
-- Software Development
-- Metrics and Learning
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}) for Enhanced Workflow and Predictability

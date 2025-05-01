@@ -37,12 +37,10 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Scrum Master
-- Agile Leadership
 resourceTypes:
 - video
 categories:
-- Technical Leadership
-- Product Development
+- Uncategorized
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

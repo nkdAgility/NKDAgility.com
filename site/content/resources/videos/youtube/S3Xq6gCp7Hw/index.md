@@ -35,17 +35,6 @@ tags:
 - Scrum Team
 - Product Discovery
 - Agile Product Management
-- Agile Frameworks
-- Agile Planning
-- Agile Transformation
-- Market Adaptability
-- Product Backlog
-- Software Development
-- Value Delivery
-- Working Software
-- Agile Strategy
-- Product Delivery
-- Product Strategy
 resourceTypes:
 - video
 categories:

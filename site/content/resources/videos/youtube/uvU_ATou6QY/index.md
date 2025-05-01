@@ -30,8 +30,6 @@ isShort: false
 tags:
 - Product Owner
 - Agile Product Management
-- Value Delivery
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,7 +38,6 @@ resourceTypes:
 - video
 categories:
 - Product Development
-- Product Management
 
 ---
 As a [product owner]({{< ref "/tags/product-owner" >}}), I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 

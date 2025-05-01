@@ -37,14 +37,10 @@ tags:
 - Scaling
 - Large Scale Agility
 - Pragmatic Thinking
-- Agile Frameworks
-- Enterprise Agility
-- Software Development
-- Agile Strategy
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 Agile works exceptionally well when it’s just one team, doesn’t it? The simplicity of interactions, the fluidity of communication, and the ability to pivot quickly are all hallmarks of a well-functioning agile team. However, what happens when you scale up to ten or more teams? Suddenly, those straightforward interactions become a tangled web of dependencies, and before you know it, everything slows down to a crawl. Does this scenario resonate with you?

@@ -31,16 +31,10 @@ sitemap:
 tags:
 - Professional Scrum
 - Agile Frameworks
-- Agile Transformation
-- Empirical Process Control
-- Software Development
-- Pragmatic Thinking
-- Scrum Master
 resourceTypes:
 - video
 categories:
 - Scrum
-- Product Development
 
 ---
 What is the most common Aha moment people have in a [scrum]({{< ref "/categories/scrum" >}}) course?

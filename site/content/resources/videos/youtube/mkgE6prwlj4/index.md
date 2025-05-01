@@ -36,7 +36,8 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Spotlight on Outstanding [Scrum]({{< ref "/categories/scrum" >}}) Application

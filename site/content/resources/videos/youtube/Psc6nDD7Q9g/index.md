@@ -40,12 +40,6 @@ tags:
 - Throughput
 - Organisational Agility
 - Transparency
-- Continuous Delivery
-- Cycle Time
-- Lead Time
-- Metrics and Learning
-- Empirical Process Control
-- Product Delivery
 resourceTypes:
 - video
 categories:

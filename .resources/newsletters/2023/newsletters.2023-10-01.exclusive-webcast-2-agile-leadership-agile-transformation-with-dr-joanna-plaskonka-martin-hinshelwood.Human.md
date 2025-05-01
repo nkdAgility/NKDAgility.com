@@ -24,9 +24,6 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Organisational Agility
-- Enterprise Agility
-- Organisational Change
-- Software Development
 
 ---
 **🌟 Exclusive Webcast #2: "Agile [Leadership]({{< ref "/categories/leadership" >}}) & [Agile Transformation]({{< ref "/tags/agile-transformation" >}})" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

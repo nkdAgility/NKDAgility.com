@@ -56,11 +56,6 @@ tags:
 - Product Backlog
 - Scrum Team
 - Agile Transformation
-- Agile Product Management
-- Pragmatic Thinking
-- Team Collaboration
-- Team Performance
-- Cross Functional Teams
 
 ---
 The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus

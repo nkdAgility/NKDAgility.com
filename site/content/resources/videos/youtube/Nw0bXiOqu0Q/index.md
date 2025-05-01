@@ -39,19 +39,10 @@ tags:
 - Software Development
 - Market Adaptability
 - Agile Transformation
-- Change Management
-- Agile Frameworks
-- Organisational Change
-- Agile Leadership
-- Continuous Improvement
-- Enterprise Agility
-- Hypothesis Driven Development
-- Agile Values and Principles
-- Continuous Learning
-- Decision Making
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

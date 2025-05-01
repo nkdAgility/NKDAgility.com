@@ -34,11 +34,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Professional Scrum
-- Agile Strategy
-- Scrum Team
-- Product Delivery
-- Common Goals
-- Value Delivery
 resourceTypes:
 - video
 categories:

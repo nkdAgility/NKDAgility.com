@@ -40,15 +40,10 @@ tags:
 - Team Motivation
 - Mentoring
 - Self Organisation
-- Agile Philosophy
-- Agile Transformation
-- Agile Product Management
 resourceTypes:
 - video
 categories:
-- Scrum
-- Technical Leadership
-- Product Development
+- Uncategorized
 
 ---
 **Is a [scrum]({{< ref "/categories/scrum" >}}) master an agile micromanager?**

@@ -29,9 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Planning
-- Agile Product Management
-- Product Delivery
 resourceTypes:
 - video
 layout: video

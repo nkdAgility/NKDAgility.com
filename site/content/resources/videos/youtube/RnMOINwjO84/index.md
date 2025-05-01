@@ -33,12 +33,6 @@ tags:
 - Organisational Agility
 - Organisational Physics
 - Decision Theory
-- Agile Philosophy
-- Agile Product Management
-- Agile Strategy
-- Continuous Learning
-- Sensemaking
-- Beta Codex
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,7 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.

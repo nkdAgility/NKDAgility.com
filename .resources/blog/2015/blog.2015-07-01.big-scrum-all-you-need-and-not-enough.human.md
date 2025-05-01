@@ -33,9 +33,6 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Agile Transformation
-- Large Scale Agility
-- Agile Product Management
-- Team Performance
 categories:
 - Scrum
 preview: clip_image003-3-3.png

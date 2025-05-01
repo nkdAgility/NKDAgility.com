@@ -33,13 +33,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Improvement
-- Metrics and Learning
+tags: []
 resourceTypes:
 - video
 categories:
-- Product Development
+- Uncategorized
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

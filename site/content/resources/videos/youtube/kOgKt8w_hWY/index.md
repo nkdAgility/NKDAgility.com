@@ -27,7 +27,6 @@ duration: 35
 isShort: true
 tags:
 - Social Technologies
-- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -28,15 +28,14 @@ isShort: false
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-- Software Development
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When it comes to learning, especially in the realm of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often found that the traditional approach of cramming information into a couple of days can be less effective than we might hope. Reflecting on my experiences, I’ve come to appreciate the value of spreading learning over a longer period, allowing for deeper engagement and practical application.

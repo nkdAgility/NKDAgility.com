@@ -38,21 +38,11 @@ tags:
 - Product Owner
 - Organisational Culture
 - Sociotechnical Systems
-- Agile Frameworks
-- Agile Product Management
-- Agile Product Operating Model
-- Azure DevOps
-- Deployment Frequency
-- Digital Transformation
-- Social Technologies
-- Product Delivery
 resourceTypes:
 - video
 layout: video
 categories:
 - Product Development
-- Product Management
-- Leadership
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of [product management]({{< ref "/categories/product-management" >}}) - these are the MVPs who redefine the game. 🌟 

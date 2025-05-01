@@ -32,15 +32,6 @@ tags:
 - Social Technologies
 - Psychological Safety
 - Team Motivation
-- Agile Product Management
-- Agile Transformation
-- Software Development
-- Value Delivery
-- Agile Strategy
-- Agile Values and Principles
-- Organisational Agility
-- Sociotechnical Systems
-- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

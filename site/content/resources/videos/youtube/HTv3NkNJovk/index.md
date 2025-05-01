@@ -38,17 +38,6 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Organisational Change
-- Ability to Innovate
-- Agile Frameworks
-- Agile Values and Principles
-- Digital Transformation
-- Empirical Process Control
-- Enterprise Agility
-- Evidence Based Leadership
-- Social Technologies
-- Sociotechnical Systems
-- Software Development
-- Value Delivery
 resourceTypes:
 - video
 categories:

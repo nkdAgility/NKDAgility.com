@@ -38,19 +38,11 @@ tags:
 - Scrum Master
 - Scrum Team
 - Coaching
-- Team Collaboration
-- Agile Planning
-- Agile Product Management
-- Continuous Learning
-- Experimentation
-- Agile Philosophy
-- Competence
 resourceTypes:
 - video
 layout: video
 categories:
-- Technical Leadership
-- Scrum
+- Uncategorized
 
 ---
 What is the hardest part of working with a brand-new [scrum]({{< ref "/categories/scrum" >}}) team?

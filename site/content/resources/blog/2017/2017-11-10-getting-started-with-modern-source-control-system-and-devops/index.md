@@ -35,13 +35,6 @@ tags:
 - Engineering Practices
 - Modern Source Control
 - Pragmatic Thinking
-- Value Delivery
-- Azure DevOps
-- Continuous Delivery
-- Technical Excellence
-- Test First Development
-- Working Software
-- Product Delivery
 categories:
 - Engineering Excellence
 - DevOps

@@ -26,13 +26,8 @@ aliasesArchive:
 tags:
 - Release Management
 - Software Development
-- Azure DevOps
-- Azure Pipelines
-- Frequent Releases
-- Operational Practices
-- Product Delivery
 categories:
-- DevOps
+- Uncategorized
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

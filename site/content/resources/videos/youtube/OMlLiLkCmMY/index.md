@@ -32,17 +32,14 @@ tags:
 - Employee Engagement
 - Agile Leadership
 - Organisational Culture
-- Common Goals
-- Social Technologies
-- Organisational Agility
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through [organisational change]({{< ref "/tags/organisational-change" >}}), I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 

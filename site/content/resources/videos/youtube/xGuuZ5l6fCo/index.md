@@ -46,11 +46,6 @@ tags:
 - Product Validation
 - Value Delivery
 - Continuous Improvement
-- Product Delivery
-- Empirical Process Control
-- Market Adaptability
-- Operational Practices
-- Team Performance
 resourceTypes:
 - video
 categories:

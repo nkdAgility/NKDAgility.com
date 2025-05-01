@@ -32,15 +32,11 @@ sitemap:
 tags:
 - Entrepreneurship
 - Decision Theory
-- Agile Product Management
-- Agile Leadership
-- Decision Making
 resourceTypes:
 - video
 categories:
 - Product Management
 - Product Development
-- Leadership
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

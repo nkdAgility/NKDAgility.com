@@ -24,9 +24,7 @@ aliasesArchive:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
-tags:
-- Agile Leadership
-- Scrum Master
+tags: []
 categories:
 - Leadership
 preview: image-2-2.png

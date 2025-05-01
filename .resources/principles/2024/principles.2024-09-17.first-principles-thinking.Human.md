@@ -22,7 +22,8 @@ card:
     content: Start Optimizing Now
   title: First Principles Thinking
   content: Apply First Principles Thinking to break down complex problems and find innovative solutions by understanding the fundamental truths.
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

@@ -36,11 +36,6 @@ tags:
 - Engineering Practices
 - Operational Practices
 - Pragmatic Thinking
-- Product Delivery
-- Working Software
-- Frequent Releases
-- Continuous Improvement
-- Time to Market
 categories:
 - Engineering Excellence
 - DevOps

@@ -28,12 +28,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 **Why is becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master a great career option?**

@@ -28,14 +28,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
-- Pragmatic Thinking
-- Competence
-- Personal
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **How does someone become an Agile consultant?**

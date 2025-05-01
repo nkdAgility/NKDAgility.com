@@ -26,15 +26,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
-tags:
-- Competence
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In the ever-evolving landscape of Agile methodologies, one of the most alarming signs of the impending Agile apocalypse is the emergence of what I like to call the "Antichrist" of Agile. Now, before you raise an eyebrow, let me clarify: this Antichrist isn't a figure shrouded in mystery or malevolence. Instead, it manifests in the form of fake agilists—individuals who, despite holding certifications, lack the fundamental understanding of what it truly means to be Agile.

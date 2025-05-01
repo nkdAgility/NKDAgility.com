@@ -21,7 +21,8 @@ aliasesArchive:
 - /vista-mobile-device-center
 - /resources/blog/vista-mobile-device-center
 tags: []
-categories: []
+categories:
+- Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

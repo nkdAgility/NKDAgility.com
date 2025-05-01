@@ -32,15 +32,6 @@ tags:
 - Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
-- Agile Frameworks
-- Business Agility
-- Social Technologies
-- Software Development
-- Team Collaboration
-- Enterprise Agility
-- Organisational Culture
-- Team Performance
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,7 +41,6 @@ resourceTypes:
 categories:
 - Leadership
 - Technical Leadership
-- Scrum
 
 ---
 As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and Microsoft MVP, I often find myself reflecting on the transformative power of agile methodologies. Today, I want to share my insights on the Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) Essentials workshop offered by Scrum.org, which I believe is crucial for anyone looking to enhance their leadership skills in an agile environment.

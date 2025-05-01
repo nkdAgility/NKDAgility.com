@@ -32,10 +32,6 @@ tags:
 - Decision Making
 - Software Development
 - Value Delivery
-- Continuous Learning
-- Professional Scrum
-- Team Collaboration
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

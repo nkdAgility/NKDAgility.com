@@ -19,9 +19,9 @@ aliases:
 aliasesArchive:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
-categories: []
-tags:
-- Competence
+categories:
+- Uncategorized
+tags: []
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

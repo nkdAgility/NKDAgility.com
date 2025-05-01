@@ -27,11 +27,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
-- Azure Boards
-- Professional Scrum
-- Operational Practices
-- Agile Transformation
-- Product Delivery
 categories:
 - Scrum
 preview: IC749984-1-1.png
