@@ -44,7 +44,7 @@ Without topic branches, you create a fragile system of work. Without topic branc
 
 ### Practical Patterns for Tactical Implementation of Topic Branches
 
-Building on the strategic importance we need actionable patterns that technical leaders and teams can apply. It is not enough to understand why topic branches matter; you need pragmatic, grounded approaches that translate strategy into engineering practice. For most teams and most projects, **[GitHub]({{< ref "/tags/github" >}}) Flow** (the branching model, not the cloud tool) is the most effective model. It is a trunk-based model with minimal overhead and complexity. GitHub Flow treats the main branch as the production-ready line and uses small, short-lived topic branches for all work.
+Building on the strategic importance we need actionable patterns that technical leaders and teams can apply. It is not enough to understand why topic branches matter; you need pragmatic, grounded approaches that translate strategy into engineering practice. For most teams and most projects, **GitHub Flow** (the branching model, not the cloud tool) is the most effective model. It is a trunk-based model with minimal overhead and complexity. GitHub Flow treats the main branch as the production-ready line and uses small, short-lived topic branches for all work.
 
 ![GitHub Flow diagram](images/branchstrategy-trunkbased.png)
 
