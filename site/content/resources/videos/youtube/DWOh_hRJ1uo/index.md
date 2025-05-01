@@ -36,7 +36,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 **What is your best advice for becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master outside software engineering?**

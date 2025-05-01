@@ -37,7 +37,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Leadership
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

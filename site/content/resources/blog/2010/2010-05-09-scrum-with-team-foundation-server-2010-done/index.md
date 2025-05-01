@@ -23,7 +23,7 @@ aliasesArchive:
 tags:
 - Software Development
 categories:
-- Uncategorized
+- Scrum
 preview: metro-event-128-link-3-3.png
 
 ---

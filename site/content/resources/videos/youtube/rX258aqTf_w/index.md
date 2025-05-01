@@ -33,7 +33,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Leadership
 
 ---
 In what circumstances is agile consulting appropriate?

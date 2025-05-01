@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- Scrum
 
 ---
 # Tailoring [Scrum]({{< ref "/categories/scrum" >}}) to Scale: Building Your Own Framework for Success

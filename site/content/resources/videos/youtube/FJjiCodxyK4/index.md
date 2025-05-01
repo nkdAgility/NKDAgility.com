@@ -32,7 +32,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Leadership
 
 ---
 **Why do you prefer agile consulting over agile [coaching]({{< ref "/tags/coaching" >}})?**

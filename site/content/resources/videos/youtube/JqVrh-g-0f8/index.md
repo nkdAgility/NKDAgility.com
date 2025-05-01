@@ -34,7 +34,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## The Order of Product Backlogs

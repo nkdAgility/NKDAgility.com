@@ -40,7 +40,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Technical Leadership
+- Product Development
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

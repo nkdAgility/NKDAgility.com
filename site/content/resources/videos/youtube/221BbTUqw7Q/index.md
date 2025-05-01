@@ -39,6 +39,7 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}})'s True Potential: A Journey Through the APS Immersive Class

@@ -38,6 +38,8 @@ tags:
 - Market Adaptability
 categories:
 - Product Development
+- Engineering Excellence
+- Product Management
 preview: image-1.jpg
 
 ---

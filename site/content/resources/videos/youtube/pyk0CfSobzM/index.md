@@ -33,7 +33,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
+- Product Development
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in [Scrum]({{< ref "/categories/scrum" >}}) Teams

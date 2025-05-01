@@ -45,6 +45,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 ## Why Senior [Leadership]({{< ref "/categories/leadership" >}}) is Non-Negotiable in an Agile Consulting Journey

@@ -37,6 +37,7 @@ resourceTypes:
 categories:
 - Product Management
 - Product Development
+- Leadership
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

@@ -37,6 +37,7 @@ tags:
 - Pragmatic Thinking
 categories:
 - Scrum
+- Technical Leadership
 preview: 1061204442-1-1.jpg
 
 ---

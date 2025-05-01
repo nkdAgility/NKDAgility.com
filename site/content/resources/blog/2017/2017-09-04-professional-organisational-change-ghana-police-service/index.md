@@ -40,6 +40,7 @@ tags:
 - Organisational Physics
 categories:
 - Leadership
+- Scrum
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 
 ---

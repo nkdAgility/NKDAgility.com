@@ -27,7 +27,7 @@ tags:
 - Pragmatic Thinking
 - Technical Mastery
 categories:
-- Uncategorized
+- Engineering Excellence
 preview: metro-test-icon-7-7.png
 
 ---

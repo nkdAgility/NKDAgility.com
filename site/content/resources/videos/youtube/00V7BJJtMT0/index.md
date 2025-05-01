@@ -33,7 +33,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 What is [DevOps]({{< ref "/categories/devops" >}}) and how is it different to Agile?

@@ -46,6 +46,7 @@ tags:
 - Scrum Master
 categories:
 - Scrum
+- Product Management
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 
 ---

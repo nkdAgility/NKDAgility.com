@@ -20,7 +20,7 @@ aliasesArchive:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 categories:
-- Uncategorized
+- Scrum
 tags:
 - Continuous Learning
 - Pragmatic Thinking

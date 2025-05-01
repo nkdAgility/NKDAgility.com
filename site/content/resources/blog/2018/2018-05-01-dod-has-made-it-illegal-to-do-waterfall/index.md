@@ -40,7 +40,7 @@ tags:
 - Agile Frameworks
 - Agile Planning
 categories:
-- Uncategorized
+- Engineering Excellence
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

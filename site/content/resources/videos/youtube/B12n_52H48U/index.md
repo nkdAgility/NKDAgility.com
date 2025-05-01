@@ -38,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- Product Management
 
 ---
 ## The Role of the [Product Owner]({{< ref "/tags/product-owner" >}}): Navigating the Agile Seas 🌊 

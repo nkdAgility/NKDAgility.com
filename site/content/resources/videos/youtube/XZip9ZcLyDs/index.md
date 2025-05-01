@@ -32,7 +32,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Leadership
 
 ---
 **Why is becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master a great career option?**

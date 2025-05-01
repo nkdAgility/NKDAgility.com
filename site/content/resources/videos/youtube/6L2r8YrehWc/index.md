@@ -43,6 +43,7 @@ resourceTypes:
 categories:
 - Scrum
 - Leadership
+- Technical Leadership
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), a common question arises: why isn’t the [Scrum Master]({{< ref "/tags/scrum-master" >}}) endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.

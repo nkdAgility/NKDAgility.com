@@ -34,7 +34,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## From Developer to [Scrum]({{< ref "/categories/scrum" >}}) Developer: A Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})

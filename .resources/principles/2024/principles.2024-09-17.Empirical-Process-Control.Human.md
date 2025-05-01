@@ -23,7 +23,7 @@ card:
   content: Discover more about Empirical Process Control and how it can help you in your Agile journey!
   title: Empirical Process Control
 categories:
-- Uncategorized
+- Scrum
 tags:
 - Empirical Process Control
 - Software Development

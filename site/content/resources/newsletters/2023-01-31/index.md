@@ -20,7 +20,7 @@ aliasesArchive:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 categories:
-- Uncategorized
+- Product Management
 tags: []
 
 ---

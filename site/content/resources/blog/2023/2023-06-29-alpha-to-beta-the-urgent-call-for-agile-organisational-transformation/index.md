@@ -44,7 +44,7 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 categories:
-- Uncategorized
+- Leadership
 preview: 1686217267121-1-1-1.jpg
 
 ---

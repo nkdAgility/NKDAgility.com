@@ -39,6 +39,7 @@ aliases:
 categories:
 - Product Development
 - Product Management
+- Engineering Excellence
 tags:
 - Evidence Based Management
 - Continuous Improvement

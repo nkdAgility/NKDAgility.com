@@ -41,7 +41,7 @@ tags:
 - Organisational Psychology
 - Pragmatic Thinking
 categories:
-- Uncategorized
+- Lean
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---

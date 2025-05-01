@@ -42,6 +42,8 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Technical Leadership
+- Product Development
 
 ---
 In today's fast-paced business world, managers are expected to not only manage but also lead. This shift can be daunting, especially when there’s little to no training or guidance provided. Most managers are left to figure out how to become leaders on their own. While some exceptional individuals thrive in this environment, many would benefit from a bit of help. That’s where agile [leadership]({{< ref "/categories/leadership" >}}) training comes into play.

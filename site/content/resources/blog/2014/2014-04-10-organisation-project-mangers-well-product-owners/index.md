@@ -24,7 +24,8 @@ aliasesArchive:
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags: []
 categories:
-- Uncategorized
+- Product Management
+- Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

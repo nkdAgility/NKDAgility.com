@@ -32,7 +32,8 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
+- Product Management
 
 ---
 ## Step Up Your Game with the PSPO-A Course

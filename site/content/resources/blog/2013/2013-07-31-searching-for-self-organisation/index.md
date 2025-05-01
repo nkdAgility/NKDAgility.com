@@ -34,7 +34,8 @@ tags:
 - Scrum Team
 - Pragmatic Thinking
 categories:
-- Uncategorized
+- Leadership
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

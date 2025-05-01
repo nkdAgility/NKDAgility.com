@@ -35,7 +35,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- DevOps
 
 ---
 How important is [DevOps]({{< ref "/categories/devops" >}}) in [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to customers?

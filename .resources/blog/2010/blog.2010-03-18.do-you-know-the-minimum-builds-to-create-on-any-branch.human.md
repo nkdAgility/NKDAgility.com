@@ -27,7 +27,7 @@ tags:
 - Continuous Integration
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- Uncategorized
+- Engineering Excellence
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

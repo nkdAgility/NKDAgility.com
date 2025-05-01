@@ -37,6 +37,7 @@ tags:
 - Competence
 categories:
 - Scrum
+- Technical Leadership
 preview: 1029723898-1-1.jpg
 
 ---

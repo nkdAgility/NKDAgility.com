@@ -26,7 +26,7 @@ tags:
 - Engineering Practices
 - Technical Mastery
 categories:
-- Uncategorized
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

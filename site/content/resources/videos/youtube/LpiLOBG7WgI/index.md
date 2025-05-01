@@ -43,6 +43,7 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+- Product Management
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

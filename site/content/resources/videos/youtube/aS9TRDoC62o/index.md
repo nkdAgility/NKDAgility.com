@@ -41,6 +41,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Engineering Excellence
+- Technical Leadership
 
 ---
 ## Why Agile Alone Isn't Enough Without [DevOps]({{< ref "/categories/devops" >}}) Consulting 

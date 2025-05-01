@@ -44,6 +44,7 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+- Technical Leadership
 
 ---
 As I reflect on my journey through the world of [Scrum]({{< ref "/categories/scrum" >}}), one of the most profound challenges I've encountered is the way we perceive the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}). This was particularly highlighted during my experience with the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master II (PSM-2) class. It’s a transformative experience that forces us to confront and reassess our assumptions about what it means to be a Scrum Master.

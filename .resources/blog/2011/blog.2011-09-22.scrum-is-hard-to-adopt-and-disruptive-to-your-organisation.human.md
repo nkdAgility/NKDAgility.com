@@ -28,6 +28,7 @@ tags:
 - Product Delivery
 categories:
 - Scrum
+- Product Management
 preview: nakedalm-experts-professional-scrum-4-4.png
 
 ---

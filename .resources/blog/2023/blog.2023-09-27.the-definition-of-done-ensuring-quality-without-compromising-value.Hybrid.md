@@ -37,6 +37,7 @@ tags:
 categories:
 - Product Development
 - Scrum
+- Engineering Excellence
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 
 ---

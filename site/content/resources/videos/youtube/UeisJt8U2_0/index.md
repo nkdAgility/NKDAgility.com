@@ -39,7 +39,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 # Navigating the Plague of Incompetence in Agile [Coaching]({{< ref "/tags/coaching" >}}) 🚧

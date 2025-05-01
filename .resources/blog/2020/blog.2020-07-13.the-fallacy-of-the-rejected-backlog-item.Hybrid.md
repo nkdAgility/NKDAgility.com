@@ -42,6 +42,7 @@ tags:
 categories:
 - Scrum
 - Product Management
+- Engineering Excellence
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

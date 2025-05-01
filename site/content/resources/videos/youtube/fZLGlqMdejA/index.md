@@ -48,6 +48,7 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- Scrum
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

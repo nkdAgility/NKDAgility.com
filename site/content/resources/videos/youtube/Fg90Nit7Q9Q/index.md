@@ -31,7 +31,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## Bridging [DevOps]({{< ref "/categories/devops" >}}) & Software Engineering Through [Scrum]({{< ref "/categories/scrum" >}})! 🔥

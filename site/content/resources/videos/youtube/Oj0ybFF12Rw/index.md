@@ -37,7 +37,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 ## "Don't scale [scrum]({{< ref "/categories/scrum" >}})" - A Common Refrain 

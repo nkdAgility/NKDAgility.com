@@ -25,7 +25,7 @@ card:
   content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
   title: The Importance of Batch to Optimise Flow
 categories:
-- Uncategorized
+- Product Development
 tags:
 - Flow Efficiency
 - Operational Practices

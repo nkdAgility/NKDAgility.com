@@ -20,7 +20,7 @@ aliasesArchive:
 - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 categories:
-- Uncategorized
+- Scrum
 tags: []
 
 ---

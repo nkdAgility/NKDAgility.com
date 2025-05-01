@@ -37,7 +37,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
+- Scrum
 
 ---
 When it comes to the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself reflecting on the dynamics within a team. Recently, I was asked whether I would recommend an Agile Process Simulation (APS) workshop or an agile consultant if a [Scrum Master]({{< ref "/tags/scrum-master" >}}) was struggling with their team. My immediate thought was, “Perhaps we need to consider a new Scrum Master.” After all, if a Scrum Master is battling with their team, it raises some serious questions about their effectiveness and understanding of their role.

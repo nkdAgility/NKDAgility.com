@@ -33,6 +33,7 @@ tags:
 categories:
 - Scrum
 - Technical Leadership
+- Leadership
 preview: Wide-screen-scrum-master-3-3.jpg
 
 ---

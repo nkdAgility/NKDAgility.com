@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
 
 ---
 In high competition markets, how does [scrum]({{< ref "/categories/scrum" >}}) [product development]({{< ref "/categories/product-development" >}}) help acquire and retain customers?

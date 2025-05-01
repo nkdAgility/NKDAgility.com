@@ -34,7 +34,7 @@ aliasesArchive:
 tags:
 - Software Development
 categories:
-- Uncategorized
+- Scrum
 preview: clip_image001-1-1.jpg
 
 ---

@@ -35,7 +35,8 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Leadership
+- Scrum
 
 ---
 ## Ascending the [Leadership]({{< ref "/categories/leadership" >}}) Ladder

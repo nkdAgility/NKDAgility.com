@@ -37,7 +37,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

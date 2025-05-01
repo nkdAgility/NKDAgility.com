@@ -36,7 +36,9 @@ tags:
 - Evidence Based Management
 - Decision Making
 categories:
-- Uncategorized
+- Leadership
+- Product Management
+- Scrum
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

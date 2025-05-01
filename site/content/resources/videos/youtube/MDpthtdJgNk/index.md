@@ -34,7 +34,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Kanban
 
 ---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}): A Creative Approach to Workflow Optimization

@@ -38,7 +38,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

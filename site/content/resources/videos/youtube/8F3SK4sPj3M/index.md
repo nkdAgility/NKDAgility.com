@@ -33,7 +33,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## Stepping Up Your Game as a [Product Owner]({{< ref "/tags/product-owner" >}})

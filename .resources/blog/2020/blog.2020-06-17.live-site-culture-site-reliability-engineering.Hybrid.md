@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/live-site-culture-site-reliability-engineering
 categories:
 - DevOps
+- Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
 - Frequent Releases

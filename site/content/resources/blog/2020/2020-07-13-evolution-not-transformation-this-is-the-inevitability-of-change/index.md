@@ -45,6 +45,7 @@ tags:
 - Agile Values and Principles
 categories:
 - Leadership
+- Technical Leadership
 preview: image-15-5-4.png
 
 ---

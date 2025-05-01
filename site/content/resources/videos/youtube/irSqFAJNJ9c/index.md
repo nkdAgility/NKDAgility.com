@@ -35,7 +35,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 Sure, there are poor practices that impact **[scrum]({{< ref "/categories/scrum" >}}) teams**, but I tend to focus on the outcomes to determine whether a **[scrum team]({{< ref "/tags/scrum-team" >}})** is failing or progressing.

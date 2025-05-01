@@ -33,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

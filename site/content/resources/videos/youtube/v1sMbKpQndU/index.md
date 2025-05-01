@@ -48,6 +48,7 @@ resourceTypes:
 categories:
 - Technical Leadership
 - Product Development
+- Scrum
 
 ---
 ## The Agile Landscape: A Guide to Effective [Coaching]({{< ref "/tags/coaching" >}}) and [Leadership]({{< ref "/categories/leadership" >}}) 

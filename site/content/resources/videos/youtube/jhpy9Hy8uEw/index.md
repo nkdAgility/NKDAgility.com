@@ -36,7 +36,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 Why did you choose the [Scrum]({{< ref "/categories/scrum" >}}).Org track rather than the Scrum Alliance track?

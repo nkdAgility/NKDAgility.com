@@ -43,7 +43,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Kanban
+- Product Development
 
 ---
 ### Avoiding Common Mistakes in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy

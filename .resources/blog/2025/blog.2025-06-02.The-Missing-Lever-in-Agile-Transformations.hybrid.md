@@ -14,6 +14,7 @@ aliasesArchive:
 - /blog/the-missing-lever-in-agile-transformations
 categories:
 - Leadership
+- Product Development
 tags:
 - Agentic Agility
 - Organisational Agility

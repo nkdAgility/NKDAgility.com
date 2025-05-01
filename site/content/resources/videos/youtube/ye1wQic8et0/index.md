@@ -38,7 +38,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce [time to market]({{< ref "/tags/time-to-market" >}}). Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.

@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Technical Leadership
+- Product Development
 
 ---
 Naked agility can be a transformative partner in fostering [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and cultivating [technical leadership]({{< ref "/categories/technical-leadership" >}}) within your organisation. Over the past few videos, I’ve delved into various aspects of this journey, and today, I want to share some insights that I believe are crucial for anyone looking to elevate their [engineering practices]({{< ref "/tags/engineering-practices" >}}).

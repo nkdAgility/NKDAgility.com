@@ -51,6 +51,8 @@ resourceTypes:
 - video
 categories:
 - Technical Leadership
+- Scrum
+- Product Development
 
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 

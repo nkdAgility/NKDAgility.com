@@ -39,6 +39,7 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- Product Management
 
 ---
 When embarking on any journey, whether it’s a personal project or a large-scale [organisational change]({{< ref "/tags/organisational-change" >}}), clarity of outcomes is paramount. I’ve often found that once you’ve defined what success looks like, the next crucial step is determining the metrics that will guide you towards those outcomes. This is where the concept of evidence-based management comes into play, and it’s something I’ve seen make a significant difference in various contexts.

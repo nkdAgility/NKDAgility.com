@@ -42,6 +42,7 @@ card:
 categories:
 - Scrum
 - Product Development
+- Product Management
 tags:
 - Sprint Review
 - Software Development

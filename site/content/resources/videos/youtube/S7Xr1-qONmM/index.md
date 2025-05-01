@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
 
 ---
 Why do you think the PSU course has become so popular for [product development]({{< ref "/categories/product-development" >}})?

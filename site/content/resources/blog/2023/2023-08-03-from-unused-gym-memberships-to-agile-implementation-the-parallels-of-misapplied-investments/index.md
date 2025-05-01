@@ -28,7 +28,7 @@ tags:
 - Software Development
 - Agile Philosophy
 categories:
-- Uncategorized
+- Product Development
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 
 ---

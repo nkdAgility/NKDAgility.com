@@ -34,7 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"

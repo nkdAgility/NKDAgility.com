@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- DevOps
+- Technical Leadership
 
 ---
 In my journey through the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I've often encountered a common misconception: the belief that an external party can swoop in and provide a one-size-fits-all solution to an organisation's challenges. This notion is not only misguided but also detrimental to the very essence of what it means to be agile. 

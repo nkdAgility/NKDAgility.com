@@ -33,7 +33,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 What is a common mistake made by rookie agile consultants?

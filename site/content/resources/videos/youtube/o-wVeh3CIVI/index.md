@@ -35,7 +35,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 **What is [Scrum]({{< ref "/categories/scrum" >}})?**

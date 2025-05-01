@@ -42,7 +42,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}) for Enhanced Workflow and Predictability

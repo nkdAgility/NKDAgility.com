@@ -39,7 +39,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

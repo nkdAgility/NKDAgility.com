@@ -34,7 +34,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Leadership
 
 ---
 Product of Conventional Practices

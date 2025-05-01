@@ -32,7 +32,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 

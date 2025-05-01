@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 When I think about the journey of becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often reflect on the transformative experiences that shape our understanding and application of Agile principles. One of the most significant aspects of this journey is the immediate ability to put theory into practice. From the very first session of my training, participants are not just passive learners; they are actively engaged in identifying and addressing real issues within their organisations. 

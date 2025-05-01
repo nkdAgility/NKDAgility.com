@@ -33,7 +33,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
+- Product Management
 
 ---
 As an entrepreneur, I often find myself reflecting on the pivotal role that [product management]({{< ref "/categories/product-management" >}}) plays in the success of a startup. Having navigated the tumultuous waters of [entrepreneurship]({{< ref "/tags/entrepreneurship" >}}), I can confidently say that understanding value is not just a nice-to-have; it’s essential. This is why I wholeheartedly recommend the Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) (PSPO) course, particularly for those of us who are at the helm of small organisations.

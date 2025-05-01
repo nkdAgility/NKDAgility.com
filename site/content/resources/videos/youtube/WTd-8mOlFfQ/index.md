@@ -39,7 +39,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 ## Escaping the Administrative Vortex: Insights for [Scrum]({{< ref "/categories/scrum" >}}) Masters - Part 2

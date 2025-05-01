@@ -33,7 +33,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in [engineering practices]({{< ref "/tags/engineering-practices" >}}) or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the [coaching]({{< ref "/tags/coaching" >}}) and advice you need to maximise your return on investment.

@@ -44,6 +44,7 @@ resourceTypes:
 categories:
 - Engineering Excellence
 - Product Development
+- DevOps
 
 ---
 I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.

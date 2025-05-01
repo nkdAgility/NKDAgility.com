@@ -48,6 +48,7 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+- Technical Leadership
 
 ---
 ## Reinvigorating Your [Scrum]({{< ref "/categories/scrum" >}}) Team: The Agile Coach's Playbook 🚀 

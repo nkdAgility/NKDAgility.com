@@ -33,7 +33,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 **Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**

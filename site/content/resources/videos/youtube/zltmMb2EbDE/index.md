@@ -41,7 +41,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Kanban
+- Product Development
 
 ---
 ### Integrating [Kanban]({{< ref "/categories/kanban" >}}) with [Scrum]({{< ref "/categories/scrum" >}}): Enhancing Your Workflow

@@ -35,7 +35,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 **When should an organisation consider a professional agile consultant?**

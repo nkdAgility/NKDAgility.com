@@ -33,7 +33,7 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 categories:
-- Uncategorized
+- Scrum
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

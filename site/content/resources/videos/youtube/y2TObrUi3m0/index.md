@@ -38,7 +38,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 In the ever-evolving landscape of Agile methodologies, I often find myself reflecting on what truly deserves more attention than it currently receives. Surprisingly, it’s not the latest tools or frameworks that should be at the forefront of our discussions. Instead, I believe we need to shift our focus back to the foundational principles that underpin Agile practices.

@@ -34,7 +34,8 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Product Development
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

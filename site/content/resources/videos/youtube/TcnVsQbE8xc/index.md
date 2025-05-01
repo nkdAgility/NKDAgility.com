@@ -33,7 +33,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

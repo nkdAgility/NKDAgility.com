@@ -42,7 +42,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
+- Product Development
 
 ---
 ## The Golden Nugget of [Scrum]({{< ref "/categories/scrum" >}}) Advice I've Ever Received

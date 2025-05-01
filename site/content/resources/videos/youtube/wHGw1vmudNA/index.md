@@ -39,7 +39,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Technical Leadership
+- Product Development
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

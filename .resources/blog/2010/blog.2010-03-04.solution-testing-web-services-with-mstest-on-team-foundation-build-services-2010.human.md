@@ -33,7 +33,7 @@ tags:
 - Troubleshooting
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- Uncategorized
+- Engineering Excellence
 
 ---
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

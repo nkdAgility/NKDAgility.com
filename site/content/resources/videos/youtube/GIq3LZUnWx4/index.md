@@ -35,7 +35,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Management
+- Product Development
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

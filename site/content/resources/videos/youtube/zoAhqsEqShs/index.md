@@ -33,7 +33,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Leadership
+- Product Development
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

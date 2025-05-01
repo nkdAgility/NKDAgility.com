@@ -32,7 +32,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## The Missing Piece in My Initial [Scrum]({{< ref "/categories/scrum" >}}) Journey

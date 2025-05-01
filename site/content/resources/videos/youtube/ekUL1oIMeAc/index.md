@@ -33,7 +33,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
+- Scrum
 
 ---
 ## [Product Owner]({{< ref "/tags/product-owner" >}})'s Misstep

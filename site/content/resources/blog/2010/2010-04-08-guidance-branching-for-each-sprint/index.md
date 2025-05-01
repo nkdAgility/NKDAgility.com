@@ -24,7 +24,7 @@ aliasesArchive:
 - /blog/guidance---branching-for-each-sprint
 - /resources/blog/guidance-branching-for-each-sprint
 categories:
-- Uncategorized
+- Scrum
 tags:
 - Software Development
 - Modern Source Control

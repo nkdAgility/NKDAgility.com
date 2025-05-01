@@ -42,6 +42,7 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
+- Leadership
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

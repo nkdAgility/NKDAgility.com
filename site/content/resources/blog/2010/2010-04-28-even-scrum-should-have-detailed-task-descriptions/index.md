@@ -23,7 +23,7 @@ aliasesArchive:
 tags:
 - Software Development
 categories:
-- Uncategorized
+- Scrum
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -26,7 +26,7 @@ tags:
 - Pragmatic Thinking
 - Internal Developer Platform
 categories:
-- Uncategorized
+- DevOps
 preview: metro-lab-5-5.png
 
 ---

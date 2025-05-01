@@ -35,7 +35,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Lean
 
 ---
 **What is the difference between resource efficiency and [flow efficiency]({{< ref "/tags/flow-efficiency" >}})?**

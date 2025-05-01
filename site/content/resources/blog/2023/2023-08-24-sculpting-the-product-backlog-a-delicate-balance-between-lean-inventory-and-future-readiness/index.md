@@ -38,6 +38,7 @@ tags:
 categories:
 - Product Management
 - Product Development
+- Lean
 preview: image-1.jpg
 
 ---

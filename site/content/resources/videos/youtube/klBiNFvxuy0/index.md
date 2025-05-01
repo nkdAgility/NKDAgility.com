@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 What is the most common Aha moment people have in a [scrum]({{< ref "/categories/scrum" >}}) course?

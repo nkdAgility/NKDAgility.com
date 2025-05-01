@@ -43,7 +43,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Leadership
 
 ---
 Why did so many of the early agile transformations fail?

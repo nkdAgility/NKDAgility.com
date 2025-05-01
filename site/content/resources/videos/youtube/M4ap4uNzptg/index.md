@@ -52,6 +52,7 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- Leadership
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:

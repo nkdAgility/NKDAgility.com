@@ -27,7 +27,7 @@ tags:
 - Release Management
 - Software Development
 categories:
-- Uncategorized
+- DevOps
 preview: 2016-01-04_15-52-31-1-1.png
 
 ---

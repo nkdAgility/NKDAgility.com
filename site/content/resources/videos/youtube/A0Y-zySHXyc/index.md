@@ -34,6 +34,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Management
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

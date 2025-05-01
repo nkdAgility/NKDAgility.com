@@ -33,7 +33,9 @@ tags:
 - Business Agility
 - Agile Leadership
 categories:
-- Uncategorized
+- Leadership
+- Technical Leadership
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

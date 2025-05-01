@@ -38,7 +38,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ### Enhancing Team Predictability with [Kanban]({{< ref "/categories/kanban" >}}): The "Applying Metrics for Predictability" Course

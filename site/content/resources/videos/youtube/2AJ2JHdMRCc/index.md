@@ -31,7 +31,7 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- DevOps
 
 ---
 ## Game-Changer in Software Engineering!

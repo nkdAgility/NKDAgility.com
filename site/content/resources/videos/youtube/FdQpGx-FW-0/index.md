@@ -44,7 +44,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Leadership
+- Product Development
 
 ---
 # Escaping the Judgment Trap in [Agile Transformation]({{< ref "/tags/agile-transformation" >}}) 🚀

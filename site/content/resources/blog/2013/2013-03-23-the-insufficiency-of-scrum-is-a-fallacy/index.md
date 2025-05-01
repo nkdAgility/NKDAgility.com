@@ -29,6 +29,7 @@ tags:
 - Team Performance
 categories:
 - Engineering Excellence
+- Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

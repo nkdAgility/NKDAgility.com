@@ -34,7 +34,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- DevOps
 
 ---
 **What is Your Peeve in [DevOps]({{< ref "/categories/devops" >}})**

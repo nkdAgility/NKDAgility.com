@@ -14,6 +14,7 @@ aliasesArchive:
 - /blog/how-lack-of-agency-is-killing-your-devops-initiatives
 categories:
 - DevOps
+- Engineering Excellence
 tags:
 - Agentic Agility
 - Pragmatic Thinking

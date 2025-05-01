@@ -40,6 +40,7 @@ resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
 ### Transitioning from Traditional [Project Management]({{< ref "/tags/project-management" >}}) to [Kanban]({{< ref "/categories/kanban" >}})

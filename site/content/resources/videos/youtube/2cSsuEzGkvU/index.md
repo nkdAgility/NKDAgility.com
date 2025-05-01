@@ -42,7 +42,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 In my journey through the world of agility, I've come to realise that the foundation of successful agile practices lies not just in frameworks or methodologies, but in the relationships we cultivate. Bringing modesty and respect for others into our conversations is paramount. It’s about building trust—trust that extends beyond our immediate teams to encompass the entire organisation and even our customers.

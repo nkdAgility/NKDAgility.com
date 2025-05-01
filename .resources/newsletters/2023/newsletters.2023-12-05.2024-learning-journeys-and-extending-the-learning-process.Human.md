@@ -19,7 +19,7 @@ aliasesArchive:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
-- Uncategorized
+- Scrum
 tags:
 - Continuous Learning
 - Pragmatic Thinking

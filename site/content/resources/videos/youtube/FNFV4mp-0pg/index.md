@@ -43,7 +43,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Scrum
+- Technical Leadership
+- Product Development
 
 ---
 **Is a [scrum]({{< ref "/categories/scrum" >}}) master an agile micromanager?**

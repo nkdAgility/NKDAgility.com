@@ -40,7 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.

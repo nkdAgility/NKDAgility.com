@@ -42,7 +42,8 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Uncategorized
+- Technical Leadership
+- Scrum
 
 ---
 What is the hardest part of working with a brand-new [scrum]({{< ref "/categories/scrum" >}}) team?

@@ -50,6 +50,7 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+- Product Management
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

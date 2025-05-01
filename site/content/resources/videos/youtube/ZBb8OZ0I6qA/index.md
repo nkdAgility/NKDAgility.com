@@ -45,6 +45,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- Product Management
+- Scrum
 
 ---
 In my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and [Kanban]({{< ref "/categories/kanban" >}}) coach, I've often encountered a common misconception: the belief that a hierarchy is essential for effective backlog management. Today, I want to share my insights on why this approach can be detrimental and how we can rethink our backlogs to enhance our agility and focus on delivering value.

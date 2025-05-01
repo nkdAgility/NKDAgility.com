@@ -44,6 +44,7 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+- Scrum
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and [Scrum]({{< ref "/categories/scrum" >}}) 🌟 

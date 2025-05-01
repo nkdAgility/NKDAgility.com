@@ -37,7 +37,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
+- Scrum
 
 ---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself revisiting the question: what will you truly learn on the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) course? This is a question I get asked frequently, and I believe there are two main insights that emerge from the Advanced PSM course that can significantly reshape your understanding and practice of Scrum.

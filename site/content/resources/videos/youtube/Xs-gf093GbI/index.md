@@ -32,7 +32,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## The essence of a Product is 'The Vision'

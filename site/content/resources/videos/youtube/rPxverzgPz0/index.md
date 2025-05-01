@@ -39,6 +39,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 **Would you recommend the APS course to a newbie [scrum]({{< ref "/categories/scrum" >}}) team, and Why?**

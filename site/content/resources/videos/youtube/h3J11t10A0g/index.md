@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+- Engineering Excellence
+- Technical Leadership
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in [software development]({{< ref "/tags/software-development" >}}).

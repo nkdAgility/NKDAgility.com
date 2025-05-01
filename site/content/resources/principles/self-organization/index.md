@@ -23,7 +23,7 @@ card:
   content: Discover more about Self-Organization and how it can help you in your Agile journey!
   title: Self-Organization
 categories:
-- Uncategorized
+- Scrum
 tags: []
 
 ---

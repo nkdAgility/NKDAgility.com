@@ -25,7 +25,7 @@ aliasesArchive:
 tags:
 - Software Development
 categories:
-- Uncategorized
+- Scrum
 preview: metro-nwc-128-link-2-2.png
 
 ---

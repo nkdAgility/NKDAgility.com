@@ -20,6 +20,7 @@ aliasesArchive:
 - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 categories:
 - Scrum
+- Product Development
 tags:
 - Software Development
 - Agile Frameworks

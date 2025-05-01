@@ -27,6 +27,8 @@ card:
   title: Metrics and Reports
 categories:
 - Product Management
+- Engineering Excellence
+- Product Development
 tags:
 - Operational Practices
 - Metrics and Learning

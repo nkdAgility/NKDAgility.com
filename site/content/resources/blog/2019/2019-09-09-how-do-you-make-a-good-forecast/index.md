@@ -35,6 +35,7 @@ tags:
 - Metrics and Learning
 categories:
 - Scrum
+- Product Management
 preview: 993957510-1-1.jpg
 
 ---

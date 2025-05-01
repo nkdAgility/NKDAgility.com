@@ -27,7 +27,7 @@ aliasesArchive:
 tags:
 - Software Development
 categories:
-- Uncategorized
+- Kanban
 preview: applying-professional-kanban-background-logo-2-2.jpg
 
 ---

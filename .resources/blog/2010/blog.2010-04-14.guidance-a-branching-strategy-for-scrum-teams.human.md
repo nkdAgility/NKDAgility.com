@@ -28,7 +28,7 @@ tags:
 - Operational Practices
 - Release Management
 categories:
-- Uncategorized
+- Scrum
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

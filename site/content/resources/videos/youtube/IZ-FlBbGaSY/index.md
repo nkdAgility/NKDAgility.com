@@ -40,6 +40,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Technical Leadership
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

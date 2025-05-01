@@ -33,7 +33,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 ## Defining Roles in Agile

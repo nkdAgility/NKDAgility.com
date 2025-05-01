@@ -25,7 +25,8 @@ card:
   content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
   title: Service Level Expectation (SLE)
 categories:
-- Uncategorized
+- Scrum
+- Product Development
 tags:
 - Forecasting
 - Software Development

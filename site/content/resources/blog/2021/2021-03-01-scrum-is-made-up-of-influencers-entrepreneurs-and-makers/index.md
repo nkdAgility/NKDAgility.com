@@ -34,7 +34,7 @@ aliasesArchive:
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags: []
 categories:
-- Uncategorized
+- Leadership
 preview: image-4-5-5.png
 
 ---
