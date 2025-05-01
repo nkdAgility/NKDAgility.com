@@ -67,8 +67,8 @@ function Update-ClassificationsForHugoMarkdownList {
             $batchJsonlOutout = Join-Path $CacheFolder "$batchId-output.jsonl"
             $batchStatus = Get-OpenAIBatchStatus -BatchId $batchId
             switch ($batchStatus) {
-                "completed" {
-                    Write-InformationLog "Batch $count [$batchId] complete. Processing Results."
+                { $_ -in @("completed", "expired") } {
+                    Write-InformationLog "Batch $count [$batchId] {$_}. Processing Results."
                     $HugoLookup = Get-HugoMarkdownListAsHashTable -hugoMarkdownList $hugoMarkdownList
                     # Process batch results into cache format
                     $batchResults = Get-OpenAIBatchResults -BatchId $batchId -OutputFile $batchJsonlOutout

@@ -298,8 +298,8 @@ function Get-OpenAIBatchResults {
     
     # Get batch details
     $BatchDetails = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches/$BatchId" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Get
-    if ($BatchDetails.status -ne "completed") {
-        Write-Host "Batch is not yet completed. Current status: $($BatchDetails.status)"
+    if ($BatchDetails.status -notin @("completed", "expired")) {
+        Write-Host "Batch is not yet completed or expired. Current status: $($BatchDetails.status)"
         return $null
     }
     
