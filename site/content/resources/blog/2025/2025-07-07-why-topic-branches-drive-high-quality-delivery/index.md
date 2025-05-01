@@ -6,13 +6,34 @@ ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 date: 2025-07-07T09:00:00Z
-weight: 1000
+weight: 140
 aliases:
 - /resources/O_VlmDj7n3V
 categories:
 - Engineering Excellence
 - Technical Leadership
 - Product Development
+tags:
+- Modern Source Control
+- Software Development
+- Engineering Practices
+- Product Delivery
+- Technical Mastery
+- Operational Practices
+- GitHub
+- Pragmatic Thinking
+- Continuous Delivery
+- Flow Efficiency
+- Technical Excellence
+- Deployment Frequency
+- Value Delivery
+- Release Management
+- Continuous Integration
+- Team Performance
+- Agile Strategy
+- Market Adaptability
+- Continuous Improvement
+- Team Collaboration
 
 ---
 ## Topic Branches: The Backbone of High-Quality Delivery
