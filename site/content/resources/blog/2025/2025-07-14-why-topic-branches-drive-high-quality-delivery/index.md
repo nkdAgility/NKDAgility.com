@@ -8,30 +8,30 @@ ResourceContentOrigin: hybrid
 date: 2025-07-14T09:00:00Z
 weight: 140
 aliases:
-- /resources/O_VlmDj7n3V
+  - /resources/O_VlmDj7n3V
 categories:
-- Engineering Excellence
-- Technical Leadership
-- Product Development
+  - Engineering Excellence
+  - Technical Leadership
+  - Product Development
 tags:
-- Modern Source Control
-- Software Development
-- Engineering Practices
-- Product Delivery
-- Technical Mastery
-- Operational Practices
-- GitHub
-- Pragmatic Thinking
-- Continuous Delivery
-- Flow Efficiency
-- Technical Excellence
-- Deployment Frequency
-- Value Delivery
-- Release Management
-- Continuous Integration
-
+  - Modern Source Control
+  - Software Development
+  - Engineering Practices
+  - Product Delivery
+  - Technical Mastery
+  - Operational Practices
+  - GitHub
+  - Pragmatic Thinking
+  - Continuous Delivery
+  - Flow Efficiency
+  - Technical Excellence
+  - Deployment Frequency
+  - Value Delivery
+  - Release Management
+  - Continuous Integration
 ---
-In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
+
+In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essential one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
 
 A topic branch is a short-lived, focused branch in your source control repository that isolates a **single unit of developer work**. This is not a month-long feature branch. This is not "we'll merge it someday" work. A topic branch is something you **code, test, and integrate in a few hours or, at most, a couple of days**.
 
@@ -69,7 +69,7 @@ You branch off `main`, do your small unit of work, push frequently, and merge ba
 - Focused on a single task or issue.
 - Continuously tested (locally and via CI).
 - Reintegrated quickly to avoid drift.
-- Reinforces context disapline
+- Reinforces context discipline
 
 If you have a larger application with more engineers and the need to make changes in the production line, then Microsoft’s Release Flow, which is almost identical to "Github Flow" with the addition of a versioned release branch. One could say that  Release Flow inherits and extends Github Flow.
 
@@ -81,7 +81,7 @@ Compare this to the traditional **Git Flow** approach that models less mature br
 
 Gitflow Flow, and its derivatives, simplifies this: fewer long-lived branches, fewer merge headaches, more emphasis on **incremental delivery**.
 
-## Leading change through Branching Stratagy
+## Leading change through Branching Strategy
 
 If you are leading a team, the presence or absence of disciplined topic branching tells you a lot.
 
