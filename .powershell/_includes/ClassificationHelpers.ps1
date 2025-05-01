@@ -141,28 +141,11 @@ function Update-ClassificationsForHugoMarkdownList {
     $counter = 0
     $nextPercent = 10
     foreach ($hugoMarkdown in $hugoMarkdownList) {
-        $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
-
-        $CatalogFromCache = @{}
-        $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } |
-        ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
-
-        $CatalogItemsToRefreshOrGet = Get-CatalogItemsToRefreshOrGet -cachedData $cachedData -Catalog $catalog -CatalogFromCache $CatalogFromCache
-
-        foreach ($category in $CatalogItemsToRefreshOrGet) {
-            $prompt = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
-                resourceId   = $hugoMarkdown.FrontMatter.ResourceId
-                category     = $category
-                Instructions = $Catalog[$category].Instructions
-                title        = $hugoMarkdown.FrontMatter.Title
-                abstract     = $hugoMarkdown.FrontMatter.Description
-                content      = $hugoMarkdown.BodyContent
-            }
-            $prompts += $prompt
-        }
-
+        $newPrompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
         Write-DebugLog "For {ResourceId} we need to update {count}" -PropertyValues $hugoMarkdown.FrontMatter.ResourceId, $CatalogItemsToRefreshOrGet.Count
-
+        if ($newPrompts.Count -gt 0) {
+            $prompts += $newPrompts
+        }       
         $counter++
         $percent = [math]::Floor(($counter / $total) * 100)
         if ($percent -ge $nextPercent) {
@@ -211,6 +194,34 @@ function Update-ClassificationsForHugoMarkdownList {
 
 }
 
+function Get-PromptsForHugoMarkdown {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$catalog
+    )
+    $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
+
+    $CatalogFromCache = @{}
+    $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } |
+    ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
+
+    $CatalogItemsToRefreshOrGet = Get-CatalogItemsToRefreshOrGet -cachedData $cachedData -Catalog $catalog -CatalogFromCache $CatalogFromCache
+    $prompts = @()
+    foreach ($category in $CatalogItemsToRefreshOrGet) {
+        $prompt = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
+            resourceId   = $hugoMarkdown.FrontMatter.ResourceId
+            category     = $category
+            Instructions = $Catalog[$category].Instructions
+            title        = $hugoMarkdown.FrontMatter.Title
+            abstract     = $hugoMarkdown.FrontMatter.Description
+            content      = $hugoMarkdown.BodyContent
+        }
+        $prompts += $prompt
+    }
+    return $prompts;
+}
 
 function Get-ClassificationsForType {
     param (
@@ -247,12 +258,54 @@ function Get-ClassificationsForType {
         }
     }
 
+    if ([datetime]$hugoMarkdown.FrontMatter.date -gt [datetime](Get-Date)) {
+        Update-MissingClassificationsLive -hugoMarkdown $hugoMarkdown -catalog $catalog
+    }
     # Load from Cache and validate its contents
     $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
     #Find items from the catalogue that we have.
     $CatalogFromCache = @{}; $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } | ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
+
+ 
     # Return the items
     return $CatalogFromCache.Keys | ForEach-Object { $CatalogFromCache[$_] } | Sort-Object final_score -Descending
+}
+
+function Update-MissingClassificationsLive {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$catalog
+    )
+    $prompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
+    $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
+    Write-InformationLog "Updating {count} missing classifications for {resourceId}" -PropertyValues $prompts.count, $hugoMarkdown.FrontMatter.ResourceId
+    foreach ($prompt in $prompts) {
+        $count++
+        # Calls processing
+        $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
+        $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -hugoMarkdown $hugoMarkdown
+        if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
+            $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
+            $confidenceDiff = "{0}{1}" -f ($(if (($result.ai_confidence - $oldConfidence) -ge 0) { '+' } else { '-' }), [math]::Abs($result.ai_confidence - $oldConfidence))
+            if ($cachedData[$result.category] -and $cachedData[$result.category].calculated_at) {
+                $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+            }
+            else {
+                $DaysAgo = -1  # Or a default value like 0, depending on your needs
+            }
+            $percentage = [math]::Round( ($count / [double]$prompts.Count) * 100 )
+            Write-InformationLog "Updating [$count/$($prompts.Count)|$percentage%] {category} confidence {diff}! The old confidence of {old} was calculated {daysago} days ago. The new confidence is {confidence}!" -PropertyValues $result.category, $confidenceDiff, $oldConfidence, $DaysAgo, $result.ai_confidence
+            $cachedData[$result.category] = $result
+            # Save cache after each API call
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        }
+        else {
+            Write-ErrorLog "Error processing AI response for $($result.category). Reasoning is Null!"
+            exit
+        }               
+    }
 }
 
 function Get-Classification {

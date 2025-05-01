@@ -34,7 +34,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
     $Counter++
     $PercentComplete = ($Counter / $TotalItems) * 100
-    Write-Progress -id 1 -Activity $ActivityText -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
+    #Write-Progress -id 1 -Activity $ActivityText -Status "Queue Item: $($hugoMarkdown.FrontMatter.date) | $($hugoMarkdown.FrontMatter.ResourceType) | $($hugoMarkdown.FrontMatter.title)" -PercentComplete $PercentComplete
     Write-DebugLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: {ResolvePath}" -PropertyValues  $(Resolve-Path -Path $hugoMarkdown.FolderPath -Relative)
    
@@ -200,11 +200,13 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------Tags-------------------
     $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $tagClassification | Select-Object -First 20
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------catalog_full------------------
     # $keywordsClassification = Get-ClassificationsForType -ClassificationType "catalog_full" -hugoMarkdown $hugoMarkdown
     # $keywordsClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $keywordsClassification | Select-Object -First 3
@@ -247,8 +249,8 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         }
     }
     # =================CONTENT===================
-    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
-    $hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+    #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
 
@@ -273,7 +275,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
 
 }
 
-Write-Progress -id 1 -Completed
+#Write-Progress -id 1 -Completed
 Write-DebugLog "All markdown files processed." 
 Write-DebugLog "--------------------------------------------------------"
 
