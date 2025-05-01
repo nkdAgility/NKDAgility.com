@@ -64,7 +64,7 @@ function Update-ClassificationsForHugoMarkdownList {
             $countOfBatchResults = 0
             $countOfBatchResultsThatAreBad = 0
             $batchId = $batch.BatchId
-            $batchJsonlOutout = Join-Path $CacheFolder "classifications.batch-$batchId-output.jsonl"
+            $batchJsonlOutout = Join-Path $CacheFolder "$batchId-output.jsonl"
             $batchStatus = Get-OpenAIBatchStatus -BatchId $batchId
             switch ($batchStatus) {
                 "completed" {
@@ -94,17 +94,20 @@ function Update-ClassificationsForHugoMarkdownList {
                             Write-ErrorLog "Error parsing AI response for $CacheFolder. Skipping."
                             continue
                         }
+                        $newEntry = $null
                         $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson
                         if ($newEntry -eq $null) {
                             $countOfBatchResultsThatAreBad++
                             $countOfResultsThatAreBad++
                             Write-WarningLog "|- AI response is null for resourceId $($rawAiBatchResult.resourceId). Skipping."
+                            $newEntry = $null
                             continue
                         }
                         if ($newEntry.resourceId -eq $null) {
                             $countOfBatchResultsThatAreBad++
                             $countOfResultsThatAreBad++
                             Write-WarningLog "|- resourceId mismatch for $($rawAiBatchResult.resourceId). Skipping."
+                            $newEntry = $null
                             continue
                         }
                         if ($HugoLookup.ContainsKey($newEntry.resourceId)) {
@@ -130,7 +133,7 @@ function Update-ClassificationsForHugoMarkdownList {
                         Write-DebugLog "|- Updated {category} for {resourceId} with {confidence}" -PropertyValues $newEntry.category, $newEntry.resourceId, $newEntry.ai_confidence
                         $percentComplete = [math]::Floor(($currentIndex / $total) * 100)
                         if ($percentComplete -ge $lastReportedPercent + 10) {
-                            Write-InformationLog "|- ⏳ Batch Progress: {percentComplete}% complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $currentIndex, $countOfBatchResults, $countOfBatchResultsThatAreBad
+                            Write-InformationLog "|- ⏳ Batch Progress: {percentComplete}% complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $percentComplete, $countOfBatchResults, $countOfBatchResultsThatAreBad
                             $lastReportedPercent = $percentComplete - ($percentComplete % 10)
                         }
                     }
@@ -140,8 +143,14 @@ function Update-ClassificationsForHugoMarkdownList {
                     $updatedBatches = $batches | Where-Object { $_.batchId -ne $batchId }
                     # Save the updated list back to the file
                     $updatedBatches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
-                    Remove-Item (Join-Path $CacheFolder $batch.inputFile) -Force
-                    Remove-Item $batchJsonlOutout -Force
+                    ## Clean up
+                    $inputFile = Join-Path $CacheFolder $batch.inputFile
+                    if (Test-Path $inputFile) {
+                        Remove-Item $inputFile -Force
+                    }
+                    if (Test-Path $batchJsonlOutout) {
+                        Remove-Item $batchJsonlOutout -Force
+                    }
                     $batchStatus = $null
                 }
                 "in_progress" {
@@ -152,8 +161,13 @@ function Update-ClassificationsForHugoMarkdownList {
                     $updatedBatches = $batches | Where-Object { $_.batchId -ne $BatchIdToRemove }
                     # Save the updated list back to the file
                     $updatedBatches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
-                    Remove-Item $BatchIdToRemove.inputFile -Force
-                    Remove-Item $batchJsonlOutout -Force
+                    $inputFile = Join-Path $CacheFolder $batch.inputFile
+                    if (Test-Path $inputFile) {
+                        Remove-Item $inputFile -Force
+                    }
+                    if (Test-Path $batchJsonlOutout) {
+                        Remove-Item $batchJsonlOutout -Force
+                    }
                     $batchStatus = $null
                     exit
                 }
