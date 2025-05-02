@@ -142,8 +142,14 @@ function Update-ClassificationsForHugoMarkdownList {
                     # Filter out the batch with the matching ID
                     $batchesFromFile = Get-Content $BatchFile | ConvertFrom-Json
                     $batchesForFile = $batchesFromFile | Where-Object { $_.batchId -ne $batchId }
-                    # Save the updated list back to the file
-                    $batchesForFile | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    if ($batchesForFile.Count -eq 0) {
+                        Remove-Item $BatchFile -Force
+                    }
+                    else {
+                        # Save the updated list back to the file
+                        $batchesForFile | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    }                
+                    
                     ## Clean up
                     $inputFile = Join-Path $CacheFolder $batch.inputFile
                     if (Test-Path $inputFile) {
