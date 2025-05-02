@@ -1,34 +1,4 @@
 - FrontMatter:
-    title: Emergant Practices
-    description: Processes, practices and tools necessary will emerge as we do the work and help others do it
-    ResourceId: _MbvqRG_XNM
-    ResourceImport: false
-    ResourceType: principles
-    ResourceContentOrigin: Human
-    date: 2024-09-17
-    weight: 1000
-    resourceTypes: principles
-    layout: principles
-    creator: Martin Hinshelwood
-    draft: true
-    aliases:
-    - /learn/agile-delivery-kit/first-principals/emergant-practices/
-    - /resources/_MbvqRG_XNM
-    aliasesArchive:
-    - /learn/agile-delivery-kit/first-principals/emergant-practices/
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Emergant Practices and how it can help you in your Agile journey!
-      title: Emergant Practices
-    categories:
-    - Uncategorized
-    tags: []
-  BodyContent: |
-    Processes, practices and tools necessary will emerge as we do the work and help others do it
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices
-- FrontMatter:
     title: Market Focus
     description: Update the work based on market and user feedback on timelines shorter than one month
     ResourceId: T6DrE9pN0ds
@@ -59,6 +29,41 @@
     Update the work based on user feedback on timelines shorter than one month
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\market-focus\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\market-focus
+- FrontMatter:
+    title: Value-based Prioritization
+    description: Focus on delivering value to the stakeholders
+    ResourceId: HzW0lKldLP9
+    ResourceImport: false
+    ResourceType: principles
+    ResourceContentOrigin: Human
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    resourceTypes: principles
+    layout: principles
+    draft: true
+    aliases:
+    - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
+    - /resources/HzW0lKldLP9
+    aliasesArchive:
+    - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Value-based Prioritization and how it can help you in your Agile journey!
+      title: Value-based Prioritization
+    categories:
+    - Product Management
+    - Scrum
+    tags:
+    - Value Delivery
+  BodyContent: |
+    Value-based Prioritization: Focus on delivering value to the stakeholders. The [product backlog]({{< ref "/tags/product-backlog" >}}) is prioritized based on the value it delivers, and the [Scrum]({{< ref "/categories/scrum" >}}) team works on the highest-priority items first.
+
+    ## Value Creation vs Revenue Extraction
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\value-based-prioritization\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\value-based-prioritization
 - FrontMatter:
     title: Self-Organization
     description: Self Organizing teams have the autonomy to determine how to achieve their goals
@@ -91,9 +96,9 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\self-organization\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\self-organization
 - FrontMatter:
-    title: Innovation
+    title: Customer Focus
     description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
-    ResourceId: 31Zki4xCtFO
+    ResourceId: p1bdjnIJDmW
     ResourceImport: false
     ResourceType: principles
     ResourceContentOrigin: Human
@@ -103,24 +108,54 @@
     draft: true
     resourceTypes: principle
     layout: principle
-    slug: innovation
+    slug: customer-focus
     aliases:
-    - /principles/innovation/
-    - /resources/31Zki4xCtFO
+    - /principles/customer-focus/
+    - /resources/p1bdjnIJDmW
     aliasesArchive:
-    - /principles/innovation/
+    - /principles/customer-focus/
     card:
       button:
         content: Start Optimizing Now
-      title: Innovation
-      content: Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value.
+      title: Customer Focus
+      content: Maintain a strong Customer Focus to ensure that the needs and feedback of the customer are at the heart of everything we do.
     categories:
     - Uncategorized
     tags: []
   BodyContent: |
     Coming soon!
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus
+- FrontMatter:
+    title: Emergant Practices
+    description: Processes, practices and tools necessary will emerge as we do the work and help others do it
+    ResourceId: _MbvqRG_XNM
+    ResourceImport: false
+    ResourceType: principles
+    ResourceContentOrigin: Human
+    date: 2024-09-17
+    weight: 1000
+    resourceTypes: principles
+    layout: principles
+    creator: Martin Hinshelwood
+    draft: true
+    aliases:
+    - /learn/agile-delivery-kit/first-principals/emergant-practices/
+    - /resources/_MbvqRG_XNM
+    aliasesArchive:
+    - /learn/agile-delivery-kit/first-principals/emergant-practices/
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Emergant Practices and how it can help you in your Agile journey!
+      title: Emergant Practices
+    categories:
+    - Uncategorized
+    tags: []
+  BodyContent: |
+    Processes, practices and tools necessary will emerge as we do the work and help others do it
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices
 - FrontMatter:
     title: Emergant Work
     description: The work needed will emerge as we do the work and help others do it
@@ -217,44 +252,9 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\first-principles-thinking\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\first-principles-thinking
 - FrontMatter:
-    title: Value-based Prioritization
-    description: Focus on delivering value to the stakeholders
-    ResourceId: HzW0lKldLP9
-    ResourceImport: false
-    ResourceType: principles
-    ResourceContentOrigin: Human
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    resourceTypes: principles
-    layout: principles
-    draft: true
-    aliases:
-    - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
-    - /resources/HzW0lKldLP9
-    aliasesArchive:
-    - /learn/agile-delivery-kit/first-principals/value-based-prioritization/
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Value-based Prioritization and how it can help you in your Agile journey!
-      title: Value-based Prioritization
-    categories:
-    - Product Management
-    - Scrum
-    tags:
-    - Value Delivery
-  BodyContent: |
-    Value-based Prioritization: Focus on delivering value to the stakeholders. The [product backlog]({{< ref "/tags/product-backlog" >}}) is prioritized based on the value it delivers, and the [Scrum]({{< ref "/categories/scrum" >}}) team works on the highest-priority items first.
-
-    ## Value Creation vs Revenue Extraction
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\value-based-prioritization\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\value-based-prioritization
-- FrontMatter:
-    title: Customer Focus
+    title: Innovation
     description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
-    ResourceId: p1bdjnIJDmW
+    ResourceId: 31Zki4xCtFO
     ResourceImport: false
     ResourceType: principles
     ResourceContentOrigin: Human
@@ -264,22 +264,22 @@
     draft: true
     resourceTypes: principle
     layout: principle
-    slug: customer-focus
+    slug: innovation
     aliases:
-    - /principles/customer-focus/
-    - /resources/p1bdjnIJDmW
+    - /principles/innovation/
+    - /resources/31Zki4xCtFO
     aliasesArchive:
-    - /principles/customer-focus/
+    - /principles/innovation/
     card:
       button:
         content: Start Optimizing Now
-      title: Customer Focus
-      content: Maintain a strong Customer Focus to ensure that the needs and feedback of the customer are at the heart of everything we do.
+      title: Innovation
+      content: Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value.
     categories:
     - Uncategorized
     tags: []
   BodyContent: |
     Coming soon!
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation
 
