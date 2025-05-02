@@ -1,6 +1,10 @@
 ---
-title: 'Rethinking Capacity Planning: From Project Tasks to Lean Flow'
+title: "Rethinking Capacity Planning"
 description: Transform your approach to capacity planning with lean principles. Focus on flow, limit work in progress, and enable predictable delivery for sustainable success.
+creator: Martin Hinshelwood
+contributors:
+  - name: Nigel Thurlow
+    external: https://www.linkedin.com/in/nigelthurlow/
 ResourceId: AhxlPTOD1yy
 ResourceImport: false
 ResourceType: blog
@@ -8,29 +12,29 @@ ResourceContentOrigin: hybrid
 date: 2025-07-21T09:00:00Z
 weight: 245
 aliases:
-- /resources/AhxlPTOD1yy
+  - /resources/AhxlPTOD1yy
 categories:
-- Lean
-- Product Development
-- Leadership
+  - Lean
+  - Product Development
+  - Leadership
 tags:
-- Flow Efficiency
-- Lean Principles
-- Lean Thinking
-- Operational Practices
-- Continuous Improvement
-- Lean Product Development
-- Organisational Physics
-- Pragmatic Thinking
-- Throughput
-- Value Delivery
-- Agile Strategy
-- Portfolio Management
-- Product Delivery
-- Systems Thinking
-- Team Performance
-
+  - Flow Efficiency
+  - Lean Principles
+  - Lean Thinking
+  - Operational Practices
+  - Continuous Improvement
+  - Lean Product Development
+  - Organisational Physics
+  - Pragmatic Thinking
+  - Throughput
+  - Value Delivery
+  - Agile Strategy
+  - Portfolio Management
+  - Product Delivery
+  - Systems Thinking
+  - Team Performance
 ---
+
 Capacity planning is not about filling calendars or counting resource hours. It is about flow, system constraints, and predictability. And importantly, what we are talking about here applies even within environments of strict budgets, immovable deadlines, and rigorous accountabilities. Lean approaches do not discard discipline; they reframe how we achieve predictability, accountability, and sustainable delivery by focusing on the system, not just the parts. These ideas align directly with the Scrum ethos of empirical process control and the Kanban strategy of observing and managing work-in-progress limits to enhance value delivery.
 
 Too many organisations frame capacity as “how many hours does each person have?” or “how many tasks can we assign this sprint?” They fall into the trap of breaking complex, systemic work into artificial personal quotas, focusing on individual loading rates instead of collective flow. This leads to managers obsessing over how ‘utilised’ each person is, mistaking busyness for progress. Teams become overloaded with microtasks, pulled into multitasking, and lose sight of flow efficiency and value creation. This mindset traps them in local optimisations, overload, and multitasking chaos. Everyone looks busy, but value delivery crumbles. Deadlines slip, work piles up, and predictability collapses.
@@ -107,9 +111,9 @@ The shift from individual capacity thinking to system-level flow demands discipl
 
 Rather than fixating on individual or team utilisation, shift your measurement to system-level flow. Pay attention to:
 
-- The number of items completed per sprint or delivery cycle.
+- The number of items completed per sprint or delivery cycle (noting this assumes work items are similarly sized; otherwise, throughput comparisons can be misleading).
 - The average lead time from work start to completion, helping reveal system bottlenecks and delays.
-- Process cycle efficiency (PCE): the proportion of time work actively moves versus waiting, exposing inefficiencies across the system.
+- Process cycle efficiency (PCE): the proportion of time work actively moves versus all non–value-adding activities (not just waiting), exposing inefficiencies across the system. This includes unnecessary committees, bureaucratic processes, and other activities that exist only to service themselves rather than delivering value.
 
 The goal is not to ask, “Who can take on more?” but to ask, “What does our system reliably deliver, and how can we improve flow without overburdening people or teams?”
 
@@ -134,13 +138,13 @@ Stop treating WIP limits as a mechanical cap or a reportable metric. They are a 
 
 ### Forecast With Empirical Data
 
-Stop pretending forecasts are about precision. Forecasting is about understanding what the system consistently delivers and using that to set realistic expectations. This also means recognising how system constraints align with legal mandates, statutory requirements, and interdepartmental dependencies — especially in public sector or regulated environments where external obligations shape the boundaries of what can be delivered and when. If your teams typically deliver 6–8 items per sprint, then forecast 6–8 — no sandbagging, no overpromising, no wishful thinking. Use past variance to shape your delivery ranges and confidence levels. Forecasting is not about heroic assumptions; it is about respecting the boundaries of what your system can actually achieve. Teach leadership that predictability comes from protecting system health, not demanding unrealistic outputs or pushing teams beyond sustainable limits.
+Stop pretending forecasts are about precision. Forecasting is about understanding what the system consistently delivers and using that to set realistic expectations, with the important caveat that this relies on the assumption of a relatively stable system, as Lean approaches depend on system stability for predictability. This also means recognising how system constraints align with legal mandates, statutory requirements, and interdepartmental dependencies — especially in public sector or regulated environments where external obligations shape the boundaries of what can be delivered and when. If your teams typically deliver 6–8 items per sprint, then forecast 6–8 — no sandbagging, no overpromising, no wishful thinking. Use past variance to shape your delivery ranges and confidence levels. Forecasting is not about heroic assumptions; it is about respecting the boundaries of what your system can actually achieve. Teach leadership that predictability comes from protecting system health, not demanding unrealistic outputs or pushing teams beyond sustainable limits.
 
 ### Monitor Flow Health Holistically
 
 Flow health is not just a dashboard; it is the living pulse of your system. Go beyond counting throughput and look deeper:
 
-- Rising cycle or lead times — these are your early-warning signals of hidden bottlenecks creeping into the system.
+- Rising cycle or lead times — these are your early-warning signals of hidden bottlenecks creeping into the system (and, as noted earlier, low PCE includes more than just waiting — it also covers other forms of systemic waste and non–value-adding activities).
 - Aging WIP — when work lingers without progress, it is a red flag that something is stalled or blocked.
 - Low PCE — when too much time is spent waiting instead of progressing, it signals waste accumulating across the system.
 
