@@ -42,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 How does the APS course help people apply [scrum]({{< ref "/categories/scrum" >}}) effectively?

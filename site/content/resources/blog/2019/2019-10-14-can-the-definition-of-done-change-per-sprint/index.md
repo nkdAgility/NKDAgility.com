@@ -43,6 +43,7 @@ tags:
 - Product Delivery
 categories:
 - Scrum
+- Product Development
 - Engineering Excellence
 preview: 20190906_152025-2-2.gif
 

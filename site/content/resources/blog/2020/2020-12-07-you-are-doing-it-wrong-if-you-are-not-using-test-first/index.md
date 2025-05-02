@@ -41,6 +41,7 @@ tags:
 - Competence
 - Product Delivery
 categories:
+- Product Development
 - Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 

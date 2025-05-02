@@ -36,6 +36,7 @@ tags:
 - Product Delivery
 categories:
 - Product Management
+- Product Development
 - Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg
 

@@ -32,6 +32,7 @@ tags:
 - Team Performance
 categories:
 - Scrum
+- Product Development
 preview: 1026661500-1-1.jpg
 
 ---

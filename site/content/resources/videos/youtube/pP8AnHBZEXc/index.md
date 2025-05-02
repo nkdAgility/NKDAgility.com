@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share my insights on the Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations (PSF) class and the PSM I assessment. As someone deeply entrenched in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I’ve had the privilege of teaching this class numerous times, and I can confidently say it’s one of my favourites. 

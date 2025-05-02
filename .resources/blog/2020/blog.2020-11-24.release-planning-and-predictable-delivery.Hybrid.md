@@ -40,9 +40,9 @@ tags:
 - Agile Transformation
 - Organisational Agility
 categories:
+- Product Development
 - Scrum
 - Engineering Excellence
-- Technical Leadership
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

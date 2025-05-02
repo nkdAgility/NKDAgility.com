@@ -46,6 +46,7 @@ tags:
 categories:
 - Leadership
 - Technical Leadership
+- Product Development
 preview: image-15-5-4.png
 
 ---

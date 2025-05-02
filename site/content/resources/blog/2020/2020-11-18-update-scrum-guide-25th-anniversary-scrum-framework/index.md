@@ -34,6 +34,7 @@ tags:
 - Software Development
 categories:
 - Scrum
+- Product Development
 preview: naked-Agility-Scrum-Framework-3-2.jpg
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "January 2023 NKDAgility: What is the difference between traditional and empirical approaches"
+title: 'January 2023 NKDAgility: What is the difference between traditional and empirical approaches'
 description: Explore NKDAgility's latest edition, focusing on the vital role of agility in today's world. Discover insightful articles, videos, and community resources!
 ResourceId: -D7_0lz9GU6
 ResourceImport: true
@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: january-2023
 aliases:
-  - /newsletters/january-2023/
-  - /resources/newsletters/january-2023/
-  - /resources/-D7_0lz9GU6
+- /newsletters/january-2023/
+- /resources/newsletters/january-2023/
+- /resources/-D7_0lz9GU6
 aliasesArchive:
-  - /newsletters/january-2023/
-  - /resources/newsletters/january-2023/
+- /newsletters/january-2023/
+- /resources/newsletters/january-2023/
 categories:
-  - Uncategorized
+- Uncategorized
 tags: []
----
 
+---
 Welcome to this month's edition of NKDAgility.
 
 In today's fast-paced, rapidly changing world, agility has become more important than ever. The ability to quickly adapt to new situations, pivot when necessary, and continuously improve is key to success in the 21st century.

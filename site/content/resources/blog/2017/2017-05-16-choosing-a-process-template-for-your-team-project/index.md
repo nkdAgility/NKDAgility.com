@@ -29,6 +29,7 @@ tags:
 - Agile Frameworks
 categories:
 - Scrum
+- Product Development
 preview: IC749984-1-1.png
 
 ---

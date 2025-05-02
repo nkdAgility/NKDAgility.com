@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance
 aliases:
-  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-  - /resources/x0sJSqJhVRG
+- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+- /resources/x0sJSqJhVRG
 aliasesArchive:
-  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 categories:
-  - Uncategorized
+- Uncategorized
 tags: []
----
 
+---
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!
 
 [![](images/nkdagility-agile-2023-Scotland-Experiance.png)](https://events.agilealliance.org/aascotland2023/begin?i=L7wyli35dzYJ1d70S2e1mR-yDTlopQRK)

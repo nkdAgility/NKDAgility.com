@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
 tags:
+- Scaling
 - Agile Frameworks
 - Professional Scrum
 - Software Development

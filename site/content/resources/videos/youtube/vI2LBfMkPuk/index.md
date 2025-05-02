@@ -38,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 As I reflect on my experiences delivering the Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) class, I can confidently say it’s my favourite course to teach. The reason? It consistently sparks some of the most profound epiphanies for my students. 

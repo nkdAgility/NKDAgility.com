@@ -28,6 +28,7 @@ aliasesArchive:
 - /blog/migrating-from-codeplex-to-github
 - /resources/blog/migrating-codeplex-github
 tags:
+- GitHub
 - Software Development
 categories:
 - Uncategorized

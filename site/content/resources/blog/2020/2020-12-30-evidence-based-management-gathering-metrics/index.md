@@ -40,14 +40,14 @@ tags:
 - Value Delivery
 - Decision Making
 - Pragmatic Thinking
+- Current Value
+- Time to Market
 - Agile Frameworks
 - Empirical Process Control
-- Product Delivery
-- Organisational Agility
 categories:
 - Product Management
+- Product Development
 - Scrum
-- Engineering Excellence
 preview: naked-agility-evidence-based-management-1-1.jpg
 
 ---

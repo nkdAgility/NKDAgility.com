@@ -42,6 +42,7 @@ tags:
 - Enterprise Agility
 categories:
 - Product Management
+- Product Development
 - Leadership
 preview: naked-agility-hypothesis-driven-1-1.jpg
 

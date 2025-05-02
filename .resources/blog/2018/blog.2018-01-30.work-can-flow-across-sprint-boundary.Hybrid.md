@@ -43,7 +43,7 @@ tags:
 - Flow Efficiency
 - Product Delivery
 categories:
-- Uncategorized
+- Product Development
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

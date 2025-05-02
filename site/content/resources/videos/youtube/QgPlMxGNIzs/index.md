@@ -38,7 +38,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 How do you think Agile is evolving since its inception in 2001?

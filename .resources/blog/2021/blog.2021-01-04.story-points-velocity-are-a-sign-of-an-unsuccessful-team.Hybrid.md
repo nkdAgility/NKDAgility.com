@@ -36,6 +36,7 @@ tags:
 - Pragmatic Thinking
 categories:
 - Scrum
+- Product Development
 preview: image-9-14-14.png
 
 ---

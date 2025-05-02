@@ -29,6 +29,7 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Working Software
+- Current Value
 - Agile Product Management
 - Evidence Based Management
 - Product Discovery
@@ -36,6 +37,7 @@ tags:
 - Agile Philosophy
 - Product Delivery
 categories:
+- Product Development
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 

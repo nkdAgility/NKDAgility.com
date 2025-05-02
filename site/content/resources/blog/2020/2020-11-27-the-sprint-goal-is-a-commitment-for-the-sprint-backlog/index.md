@@ -31,6 +31,7 @@ tags:
 - Agile Product Management
 categories:
 - Scrum
+- Product Development
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 
 ---

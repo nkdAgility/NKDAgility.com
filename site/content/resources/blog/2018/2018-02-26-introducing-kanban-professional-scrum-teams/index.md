@@ -32,7 +32,7 @@ tags:
 - Agile Frameworks
 - Operational Practices
 categories:
-- Uncategorized
+- Product Development
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

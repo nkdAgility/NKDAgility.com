@@ -40,14 +40,14 @@
     - Value Delivery
     - Decision Making
     - Pragmatic Thinking
+    - Current Value
+    - Time to Market
     - Agile Frameworks
     - Empirical Process Control
-    - Product Delivery
-    - Organisational Agility
     categories:
     - Product Management
+    - Product Development
     - Scrum
-    - Engineering Excellence
     preview: naked-agility-evidence-based-management-1-1.jpg
   BodyContent: |
     Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.
@@ -160,6 +160,7 @@
     - Pragmatic Thinking
     - Value Delivery
     - Working Software
+    - Current Value
     - Agile Product Management
     - Evidence Based Management
     - Product Discovery
@@ -167,6 +168,7 @@
     - Agile Philosophy
     - Product Delivery
     categories:
+    - Product Development
     - Product Management
     preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
   BodyContent: |
@@ -247,6 +249,7 @@
     - Enterprise Agility
     categories:
     - Product Management
+    - Product Development
     - Leadership
     preview: naked-agility-hypothesis-driven-1-1.jpg
   BodyContent: |
@@ -331,6 +334,7 @@
     - Scrum Master
     categories:
     - Scrum
+    - Product Development
     - Product Management
     preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
   BodyContent: |
@@ -434,6 +438,7 @@
     categories:
     - Scrum
     - Engineering Excellence
+    - Product Development
     preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
   BodyContent: |
     In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD).
@@ -548,7 +553,7 @@
     categories:
     - Engineering Excellence
     - Scrum
-    - Technical Leadership
+    - Product Development
     preview: staggered-iterations-for-delivery1-2-2.png
   BodyContent: |
     There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more [technical debt]({{< ref "/tags/technical-debt" >}}) and lower quality software.
@@ -646,6 +651,7 @@
     - Competence
     - Product Delivery
     categories:
+    - Product Development
     - Engineering Excellence
     preview: nkdAgility-PSD-Krakow-0-1-1.jpg
   BodyContent: |
@@ -772,7 +778,7 @@
     categories:
     - Scrum
     - Engineering Excellence
-    - Technical Leadership
+    - Product Development
     preview: nkdAgility-PSD-Krakow-02-1-1.jpg
   BodyContent: |
     I am always surprised at the number of teams that release undone work to production. I understand that one may need a few sprints, or many if you inherited something nasty, to pay back that debt, but if it's more then you are not a [Professional Scrum Team](/blog/scrum-tapas-importance-professionalism/). The sheer amount of software that I have that is buggy, slow, or just not finished makes me think that there are few professional [Scrum Teams](/the-2020-scrum-guide/#scrum-team) out there!
@@ -859,6 +865,7 @@
     - Agile Product Management
     categories:
     - Scrum
+    - Product Development
     preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
   BodyContent: |
     In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress during a Sprint.
@@ -927,9 +934,9 @@
     - Agile Transformation
     - Organisational Agility
     categories:
+    - Product Development
     - Scrum
     - Engineering Excellence
-    - Technical Leadership
     preview: nkdAgility-habits-16x9-1280-2-2.jpg
   BodyContent: |
     Many organisations wrestle with the seeming incompatibility between agile and [release management]({{< ref "/tags/release-management" >}}), and they struggle with release planning and predictable delivery.
@@ -1048,6 +1055,7 @@
     - Product Delivery
     categories:
     - Scrum
+    - Product Development
     - Product Management
     preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
   BodyContent: |
@@ -1110,6 +1118,7 @@
     - Software Development
     categories:
     - Scrum
+    - Product Development
     preview: naked-Agility-Scrum-Framework-3-2.jpg
   BodyContent: |
     It has been 25 years since [Scrum]({{< ref "/categories/scrum" >}}) was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.
@@ -1389,6 +1398,7 @@
     categories:
     - Leadership
     - Technical Leadership
+    - Product Development
     preview: image-15-5-4.png
   BodyContent: |
     There is no such thing as an [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), [Digital Transformation]({{< ref "/tags/digital-transformation" >}}), [DevOps]({{< ref "/categories/devops" >}}) Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
@@ -1592,9 +1602,9 @@
     - Product Owner
     - Value Delivery
     categories:
+    - Product Development
     - Scrum
     - Product Management
-    - Engineering Excellence
     preview: nkdAgility-backlog-item-approve-1-1.jpg
   BodyContent: |
     There is a frustrating misunderstanding of reality when one thinks that the [Product Owner]({{< ref "/tags/product-owner" >}}) can reject a single story at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). This is the fallacy of the rejected backlog item and the misguided belief that this backlog item can just be left out of this delivery. That backlog item that was chosen by the Development Team at the Sprint Planning event to help them achieve the Sprint Goal. The Sprint Goal that created focus and has the entire Development Team working in the same area of the codebase.
@@ -1788,7 +1798,8 @@
     - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
     - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
     - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-    tags: []
+    tags:
+    - Agnostic Agile
     categories:
     - Uncategorized
     preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
@@ -2431,6 +2442,7 @@
     categories:
     - DevOps
     - Engineering Excellence
+    - Product Development
     preview: 2020-06-17_13-06-30-1-1.jpg
     tags:
     - Frequent Releases

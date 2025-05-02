@@ -28,6 +28,7 @@ aliasesArchive:
 - /blog/create-your-own-path-to-organisational-agility
 - /resources/blog/organisational-change-create-path
 tags:
+- Scaling
 - Business Agility
 - Enterprise Agility
 - Digital Transformation
@@ -42,7 +43,6 @@ tags:
 - Change Management
 - Pragmatic Thinking
 - Organisational Culture
-- Agile Planning
 categories:
 - Scrum
 - Leadership

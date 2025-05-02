@@ -33,6 +33,7 @@ tags:
 - Product Delivery
 categories:
 - Scrum
+- Product Development
 - Product Management
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 

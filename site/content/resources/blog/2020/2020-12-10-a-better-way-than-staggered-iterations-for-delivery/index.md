@@ -43,7 +43,7 @@ tags:
 categories:
 - Engineering Excellence
 - Scrum
-- Technical Leadership
+- Product Development
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

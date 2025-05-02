@@ -33,6 +33,7 @@ tags:
 - Professional Scrum
 categories:
 - Scrum
+- Product Development
 preview: clip_image001-1-1.png
 
 ---

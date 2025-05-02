@@ -1,82 +1,69 @@
 - FrontMatter:
-    title: Metrics and Reports
-    description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
-    ResourceId: 26FWeqJuu0P
+    title: Product Backlog
+    description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
+    ResourceId: HbKuUsE28mC
     ResourceImport: false
     ResourceType: practices
     ResourceContentOrigin: Human
     resourceTypes: practice
     layout: practice
     aliases:
-    - /learn/agile-delivery-kit/practices/metrics-reports
-    - /resources/26FWeqJuu0P
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    - /resources/HbKuUsE28mC
     aliasesArchive:
-    - /learn/agile-delivery-kit/practices/metrics-reports
-    recommendedContent:
-    - practices/Metrics-Reports/
-    - practices/Metrics-Reports.html
-    - metrics-reports
-    - metrics-reports.html
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    recommendedContent: 
     date: 2024-09-17
-    weight: 300
+    weight: 1000
     creator: Martin Hinshelwood
     card:
       button:
         content: Learn More
-      content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
-      title: Metrics and Reports
+      content: Discover more about Product Backlog and how it can help you in your Agile journey!
+      title: Product Backlog
     categories:
-    - Product Management
-    - Engineering Excellence
-    - Product Development
-    tags:
-    - Operational Practices
-    - Metrics and Learning
-    - Current Value
-    - Transparency
-    - Evidence Based Leadership
-    - Evidence Based Management
-    - Flow Efficiency
-    - Product Delivery
-    - Value Delivery
-    - Team Performance
+    - Uncategorized
+    tags: []
   BodyContent: |
-    In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
+    ## What is a [Product Backlog]({{< ref "/tags/product-backlog" >}})?
 
-    ###Background material
-
-    - [EBM Guide]
-
-    ## Product/Project/Organisation Focus
-
-    Here are the key metrics that should be collected and made transparent for every Product/Project/Organisation.
-
-    - **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.
-    - **Employee Satisfaction** - Some form of sentiment analysis to help gauge [employee engagement]({{< ref "/tags/employee-engagement" >}}), energy, and enthusiasm.
-    - **Defect Trend** - Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don't work as intended.
-    - **Mean Time to Repair** - The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.
-    - **Release Stabilization** - The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.
-    - **Deployment / Release Frequency** - The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.
-
-    ## Team Focus
-
-    At the team level we should focus on the flow of value to the stakeholders. For this to work we should collect and monitor the following:
-
-    - **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum]({{< ref "/categories/scrum" >}}) Team uses to limit WIP. The team can use the WIP metric to provide [transparency]({{< ref "/tags/transparency" >}}) about their progress towards reducing their WIP and improving their flow.
-    - **[Cycle Time]({{< ref "/tags/cycle-time" >}})** - The amount of elapsed time between when a work item starts and when a work item finishes.
-    - **Work Item Age ** - The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
-    - **[Throughput]({{< ref "/tags/throughput" >}})** - The number of work items finished per unit of time.
-
-    ![image.png](/.attachments/image-780125d0-ecac-43a2-8bfe-b1ad2939d02f.png =800x)
-
-    Things that we should not monitor (but the Team can for their own edification if they desire):
-
-    - Story Points
-    - Velocity
-    - Remaining Work
-    - Original Estimate
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports
+    ## What is a Product Backlog Item?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
+- FrontMatter:
+    title: Product Increment
+    description: A Product Increment is a tangible outcome of development, showcasing new features or improvements that enhance the product's value in each iteration.
+    ResourceId: m1DWI59M-Tf
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/product-increment.html
+    - /learn/agile-delivery-kit/practices/product-increment
+    - /resources/m1DWI59M-Tf
+    aliasesArchive:
+    - /practices/product-increment.html
+    - /learn/agile-delivery-kit/practices/product-increment
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Product Increment and how it can help you in your Agile journey!
+      title: Product Increment
+    categories:
+    - Product Development
+    tags: []
+  BodyContent: |
+    ## What is a Product [Increment]({{< ref "/tags/increment" >}})?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment
 - FrontMatter:
     title: Definition of Done (DoD)
     description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
@@ -326,21 +313,19 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-done-dod\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-done-dod
 - FrontMatter:
-    title: Product Backlog
-    description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
-    ResourceId: HbKuUsE28mC
+    title: Product Scorecard
+    description: It seems that the resource details are incomplete. Please provide more information about the resource so I can help you create an engaging description.
+    ResourceId: g4aUBoHHLme
     ResourceImport: false
     ResourceType: practices
     ResourceContentOrigin: Human
     resourceTypes: practice
     layout: practice
     aliases:
-    - /practices/product-backlog.html
-    - /learn/agile-delivery-kit/practices/product-backlog
-    - /resources/HbKuUsE28mC
+    - /learn/agile-delivery-kit/practices/product-scorecard
+    - /resources/g4aUBoHHLme
     aliasesArchive:
-    - /practices/product-backlog.html
-    - /learn/agile-delivery-kit/practices/product-backlog
+    - /learn/agile-delivery-kit/practices/product-scorecard
     recommendedContent: 
     date: 2024-09-17
     weight: 1000
@@ -348,17 +333,15 @@
     card:
       button:
         content: Learn More
-      content: Discover more about Product Backlog and how it can help you in your Agile journey!
-      title: Product Backlog
+      content: Discover more about Product Scorecard and how it can help you in your Agile journey!
+      title: Product Scorecard
     categories:
     - Uncategorized
     tags: []
   BodyContent: |
-    ## What is a [Product Backlog]({{< ref "/tags/product-backlog" >}})?
-
-    ## What is a Product Backlog Item?
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
+    The purpose of the
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard
 - FrontMatter:
     title: Accountabilities for the Scrum Team
     description: Explore key accountabilities within our organisation for a deeper understanding of roles and responsibilities in agile project management.
@@ -393,88 +376,6 @@
     ![image.png](/.attachments/image-30f57fc2-f9b2-4d99-90f4-6c3990d43cdc.png =750x424)
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team
-- FrontMatter:
-    title: Product Increment
-    description: A Product Increment is a tangible outcome of development, showcasing new features or improvements that enhance the product's value in each iteration.
-    ResourceId: m1DWI59M-Tf
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /practices/product-increment.html
-    - /learn/agile-delivery-kit/practices/product-increment
-    - /resources/m1DWI59M-Tf
-    aliasesArchive:
-    - /practices/product-increment.html
-    - /learn/agile-delivery-kit/practices/product-increment
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Product Increment and how it can help you in your Agile journey!
-      title: Product Increment
-    categories:
-    - Product Development
-    tags: []
-  BodyContent: |
-    ## What is a Product [Increment]({{< ref "/tags/increment" >}})?
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment
-- FrontMatter:
-    title: Service Level Expectation (SLE)
-    description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
-    ResourceId: b7fi5SAsyNb
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
-    - /resources/b7fi5SAsyNb
-    aliasesArchive:
-    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
-    recommendedContent:
-    - practices/Service-Level-Expectation-SLE.html
-    - practices/Service-Level-Expectation-SLE/
-    date: 2024-09-17
-    slug: service-level-expectation-(sle)
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
-      title: Service Level Expectation (SLE)
-    categories:
-    - Scrum
-    - Product Development
-    tags:
-    - Forecasting
-    - Software Development
-    - Metrics and Learning
-    - Throughput
-  BodyContent: |
-    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the [Scrum]({{< ref "/categories/scrum" >}}) Team's Workflow. The [Scrum Team]({{< ref "/tags/scrum-team" >}}) uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
-
-    The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team's historical [Cycle Time]({{< ref "/tags/cycle-time" >}}), and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
-
-    A reasonable SLE should be less than your Sprint length and shorter improves predictability.
-
-    ![image.png](/.attachments/image-8dc3304f-74c4-438e-935d-ad9fc5eed118.png)
-
-    ## Resources
-
-    - [The Kanban Guide for Scrum Teams](/Project-Management/Agile-Ways-of-Working/Guides-&-WhitePapers/Kanban-Guide-for-Scrum-Teams)
-
-    [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
 - FrontMatter:
     title: Sprint Planning Event
     description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
@@ -565,6 +466,56 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event
 - FrontMatter:
+    title: Service Level Expectation (SLE)
+    description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
+    ResourceId: b7fi5SAsyNb
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    - /resources/b7fi5SAsyNb
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    recommendedContent:
+    - practices/Service-Level-Expectation-SLE.html
+    - practices/Service-Level-Expectation-SLE/
+    date: 2024-09-17
+    slug: service-level-expectation-(sle)
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
+      title: Service Level Expectation (SLE)
+    categories:
+    - Scrum
+    - Product Development
+    tags:
+    - Forecasting
+    - Software Development
+    - Metrics and Learning
+    - Throughput
+  BodyContent: |
+    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the [Scrum]({{< ref "/categories/scrum" >}}) Team's Workflow. The [Scrum Team]({{< ref "/tags/scrum-team" >}}) uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
+
+    The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team's historical [Cycle Time]({{< ref "/tags/cycle-time" >}}), and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
+
+    A reasonable SLE should be less than your Sprint length and shorter improves predictability.
+
+    ![image.png](/.attachments/image-8dc3304f-74c4-438e-935d-ad9fc5eed118.png)
+
+    ## Resources
+
+    - [The Kanban Guide for Scrum Teams](/Project-Management/Agile-Ways-of-Working/Guides-&-WhitePapers/Kanban-Guide-for-Scrum-Teams)
+
+    [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
+- FrontMatter:
     title: Site Reliability Engineering (SRE)
     description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
     ResourceId: K0i7PIZARDw
@@ -606,33 +557,82 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre
 - FrontMatter:
-    title: Product Scorecard
-    description: It seems that the resource details are incomplete. Please provide more information about the resource so I can help you create an engaging description.
-    ResourceId: g4aUBoHHLme
+    title: Metrics and Reports
+    description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
+    ResourceId: 26FWeqJuu0P
     ResourceImport: false
     ResourceType: practices
     ResourceContentOrigin: Human
     resourceTypes: practice
     layout: practice
     aliases:
-    - /learn/agile-delivery-kit/practices/product-scorecard
-    - /resources/g4aUBoHHLme
+    - /learn/agile-delivery-kit/practices/metrics-reports
+    - /resources/26FWeqJuu0P
     aliasesArchive:
-    - /learn/agile-delivery-kit/practices/product-scorecard
-    recommendedContent: 
+    - /learn/agile-delivery-kit/practices/metrics-reports
+    recommendedContent:
+    - practices/Metrics-Reports/
+    - practices/Metrics-Reports.html
+    - metrics-reports
+    - metrics-reports.html
     date: 2024-09-17
-    weight: 1000
+    weight: 300
     creator: Martin Hinshelwood
     card:
       button:
         content: Learn More
-      content: Discover more about Product Scorecard and how it can help you in your Agile journey!
-      title: Product Scorecard
+      content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
+      title: Metrics and Reports
     categories:
-    - Uncategorized
-    tags: []
+    - Product Management
+    - Engineering Excellence
+    - Product Development
+    tags:
+    - Operational Practices
+    - Metrics and Learning
+    - Current Value
+    - Transparency
+    - Evidence Based Leadership
+    - Evidence Based Management
+    - Flow Efficiency
+    - Product Delivery
+    - Value Delivery
+    - Team Performance
   BodyContent: |
-    The purpose of the
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard
+    In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
+
+    ###Background material
+
+    - [EBM Guide]
+
+    ## Product/Project/Organisation Focus
+
+    Here are the key metrics that should be collected and made transparent for every Product/Project/Organisation.
+
+    - **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.
+    - **Employee Satisfaction** - Some form of sentiment analysis to help gauge [employee engagement]({{< ref "/tags/employee-engagement" >}}), energy, and enthusiasm.
+    - **Defect Trend** - Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don't work as intended.
+    - **Mean Time to Repair** - The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.
+    - **Release Stabilization** - The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.
+    - **Deployment / Release Frequency** - The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.
+
+    ## Team Focus
+
+    At the team level we should focus on the flow of value to the stakeholders. For this to work we should collect and monitor the following:
+
+    - **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum]({{< ref "/categories/scrum" >}}) Team uses to limit WIP. The team can use the WIP metric to provide [transparency]({{< ref "/tags/transparency" >}}) about their progress towards reducing their WIP and improving their flow.
+    - **[Cycle Time]({{< ref "/tags/cycle-time" >}})** - The amount of elapsed time between when a work item starts and when a work item finishes.
+    - **Work Item Age ** - The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
+    - **[Throughput]({{< ref "/tags/throughput" >}})** - The number of work items finished per unit of time.
+
+    ![image.png](/.attachments/image-780125d0-ecac-43a2-8bfe-b1ad2939d02f.png =800x)
+
+    Things that we should not monitor (but the Team can for their own edification if they desire):
+
+    - Story Points
+    - Velocity
+    - Remaining Work
+    - Original Estimate
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports
 

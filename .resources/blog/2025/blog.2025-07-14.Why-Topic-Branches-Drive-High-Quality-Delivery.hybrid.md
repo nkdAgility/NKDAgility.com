@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 date: 2025-07-14T09:00:00Z
-weight: 140
+weight: 115
 aliases:
 - /resources/O_VlmDj7n3V
 categories:
@@ -14,21 +14,21 @@ categories:
 - Technical Leadership
 - Product Development
 tags:
-- Modern Source Control
 - Software Development
+- Modern Source Control
+- Operational Practices
 - Engineering Practices
 - Product Delivery
-- Technical Mastery
-- Operational Practices
-- GitHub
-- Pragmatic Thinking
 - Continuous Delivery
-- Flow Efficiency
-- Technical Excellence
 - Deployment Frequency
-- Value Delivery
-- Release Management
-- Continuous Integration
+- Pragmatic Thinking
+- Team Collaboration
+- Team Performance
+- Flow Efficiency
+- Frequent Releases
+- GitHub
+- Market Adaptability
+- Technical Excellence
 
 ---
 In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
