@@ -19,12 +19,14 @@ isShort: false
 aliases:
 - /resources/yEu8Fw4JQWM
 - /resources/videos/in-wip-less-is-more-why
+- /resources/videos/in-wip-less-is-more.-why
 aliasesArchive:
 - /resources/videos/in-wip-less-is-more-why
 - /resources/in-wip-less-is-more-why
 - /resources/videos/in-wip,-less-is-more,-why-
 - /resources/in-wip,-less-is-more,-why-
 - in-wip-less-is-more-why
+- /resources/videos/in-wip-less-is-more.-why
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,11 +35,6 @@ tags:
 - Flow Efficiency
 - Throughput
 - Pragmatic Thinking
-- Agile Frameworks
-- Software Development
-- Agile Transformation
-- Lean Thinking
-- Lean Principles
 resourceTypes:
 - video
 categories:
@@ -59,7 +56,7 @@ Let me explain.
 
 Ever felt overwhelmed by juggling too many tasks at once?
 
-In the world of Kanban, there is a saying: "Stop starting work and start finishing work." This isn't just a catchy phrase; it's a profound realisation.  ⏳
+In the world of [Kanban]({{< ref "/categories/kanban" >}}), there is a saying: "Stop starting work and start finishing work." This isn't just a catchy phrase; it's a profound realisation.  ⏳
 
 Wow, there's a lot of math to unpack there if you want to go into it," but in the heart of Kanban, the mantra resonates differently: "Stop starting work and start finishing work.
 
@@ -73,7 +70,7 @@ Have you ever considered the real cost of 'multitasking'? 🔄
 
 When you have a myriad of tasks on your plate, you invariably find yourself jumping between them.  This constant shift, in essence, results in losing more time to jumping between those things.
 
-So, here's a geeky analogy for you - consider how your computer system, like 'paging in Windows, manages multiple tasks.  If your computer tries to do too much, it continually unloads and reloads tasks.  This results in significant lag, often causing the system to freeze.  💻
+So, here's a geeky analogy for you - consider how your computer system, like 'paging in [Windows]({{< ref "/tags/windows" >}}), manages multiple tasks.  If your computer tries to do too much, it continually unloads and reloads tasks.  This results in significant lag, often causing the system to freeze.  💻
 
 Our brains operate similarly.  Every time we shift focus, we undergo a mental "context switch," which makes multitasking less efficient than we'd like to believe.
 
@@ -81,7 +78,7 @@ As I often say, "Our brains are just big computers." Overburden them, and you'll
 
 ## An Interesting Insight
 
-In Gerald Weinberg's "Systems Thinking" book, an analysis reveals that context switching could cost us about 20% of our time per additional project.  📚
+In Gerald Weinberg's "[Systems Thinking]({{< ref "/tags/systems-thinking" >}})" book, an analysis reveals that context switching could cost us about 20% of our time per additional project.  📚
 
 So, if you're working on five projects, you're left with a mere 20% of your time for all of them.
 
@@ -91,7 +88,7 @@ Let that sink in!
 
 ## Too Many Marbles
 
-Picture this: marbles flowing through pipes.  Now, throw in a couple of rocks.  Those marbles will struggle to move around the rocks.  In the realm of product development, these "rocks" are large tasks that clog up our workflow, slowing everything down.
+Picture this: marbles flowing through pipes.  Now, throw in a couple of rocks.  Those marbles will struggle to move around the rocks.  In the realm of [product development]({{< ref "/categories/product-development" >}}), these "rocks" are large tasks that clog up our workflow, slowing everything down.
 
 I like to refer to this as the 'pipe' analogy.
 
@@ -111,4 +108,4 @@ Focus.  Finish.  Then move on.  ✅
 
 It's not about reducing quality or output but streamlining processes and focusing on completion rather than juggling.
 
-For those interested in diving deeper into Agile, Kanban, or Scrum and learning how to create a more efficient work environment, consider checking out our upcoming courses.
+For those interested in diving deeper into Agile, Kanban, or [Scrum]({{< ref "/categories/scrum" >}}) and learning how to create a more efficient work environment, consider checking out our upcoming courses.

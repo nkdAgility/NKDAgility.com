@@ -39,7 +39,6 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Value Delivery
-- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

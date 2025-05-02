@@ -48,8 +48,6 @@ tags:
 - Software Development
 - Agile Product Management
 - Product Delivery
-- Team Collaboration
-- Team Performance
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
@@ -58,10 +56,10 @@ We will endevour to explain not just the purpose of [Sprint Planning](./../_guid
 
 ## What is Sprint Planning?
 
-The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event the greater the degree of understanding tha the Scrum Team has going in the shorter it will be. That is, if the Product Backlog is well understood, and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood, or the Product Goal is not clear, then the Sprint Planning will be longer.
+The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event the greater the degree of understanding tha the [Scrum Team]({{< ref "/tags/scrum-team" >}}) has going in the shorter it will be. That is, if the [Product Backlog]({{< ref "/tags/product-backlog" >}}) is well understood, and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood, or the Product Goal is not clear, then the Sprint Planning will be longer.
 
 > Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team. <br /><br />
-> The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.<br /> > [Scrum Guide](./../_guides/scrum-guide.md#sprint-planning)
+> The [Product Owner]({{< ref "/tags/product-owner" >}}) ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.<br /> > [Scrum Guide](./../_guides/scrum-guide.md#sprint-planning)
 
 ![naked Agility Scrum Framework Sprint Planning Flow](./../assets/images/naked-agility-scrum-framework-sprint-planning-flow.jpg)
 
@@ -71,7 +69,7 @@ See [Sprint Planning Recipe](./../_recipes/sprint-planning-recipe.md) for look a
 
 ## Why is this important?
 
-The [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is where the initial transparency of the Sprint Backlog emerges.
+The [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is where the initial [transparency]({{< ref "/tags/transparency" >}}) of the Sprint Backlog emerges.
 
 ## The Sprint Goal
 

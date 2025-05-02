@@ -37,10 +37,6 @@ tags:
 - Software Development
 - Organisational Agility
 - Agile Strategy
-- Agile Planning
-- Agile Product Management
-- Business Agility
-- Product Delivery
 resourceTypes:
 - video
 categories:
@@ -59,7 +55,7 @@ One of the most important aspects of agility is the efficient use of time. The g
 
 - **Iterative Process**: You might need to test and refine multiple ideas, which can take time. For instance, if each experiment takes two weeks, and you test 10 ideas, that's 20 weeks of work just to find the one approach that truly delivers value.
 
-So, the notion that agility equals speed is a complete fallacy. Agile allows for experimentation, learning, and adaptation, which might seem slower but ensures you’re building the right thing.
+So, the notion that agility equals speed is a complete fallacy. Agile allows for [experimentation]({{< ref "/tags/experimentation" >}}), learning, and adaptation, which might seem slower but ensures you’re building the right thing.
 
 ## **The Danger of Building the Wrong Product**
 
@@ -99,7 +95,7 @@ A famous example of Agile in action is the Sentinel project, the FBI’s records
 
 3. **Another Attempt**: They then spent another five years and $300 million, only to have another failed product.
 
-5. **Agile Transformation**: In 2012, the FBI decided to switch to Agile. They reduced the team from 400 to 40 people, set up Scrum teams, and delivered a working product to production within a year.
+5. **[Agile Transformation]({{< ref "/tags/agile-transformation" >}})**: In 2012, the FBI decided to switch to Agile. They reduced the team from 400 to 40 people, set up [Scrum]({{< ref "/categories/scrum" >}}) teams, and delivered a working product to production within a year.
 
 Was Agile faster? Not really. What changed was the focus—they stopped trying to build the entire system at once and instead focused on delivering the first piece, the part that would provide immediate value.
 

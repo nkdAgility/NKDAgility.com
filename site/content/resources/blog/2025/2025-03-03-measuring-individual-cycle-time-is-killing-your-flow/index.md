@@ -17,11 +17,13 @@ resourceTypes: blog
 slug: measuring-individual-cycle-time-is-killing-your-flow
 aliases:
 - /resources/KHEPBWiFDKJ
+- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 aliasesArchive:
 - /measuring-individual-cycle-time-is-killing-your-flow
 - /blog/measuring-individual-cycle-time-is-killing-your-flow
 - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 categories:
 - Kanban
 - Lean
@@ -42,11 +44,6 @@ tags:
 - Agile Frameworks
 - Throughput
 - Continuous Improvement
-- Lean Product Development
-- Empirical Process Control
-- Product Delivery
-- Complexity Thinking
-- Organisational Agility
 
 ---
 Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!

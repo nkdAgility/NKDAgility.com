@@ -38,9 +38,6 @@ tags:
 - Mentoring
 - Organisational Agility
 - Competence
-- Agile Frameworks
-- Continuous Improvement
-- Team Motivation
 resourceTypes:
 - video
 categories:
@@ -58,11 +55,11 @@ An Agile coach plays a multifaceted role within any organization. They are not j
 
 ### **Key Responsibilities of an Agile Coach:**
 
-- **Mentoring**: An Agile coach must help individuals and teams grow by offering advice and guidance tailored to their needs.
+- **[Mentoring]({{< ref "/tags/mentoring" >}})**: An Agile coach must help individuals and teams grow by offering advice and guidance tailored to their needs.
 
 - **Teaching**: Whether it’s about processes, practices, or tools, an Agile coach needs to be a great teacher who can break down complex concepts into manageable, actionable steps.
 
-- **Inspiring**: True leadership requires the ability to inspire teams to reach new heights. An Agile coach should motivate and uplift the team, creating an environment where continuous improvement thrives.
+- **Inspiring**: True [leadership]({{< ref "/categories/leadership" >}}) requires the ability to inspire teams to reach new heights. An Agile coach should motivate and uplift the team, creating an environment where [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) thrives.
 
 ## **The Difference Between an Agile Coach and a Professional Coach**
 
@@ -72,9 +69,9 @@ At first glance, an Agile coach may seem similar to a professional coach, but th
 
 - **Agile coaches focus on specific processes**: Unlike professional coaches who often work on soft skills or interpersonal relationships, Agile coaches need to understand Agile practices in depth and guide teams through their implementation.
 
-- **Practical guidance**: Agile coaches are there to provide hands-on advice about **how to run Scrum, Kanban**, or other Agile frameworks. They ensure that teams are not just following the motions but truly living Agile principles.
+- **Practical guidance**: Agile coaches are there to provide hands-on advice about **how to run [Scrum]({{< ref "/categories/scrum" >}}), [Kanban]({{< ref "/categories/kanban" >}})**, or other [Agile frameworks]({{< ref "/tags/agile-frameworks" >}}). They ensure that teams are not just following the motions but truly living Agile principles.
 
-- **Adaptation to change**: Agile coaches have the ability to adapt coaching styles based on the maturity and needs of the team, which means they can take a more direct or indirect approach depending on the situation.
+- **Adaptation to change**: Agile coaches have the ability to adapt [coaching]({{< ref "/tags/coaching" >}}) styles based on the maturity and needs of the team, which means they can take a more direct or indirect approach depending on the situation.
 
 ## **Why You Need an Agile Coach Who Can Teach, Mentor, and Inspire**
 
@@ -102,13 +99,13 @@ Mentorship is crucial for the development of individuals and teams in Agile envi
 
 - Foster a sense of **ownership and accountability** within the team.
 
-In one organization I worked with, a team was struggling with their **retrospectives**. They were going through the motions but not achieving the desired outcomes. Through **mentoring sessions**, I worked closely with the Scrum Master to revamp how they approached retrospectives, moving from a simple review to actionable insights that directly impacted the team’s performance.
+In one organization I worked with, a team was struggling with their **retrospectives**. They were going through the motions but not achieving the desired outcomes. Through **mentoring sessions**, I worked closely with the [Scrum Master]({{< ref "/tags/scrum-master" >}}) to revamp how they approached retrospectives, moving from a simple review to actionable insights that directly impacted the team’s performance.
 
 ### **3\. Inspiring Teams to Achieve Greatness**
 
 Perhaps the most intangible but critical aspect of Agile coaching is **inspiration**. Agile coaches should:
 
-- Cultivate a **positive environment** where experimentation is encouraged.
+- Cultivate a **positive environment** where [experimentation]({{< ref "/tags/experimentation" >}}) is encouraged.
 
 - Encourage teams to strive for **continuous improvement**.
 

@@ -29,12 +29,6 @@ tags:
 - Team Performance
 - Scrum Team
 - Scrum Master
-- Coaching
-- Software Development
-- Agile Leadership
-- Psychological Safety
-- Social Technologies
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -59,7 +53,7 @@ When disagreements escalate, it can lead to a toxic environment. Here’s how I 
 - **Conflict**: At this stage, the disagreement becomes personal, and team dynamics begin to suffer.
 - **War**: This is the worst-case scenario, where the conflict escalates to a point of no return—think of it as a Crusade or World War among team members.
 
-As a Scrum Master, it’s my responsibility to recognise when we’re approaching that dangerous territory of "war." If I see the team gearing up for battle, it’s time to step in and de-escalate the situation.
+As a [Scrum]({{< ref "/categories/scrum" >}}) Master, it’s my responsibility to recognise when we’re approaching that dangerous territory of "war." If I see the team gearing up for battle, it’s time to step in and de-escalate the situation.
 
 ### Strategies for De-escalation
 
@@ -67,7 +61,7 @@ Here are some strategies I've found effective in diffusing conflict before it sp
 
 - **Encourage Open Communication**: Create a safe space for team members to express their thoughts without fear of judgement. This can help prevent misunderstandings from escalating.
 - **Focus on the Issue, Not the Person**: Remind the team that the goal is to solve a problem, not to win an argument. Keeping discussions objective can help maintain a collaborative spirit.
-- **Facilitate a Mediation Session**: Sometimes, a neutral party can help bridge the gap between conflicting viewpoints. As a Scrum Master, I often take on this role to guide the conversation back to constructive dialogue.
+- **Facilitate a Mediation Session**: Sometimes, a neutral party can help bridge the gap between conflicting viewpoints. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}), I often take on this role to guide the conversation back to constructive dialogue.
 - **Revisit Team Norms**: Establishing clear team norms around conflict can help set expectations for how disagreements should be handled. This can include guidelines for respectful communication and conflict resolution.
 
 ### The Importance of Addressing Conflict

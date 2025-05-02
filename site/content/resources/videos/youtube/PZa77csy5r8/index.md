@@ -30,10 +30,6 @@ tags:
 - Technical Mastery
 - Pragmatic Thinking
 - Software Development
-- Operational Practices
-- Technical Excellence
-- Value Delivery
-- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,13 +39,13 @@ categories:
 - Engineering Excellence
 
 ---
-Technical debt is a term that often gets thrown around in the tech community, but what does it really mean? As someone who has navigated the complexities of software development for years, I can tell you that technical debt is a significant challenge for organisations. In simple terms, technical debt refers to the future costs incurred when you or your team opt for quick, short-term solutions instead of more robust, long-term approaches. 
+[Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in the tech community, but what does it really mean? As someone who has navigated the complexities of [software development]({{< ref "/tags/software-development" >}}) for years, I can tell you that technical debt is a significant challenge for organisations. In simple terms, technical debt refers to the future costs incurred when you or your team opt for quick, short-term solutions instead of more robust, long-term approaches. 
 
 ### Understanding Technical Debt
 
 - **Knowingly Introduced Debt**: This occurs when you make a conscious choice to prioritise speed over quality. For instance, if you need a feature delivered quickly and decide to implement a workaround that isn’t ideal, you’re knowingly adding to your technical debt.
   
-- **Unknowingly Introduced Debt**: Sometimes, decisions made in the past may have seemed sound at the time but become problematic as the system evolves. A classic example is the Azure DevOps team’s initial architectural choices regarding work item tracking. They designed their system with the assumption that no one would need more than 1024 custom fields. Fast forward, and they found themselves needing to refactor their entire system to accommodate the reality of their users’ needs.
+- **Unknowingly Introduced Debt**: Sometimes, decisions made in the past may have seemed sound at the time but become problematic as the system evolves. A classic example is the Azure [DevOps]({{< ref "/categories/devops" >}}) team’s initial architectural choices regarding work item tracking. They designed their system with the assumption that no one would need more than 1024 custom fields. Fast forward, and they found themselves needing to refactor their entire system to accommodate the reality of their users’ needs.
 
 ### The Real Cost of Technical Debt
 
@@ -65,7 +61,7 @@ In a competent team, we can categorise technical debt into two types:
 
 One of the most significant challenges with technical debt is that it’s not like a traditional debt secured against an asset. If you stop paying your mortgage, the bank can repossess your house. But who is ensuring the quality of your product against technical debt? There’s no safety net; it’s an uninsured risk that you must manage proactively.
 
-I often reflect on the Azure DevOps team’s journey. They transitioned from a waterfall model, shipping updates every two years, to a more agile, continuous delivery model with three-week sprints. This shift revealed the extent of their technical debt, as they faced numerous issues stemming from decisions made during their previous development cycle. 
+I often reflect on the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team’s journey. They transitioned from a waterfall model, shipping updates every two years, to a more agile, [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) model with three-week sprints. This shift revealed the extent of their technical debt, as they faced numerous issues stemming from decisions made during their previous development cycle. 
 
 Over eight years, from 2010 to 2018, they learned the hard way that they needed to pay back their technical debt. By focusing on this, they increased their production from 25 features a year to an impressive 360 features by 2018. 
 

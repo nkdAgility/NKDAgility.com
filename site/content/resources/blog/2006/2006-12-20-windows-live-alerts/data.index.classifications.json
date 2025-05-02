@@ -256,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T10:03:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-30T11:42:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses blog notifications and features, with no relevance to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a notification system for blog updates and does not discuss any principles, practices, or cultural aspects of DevOps. There are no direct mentions of DevOps concepts, and the content lacks depth in relation to the category, making it irrelevant to the DevOps discussion.",
     "level": "Ignored"
   },
   "One Engineering System": {
@@ -1245,6 +1248,30 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on blog notifications and features of Windows Live Alerts, with no relevance to software development processes or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-30T11:42:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a notification feature for a blog rather than discussing any methodologies or practices related to product development. There are no direct mentions of product development concepts, and the alignment with the core themes is minimal. The depth of discussion is also very low, as it lacks any substantial detail on product development processes or strategies.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-30T11:42:19",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content does not discuss Hybrid Agile or any related themes. It focuses solely on Windows Live Alerts and does not touch upon project management methodologies or their integration.",
     "level": "Ignored"
   }
 }

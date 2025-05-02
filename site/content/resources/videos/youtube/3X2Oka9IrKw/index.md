@@ -31,15 +31,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Ability to Innovate
-- Agile Philosophy
-- Agile Strategy
-- Organisational Agility
-- Pragmatic Thinking
-- Business Agility
-- Scaling
-- Social Technologies
+tags: []
 resourceTypes:
 - video
 layout: video

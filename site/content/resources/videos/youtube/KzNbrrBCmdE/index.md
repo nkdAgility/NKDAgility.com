@@ -25,9 +25,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true
-tags:
-- Software Development
-- Agile Philosophy
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,7 +49,7 @@ One of the most significant advantages of agile practices is the inherent flexib
 
 However, with this flexibility comes a certain level of inflexibility, particularly regarding how data is structured and utilised. I've encountered situations where the fidelity of data isn't as high as stakeholders would prefer. This can lead to challenges in decision-making and project tracking.
 
-- **Data Integrity**: When the data isn't robust enough, it can hinder our ability to make informed decisions. It’s essential to strike a balance between flexibility in project management and the need for reliable data.
+- **Data Integrity**: When the data isn't robust enough, it can hinder our ability to make informed decisions. It’s essential to strike a balance between flexibility in [project management]({{< ref "/tags/project-management" >}}) and the need for reliable data.
 - **Context Matters**: The key here is understanding the context of your goals. What are you trying to achieve? The answer to this question will guide you in determining whether flexibility or inflexibility is more beneficial in a given situation.
 
 ### Finding the Right Balance

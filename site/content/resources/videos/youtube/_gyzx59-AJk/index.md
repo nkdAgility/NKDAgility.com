@@ -43,11 +43,6 @@ tags:
 - Product Delivery
 - Value Delivery
 - Enterprise Agility
-- Software Development
-- Time to Market
-- Azure DevOps
-- Technical Excellence
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

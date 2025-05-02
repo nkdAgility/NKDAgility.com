@@ -37,15 +37,6 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Pragmatic Thinking
-- Self Organisation
-- Agile Planning
-- Agile Product Management
-- Product Owner
-- Social Technologies
-- Software Development
-- Team Collaboration
-- Organisational Culture
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -58,7 +49,7 @@ categories:
 - Product Management
 
 ---
-In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and strategic goals?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 
+In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}})?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 
 
 When I engage with teams, I often ask them to articulate the product vision and strategic objectives. If I see puzzled faces or hear responses that indicate they need to look something up, it’s a clear sign that we have a disconnect. Without a shared understanding of these elements, we risk undermining our agility. 
 
@@ -70,7 +61,7 @@ A well-defined product vision serves as the North Star for your team. It should 
 - **Team Alignment**: How does each member's daily work contribute to these goals?
 - **Context for Decision-Making**: Are the individuals making technical decisions equipped with the necessary context to maximise value?
 
-If your team members can’t articulate the vision, it’s likely they don’t grasp how their contributions fit into the bigger picture. This lack of understanding can lead to inefficiencies and a failure to adapt to changing circumstances—two things that are antithetical to the agile philosophy.
+If your team members can’t articulate the vision, it’s likely they don’t grasp how their contributions fit into the bigger picture. This lack of understanding can lead to inefficiencies and a failure to adapt to changing circumstances—two things that are antithetical to the [agile philosophy]({{< ref "/tags/agile-philosophy" >}}).
 
 ### Empowering Teams Through Responsibility
 

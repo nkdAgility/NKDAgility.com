@@ -1,4 +1,223 @@
 - FrontMatter:
+    title: Why Topic Branches Drive High-Quality Delivery
+    description: Master topic branches to enhance software delivery! Isolate work, boost collaboration, and reduce integration risks for agile success. Embrace GitHub Flow today!
+    ResourceId: O_VlmDj7n3V
+    ResourceImport: false
+    ResourceType: blog
+    ResourceContentOrigin: hybrid
+    date: 2025-07-14T09:00:00Z
+    weight: 140
+    aliases:
+    - /resources/O_VlmDj7n3V
+    categories:
+    - Engineering Excellence
+    - Technical Leadership
+    - Product Development
+    tags:
+    - Modern Source Control
+    - Software Development
+    - Engineering Practices
+    - Product Delivery
+    - Technical Mastery
+    - Operational Practices
+    - GitHub
+    - Pragmatic Thinking
+    - Continuous Delivery
+    - Flow Efficiency
+    - Technical Excellence
+    - Deployment Frequency
+    - Value Delivery
+    - Release Management
+    - Continuous Integration
+  BodyContent: |
+    In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
+
+    A topic branch is a short-lived, focused branch in your source control repository that isolates a **single unit of developer work**. This is not a month-long feature branch. This is not "we'll merge it someday" work. A topic branch is something you **code, test, and integrate in a few hours or, at most, a couple of days**.
+
+    The moment your topic branch stretches beyond a few days, take it as a warning:
+
+    - Integration will get harder.
+    - Merge conflicts will multiply.
+    - Your risk of defects or unintended behaviours will spike.
+    - Reviewing and validating costs more
+
+    If you let a branch sit for too long, you are building up **integration debt** that will bite you later. Topic branches, and thinking about them as just that, topics, is an essential practice in modern software engineering.
+
+    ## The Strategic importance of Topic Branches
+
+    We want to consistently emphasised the importance of technical practices that enable flow, adaptability, and resilience in software teams. Whether addressing trunk-based development, [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), or [engineering excellence]({{< ref "/categories/engineering-excellence" >}}), the message remains the same: discipline in the small enables success in the large. Topic branches fit directly into this pattern. They are not just a coder habit; they are a deliberate tool that reinforces modularity, integration, and continuous feedback, all cornerstones of modern software delivery.
+
+    From a **technical [leadership]({{< ref "/categories/leadership" >}})** perspective, topic branches are pivotal because they enable:
+
+    - Modularity — you isolate changes to a narrow scope.
+    - Continuous delivery — you keep the mainline ready for release.
+    - Clear code reviews — you limit pull requests to atomic, understandable units.
+    - Collaborative accountability — the team shares responsibility for integrating small changes frequently.
+    - **Support for agile development practices** — you align technical work with the team’s tactical Sprint Goals and Product Goals.
+
+    Without topic branches, you create a fragile system of work. Without topic branches, you make integration harder. Without topic branches, you **slow down your delivery pipeline** and increase the chance of failure.
+
+    ### Practical Patterns for Tactical Implementation of Topic Branches
+
+    Building on the strategic importance we need actionable patterns that technical leaders and teams can apply. It is not enough to understand why topic branches matter; you need pragmatic, grounded approaches that translate strategy into engineering practice. For most teams and most projects, **GitHub Flow** (the branching model, not the cloud tool) is the most effective model. It is a trunk-based model with minimal overhead and complexity. GitHub Flow treats the main branch as the production-ready line and uses small, short-lived topic branches for all work.
+
+    ![GitHub Flow diagram](images/branchstrategy-trunkbased.png)
+
+    You branch off `main`, do your small unit of work, push frequently, and merge back as soon as possible — ideally the same day, or next day at the latest. Your branch is:
+
+    - Focused on a single task or issue.
+    - Continuously tested (locally and via CI).
+    - Reintegrated quickly to avoid drift.
+    - Reinforces context disapline
+
+    If you have a larger application with more engineers and the need to make changes in the production line, then Microsoft’s Release Flow, which is almost identical to "Github Flow" with the addition of a versioned release branch. One could say that  Release Flow inherits and extends Github Flow.
+
+    ![Release Flow diagram](images/branchstrategy-releaseflow.png)
+
+    Compare this to the traditional **Git Flow** approach that models less mature braching stratagies, which adds layers of feature, develop, release, and hotfix branches. While Git Flow can still be useful in some legacy or non-continuous delivery setups, it introduces far more overhead and complexity. It reflects a strategy from the pre-CD world.
+
+    ![Git Flow diagram](images/branchstrategy-old-school.png)
+
+    Gitflow Flow, and its derivatives, simplifies this: fewer long-lived branches, fewer merge headaches, more emphasis on **incremental delivery**.
+
+    ## Leading change through Branching Stratagy
+
+    If you are leading a team, the presence or absence of disciplined topic branching tells you a lot.
+
+    - Short-lived topic branches = a team practising modularity, integration, continuous feedback, and accountability.
+    - Long-lived feature branches = a team accumulating integration risk, delaying delivery, and likely violating agile principles.
+
+    You need to push the team to keep branches small, focused, and short-lived. Review your branching strategy regularly. Make sure it supports, not undermines, your goals of flow, agility, and quality. And above all make sure its clear what each branch is for and how it should be used.
+
+    If your team is struggling with long-lived branches, get serious:
+
+    - Introduce trunk-based development practices with GitHub Flow or Release Flow.
+    - Enforce limits on branch lifespan.
+    - Tighten your CI/CD loops.
+    - Teach your team the cost of integration delay.
+
+    Remember: your branching strategy is not just a technical choice. It is a critical enabler of continuous [value delivery]({{< ref "/tags/value-delivery" >}}).
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-14-why-topic-branches-drive-high-quality-delivery\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-14-why-topic-branches-drive-high-quality-delivery
+- FrontMatter:
+    title: Stop Building Silos. Start Building Systems
+    description: Disconnected automation is not a strategy. Learn why fragmentation kills delivery, and how platform engineering, DevOps, and One Engineering System (1ES) bring clarity, flow, and resilience.
+    ResourceId: zLhc3UKUWOj
+    ResourceImport: false
+    ResourceType: blog
+    ResourceContentOrigin: hybrid
+    date: 2025-07-07T09:00:00Z
+    slug: stop-building-silos-start-building-systems
+    weight: 180
+    aliases:
+    - /resources/zLhc3UKUWOj
+    - /resources/blog/stop-building-silos.-start-building-systems
+    aliasesArchive:
+    - /stop-building-silos--start-building-systems
+    - /blog/stop-building-silos--start-building-systems
+    - /resources/blog/stop-building-silos.-start-building-systems
+    categories:
+    - DevOps
+    - Engineering Excellence
+    - Product Development
+    tags:
+    - One Engineering System
+    - Platform Engineering
+    - Operational Practices
+    - Internal Developer Platform
+    - Technical Excellence
+    - Pragmatic Thinking
+    - Product Delivery
+    - Software Development
+    - Technical Mastery
+    - Continuous Delivery
+    - Engineering Practices
+    - Flow Efficiency
+    - Value Delivery
+    - Azure Pipelines
+    - Azure DevOps
+  BodyContent: |
+    You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.
+
+    If your automation strategy looks something like this:
+
+    - Manual SQL deployments from someone’s laptop
+    - Azure Pipelines building unversioned assemblies
+    - Manual deployment to dev and test environments
+    - TeamCity rebuilding new unversioned assemblies
+    - Octopus Deploy is deploying from Team City to staging and production
+    - Selenium tests running on a black-box scripted node that only one person monitors
+
+    You’re not building a product. You’re building chaos. You’re not [scaling]({{< ref "/tags/scaling" >}}) a team. You’re scaling dysfunction.
+
+    ## Fragmentation Is Not an Engineering Strategy
+
+    When every team uses a different deployment tool, stores secrets in a personal vault, and runs tests on unmonitored boxes, you’ve created a system that _no one_ understands and _no one_ can change safely.
+
+    This isn’t flexibility. It’s fragility.
+
+    Fragmentation leads to duplication of effort, inconsistent results, increased cognitive load, and slower delivery. You waste time debugging pipeline differences instead of building product value. And every deviation from a shared system adds risk to quality, security, and compliance.
+
+    [Engineering excellence]({{< ref "/categories/engineering-excellence" >}}) comes from enabling consistency where it matters—creating common foundations that support autonomy without sacrificing reliability. It comes from designing systems that are observable, changeable, and resilient—systems that empower teams through clarity, not confusion.
+
+    This kind of fragmentation also violates the core ethos of [DevOps]({{< ref "/categories/devops" >}}): [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value through the union of people, processes, and products. If your toolchain is stitched together by tribal knowledge and Slack messages, you’re not enabling flow. You’re creating friction.
+
+    ## DevOps Is Not Tooling. It's Feedback, Flow, and Learning
+
+    DevOps isn’t a toolkit war. It’s the discipline of enabling feedback, flow, and [continuous learning]({{< ref "/tags/continuous-learning" >}}) across the entire product lifecycle.
+
+    - It’s about **amplifying feedback loops**—build, test, and release systems that surface issues early and often.
+    - It’s about **enabling flow**—removing friction between commit and customer, reducing handoffs and rework.
+    - It’s about **fostering learning**—capturing telemetry, responding to incidents, and improving from every iteration.
+
+    DevOps without visibility is cargo cult. DevOps across disconnected systems is just automation theatre. And DevOps without learning is just [technical debt]({{< ref "/tags/technical-debt" >}}) in fast-forward.
+
+    ## Building One Engineering System (1ES) through Platform Engineering
+
+    If DevOps is the ethos, then **[Platform Engineering]({{< ref "/tags/platform-engineering" >}})** is the strategy, and **[One Engineering System]({{< ref "/tags/one-engineering-system" >}}) (1ES)** is the execution model.
+
+    Platform Engineering is not just infrastructure automation. It's a practice grounded in DevOps principles that aims to improve every development team's time-to-value, compliance, cost control, and security through **improved developer experiences** and **governed self-service**. It's both a mindset shift and a system of reusable tools and services.
+
+    Platform Engineering teams build and evolve **Internal Developer Platforms (IDPs)**—paved paths that reduce cognitive load, eliminate manual gates, and guide teams safely toward production.
+
+    These platforms:
+
+    - Help developers be self-sufficient (e.g. starter kits, templates, IDE integrations)
+    - Encapsulate patterns into reusable services
+    - Automate security and compliance checks
+    - Streamline operations and infrastructure management
+
+    1ES, pioneered at Microsoft, embodies this by unifying:
+
+    - **[Azure Pipelines]({{< ref "/tags/azure-pipelines" >}})** for end-to-end CI/CD
+    - **[Azure Repos]({{< ref "/tags/azure-repos" >}})**, **Boards**, and **Artifacts** as a single source of truth
+    - **Infrastructure as Code**, **Policy as Code**, and integrated telemetry
+
+    The result: a secure, observable, scalable system where guardrails are built in and teams can move fast _without creating risk_.
+
+    No handoffs. No tool silos. No black-box deploys. One path from idea to production that every team and every skillset contributes to.
+
+    You may be thinking that "this breaks self-management" and the agency of the teams. But self-management in Agile doesn’t mean chaos. [Scrum]({{< ref "/categories/scrum" >}}) Teams don’t self-manage in a vacuum—they operate within the boundaries defined by the organisation. Self-management means giving teams the autonomy to solve problems within a clearly defined system of constraints. That system of constraints—your engineering boundaries, your compliance requirements, your platform capabilities—is your Platform Engineering strategy, and your 1ES is your implementation of that strategy. It defines what good looks like. Those boundaries must be engineered and not left to tribal knowledge. If you want consistent results, define the edges and let the teams operate freely _within_ them.
+
+    ## Consolidate. Standardise. Enable.
+
+    If you want scale, you must design for it. That means:
+
+    - One build system.
+    - One deployment path.
+    - One way of managing secrets, tests, telemetry, and deployments.
+
+    **Azure Pipelines** is capable of it all. With templates, approvals, gates, agents, deployment groups, and environment strategies, everything you need to build a 1ES-style delivery platform is already there. Yes, there are other tools, but if you are already rooted in the Microsoft stack, then these purpose-built tools fit like a glove.
+
+    Stop spreading your delivery process across half a dozen tools with no visibility. Pick a platform. Make it great. And let your teams focus on product, not plumbing.
+
+    **Engineering excellence isn’t about choosing the coolest tools.**\
+    It’s about building a system of work that enables every team to deliver safely, sustainably, and continuously.
+
+    **Stop optimising for familiarity. Start optimising for flow.**
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-07-stop-building-silos-start-building-systems\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-07-stop-building-silos-start-building-systems
+- FrontMatter:
     title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
     description: Human agency is vital in adaptive systems, defining strategy and purpose, while AI optimises tactics. Balance is key to avoid obsolescence.
     ResourceId: ffJaR9AaTl7
@@ -25,10 +244,6 @@
     - Organisational Physics
     - Decision Making
     - Sociotechnical Systems
-    - Decision Theory
-    - Artificial Intelligence
-    - Organisational Agility
-    - Product Strategy
   BodyContent: |
     Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.
 
@@ -51,7 +266,7 @@
 
     The strategic layer demands human discernment because it must constantly negotiate ethical trade-offs, respond to uncertainty, and reset direction as new information emerges. Tactical layers benefit from AI’s raw speed, capacity for pattern recognition, and ability to handle enormous volumes of data. There is synergy, but it is not a partnership of equals. Humans govern; AI serves.
 
-    {{< mermaid >}}
+    {{< mermaid width="400px" >}}
     flowchart TD
     A([Decision Point]) --> B{Is strategy or purpose changing?}
     B -- Yes --> H[/"Human Agency"/]
@@ -107,6 +322,98 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-30-human-and-ai-agency-in-adaptive-systems\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-30-human-and-ai-agency-in-adaptive-systems
 - FrontMatter:
+    title: Stop Writing Business Logic in Stored Procedures
+    description: Stop writing business logic in SQL stored procedures! Embrace refactoring for testable, maintainable code and elevate your engineering practices.
+    ResourceId: utAzlIGxj7O
+    ResourceImport: false
+    ResourceType: blog
+    ResourceContentOrigin: hybrid
+    date: 2025-06-23T09:00:00Z
+    weight: 380
+    aliases:
+    - /resources/utAzlIGxj7O
+    aliasesArchive:
+    - /stop-writing-business-logic-in-stored-procedures
+    - /blog/stop-writing-business-logic-in-stored-procedures
+    categories:
+    - Engineering Excellence
+    tags:
+    - Technical Mastery
+    - Engineering Practices
+    - Software Development
+    - Technical Excellence
+    - Operational Practices
+    - Pragmatic Thinking
+    - Technical Debt
+    - Continuous Improvement
+  BodyContent: |
+    Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.
+
+    If you’re still writing business logic in SQL Stored Procedures, it’s time to stop. If you still have code that stores business login in  SQL Stored Procedures its time to refactor!
+
+    I’m not saying rewrite everything at once. That would be ridiculous. It’s a massive cost with no direct stakeholder value. What I _am_ saying is this:
+
+    > From this point forward, stop creating new business logic in stored procedures.
+    >
+    > And when you _must_ change one, refactor that logic out into testable, mockable, maintainable code.
+
+    This is not about doing everything at once!
+
+    Take inspiration from the Azure [DevOps]({{< ref "/categories/devops" >}}) team. When they decided to eliminate their suite of brittle, long-running system tests, they didn’t try to replace them in a single sprint. It took them four years of consistent work, in three-week sprints, to fully remove and replace those tests with something better. One step at a time. That’s what change looks like.
+
+    Break the cycle of adding more mess to the mess. Every stored procedure you don't write is a future bug you won't have to debug in production. Every time you choose code over SQL for business logic, you're reclaiming control of your system.
+
+    ## Stored Procedures are the wrong place for Business Logic
+
+    Let’s be clear: this isn’t an abstract architectural debate. The reasons stored procedures are a bad place for business logic are grounded in hard-learned lessons from real teams, real outages, and real maintenance headaches. If you're serious about [engineering excellence]({{< ref "/categories/engineering-excellence" >}}), you need to treat stored procedures as a legacy constraint, not a strategic tool.
+
+    1. **They can’t be tested properly** - You need a full database instance with seed data. You need to run a slow test harness. There’s no mocking, no fast feedback, no isolation. If it can’t be unit tested, it can’t be trusted. Long-running system tests do not tell you if the code works, only that the long-running system tests that you created work.
+    2. **They don’t participate in CI/CD** - Stored procedures are almost always deployed manually or via fragile SQL scripts. While it can be automated by things like Redgate, it's often still brittle, breaks reproducibility, and blocks automated pipelines.
+    3. **They aren’t version-controlled like real code** - While you can have them under source control, they are "copied" into source control..**.** either by Readgate or manually by a developer. Manual tasks are risky! Remember the Knight Capital Group!
+    4. **They tightly couple your logic to the database** - That kills portability and locks you into a specific database engine. It also makes testing, debugging, and observability painful. There have been attempts in the past to create "Unit Tests" for stored procedures, but they have largely been abandoned in favour of just getting our logic out of that scenario.
+    5. **They don’t scale** - Stored procedures run on the most expensive, least scalable part of your infrastructure: the database server. Business logic belongs in services that can scale out.
+    6. **They violate the separation of concerns** - Your database should store and retrieve data. Your application should handle logic. Stored procedures blur that line and create a big ball of mud.
+    7. **They’re hard to reason about** - No dependency injection. No composition. No mocking. No telemetry. No proper logging. Just deeply procedural code with limited tooling support. If you have to rely on a debugger to see if your code works, you are doing it wrong.
+
+    Before you write the next line of business logic in a stored procedure, ask yourself: is this something I want to debug at 2am with no tests, no telemetry, and no rollback plan?
+
+    That’s the reality of stored procedures. They make every part of your engineering practice harder. Get the logic out. Put it where it belongs—alongside the rest of your tested, observable, maintainable code.
+
+    ## The strategy: don’t rip, refactor
+
+    You don’t need permission to start this. You don’t need a project. You just need a commitment to modern engineering discipline:
+
+    - When you build new features, do it in application code, not SQL.
+    - When you touch an existing stored procedure, _refactor it_. Move the logic into testable code.
+    - Leave a thin wrapper if necessary, but relocate the behaviour.
+
+    This is a _pay-as-you-go_ modernisation strategy. It lets you progressively reduce [technical debt]({{< ref "/tags/technical-debt" >}}) without halting delivery.
+
+    ## The benefits are compounding.
+
+    Every time you refactor, you:
+
+    - Increase the ability to create unit tests
+    - Improve maintainability
+    - Enable faster feedback loops
+    - Reduce runtime costs
+    - Shrink the surface area for bugs
+    - Move toward [continuous delivery]({{< ref "/tags/continuous-delivery" >}})
+
+    No single change flips the system. But every change you make is a step away from the fragile procedural past and toward a sustainable engineering future.
+
+    ## The outcome?
+
+    This isn’t about dogma. It’s about discipline. Modern [software development]({{< ref "/tags/software-development" >}}) demands testability, traceability, observability, and scalability. Stored procedures give you none of that.
+
+    If you're maintaining logic in stored procedures, you're fighting your tooling, your pipeline, and your team. Stop doing that.
+
+    Start small. Move incrementally. Raise the bar.
+
+    Modern software is built in code, not SQL.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-23-stop-writing-business-logic-in-stored-procedures\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-23-stop-writing-business-logic-in-stored-procedures
+- FrontMatter:
     title: How Lack of Agency is Killing Your DevOps Initiatives
     description: DevOps is about empowering developers with operational agency, enabling true continuous delivery and real feedback from production. Don't automate fragility!
     ResourceId: AgIU1SK-3pE
@@ -130,15 +437,6 @@
     - Operational Practices
     - Value Delivery
     - Self Organisation
-    - Social Technologies
-    - Frequent Releases
-    - Continuous Delivery
-    - Market Adaptability
-    - Organisational Agility
-    - Continuous Improvement
-    - Deployment Frequency
-    - Product Delivery
-    - Sociotechnical Systems
   BodyContent: |
     [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  
     **DevOps is agency.** It is the union of people, process, and products to enable continuous delivery of value to our end users.
@@ -199,6 +497,87 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives
 - FrontMatter:
+    title: Resilience is Part of the Product, Not an Afterthought
+    description: Design resilience into your product from day one. It's a core feature, not an afterthought. Build for failure, measure it, and improve relentlessly.
+    ResourceId: EtzHUfsWjsD
+    ResourceImport: false
+    ResourceType: blog
+    ResourceContentOrigin: hybrid
+    date: 2025-06-09T09:00:00Z
+    weight: 255
+    aliases:
+    - /resources/EtzHUfsWjsD
+    aliasesArchive:
+    - /resilience-is-part-of-the-product--not-an-afterthought
+    - /blog/resilience-is-part-of-the-product--not-an-afterthought
+    categories:
+    - Engineering Excellence
+    - Product Development
+    - DevOps
+    tags:
+    - Technical Mastery
+    - Pragmatic Thinking
+    - Site Reliability Engineering
+    - Continuous Improvement
+    - Technical Excellence
+    - Operational Practices
+    - Software Development
+  BodyContent: |
+    Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).
+
+    Real resilience is not about having good people with pagers. It is not about heroes. Heroes emerge when systems lack resilience. They hoard work, avoid [transparency]({{< ref "/tags/transparency" >}}), and justify cutting corners by claiming they are "doing whatever it takes." In reality, they introduce silent risks, undermine teamwork, and erode quality standards.
+
+    If your resilience depends on a hero, you are not resilient. You are vulnerable and you just have not been exposed yet.
+
+    ## Resilience is a Core Feature
+
+    Resilience must be treated like any other core feature. It must be designed, built, and continuously improved. It must be part of your product definition, your architecture, and your engineering culture. It must be owned by the same people who build the product. At Microsoft, the Azure [DevOps]({{< ref "/categories/devops" >}}) engineering teams did exactly that, they built resilience which was engineered into every layer of their system — not handed off to a separate Ops team, not left to wishful thinking. Engineers owned their live site experience end-to-end form _ideation_ to _validation_ and all of the _design_, _build_, _test_, _release_ and _run_ in between.
+
+    Incidents were expected, contained, and learned from, not blamed on individuals. They did not hope for resilience. They built it.
+
+    If they did have an incident, they would own it, not just fix the problem and sweep it under the rug.
+
+    ## Build for Containment, Not Perfection
+
+    Every serious product needs resilience capabilities: telemetry, rapid roll-forward, observability, and risk containment.
+
+    Without telemetry, you cannot see what is happening. Without rapid roll-forward, you cannot respond fast enough. Without observability, you cannot understand why things are happening. Without risk containment, small failures turn into major outages.  
+    If you have to shut down your entire platform to fix one feature, you have already failed.
+
+    Microsoft’s teams built telemetry into everything. They measured customer experience directly — failed or slow user minutes — not just server uptime. They tuned alerts to detect real-world impact. They used safe deployment rings with deliberate bake times to catch problems early. They separated deployment from exposure using feature flags, and stopped cascading failures with circuit breakers and throttling.
+
+    Failures were not exceptional. Failures were normal.  
+    Resilience was not improvised. It was engineered.
+
+    ## Treat Resilience as a First-Class Investment
+
+    Resilience is not free, but the cost of neglecting it is far higher. Downtime kills customer trust. Outages cost revenue. Slow recovery wrecks morale. Ignoring resilience is gambling with your business.
+
+    Treat resilience like a feature. Design it. Engineer it. Continuously improve it. Put it in your [Definition of Done]({{< ref "/tags/definition-of-done" >}}). Make it part of every code review, every architecture discussion, every release decision. If you are not actively designing for resilience, you are designing for fragility whether you mean to or not.
+
+    Build for failure. Measure resilience empirically. Improve relentlessly.
+
+    ## Pragmatic Steps to Build Resilience
+
+    You do not need permission to start. You do not need to fix everything at once. You just need to move with intent:
+
+    - Instrument everything. If you cannot measure it, you cannot manage it.
+    - Make every change reversible or overridable. Progressive delivery, feature flags, and automated deployments are minimum standards.
+    - Build for isolation. Cells, circuit breakers, and throttling prevent one failure from taking down the system.
+    - Treat incidents as system signals, not team failures. Every incident is feedback for your product and your organisation.
+
+    ## Failure is Inevitable. Your Response is Optional.
+
+    You will never eliminate failure. That is not the goal.  
+    The goal is to ensure that failures are small, contained, quickly detected, and rapidly recovered without compromising your product or your business.
+
+    If you want resilience, build it deliberately. Make it part of your product. Treat it with the same seriousness as security, scalability, and usability. Anything less is just gambling that the next crisis will not be the one that takes you down.
+
+    **Resilience is not heroism. Resilience is system design.**  
+    Own it as you would any other critical feature. Because it is one.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-09-resilience-is-part-of-the-product-not-an-afterthought\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-09-resilience-is-part-of-the-product-not-an-afterthought
+- FrontMatter:
     title: The Missing Lever in Agile Transformations
     description: 'Unlock true transformation with Agentic Agility: cultivate agency in people and systems for genuine adaptability, resilience, and empowered outcomes.'
     ResourceId: RevK05qtZD7
@@ -231,11 +610,6 @@
     - Self Organisation
     - Market Adaptability
     - Social Technologies
-    - Agile Leadership
-    - Organisational Physics
-    - Sociotechnical Systems
-    - Beta Codex
-    - Evidence Based Leadership
   BodyContent: |
     Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.
 
@@ -318,19 +692,6 @@
     - Technical Excellence
     - Software Development
     - Technical Mastery
-    - Continuous Improvement
-    - Deployment Frequency
-    - Metrics and Learning
-    - Value Delivery
-    - Decision Making
-    - Engineering Practices
-    - Product Delivery
-    - Market Adaptability
-    - Release Management
-    - Deployment Strategies
-    - Continuous Delivery
-    - Current Value
-    - Frequent Releases
   BodyContent: |
     Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.
 
@@ -427,9 +788,9 @@
     aliasesArchive:
     - /robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
     - /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
-    categories: []
-    tags:
-    - Agentic Agility
+    categories:
+    - Uncategorized
+    tags: []
   BodyContent: |
     The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.
 
@@ -512,9 +873,6 @@
     - Site Reliability Engineering
     - Technical Mastery
     - Pragmatic Thinking
-    - Organisational Physics
-    - Continuous Improvement
-    - Technical Excellence
   BodyContent: |
     Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.
 
@@ -626,11 +984,6 @@
     - Software Development
     - Pragmatic Thinking
     - Agile Values and Principles
-    - Organisational Agility
-    - Agile Leadership
-    - Value Delivery
-    - Sociotechnical Systems
-    - Team Collaboration
   BodyContent: |
     [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.
 
@@ -769,11 +1122,6 @@
     - Operational Practices
     - Product Delivery
     - Agile Strategy
-    - Pragmatic Thinking
-    - Agile Frameworks
-    - Scrum Team
-    - Strategic Goals
-    - Increment
   BodyContent: |
     The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that [Scrum]({{< ref "/categories/scrum" >}}) Teams build on a solid foundation, aligning technical execution with [strategic goals]({{< ref "/tags/strategic-goals" >}}).
 
@@ -909,11 +1257,6 @@
     - Value Delivery
     - Agile Product Management
     - Working Software
-    - Technical Mastery
-    - Coaching
-    - Mentoring
-    - Organisational Physics
-    - Business Agility
   BodyContent: |
     [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
@@ -1060,10 +1403,6 @@
     - Pragmatic Thinking
     - Team Performance
     - Agile Transformation
-    - Organisational Agility
-    - Agile Strategy
-    - Sociotechnical Systems
-    - Product Delivery
   BodyContent: |
     [Scrum]({{< ref "/categories/scrum" >}}) is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of [leadership]({{< ref "/categories/leadership" >}}), authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.
 
@@ -1134,11 +1473,13 @@
     slug: measuring-individual-cycle-time-is-killing-your-flow
     aliases:
     - /resources/KHEPBWiFDKJ
+    - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
     aliasesArchive:
     - /measuring-individual-cycle-time-is-killing-your-flow
     - /blog/measuring-individual-cycle-time-is-killing-your-flow
     - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
     - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+    - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
     categories:
     - Kanban
     - Lean
@@ -1159,11 +1500,6 @@
     - Agile Frameworks
     - Throughput
     - Continuous Improvement
-    - Lean Product Development
-    - Empirical Process Control
-    - Product Delivery
-    - Complexity Thinking
-    - Organisational Agility
   BodyContent: |
     Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
 
@@ -1274,11 +1610,6 @@
     - Release Management
     - Flow Efficiency
     - Market Adaptability
-    - Operational Practices
-    - Pragmatic Thinking
-    - Technical Mastery
-    - Deployment Frequency
-    - Engineering Practices
     categories:
     - DevOps
     - Engineering Excellence
@@ -1421,11 +1752,6 @@
     - Team Collaboration
     - Agile Product Management
     - Product Delivery
-    - Value Delivery
-    - Self Organisation
-    - Sociotechnical Systems
-    - Working Software
-    - Agile Planning
     categories:
     - Scrum
     - Technical Leadership
@@ -1538,11 +1864,6 @@
     - Market Adaptability
     - Continuous Delivery
     - Deployment Frequency
-    - Product Delivery
-    - Engineering Practices
-    - Continuous Improvement
-    - Digital Transformation
-    - Shift-Left Strategy
     categories:
     - Product Development
     - Engineering Excellence
@@ -1711,11 +2032,6 @@
     - Agile Values and Principles
     - Agile Philosophy
     - Agile Planning
-    - Agile Strategy
-    - Agile Transformation
-    - Business Agility
-    - Evidence Based Leadership
-    - Lean Product Development
     categories:
     - Product Development
     - Engineering Excellence
@@ -1816,11 +2132,6 @@
     - Engineering Practices
     - Operational Practices
     - Pragmatic Thinking
-    - Product Delivery
-    - Working Software
-    - Frequent Releases
-    - Continuous Improvement
-    - Time to Market
     categories:
     - Engineering Excellence
     - DevOps
@@ -1978,11 +2289,6 @@
     - Pragmatic Thinking
     - Scrum Team
     - Operational Practices
-    - Time to Market
-    - Agile Planning
-    - Agile Strategy
-    - Market Adaptability
-    - Release Management
     categories:
     - Product Development
     - Scrum
@@ -2109,11 +2415,6 @@
     - Agile Product Management
     - Agile Transformation
     - Operational Practices
-    - Competence
-    - Pragmatic Thinking
-    - Agile Leadership
-    - Continuous Improvement
-    - Team Collaboration
     categories:
     - Scrum
     - Product Development
@@ -2229,11 +2530,6 @@
     - Enterprise Agility
     - Lean Product Development
     - Agile Strategy
-    - Agile Transformation
-    - Continuous Improvement
-    - Cycle Time
-    - Technical Excellence
-    - Engineering Practices
     categories:
     - Product Development
     - Lean
@@ -2357,11 +2653,6 @@
     - Value Delivery
     - Agile Frameworks
     - Competence
-    - Team Performance
-    - Empirical Process Control
-    - Scrum Team
-    - Technical Excellence
-    - Agile Philosophy
     categories:
     - Scrum
     - Product Management

@@ -20,6 +20,7 @@ aliases:
 - /resources/XF-yQmPdUME
 - /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 - /resources/videos/the-product-owners-role-in-maximizing-value
+- /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
 aliasesArchive:
 - /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 - /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
@@ -27,6 +28,7 @@ aliasesArchive:
 - /resources/the-product-owner's-role-in-maximizing-value
 - /resources/videos/the-product-owners-role-in-maximizing-value
 - product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,10 +44,6 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Agile Strategy
-- Scrum Team
-- Agile Transformation
-- Market Adaptability
-- Current Value
 resourceTypes:
 - video
 categories:
@@ -54,7 +52,7 @@ categories:
 - Product Management
 
 ---
-In the world of Agile and Scrum, there’s often a misconception that product ownership and product management are two distinct roles. This idea couldn’t be further from the truth. In reality, effective product ownership is fundamentally a form of product management. Let’s dive deeper into why these roles are intertwined and how understanding this can maximize the value delivered by your Scrum teams.
+In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), there’s often a misconception that product ownership and [product management]({{< ref "/categories/product-management" >}}) are two distinct roles. This idea couldn’t be further from the truth. In reality, effective product ownership is fundamentally a form of product management. Let’s dive deeper into why these roles are intertwined and how understanding this can maximize the value delivered by your Scrum teams.
 
 ## The Core of Product Ownership: It’s All About Product Management
 
@@ -62,9 +60,9 @@ One of the biggest myths surrounding Scrum is that product ownership somehow rep
 
 ### Product Ownership in Scrum
 
-When I refer to the product owner, I'm talking about the product owner as defined in the Scrum Guide—not a job title or a role that your organization has tweaked to include additional responsibilities that have nothing to do with Scrum.
+When I refer to the [product owner]({{< ref "/tags/product-owner" >}}), I'm talking about the product owner as defined in the Scrum Guide—not a job title or a role that your organization has tweaked to include additional responsibilities that have nothing to do with Scrum.
 
-- **True Product Owner Role**: In Scrum, the product owner is accountable for maximizing the value delivered by the Scrum team. This accountability doesn’t mean that the product owner should be bogged down with tasks like writing reports for management or managing projects—these are distractions from the core responsibility.
+- **True Product Owner Role**: In Scrum, the product owner is accountable for maximizing the value delivered by the [Scrum team]({{< ref "/tags/scrum-team" >}}). This accountability doesn’t mean that the product owner should be bogged down with tasks like writing reports for management or managing projects—these are distractions from the core responsibility.
 
 - **Misconceptions in Organizations**: Many organizations mistakenly assign the title of "Product Owner" while piling on unrelated duties. This leads to confusion and dilutes the effectiveness of the role. The product owner's focus should be on value, not administrative tasks.
 
@@ -74,7 +72,7 @@ Product management encompasses everything required to manage a product, from its
 
 - **Scrum’s Influence**: When adopting Scrum, product management naturally incorporates the responsibilities of the product owner. This means moving from long-term planning to shorter, iterative cycles, where the product owner is laser-focused on maximizing value.
 
-- **Core Accountability**: The product owner's accountability within Scrum is an extension of traditional product management but with a more defined focus on value delivery. Essentially, the product owner ensures that the Scrum team’s efforts are aligned with the strategic goals of the organization.
+- **Core Accountability**: The product owner's accountability within Scrum is an extension of traditional product management but with a more defined focus on [value delivery]({{< ref "/tags/value-delivery" >}}). Essentially, the product owner ensures that the Scrum team’s efforts are aligned with the [strategic goals]({{< ref "/tags/strategic-goals" >}}) of the organization.
 
 ## Why Focusing on Value is Essential in Short Iterative Cycles
 
@@ -108,7 +106,7 @@ Markets today are anything but static. They are volatile, with niches constantly
 
 - **Adapting to Market Needs**: A product owner who is attuned to the market’s ebb and flow can help the organization pivot when necessary, ensuring that the product remains relevant and valuable.
 
-### Portfolio Management and Strategic Goals
+### [Portfolio Management]({{< ref "/tags/portfolio-management" >}}) and Strategic Goals
 
 Product management at the organizational level involves more than just managing a single product—it’s about managing a portfolio of products and ensuring that all efforts are aligned with the strategic goals of the organization.
 
@@ -126,6 +124,6 @@ By understanding this relationship, organizations can avoid the pitfalls of misa
 
 - **Focus on Value**: Whether you’re a product owner or a product manager, your ultimate goal should be the same: delivering value to your customers and your organization.
 
-- **Adapt and Thrive**: In a world where markets are constantly changing, the ability to adapt quickly is crucial. By embracing the principles of Scrum and Agile product management, you can ensure that your products remain relevant, valuable, and successful.
+- **Adapt and Thrive**: In a world where markets are constantly changing, the ability to adapt quickly is crucial. By embracing the principles of Scrum and [Agile product management]({{< ref "/tags/agile-product-management" >}}), you can ensure that your products remain relevant, valuable, and successful.
 
 🔍 **Remember**: Effective product ownership is just effective product management—tailored for the Scrum framework. Stay focused on value, stay agile, and always be ready to pivot as your market evolves.

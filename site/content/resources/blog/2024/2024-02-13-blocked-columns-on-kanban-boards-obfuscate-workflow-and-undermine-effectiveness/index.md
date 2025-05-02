@@ -33,21 +33,19 @@ tags:
 - Azure DevOps
 - Software Development
 - Transparency
-- Azure Boards
-- Pragmatic Thinking
 categories:
 - Kanban
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---
-The Boards in Azure DevOps are a powerful tool that your teams can leverage to enable transparent visualization of the current state of value delivery.
+The Boards in Azure [DevOps]({{< ref "/categories/devops" >}}) are a powerful tool that your teams can leverage to enable transparent visualization of the current state of [value delivery]({{< ref "/tags/value-delivery" >}}).
 
 However, the inclusion of Blocked columns can stealthily erode the very foundations of efficiency these boards are meant to uphold. By obfuscating the state of work-in-progress and breeding a culture of hands-off responsibility, Blocked columns can become the silent saboteurs in your workflow.
 
 ![](images/image-5-5.png)
 { .post-img }
 
-**Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness:**
+**Blocked Columns on [Kanban]({{< ref "/categories/kanban" >}}) Boards Obfuscate Workflow and Undermine Effectiveness:**
 
 Kanban boards serve as the visual representation of the crucial steps involved in knowledge discovery. However, labeling a column as "Blocked" does not align with the essence of this visualization.
 
@@ -69,9 +67,9 @@ When tasks are relegated to the Blocked column, there is an alarming tendency fo
 
 *It’s imperative to recognize that 'Blocked' is distinct from 'Waiting'.* They are not interchangeable. Especially in workflows that involve approval, legal compliance, risk assessment, or governance considerations, tasks are not Blocked per se, but rather waiting for input or feedback. This waiting period needs to be accurately captured, and the sources of delay must be identified and addressed. Knowledge of these elements and the duration of delays is fundamental in tackling and resolving the root causes.
 
-In light of these pitfalls, it is crucial for teams to approach the use of Blocked columns with caution. Instead, a more efficient approach may involve annotating tasks with specific information about the blockages and keeping them within their respective stages, thereby maintaining transparency, accountability, and the integrity of the knowledge discovery steps.
+In light of these pitfalls, it is crucial for teams to approach the use of Blocked columns with caution. Instead, a more efficient approach may involve annotating tasks with specific information about the blockages and keeping them within their respective stages, thereby maintaining [transparency]({{< ref "/tags/transparency" >}}), accountability, and the integrity of the knowledge discovery steps.
 
-**How do you show that a work item is blocked In Azure DevOps?**
+**How do you show that a work item is blocked In [Azure DevOps]({{< ref "/tags/azure-devops" >}})?**
 
 By far the best way to indicate blocked is to use a Blocked tag on your Work Item.
 

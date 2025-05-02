@@ -30,15 +30,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Frameworks
-- Agile Planning
-- Organisational Agility
-- Agile Strategy
-- Agile Transformation
-- Customer Feedback Loops
-- Team Collaboration
-- Team Motivation
-- Team Performance
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,9 +40,9 @@ categories:
 - Product Development
 
 ---
-In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of Scrum and Agile practices.
+In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of [Scrum]({{< ref "/categories/scrum" >}}) and Agile practices.
 
-Famine, in our Agile framework, manifests as a significant lack of feedback. This isn’t just about the absence of comments on a product; it’s about a broader disengagement from stakeholders, including your product owner. When the business fails to engage, it creates a void that can be detrimental to the entire team’s morale and productivity.
+Famine, in our Agile framework, manifests as a significant lack of feedback. This isn’t just about the absence of comments on a product; it’s about a broader disengagement from stakeholders, including your [product owner]({{< ref "/tags/product-owner" >}}). When the business fails to engage, it creates a void that can be detrimental to the entire team’s morale and productivity.
 
 ### The Consequences of Famine
 
@@ -73,7 +64,7 @@ So, how do we combat this famine? Here are a few strategies that I’ve found ef
 
 - **Involve the Product Owner**: The product owner plays a crucial role in bridging the gap between the team and stakeholders. Ensure they are actively involved and communicating the needs and expectations of the business.
 
-- **Visualise Progress**: Use tools like Kanban boards or burndown charts to visually represent progress. This can help stakeholders see the value being delivered and encourage their involvement.
+- **Visualise Progress**: Use tools like [Kanban]({{< ref "/categories/kanban" >}}) boards or burndown charts to visually represent progress. This can help stakeholders see the value being delivered and encourage their involvement.
 
 ### The Importance of Engagement
 
@@ -81,4 +72,4 @@ Ultimately, the key takeaway here is that engagement is vital. If the business d
 
 I encourage you to reflect on your own experiences. Have you noticed signs of famine in your Agile practices? What steps can you take to ensure that feedback flows freely and that all parties remain engaged? 
 
-Thank you for taking the time to read this post. If you found it valuable, please like, follow, and subscribe. I always appreciate your comments, and if you’d like to discuss this topic further or anything else related to Agile, Scrum, or DevOps, feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!
+Thank you for taking the time to read this post. If you found it valuable, please like, follow, and subscribe. I always appreciate your comments, and if you’d like to discuss this topic further or anything else related to Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!

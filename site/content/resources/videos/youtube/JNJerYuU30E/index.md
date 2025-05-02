@@ -32,23 +32,17 @@ tags:
 - Personal
 - Coaching
 - Continuous Learning
-- Organisational Agility
-- Agile Transformation
-- Team Motivation
-- Agile Leadership
-- Agile Philosophy
-- Social Technologies
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional Scrum Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.
+When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.
 
 ### A Pioneer in Agile
 
@@ -70,7 +64,7 @@ In my own experience, having a mentor like Jernimo has been invaluable. Here’s
 
 ### Looking Forward
 
-As I continue to grow in my role, I carry forward the lessons I’ve learned from Jernimo. His vision for the future of agile is one that resonates deeply with me. It’s about continuous improvement, not just for ourselves but for the entire community.
+As I continue to grow in my role, I carry forward the lessons I’ve learned from Jernimo. His vision for the future of agile is one that resonates deeply with me. It’s about [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), not just for ourselves but for the entire community.
 
 - **Embracing Change**: Agile is all about adaptability. Jernimo embodies this principle, always looking for ways to improve and innovate. This mindset is something I strive to adopt in my own practice.
 

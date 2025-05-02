@@ -32,10 +32,6 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Pragmatic Thinking
-- Business Agility
-- Organisational Change
-- Agile Strategy
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -48,7 +44,7 @@ categories:
 - Product Development
 
 ---
-Agile is hard, and it’s designed for complex environments. Over the years, I’ve encountered numerous behaviours in organisations that can only be described as suboptimal. Today, I want to share my insights on what I call the "Seven Deadly Sins of Agile." These are pitfalls that can hinder your Agile transformation and prevent you from achieving true agility.
+Agile is hard, and it’s designed for complex environments. Over the years, I’ve encountered numerous behaviours in organisations that can only be described as suboptimal. Today, I want to share my insights on what I call the "Seven Deadly Sins of Agile." These are pitfalls that can hinder your [Agile transformation]({{< ref "/tags/agile-transformation" >}}) and prevent you from achieving true agility.
 
 ### Lust: The Desire for Quick Fixes
 
@@ -58,7 +54,7 @@ As I travel around, I often hear organisations expressing a strong desire for Ag
 
 ### Gluttony: Overstuffed Backlogs
 
-Another sin I frequently observe is gluttony, particularly in how teams manage their backlogs. It’s not uncommon to find teams with thousands of items in their product backlog, which is simply excessive.
+Another sin I frequently observe is gluttony, particularly in how teams manage their backlogs. It’s not uncommon to find teams with thousands of items in their [product backlog]({{< ref "/tags/product-backlog" >}}), which is simply excessive.
 
 - **The Consequences**: When your backlog is bloated, it becomes nearly impossible to discern what truly adds value. This leads to teams taking on too much during Sprint planning, resulting in a cycle of unfinished work spilling over into subsequent Sprints. 
 
@@ -70,13 +66,13 @@ Greed manifests in organisations through an overwhelming focus on resource utili
 
 - **The Fallacy**: Unlike machines, people require thinking time and space to innovate. Maximising utilisation can lead to burnout and stifled creativity. 
 
-- **The Shift**: Instead of fixating on how busy your team is, concentrate on flow efficiency and value delivery. Are you delivering value to your customers? That’s what truly matters.
+- **The Shift**: Instead of fixating on how busy your team is, concentrate on [flow efficiency]({{< ref "/tags/flow-efficiency" >}}) and [value delivery]({{< ref "/tags/value-delivery" >}}). Are you delivering value to your customers? That’s what truly matters.
 
 ### Sloth: The Lack of Accountability
 
 Sloth is another sin that I see frequently. It often appears as a lack of commitment to the Agile principles we claim to uphold. 
 
-- **The Signs**: Are teams delivering working software at the end of each Sprint? Are they gathering feedback? If not, it’s time to reflect on why that is. 
+- **The Signs**: Are teams delivering [working software]({{< ref "/tags/working-software" >}}) at the end of each Sprint? Are they gathering feedback? If not, it’s time to reflect on why that is. 
 
 - **The Call to Action**: Be honest about your practices. If you’re not doing Agile, admit it. It’s better to acknowledge the gaps than to pretend everything is fine.
 

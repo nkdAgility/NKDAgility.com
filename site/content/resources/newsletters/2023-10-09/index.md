@@ -13,28 +13,25 @@ resourceTypes: newsletter
 layout: newsletter
 slug: unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org
 aliases:
-- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/2G_gVI5phMC
+  - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /resources/2G_gVI5phMC
 aliasesArchive:
-- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+  - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Product Management
-- Product Backlog
-- Software Development
-- Agile Frameworks
-- Professional Scrum
-- Product Owner
-- Agile Planning Tools
-- Agile Planning
-- Product Delivery
-
+  - Agile Product Management
+  - Product Backlog
+  - Software Development
+  - Agile Frameworks
+  - Professional Scrum
+  - Product Owner
 ---
-Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀
+
+Dive deep into the world of **[Scrum]({{< ref "/categories/scrum" >}})'s [Product Backlog]({{< ref "/tags/product-backlog" >}}) Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainers. 🚀
 
 [Sign up for a public class](https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/)
 
@@ -74,13 +71,13 @@ A short list of our blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work in Scotland Webcasts
 
@@ -88,7 +85,7 @@ Are there any blog posts that you would like me to write?
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}
 
 ## What classes are right for you
 
@@ -106,7 +103,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

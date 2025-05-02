@@ -28,15 +28,10 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Coaching
-- Continuous Improvement
-- Customer Feedback Loops
-- Metrics and Learning
-- Empirical Process Control
-- Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 
@@ -109,7 +104,7 @@ The 'loop of learning' in immersive experiences represents the iterative process
 
 **Benefits of the Loop of Learning:** 
 
-- Instils a habit of reflection and continuous improvement. 
+- Instils a habit of reflection and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). 
 
 - Embeds knowledge through repeated application and assessment. 
 

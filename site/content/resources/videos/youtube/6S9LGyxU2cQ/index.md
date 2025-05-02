@@ -15,12 +15,14 @@ aliases:
 - /resources/6S9LGyxU2cQ
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
 aliasesArchive:
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
 - unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false
@@ -31,12 +33,6 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Software Development
-- Continuous Improvement
-- Mentoring
-- Team Collaboration
-- Metrics and Learning
-- Agile Transformation
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +45,7 @@ categories:
 - Scrum
 
 ---
-When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on Scrum coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.
+When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on [Scrum]({{< ref "/categories/scrum" >}}) coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.
 
 ### The Power of Continuous Support
 
@@ -59,8 +55,8 @@ Having someone embedded within your team on a continuous basis is invaluable. Th
 
 One of the standout features of our immersive sessions is the built-in feedback loop. Each session concludes with an assignment designed to be implemented in your organisation. Before the next session, we debrief on these assignments, allowing you to reflect on what worked and what didn’t. This isn’t just about doing; it’s about learning and adapting based on real-world experiences.
 
-- **Continuous Improvement**: Each session builds on the last, creating a cycle of learning that mirrors the iterative nature of Scrum.
-- **Coaching Included**: You’re not just participating; you’re receiving coaching from the trainer, who helps you navigate challenges and refine your approach.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Each session builds on the last, creating a cycle of learning that mirrors the iterative nature of Scrum.
+- **[Coaching]({{< ref "/tags/coaching" >}}) Included**: You’re not just participating; you’re receiving coaching from the trainer, who helps you navigate challenges and refine your approach.
 
 ### Maximising Your Time Investment
 
@@ -78,8 +74,8 @@ As if the immersive class wasn’t beneficial enough, we also offer an hour of a
 
 ### Your Commitment Matters
 
-Ultimately, the success of the EPS immersive class hinges on your willingness to engage with the process. It’s up to you to integrate the coaching and feedback into your daily practices. This immersive experience is designed to kickstart your journey towards Scrum, Kanban, or whatever agile framework you’re pursuing.
+Ultimately, the success of the EPS immersive class hinges on your willingness to engage with the process. It’s up to you to integrate the coaching and feedback into your daily practices. This immersive experience is designed to kickstart your journey towards Scrum, [Kanban]({{< ref "/categories/kanban" >}}), or whatever agile framework you’re pursuing.
 
-In conclusion, while the EPS immersive learning experience may not fully replace a hands-on Scrum coach, it offers a robust framework for continuous learning and improvement. By committing to this process, you can significantly enhance your team's agility and effectiveness.
+In conclusion, while the EPS immersive learning experience may not fully replace a hands-on Scrum coach, it offers a robust framework for [continuous learning]({{< ref "/tags/continuous-learning" >}}) and improvement. By committing to this process, you can significantly enhance your team's agility and effectiveness.
 
 If you found this post helpful, I encourage you to like, follow, and subscribe. I’m always eager to engage with fellow agile enthusiasts, so feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can elevate your agile journey together!

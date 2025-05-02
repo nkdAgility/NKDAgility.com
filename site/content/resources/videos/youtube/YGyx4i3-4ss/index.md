@@ -27,7 +27,6 @@ duration: 53
 isShort: true
 tags:
 - Product Discovery
-- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +37,7 @@ categories:
 - Product Development
 
 ---
-In my journey through the world of software development, I've often found myself reflecting on the fundamental question: do we truly understand our users? It’s a question that seems simple on the surface, yet it unravels a complex web of assumptions, data, and collaboration that can make or break our projects.
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often found myself reflecting on the fundamental question: do we truly understand our users? It’s a question that seems simple on the surface, yet it unravels a complex web of assumptions, data, and collaboration that can make or break our projects.
 
 ### The Illusion of User Understanding
 

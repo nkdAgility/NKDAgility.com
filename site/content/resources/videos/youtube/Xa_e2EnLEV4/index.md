@@ -20,6 +20,7 @@ aliases:
 - /resources/Xa_e2EnLEV4
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+- /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
@@ -30,19 +31,19 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
 - 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+- /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Operational Practices
-- Software Development
-- Transparency
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-### The Danger of Ignoring Problems in Your Kanban Strategy
+### The Danger of Ignoring Problems in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**
 
@@ -66,7 +67,7 @@ Ignoring problems is a habit many teams fall into. Here’s why this happens and
 
 - Consider a scenario where household chores are neglected, such as never cleaning the grill because it’s seen as too much effort. Over time, this leads to a build-up of grease and eventually, a fire hazard.
 
-- This scenario is analogous to teams ignoring technical debt or bureaucratic processes, leading to larger problems down the line.
+- This scenario is analogous to teams ignoring [technical debt]({{< ref "/tags/technical-debt" >}}) or bureaucratic processes, leading to larger problems down the line.
 
 * * *
 
@@ -118,7 +119,7 @@ Implementing a Kanban strategy effectively requires proactive problem-solving:
 
 - Regularly reflect on what’s working and what’s not. Ask questions like, “Are we hiding or ignoring anything?” to ensure problems are brought to light.
 
-1. **Create a Culture of Transparency**:
+1. **Create a Culture of [Transparency]({{< ref "/tags/transparency" >}})**:
 
 - Foster an environment where team members feel safe to raise issues without fear of blame.
 

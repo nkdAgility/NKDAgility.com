@@ -33,15 +33,6 @@ tags:
 - Market Adaptability
 - Enterprise Agility
 - Agile Strategy
-- Current Value
-- Agile Product Management
-- Agile Philosophy
-- Agile Values and Principles
-- Decision Making
-- Evidence Based Management
-- Organisational Change
-- Product Delivery
-- Unrealised Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -64,13 +55,13 @@ Let’s take a moment to reflect on the implications of this traditional model:
   
 - **Missed Opportunities**: Imagine a scenario where a brilliant idea emerges mid-year, one that could capture a significant market opportunity. However, because it wasn’t included in the annual budget, it’s sidelined, and we lose out on potential revenue and growth.
 
-- **Unrealised Value**: In the realm of evidence-based management, we often talk about unrealised value. This is the value that exists in our backlog but isn’t being acted upon. The traditional budgeting cycle makes it incredibly difficult to adapt to these shifts, leading to a backlog that doesn’t reflect the true potential of our products.
+- **[Unrealised Value]({{< ref "/tags/unrealised-value" >}})**: In the realm of evidence-based management, we often talk about unrealised value. This is the value that exists in our backlog but isn’t being acted upon. The traditional budgeting cycle makes it incredibly difficult to adapt to these shifts, leading to a backlog that doesn’t reflect the true potential of our products.
 
 ### Embracing Beyond Budgeting
 
 So, how do we break free from this cycle? Enter the concept of **Beyond Budgeting**. This approach encourages organisations to rethink their budgeting processes, allowing for more flexibility and responsiveness. Here’s what I’ve learned from my experiences:
 
-- **Dynamic Funding**: Instead of allocating all funds at the start of the year, consider a model where you have a pool of finance available. This allows you to allocate resources to projects as they arise, based on their current value and potential impact.
+- **Dynamic Funding**: Instead of allocating all funds at the start of the year, consider a model where you have a pool of finance available. This allows you to allocate resources to projects as they arise, based on their [current value]({{< ref "/tags/current-value" >}}) and potential impact.
 
 - **Iterative Investment**: In the agile world, we’re accustomed to delivering working products to our customers frequently. This principle can be applied to budgeting as well. By assessing projects regularly, you can decide whether to continue funding them or pivot to new initiatives that offer greater value.
 

@@ -35,8 +35,6 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Product Delivery
-- Agile Planning Tools
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
@@ -70,13 +68,13 @@ Do we all grasp where we're headed?
 
 Are we aligned on what needs to be done and how?  This is the pivotal point of sprint planning.
 
-Kanban vs. Scrum
+[Kanban]({{< ref "/categories/kanban" >}}) vs. [Scrum]({{< ref "/categories/scrum" >}})
 
 I've heard the argument, "We do Kanban, so we don't need Sprint planning." 🤼 
 
 But when do you decide what to pull into the sprint?
 
-That decision-making process is essentially sprint planning.  The difference is, in Scrum, you're actively involved.  It's about deciding which tasks from the ever-evolving product backlog will make the cut for the upcoming sprint.
+That decision-making process is essentially sprint planning.  The difference is, in Scrum, you're actively involved.  It's about deciding which tasks from the ever-evolving [product backlog]({{< ref "/tags/product-backlog" >}}) will make the cut for the upcoming sprint.
 
 Every sprint planning session allows for this evaluation and realignment.
 
@@ -84,7 +82,7 @@ Every sprint planning session allows for this evaluation and realignment.
 
 We've got refinement, which comes before sprint planning.
 
-Sprint planning isn't just about new features. , it's about understanding "all that stuff that we would like the product to do".  It's about live site incidents, technical debt, bugs, customer feedback, and other ongoing tasks. ✅ 
+Sprint planning isn't just about new features. , it's about understanding "all that stuff that we would like the product to do".  It's about live site incidents, [technical debt]({{< ref "/tags/technical-debt" >}}), bugs, customer feedback, and other ongoing tasks. ✅ 
 
 We can't focus 100% on our sprint goal.  We have to make room for unexpected events.  Sprint planning provides that flexibility and ensures we don't lose sight of our main objectives.
 
@@ -104,4 +102,4 @@ It's the best of both worlds.  🌎 
 
 For those passionate about delving deeper into the world of Scrum, Kanban, or even Agile practices, I'd be thrilled to share more insights.
 
-Join me on my Agile and Scrum courses to journey into the world of efficient project management.
+Join me on my Agile and Scrum courses to journey into the world of efficient [project management]({{< ref "/tags/project-management" >}}).

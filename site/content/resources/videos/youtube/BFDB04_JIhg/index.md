@@ -38,10 +38,6 @@ tags:
 - Agile Frameworks
 - Flow Efficiency
 - Pragmatic Thinking
-- Continuous Learning
-- Lean Principles
-- Throughput
-- Lean Thinking
 resourceTypes:
 - video
 categories:
@@ -49,19 +45,19 @@ categories:
 - Product Development
 
 ---
-In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **Kanban**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.
+In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **[Kanban]({{< ref "/categories/kanban" >}})**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.
 
-In this blog post, we’ll dive into what Kanban really is, how it works, and why it’s such a valuable tool for Scrum Masters, Agile Coaches, and teams looking to enhance their workflows. Let's explore the key points with real-world examples and actionable advice to help you implement Kanban effectively.
+In this blog post, we’ll dive into what Kanban really is, how it works, and why it’s such a valuable tool for [Scrum]({{< ref "/categories/scrum" >}}) Masters, Agile Coaches, and teams looking to enhance their workflows. Let's explore the key points with real-world examples and actionable advice to help you implement Kanban effectively.
 
 ## **What is Kanban?**
 
-**Kanban** is not a standalone process or methodology. It’s a tool that allows you to observe and manage your existing process more effectively. It doesn’t prescribe how you should work, but it provides a framework to visualize your workflow and identify areas for improvement. This tool is particularly useful for teams seeking transparency and continuous improvement.
+**Kanban** is not a standalone process or methodology. It’s a tool that allows you to observe and manage your existing process more effectively. It doesn’t prescribe how you should work, but it provides a framework to visualize your workflow and identify areas for improvement. This tool is particularly useful for teams seeking [transparency]({{< ref "/tags/transparency" >}}) and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### **Key Features of Kanban:**
 
 - **Visualization of the Workflow**: It helps teams map out their processes and tasks, making it easier to see where work is and where bottlenecks may occur.
 
-- **Measurement of Metrics**: By tracking key performance indicators, Kanban gives teams valuable insights into their efficiency and throughput.
+- **Measurement of Metrics**: By tracking key performance indicators, Kanban gives teams valuable insights into their efficiency and [throughput]({{< ref "/tags/throughput" >}}).
 
 - **Continuous Flow**: Unlike Scrum, which works in sprints, Kanban focuses on maintaining a steady flow of work.
 
@@ -93,7 +89,7 @@ With this visual representation, teams can easily see where tasks are piling up 
 
 Kanban provides metrics to **track the flow of work**. This includes things like:
 
-- **Cycle time**: The time it takes for a task to go from start to finish.
+- **[Cycle time]({{< ref "/tags/cycle-time" >}})**: The time it takes for a task to go from start to finish.
 
 - **Throughput**: The number of tasks completed in a given timeframe.
 
@@ -113,7 +109,7 @@ Perhaps the most powerful aspect of Kanban is that it enables **continuous impro
 
 - How can we reduce the number of blocked tasks?
 
-This mindset of constant reflection and improvement is at the heart of Kanban—and it’s a mindset that every Scrum Master and Agile Coach should cultivate within their teams. 🔄
+This mindset of constant reflection and improvement is at the heart of Kanban—and it’s a mindset that every [Scrum Master]({{< ref "/tags/scrum-master" >}}) and Agile Coach should cultivate within their teams. 🔄
 
 * * *
 
@@ -173,4 +169,4 @@ Happy Kanban-ing! 😊
 
 - Start simple, use WIP limits, and regularly review metrics for success.
 
-🔗 **Want to learn more about Kanban and Agile practices? Reach out for personalized coaching or training sessions tailored to your team’s needs.**
+🔗 **Want to learn more about Kanban and Agile practices? Reach out for personalized [coaching]({{< ref "/tags/coaching" >}}) or training sessions tailored to your team’s needs.**

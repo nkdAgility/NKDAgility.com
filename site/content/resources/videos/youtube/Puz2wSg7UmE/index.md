@@ -21,12 +21,14 @@ aliases:
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
 aliasesArchive:
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,21 +42,13 @@ tags:
 - Metrics and Learning
 - Business Agility
 - Pragmatic Thinking
-- Unrealised Value
-- Technical Debt
-- Digital Transformation
-- Operational Practices
-- Organisational Agility
-- Value Delivery
-- Software Development
-- Current Value
 resourceTypes:
 - video
 categories:
 - Product Development
 
 ---
-In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **ability to innovate**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.
+In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **[ability to innovate]({{< ref "/tags/ability-to-innovate" >}})**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.
 
 ## What Is Organizational Capability?
 
@@ -82,7 +76,7 @@ For organizations building software products, **active branches** refer to the d
 
 👉 _Recommendation:_ Keep a close eye on the number of active branches and regularly assess whether they are contributing to innovation or adding unnecessary complexity.
 
-### 2\. Technical Debt
+### 2\. [Technical Debt]({{< ref "/tags/technical-debt" >}})
 
 Another crucial metric to monitor is **technical debt**, which refers to the shortcuts and compromises made during the development process. While technical debt can sometimes be necessary to meet short-term deadlines, too much of it can stifle long-term innovation.
 
@@ -118,13 +112,13 @@ While these metrics provide valuable insights into your organization's ability t
 
 ### Step 1: Define Your Innovation Goals
 
-Before you start tracking metrics, you need to define what innovation looks like for your organization. Is it about launching new products? Improving customer satisfaction? Reducing time to market? Clear goals will help you choose the right metrics to focus on.
+Before you start tracking metrics, you need to define what innovation looks like for your organization. Is it about launching new products? Improving [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}})? Reducing [time to market]({{< ref "/tags/time-to-market" >}})? Clear goals will help you choose the right metrics to focus on.
 
 ### Step 2: Regularly Monitor and Adjust
 
 Innovation is a dynamic process, and so are the metrics you track. Regularly review your data to identify trends and areas for improvement. Don’t be afraid to adjust your metrics or goals as your organization evolves.
 
-### Step 3: Foster a Culture of Continuous Improvement
+### Step 3: Foster a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
 Encouraging a culture of **continuous improvement** is critical for innovation. Your teams should feel empowered to experiment, learn from failures, and continuously improve. Metrics like innovation rate and technical debt can help identify areas where improvements are needed, but it’s the mindset of your teams that will ultimately drive innovation forward.
 

@@ -23,10 +23,11 @@ card:
     content: Learn More
   content: Discover more about Product Backlog and how it can help you in your Agile journey!
   title: Product Backlog
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---
-## What is a Product Backlog?
+## What is a [Product Backlog]({{< ref "/tags/product-backlog" >}})?
 
 ## What is a Product Backlog Item?

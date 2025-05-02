@@ -25,10 +25,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: false
-tags:
-- Entrepreneurship
-- Value Delivery
-- Agile Product Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,7 +37,7 @@ categories:
 - Product Management
 
 ---
-As an entrepreneur, I often find myself reflecting on the pivotal role that product management plays in the success of a startup. Having navigated the tumultuous waters of entrepreneurship, I can confidently say that understanding value is not just a nice-to-have; it’s essential. This is why I wholeheartedly recommend the Professional Scrum Product Owner (PSPO) course, particularly for those of us who are at the helm of small organisations.
+As an entrepreneur, I often find myself reflecting on the pivotal role that [product management]({{< ref "/categories/product-management" >}}) plays in the success of a startup. Having navigated the tumultuous waters of [entrepreneurship]({{< ref "/tags/entrepreneurship" >}}), I can confidently say that understanding value is not just a nice-to-have; it’s essential. This is why I wholeheartedly recommend the Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) (PSPO) course, particularly for those of us who are at the helm of small organisations.
 
 ### The Importance of Value in Product Management
 
@@ -50,7 +47,7 @@ When you're starting out, especially in a small team, you often wear multiple ha
 
 - **Communicate Your Vision**: As you grow and eventually hand off responsibilities, it’s vital to pass on a clear vision. Your team should understand not just what you’re trying to achieve, but also why it matters. This clarity fosters alignment and motivation.
 
-- **Utilise Tools and Techniques**: The PSPO course provides a wealth of tools that can help you articulate and measure value. From user stories to prioritisation techniques, these resources are invaluable in shaping your product strategy.
+- **Utilise Tools and Techniques**: The PSPO course provides a wealth of tools that can help you articulate and measure value. From user stories to prioritisation techniques, these resources are invaluable in shaping your [product strategy]({{< ref "/tags/product-strategy" >}}).
 
 ### The Reality of Startup Failure
 
@@ -68,4 +65,4 @@ As you transition from startup to a more established organisation, the principle
 
 In conclusion, I encourage every entrepreneur to invest in their understanding of product management through courses like PSPO. The insights gained will not only help you navigate the early stages of your business but will also set a strong foundation for future growth.
 
-If you found this post helpful, I invite you to engage with me further. Whether you have questions about agile, scrum, or DevOps, or simply want to share your experiences, feel free to reach out. Let’s continue the conversation over a virtual coffee through Naked Agility. Your journey matters, and I’m here to support you every step of the way.
+If you found this post helpful, I invite you to engage with me further. Whether you have questions about agile, scrum, or [DevOps]({{< ref "/categories/devops" >}}), or simply want to share your experiences, feel free to reach out. Let’s continue the conversation over a virtual coffee through Naked Agility. Your journey matters, and I’m here to support you every step of the way.

@@ -1,5 +1,5 @@
 ---
-title: 'March 2023 NKDAgility: The magic of immersive classes'
+title: "March 2023 NKDAgility: The magic of immersive classes"
 description: Transform your learning with our Immersion Program! Engage in real-world applications over 8 weeks, enhancing skills through practical experience and collaboration.
 ResourceId: Y8ySIcajwoP
 ResourceImport: true
@@ -13,22 +13,19 @@ resourceTypes: newsletter
 layout: newsletter
 slug: march-2023-nkdagility-the-magic-of-immersive-classes
 aliases:
-- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/Y8ySIcajwoP
+  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/Y8ySIcajwoP
 aliasesArchive:
-- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 categories:
-- Scrum
+  - Scrum
 tags:
-- Continuous Learning
-- Pragmatic Thinking
-- Continuous Improvement
-- Professional Scrum
-- Competence
-
+  - Continuous Learning
+  - Pragmatic Thinking
 ---
+
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.
 
 This compresses learning into a short space of time and minimises not only the amount that folks remember but also denies them the ability to try things and come back to the trainer.
@@ -55,11 +52,11 @@ An Immersion Program is a method of learning where students are actively engaged
 - Real-world application of learning increases the engagement, motivation, and personal investment of students, leading to more effective learning
 - Experiential classroom learning provides students with valuable practice in a safe environment before experimenting in their real-world context
 - Opportunities for students to collaborate and create a dynamic learning environment that exposes students to a variety of ideas and ways of thinking, deepening their understanding of the topics discussed in class
-- Retrospectives allow students to reflect on their learning with each other and the Professional Scrum Trainer to make improvements and gain deeper insights
+- Retrospectives allow students to reflect on their learning with each other and the Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer to make improvements and gain deeper insights
 
 #### What Do You Get With an Immersion Program?
 
-- Eight half-day interactive group class sessions guided by a Professional Scrum Trainer (PST)
+- Eight half-day interactive group class sessions guided by a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer (PST)
 - Opportunity to attempt a Professional Scrum assessment
 - Assignments to apply learnings in your real working environment with inspection and adaptation together with your peers and your Professional Scrum Trainer
 
@@ -91,7 +88,7 @@ _Reach out to me directly if you would like to schedule a private course at your
 
 The [Lean-Agile Practitioners Community](https://nkdagility.com/community/) has grown to over 1300+ members, and new usability updates by our platform team will hopefully make it an even bigger success this year.
 
-It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 Coaching, The Situation Room, & Tails from the Trenches!
+It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 [Coaching]({{< ref "/tags/coaching" >}}), The Situation Room, & Tails from the Trenches!
 
 _Thank you very much to all who are making this community more extraordinary._
 
@@ -113,13 +110,13 @@ A short list of out blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work In Scotland Webcasts
 
@@ -141,7 +138,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

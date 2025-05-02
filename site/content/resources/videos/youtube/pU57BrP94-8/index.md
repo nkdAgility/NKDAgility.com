@@ -30,11 +30,6 @@ sitemap:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-- Coaching
-- Team Collaboration
-- Organisational Agility
-- Social Technologies
-- Competence
 resourceTypes:
 - video
 categories:
@@ -95,6 +90,6 @@ Immersive learning isn't just another class—it's a meeting point of diverse in
 
 Explore the Immersive Journey with Me 
 
-For those eager to immerse themselves in a richer, more integrated Scrum experience, I invite you to embark on this learning journey with me.  
+For those eager to immerse themselves in a richer, more integrated [Scrum]({{< ref "/categories/scrum" >}}) experience, I invite you to embark on this learning journey with me.  
 
 Connect with me through Naked Agility, and let's craft your own unique Scrum immersive learning experience. 🌟

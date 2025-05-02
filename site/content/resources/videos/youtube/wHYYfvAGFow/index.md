@@ -28,14 +28,14 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Project Management
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-What is Taylorism and how did it influence project management?
+What is Taylorism and how did it influence [project management]({{< ref "/tags/project-management" >}})?
 
 ## Taylorism
 
@@ -51,7 +51,7 @@ In essence, managers are the brains of the operation, supervisors ensure work is
 
 In a simple or complicated environment, we are repeating the same tasks over and over so you can identify a best practice and create a process of system of delivery that ensures a specific outcome.
 
-So, his work and thought leadership in the space became incredibly popular and informed pretty much everything that evolved from there. It is only when we entered the complex space that this framework or approach to product development proved unreliable and created more problems than it solved.
+So, his work and thought [leadership]({{< ref "/categories/leadership" >}}) in the space became incredibly popular and informed pretty much everything that evolved from there. It is only when we entered the complex space that this framework or approach to [product development]({{< ref "/categories/product-development" >}}) proved unreliable and created more problems than it solved.
 
 ## Context for Taylorism
 
@@ -165,7 +165,7 @@ So, agile doesn’t knock project management, it simply acknowledges that it isn
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

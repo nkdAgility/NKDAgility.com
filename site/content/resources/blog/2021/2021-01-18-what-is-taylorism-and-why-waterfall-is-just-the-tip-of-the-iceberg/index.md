@@ -40,14 +40,12 @@ tags:
 - Complexity Thinking
 - Organisational Psychology
 - Pragmatic Thinking
-- Organisational Change
-- Employee Engagement
 categories:
 - Lean
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 
 ---
-For many people the traditional project management methodologies (see PMI / PRINCE2) are the root of the problems that birthed Waterfall. I assert that this is the tip of the iceberg. These methodologies are just a symptom of a greater problem that has its roots in the changes made during the industrial revolution. These changes, while they generated great amounts of wealth and many jobs around the world,  dehumanised work and destroyed the essence of value and discovery that brought humanity to where it is now. It created processes that turned people into little more than sophisticated robots and enshrined that thinking into the very core of how we do things.
+For many people the traditional [project management]({{< ref "/tags/project-management" >}}) methodologies (see PMI / PRINCE2) are the root of the problems that birthed Waterfall. I assert that this is the tip of the iceberg. These methodologies are just a symptom of a greater problem that has its roots in the changes made during the industrial revolution. These changes, while they generated great amounts of wealth and many jobs around the world,  dehumanised work and destroyed the essence of value and discovery that brought humanity to where it is now. It created processes that turned people into little more than sophisticated robots and enshrined that thinking into the very core of how we do things.
 
 **These practices, which spread like cancer, have been seeded around the world by the Master of Business Administration (MBA). These practices have been calcified in the malignant bureaucracy that can be likened to an iceberg that may very well sink your company.**
 
@@ -184,7 +182,7 @@ As the world became more complex and sales became a creative endeavour the impos
 
 An example of this was the Microsoft Azure Platform. Salespeople were measures and bonuses paid based on the amount of Azure that customers bought. This measure resulted in salespeople pushing output over the outcome. They sold millions of dollars of Azure to companies that never used it. This resulted in unhappy customers and declining sales. Customer failed to see the value in what they were buying.
 
-Then Satya Nadella (CEO of Microsoft) changed the measure for Sales from the output based measure to one based on the customer's outcome. Salespeople were no longer bonused based on how much they sold, but instead on how much a customer used. This change was revolutionary for sales of Azure. They were no longer focused on the short term ( to get executives to sign) but on a much longer engagement model with customers. It became critical to encourage customers, with direct help, to move towards DevOps practices. Microsoft provided ( and continued to provide) consultants and coaches to help create better outcomes for customers. This has paid off hugely for Microsoft as they are now the largest cloud computing provider despite starting late.
+Then Satya Nadella (CEO of Microsoft) changed the measure for Sales from the output based measure to one based on the customer's outcome. Salespeople were no longer bonused based on how much they sold, but instead on how much a customer used. This change was revolutionary for sales of Azure. They were no longer focused on the short term ( to get executives to sign) but on a much longer engagement model with customers. It became critical to encourage customers, with direct help, to move towards [DevOps]({{< ref "/categories/devops" >}}) practices. Microsoft provided ( and continued to provide) consultants and coaches to help create better outcomes for customers. This has paid off hugely for Microsoft as they are now the largest cloud computing provider despite starting late.
 
 This seemingly small change in how people are measured changed behaviours greatly. Many salespeople left Microsoft as a direct result as they were only interested in the short term, and not the long term investment in customer success.
 
@@ -247,7 +245,7 @@ Although the work had changed, the belief in predictive planning prevailed. Ther
 
 <figcaption>
 
-Ralph Stacy Model visualised with Leadership styles
+Ralph Stacy Model visualised with [Leadership]({{< ref "/categories/leadership" >}}) styles
 
 </figcaption>
 
@@ -261,7 +259,7 @@ Even in the simple, low-variance domain, the old Tayloristic practices based on 
 
 In the simple world, the Toyota Production System is the poster child of innovation and discovering new ways of working. Optimizing the workspace and creating good practices became the job of the employee and they were encouraged to periodically stop and reflect on how to do things better.
 
-In the complex world of Sales, Marketing, and Software Development we also needed new ways of thinking that would power the same ideas from Toyota and Lean into the high variance world of complex cognitive work. This was the birth of the Agile movement with the Scrum Framework (1993), the Agile Manifesto (2001), and later Kanban (2004).
+In the complex world of Sales, Marketing, and [Software Development]({{< ref "/tags/software-development" >}}) we also needed new ways of thinking that would power the same ideas from Toyota and [Lean]({{< ref "/categories/lean" >}}) into the high variance world of complex cognitive work. This was the birth of the Agile movement with the [Scrum]({{< ref "/categories/scrum" >}}) Framework (1993), the Agile Manifesto (2001), and later [Kanban]({{< ref "/categories/kanban" >}}) (2004).
 
 Instead of coming up with best practices, we realise that there are only good practices for the situation at hand. A good practice, today might not be quite so good tomorrow, and thus we need to be a lot more flexible. No longer is the business owner (or manager) the best person to define these practices since they are no longer close to the problem.
 
@@ -359,7 +357,7 @@ If you and your business only focus on profits without valuing your employees ne
 
 ## The trouble with Taylorism
 
-These Tayloristic practices worked well for employers during the industrial revolution. However, even factory work has progressed in the shadow of the Toyota Production System and the lean movement. People are no longer cogs in a machine that can be replaced at a moments notice. Each employee brings a unique skill or ability to your product discovery and product development story. That story will be unique because of it. These Tayloristic practices kill ingenuity, focus, and enthusiasm.
+These Tayloristic practices worked well for employers during the industrial revolution. However, even factory work has progressed in the shadow of the Toyota Production System and the lean movement. People are no longer cogs in a machine that can be replaced at a moments notice. Each employee brings a unique skill or ability to your [product discovery]({{< ref "/tags/product-discovery" >}}) and [product development]({{< ref "/categories/product-development" >}}) story. That story will be unique because of it. These Tayloristic practices kill ingenuity, focus, and enthusiasm.
 
 - [Drive by Dan Pink](https://nkdagility.com/the-kanban-guide/)
 

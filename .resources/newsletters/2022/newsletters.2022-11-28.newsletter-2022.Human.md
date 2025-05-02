@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: newsletter-2022
 aliases:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
-- /resources/Kn3i3yGquon
+  - /newsletters/newsletter-2022/
+  - /resources/newsletters/newsletter-2022/
+  - /resources/Kn3i3yGquon
 aliasesArchive:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
-categories: []
-tags:
-- Competence
-
+  - /newsletters/newsletter-2022/
+  - /resources/newsletters/newsletter-2022/
+categories:
+  - Uncategorized
+tags: []
 ---
+
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.
 
 Why? Because it empowers us to run experiments, frequently inspect, and regularly adapt. That’s how we navigate complexity. That’s how we create value, despite uncertainty, regardless of the industry or environment we serve.
@@ -38,7 +38,7 @@ So, if you’ve brought your CV to HR and it sounds like Shania Twain’s 20-yea
 
 Maybe it’s time to combine everything you have learned since we last saw you for a Scrumorg course and build on that rock-solid foundation with a certification and skillset that does bring HR and hiring managers to the yard. I know the certification is valuable, but it’s what you’ll learn that it’s infinitely more valuable. What you’ll be capable of doing with these skills, models, and practices will set you apart.
 
-Who knows, maybe that creative prowess extends into creating your own business or product? With our Applying Professional Scrum and Professional Scrum with User Experience (UX) courses, you’ll be flexing something fierce and demonstrating why you’re the most valuable employee/colleague/start-up partner of 2023. Remember to apply your alumni discount at checkout to capitalise on the benefits of being a naked Agility fan.
+Who knows, maybe that creative prowess extends into creating your own business or product? With our Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) and [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with User Experience (UX) courses, you’ll be flexing something fierce and demonstrating why you’re the most valuable employee/colleague/start-up partner of 2023. Remember to apply your alumni discount at checkout to capitalise on the benefits of being a naked Agility fan.
 
 You’re welcome.
 
@@ -52,7 +52,7 @@ Find a class and location near you or [search](https://nkdagility.com/training/
 
 ### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
@@ -60,7 +60,7 @@ Are there any blog posts that you would like me to write?
 
 \[wp-rss-aggregator template="newsletter-preview" feeds="nkdagility-youtube" limit="1"\]
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 ### The Future of Work In Scotland Webcasts
 
@@ -78,7 +78,7 @@ Are there any blog posts that you would like me to write?
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44705" limit="5"\]
 
-**Developers / Scrum Teams** - Courses to help all members of the Scrum Team improve their skills
+**Developers / Scrum Teams** - Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

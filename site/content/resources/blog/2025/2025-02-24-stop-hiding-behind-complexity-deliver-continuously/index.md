@@ -40,11 +40,6 @@ tags:
 - Release Management
 - Flow Efficiency
 - Market Adaptability
-- Operational Practices
-- Pragmatic Thinking
-- Technical Mastery
-- Deployment Frequency
-- Engineering Practices
 categories:
 - DevOps
 - Engineering Excellence

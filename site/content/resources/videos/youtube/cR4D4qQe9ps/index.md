@@ -37,20 +37,19 @@ tags:
 - Software Development
 - Scrum Master
 - Agile Frameworks
-- Scrum Team
 resourceTypes:
 - video
 categories:
 - Scrum
 
 ---
-**#1 tip for a new Scrum Master**
+**#1 tip for a new [Scrum]({{< ref "/categories/scrum" >}}) Master**
 
 It’s Back to Basics
 
 Greetings, Scrum enthusiasts! 🙌
 
-Let's dive straight into my #1 tip for a new Scrum Master - start with the basics and READ the Scrum Guide.   📌
+Let's dive straight into my #1 tip for a new [Scrum Master]({{< ref "/tags/scrum-master" >}}) - start with the basics and READ the Scrum Guide.   📌
 
 If you’re a new Scrum Master there’s no ifs or buts, you need to get to grips with the basics of Scrum. 📚
 
@@ -78,7 +77,7 @@ Here’s a few benefits of reading and understanding the Scrum guide:
 
 🔹 Host more effective team meetings aligned with Scrum.
 
-🔹 Empower yourself to coach the Development Team and Product Owner.
+🔹 Empower yourself to coach the Development Team and [Product Owner]({{< ref "/tags/product-owner" >}}).
 
 🔹 Keep current with the changes in the Scrum framework.
 

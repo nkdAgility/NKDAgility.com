@@ -42,6 +42,7 @@ card:
   title: Daily Scrum Recipe
 categories:
 - Scrum
+- Product Development
 tags:
 - Daily Scrum
 - Software Development
@@ -56,15 +57,13 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Transparency
-- Operational Practices
-- Scrum Master
 
 ---
-The Daily Scrum is an essential event in the Scrum framework. It offers the
+The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the
 Developers an opportunity to reflect on their progress, and plan for the next 24
 hours. But it's essential to approach it with the right mindset and intent.
 
-### Purpose of the Daily Scrum
+### Purpose of the [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
 
 The primary objective of the Daily Scrum is not merely to go through a checklist
 of questions. Instead, it's to actively manage ongoing work and strategize on
@@ -111,7 +110,7 @@ Review](../../assets/images/naked-agility-scrum-framework-daily-scrum.jpg)
 This recipe leverages a simple flow and consists of the following:
 
 The Developers review their progress towards the Sprint Goal. They should
-actively manage the work that is in progress and maintain transparency of the
+actively manage the work that is in progress and maintain [transparency]({{< ref "/tags/transparency" >}}) of the
 present as reflected in the Sprint Backlog.
 
 _The Developers should own this event and facilitate it, although Scrum Masters

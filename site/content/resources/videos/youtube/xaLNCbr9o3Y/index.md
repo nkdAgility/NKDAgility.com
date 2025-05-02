@@ -25,18 +25,18 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 isShort: false
-tags:
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the Kanban community, about our upcoming Professional Scrum with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.
+As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the [Kanban]({{< ref "/categories/kanban" >}}) community, about our upcoming Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.
 
 ### Embracing Change in Uncertain Times
 
@@ -60,7 +60,7 @@ As we navigate these uncertain times, the value of community becomes even more a
 
 ### Looking Ahead
 
-As we prepare for our Professional Scrum with Kanban class on the 18th and 19th of May, I am filled with anticipation. This is not just a class; it’s an opportunity for all of us to learn, grow, and adapt together. I encourage anyone interested in enhancing their Scrum skills to join us. 
+As we prepare for our [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with Kanban class on the 18th and 19th of May, I am filled with anticipation. This is not just a class; it’s an opportunity for all of us to learn, grow, and adapt together. I encourage anyone interested in enhancing their Scrum skills to join us. 
 
 In closing, I want to remind everyone that while we may be physically distanced, we are not alone. The agile community is resilient, and together, we can navigate these challenges and emerge stronger. If you have any questions or thoughts, feel free to reach out to me or Daniel on Twitter. Let’s keep the conversation going!
 

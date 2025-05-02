@@ -34,14 +34,6 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Agile Transformation
-- Agile Values and Principles
-- Continuous Improvement
-- Scrum Master
-- Social Technologies
-- Agile Strategy
-- Self Organisation
-- Organisational Agility
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,13 +46,13 @@ categories:
 - Scrum
 
 ---
-In my journey through the world of Scrum, I've often found myself frustrated by a recurring theme: the overwhelming focus on the mechanics of Scrum rather than its underlying principles. It seems that many people and organisations are quick to declare, “You’re not doing Scrum if you’re not standing up!” This fixation on rituals and practices is not only misguided but also distracts us from what truly matters in agile methodologies.
+In my journey through the world of [Scrum]({{< ref "/categories/scrum" >}}), I've often found myself frustrated by a recurring theme: the overwhelming focus on the mechanics of Scrum rather than its underlying principles. It seems that many people and organisations are quick to declare, “You’re not doing Scrum if you’re not standing up!” This fixation on rituals and practices is not only misguided but also distracts us from what truly matters in agile methodologies.
 
 ### The Core Principles of Scrum
 
-At its heart, Scrum is built on three foundational principles: empiricism, transparency, and a relentless drive to deliver value. These principles are what enable teams to adapt, learn, and ultimately succeed. Here’s why they should be at the forefront of our discussions:
+At its heart, Scrum is built on three foundational principles: empiricism, [transparency]({{< ref "/tags/transparency" >}}), and a relentless drive to deliver value. These principles are what enable teams to adapt, learn, and ultimately succeed. Here’s why they should be at the forefront of our discussions:
 
-- **Empiricism**: This principle emphasises the importance of making decisions based on what is known. In Scrum, we embrace the idea that we can only understand our work through experience and experimentation. It’s about learning from our successes and failures, iterating on our processes, and continuously improving.
+- **Empiricism**: This principle emphasises the importance of making decisions based on what is known. In Scrum, we embrace the idea that we can only understand our work through experience and [experimentation]({{< ref "/tags/experimentation" >}}). It’s about learning from our successes and failures, iterating on our processes, and continuously improving.
 
 - **Transparency**: For Scrum to function effectively, all aspects of the process must be visible to those responsible for the outcome. This means that everyone involved should have a clear understanding of the work being done, the challenges faced, and the progress made. Transparency fosters trust and collaboration, which are essential for a high-performing team.
 
@@ -84,6 +76,6 @@ To truly harness the power of Scrum, we must shift our focus from the mechanics 
 
 - **Prioritise Learning**: Embrace a culture of experimentation. Encourage your team to try new approaches, learn from their experiences, and iterate on their practices. This will help you stay aligned with the principles of empiricism and transparency.
 
-- **Focus on Value Delivery**: Regularly assess whether your activities are contributing to the delivery of value. If a particular practice isn’t serving that purpose, don’t be afraid to adapt or eliminate it.
+- **Focus on [Value Delivery]({{< ref "/tags/value-delivery" >}})**: Regularly assess whether your activities are contributing to the delivery of value. If a particular practice isn’t serving that purpose, don’t be afraid to adapt or eliminate it.
 
 In conclusion, while the mechanics of Scrum can provide structure, it’s the principles that truly drive success. Let’s move beyond the superficial discussions about rituals and instead engage in meaningful conversations about how we can embody the spirit of Scrum in our work. By doing so, we can create teams that are not only agile but also empowered to deliver exceptional value.

@@ -36,10 +36,6 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Business Agility
-- Competence
-- Agile Product Management
-- Coaching
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
@@ -47,7 +43,7 @@ categories:
 - Product Development
 
 ---
-Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand Scrum or Agile frameworks—it's about their ability to deeply engage with both the technical teams and leadership. They must gain credibility in both arenas to effectively drive the transformation.
+Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand [Scrum]({{< ref "/categories/scrum" >}}) or [Agile frameworks]({{< ref "/tags/agile-frameworks" >}})—it's about their ability to deeply engage with both the technical teams and [leadership]({{< ref "/categories/leadership" >}}). They must gain credibility in both arenas to effectively drive the transformation.
 
 In this post, we'll explore the key traits to look for when hiring an Agile coach, focusing on their ability to work with both technical staff and leadership. I'll share personal experiences, practical advice, and a few tips to help you make the right choice for your organization.
 
@@ -69,7 +65,7 @@ Your technical teams won't respect an Agile coach who doesn't understand their w
 
 - If you’re a **financial organization**, your Agile coach must understand the financial systems, regulations, and technical implications that come with working in finance.
 
-- If you're a **tech company**, they should have deep knowledge of software development, infrastructure, and the specific tools your teams use.
+- If you're a **tech company**, they should have deep knowledge of [software development]({{< ref "/tags/software-development" >}}), infrastructure, and the specific tools your teams use.
 
 A great Agile coach doesn't need to be an expert coder, but they should know enough to:
 
@@ -85,20 +81,20 @@ For instance, in my experience working with a large financial organization, the 
 
 ### **2\. Engaging Leadership and Management**
 
-An Agile coach’s role extends beyond the development teams. They need to engage with leadership, helping them understand how agility impacts business strategy, customer satisfaction, and long-term goals.
+An Agile coach’s role extends beyond the development teams. They need to engage with leadership, helping them understand how agility impacts business strategy, [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}), and long-term goals.
 
 Here’s what makes a coach effective in this arena:
 
 - **Business Understanding**: They must understand the unique context of your business. If you're in **finance**, they need to know the financial ramifications of adopting Agile practices. For example, how will Agile impact **compliance**, **risk management**, or **regulatory requirements**?
 
 - **Effective Communication**: Leadership teams aren’t interested in technical jargon—they want to see results. A coach needs to articulate how Agile practices lead to tangible business outcomes, such as:
-    - Faster time to market ⏳
+    - Faster [time to market]({{< ref "/tags/time-to-market" >}}) ⏳
     
     - Increased innovation 🚀
     
     - Higher customer satisfaction ⭐
 
-For example, in a tech startup where I once coached, the leadership was concerned about balancing rapid growth with product quality. I engaged with them by focusing on how Agile practices could align with their **business goals**—like speeding up product delivery without sacrificing quality. By doing this, I built trust with the leadership team, who then became enthusiastic supporters of Agile.
+For example, in a tech startup where I once coached, the leadership was concerned about balancing rapid growth with product quality. I engaged with them by focusing on how Agile practices could align with their **business goals**—like speeding up [product delivery]({{< ref "/tags/product-delivery" >}}) without sacrificing quality. By doing this, I built trust with the leadership team, who then became enthusiastic supporters of Agile.
 
 * * *
 
@@ -122,7 +118,7 @@ When you're hiring an Agile coach, you're not just hiring a consultant; you're b
 
 An Agile coach needs to be able to connect agility to the broader business context. Here’s what to evaluate:
 
-- Can they explain how Agile ties into business goals like revenue, market share, or customer satisfaction?
+- Can they explain how Agile ties into business goals like revenue, [market share]({{< ref "/tags/market-share" >}}), or customer satisfaction?
 
 - Do they understand your industry’s specific challenges and constraints (e.g., regulatory issues in finance)?
 
@@ -160,7 +156,7 @@ Agile isn't just a set of practices—it's a cultural shift. Ensure your Agile c
 
 Hiring an Agile coach is an investment in your organization's future. A coach who can bridge the gap between technical staff and leadership is invaluable. They will not only drive Agile practices across your teams but also help align those practices with business outcomes that matter to your leadership.
 
-Before you make your decision, ensure that the coach has both the technical chops and the business acumen necessary to succeed. They should be able to engage both groups and drive credibility, leading to a smoother, more successful Agile transformation.
+Before you make your decision, ensure that the coach has both the technical chops and the business acumen necessary to succeed. They should be able to engage both groups and drive credibility, leading to a smoother, more successful [Agile transformation]({{< ref "/tags/agile-transformation" >}}).
 
 👨‍🏫 _Remember_: The right Agile coach is more than just a guide—they’re a partner in your journey toward true agility.
 

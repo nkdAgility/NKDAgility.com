@@ -42,19 +42,15 @@ tags:
 - Agile Transformation
 - Lean Thinking
 - Organisational Agility
-- Agile Values and Principles
-- Scrum Master
-- Social Technologies
-- Competence
 resourceTypes:
 - video
 categories:
 - Product Development
 
 ---
-In the world of Scrum, Agile, and Kanban, we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies continuous improvement. While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.
+In the world of [Scrum]({{< ref "/categories/scrum" >}}), Agile, and [Kanban]({{< ref "/categories/kanban" >}}), we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.
 
-In this blog post, we’ll dive deep into **Kaizen**, exploring its meaning, its importance in Scrum, and how you can apply it to your daily work. Whether you’re a Scrum Master, a Product Owner, or part of a development team, the principles of continuous improvement are essential to your success.
+In this blog post, we’ll dive deep into **Kaizen**, exploring its meaning, its importance in Scrum, and how you can apply it to your daily work. Whether you’re a [Scrum Master]({{< ref "/tags/scrum-master" >}}), a [Product Owner]({{< ref "/tags/product-owner" >}}), or part of a development team, the principles of continuous improvement are essential to your success.
 
 ## What is Kaizen?
 
@@ -116,7 +112,7 @@ One of the teams I worked with was struggling with long cycle times and a lack o
 
 The key takeaway? **Kaizen** is about the small, incremental changes that, when compounded over time, lead to significant improvements. It’s not about making massive changes overnight, but about the commitment to continuous improvement.
 
-## How You Can Apply Kaizen in Your Scrum Team
+## How You Can Apply Kaizen in Your [Scrum Team]({{< ref "/tags/scrum-team" >}})
 
 Whether you’re new to Scrum or a seasoned practitioner, here are a few ways you can start applying Kaizen in your team today:
 

@@ -31,12 +31,6 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
-- Continuous Improvement
-- Pragmatic Thinking
-- Software Development
-- Throughput
-- Product Delivery
-- Value Delivery
 
 ---
 ## Duration
@@ -55,9 +49,9 @@ Read the instructions carefully in the Mural.
 
 ## Facilitation Steps
 
-### Part 1: A Scrum Team
+### Part 1: A [Scrum]({{< ref "/categories/scrum" >}}) Team
 
-Feel free to show your real data, this is a visualization of a typical scrum team. Walkthrough each day, asking people what they see, what stands out.
+Feel free to show your real data, this is a visualization of a typical [scrum team]({{< ref "/tags/scrum-team" >}}). Walkthrough each day, asking people what they see, what stands out.
 
 - Day 1: Last two items are leftover from the previous sprint.
 - Day 2: Everything has started

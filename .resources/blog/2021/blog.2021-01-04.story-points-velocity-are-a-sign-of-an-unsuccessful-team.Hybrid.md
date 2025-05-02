@@ -34,21 +34,12 @@ tags:
 - Empirical Process Control
 - Professional Scrum
 - Pragmatic Thinking
-- Agile Planning
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Metrics and Learning
-- Estimation
-- Product Delivery
-- Team Performance
-- Cycle Time
 categories:
 - Scrum
 preview: image-9-14-14.png
 
 ---
-Story Points and velocity have been used for many years in the Scrum community and have been engrained so much in the way that things are done that most folks believe that they are part of Scrum. The accepted wisdom is that Scrum Teams are supposed to use User Stories, Story Points, and Velocity to measure their work.
+Story Points and velocity have been used for many years in the [Scrum]({{< ref "/categories/scrum" >}}) community and have been engrained so much in the way that things are done that most folks believe that they are part of Scrum. The accepted wisdom is that Scrum Teams are supposed to use User Stories, Story Points, and Velocity to measure their work.
 
 **Accepted wisdom is wrong!**
 
@@ -92,7 +83,7 @@ The answer to all of these searchers is zero! These are complementary practices 
 
 ## Managing the unknown is hard
 
-It's ok for a team to start with Story Points and Velocity. There are many things that change when a team moves from the traditional project management practices of the past to the empirical practices of the future, and sometimes we need to pick our battles. One such battle is that of story points and velocity and in fact all of the gubbins surrounding it.
+It's ok for a team to start with Story Points and Velocity. There are many things that change when a team moves from the traditional [project management]({{< ref "/tags/project-management" >}}) practices of the past to the empirical practices of the future, and sometimes we need to pick our battles. One such battle is that of story points and velocity and in fact all of the gubbins surrounding it.
 
 Perhaps you need to appease other parts of the organisation that are not yet ready for change. Perhaps you have a long journey and this is just somewhere to start.
 
@@ -117,7 +108,7 @@ Because really, the scores are made up and the points don't matter. It's the con
 
 However, agile teams try to use Story Points and Velocity for future predictability and this is a fallacy. While I would be OK with a team using it for a while, if an Agile Team is still using Velocity and Story Points after they have 5 or 10 sprints under their belt then I would have serious concerns about their ability to adapt to change and their sincerity towards that change. What I mean is that they just don't understand their work or its nature; This is what I mean by immaturity, and not that something else is a sign of maturity!
 
-Indeed as the Scrum Team using Story Points really has no consistent reference they are just shooting in the dark the same as they were before.
+Indeed as the [Scrum Team]({{< ref "/tags/scrum-team" >}}) using Story Points really has no consistent reference they are just shooting in the dark the same as they were before.
 
 While they have gained an understanding of the goals, they still don't have an understanding of the predictability and thus no confidence in their predictions. We need concrete data to build trust with stakeholders that we know what we are talking about.
 
@@ -138,11 +129,11 @@ Velocity
 
 Velocity was a way to assert that confidence with a plot of our delivered story points, and along with some clever calculations we asserted that we were likely to deliver about 20 story points. This was such a wholly improbable assumption that the vast majority of Scrum Teams talk about "carry-over" points and quiz me about how to represent that. Do you re-estimate and stick it on the backlog, does it move to the next sprint?
 
-Scrum Teams have been basing their confidence to stakeholders on an agreed consensus that cant be compared and is susceptible to any change from the makeup of the team from the estimation room.
+Scrum Teams have been basing their confidence to stakeholders on an agreed consensus that cant be compared and is susceptible to any change from the makeup of the team from the [estimation]({{< ref "/tags/estimation" >}}) room.
 
 **We need confidence!**
 
-## Confidence Through Transparency
+## Confidence Through [Transparency]({{< ref "/tags/transparency" >}})
 
 Confidence is gained by truly understanding the uncertainty of delivery and factoring it into our projections. How sure are you that you will be able to deliver? No really! what is your statistical level of confidence?
 
@@ -163,9 +154,9 @@ In the empirical world where more is unknown than known, we don't plan all of th
 
 **Except when we can!**
 
-- **The Increment is the Confidence of Transparency of the Future** - If we have a Scrum Team then I should be confident in saying that we will have a usable increment at the end of every Sprint. If that is true, then we can have 100% confidence that we can deliver the output from the last Sprint. It works, and it's done!
+- **The [Increment]({{< ref "/tags/increment" >}}) is the Confidence of Transparency of the Future** - If we have a Scrum Team then I should be confident in saying that we will have a usable increment at the end of every Sprint. If that is true, then we can have 100% confidence that we can deliver the output from the last Sprint. It works, and it's done!
 
-- **The Product Backlog is the Confidence of Transparency of the Future** - Since we have a backlog that has been ordered by the Product Owner, who is accountable for maximizing the value delivered I can be confident that what we have Done represents the most valuable things that we could have done.
+- **The [Product Backlog]({{< ref "/tags/product-backlog" >}}) is the Confidence of Transparency of the Future** - Since we have a backlog that has been ordered by the [Product Owner]({{< ref "/tags/product-owner" >}}), who is accountable for maximizing the value delivered I can be confident that what we have Done represents the most valuable things that we could have done.
 
 With both of these being true we can have 100% confidence that we have the most valuable items that the business needs to be completed and ready to deploy. Every additional Sprint just adds to the quantity of value.
 
@@ -176,7 +167,7 @@ With both of these being true we can have 100% confidence that we have the most 
 
 <figcaption>
 
-Cycle Time Scatter Plot lets you find your confidence
+[Cycle Time]({{< ref "/tags/cycle-time" >}}) Scatter Plot lets you find your confidence
 
 </figcaption>
 

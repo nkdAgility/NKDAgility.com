@@ -52,14 +52,9 @@ tags:
 - Enterprise Agility
 - Common Goals
 - Continuous Improvement
-- Current Value
-- Hypothesis Driven Development
-- Unrealised Value
-- Empirical Process Control
-- Pragmatic Thinking
 
 ---
-# The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty
+# The Evidence-Based Management Guide: Improving [Value Delivery]({{< ref "/tags/value-delivery" >}}) under Conditions of Uncertainty
 
 ### May 2024
 
@@ -76,7 +71,7 @@ This Guide defines EBM and its concepts.
 
 ## Definition of Evidence-Based Management
 
-Evidence-Based Management (EBM) is a framework that helps people, teams, and organizations make better-informed decisions to help them achieve their goals by using intentional experimentation and feedback.
+Evidence-Based Management (EBM) is a framework that helps people, teams, and organizations make better-informed decisions to help them achieve their goals by using intentional [experimentation]({{< ref "/tags/experimentation" >}}) and feedback.
 
 ## EBM Helps Organizations Achieve Their Goals in a Complex World
 
@@ -85,7 +80,7 @@ involves comparing the actual result of the experiment with its desired outcome,
 
 EBM focuses on three levels of goals:
 
-- Strategic Goals, important things that the organization feels it needs to achieve to realize its Mission and Vision. These goals are so big and far away, with many uncertainties along the journey that the organization must use empiricism to achieve them. Because a Strategic Goal is aspirational and the path to achieving it is uncertain, the organization needs a series of practical targets, like Intermediate Goals.
+- [Strategic Goals]({{< ref "/tags/strategic-goals" >}}), important things that the organization feels it needs to achieve to realize its Mission and Vision. These goals are so big and far away, with many uncertainties along the journey that the organization must use empiricism to achieve them. Because a Strategic Goal is aspirational and the path to achieving it is uncertain, the organization needs a series of practical targets, like Intermediate Goals.
 - Intermediate Goals , achievements of which will indicate that the organization is on the path to a Strategic Goal. The path to the Intermediate Goal is often still somewhat uncertain, but not completely unknown.
 - Immediate Tactical Goals , which are the current focus of the organization’s improvement efforts.
 
@@ -93,7 +88,7 @@ To progress towards Strategic and Intermediate goals, organizations form hypothe
 hypotheses form the basis of experiments that they run to try to improve. They measure the results of these experiments (evidence) to evaluate their progress toward their goals, and to
 determine their next steps (new hypotheses), which may include adjusting their goals based on what they have learned. This is empiricism in action with EBM.
 
-(^1) 1 For more on complexity, see the Scrum Theory section of the Scrum Guide at
+(^1) 1 For more on complexity, see the [Scrum]({{< ref "/categories/scrum" >}}) Theory section of the Scrum Guide at
 https://www.scrumguides.org/scrum-guide.html
 
 **Figure 1: Reaching strategic goals requires experimenting, inspecting, and adapting**^2
@@ -127,7 +122,7 @@ Organizations measure many different kinds of things. Broadly speaking, measures
   forth.
 - _Outputs_. These are things that the organization produces, such as product releases (including features), reports, defect reports, product reviews, and so on.
 - _Outcomes_. These are desirable things that a customer or user of a product experiences. They represent some new or improved capability that the customer or user was not able to achieve before. Examples include being able to travel to a destination faster than before, or being able to earn or save more money than before. Outcomes can also be negative, as in the case where the value a customer or user experiences declines from previous experiences, for example when a service they previously relied upon is no longer available.
-- _Impacts_. Results that the organization or its non-customer stakeholders (such as investors) achieve when customers or users of a product achieve their desired outcomes. Examples include things like increased revenue or profit, improved market share, and increased share price. Positive Impacts are only sustainably achievable when customers experience improved outcomes.
+- _Impacts_. Results that the organization or its non-customer stakeholders (such as investors) achieve when customers or users of a product achieve their desired outcomes. Examples include things like increased revenue or profit, improved [market share]({{< ref "/tags/market-share" >}}), and increased share price. Positive Impacts are only sustainably achievable when customers experience improved outcomes.
 
 The problem most organizations face, which is often reflected in the things they measure, is that measuring activities and outputs is easy, while measuring outcomes is difficult. Organizations may gather a lot of data with insufficient information about their ability to deliver value. However, delivering valuable outcomes to customers is essential if organizations are to reach their goals. For example, working more hours (activities) and delivering more features (outputs) does not necessarily lead to improved customer experiences (outcomes).
 
@@ -180,7 +175,7 @@ Explicitly forming hypotheses, measuring results, and inspecting and adapting go
 ## Opportunities
 
 In addition to using hypotheses and experiments to move toward goals, EBM provides a set of perspectives on value and the organization’s ability to deliver value. These perspectives are
-called Key Value Areas (KVAs). These areas examine the goals of the organization (Unrealized Value), the current state of the organization relative to those goals (Current Value), the
+called Key Value Areas (KVAs). These areas examine the goals of the organization (Unrealized Value), the current state of the organization relative to those goals ([Current Value]({{< ref "/tags/current-value" >}})), the
 responsiveness of the organization in delivering value (Time-to-Market), and the effectiveness of the organization in delivering value (Ability-to-Innovate).
 
 Market value KVAs (UV, CV) reflect customer outcomes. Whereas, organizational capability KVAs (A2I, T2M) reflect the organization’s ability to deliver valuable customer outcomes, and
@@ -232,7 +227,7 @@ the product to try to boost CV is probably warranted, given the potential return
 
 Conversely, a product with very high CV, large market share, no near competitors, and very satisfied customers may not warrant much new investment; this is the classic cash cow product that is very profitable but nearing the end of its product investment cycle with low UV.
 
-### Ability to Innovate (A2I)
+### [Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}}) (A2I)
 
 ##### Measures that quantify the effectiveness of an organization in delivering new capabilities
 
@@ -261,7 +256,7 @@ the result so that they know whether they actually improved the value their cust
 
 Improving T2M helps improve the frequency at which an organization can potentially change CV.
 
-Example : Reducing the number of features in a product release can dramatically improve T2M; the smallest release possible is one that delivers at least some incremental improvement in value to some subset of the customers/users of the product. Many organizations also focus on removing non value-added activities from the product development and delivery process to improve their T2M.
+Example : Reducing the number of features in a product release can dramatically improve T2M; the smallest release possible is one that delivers at least some incremental improvement in value to some subset of the customers/users of the product. Many organizations also focus on removing non value-added activities from the [product development]({{< ref "/categories/product-development" >}}) and delivery process to improve their T2M.
 
 Example Key Value Measures (KVMs) for each KVA are described in the Appendix.
 
@@ -270,7 +265,7 @@ Example Key Value Measures (KVMs) for each KVA are described in the Appendix.
 Once you have gathered measures from your experiments to improve value, you will need to inspect or evaluate your results against your goals to see if your improvement ideas worked.
 Examining measures in each of the Key Value Areas will help you to maintain a balanced perspective.
 
-Immediate Tactical Goals should improve Current Value and reduce Unrealized Value. Even when Immediate Tactical Goals are focused on organizational effectiveness or speed of obtaining feedback, considering CV and UV helps the organization keep customer satisfaction in sight. Each KVAs is a different lens that helps you focus on different aspects of your performance towards the goals you are trying to achieve.
+Immediate Tactical Goals should improve Current Value and reduce Unrealized Value. Even when Immediate Tactical Goals are focused on organizational effectiveness or speed of obtaining feedback, considering CV and UV helps the organization keep [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}) in sight. Each KVAs is a different lens that helps you focus on different aspects of your performance towards the goals you are trying to achieve.
 
 Similarly, when your Immediate Tactical Goals are focused on improving effectiveness (A2I) or the speed at which you can obtain feedback (T2M), you never want to ignore or take for granted
 your customers’ experiences. When an organization targets improvements only in A2I and T2M without monitoring CV and UV, they are focused only on internal processes that may not help
@@ -303,9 +298,9 @@ To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KV
 
 | KVM                   | Measuring                                                                                                                                                                                            |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Revenue per Employee  | The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry.                                                                 |
+| [Revenue per Employee]({{< ref "/tags/revenue-per-employee" >}})  | The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry.                                                                 |
 | Product Cost Ratio    | Total expenses and costs for the product(s)/system(s) being measured, including operational costs compared to revenue.                                                                               |
-| Employee Satisfaction | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.                                                                                                           |
+| Employee Satisfaction | Some form of sentiment analysis to help gauge [employee engagement]({{< ref "/tags/employee-engagement" >}}), energy, and enthusiasm.                                                                                                           |
 | Customer Satisfaction | Some form of sentiment analysis to help gauge customer engagement and happiness with the product.                                                                                                    |
 | Customer Usage Index  | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature. |
 
@@ -329,14 +324,14 @@ To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KV
 | Release Frequency               | The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.                                                                                                                                                                                                                   |
 | Release Stabilization Period    | The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.                                                                                                                                                 |
 | Mean Time to Repair             | The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.                                                                                                                                                                                                                                                      |
-| Customer Cycle Time             | The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer.                                                                                                                                                                                                                                   |
-| Lead Time                       | The amount of time from when an idea is proposed or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor in customer satisfaction.                                                                                                                                                                                 |
+| Customer [Cycle Time]({{< ref "/tags/cycle-time" >}})             | The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer.                                                                                                                                                                                                                                   |
+| [Lead Time]({{< ref "/tags/lead-time" >}})                       | The amount of time from when an idea is proposed or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor in customer satisfaction.                                                                                                                                                                                 |
 | Lead Time for Changes           | The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                                           |
-| Deployment Frequency            | The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                     |
+| [Deployment Frequency]({{< ref "/tags/deployment-frequency" >}})            | The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                     |
 | Time to Restore Service         | The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                  |
 | Time-to-Learn                   | The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.                                                                                                                                                                                                                                                                                                 |
 | Time to remove Impediment       | The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction                                                                                                                                                                                                                                                         |
-| Time to Pivot                   | A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience. |
+| Time to Pivot                   | A measure of true [business agility]({{< ref "/tags/business-agility" >}}) that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience. |
 
 {: .table .table-striped .table-bordered .d-none .d-md-block}
 
@@ -348,7 +343,7 @@ To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KV
 | Defect Trends                            | Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don’t work as intended.                          |
 | On-Product Index                         | The percentage of time teams spend working on product and value.                                                                                                                                                                                               |
 | Installed Version Index                  | The number of versions of a product that are currently being supported. This reflects the effort the organization spends supporting and maintaining older versions of the software.                                                                            |
-| Technical Debt                           | A concept in programming that reflects the extra development and testing work that arises when “quick and dirty” solutions result in later remediation. It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. |
+| [Technical Debt]({{< ref "/tags/technical-debt" >}})                           | A concept in programming that reflects the extra development and testing work that arises when “quick and dirty” solutions result in later remediation. It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. |
 | Production Incident Count                | The number of times in a given period that the Development Team was interrupted to fix a problem in an installed product. The number and frequency of Production Incidents can help indicate the stability of the product.                                     |
 | Active Product (Code) Branches           | The number of different versions (or variants) of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                                             |
 | Time Spent Merging Code Between Branches | The amount of time spent applying changes across different versions of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                        |

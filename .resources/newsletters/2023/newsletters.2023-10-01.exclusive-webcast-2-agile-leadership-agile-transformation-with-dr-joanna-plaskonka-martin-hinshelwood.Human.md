@@ -24,14 +24,11 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Organisational Agility
-- Enterprise Agility
-- Organisational Change
-- Software Development
 
 ---
-**🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**
+**🌟 Exclusive Webcast #2: "Agile [Leadership]({{< ref "/categories/leadership" >}}) & [Agile Transformation]({{< ref "/tags/agile-transformation" >}})" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**
 
-Dive into the world of Agile with two of the industry's foremost experts, Dr. Joanna Płaskonka and Martin Hinshelwood, in an enlightening 18-minute webcast that promises to reshape your understanding of Agile Leadership and Transformation.
+Dive into the world of Agile with two of the industry's foremost experts, Dr. Joanna Płaskonka and Martin Hinshelwood, in an enlightening 18-minute webcast that promises to reshape your understanding of [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) and Transformation.
 
 [Sign up to claim your spot now!](https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab)
 

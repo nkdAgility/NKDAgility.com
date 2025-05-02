@@ -25,18 +25,18 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
-tags:
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous forecasting, which I discussed with Daniel Vacanti during our recent Professional Scrum with Kanban class.
+As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous [forecasting]({{< ref "/tags/forecasting" >}}), which I discussed with Daniel Vacanti during our recent Professional [Scrum]({{< ref "/categories/scrum" >}}) with [Kanban]({{< ref "/categories/kanban" >}}) class.
 
 ### Office Hours and Engagement
 
@@ -44,7 +44,7 @@ Every Wednesday at 6 p.m. BST, I host office hours where I’m available to answ
 
 ### Virtual Training Setup
 
-Over the past few months, I’ve been conducting all my classes virtually, and I must say, it’s been a rewarding experience. I’ve taught various courses, including Professional Scrum Foundations and Professional Agile Leadership, using Microsoft Teams. This platform has proven to be incredibly effective for managing classes, offering features like breakout rooms, file sharing, and persistent channels for ongoing interaction with students.
+Over the past few months, I’ve been conducting all my classes virtually, and I must say, it’s been a rewarding experience. I’ve taught various courses, including [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundations and Professional Agile [Leadership]({{< ref "/categories/leadership" >}}), using Microsoft Teams. This platform has proven to be incredibly effective for managing classes, offering features like breakout rooms, file sharing, and persistent channels for ongoing interaction with students.
 
 Here’s a quick overview of how I prepare for these classes:
 
@@ -62,7 +62,7 @@ The Scrum Guide doesn’t mandate that we plan our entire sprint upfront. Instea
 
 - **Start Small**: Begin with a plan for the next few days, allowing the team to adapt as they progress. This dynamic planning approach helps teams respond to changes more effectively.
 
-- **Utilise Metrics**: Professional Scrum teams should leverage metrics from the Kanban guide, such as throughput, cycle time, work in progress, and work item aging. These metrics provide valuable insights that can inform our planning and forecasting.
+- **Utilise Metrics**: Professional Scrum teams should leverage metrics from the Kanban guide, such as [throughput]({{< ref "/tags/throughput" >}}), [cycle time]({{< ref "/tags/cycle-time" >}}), work in progress, and work item aging. These metrics provide valuable insights that can inform our planning and forecasting.
 
 - **Monte Carlo Simulations**: By collecting and analysing these metrics, teams can perform Monte Carlo simulations to predict outcomes more accurately. This statistical approach can help in understanding potential delivery timelines and managing stakeholder expectations.
 

@@ -38,15 +38,6 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Team Performance
-- Scrum Master
-- Continuous Improvement
-- Continuous Learning
-- Organisational Agility
-- Agile Strategy
-- Agile Values and Principles
-- Market Adaptability
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 layout: video
@@ -55,23 +46,23 @@ categories:
 - Scrum
 
 ---
-## The Keystone of Lean-Agile: Empiricism Unravelled 🧬 
+## The Keystone of [Lean]({{< ref "/categories/lean" >}})-Agile: Empiricism Unravelled 🧬 
 
 Have you ever wondered what fuels the vigour of the agile framework? It's a concept that may seem shrouded in the enigma of scientific complexity – Empiricism.  
 
-Yet, in essence, it's the compass that navigates the labyrinth of project management. Allow me to demystify its critical role in ensuring your project's triumph. 
+Yet, in essence, it's the compass that navigates the labyrinth of [project management]({{< ref "/tags/project-management" >}}). Allow me to demystify its critical role in ensuring your project's triumph. 
 
 ## The Empirical Creed: Observe, Adapt, Prosper **🕵️‍♂️** 
 
 At its core, empiricism in the agile realm is about real-time observation and response to the tangible aspects of your project – consider it the Agile heartbeat. Here's the lowdown: 
 
-- 📈 **Transparency**: Absolute clarity is essential. Shun the superfluous and focus on the genuine, unadulterated data of your project's performance. 
+- 📈 **[Transparency]({{< ref "/tags/transparency" >}})**: Absolute clarity is essential. Shun the superfluous and focus on the genuine, unadulterated data of your project's performance. 
 
 - 🔍 **Inspection**: Possessing the data is merely the first step; the subsequent and crucial move is to scrutinise and decode its implications. 
 
 - 🔄 **Adaptation**: Armed with insights, it's time to refine and adjust your methods, ensuring your project's pathway leads to success. 
 
-## Deciphering the Scrum Framework through Empiricism 🔓 
+## Deciphering the [Scrum]({{< ref "/categories/scrum" >}}) Framework through Empiricism 🔓 
 
 Scrum is imbued with empirical checkpoints – the very sinews that afford it flexibility.  
 
@@ -79,19 +70,19 @@ These include: 
 
 - 🗓️ **Daily Scrums**: Examine and adjust your Sprint Backlog; it's akin to recalibrating your navigational route every day. 
 
-- 🎯 **Sprint Reviews**: Pivot your product backlog and objectives, ensuring alignment with your strategic vision. 
+- 🎯 **Sprint Reviews**: Pivot your [product backlog]({{< ref "/tags/product-backlog" >}}) and objectives, ensuring alignment with your strategic vision. 
 
 - 🔄 **Retrospectives**: This is your process's diagnostic session – a time to invigorate your workflow's health. 
 
 ## Navigating Product Ownership Challenges: The Empirical Advantage 🔎 
 
-For the Product Owner, guiding the ship through turbulent market seas, empiricism is your North Star: 
+For the [Product Owner]({{< ref "/tags/product-owner" >}}), guiding the ship through turbulent market seas, empiricism is your North Star: 
 
 - 🧭 Remain aligned by consistently validating your product's trajectory. 
 
 - 🚀 Prepare to pivot (or stay the course) rooted in the feedback reality offers. 
 
-## Gaining Insight as an Effective Scrum Master: The Empirical Journey 🛤️ 
+## Gaining Insight as an Effective [Scrum Master]({{< ref "/tags/scrum-master" >}}): The Empirical Journey 🛤️ 
 
 Scrum Masters are the alchemists of empiricism, transmuting observations into tangible improvements: 
 

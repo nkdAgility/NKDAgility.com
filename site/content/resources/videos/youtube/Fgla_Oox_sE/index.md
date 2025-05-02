@@ -31,8 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Sprint Review
-- Agile Product Management
 resourceTypes:
 - video
 categories:
@@ -40,7 +38,7 @@ categories:
 - Product Management
 
 ---
-As a Product Owner, one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a product backlog or guiding a development team—you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.
+As a [Product Owner]({{< ref "/tags/product-owner" >}}), one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a [product backlog]({{< ref "/tags/product-backlog" >}}) or guiding a development team—you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.
 
 In this blog post, we’ll dive into how you can become an effective "Product Marketer" and how mastering this can lead to more successful Sprint Reviews, better feedback loops, and ultimately, a product that resonates with your stakeholders and customers.
 
@@ -58,7 +56,7 @@ Engagement isn’t just about participation—it's about **emotional buy-in**. H
 
 - **Customer Engagement:** Ultimately, customers must feel that your product addresses their needs and speaks to their emotions.
 
-💡 **Pro Tip:** The key to emotional engagement is consistency in your messaging. Make sure every interaction, presentation, or Sprint Review reinforces the same vision.
+💡 **Pro Tip:** The key to emotional engagement is consistency in your messaging. Make sure every interaction, presentation, or [Sprint Review]({{< ref "/tags/sprint-review" >}}) reinforces the same vision.
 
 * * *
 
@@ -98,7 +96,7 @@ When done effectively, **marketing as a Product Owner** doesn’t just sell the 
 
 3. **Feedback Loops:** If stakeholders aren’t providing feedback, you can’t improve the product effectively. Good marketing creates anticipation and excitement, leading to richer feedback.
 
-5. **Value Delivery:** Marketing helps everyone involved see the value being delivered at each stage of development, ensuring that they’re all heading in the same direction.
+5. **[Value Delivery]({{< ref "/tags/value-delivery" >}}):** Marketing helps everyone involved see the value being delivered at each stage of development, ensuring that they’re all heading in the same direction.
 
 * * *
 

@@ -28,10 +28,6 @@ tags:
 - Pragmatic Thinking
 - Continuous Learning
 - Software Development
-- Agile Transformation
-- Coaching
-- Team Collaboration
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +38,7 @@ categories:
 - Product Development
 
 ---
-When it comes to learning, especially in the realm of Agile and Scrum, the traditional classroom model often leaves much to be desired. I’ve seen it time and again: participants leave with their heads filled with information, yet only retain about ten per cent of it two weeks later. This is where immersive learning comes into play, and I’m excited to share my thoughts on this transformative approach.
+When it comes to learning, especially in the realm of Agile and [Scrum]({{< ref "/categories/scrum" >}}), the traditional classroom model often leaves much to be desired. I’ve seen it time and again: participants leave with their heads filled with information, yet only retain about ten per cent of it two weeks later. This is where immersive learning comes into play, and I’m excited to share my thoughts on this transformative approach.
 
 ### What is Immersive Learning?
 
@@ -52,17 +48,17 @@ At its core, immersive learning is about bridging the gap between theory and pra
 
 ### The Structure of Immersive Learning
 
-So, how does this immersive approach work in practice? Instead of cramming everything into a few consecutive days, we spread the learning over multiple sessions. For instance, in a typical Professional Scrum Master (PSM) course, we might have seven half-day sessions, each spaced out over a week. This structure allows for:
+So, how does this immersive approach work in practice? Instead of cramming everything into a few consecutive days, we spread the learning over multiple sessions. For instance, in a typical [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) course, we might have seven half-day sessions, each spaced out over a week. This structure allows for:
 
 - **Debriefing Sessions**: Each session begins with a debrief of the previous assignment. This is crucial. It’s a time for participants to share their experiences, discuss challenges, and learn from one another. Imagine having six people in a class, each bringing their unique insights to the table. This collaborative environment fosters deeper understanding and connection.
 
-- **Assignments with Real Impact**: After the debrief, we introduce new content, followed by an assignment that participants can implement in their own organisations. For example, a product owner might be tasked with defining what "value" means for their business. This isn’t just an academic exercise; it’s a chance to bring real change to their workplace.
+- **Assignments with Real Impact**: After the debrief, we introduce new content, followed by an assignment that participants can implement in their own organisations. For example, a [product owner]({{< ref "/tags/product-owner" >}}) might be tasked with defining what "value" means for their business. This isn’t just an academic exercise; it’s a chance to bring real change to their workplace.
 
 ### The Value of Practice
 
 One of the key differences between musicians and martial artists is their commitment to practice. In the same vein, immersive learning emphasises the importance of applying what you’ve learned. Each week, participants have the opportunity to try out new concepts and techniques in their own environments. This iterative process not only reinforces learning but also builds confidence in applying Agile principles.
 
-- **Feedback Loops**: When participants return to the next session, they can share their findings and experiences. This creates a feedback loop that enhances learning and allows for continuous improvement. If a participant discovers that their organisation doesn’t even have a clear definition of value, we can explore strategies to uncover that information together.
+- **Feedback Loops**: When participants return to the next session, they can share their findings and experiences. This creates a feedback loop that enhances learning and allows for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). If a participant discovers that their organisation doesn’t even have a clear definition of value, we can explore strategies to uncover that information together.
 
 ### Why I Believe in This Format
 
@@ -70,4 +66,4 @@ I genuinely believe that this immersive learning format provides far greater val
 
 - **Long-Term Retention**: By spreading the learning over a longer period and connecting it to real-world applications, participants are more likely to retain information and apply it effectively. This is a game-changer in the world of Agile training.
 
-In conclusion, immersive learning is not just a trend; it’s a necessary evolution in how we approach education in Agile and Scrum. By focusing on real-world applications and fostering collaboration, we can create a learning environment that truly empowers participants. If you’re interested in exploring this further or have any questions about Agile, Scrum, or DevOps, I invite you to book a coffee chat with me through Naked Agility. Let’s connect and discuss how we can enhance your learning journey!
+In conclusion, immersive learning is not just a trend; it’s a necessary evolution in how we approach education in Agile and Scrum. By focusing on real-world applications and fostering collaboration, we can create a learning environment that truly empowers participants. If you’re interested in exploring this further or have any questions about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), I invite you to book a coffee chat with me through Naked Agility. Let’s connect and discuss how we can enhance your learning journey!

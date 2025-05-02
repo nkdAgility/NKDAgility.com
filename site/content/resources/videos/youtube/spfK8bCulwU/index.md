@@ -28,10 +28,6 @@ duration: 183
 isShort: false
 tags:
 - Agile Product Management
-- Team Collaboration
-- Pragmatic Thinking
-- Product Delivery
-- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +39,7 @@ categories:
 - Product Management
 
 ---
-As an entrepreneur, I often find myself reflecting on the multifaceted role of a product owner. Recently, I’ve been diving deep into the Advanced Professional Scrum Product Owner (PSPO) course, and I can’t help but think how perfectly it aligns with the needs of entrepreneurs. It’s not just about innovation; it’s about balance, understanding your customers, and ensuring that your product evolves in a way that meets their needs.
+As an entrepreneur, I often find myself reflecting on the multifaceted role of a [product owner]({{< ref "/tags/product-owner" >}}). Recently, I’ve been diving deep into the Advanced Professional [Scrum]({{< ref "/categories/scrum" >}}) Product Owner (PSPO) course, and I can’t help but think how perfectly it aligns with the needs of entrepreneurs. It’s not just about innovation; it’s about balance, understanding your customers, and ensuring that your product evolves in a way that meets their needs.
 
 ### Understanding Your Focus as a Product Owner
 
@@ -72,7 +68,7 @@ These questions are vital for ensuring that our products not only innovate but a
 Another significant takeaway from the Advanced PSPO course is the emphasis on collaboration. Creating exceptional products isn’t a solo endeavour; it requires working closely with customers, stakeholders, and team members. 
 
 - **Customer Focus**: Engaging with customers to understand their needs and pain points is crucial. 
-- **Team Collaboration**: Fostering an environment where team members feel valued and heard can lead to more innovative solutions and a more cohesive product vision.
+- **[Team Collaboration]({{< ref "/tags/team-collaboration" >}})**: Fostering an environment where team members feel valued and heard can lead to more innovative solutions and a more cohesive product vision.
 
 ### Conclusion
 
@@ -80,4 +76,4 @@ In conclusion, the Advanced PSPO course has reinforced my belief that being a su
 
 If you’re an entrepreneur looking to enhance your product ownership skills, I highly recommend exploring this course. It’s a journey that will not only improve your product but also enrich your understanding of what it means to be a product owner in today’s fast-paced environment.
 
-Thank you for joining me on this exploration of the Advanced PSPO. If you found this post helpful, please like, follow, and subscribe. I’m always eager to engage with fellow enthusiasts, so feel free to reach out or book a coffee chat with me through Naked Agility. Let’s continue the conversation about agile, scrum, and DevOps!
+Thank you for joining me on this exploration of the Advanced PSPO. If you found this post helpful, please like, follow, and subscribe. I’m always eager to engage with fellow enthusiasts, so feel free to reach out or book a coffee chat with me through Naked Agility. Let’s continue the conversation about agile, scrum, and [DevOps]({{< ref "/categories/devops" >}})!

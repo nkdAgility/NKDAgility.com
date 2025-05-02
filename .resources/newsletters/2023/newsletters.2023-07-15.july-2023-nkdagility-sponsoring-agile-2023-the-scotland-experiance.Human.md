@@ -13,16 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance
 aliases:
-- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/x0sJSqJhVRG
+  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/x0sJSqJhVRG
 aliasesArchive:
-- /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-- /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
-categories: []
+  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+categories:
+  - Uncategorized
 tags: []
-
 ---
+
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!
 
 [![](images/nkdagility-agile-2023-Scotland-Experiance.png)](https://events.agilealliance.org/aascotland2023/begin?i=L7wyli35dzYJ1d70S2e1mR-yDTlopQRK)
@@ -31,13 +32,13 @@ There will be a keynote from Lyssa Adkins and many unique opportunities for work
 
 I have spoken at Agile 2023 events and was in Nashville a few years ago for Deliver: Agile, this event's more technical sibling. Agile Alliance always runs events that challenge our thinking and provoke change, so come along and get inspired by fresh ideas you can use with your organisations, teams, and yourself.
 
-NKDAgility will provide free consulting and coaching for anyone who comes to our booth and emotional support from our resident fur baby Lua. So if you need to chat about handling the crazy things at your organisation while getting a hug from a sausage dog, then we are the place to be.
+NKDAgility will provide free consulting and [coaching]({{< ref "/tags/coaching" >}}) for anyone who comes to our booth and emotional support from our resident fur baby Lua. So if you need to chat about handling the crazy things at your organisation while getting a hug from a sausage dog, then we are the place to be.
 
 ![](images/2023-07-15_11-50-19-2.png)
 
-If that is not enough, we will host a selection of board and card games for those interested in a wee break, including Cards Against Agility, and we would be willing to host Get Kanban on request and time willing.
+If that is not enough, we will host a selection of board and card games for those interested in a wee break, including Cards Against Agility, and we would be willing to host Get [Kanban]({{< ref "/categories/kanban" >}}) on request and time willing.
 
-We will have some flyers from our new immersive 7 to 10-week Scrum.org classes and be able to talk about why double-loop learning is better for the participants.
+We will have some flyers from our new immersive 7 to 10-week [Scrum]({{< ref "/categories/scrum" >}}).org classes and be able to talk about why double-loop learning is better for the participants.
 
 Book now (Code: TALK23): [https://events.agilealliance.org/aascotland2023/begin?i=L7wyli35dzYJ1d70S2e1mR-yDTlopQRK](https://events.agilealliance.org/aascotland2023/begin?i=L7wyli35dzYJ1d70S2e1mR-yDTlopQRK)
 
@@ -71,13 +72,13 @@ A short list of our blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work in Scotland Webcasts
 
@@ -85,7 +86,7 @@ Are there any blog posts that you would like me to write?
 
 #### Agile Actually Podcast
 
-\[wp-rss-aggregator template="newsletter-list" feeds="agile-actually" limit="5"\]
+{{< recent-resources ResourceTypes="podcast" >}}
 
 ## What classes are right for you
 
@@ -103,7 +104,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

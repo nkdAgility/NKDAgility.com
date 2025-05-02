@@ -15,7 +15,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=msmlRibX2zE
 aliases:
 - /resources/msmlRibX2zE
-- /resources/videos/harris-beach-sds-ultrabook-unbox-msmlRibX2zE
 aliasesArchive:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
 - /resources/harris-beach-sds-ultrabook-unbox
@@ -30,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
  You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/ 

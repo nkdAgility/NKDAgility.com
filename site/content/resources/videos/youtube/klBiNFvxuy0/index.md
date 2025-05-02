@@ -31,11 +31,6 @@ sitemap:
 tags:
 - Professional Scrum
 - Agile Frameworks
-- Agile Transformation
-- Empirical Process Control
-- Software Development
-- Pragmatic Thinking
-- Scrum Master
 resourceTypes:
 - video
 categories:
@@ -43,7 +38,7 @@ categories:
 - Product Development
 
 ---
-What is the most common Aha moment people have in a scrum course?
+What is the most common Aha moment people have in a [scrum]({{< ref "/categories/scrum" >}}) course?
 
 It depends on the scrum course they are attending. The content presented in the [Applying Professional Scrum](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) (APS) course leads to very different epiphanies when compared to the content presented on an [Advanced Professional Scrum Master](https://nkdagility.com/training/courses/professional-scrum-master-advanced-psm-a-training-experience-with-certification-an-advanced-scrum-master-class/) (PSM II) course.
 
@@ -53,7 +48,7 @@ Regardless of the **scrum course** that people attend, I think the most common e
 
 Empiricism is:
 
-1. Transparency.
+1. [Transparency]({{< ref "/tags/transparency" >}}).
 
 3. Inspection.
 
@@ -61,7 +56,7 @@ Empiricism is:
 
 When you talk to people about the purpose behind the event, such as a **sprint retrospective**, or the purpose behind an artefact, such as a **sprint backlog**, you see how the dots connect for people.
 
-Because we’ve mostly grown up in traditional management and **project management** environments, we are taught to follow the rules and obey the procedures, but we are never encouraged to question why those things exist in the first place.
+Because we’ve mostly grown up in traditional management and **[project management]({{< ref "/tags/project-management" >}})** environments, we are taught to follow the rules and obey the procedures, but we are never encouraged to question why those things exist in the first place.
 
 We are taught to blindly follow the path built by others rather than interrogate the meaning and purpose of these rules, regulations, processes, and steps so it comes as a surprise to people that there is a deep purpose behind each of the elements of scrum.
 
@@ -79,7 +74,7 @@ It’s the moment where they recognise that there is tremendous value in each el
 
 ### Example
 
-I was delivering an APS (Applying Professional Scrum) course earlier today, and people who had been working with scrum for YEARS all mentioned how they had never seen an element of scrum in that light before.
+I was delivering an APS (Applying [Professional Scrum]({{< ref "/tags/professional-scrum" >}})) course earlier today, and people who had been working with scrum for YEARS all mentioned how they had never seen an element of scrum in that light before.
 
 Had never connected the dots to the purpose of an event or artefact, and how that would transform how they worked in future.
 
@@ -91,7 +86,7 @@ So, that is always a great validation for me that there is a significant differe
 
 ## Elements that underpin Scrum
 
-People also fail to recognize just how important scrum values are, how important agile values and principles are, how the pillars of empiricism play such a critical role in helping teams navigate complexity and uncertainty.
+People also fail to recognize just how important [scrum values]({{< ref "/tags/scrum-values" >}}) are, how important [agile values and principles]({{< ref "/tags/agile-values-and-principles" >}}) are, how the pillars of empiricism play such a critical role in helping teams navigate complexity and uncertainty.
 
 When they understand the purpose of these things, why they are necessary and valuable, and how leveraging those elements leads to high-performance, you can see the penny drop right away.
 
@@ -111,7 +106,7 @@ Once they have the firm understanding of the fundamentals, everything else slots
 
 “_What is described as elite performance is mostly just the fundamentals taken to the limits of their vast potential_.” – John Donaher
 
-So, getting the basics right is incredibly important for mastering scrum and deriving the greatest benefits from each of the elements of scrum and other agile frameworks.
+So, getting the basics right is incredibly important for mastering scrum and deriving the greatest benefits from each of the elements of scrum and other [agile frameworks]({{< ref "/tags/agile-frameworks" >}}).
 
 If you’re looking to land your own epiphany, visit [https://nkdagility.com/training/](https://nkdagility.com/training/) and find a course that best fits your objectives.
 

@@ -38,7 +38,7 @@
     <div class="container">
       <h2 id="learnMore">Learn More about {{ .Title }}{{ if eq .Type "concepts" }}{{ end }}</h2>
       <div class="row">
-        {{ $paginator := .Paginate $sortedPages 108 }}
+        {{ $paginator := .Paginate $sortedPages 150 }}
         {{ range $paginator.Pages }}
           <div class="col-xl-4 p-2">
             {{- if or (eq .Type "tags") (eq .Type "categories") (eq .Type "concepts") }}

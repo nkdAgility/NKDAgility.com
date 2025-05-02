@@ -28,19 +28,17 @@ duration: 291
 isShort: false
 tags:
 - Scrum Master
-- Competence
-- Continuous Learning
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-As I reflect on the journey of Scrum Masters and their progression through the Professional Scrum Master (PSM) certifications, I can't help but notice a troubling trend: many Scrum Masters never advance beyond the PSM1 level. This observation leads me to a crucial question: why is that? 
+As I reflect on the journey of [Scrum]({{< ref "/categories/scrum" >}}) Masters and their progression through the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) certifications, I can't help but notice a troubling trend: many Scrum Masters never advance beyond the PSM1 level. This observation leads me to a crucial question: why is that? 
 
 From my experience, the answer often boils down to a lack of genuine interest. Many individuals enter the certification process not out of a desire to deepen their understanding of Scrum or to enhance their skills, but rather because they’ve been instructed to do so by their organisations. They approach the training with a singular focus on obtaining the certificate, often asking questions like, “What happens with the exam?” or “How do I get the certificate?” This mindset reveals a fundamental disconnect; they are not truly invested in becoming better Scrum Masters.
 
@@ -54,7 +52,7 @@ Here’s what I’ve observed about those who progress to PSM2 and PSM3:
 - **They Seek Knowledge**: They actively pursue learning opportunities, whether through books, podcasts, or discussions with peers.
 - **They Practice**: Just like violinists and martial artists, they understand that mastery comes from practice. They dedicate time to refine their skills and explore new methodologies.
 
-### The Role of the Scrum Master
+### The Role of the [Scrum Master]({{< ref "/tags/scrum-master" >}})
 
 As Scrum Masters, our primary accountability lies in enhancing the effectiveness of our teams and generating value within our organisations. To fulfil this role effectively, we must continuously learn and adapt. Here are some strategies I recommend for those looking to deepen their Scrum Master skills:
 
@@ -66,4 +64,4 @@ As Scrum Masters, our primary accountability lies in enhancing the effectiveness
 
 In conclusion, the journey from PSM1 to PSM2 and PSM3 is not merely about obtaining a certificate; it’s about a commitment to personal and professional growth. If you’re serious about your role as a Scrum Master, take the time to invest in your development. Remember, the best Scrum Masters are those who are passionate about their craft and dedicated to helping their teams succeed.
 
-If you found this post insightful, I encourage you to like, follow, and subscribe for more content on agile, Scrum, and DevOps. I always welcome comments and discussions, so feel free to reach out or book a coffee chat with me through Naked Agility. Let’s continue to learn and grow together!
+If you found this post insightful, I encourage you to like, follow, and subscribe for more content on agile, Scrum, and [DevOps]({{< ref "/categories/devops" >}}). I always welcome comments and discussions, so feel free to reach out or book a coffee chat with me through Naked Agility. Let’s continue to learn and grow together!

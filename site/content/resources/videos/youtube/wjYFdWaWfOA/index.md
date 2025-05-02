@@ -31,10 +31,6 @@ tags:
 - Scrum Team
 - Software Development
 - Team Performance
-- Professional Scrum
-- Agile Frameworks
-- Agile Transformation
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -47,23 +43,23 @@ categories:
 - Product Development
 
 ---
-When I reflect on the role of a Scrum Master, I often find myself thinking of them as a guide—perhaps a "Scrum Guide" would be a more fitting title, but alas, that name is already taken. The essence of a Scrum Master lies in their deep technical understanding of Agile principles, practices, and the various methodologies that underpin them. They are there to empower the team, equipping them with the knowledge, tools, and skills necessary to make informed decisions within their specific context.
+When I reflect on the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself thinking of them as a guide—perhaps a "Scrum Guide" would be a more fitting title, but alas, that name is already taken. The essence of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) lies in their deep technical understanding of Agile principles, practices, and the various methodologies that underpin them. They are there to empower the team, equipping them with the knowledge, tools, and skills necessary to make informed decisions within their specific context.
 
 ### Understanding the Context
 
 A Scrum Master must grasp three critical contexts to be effective:
 
 1. **Business Context**: 
-   - They need to assist the Product Owner in building the right product.
+   - They need to assist the [Product Owner]({{< ref "/tags/product-owner" >}}) in building the right product.
    - It's essential for them to communicate the value of Scrum to the business, ensuring that stakeholders understand its significance.
 
 2. **Technical Domain**: 
-   - In a software context, a Scrum Master should have a solid understanding of DevOps—how it functions, its tools, and practices.
+   - In a software context, a Scrum Master should have a solid understanding of [DevOps]({{< ref "/categories/devops" >}})—how it functions, its tools, and practices.
    - This knowledge enables them to guide the team in improving their processes and practices, as not everyone possesses this expertise.
 
-3. **Organisational Change Context**: 
+3. **[Organisational Change]({{< ref "/tags/organisational-change" >}}) Context**: 
    - A Scrum Master should be familiar with concepts like Taylorism and the work of Mary Parker Follett, which can inform how we organise around solving specific problems.
-   - They must facilitate conversations across all levels of the organisation, from the ground up to leadership, to foster a shared understanding of the direction in which the team is moving.
+   - They must facilitate conversations across all levels of the organisation, from the ground up to [leadership]({{< ref "/categories/leadership" >}}), to foster a shared understanding of the direction in which the team is moving.
 
 ### The Value of a Scrum Master
 

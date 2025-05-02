@@ -38,10 +38,6 @@ tags:
 - Product Delivery
 - Agile Frameworks
 - Value Delivery
-- Working Software
-- Agile Transformation
-- Team Performance
-- Product Backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,22 +50,22 @@ categories:
 - Product Management
 
 ---
-The Sprint Review: Who Should Lead and Why It Matters
+The [Sprint Review]({{< ref "/tags/sprint-review" >}}): Who Should Lead and Why It Matters
 
-As I reflect on my experiences with Scrum, one question that often arises is: who should lead the Sprint Review? This is a pivotal moment in our Agile journey, and understanding its purpose is crucial for maximising the value we deliver in the next Sprint.
+As I reflect on my experiences with [Scrum]({{< ref "/categories/scrum" >}}), one question that often arises is: who should lead the Sprint Review? This is a pivotal moment in our Agile journey, and understanding its purpose is crucial for maximising the value we deliver in the next Sprint.
 
 ### The Purpose of the Sprint Review
 
-At its core, the Sprint Review is about gathering the best possible information from stakeholders. This ensures that our product backlog is in the best possible state, ready to guide our next steps. Here’s what we aim to achieve:
+At its core, the Sprint Review is about gathering the best possible information from stakeholders. This ensures that our [product backlog]({{< ref "/tags/product-backlog" >}}) is in the best possible state, ready to guide our next steps. Here’s what we aim to achieve:
 
 - **Absorb Information**: We need to synthesise what we've accomplished over the last two weeks, alongside insights from the business and market.
 - **Update the Product Backlog**: By the end of the review, our backlog should reflect the most current and relevant information, setting us up for success in the next Sprint.
 
 ### Who Should Lead the Sprint Review?
 
-Now, let’s tackle the question of leadership. Who is accountable for delivering value? The answer is clear: the Product Owner. 
+Now, let’s tackle the question of [leadership]({{< ref "/categories/leadership" >}}). Who is accountable for delivering value? The answer is clear: the [Product Owner]({{< ref "/tags/product-owner" >}}). 
 
-- **Accountability**: The Product Owner is responsible for maximising the value of the work done by the Scrum Team. This makes them the ideal candidate to lead the Sprint Review.
+- **Accountability**: The Product Owner is responsible for maximising the value of the work done by the [Scrum Team]({{< ref "/tags/scrum-team" >}}). This makes them the ideal candidate to lead the Sprint Review.
 - **Facilitation**: While anyone on the team can facilitate the review, it’s often the Product Owner who is best positioned to extract valuable insights from stakeholders. They have a vested interest in ensuring the review is as productive as possible.
 
 ### Structuring the Sprint Review
@@ -94,4 +90,4 @@ In summary, while the Product Owner is typically the one leading the Sprint Revi
 
 I encourage you to experiment with different structures and approaches to find what works best for your team. Remember, the goal is to leave the Sprint Review with a clear, updated product backlog and a shared understanding of our next steps.
 
-If you found this discussion helpful, please like, follow, and subscribe. I’m always eager to engage with fellow Agile enthusiasts, so feel free to book a coffee chat with me through Naked Agility. Let’s continue to explore the fascinating world of Agile, Scrum, and DevOps together!
+If you found this discussion helpful, please like, follow, and subscribe. I’m always eager to engage with fellow Agile enthusiasts, so feel free to book a coffee chat with me through Naked Agility. Let’s continue to explore the fascinating world of Agile, Scrum, and [DevOps]({{< ref "/categories/devops" >}}) together!

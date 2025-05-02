@@ -29,9 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Planning
-- Agile Product Management
-- Product Delivery
 resourceTypes:
 - video
 layout: video
@@ -39,7 +36,7 @@ categories:
 - Product Development
 
 ---
-**What is a product backlog?**
+**What is a [product backlog]({{< ref "/tags/product-backlog" >}})?**
 
 Demystifying the Product Backlog 📝
 
@@ -49,7 +46,7 @@ Let's start off with a pretty official explanation of a product backlog. 
 
 A product backlog serves as a roadmap, guiding our development team's efforts by prioritising tasks. Not only does it help us visualise our goals, but it also provides an opportunity to foster collaboration and creativity as the team brainstorms on how to transform these envisioned functionalities into reality.
 
-But if you're new to Scrum, let's get into the basics of a product backlog.  📌
+But if you're new to [Scrum]({{< ref "/categories/scrum" >}}), let's get into the basics of a product backlog.  📌
 
 A product backlog is a list of features or improvements we envision for our product - things we want our product to do that it doesn't yet.
 
@@ -67,7 +64,7 @@ Allow me to fill you in on some essential points to remember about what is invol
 
 - The key essence of a product backlog is 'understanding'. Everyone should understand every item, from stakeholders and product owners to team members. If they don't, it's time to reconsider whether what you have is a product backlog at all! 🤔
 
-Are you struggling to create or maintain a lean and efficient product backlog?
+Are you struggling to create or maintain a [lean]({{< ref "/categories/lean" >}}) and efficient product backlog?
 
 Sign up for my Agile and Scrum courses and let's clear up the product backlog confusion together. 🎯
 

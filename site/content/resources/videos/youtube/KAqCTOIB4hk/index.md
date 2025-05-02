@@ -36,16 +36,6 @@ tags:
 - Continuous Learning
 - Evidence Based Leadership
 - Pragmatic Thinking
-- Competence
-- Current Value
-- Agile Product Management
-- Coaching
-- Decision Making
-- Evidence Based Management
-- Organisational Agility
-- Organisational Change
-- Sociotechnical Systems
-- Value Delivery
 resourceTypes:
 - video
 categories:
@@ -53,7 +43,7 @@ categories:
 - Product Development
 
 ---
-In today's fast-paced business environment, continuous learning is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.
+In today's fast-paced business environment, [continuous learning]({{< ref "/tags/continuous-learning" >}}) is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.
 
 ## **What is Immersive Learning?**
 
@@ -71,7 +61,7 @@ Immersive learning is about more than just delivering content; it’s a holistic
 
 One of the most powerful aspects of immersive learning is its focus on outcome-based assignments. After each learning session, participants are tasked with applying what they’ve learned to their own organizations. This is where the real magic happens—it's not just about acquiring knowledge; it's about using that knowledge to drive meaningful change.
 
-### **Example: Product Management in Sri Lanka**
+### **Example: [Product Management]({{< ref "/categories/product-management" >}}) in Sri Lanka**
 
 Let me share a personal example to illustrate this. Recently, I conducted the third session of a product management mentorship program for a company in Sri Lanka. During this session, we focused on the concept of value—how to understand it, measure it, and communicate it effectively.
 
@@ -87,7 +77,7 @@ Understanding and measuring value is crucial in product management, but it’s o
 
 ### **The Pitfalls of Vanity Metrics:**
 
-- **Velocity**: It’s easy to get caught up in the speed of work, but does a higher velocity truly indicate better value delivery?
+- **Velocity**: It’s easy to get caught up in the speed of work, but does a higher velocity truly indicate better [value delivery]({{< ref "/tags/value-delivery" >}})?
 
 - **Story Points**: While useful in some contexts, story points can sometimes become a goal in themselves rather than a means to an end.
 
@@ -117,7 +107,7 @@ Reflective sessions are a cornerstone of the immersive learning approach. After 
 
 - **Problem-Solving**: As a group, we explore potential solutions to the challenges they encountered.
 
-- **Continuous Improvement**: The goal is not just to solve immediate problems but to foster a mindset of continuous improvement. Over time, participants become more adept at identifying opportunities for growth and implementing effective changes.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: The goal is not just to solve immediate problems but to foster a mindset of continuous improvement. Over time, participants become more adept at identifying opportunities for growth and implementing effective changes.
 
 ## **Overcoming Challenges in Product Management**
 

@@ -34,10 +34,6 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Agile Product Management
-- Evidence Based Management
-- Agile Philosophy
-- Metrics and Learning
 resourceTypes:
 - video
 categories:
@@ -86,7 +82,7 @@ Pride can lead us to focus on vanity metrics, those that look good on paper but 
 
 **Conclusion**  
 
-In Agile, pride must be tempered with humility and a commitment to continuous learning. 🌱 Embrace a culture where feedback is valued over ego, where data drives decisions, and where failures are seen as opportunities to grow. 
+In Agile, pride must be tempered with humility and a commitment to [continuous learning]({{< ref "/tags/continuous-learning" >}}). 🌱 Embrace a culture where feedback is valued over ego, where data drives decisions, and where failures are seen as opportunities to grow. 
 
 - **Embrace Humility:** Stay open to learning and feedback. 
 

@@ -28,21 +28,18 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
-- Pragmatic Thinking
-- Competence
-- Personal
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **How does someone become an Agile consultant?**
 
 ## Navigating the Journey to Becoming an Agile Consultant
 
-Being an Agile and Scrum coach, the question, "How does someone become and Agile consultant," is a pretty popular one, and I'd like to add that this isn't an easy question to answer, as the journey to becoming an Agile Consultant isn't at all a straightforward path and is different for everyone. 🌱
+Being an Agile and [Scrum]({{< ref "/categories/scrum" >}}) coach, the question, "How does someone become and Agile consultant," is a pretty popular one, and I'd like to add that this isn't an easy question to answer, as the journey to becoming an Agile Consultant isn't at all a straightforward path and is different for everyone. 🌱
 
 As this is such an important question, I believe this article is essential as I explain the process, detailing how one goes from being a professional in a specific field to a competent and effective Agile Consultant.
 
@@ -60,7 +57,7 @@ I'd also like to point out here that your journey to becoming an Agile Consultan
 
 ### Expertise is Key
 
-As with any profession being an Agile Consultant experience is crucial.  Agile, just like Lean, is not the main event, but it is part of the process. You need to be competent in the work you're focusing on and then integrate Agile practices. The same applies to Lean. The crux here is that you should be adept in the actual work that you're doing.
+As with any profession being an Agile Consultant experience is crucial.  Agile, just like [Lean]({{< ref "/categories/lean" >}}), is not the main event, but it is part of the process. You need to be competent in the work you're focusing on and then integrate Agile practices. The same applies to Lean. The crux here is that you should be adept in the actual work that you're doing.
 
 Once you've achieved this, only then can you apply Agile or Lean methodologies and be recognised by others around you as someone who understands these practices well and can confidently become an Agile Consultant. 🔑
 
@@ -72,7 +69,7 @@ Don't underestimate the encouragement from those around you.  Being recognised 
 
 ### Building Foundations
 
-I want to stress that my background is in software development, so I must highlight that your Agile Consultant journey should start within your field of expertise. And I cannot stress the danger of taking on a role as an Agile consultant in an industry that you are unfamiliar with.
+I want to stress that my background is in [software development]({{< ref "/tags/software-development" >}}), so I must highlight that your Agile Consultant journey should start within your field of expertise. And I cannot stress the danger of taking on a role as an Agile consultant in an industry that you are unfamiliar with.
 
 Here's a perfect example, I have never worked in a car factory, so it would not make sense for me to serve as an Agile consultant within that particular industry.
 
@@ -88,7 +85,7 @@ You should discern how these methodologies impact and affect your particular are
 
 Allow me to share an intriguing experience I had in 2016 while conducting training for the Ghana Police Service.   As you can imagine, this training area was entirely new for me and I had no idea how to train anyone in the police service.
 
-Thank goodness the training was not related to software but focused on how Scrum could be used for enacting organisational change.
+Thank goodness the training was not related to software but focused on how Scrum could be used for enacting [organisational change]({{< ref "/tags/organisational-change" >}}).
 
 This experience shows the benefits and application of Agile that can be effective in any industry worldwide.  While I did have a very limited knowledge of policing, it was fascinating and inspiring to me to see the attendees trying to contextualise Agile principles in their line of work.  🌍
 

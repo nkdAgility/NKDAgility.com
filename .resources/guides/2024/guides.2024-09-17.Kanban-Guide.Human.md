@@ -38,14 +38,11 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
-- Cycle Time
-- Continuous Improvement
-- Metrics and Learning
 
 ---
 December 2020
 
-By reducing Kanban to its essential components, the hope is that this guide will be a unifying reference for the community. By building upon Kanban fundamentals, the strategy presented here can accommodate the full spectrum of value delivery and organizational challenges.
+By reducing [Kanban]({{< ref "/categories/kanban" >}}) to its essential components, the hope is that this guide will be a unifying reference for the community. By building upon Kanban fundamentals, the strategy presented here can accommodate the full spectrum of [value delivery]({{< ref "/tags/value-delivery" >}}) and organizational challenges.
 {: .lead}
 
 Any use of the word Kanban in this document specifically means the holistic set of concepts in this guide.
@@ -69,13 +66,13 @@ Central to the definition of Kanban is the concept of flow. Flow is the movement
 - An effective workflow is one that delivers what customers want when they want it.
 - An efficient workflow allocates available economic resources as optimally as possible to deliver value.
 - A predictable workflow means being able to accurately forecast value delivery within an acceptable degree of uncertainty.
-- The strategy of Kanban is to get members to ask the right questions sooner as part of a continuous improvement effort in pursuit of these goals. Only by finding a sustainable balance among these three elements can value optimization be achieved.
+- The strategy of Kanban is to get members to ask the right questions sooner as part of a [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) effort in pursuit of these goals. Only by finding a sustainable balance among these three elements can value optimization be achieved.
 
 Because Kanban can work with virtually any workflow, its application is not limited to any one industry or context. Professional knowledge workers, such as those in finance, marketing, healthcare, and software (to name a few), have benefited from Kanban practices.
 
 ## Kanban Theory
 
-Kanban draws on established flow theory, including but not limited to: systems thinking, lean principles, queuing theory (batch size and queue size), variability, and quality control. Continually improving a Kanban system over time based on these theories is one way that organizations can attempt to optimize the delivery of value.
+Kanban draws on established flow theory, including but not limited to: [systems thinking]({{< ref "/tags/systems-thinking" >}}), [lean]({{< ref "/categories/lean" >}}) principles, queuing theory (batch size and queue size), variability, and quality control. Continually improving a Kanban system over time based on these theories is one way that organizations can attempt to optimize the delivery of value.
 
 The theory upon which Kanban is based is also shared by many existing value-oriented methodologies and frameworks. Because of these similarities, Kanban can and should be used to augment those delivery techniques.
 
@@ -94,7 +91,7 @@ Optimizing flow requires defining what flow means in a given context. The explic
 - Explicit policies about how work items can flow through each state from started to finished.
 - A service level expectation (SLE), which is a forecast of how long it should take a work item to flow from started to finished.
 
-Kanban system members often require additional DoW elements such as values, principles, and working agreements depending on the team’s circumstances. The options vary, and there are resources beyond this guide that can help with deciding which ones to incorporate.
+Kanban system members often require additional DoW elements such as values, principles, and [working agreements]({{< ref "/tags/working-agreements" >}}) depending on the team’s circumstances. The options vary, and there are resources beyond this guide that can help with deciding which ones to incorporate.
 
 The visualization of the DoW is called a Kanban board. Making at least the minimum elements of DoW transparent on the Kanban board is essential to processing knowledge that informs optimal workflow operation and facilitates continuous process improvement.
 
@@ -121,7 +118,7 @@ Controlling WIP not only helps workflow but often also improves the Kanban syste
 
 ### Service Level Expectation
 
-The SLE is a forecast of how long it should take a single work item to flow from started to finished. The SLE itself has two parts: a period of elapsed time and a probability associated with that period (e.g., “85% of work items will be finished in eight days or less”). The SLE should be based on historical cycle time, and once calculated, should be visualized on the Kanban board. If historical cycle time data does not exist, a best guess will do until there is enough historical data for a proper SLE calculation.
+The SLE is a forecast of how long it should take a single work item to flow from started to finished. The SLE itself has two parts: a period of elapsed time and a probability associated with that period (e.g., “85% of work items will be finished in eight days or less”). The SLE should be based on historical [cycle time]({{< ref "/tags/cycle-time" >}}), and once calculated, should be visualized on the Kanban board. If historical cycle time data does not exist, a best guess will do until there is enough historical data for a proper SLE calculation.
 
 ## Improving the Workflow
 
@@ -136,7 +133,7 @@ The application of Kanban requires the collection and analysis of a minimum set 
 The four mandatory flow measures to track are:
 
 - **WIP**: The number of work items started but not finished.
-- **Throughput**: The number of work items finished per unit of time. Note the measurement of throughput is the exact count of work items.
+- **[Throughput]({{< ref "/tags/throughput" >}})**: The number of work items finished per unit of time. Note the measurement of throughput is the exact count of work items.
 - **Work Item Age**: The amount of elapsed time between when a work item started and the current time.
 - **Cycle Time**: The amount of elapsed time between when a work item started and when a work item finished.
 - For these mandatory four flow measures, started and finished refer to how the Kanban system members have defined those terms in the DoW.

@@ -30,11 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Remote Working
-- Pragmatic Thinking
-- Team Collaboration
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.
@@ -57,7 +56,7 @@ If you asked, which of the formats is better and which would you rather particip
 
 <figcaption>
 
-How effective is scrum training via digital delivery? Is it as good as the in-person courses?
+How effective is [scrum]({{< ref "/categories/scrum" >}}) training via digital delivery? Is it as good as the in-person courses?
 
 </figcaption>
 
@@ -69,7 +68,7 @@ How effective is scrum training via digital delivery? Is it as good as the in-pe
 
 When I train, I use many different training techniques to help the material land and transform the delegate who is attending the course into a competent, capable agile practitioner.
 
-I use ‘training from the back of the room’ techniques, I use ‘training from liberating structures’, and my own techniques developed over years of teaching, coaching, and mentoring others. Using those techniques, you can get 90% of the way you would if you were delivering in-person classes.
+I use ‘training from the back of the room’ techniques, I use ‘training from [liberating structures]({{< ref "/tags/liberating-structures" >}})’, and my own techniques developed over years of teaching, [coaching]({{< ref "/tags/coaching" >}}), and [mentoring]({{< ref "/tags/mentoring" >}}) others. Using those techniques, you can get 90% of the way you would if you were delivering in-person classes.
 
 ## Added benefits of the digital space.
 

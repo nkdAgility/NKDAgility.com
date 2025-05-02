@@ -35,16 +35,6 @@ tags:
 - Increment
 - Agile Philosophy
 - Product Delivery
-- Ability to Innovate
-- Evidence Based Leadership
-- Agile Strategy
-- Business Agility
-- Continuous Improvement
-- Lean Startup
-- Organisational Agility
-- Release Management
-- Frequent Releases
-- Agile Values and Principles
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
@@ -54,7 +44,7 @@ Value is such a subjective thing that we will often be wrong, and there is no wa
 
 As a start we can collect some qualitative data to validate some of our assumptions:
 
-- **Customer Satisfaction** - is a key measure as it is an indication of the happiness of your users with the features that you currently have in your product.
+- **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})** - is a key measure as it is an indication of the happiness of your users with the features that you currently have in your product.
 - **Product Usage** - Its key to see just how much of our product is being used by our users. There is no point in trying to add features to areas that are not being used. Features are only valuable if they fulfil some need for users and the business and usage is a key indicator of value.
 - **Employee Satisfaction** - is another key indicator. If our employees feel that they understand how their work contributes to the overall product vision then they will leverage that focus and understanding towards building a better product.
 
@@ -66,7 +56,7 @@ The only way to validate our assumptions is to get our perceived value in front 
 
 ## Releasing is the only way to deliver value
 
-Without getting our increment in front of those real-users we also don't have any value. Its effectively sitting on our shelf in the warehouse and is depreciating. What is the cost of delay for your feature? If you could get this value, this new business feature, into the hands of real users and make their lives easier how much money would you save? You cant save that money until users can actually use that feature.
+Without getting our [increment]({{< ref "/tags/increment" >}}) in front of those real-users we also don't have any value. Its effectively sitting on our shelf in the warehouse and is depreciating. What is the cost of delay for your feature? If you could get this value, this new business feature, into the hands of real users and make their lives easier how much money would you save? You cant save that money until users can actually use that feature.
 
 ## A financial reason to release early
 

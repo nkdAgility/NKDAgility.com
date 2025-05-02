@@ -35,11 +35,11 @@ categories:
 - DevOps
 
 ---
-When it comes to DevOps migrations, one of the most critical aspects to consider is data integrity. I’ve seen firsthand how organisations grapple with the balance between maintaining the fidelity of their data and achieving the flexibility they desire during the migration process. It’s a nuanced dance, and understanding the implications of each choice is vital.
+When it comes to [DevOps]({{< ref "/categories/devops" >}}) migrations, one of the most critical aspects to consider is data integrity. I’ve seen firsthand how organisations grapple with the balance between maintaining the fidelity of their data and achieving the flexibility they desire during the migration process. It’s a nuanced dance, and understanding the implications of each choice is vital.
 
 ### Understanding Data Integrity in DevOps Migrations
 
-In my experience, the architecture of your existing system plays a significant role in how you approach migration. For instance, if your DevOps setup is based on TFS (Team Foundation Server), you’re dealing with a database-centric architecture. This means you have a comprehensive database filled with valuable data. When migrating to Azure DevOps Services in the cloud, you have a couple of options:
+In my experience, the architecture of your existing system plays a significant role in how you approach migration. For instance, if your DevOps setup is based on TFS (Team Foundation Server), you’re dealing with a database-centric architecture. This means you have a comprehensive database filled with valuable data. When migrating to [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Services in the cloud, you have a couple of options:
 
 - **Full Database Migration**: This is where you take the entire database as it is, ensuring the highest fidelity possible. You’re effectively lifting and shifting everything into the new environment without losing any data. This method is straightforward but may not be practical for many organisations.
 

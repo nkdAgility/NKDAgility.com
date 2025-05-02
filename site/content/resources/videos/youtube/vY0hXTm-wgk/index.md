@@ -27,16 +27,14 @@ isShort: false
 tags:
 - Continuous Learning
 - Coaching
-- Continuous Improvement
-- Organisational Culture
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 At Naked Agility Limited, we are passionate about fostering an environment where individuals and teams can evolve, integrate, and continuously improve. Our approach to training is designed to reflect this ethos, and I want to share how we do it.
@@ -46,24 +44,24 @@ At Naked Agility Limited, we are passionate about fostering an environment where
 One of the key elements of our training courses is the **flipped learning approach**. This method allows us to focus on reflection and practice during our classroom sessions. Here’s how it works:
 
 - **Self-Study Materials**: We provide a wealth of resources, including videos, reading materials, and writing activities, all organised into **Learning Blocks**. This enables participants to engage with the theory at their own pace before coming to class.
-- **Interactive Workshops**: Our half-day virtual sessions, conducted via Microsoft Teams, create a dynamic environment. Here, we dive deep into core concepts through group activities and shared experiences, all guided by expert professionals, including **Professional Kanban Trainers** and **Microsoft MVPs**.
+- **Interactive Workshops**: Our half-day virtual sessions, conducted via Microsoft Teams, create a dynamic environment. Here, we dive deep into core concepts through group activities and shared experiences, all guided by expert professionals, including **Professional [Kanban]({{< ref "/categories/kanban" >}}) Trainers** and **Microsoft MVPs**.
 
 ### The Power of Engagement
 
 The combination of self-study and interactive workshops ensures that our students not only gain new knowledge but also engage in meaningful discussions that enhance their learning experience. This method has proven to be effective, as it allows for:
 
 - **In-Depth Understanding**: Participants leave the course equipped to tackle the globally recognised certification exam included in the course fee.
-- **Personalised Support**: Each participant receives a **30-minute learning review** and a **60-minute coaching session**, ensuring that they have the support they need to succeed.
+- **Personalised Support**: Each participant receives a **30-minute learning review** and a **60-minute [coaching]({{< ref "/tags/coaching" >}}) session**, ensuring that they have the support they need to succeed.
 
 ### Building a People-First Culture
 
 At Naked Agility, we believe in the transformative power of a happy and motivated workforce. Our training is designed to shift mindsets towards a **people-first culture**. Here’s what this looks like in practice:
 
 - **Encouragement to Learn and Grow**: We foster an environment where everyone is encouraged to support one another in their learning journeys. This collaborative spirit leads to **divergent thinking**, generating a wealth of ideas and opportunities for organisational success.
-- **Community Access**: All participants gain complimentary access to the premium **Professional Scrum space** within our public community, the **League of Extraordinary Agile Practitioners**. This community is a fantastic resource for ongoing learning and networking.
+- **Community Access**: All participants gain complimentary access to the premium **Professional [Scrum]({{< ref "/categories/scrum" >}}) space** within our public community, the **League of Extraordinary Agile Practitioners**. This community is a fantastic resource for ongoing learning and networking.
 
 ### Join Us on This Journey
 
-I invite you to explore our training offerings and see how we can help you or your team thrive. The journey towards agility is one of continuous improvement, and I hope to see you there. Click the link below to find out more about our courses and how we can support your growth.
+I invite you to explore our training offerings and see how we can help you or your team thrive. The journey towards agility is one of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), and I hope to see you there. Click the link below to find out more about our courses and how we can support your growth.
 
 In conclusion, at Naked Agility Limited, we are committed to creating a learning experience that not only imparts knowledge but also inspires a culture of collaboration and growth. Together, we can unlock the potential within your teams and drive success in your organisation.

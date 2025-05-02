@@ -36,15 +36,6 @@ tags:
 - Frequent Releases
 - Agile Transformation
 - Market Adaptability
-- Organisational Agility
-- Customer Feedback Loops
-- Agile Planning
-- Empirical Process Control
-- Agile Philosophy
-- Agile Strategy
-- Automated Testing
-- Engineering Practices
-- Product Validation
 categories:
 - Product Development
 - Engineering Excellence
@@ -56,19 +47,19 @@ It baffles me how some agile teams, who claim to be the pioneers of modernity, a
 
 **TL;DR;**
 
-The only way to mitigate risk when employing Agile practices is by continuously delivering a usable working product. Agile is not about spinning the hamster wheels but delivering shippable increments that users can interact with. A fortress of documentation can’t protect you from the market’s ever-changing demands. Feedback loops, value delivery, and engineering excellence are your protection in agile product delivery.
+The only way to mitigate risk when employing Agile practices is by continuously delivering a usable working product. Agile is not about spinning the hamster wheels but delivering shippable increments that users can interact with. A fortress of documentation can’t protect you from the market’s ever-changing demands. Feedback loops, [value delivery]({{< ref "/tags/value-delivery" >}}), and [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) are your protection in agile [product delivery]({{< ref "/tags/product-delivery" >}}).
 
 Let’s get down to brass tacks.
 
 **Usable Working Product is Your Silver Bullet**
 
-When I say "usable working product," I mean a gleaming software increment that is free from known glitches and worthy of release. The agile realm is not a place for code maestros who build fanciful algorithms that never see the light of day. It’s about Developers who can craft a functional product that actual users can validate and provide feedback on.
+When I say "usable working product," I mean a gleaming software [increment]({{< ref "/tags/increment" >}}) that is free from known glitches and worthy of release. The agile realm is not a place for code maestros who build fanciful algorithms that never see the light of day. It’s about Developers who can craft a functional product that actual users can validate and provide feedback on.
 
 But wait! The naysayers will say, "What about documentation? Isn’t that important too?" Of course, documentation is vital, but let’s not build the Great Wall of China with it! Excessive documentation in Agile is like wearing a suit of armour to run a marathon – ridiculously cumbersome and defeating the purpose.
 
 ### **Just fix the Bugs FFS!**
 
-Imagine a ship with a tiny hole in its hull. Ignore it, and soon you’ll find yourself in an unsolicited swimming lesson. Known errors or exceptions are those tiny holes. If you discover a bug, get your toolset out and patch it up. Too big? Bring it to the Product Owner’s attention and prioritise its fix. Having a “manage-the-bug” mentality is like welcoming water into the ship.
+Imagine a ship with a tiny hole in its hull. Ignore it, and soon you’ll find yourself in an unsolicited swimming lesson. Known errors or exceptions are those tiny holes. If you discover a bug, get your toolset out and patch it up. Too big? Bring it to the [Product Owner]({{< ref "/tags/product-owner" >}})’s attention and prioritise its fix. Having a “manage-the-bug” mentality is like welcoming water into the ship.
 
 Just fix them.
 
@@ -88,7 +79,7 @@ Manual tests in Agile are like trying to catch bullets with your teeth – utter
 
 > “The reason you don't have time to write fast automated tests for your code is because you didn't write fast automated tests for your code.” – Jason Gorman, Codemanship Ltd.
 
-### **Keep It Lean and Mean**
+### **Keep It [Lean]({{< ref "/categories/lean" >}}) and Mean**
 
 It’s a battlefield out there. The markets are evolving faster than ever before. Your protection in this ruthless world is a lean, mean, and functional product. It’s not about delivering a magnum opus in one go; it’s about iterative development that aligns with the market demands. You need to be swift, adaptive and focused. Trim down the documentation, automate your processes, and concentrate on delivering a product ready to face the real world.
 

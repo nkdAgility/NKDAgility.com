@@ -45,11 +45,6 @@ tags:
 - Systems Thinking
 - Agile Strategy
 - Operational Practices
-- Agile Frameworks
-- Agile Leadership
-- Business Agility
-- Metrics and Learning
-- Organisational Culture
 resourceTypes:
 - video
 categories:
@@ -118,7 +113,7 @@ This happens because **Agile** isn’t just a set of ceremonies or rituals. It r
 
 ### **Agile Isn’t a Magic Fix**
 
-Agile doesn’t magically make your organization better. It’s about **systematic and continuous improvement**—taking small steps in some cases, but also being willing to make **big jumps** when necessary.
+Agile doesn’t magically make your organization better. It’s about **systematic and [continuous improvement]({{< ref "/tags/continuous-improvement" >}})**—taking small steps in some cases, but also being willing to make **big jumps** when necessary.
 
 The question is, do you have the **courage** to make those changes? 🚀
 

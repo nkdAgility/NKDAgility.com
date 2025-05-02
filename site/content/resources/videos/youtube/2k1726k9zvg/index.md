@@ -28,12 +28,6 @@ tags:
 - Software Development
 - Scrum Master
 - Professional Scrum
-- Agile Frameworks
-- Scrum Team
-- Pragmatic Thinking
-- Competence
-- Personal
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,7 +40,7 @@ categories:
 - Scrum
 
 ---
-When I’m asked about the difference between a newbie Scrum Master and a professional Scrum Master, I can’t help but feel that neither of those labels truly captures the essence of what it means to be a Scrum Master. In my experience, the term "newbie" implies a lack of competence, but that’s simply not the case. When you step into the role of a Scrum Master, you’ve already demonstrated a level of effectiveness within your team. You’re not just a novice; you’re taking on an important accountability that requires skill and understanding.
+When I’m asked about the difference between a newbie [Scrum]({{< ref "/categories/scrum" >}}) Master and a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master, I can’t help but feel that neither of those labels truly captures the essence of what it means to be a [Scrum Master]({{< ref "/tags/scrum-master" >}}). In my experience, the term "newbie" implies a lack of [competence]({{< ref "/tags/competence" >}}), but that’s simply not the case. When you step into the role of a Scrum Master, you’ve already demonstrated a level of effectiveness within your team. You’re not just a novice; you’re taking on an important accountability that requires skill and understanding.
 
 ### The Myth of the Newbie Scrum Master
 
@@ -71,10 +65,10 @@ It’s crucial to understand what being a Scrum Master is not. It’s not about 
 Instead, a professional Scrum Master focuses on:
 
 - **Facilitating Effectiveness**: Your job is to help your team become more effective. This means identifying obstacles and working to remove them, rather than adding to the workload.
-- **Continuous Improvement**: Always look for ways to improve processes and practices within your team. This is where the real value lies.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Always look for ways to improve processes and practices within your team. This is where the real value lies.
 
 ### Conclusion
 
 In summary, whether you’re just starting out or have been in the role for years, the key is to embrace the responsibilities of a Scrum Master with a professional mindset. It’s not about titles or labels; it’s about the impact you have on your team and organisation. 
 
-If you found this discussion helpful, I encourage you to engage with me further. I always welcome comments and questions, and if you’d like to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Let’s continue the conversation and explore how we can all become more effective in our roles.
+If you found this discussion helpful, I encourage you to engage with me further. I always welcome comments and questions, and if you’d like to chat about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Let’s continue the conversation and explore how we can all become more effective in our roles.

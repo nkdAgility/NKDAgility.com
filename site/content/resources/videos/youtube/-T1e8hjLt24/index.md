@@ -34,10 +34,11 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-If you're reading this, congratulations! You’re already part of the top 10%. It’s a bold statement, but one I firmly believe in. The reality is that only a small fraction of people actively engage in continuous learning, exploring new techniques, and diving into various topics. Whether it’s something cutting-edge or a classic like "Crossing the Chasm," the key is to keep your mind open and your curiosity alive.
+If you're reading this, congratulations! You’re already part of the top 10%. It’s a bold statement, but one I firmly believe in. The reality is that only a small fraction of people actively engage in [continuous learning]({{< ref "/tags/continuous-learning" >}}), exploring new techniques, and diving into various topics. Whether it’s something cutting-edge or a classic like "Crossing the Chasm," the key is to keep your mind open and your curiosity alive.
 
 ### The Importance of Continuous Learning
 
@@ -57,7 +58,7 @@ So, how do you ensure you remain in that elite group? Here are some practical st
 
 3. **Engage with the Community**: Join forums, attend webinars, or participate in local meetups. Engaging with others not only exposes you to new ideas but also allows you to share your knowledge and experiences.
 
-4. **Experiment**: Don’t be afraid to try new techniques or tools. Whether it’s a new programming language or a different project management approach, experimentation can lead to unexpected breakthroughs.
+4. **Experiment**: Don’t be afraid to try new techniques or tools. Whether it’s a new programming language or a different [project management]({{< ref "/tags/project-management" >}}) approach, [experimentation]({{< ref "/tags/experimentation" >}}) can lead to unexpected breakthroughs.
 
 5. **Reflect on Your Learning**: Take time to digest what you’ve read or learned. Consider how it applies to your work and how you can implement it in your projects. Reflection solidifies knowledge and enhances retention.
 

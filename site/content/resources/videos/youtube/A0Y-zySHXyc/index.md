@@ -29,14 +29,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Scrum Team
-- Professional Scrum
-- Personal
-- Pragmatic Thinking
-- Product Owner
-- Sociotechnical Systems
+tags: []
 resourceTypes:
 - video
 categories:
@@ -46,13 +39,13 @@ categories:
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 
 
-In the realm of software development, the relationship between developers and Product Owners is a critical one. Let's explore why sometimes this relationship is strained and how to mend it. 
+In the realm of [software development]({{< ref "/tags/software-development" >}}), the relationship between developers and Product Owners is a critical one. Let's explore why sometimes this relationship is strained and how to mend it. 
 
 ## Accountability: The Silent Culprit 🕵️‍♂️ 
 
 Understanding accountability is key in dissecting the relationship between developers and Product Owners. We'll delve into how its absence can create barriers. 
 
-## Other Influencers Undermining the Product Owner 
+## Other Influencers Undermining the [Product Owner]({{< ref "/tags/product-owner" >}}) 
 
 - **Senior Intervention**: Senior figures may inadvertently disrupt the Product Owner's authority. 
 
@@ -68,7 +61,7 @@ When a Product Owner's authority is undermined, it triggers a chain reaction. Le
 
 - **Second Guessing**: Decisions made by the Product Owner may be scrutinised unnecessarily. 
 
-## The Struggle of Ownership and Decision Making 💼 
+## The Struggle of Ownership and [Decision Making]({{< ref "/tags/decision-making" >}}) 💼 
 
 Balancing ownership and decision-making is an art and a challenge. Let's uncover the struggles that occur when the balance tips. 
 
@@ -84,7 +77,7 @@ Aligning accountability with ownership is pivotal. Let's explore how these two a
 
 ## Cultivating Trust and Credibility 
 
-- **Open Communication**: Transparency can prevent misunderstandings. 
+- **Open Communication**: [Transparency]({{< ref "/tags/transparency" >}}) can prevent misunderstandings. 
 
 - **Consistency is Key**: Regular support for the Product Owner's decisions strengthens their position. 
 

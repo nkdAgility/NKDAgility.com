@@ -39,11 +39,6 @@ tags:
 - Continuous Improvement
 - Agile Frameworks
 - Agile Planning
-- Agile Strategy
-- Trend Analysis
-- Market Adaptability
-- Agile Values and Principles
-- Enterprise Agility
 categories:
 - Engineering Excellence
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
@@ -56,10 +51,10 @@ Did you know that the DOD has made it illegal to do waterfall? Well, kind of... 
 The benefits of working in an iterative agile process are now painfully obvious to both the FBI as a result of Sentinel and partly as a result to the US DOD.
 
 - **Higher success rate** – you are three times more likely to be successful with agile
-- **Cost Effective** – As you always have working software you can stop at any time without waste
+- **Cost Effective** – As you always have [working software]({{< ref "/tags/working-software" >}}) you can stop at any time without waste
 - **Low Risk** – You only ever have one short iteration of risk at a time.
 
-In the UK we have government-wide lean-agile initiatives that are producing awesome results already and in the USA lean-agile has effectively become the law.
+In the UK we have government-wide [lean]({{< ref "/categories/lean" >}})-agile initiatives that are producing awesome results already and in the USA lean-agile has effectively become the law.
 
 > - **Deliver Early and Often** - This principle is aimed at changing the culture from one that is focused typically on a single delivery to a new model that comprises multiple deliveries to establish an environment that supports deployed capabilities every 12 to 18 months.
 > - **Incremental and Iterative Development and Testing** - This principle embraces the concept that incremental and iterative development and testing, including the use of prototyping, yield better outcomes than trying to deploy large complex IT network systems in one "Big Bang."
@@ -94,7 +89,7 @@ One of the defining projects of the last 10 years that has resulted in this chan
 
 ## The impact of the Sentinal project failure, and success
 
-I created this presentation based on work that I have done with Scrum.org and I use it at organisations that have a little more inflexibility and stubbornness than most. Usually, at these customers I hear phrases like “You cant do that here.” and “We are not a software company.” Thus looking at the FBI is a good one as it is not software and government. If the government can do agile then by golly everyone can.
+I created this presentation based on work that I have done with [Scrum]({{< ref "/categories/scrum" >}}).org and I use it at organisations that have a little more inflexibility and stubbornness than most. Usually, at these customers I hear phrases like “You cant do that here.” and “We are not a software company.” Thus looking at the FBI is a good one as it is not software and government. If the government can do agile then by golly everyone can.
 
 [![image](images/image_thumb2-2-2.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image2-9-9.png)
 { .post-img }
@@ -110,7 +105,7 @@ Although we still have a lot of challenged projects we can vastly reduce the fai
 [![image](images/image_thumb3-3-3.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image3-10-10.png)
 { .post-img }
 
-Can you imagine a green screen terminal application delivered in 1995? Just to put it in perspective, Windows 95 was available. Hell, my Atari has a graphical UI. Well the FBI launched their obsolete criminal records system in1995 and used technology that was museum quality at launch. This is all to common with projects that take many years to complete and even more so on government projects.
+Can you imagine a green screen terminal application delivered in 1995? Just to put it in perspective, [Windows]({{< ref "/tags/windows" >}}) 95 was available. Hell, my Atari has a graphical UI. Well the FBI launched their obsolete criminal records system in1995 and used technology that was museum quality at launch. This is all to common with projects that take many years to complete and even more so on government projects.
 
 So what happened next?
 

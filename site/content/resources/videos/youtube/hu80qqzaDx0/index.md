@@ -28,23 +28,17 @@ isShort: true
 tags:
 - Team Motivation
 - Team Performance
-- Social Technologies
-- Team Collaboration
-- Organisational Culture
-- Sociotechnical Systems
-- Employee Engagement
-- Evidence Based Leadership
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-In my journey through various organisations, I've come to realise a fundamental truth: the way we measure people profoundly influences their behaviour. This insight has been a game-changer for me, especially when navigating the complexities of team dynamics and organisational culture. 
+In my journey through various organisations, I've come to realise a fundamental truth: the way we measure people profoundly influences their behaviour. This insight has been a game-changer for me, especially when navigating the complexities of team dynamics and [organisational culture]({{< ref "/tags/organisational-culture" >}}). 
 
 When I encounter situations where someone seems disengaged or is working against the collective goals, I often find myself asking, "What metrics are at play here?" This question has led me to uncover some surprising truths about the underlying motivations of individuals within the organisation.
 
@@ -64,7 +58,7 @@ To foster a more engaged and collaborative environment, it’s crucial to align 
 
 - **Review Metrics**: Take a close look at the metrics being used to evaluate performance. Are they promoting the right behaviours? Are they encouraging teamwork and collaboration?
 
-- **Encourage Open Dialogue**: Create a culture where team members feel safe discussing the metrics and their implications. This transparency can lead to a better understanding of how to work together effectively.
+- **Encourage Open Dialogue**: Create a culture where team members feel safe discussing the metrics and their implications. This [transparency]({{< ref "/tags/transparency" >}}) can lead to a better understanding of how to work together effectively.
 
 - **Focus on Outcomes, Not Outputs**: Shift the focus from individual outputs to team outcomes. This can help create a sense of shared responsibility and encourage collaboration.
 

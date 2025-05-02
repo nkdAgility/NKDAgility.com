@@ -23,19 +23,13 @@ aliasesArchive:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-tags:
-- Agile Frameworks
-- Organisational Agility
-- Agile Philosophy
-- Agile Transformation
-- Business Agility
-- Organisational Change
-- Organisational Culture
-categories: []
+tags: []
+categories:
+- Uncategorized
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 
 ---
-These Sirens take advantage of the lack of understanding of what business agility is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.
+These Sirens take advantage of the lack of understanding of what [business agility]({{< ref "/tags/business-agility" >}}) is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.
 
 <figure>
 
@@ -86,7 +80,7 @@ Organisations have a lot in common with the animal kingdom. Animals evolve to fi
 
 The world is changing faster and faster and your organisation needs to embrace evolution. You need to be able to change to take advantage of new business opportunities as they arise and to do that you need a level of business agility that may astound you.
 
-> Fundamentally, the main “goal” of Software development is NOT to be « SAFE », it is to INNOVATE and CREATE. You do not create by not taking risks…
+> Fundamentally, the main “goal” of [Software development]({{< ref "/tags/software-development" >}}) is NOT to be « SAFE », it is to INNOVATE and CREATE. You do not create by not taking risks…
 
 ## Scaled Agile Framework is just Taylorism with an Agile lexicon
 
@@ -99,7 +93,7 @@ I talk often of the [tyranny of Taylorism](https://nkdagility.com/blog/live-webc
 
 <figcaption>
 
-SAFe® for Lean Enterprises 5.0
+SAFe® for [Lean]({{< ref "/categories/lean" >}}) Enterprises 5.0
 
 </figcaption>
 

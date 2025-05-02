@@ -22,17 +22,18 @@ aliases:
 - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /resources/jW4sFDdDkvn
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
+- /resources/blog/a-titanic-misfit-the-alpha-organization-s-wasteful-endeavor-in-red-markets
 aliasesArchive:
 - /blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 - /a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 - /a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /blog/a-titanic-misfit--the-alpha-organization's-wasteful-endeavor-in-red-markets
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
+- /resources/blog/a-titanic-misfit-the-alpha-organization-s-wasteful-endeavor-in-red-markets
 tags:
 - Beta Codex
-- Lean Principles
-- Lean Thinking
-categories: []
+categories:
+- Uncategorized
 preview: image-1.jpg
 
 ---

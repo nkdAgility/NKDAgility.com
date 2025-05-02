@@ -27,7 +27,6 @@ duration: 1906
 isShort: false
 tags:
 - Software Development
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,9 +37,9 @@ categories:
 - Scrum
 
 ---
-Hello, I’m Martin Hinshelwood, and today I want to share my insights on the Professional Scrum Foundations (PSF) class and the PSM I assessment. As someone deeply entrenched in the world of Agile and DevOps, I’ve had the privilege of teaching this class numerous times, and I can confidently say it’s one of my favourites. 
+Hello, I’m Martin Hinshelwood, and today I want to share my insights on the Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations (PSF) class and the PSM I assessment. As someone deeply entrenched in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I’ve had the privilege of teaching this class numerous times, and I can confidently say it’s one of my favourites. 
 
-### What is the Professional Scrum Foundations Class?
+### What is the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundations Class?
 
 The PSF class is designed to provide a solid foundation in Scrum principles and practices. It’s not just about theory; it’s about practical application. During the class, participants work in teams to tackle a shared backlog, which fosters collaboration and creativity. 
 
@@ -62,11 +61,11 @@ While I’ve managed to complete four sprints in person, virtual settings often 
 
 Throughout the PSF, we cover essential Scrum roles, accountabilities, and artifacts. My goal is to ensure that every participant leaves with a clear understanding of:
 
-- **Roles in Scrum**: We delve into the responsibilities of the Product Owner, Scrum Master, and Development Team, ensuring everyone knows what to expect from each role.
+- **Roles in Scrum**: We delve into the responsibilities of the [Product Owner]({{< ref "/tags/product-owner" >}}), [Scrum Master]({{< ref "/tags/scrum-master" >}}), and Development Team, ensuring everyone knows what to expect from each role.
 
-- **Artifacts and Transparency**: We discuss the importance of transparency in Scrum, using a visual representation of past, present, and future artifacts to illustrate their significance.
+- **Artifacts and [Transparency]({{< ref "/tags/transparency" >}})**: We discuss the importance of transparency in Scrum, using a visual representation of past, present, and future artifacts to illustrate their significance.
 
-- **Empirical Process Control**: Participants often discover practices they’ve been using that aren’t actually part of Scrum. This is a crucial learning moment, as it allows teams to focus on what truly matters in their Agile journey.
+- **[Empirical Process Control]({{< ref "/tags/empirical-process-control" >}})**: Participants often discover practices they’ve been using that aren’t actually part of Scrum. This is a crucial learning moment, as it allows teams to focus on what truly matters in their Agile journey.
 
 ### Preparing for the PSM I Assessment
 
@@ -80,7 +79,7 @@ The PSM I assessment is included in the PSF class and serves as a benchmark for 
 
 ### The Impact of Training
 
-I’ve seen firsthand how comprehensive training can transform organisations. For instance, I once trained an entire company, from the CEO to warehouse staff, in Utah. This holistic approach ensured that everyone understood their role in the software development process, fostering a culture of collaboration and feedback.
+I’ve seen firsthand how comprehensive training can transform organisations. For instance, I once trained an entire company, from the CEO to warehouse staff, in Utah. This holistic approach ensured that everyone understood their role in the [software development]({{< ref "/tags/software-development" >}}) process, fostering a culture of collaboration and feedback.
 
 ### Conclusion
 

@@ -30,15 +30,14 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
+tags: []
 resourceTypes:
 - video
 categories:
 - Product Development
 
 ---
-One of the most rewarding aspects of teaching Scrum is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.
+One of the most rewarding aspects of teaching [Scrum]({{< ref "/categories/scrum" >}}) is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.
 
 But here’s the thing—I’ve found a better way. Let’s explore the magic of immersive learning and why **bite-sized** learning experiences make all the difference.
 
@@ -131,4 +130,4 @@ For anyone looking to improve their learning experience, here are a few of my to
 
 ## **Wrapping It Up: Why Immersive Learning Is Here to Stay** **🌟**
 
-In the world of Scrum and Agile, continuous improvement is key, and that extends to how we teach and learn. Immersive learning allows students to **slow down**, absorb, and reflect. This approach not only helps them to **retain information** but also ensures they can apply it when they return to their teams. For me, it’s incredibly rewarding to see the light bulb moments in class when students finally get it. And I’ve found that these moments come far more often when we embrace immersive learning. So next time you’re learning something new, remember: slow down, take small bites, and chew. You’ll enjoy the learning process a lot more—and you’ll get much more out of it.
+In the world of Scrum and Agile, [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is key, and that extends to how we teach and learn. Immersive learning allows students to **slow down**, absorb, and reflect. This approach not only helps them to **retain information** but also ensures they can apply it when they return to their teams. For me, it’s incredibly rewarding to see the light bulb moments in class when students finally get it. And I’ve found that these moments come far more often when we embrace immersive learning. So next time you’re learning something new, remember: slow down, take small bites, and chew. You’ll enjoy the learning process a lot more—and you’ll get much more out of it.

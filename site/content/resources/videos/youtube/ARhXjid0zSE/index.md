@@ -36,16 +36,6 @@ tags:
 - Team Collaboration
 - Team Performance
 - Value Delivery
-- Agile Frameworks
-- Agile Leadership
-- Agile Strategy
-- Social Technologies
-- Sociotechnical Systems
-- Working Software
-- Agile Values and Principles
-- Employee Engagement
-- Organisational Agility
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -56,7 +46,7 @@ categories:
 - Product Development
 
 ---
-In my journey through the world of Agile and Scrum, I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your product owner.
+In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).
 
 When I think about this lack of engagement, I can't help but reflect on the times I've seen teams struggle because the business simply didn't show up. It’s disheartening, isn’t it? If the business doesn’t care enough to provide feedback, why should your team care? This lack of care and attention can lead to a downward spiral, where the team becomes disengaged, and the quality of the product suffers.
 

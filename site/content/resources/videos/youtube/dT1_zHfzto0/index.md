@@ -21,6 +21,7 @@ aliases:
 - /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
 - /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it.-ken-schwaber
 aliasesArchive:
 - /resources/videos/quotes-i-estimate-that-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
@@ -28,6 +29,7 @@ aliasesArchive:
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it.-ken-schwaber
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,19 +37,13 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Transformation
-- Agile Philosophy
-- Change Management
-- Sociotechnical Systems
-- Enterprise Agility
-- Organisational Agility
-- Agile Product Management
 resourceTypes:
 - video
 categories:
 - Product Development
 
 ---
-## The Reality of Scrum Adoption 🤔  
+## The Reality of [Scrum]({{< ref "/categories/scrum" >}}) Adoption 🤔  
 
 Ken Schwaber once declared that a staggering 75% of organisations utilising Scrum won't reap the benefits they anticipate.  
 
@@ -81,7 +77,7 @@ Ensuring your organisation falls into the successful 10% is challenging yet achi
 
 - **Management Buy-In** **👩‍💼**: Secure support and understanding from management to facilitate holistic change. 
 
-- **Continuous Improvement** **⏩**: Regularly assess and adapt your processes and approach. 
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})** **⏩**: Regularly assess and adapt your processes and approach. 
 
 ## Elevating Your Scrum Journey 🚀  
 

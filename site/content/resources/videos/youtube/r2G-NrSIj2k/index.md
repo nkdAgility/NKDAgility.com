@@ -26,14 +26,6 @@ isShort: false
 tags:
 - Software Development
 - Shift-Left Strategy
-- Automated Testing
-- Technical Excellence
-- Technical Mastery
-- Test Automation
-- Working Software
-- Flow Efficiency
-- Modern Source Control
-- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -61,7 +53,7 @@ These benefits are real, but traditional code reviews can also introduce bottlen
 
 ## Shifting Left: Pre-Reviewed Code
 
-As we move toward modern engineering practices, there’s a growing emphasis on **pre-reviewing code**. Here’s what that means:
+As we move toward modern [engineering practices]({{< ref "/tags/engineering-practices" >}}), there’s a growing emphasis on **pre-reviewing code**. Here’s what that means:
 
 - **Automated validation**: By the time a developer submits a pull request, the code should already pass a suite of automated checks.
 - **Streamlined pull requests**: With automated checks in place, pull requests become less about catching defects and more about strategic discussions, like architectural decisions or ensuring alignment with business goals.
@@ -92,7 +84,7 @@ Shifting toward pre-reviewed code delivers several benefits:
 - Use tools to catch defects, enforce coding standards, and validate functionality before the pull request is even submitted.
 - Examples of useful tools:
   - **SonarQube/SonarCloud**: For code quality and vulnerability analysis.
-  - **GitHub Actions or Azure DevOps Pipelines**: For automated build and test processes.
+  - **[GitHub]({{< ref "/tags/github" >}}) Actions or Azure [DevOps]({{< ref "/categories/devops" >}}) Pipelines**: For automated build and test processes.
 
 ### 2. Make Pull Requests Mandatory
 

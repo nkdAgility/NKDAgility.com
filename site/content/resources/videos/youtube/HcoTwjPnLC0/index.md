@@ -29,10 +29,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- Software Development
-- Product Owner
+tags: []
 resourceTypes:
 - video
 categories:
@@ -41,7 +38,7 @@ categories:
 ---
 ## Defining Roles in Agile
 
-So, from the get-go, I think it's important to set the record straight on this question 'is a Product Owner an Agile Project Manager? 🎯
+So, from the get-go, I think it's important to set the record straight on this question 'is a [Product Owner]({{< ref "/tags/product-owner" >}}) an Agile Project Manager? 🎯
 
 Although plain and simple, my initial response is a resounding 'no'!
 
@@ -71,6 +68,6 @@ The bottom line is clear - a Product Owner and an Agile Project Manager, while b
 
 They have their unique responsibilities and clearly different areas of focus.  🚀
 
-If you want to explore Agile, Scrum, or even becoming a Scrum Master or Product Owner, check out my Agile and Scrum courses.  📚
+If you want to explore Agile, [Scrum]({{< ref "/categories/scrum" >}}), or even becoming a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Product Owner, check out my Agile and Scrum courses.  📚
 
 You might just find what you're looking for. 👍

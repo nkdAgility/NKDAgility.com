@@ -29,10 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Scrum Team
-- Team Performance
-- Software Development
-- Agile Frameworks
 resourceTypes:
 - video
 layout: video
@@ -40,9 +36,9 @@ categories:
 - Scrum
 
 ---
-**Worst trait in unskilled scrum masters?**
+**Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**
 
-Do you picture a Scrum Master as a stern taskmaster, a zealous micromanager, or even an omnipotent boss? If that's a 'yes', prepare to flip your perceptions upside down! 🔄
+Do you picture a [Scrum Master]({{< ref "/tags/scrum-master" >}}) as a stern taskmaster, a zealous micromanager, or even an omnipotent boss? If that's a 'yes', prepare to flip your perceptions upside down! 🔄
 
 In the realm of Scrum Masters, there's no 'one' worst trait. 🚫 Yep, you've guessed it, the list of unsuitable characteristics can run as long as a never-ending story. 📜👀
 

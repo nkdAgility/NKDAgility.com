@@ -31,13 +31,12 @@ tags:
 - Software Development
 - Agile Frameworks
 - Operational Practices
-- Throughput
-- Flow Efficiency
-categories: []
+categories:
+- Uncategorized
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---
-A few weeks ago I was in Boston to visit the Scrum.org offices and learn to teach the [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class co-taught by Steve Porter and [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/). This is a new Professional Scrum training course created by Ken Schwaber, Scrum.org, the Professional Scrum Trainer Community and Daniel Vacanti who helped to develop the Kanban Method for knowledge work. The new class was [just announced by Ken & Scrum.org](https://www.scrum.org/resources/scrumorg-introduces-scrum-kanban-course-enabling-greater-transparency-among-development) and includes a [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) that describes Kanban within the context of the [Scrum Framework](http://scrumguides.org).
+A few weeks ago I was in Boston to visit the [Scrum]({{< ref "/categories/scrum" >}}).org offices and learn to teach the [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class co-taught by Steve Porter and [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/). This is a new [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) training course created by Ken Schwaber, Scrum.org, the Professional Scrum Trainer Community and Daniel Vacanti who helped to develop the [Kanban]({{< ref "/categories/kanban" >}}) Method for knowledge work. The new class was [just announced by Ken & Scrum.org](https://www.scrum.org/resources/scrumorg-introduces-scrum-kanban-course-enabling-greater-transparency-among-development) and includes a [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) that describes Kanban within the context of the [Scrum Framework](http://scrumguides.org).
 
 Also Check out:
 
@@ -51,7 +50,7 @@ Now you can not only learn Scrum from those that created and maintain it, but yo
 ![](images/nkdagility-scrum-and-kanban-1900-800x400-1-2.png)
 { .post-img }
 
-This is a 2 day class that also has an assessment that will earn you a PSK certification. I'll be teaching this class in combination with [Chris McDermott](https://www.linkedin.com/in/chrisvmcd/), founder of Lean Agile Scotland, to bring some much needed Kanban team experience to the class. While I have significant experience with Scrum teams, I have only worked with a few Kanban teams.
+This is a 2 day class that also has an assessment that will earn you a PSK certification. I'll be teaching this class in combination with [Chris McDermott](https://www.linkedin.com/in/chrisvmcd/), founder of [Lean]({{< ref "/categories/lean" >}}) Agile Scotland, to bring some much needed Kanban team experience to the class. While I have significant experience with Scrum teams, I have only worked with a few Kanban teams.
 
 ## Kanban Guide for Scrum Teams
 
@@ -59,7 +58,7 @@ The Kanban community and the Scrum community have been working towards the same 
 
 Scrum is more than 20 years old and has been trawling some baggage with it. Since the creation of the [Scrum Guide](http://scrumguides.org) Ken & Jeff have been working to remove much of that baggage from the definitive and agreed definition of Scrum and they have done a fantastic job. You will not find a mention of User Stories, Story Points, or Velocity in the Guide. They are not required to create an empirical control system.
 
-I am not saying that they are bad, just that they are merely complimentary practices that you can choose to use or not. And let's be super clear, if you have an amateur team then you should be starting with User Stories, Story Points, or Velocity, they are good practices. For more advanced teams that are already delivering working software on a regular cadence you might want to change those practices out for ones that focus more on flow, and you might also choose to use User Stories.
+I am not saying that they are bad, just that they are merely complimentary practices that you can choose to use or not. And let's be super clear, if you have an amateur team then you should be starting with User Stories, Story Points, or Velocity, they are good practices. For more advanced teams that are already delivering [working software]({{< ref "/tags/working-software" >}}) on a regular cadence you might want to change those practices out for ones that focus more on flow, and you might also choose to use User Stories.
 
 You can read the [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) which is an extension to the Scrum Framework. The Scrum Framework is closed for modification and open for extension which is reflected in this new guide. The new Kanban extension adds the following practices:
 
@@ -71,9 +70,9 @@ You can read the [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/
 In order to adapt your workflow to maximise the flow of value to your customers we also need to add the following metrics:
 
 - WIP
-- Cycle Time
+- [Cycle Time]({{< ref "/tags/cycle-time" >}})
 - Work Item Age
-- Throughput
+- [Throughput]({{< ref "/tags/throughput" >}})
 
 This is an implementation of Kanban within the context of Scrum and as such has a definition that might differ from other Kanban implementations. Have a read of the guide and see if it appeals to you. For me the ideas of limiting WIP are ones that I have always encouraged teams to do and velocity always seamed like a broken metric.
 

@@ -40,11 +40,6 @@ tags:
 - Market Adaptability
 - Continuous Delivery
 - Deployment Frequency
-- Product Delivery
-- Engineering Practices
-- Continuous Improvement
-- Digital Transformation
-- Shift-Left Strategy
 categories:
 - Product Development
 - Engineering Excellence

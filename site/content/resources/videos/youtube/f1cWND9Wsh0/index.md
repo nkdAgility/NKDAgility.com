@@ -30,12 +30,13 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Debunking the Lego Approach 
 
-Let's unravel a common myth in Scrum training: Is using Lego as a teaching tool the ideal approach?  
+Let's unravel a common myth in [Scrum]({{< ref "/categories/scrum" >}}) training: Is using Lego as a teaching tool the ideal approach?  
 
 Surprisingly, there's more to consider than you might think. 🤔💡 
 

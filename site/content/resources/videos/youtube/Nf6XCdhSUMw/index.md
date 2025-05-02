@@ -31,8 +31,6 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Operational Practices
-- Continuous Improvement
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -81,7 +79,7 @@ The essence of evidence-based management lies in collecting a wealth of evidence
 
 #### Final Thoughts:
 
-- **Continuous Learning**: Embrace the idea that evidence-based management is a journey of continuous improvement.
+- **[Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: Embrace the idea that evidence-based management is a journey of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 - **Adapt and Evolve**: Be prepared to adjust your strategies as new data and insights emerge.
 
 In conclusion, evidence-based management is a powerful tool that can enhance our organisational effectiveness. By focusing on data to inform our decisions, understanding the metrics that shape behaviours, and engaging with our teams, we can create a more responsive and value-driven environment. As we navigate the complexities of our work, let’s remember that the goal is not just to collect data but to use it wisely to foster a culture of continuous improvement and collaboration.

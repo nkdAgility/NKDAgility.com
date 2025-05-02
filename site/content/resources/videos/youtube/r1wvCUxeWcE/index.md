@@ -27,10 +27,6 @@ duration: 57
 isShort: true
 tags:
 - Software Development
-- Agile Frameworks
-- Continuous Improvement
-- Operational Practices
-- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +38,7 @@ categories:
 - Product Development
 
 ---
-When it comes to visualising work in a Kanban system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
+When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
 
 ### Understanding Your Workflow
 
@@ -69,6 +65,6 @@ One of the key lessons I’ve learned over the years is that flexibility is vita
 
 ### Conclusion
 
-Visualising your work through a Kanban board is not just a task; it’s a journey towards understanding and improving your workflow. By taking the time to assess and adapt your board, you’ll not only enhance your team’s efficiency but also foster a culture of continuous improvement.
+Visualising your work through a Kanban board is not just a task; it’s a journey towards understanding and improving your workflow. By taking the time to assess and adapt your board, you’ll not only enhance your team’s efficiency but also foster a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 Remember, the goal is to create a board that truly reflects how work moves through your system. Embrace the imperfections of reality, and use them to drive your process forward. After all, it’s not about achieving perfection; it’s about making progress.

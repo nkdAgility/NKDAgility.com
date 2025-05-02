@@ -32,21 +32,18 @@ tags:
 - Scrum Master
 - Professional Scrum
 - Software Development
-- Agile Frameworks
-- Pragmatic Thinking
-- Team Performance
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg
 
 ---
-As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
+As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
 In case you missed it, here is the recording of yesterday's Ask a Professional Scrum Trainer webinar with Martin Hinshelwood! Watch here: [http://ow.ly/ijiM50vwEkD](http://ow.ly/ijiM50vwEkD)
 
-### \[Question\] Should the Scrum Master always remove impediments?
+### \[Question\] Should the [Scrum Master]({{< ref "/tags/scrum-master" >}}) always remove impediments?
 
-Yes, the Scrum Master should always remove Impediments. That is their responsibility on the Scrum Team. However, what is an impediment?
+Yes, the Scrum Master should always remove Impediments. That is their responsibility on the [Scrum Team]({{< ref "/tags/scrum-team" >}}). However, what is an impediment?
 
 > An Impediment is something that impedes \[slows\] a Teams progress, and that they are unable to deal with themselves.
 

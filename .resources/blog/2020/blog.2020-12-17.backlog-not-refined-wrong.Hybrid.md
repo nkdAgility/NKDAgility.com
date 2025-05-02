@@ -44,10 +44,6 @@ tags:
 - Agile Planning Tools
 - Product Owner
 - Scrum Master
-- Working Software
-- Operational Practices
-- Agile Transformation
-- Value Delivery
 categories:
 - Scrum
 - Product Management
@@ -60,7 +56,7 @@ Most [Scrum Teams](/the-2020-scrum-guide/#scrum-team) that I encounter don’t d
 
 ## TL;DR
 
-If you get to the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) event and your Product Backlog Items for the next Sprint are not already of a size that can fit into the Sprint and fully understood by the [Developers](/the-2020-scrum-guide/#developers), then you are doing it wrong. You are heading for the rocks from the start, and you have no map of the shallows to prevent it.
+If you get to the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) event and your [Product Backlog]({{< ref "/tags/product-backlog" >}}) Items for the next Sprint are not already of a size that can fit into the Sprint and fully understood by the [Developers](/the-2020-scrum-guide/#developers), then you are doing it wrong. You are heading for the rocks from the start, and you have no map of the shallows to prevent it.
 
 Although the [Scrum Guide](/the-2020-scrum-guide/) does not define Refinement as an event, you should be doing it. You can come up with your Refinement event(s), or refine ad-hoc. Whatever you chose there is a simple measure of success. If your [Developers](/the-2020-scrum-guide/#developers) looks at something within the next 2 Sprints on the backlog and they don’t understand it, then you have work to do.
 
@@ -71,12 +67,12 @@ If you find that you can't quite get things to fit and [have to stagger iteratio
 
 ## What does ready mean for a Product Backlog?
 
-If the [Developers](/the-2020-scrum-guide/#developers) does not understand the things that they are being asked to do how could they possibly agree that the items can fit in a Sprint? You will often find teams that don’t do refinement confused as to why they can't get everything done in a Sprint. While we accept that in an empirical process like Scrum that we, know less upfront than we discover as we go, merely taking a guess and hoping for the best is decidedly unprofessional.
+If the [Developers](/the-2020-scrum-guide/#developers) does not understand the things that they are being asked to do how could they possibly agree that the items can fit in a Sprint? You will often find teams that don’t do refinement confused as to why they can't get everything done in a Sprint. While we accept that in an empirical process like [Scrum]({{< ref "/categories/scrum" >}}) that we, know less upfront than we discover as we go, merely taking a guess and hoping for the best is decidedly unprofessional.
 
-> "Selecting how much can be completed within a Sprint may be challenging. However, the more the [Developers](/the-2020-scrum-guide/#developers) know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts."  
+> "Selecting how much can be completed within a Sprint may be challenging. However, the more the [Developers](/the-2020-scrum-guide/#developers) know about their past performance, their upcoming capacity, and their [Definition of Done]({{< ref "/tags/definition-of-done" >}}), the more confident they will be in their Sprint forecasts."  
 > \-ScrumGuides.org
 
-While we don’t need a definition of ready, we do need a working agreement between the [Product Owner](/the-2020-scrum-guide/#product-owner) and the [Developers](/the-2020-scrum-guide/#developers). In Scrum, the [Developers](/the-2020-scrum-guide/#developers) are the ones selecting work for the Sprint, and they are the only ones that can decide what they can do. [Developers](/the-2020-scrum-guide/#developers) should be empowered to refuse to take items from the backlog that either they do not understand, or are too big to be completed in a single sprint. In general, I would expect that a [team](/the-2020-scrum-guide/#scrum-team) take many items into their Sprint, so they need to be sized appropriately.
+While we don’t need a [definition of ready]({{< ref "/tags/definition-of-ready" >}}), we do need a working agreement between the [Product Owner](/the-2020-scrum-guide/#product-owner) and the [Developers](/the-2020-scrum-guide/#developers). In Scrum, the [Developers](/the-2020-scrum-guide/#developers) are the ones selecting work for the Sprint, and they are the only ones that can decide what they can do. [Developers](/the-2020-scrum-guide/#developers) should be empowered to refuse to take items from the backlog that either they do not understand, or are too big to be completed in a single sprint. In general, I would expect that a [team](/the-2020-scrum-guide/#scrum-team) take many items into their Sprint, so they need to be sized appropriately.
 
 Ready Backlog just means that the [Developers](/the-2020-scrum-guide/#developers) can select it with confidence.
 
@@ -84,7 +80,7 @@ Ready Backlog just means that the [Developers](/the-2020-scrum-guide/#developers
 
 Refinement is not an explicit event in the [Scrum Guide](/the-2020-scrum-guide/) because it is something that can be different depending on the Product, Domain, or Technology. If you were to ask how much refinement you should do then the answer is "as much as you need and no more". Too much refinement is waste, as it too little.
 
-> "Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work."
+> "Product [Backlog refinement]({{< ref "/tags/backlog-refinement" >}}) is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work."
 >
 > \-[The 2020 Scrum Guide](/the-2020-scrum-guide/)
 

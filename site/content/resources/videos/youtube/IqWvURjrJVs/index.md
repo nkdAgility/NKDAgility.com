@@ -16,11 +16,13 @@ canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
 - /resources/IqWvURjrJVs
 - /resources/videos/znaczenie-znajomoci-terenu
+- /resources/videos/znaczenie-znajomo-ci-terenu
 aliasesArchive:
 - /resources/videos/znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
 - znaczenie-znajomoci-terenu
+- /resources/videos/znaczenie-znajomo-ci-terenu
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
@@ -31,7 +33,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?
@@ -40,11 +43,11 @@ About NKD Agility
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments. 
 
 If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-[coaching]({{< ref "/tags/coaching" >}})/ 
 
 We would love to work with you. 
 

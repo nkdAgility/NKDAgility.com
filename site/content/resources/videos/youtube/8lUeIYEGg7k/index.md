@@ -37,10 +37,6 @@ tags:
 - Scaling
 - Large Scale Agility
 - Pragmatic Thinking
-- Agile Frameworks
-- Enterprise Agility
-- Software Development
-- Agile Strategy
 resourceTypes:
 - video
 categories:

@@ -36,11 +36,6 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Social Technologies
-- Agile Transformation
-- Agile Strategy
-- Agile Values and Principles
-- Team Motivation
-- Software Development
 resourceTypes:
 - video
 categories:
@@ -66,7 +61,7 @@ Conflict in agile teams often begins with simple disagreements or disputes over 
 
 ## The Thin Line Between Constructive and Destructive Conflict
 
-Constructive conflict is the lifeblood of innovation. It is the friction that sparks new ideas, challenges assumptions, and drives continuous improvement. However, when the focus shifts from winning together to winning against, the conflict becomes destructive. It is at this juncture that organizations must be vigilant, recognizing the signs of escalation and taking immediate action to prevent a descent into chaos.
+Constructive conflict is the lifeblood of innovation. It is the friction that sparks new ideas, challenges assumptions, and drives [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, when the focus shifts from winning together to winning against, the conflict becomes destructive. It is at this juncture that organizations must be vigilant, recognizing the signs of escalation and taking immediate action to prevent a descent into chaos.
 
 ### Strategies for Managing and Mitigating Conflict
 
@@ -80,13 +75,13 @@ Constructive conflict is the lifeblood of innovation. It is the friction that sp
 
 5. **Emphasize Shared Goals:** Regularly remind teams of their shared objectives and the overarching goals of the organization, reinforcing the idea that collaboration is key to success.
 
-## The Role of Leadership in Preventing the Agile Apocalypse
+## The Role of [Leadership]({{< ref "/categories/leadership" >}}) in Preventing the Agile Apocalypse
 
 Leaders play a pivotal role in preventing the escalation of conflicts into full-blown wars. By modeling constructive conflict management, encouraging open dialogue, and actively working to maintain a positive team dynamic, leaders can safeguard their organizations against the destructive forces of internal warfare.
 
 ### The Path Forward: Embracing Conflict as a Catalyst for Growth
 
-The journey toward agile transformation is complex and challenging, with conflict being an inevitable part of the process. Recognizing the dual nature of conflict—as both a potential source of innovation and a harbinger of dysfunction—is crucial. By managing conflicts constructively, organizations can harness their transformative power, fostering an environment where collaboration thrives, and innovation flourishes.
+The journey toward [agile transformation]({{< ref "/tags/agile-transformation" >}}) is complex and challenging, with conflict being an inevitable part of the process. Recognizing the dual nature of conflict—as both a potential source of innovation and a harbinger of dysfunction—is crucial. By managing conflicts constructively, organizations can harness their transformative power, fostering an environment where collaboration thrives, and innovation flourishes.
 
 ## Conclusion: Steering Agile Teams Away from War
 

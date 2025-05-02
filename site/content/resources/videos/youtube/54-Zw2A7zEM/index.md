@@ -27,18 +27,17 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Scrum Master vs. Seasoned Agile Coach: What Sets Them Apart?
+## [Scrum]({{< ref "/categories/scrum" >}}) Master vs. Seasoned Agile Coach: What Sets Them Apart?
 
-The Scrum Master and the Agile Coach are two roles integral to the Agile universe.
+The [Scrum Master]({{< ref "/tags/scrum-master" >}}) and the Agile Coach are two roles integral to the Agile universe.
 
 But what distinguishes one from the other? 🤔
 
@@ -52,7 +51,7 @@ Every seasoned Agile Coach encompasses all the knowledge that a Scrum Master pos
 
 Typically, an Agile Coach has been in the game for a long time, enriched with many years of experience, having worked diligently within organisations.  💡
 
-They've dedicated years to navigating organisational landscapes, moulding and embedding Agile practices, and mastering techniques spanning from lean Agile to Scrum and Kanban.  🚀
+They've dedicated years to navigating organisational landscapes, moulding and embedding Agile practices, and mastering techniques spanning from [lean]({{< ref "/categories/lean" >}}) Agile to Scrum and [Kanban]({{< ref "/categories/kanban" >}}).  🚀
 
 They don't just "know" - they've _lived_ it. 📈
 

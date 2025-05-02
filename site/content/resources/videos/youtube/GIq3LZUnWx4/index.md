@@ -32,7 +32,6 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Owner
-- Agile Philosophy
 resourceTypes:
 - video
 categories:
@@ -60,13 +59,13 @@ Particularly for public companies or not-for-profits, value takes on multifacete
 
 This is the intriguing aspect.  This isn't something I, or anyone else, can dictate or define for others or have a ready-made answer.  Each organisation has its unique interpretation.  
 
-Product Owners are uniquely responsible for "demonstrating leadership in their organisation" to define value.  🤔 
+Product Owners are uniquely responsible for "demonstrating [leadership]({{< ref "/categories/leadership" >}}) in their organisation" to define value.  🤔 
 
 But, unfortunately, for many, their comprehension of value is hazy, driven by the whims and inclinations of their superiors.
 
 ## Stepping Up as Product Owners
 
-A Product Owner's role transcends managing backlogs and stakeholders.  It's about "demonstrating leadership", delineating what value means for the organisation.   Being a Product Owner is about more than just the title.  👑
+A [Product Owner]({{< ref "/tags/product-owner" >}})'s role transcends managing backlogs and stakeholders.  It's about "demonstrating leadership", delineating what value means for the organisation.   Being a Product Owner is about more than just the title.  👑
 
 It's about evolving into a true Product Manager, anchoring strategies and decisions firmly on the bedrock of value.
 

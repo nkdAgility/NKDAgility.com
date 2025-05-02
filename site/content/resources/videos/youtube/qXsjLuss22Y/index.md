@@ -35,9 +35,6 @@ sitemap:
 tags:
 - Software Development
 - Agile Product Management
-- Common Goals
-- Agile Planning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
@@ -50,7 +47,7 @@ I think it's essential to ask what a sprint goal is and look deeper into why it 
 
 How does a sprint goal drive progress?
 
-Let me share with you some insights from the trenches of Scrum.
+Let me share with you some insights from the trenches of [Scrum]({{< ref "/categories/scrum" >}}).
 
 ## Exploring The Tactical Aspect of Scrum
 
@@ -86,7 +83,7 @@ So, let me explain.
 
 A defining characteristic of a Sprint Goal is its tangibility.
 
-This is a characteristic that sets it apart from all the others.  It must be a goal that stakeholders can evaluate at the sprint review and be able to provide concrete and actionable feedback that should resonate on a practical level.  🤲
+This is a characteristic that sets it apart from all the others.  It must be a goal that stakeholders can evaluate at the [sprint review]({{< ref "/tags/sprint-review" >}}) and be able to provide concrete and actionable feedback that should resonate on a practical level.  🤲
 
 Feedback cannot be vague or speculative but rather precise, such as "We like this because..." or "We dislike this because...".
 
@@ -104,7 +101,7 @@ It's about what's happening and how it contributes to the broader product vision
 
 So, there you have it, folks!
 
-To sum up, a Sprint Goal is more than just a task or a target.  The tactical compass guides your Scrum team through each Sprint, offering a clear and tangible objective that connects the team's current efforts with the broader product vision and goal.
+To sum up, a Sprint Goal is more than just a task or a target.  The tactical compass guides your [Scrum team]({{< ref "/tags/scrum-team" >}}) through each Sprint, offering a clear and tangible objective that connects the team's current efforts with the broader product vision and goal.
 
 Want to learn more about setting impactful Sprint Goals and mastering other elements of Agile and Scrum?
 

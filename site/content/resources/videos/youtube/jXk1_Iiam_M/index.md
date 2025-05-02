@@ -37,13 +37,6 @@ tags:
 - Scrum Master
 - Team Performance
 - Team Collaboration
-- Agile Frameworks
-- Scrum Team
-- Agile Transformation
-- Coaching
-- Software Development
-- Value Delivery
-- Definition of Done
 resourceTypes:
 - video
 categories:
@@ -51,7 +44,7 @@ categories:
 - Product Development
 
 ---
-If you're an organization that invests heavily in training—especially if you're supporting a large number of people trying to step into the Scrum Master role—then immersive learning should be at the top of your list. It’s an investment that can dramatically increase your team's effectiveness. Unlike traditional training, where learning can quickly fade, immersive learning helps people **internalize** the knowledge and put it into practice immediately.
+If you're an organization that invests heavily in training—especially if you're supporting a large number of people trying to step into the [Scrum]({{< ref "/categories/scrum" >}}) Master role—then immersive learning should be at the top of your list. It’s an investment that can dramatically increase your team's effectiveness. Unlike traditional training, where learning can quickly fade, immersive learning helps people **internalize** the knowledge and put it into practice immediately.
 
 ## Why Immersive Learning Outperforms Traditional Training
 
@@ -77,7 +70,7 @@ In immersive learning, the loop isn’t complete until knowledge has been applie
 
 Without closing this loop, the vast majority of training becomes lost in theory, never seeing the light of day in real-world scenarios.
 
-Imagine this scenario: you attend a traditional Scrum Master class, learn about the **Definition of Done**, but never actually implement it with your team. In immersive learning, you’d take what you learned and go back to your team with a specific assignment: "Talk to your team and develop a **Definition of Done**." You then return to the next session and share how it went—what worked, what didn’t, and how you might improve.
+Imagine this scenario: you attend a traditional [Scrum Master]({{< ref "/tags/scrum-master" >}}) class, learn about the **[Definition of Done]({{< ref "/tags/definition-of-done" >}})**, but never actually implement it with your team. In immersive learning, you’d take what you learned and go back to your team with a specific assignment: "Talk to your team and develop a **Definition of Done**." You then return to the next session and share how it went—what worked, what didn’t, and how you might improve.
 
 ### Practical Assignments and Real-World Application
 
@@ -97,7 +90,7 @@ A typical assignment might involve the Scrum Masters going back to their teams a
 
 If the only outcome from an immersive learning session was that all of your Scrum Masters returned with a well-crafted **Definition of Done** for their teams, that would be a massive win for your organization. Quality would improve across the board, and teams would have a much clearer understanding of what’s expected.
 
-## Real-Time Feedback and Continuous Improvement
+## Real-Time Feedback and [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
 One of the biggest advantages of immersive learning is the real-time feedback. After completing their assignments, Scrum Masters come back to the next session and share their experiences:
 

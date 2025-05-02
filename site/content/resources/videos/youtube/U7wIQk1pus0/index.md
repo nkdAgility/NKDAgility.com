@@ -14,8 +14,6 @@ slug: a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
 layout: video
 aliases:
 - /resources/U7wIQk1pus0
-- /resources/videos/a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
-- /resources/videos/install-tfs-2013-basic
 aliasesArchive:
 - /resources/videos/install-tfs-basic
 - /resources/videos/install-tfs-2013-basic
@@ -29,14 +27,14 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 I recently received a request for a straightforward blog post on installing TFS 2013. It struck me that I hadn’t documented a basic out-of-the-box installation since around 2010, as I’ve mostly been focused on upgrades. So, I decided to create a new virtual machine on my Surface, and I thought I’d share the process with you. 

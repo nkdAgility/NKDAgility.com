@@ -24,20 +24,18 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
 isShort: false
-tags:
-- Azure DevOps
-- Pragmatic Thinking
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-When it comes to migrating from TFS on-prem to Azure DevOps, I often hear concerns about compatibility issues. However, I can assure you that if you're worried about these problems, you probably shouldn't be. In my experience, everything that works on-prem is compatible with Azure DevOps. In fact, the reverse is often true; not everything that functions in Azure DevOps will work seamlessly on older on-prem versions, which is where compatibility issues are more likely to arise.
+When it comes to migrating from TFS on-prem to Azure [DevOps]({{< ref "/categories/devops" >}}), I often hear concerns about compatibility issues. However, I can assure you that if you're worried about these problems, you probably shouldn't be. In my experience, everything that works on-prem is compatible with [Azure DevOps]({{< ref "/tags/azure-devops" >}}). In fact, the reverse is often true; not everything that functions in Azure DevOps will work seamlessly on older on-prem versions, which is where compatibility issues are more likely to arise.
 
 ### Understanding the Migration Landscape
 

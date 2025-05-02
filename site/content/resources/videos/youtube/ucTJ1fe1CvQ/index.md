@@ -33,8 +33,6 @@ tags:
 - Product Discovery
 - Pragmatic Thinking
 - Continuous Learning
-- Product Owner
-- Sensemaking
 resourceTypes:
 - video
 categories:
@@ -44,7 +42,7 @@ categories:
 ---
 ## **Why the PPDV Course Was Created**
 
-In the fast-paced world of product development, there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.
+In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.
 
 Complexity means uncertainty, and uncertainty means assumptions. Throughout the product development journey, teams make countless assumptions. The problem? Many of these assumptions are made unconsciously, leading to missed learning opportunities and the infamous **“Feature Factory”** issue, where teams churn out features without truly understanding user needs or delivering real value.
 
@@ -94,9 +92,9 @@ This course is designed for **product leaders, product owners, product managers*
 
 - **Product Owners and Managers:** Gain the tools to better incorporate Discovery and Validation into your process, ensuring that your products solve the right problems.
 
-- **Product Teams:** Understand how to work more effectively with assumptions and develop a learning mindset that drives continuous improvement.
+- **Product Teams:** Understand how to work more effectively with assumptions and develop a learning mindset that drives [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-## **Learning and Experimentation Focus**
+## **Learning and [Experimentation]({{< ref "/tags/experimentation" >}}) Focus**
 
 In this one-day course (which can also be split into two half-days or smaller chunks), we use a **case study** to navigate through different concepts. This hands-on approach helps teams better incorporate Discovery and Validation into their product development process.
 

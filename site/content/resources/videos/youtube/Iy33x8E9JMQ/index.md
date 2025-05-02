@@ -27,11 +27,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements
@@ -72,8 +72,8 @@ It's all about pragmatically and empirically adapting our processes to the chang
 
 Embracing Empiricism means we're flexible, responsive, and adaptive, ready to mould our strategies per the evolving business landscape.
 
-## Join Us on a Journey of Continuous Learning
+## Join Us on a Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})
 
-As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and Scrum knowledge with our comprehensive courses.
+As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and [Scrum]({{< ref "/categories/scrum" >}}) knowledge with our comprehensive courses.
 
 Let's pave a path that fosters innovation, responsiveness, and success in the ever-evolving business landscape.

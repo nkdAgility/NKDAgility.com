@@ -29,6 +29,7 @@ Each dimension contributes to the final confidence score.
 
 return format should be valid json that looks like this:
 {
+"resourceId": "{{resourceId}}",
 "category": "{{category}}",
 "confidence": 0,
 "mentions: 0,

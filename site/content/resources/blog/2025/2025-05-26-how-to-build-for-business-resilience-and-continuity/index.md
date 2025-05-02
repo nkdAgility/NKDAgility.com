@@ -23,19 +23,6 @@ tags:
 - Technical Excellence
 - Software Development
 - Technical Mastery
-- Continuous Improvement
-- Deployment Frequency
-- Metrics and Learning
-- Value Delivery
-- Decision Making
-- Engineering Practices
-- Product Delivery
-- Market Adaptability
-- Release Management
-- Deployment Strategies
-- Continuous Delivery
-- Current Value
-- Frequent Releases
 
 ---
 Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.

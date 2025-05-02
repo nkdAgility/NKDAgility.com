@@ -30,11 +30,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Professional Scrum
-- Agile Product Management
-- Agile Transformation
-- Team Collaboration
-- Personal
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +40,7 @@ categories:
 - Scrum
 
 ---
-As I reflect on my experiences delivering the Applying Professional Scrum class, I can confidently say it’s my favourite course to teach. The reason? It consistently sparks some of the most profound epiphanies for my students. 
+As I reflect on my experiences delivering the Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) class, I can confidently say it’s my favourite course to teach. The reason? It consistently sparks some of the most profound epiphanies for my students. 
 
 In this class, we don’t just talk about Scrum; we live it. We engage in four sprints, and I’ve recently started incorporating Minecraft into these sessions. This approach has transformed the way we experience Scrum, making it not just a theoretical exercise but a practical one.
 
@@ -71,6 +66,6 @@ It’s during this reflection that students begin to understand the true purpose
 
 ### Conclusion: The Journey of Discovery
 
-In conclusion, the Applying Professional Scrum class is more than just a course; it’s a journey of discovery. By experiencing the chaos of the first sprint and then applying structured Scrum practices, students emerge with a deeper understanding of both the framework and its real-world applications. 
+In conclusion, the Applying [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) class is more than just a course; it’s a journey of discovery. By experiencing the chaos of the first sprint and then applying structured Scrum practices, students emerge with a deeper understanding of both the framework and its real-world applications. 
 
 If you’re considering diving into Scrum, I encourage you to embrace the chaos and learn through experience. The insights gained from this process are invaluable and can significantly enhance your approach to agile methodologies. Remember, it’s not just about doing Scrum; it’s about understanding its purpose and the value it can bring to your projects.

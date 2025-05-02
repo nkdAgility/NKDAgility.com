@@ -30,12 +30,13 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 
 
-In our pursuit to find effective tools for Scrum training, we've pondered over various alternatives. Lego, while popular, is noticeably absent from our toolkit. This choice isn't arbitrary; it's a deliberate decision stemming from our commitment to creating a realistic and impactful learning experience. While Lego's structured simplicity may seem appealing for illustrating concepts, it often falls short in conveying the dynamic and often chaotic world of Scrum.  
+In our pursuit to find effective tools for [Scrum]({{< ref "/categories/scrum" >}}) training, we've pondered over various alternatives. Lego, while popular, is noticeably absent from our toolkit. This choice isn't arbitrary; it's a deliberate decision stemming from our commitment to creating a realistic and impactful learning experience. While Lego's structured simplicity may seem appealing for illustrating concepts, it often falls short in conveying the dynamic and often chaotic world of Scrum.  
 
 This realisation has led us to explore other avenues that better encapsulate the essence of what we aim to teach. 
 
@@ -55,7 +56,7 @@ Surprisingly, we've sometimes turned to the digital realms of Minecraft, and her
 
 On the surface, both Lego and Minecraft might seem like playful tools. However, the distinction lies in the experience they deliver. 
 
-- Layered Complexity: Minecraft, unlike Lego, doesn’t always fit together perfectly, embodying the chaotic nature of software development more accurately. 💻 
+- Layered Complexity: Minecraft, unlike Lego, doesn’t always fit together perfectly, embodying the chaotic nature of [software development]({{< ref "/tags/software-development" >}}) more accurately. 💻 
 
 - Collaborative Experience: Minecraft allows for a more collaborative environment akin to what we strive to achieve with Scrum methodologies. 🤝 
 

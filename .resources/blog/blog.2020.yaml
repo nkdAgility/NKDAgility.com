@@ -44,11 +44,6 @@
     - Empirical Process Control
     - Product Delivery
     - Organisational Agility
-    - Working Software
-    - Trend Analysis
-    - Agile Transformation
-    - Business Agility
-    - Customer Satisfaction
     categories:
     - Product Management
     - Scrum
@@ -59,7 +54,7 @@
 
     [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)
 
-    Evidence-based Management for Software Organisations is a framework from Scrum.org to help organisations focus their efforts on most valuable improvements and monitor their effect on the organisation. In my experience, organisations recognize agility as a means to improve their value, yet tend to lack focus and commitment to moving towards it. This is mostly because of entrenched traditional ideas and a resistance to change that comes, in the west, from an "if it ain’t broke, don't fix it" mentality. Let's forget for a moment that it has been proven over and over again that small experiments that fail quickly are what produce results. Let's forget as well the 20 years of the success of agility when there is focus and courage. We need evidence…
+    Evidence-based Management for Software Organisations is a framework from [Scrum]({{< ref "/categories/scrum" >}}).org to help organisations focus their efforts on most valuable improvements and monitor their effect on the organisation. In my experience, organisations recognize agility as a means to improve their value, yet tend to lack focus and commitment to moving towards it. This is mostly because of entrenched traditional ideas and a resistance to change that comes, in the west, from an "if it ain’t broke, don't fix it" mentality. Let's forget for a moment that it has been proven over and over again that small experiments that fail quickly are what produce results. Let's forget as well the 20 years of the success of agility when there is focus and courage. We need evidence…
 
     That evidence is there. You can find study after study that shows that agile practices work, that moving to agile values works better. So why don’t people listen? Still, I hear: "That will not work here", especially in the enterprise. In the successful enterprise its worse: "We are fantastic and we know best as we have been doing it this way for many years with success". Unfortunately, the measure of success has traditionally been:
 
@@ -71,11 +66,11 @@
 
     This measure of success does not take into account how much 'value' is delivered to the customer or users. If you take another look, as the Standish Group in Boston has, at the above traditional measures of success (used both by PMI and Prince2) you find that this measure equates to very little value to the customers. Forrester is currently trying to encourage the organisation to start measuring the value that they are delivering rather than how they are delivering it.
 
-    How we measure value up until now in software delivery has been to either rely on the Product Owner, or to start introducing traditional measures from formal process… and we already know where that leads. The dark side!
+    How we measure value up until now in software delivery has been to either rely on the [Product Owner]({{< ref "/tags/product-owner" >}}), or to start introducing traditional measures from formal process… and we already know where that leads. The dark side!
 
     So what can we measure? Sure Scrum has traditionally focused on the team, and the best measure for a team is "Remaining Work". From that we can create Velocity and Burndown to help the Product Owner plan and the Development Team deliver. Simple… but organisations are not simple and need a way to really measure success in an agile fashion. If we can provide organisations with some standard agile metrics maybe, just maybe, we can pull them out of the dark and into the light.
 
-    This is why, with all the kafuffle over "scaling Scrum", Scrum.org has been biding its time and doing its research. Most of the scaling Scrum methodologies out there miss the boat on measurements. Not only that they have \[come under much fire recently\] for providing way too much rigor in the wrong places for a "one size fits all" solution. If you can't have "one size fits all" at the team level you sure can't do it at the organisational one…
+    This is why, with all the kafuffle over "[scaling]({{< ref "/tags/scaling" >}}) Scrum", Scrum.org has been biding its time and doing its research. Most of the scaling Scrum methodologies out there miss the boat on measurements. Not only that they have \[come under much fire recently\] for providing way too much rigor in the wrong places for a "one size fits all" solution. If you can't have "one size fits all" at the team level you sure can't do it at the organisational one…
 
     I have discussed [What my father taught me about evidence-based management](/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented/) and [metrics that matter](/blog/metrics-that-matter-with-evidence-based-management/) over the years:
 
@@ -87,19 +82,19 @@
 
     That is why I went to Boston last month to complete the training and assessment to become an Evidence-based Management Consultant with Scrum.org. I need to understand how my advice affects an organisation that I am working with. How else can I know if my advice is good? Guesswork? That sounds a little…archaic. There is a better way…
 
-    There are really three groups of metrics that make sense at the organisational level. There are metrics that monitor the **current value** being delivered, the **time to market** and your organisations **ability to innovate**. We need to gather these metrics at a point in time as soon as possible to provide a baseline for where the organisation currently is. We can then reassess the organisation at intervals, probably no more than quarterly, which will allow us to look at the trends over time.
+    There are really three groups of metrics that make sense at the organisational level. There are metrics that monitor the **[current value]({{< ref "/tags/current-value" >}})** being delivered, the **[time to market]({{< ref "/tags/time-to-market" >}})** and your organisations **[ability to innovate]({{< ref "/tags/ability-to-innovate" >}})**. We need to gather these metrics at a point in time as soon as possible to provide a baseline for where the organisation currently is. We can then reassess the organisation at intervals, probably no more than quarterly, which will allow us to look at the trends over time.
 
     ### Current Value Metrics
 
     The current value metrics look at data that gives an indication of the company’s success in the market place. These metrics should be gathered once across the organisation with the organisation defined as consistently as possible across instances. They might include:
 
-    - **Revenue per Employee** – Gather the revenue generated by the product you are evaluating and employees contributing to its success
+    - **[Revenue per Employee]({{< ref "/tags/revenue-per-employee" >}})** – Gather the revenue generated by the product you are evaluating and employees contributing to its success
 
     - **Cost of Product Domains** – Gather the IT expenses associated with the product
 
     - **Employee Satisfaction** – what percentage of employees are engaged?
 
-    - **Customer satisfaction** – what percentage of your customers is marketing your products or services on your behalf?
+    - **[Customer satisfaction]({{< ref "/tags/customer-satisfaction" >}})** – what percentage of your customers is marketing your products or services on your behalf?
 
     All of these are easy to collect and most are likely readily available. Many enterprises already do some form of employee and customer satisfaction which we may be able to use. However the timespan of the collection of the metrics should ideally match.
 
@@ -111,7 +106,7 @@
 
     - **Release stabilisation** – How much time are we spending on getting something “done” to “really done”?
 
-    - **Cycle time** – How long does it take for us to move new features from idea into customer’s hands?
+    - **[Cycle time]({{< ref "/tags/cycle-time" >}})** – How long does it take for us to move new features from idea into customer’s hands?
 
     ### Ability to Innovate Metrics
 
@@ -123,11 +118,11 @@
 
     - **Innovation Rate** – What percentage of our budget is spent on innovation?
 
-    - **Defects** – How much technical debt are we accumulating?
+    - **Defects** – How much [technical debt]({{< ref "/tags/technical-debt" >}}) are we accumulating?
 
     As you have already likely surmised with these metrics it makes sense to gather them per application. We can then average the results to figure what they are across the entire spectrum. While these figures may vary wildly between applications as long as you use the same formula you should get comparable results.
 
-    Scrum.org suggests aggregating these into one, easy to track metric – the Agility Index. This number becomes synonymous with the value an organization is getting from its software development capabilities.
+    Scrum.org suggests aggregating these into one, easy to track metric – the Agility Index. This number becomes synonymous with the value an organization is getting from its [software development]({{< ref "/tags/software-development" >}}) capabilities.
 
     ## Conclusion
 
@@ -171,16 +166,6 @@
     - Increment
     - Agile Philosophy
     - Product Delivery
-    - Ability to Innovate
-    - Evidence Based Leadership
-    - Agile Strategy
-    - Business Agility
-    - Continuous Improvement
-    - Lean Startup
-    - Organisational Agility
-    - Release Management
-    - Frequent Releases
-    - Agile Values and Principles
     categories:
     - Product Management
     preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
@@ -189,7 +174,7 @@
 
     As a start we can collect some qualitative data to validate some of our assumptions:
 
-    - **Customer Satisfaction** - is a key measure as it is an indication of the happiness of your users with the features that you currently have in your product.
+    - **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})** - is a key measure as it is an indication of the happiness of your users with the features that you currently have in your product.
     - **Product Usage** - Its key to see just how much of our product is being used by our users. There is no point in trying to add features to areas that are not being used. Features are only valuable if they fulfil some need for users and the business and usage is a key indicator of value.
     - **Employee Satisfaction** - is another key indicator. If our employees feel that they understand how their work contributes to the overall product vision then they will leverage that focus and understanding towards building a better product.
 
@@ -201,7 +186,7 @@
 
     ## Releasing is the only way to deliver value
 
-    Without getting our increment in front of those real-users we also don't have any value. Its effectively sitting on our shelf in the warehouse and is depreciating. What is the cost of delay for your feature? If you could get this value, this new business feature, into the hands of real users and make their lives easier how much money would you save? You cant save that money until users can actually use that feature.
+    Without getting our [increment]({{< ref "/tags/increment" >}}) in front of those real-users we also don't have any value. Its effectively sitting on our shelf in the warehouse and is depreciating. What is the cost of delay for your feature? If you could get this value, this new business feature, into the hands of real users and make their lives easier how much money would you save? You cant save that money until users can actually use that feature.
 
     ## A financial reason to release early
 
@@ -260,11 +245,6 @@
     - Agile Product Management
     - Common Goals
     - Enterprise Agility
-    - Product Discovery
-    - Agile Philosophy
-    - Agile Product Operating Model
-    - Agile Transformation
-    - Empirical Process Control
     categories:
     - Product Management
     - Leadership
@@ -279,28 +259,28 @@
 
     <figcaption>
 
-    _Reaching strategic goals requires experimenting, inspecting, and adapting_
+    _Reaching [strategic goals]({{< ref "/tags/strategic-goals" >}}) requires experimenting, inspecting, and adapting_
 
     </figcaption>
 
     </figure>
 
-    The key to realising an agile mindset within the business is the idea of experimentation and that we don't know where we want to get to, largely because the future of our business is clouded in the fog of war. There is always a high degree of uncertainty of the future and nothing has illustrated that more in recent times than the COVID-19 pandemic. Every business had to reassess its Strategic objectives more than normal, and normal is often a lot.
+    The key to realising an agile mindset within the business is the idea of [experimentation]({{< ref "/tags/experimentation" >}}) and that we don't know where we want to get to, largely because the future of our business is clouded in the fog of war. There is always a high degree of uncertainty of the future and nothing has illustrated that more in recent times than the COVID-19 pandemic. Every business had to reassess its Strategic objectives more than normal, and normal is often a lot.
 
     > The **fog of war** (German: *Nebel des Krieges*) is the uncertainty in situational awareness experienced by participants in military operations. The term seeks to capture the uncertainty regarding one's own capability, adversary capability, and adversary intent during an engagement, operation, or campaign. Military forces try to reduce the fog of war through military intelligence and friendly force tracking systems.
     >
     > Wikipedia
 
-    Since presenting [Evolution not Transformation: This is the Inevitability of change](https://nkdagility.com/blog/evolution-not-transformation-this-is-the-inevitability-of-change/) I have come to realise more and more that it is the Business and Executive leadership that is holding back the [retirement of the traditional practices that were developed to manage factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/) in favour of those needed to manage cognitive work. Even a cursory look at many of the modern organisations that are able to adapt to business changes shows a far greater success than other more traditionally run businesses. Think Spotify, Zappos, Microsoft, Apple, Google.
+    Since presenting [Evolution not Transformation: This is the Inevitability of change](https://nkdagility.com/blog/evolution-not-transformation-this-is-the-inevitability-of-change/) I have come to realise more and more that it is the Business and Executive [leadership]({{< ref "/categories/leadership" >}}) that is holding back the [retirement of the traditional practices that were developed to manage factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/) in favour of those needed to manage cognitive work. Even a cursory look at many of the modern organisations that are able to adapt to business changes shows a far greater success than other more traditionally run businesses. Think Spotify, Zappos, Microsoft, Apple, Google.
 
     We need to adopt the key practices of [Product Discovery](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) that is adapted for the modern world. These are:
 
-    - **Outcome over Output** \- In order to reassess our existing management practices we need to ask the question "_Does the practice increate our output or outcome?_". Don't be trapped into delivering lots of poorly made, poorly targets deliverables. You want your smart creative people spending time on the valuable outcomes that change your customer's behaviour to benefit the organization. Some examples of traditional practices that were developed to maximise output rather than outcome are; Task and Bonus, Departments (Sales, Marketing, HR, Engineering, Test), Work Breakdown Structure, progression through salary and job title. if you are not running a factory during the industrial revolution then you may need to reevaluate the impact of these practices on your desired outcomes. The Standish Group in Boston has an annual report that consistently shows, through data analysis, that traditional project management practices (Prince2/PMI/other) have a negative impact on your organisation's ability to deliver value in cognitive work like Software, Sales, and Marketing.
+    - **Outcome over Output** \- In order to reassess our existing management practices we need to ask the question "_Does the practice increate our output or outcome?_". Don't be trapped into delivering lots of poorly made, poorly targets deliverables. You want your smart creative people spending time on the valuable outcomes that change your customer's behaviour to benefit the organization. Some examples of traditional practices that were developed to maximise output rather than outcome are; Task and Bonus, Departments (Sales, Marketing, HR, Engineering, Test), Work Breakdown Structure, progression through salary and job title. if you are not running a factory during the industrial revolution then you may need to reevaluate the impact of these practices on your desired outcomes. The Standish Group in Boston has an annual report that consistently shows, through data analysis, that traditional [project management]({{< ref "/tags/project-management" >}}) practices (Prince2/PMI/other) have a negative impact on your organisation's ability to deliver value in cognitive work like Software, Sales, and Marketing.
     - **Investment Opportunities** - We still need to budget but instead of traditional project-based that falls into the trap of output over the outcome, we need a new model that reflects Outcomes and Opportunities for discovery that will make our business more successful. This new Budgetary model can revolve around Delivery Teams that represent our investment. _As yourself how many teams are we willing to invest in discovery for any given opportunity?_ Over the course of a year, you may readjust where the Delivery Teams spend their time based on what you learn. Stop investing Delivery Teams time in areas that it is clear that you are not getting an adequate return on investment. Each year we can assess how many teams, in each of our value streams, we are willing to fund.
-    - **Experimentation** \- There are no failures only learnings and our goal needs to be to minimise the cost of these learnings and maximizing the success. Short iterative experiments in any investment opportunity. A good example is the Azure DevOps teams at Microsoft where they have ~42 teams that they can invest in Azure Pipelines, Azure Boards, Azure Repos, and other verticals in the product. Each vertical will have its Intermediate Strategic Goal (Product Goal) and a budget of "headcount" (read teams) that they can use to invest in moving towards that Intermediate Strategic Goal, one experiment at a time. If leadership believes that they are not making enough progress in a particular vertical they are free to relocate teams to address this based on market analysis.
-    - **Hypothesis Driven** - To understand the outcome of the experiment we need some sort of hypothesis. This is like an assumption, but with one important distinction; We have a measure that will tell us if our assumption is true. It is the accountability of Product Management (likely as a Product Owner) to validate their assumptions using data and minimise the spend to get there. Running many small experiments where the Delivery Teams create small valuable outcomes that you can test with real users and validate is imperative.
+    - **Experimentation** \- There are no failures only learnings and our goal needs to be to minimise the cost of these learnings and maximizing the success. Short iterative experiments in any investment opportunity. A good example is the Azure [DevOps]({{< ref "/categories/devops" >}}) teams at Microsoft where they have ~42 teams that they can invest in [Azure Pipelines]({{< ref "/tags/azure-pipelines" >}}), [Azure Boards]({{< ref "/tags/azure-boards" >}}), [Azure Repos]({{< ref "/tags/azure-repos" >}}), and other verticals in the product. Each vertical will have its Intermediate Strategic Goal (Product Goal) and a budget of "headcount" (read teams) that they can use to invest in moving towards that Intermediate Strategic Goal, one experiment at a time. If leadership believes that they are not making enough progress in a particular vertical they are free to relocate teams to address this based on market analysis.
+    - **Hypothesis Driven** - To understand the outcome of the experiment we need some sort of hypothesis. This is like an assumption, but with one important distinction; We have a measure that will tell us if our assumption is true. It is the accountability of [Product Management]({{< ref "/categories/product-management" >}}) (likely as a [Product Owner]({{< ref "/tags/product-owner" >}})) to validate their assumptions using data and minimise the spend to get there. Running many small experiments where the Delivery Teams create small valuable outcomes that you can test with real users and validate is imperative.
 
-    We need to reassess the use of the terms Scope & Failure in light of this new reality and evolve into a lean data-driven organisation based on experimentation and discovery that allows us to adapt to business changes as they arise!
+    We need to reassess the use of the terms Scope & Failure in light of this new reality and evolve into a [lean]({{< ref "/categories/lean" >}}) data-driven organisation based on experimentation and discovery that allows us to adapt to business changes as they arise!
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-21-product-goal-is-an-intermediate-strategic-goal\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-21-product-goal-is-an-intermediate-strategic-goal
 - FrontMatter:
@@ -349,10 +329,6 @@
     - Agile Planning Tools
     - Product Owner
     - Scrum Master
-    - Working Software
-    - Operational Practices
-    - Agile Transformation
-    - Value Delivery
     categories:
     - Scrum
     - Product Management
@@ -364,7 +340,7 @@
 
     ## TL;DR
 
-    If you get to the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) event and your Product Backlog Items for the next Sprint are not already of a size that can fit into the Sprint and fully understood by the [Developers](/the-2020-scrum-guide/#developers), then you are doing it wrong. You are heading for the rocks from the start, and you have no map of the shallows to prevent it.
+    If you get to the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) event and your [Product Backlog]({{< ref "/tags/product-backlog" >}}) Items for the next Sprint are not already of a size that can fit into the Sprint and fully understood by the [Developers](/the-2020-scrum-guide/#developers), then you are doing it wrong. You are heading for the rocks from the start, and you have no map of the shallows to prevent it.
 
     Although the [Scrum Guide](/the-2020-scrum-guide/) does not define Refinement as an event, you should be doing it. You can come up with your Refinement event(s), or refine ad-hoc. Whatever you chose there is a simple measure of success. If your [Developers](/the-2020-scrum-guide/#developers) looks at something within the next 2 Sprints on the backlog and they don’t understand it, then you have work to do.
 
@@ -375,12 +351,12 @@
 
     ## What does ready mean for a Product Backlog?
 
-    If the [Developers](/the-2020-scrum-guide/#developers) does not understand the things that they are being asked to do how could they possibly agree that the items can fit in a Sprint? You will often find teams that don’t do refinement confused as to why they can't get everything done in a Sprint. While we accept that in an empirical process like Scrum that we, know less upfront than we discover as we go, merely taking a guess and hoping for the best is decidedly unprofessional.
+    If the [Developers](/the-2020-scrum-guide/#developers) does not understand the things that they are being asked to do how could they possibly agree that the items can fit in a Sprint? You will often find teams that don’t do refinement confused as to why they can't get everything done in a Sprint. While we accept that in an empirical process like [Scrum]({{< ref "/categories/scrum" >}}) that we, know less upfront than we discover as we go, merely taking a guess and hoping for the best is decidedly unprofessional.
 
-    > "Selecting how much can be completed within a Sprint may be challenging. However, the more the [Developers](/the-2020-scrum-guide/#developers) know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts."  
+    > "Selecting how much can be completed within a Sprint may be challenging. However, the more the [Developers](/the-2020-scrum-guide/#developers) know about their past performance, their upcoming capacity, and their [Definition of Done]({{< ref "/tags/definition-of-done" >}}), the more confident they will be in their Sprint forecasts."  
     > \-ScrumGuides.org
 
-    While we don’t need a definition of ready, we do need a working agreement between the [Product Owner](/the-2020-scrum-guide/#product-owner) and the [Developers](/the-2020-scrum-guide/#developers). In Scrum, the [Developers](/the-2020-scrum-guide/#developers) are the ones selecting work for the Sprint, and they are the only ones that can decide what they can do. [Developers](/the-2020-scrum-guide/#developers) should be empowered to refuse to take items from the backlog that either they do not understand, or are too big to be completed in a single sprint. In general, I would expect that a [team](/the-2020-scrum-guide/#scrum-team) take many items into their Sprint, so they need to be sized appropriately.
+    While we don’t need a [definition of ready]({{< ref "/tags/definition-of-ready" >}}), we do need a working agreement between the [Product Owner](/the-2020-scrum-guide/#product-owner) and the [Developers](/the-2020-scrum-guide/#developers). In Scrum, the [Developers](/the-2020-scrum-guide/#developers) are the ones selecting work for the Sprint, and they are the only ones that can decide what they can do. [Developers](/the-2020-scrum-guide/#developers) should be empowered to refuse to take items from the backlog that either they do not understand, or are too big to be completed in a single sprint. In general, I would expect that a [team](/the-2020-scrum-guide/#scrum-team) take many items into their Sprint, so they need to be sized appropriately.
 
     Ready Backlog just means that the [Developers](/the-2020-scrum-guide/#developers) can select it with confidence.
 
@@ -388,7 +364,7 @@
 
     Refinement is not an explicit event in the [Scrum Guide](/the-2020-scrum-guide/) because it is something that can be different depending on the Product, Domain, or Technology. If you were to ask how much refinement you should do then the answer is "as much as you need and no more". Too much refinement is waste, as it too little.
 
-    > "Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work."
+    > "Product [Backlog refinement]({{< ref "/tags/backlog-refinement" >}}) is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work."
     >
     > \-[The 2020 Scrum Guide](/the-2020-scrum-guide/)
 
@@ -431,12 +407,14 @@
     - /blog/getting-started-with-a-definition-of-done-(dod)
     - /resources/z18IcQhlD7I
     - /resources/blog/getting-started-definition-done-dod
+    - /resources/blog/getting-started-with-a-definition-of-done-dod
     aliasesArchive:
     - /blog/getting-started-definition-done-dod
     - /getting-started-definition-done-dod
     - /getting-started-with-a-definition-of-done-(dod)
     - /blog/getting-started-with-a-definition-of-done-(dod)
     - /resources/blog/getting-started-definition-done-dod
+    - /resources/blog/getting-started-with-a-definition-of-done-dod
     tags:
     - Working Software
     - Definition of Done
@@ -453,34 +431,29 @@
     - Team Performance
     - Agile Planning
     - Transparency
-    - Competence
-    - Value Delivery
-    - Continuous Improvement
-    - Empirical Process Control
-    - Test First Development
     categories:
     - Scrum
     - Engineering Excellence
     preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
   BodyContent: |
-    In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a Definition of Done (DoD).
+    In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD).
 
     [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/blog/update-scrum-guide-25th-anniversary-scrum-framework/)
 
     ## TL;DR;
 
-    Your [Developers](/the-2020-scrum-guide/#developers) are ultimately responsible for creating done increments of working software. Done Increments. **Done**.
+    Your [Developers](/the-2020-scrum-guide/#developers) are ultimately responsible for creating done increments of [working software]({{< ref "/tags/working-software" >}}). Done Increments. **Done**.
 
     ![](images/naked-Agility-Scrum-Framework-Definition-of-Done-920x720-1-2.jpg)
     { .post-img }
 
-    [Developers](/the-2020-scrum-guide/#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. Working Software is not specific to a PBI; it's applied regardless of PBI to the entire delivery. Not just for each PBI.
+    [Developers](/the-2020-scrum-guide/#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every [Increment]({{< ref "/tags/increment" >}}) of software that they deliver. Working Software is not specific to a PBI; it's applied regardless of PBI to the entire delivery. Not just for each PBI.
 
-    > "The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration."
+    > "The Definition of Done creates [transparency]({{< ref "/tags/transparency" >}}) by providing everyone a shared understanding of what work was completed as part of the Increment. If a [Product Backlog]({{< ref "/tags/product-backlog" >}}) item does not meet the Definition of Done, it cannot be released or even presented at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). Instead, it returns to the Product Backlog for future consideration."
     >
     > \-[The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)
 
-    If you can't ship working software at least every 30 days then by its very definition, you are not yet doing Scrum. Since [Professional Scrum Teams build software that works](/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by "working" continuously, and at least on a regular cadence.
+    If you can't ship working software at least every 30 days then by its very definition, you are not yet doing [Scrum]({{< ref "/categories/scrum" >}}). Since [Professional Scrum Teams build software that works](/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by "working" continuously, and at least on a regular cadence.
 
     ## What is a Definition of Done (DoD)
 
@@ -572,26 +545,21 @@
     - Agile Frameworks
     - Professional Scrum
     - Team Collaboration
-    - Continuous Improvement
-    - Organisational Agility
-    - Increment
-    - Technical Mastery
-    - Agile Strategy
     categories:
     - Engineering Excellence
     - Scrum
     - Technical Leadership
     preview: staggered-iterations-for-delivery1-2-2.png
   BodyContent: |
-    There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more technical debt and lower quality software.
+    There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more [technical debt]({{< ref "/tags/technical-debt" >}}) and lower quality software.
 
     [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)
 
     ## TL;DR;
 
-    The expected result of staggered iterations would be an increase in rework and in technical debt. If you are moving from a 4-year iterative process to a 4-month one you will see the value, but your process will be opaque and will only reduce your ability to deliver working software.
+    The expected result of staggered iterations would be an increase in rework and in technical debt. If you are moving from a 4-year iterative process to a 4-month one you will see the value, but your process will be opaque and will only reduce your ability to deliver [working software]({{< ref "/tags/working-software" >}}).
 
-    > Yes, your cycle time will be reduced, but you can do so much better. Move all requirements for shipping your software into your Sprint. If you need testing then it needs to be inside of the Sprint. A general rule is that: If you need to validate something outside of the Sprint; User Acceptance, Security audit, regulatory approval; Then you need to make sure that all of the work required to pass that outside validation is doing inside of the Sprint, with no further work required from the development team.
+    > Yes, your [cycle time]({{< ref "/tags/cycle-time" >}}) will be reduced, but you can do so much better. Move all requirements for shipping your software into your Sprint. If you need testing then it needs to be inside of the Sprint. A general rule is that: If you need to validate something outside of the Sprint; User Acceptance, Security audit, regulatory approval; Then you need to make sure that all of the work required to pass that outside validation is doing inside of the Sprint, with no further work required from the development team.
     >
     > \-[Martin Hinshelwood](https://nkdagility.com/company/about-us/)
 
@@ -614,7 +582,7 @@
 
     </figure>
 
-    I have heard this called many things. Water-Scrum-fall or maybe Scrummerfall but whatever you call it the reality is that this is just small waterfalls and in the case above not really that small at all. This is often how organisations respond when they are told to "do agile" and they end up figuring out how to not really change, and do the same thing that they have always done.
+    I have heard this called many things. Water-[Scrum]({{< ref "/categories/scrum" >}})-fall or maybe Scrummerfall but whatever you call it the reality is that this is just small waterfalls and in the case above not really that small at all. This is often how organisations respond when they are told to "do agile" and they end up figuring out how to not really change, and do the same thing that they have always done.
 
     This is not the action of a [Professional Scrum Team](/the-2020-scrum-guide/#scrum-team), but that of, at best amateurs and at worst cowboys.
 
@@ -627,12 +595,12 @@
     We need to foster teams over individuals and make those teams responsible for the delivery of working software. To get that we need cross-functional teams that can turn ideas into that working software. And we need to do it often.
 
     - **Cross-functional teams** – We need to have everyone on the [Developers](/the-2020-scrum-guide/#developers) that is required to turn the Backlog Item into working software. If you were a property developer you would have access to joiners, plumbers, plasterers and electricians. You would create a team of individuals that was sufficient to complete the daily work on-site with experts on hand as needed. This is the same process for [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers). You should have all of the skills that you require on each team to turn the forecast backlog items into working software each and every iteration. Have experts on hand for those tricky items but minimise the dependency that you have on them.
-    - **Asynchronous development** -  Ideally you want all of the disciplines that you need to complete each backlog item to work together to deliver the software. This is more than handing off between disciplines but moving towards everyone always working at any point in time. This is a hard one to achieve but is the responsibility of the team to figure out how; [To achieve asynchronous development you will need a modern source control system](https://nkdagility.com/getting-started-with-modern-source-control-system-and-devops/).
+    - **[Asynchronous development]({{< ref "/tags/asynchronous-development" >}})** -  Ideally you want all of the disciplines that you need to complete each backlog item to work together to deliver the software. This is more than handing off between disciplines but moving towards everyone always working at any point in time. This is a hard one to achieve but is the responsibility of the team to figure out how; [To achieve asynchronous development you will need a modern source control system](https://nkdagility.com/getting-started-with-modern-source-control-system-and-devops/).
     - **Test first** – Test first is about not doing any work unless there is a measurable test that elicits that work. Creating tests from acceptance criteria will make sure that your team is working on and understands the next most relevant thing to be worked on and that you have built what the customer wants. Additionally, creating unit tests before code will make sure that your coders are working on the most relevant problem, and that each line of code that they complete does exactly what they intended. The long term benefit of this is that we now have an executable specification that will result in an error if a future change breaks existing functionality. [You are doing it wrong if you are not using test first.](https://nkdagility.com/you-are-doing-it-wrong-if-you-are-not-using-test-first/)
-    - **Working software each iteration** – If you don’t create working software at the end of each iteration you have no way of knowing what really needs to be done to create a working increment. If you do four iterations of two weeks before you think about creating a working increment, how much work (re-work really) is left that you need to complete to really be done? To really have shippable quality? If you don’t have working software at the end of each iteration you are making sure that your business can’t ship out of band, no matter how much it wants to; [Professional Scrum Teams build software that works](https://nkdagility.com/professional-scrum-teams-build-software-works/).
+    - **Working software each iteration** – If you don’t create working software at the end of each iteration you have no way of knowing what really needs to be done to create a working [increment]({{< ref "/tags/increment" >}}). If you do four iterations of two weeks before you think about creating a working increment, how much work (re-work really) is left that you need to complete to really be done? To really have shippable quality? If you don’t have working software at the end of each iteration you are making sure that your business can’t ship out of band, no matter how much it wants to; [Professional Scrum Teams build software that works](https://nkdagility.com/professional-scrum-teams-build-software-works/).
     - **Quality Assurance requires no testing** – If you consider that all testing is done as part of the sprint, then the only thing that needs to be done as part of the QA gate is to review the test results and coverage and determine the sufficiency of those results and coverage. If you are taking more than four hours to QA two weeks of development then I would suggest that the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) work is not sufficient.
 
-    These things will all individually help and if you are doing all of them together your value delivery and quality should start to increase over time. Make sure that you focus on automating everything from the moment a Software Engineer checks in code, to it being [continuously delivered to production](https://nkdagility.com/continuous-deliver-sprint/). In the age of agility giving you a competitive advantage in whatever marketplace you are in, any manual work is a risk.
+    These things will all individually help and if you are doing all of them together your [value delivery]({{< ref "/tags/value-delivery" >}}) and quality should start to increase over time. Make sure that you focus on automating everything from the moment a Software Engineer checks in code, to it being [continuously delivered to production](https://nkdagility.com/continuous-deliver-sprint/). In the age of agility giving you a competitive advantage in whatever marketplace you are in, any manual work is a risk.
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-10-a-better-way-than-staggered-iterations-for-delivery\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-10-a-better-way-than-staggered-iterations-for-delivery
 - FrontMatter:
@@ -677,8 +645,6 @@
     - Shift-Left Strategy
     - Competence
     - Product Delivery
-    - Acceptance Test Driven Development
-    - Product Validation
     categories:
     - Engineering Excellence
     preview: nkdAgility-PSD-Krakow-0-1-1.jpg
@@ -689,7 +655,7 @@
 
     ## TL;DR;
 
-    While it takes time, effort, dedication and discipline to achieve Test First the return on investment is enormous. A common form of Test First is Test Driven Development (TDD) and we can use it to meet more of our customer's expectations, minimise our maintenance costs, and get fewer regressions and bugs in production. Ultimately without working in a test-first culture, you will be [unable to do continuous delivery](/blog/continuous-deliver-sprint/) with any confidence.
+    While it takes time, effort, dedication and discipline to achieve Test First the return on investment is enormous. A common form of Test First is [Test Driven Development]({{< ref "/tags/test-driven-development" >}}) (TDD) and we can use it to meet more of our customer's expectations, minimise our maintenance costs, and get fewer regressions and bugs in production. Ultimately without working in a test-first culture, you will be [unable to do continuous delivery](/blog/continuous-deliver-sprint/) with any confidence.
 
     The only question for professional [Developers](/the-2020-scrum-guide/#developers) is how to get started.
 
@@ -704,13 +670,13 @@
     You will hear a lot of different terms banded about in relations to test first:
 
     - **Test-Driven Development (TDD)** – Automated tests created before the code is written to validate that we need that code.
-    - **Acceptance Test Driven Development (ATDD)** – Tests, either automated or manual, that validate business functionality
-    - **Behaviour Driven Development (BDD)** – An automated test that validates a particular behaviour that you want your application to have.
+    - **[Acceptance Test Driven Development]({{< ref "/tags/acceptance-test-driven-development" >}}) (ATDD)** – Tests, either automated or manual, that validate business functionality
+    - **[Behaviour Driven Development]({{< ref "/tags/behaviour-driven-development" >}}) (BDD)** – An automated test that validates a particular behaviour that you want your application to have.
     - etc…
 
-    > All of these topics, and more, are covered in the [Professional Scrum Developer (PSD) training](/training/courses/professional-scrum-developer-training/) that was build in combination with Scrum.org and Microsoft as the only official team training for Scrum & DevOps.
+    > All of these topics, and more, are covered in the [Professional Scrum Developer (PSD) training](/training/courses/professional-scrum-developer-training/) that was build in combination with [Scrum]({{< ref "/categories/scrum" >}}).org and Microsoft as the only official team training for Scrum & [DevOps]({{< ref "/categories/devops" >}}).
 
-    These terms all fulfil a specific niche and the evolution of modern software development will sprout many more. Find that which solves your specific problem and adapt until you have something that works for you, your team and your organisation.
+    These terms all fulfil a specific niche and the evolution of modern [software development]({{< ref "/tags/software-development" >}}) will sprout many more. Find that which solves your specific problem and adapt until you have something that works for you, your team and your organisation.
 
     ## The essence of test first
 
@@ -736,7 +702,7 @@
 
     Getting validation that we are building the right thing is key to actually being able to build the right thing. This sounds like a no-brainer but what do we usually do?
 
-    Well, we usually take our requirements, in whatever form we generally make them, and give them to our coders to turn into working software. Quite separately we give the same requirements to our testers and they create a bunch of tests to validate what we have built.
+    Well, we usually take our requirements, in whatever form we generally make them, and give them to our coders to turn into [working software]({{< ref "/tags/working-software" >}}). Quite separately we give the same requirements to our testers and they create a bunch of tests to validate what we have built.
 
     Did you notice the problem with this workflow?
 
@@ -803,11 +769,6 @@
     - Technical Debt
     - Competence
     - Engineering Practices
-    - Operational Practices
-    - Agile Transformation
-    - Continuous Improvement
-    - Technical Excellence
-    - Value Delivery
     categories:
     - Scrum
     - Engineering Excellence
@@ -818,17 +779,17 @@
 
     ## TL;DR;
 
-    Every organisation has the right to hold their [Developers](/the-2020-scrum-guide/#developers) accountable for the quality, but never quantity, of the software that they build. Every [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developer](https://nkdagility.com/the-2020-scrum-guide/#developers) should pursue engineering excellence through DevOps practices, automation, and rigorous attention to detail for every release. Working software builds trust with your users and promotes your brand, faulty software encourages distrust and hurts your reputation. Defective software and technical debt are the causes of the current death grip that organisations have to traditional Taylorism based management techniques.
+    Every organisation has the right to hold their [Developers](/the-2020-scrum-guide/#developers) accountable for the quality, but never quantity, of the software that they build. Every [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developer](https://nkdagility.com/the-2020-scrum-guide/#developers) should pursue [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) through [DevOps]({{< ref "/categories/devops" >}}) practices, automation, and rigorous attention to detail for every release. [Working software]({{< ref "/tags/working-software" >}}) builds trust with your users and promotes your brand, faulty software encourages distrust and hurts your reputation. Defective software and [technical debt]({{< ref "/tags/technical-debt" >}}) are the causes of the current death grip that organisations have to traditional Taylorism based management techniques.
 
     > Ultimately if your organisation will not let you build software any way you please its because of the shit that you have been trying to get away with delivering in the past. You have work to do to build trust again.
 
     Treat your team to a [Professional Scrum Developer](https://nkdagility.com/training/courses/professional-scrum-developer-training/) class to get them up to speed.
 
-    ## Scrum teams build quality software that works
+    ## [Scrum]({{< ref "/categories/scrum" >}}) teams build quality software that works
 
-    Working software is software that is free from fault or defect. Developers are primarily accountable for the quality and delivering a usable increment. While they are also responsible for value delivery, the accountability for that lies with the [Product Owner](/the-2020-scrum-guide/#product-owner). That means that if there is a choice between delivering value that lacks quality or providing less value that is of higher quality, [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) should always choose quality.
+    Working software is software that is free from fault or defect. Developers are primarily accountable for the quality and delivering a usable [increment]({{< ref "/tags/increment" >}}). While they are also responsible for [value delivery]({{< ref "/tags/value-delivery" >}}), the accountability for that lies with the [Product Owner](/the-2020-scrum-guide/#product-owner). That means that if there is a choice between delivering value that lacks quality or providing less value that is of higher quality, [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) should always choose quality.
 
-    Since "rules are for the guidance of wise people, and the obedience of fools" I am going to caveat that statement for those that like to latch onto absolutes. Since any software that you build is an organisational asset, and all assets are attributed to the value of your company then that software must exist on a balance sheet somewhere. If you as the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) decide to cut quality to make a delivery do you immediately speak to the CFO so that they can accurately reflect that loss of value on the companies balance sheet? Because if you don't, then knowing or not there is a danger that your organisation is committing fraud by inaccurately reflecting the value of your software! Ultimately the decision to cut quality should only be taken with the full consent and understanding of your executive leadership team.
+    Since "rules are for the guidance of wise people, and the obedience of fools" I am going to caveat that statement for those that like to latch onto absolutes. Since any software that you build is an organisational asset, and all assets are attributed to the value of your company then that software must exist on a balance sheet somewhere. If you as the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) decide to cut quality to make a delivery do you immediately speak to the CFO so that they can accurately reflect that loss of value on the companies balance sheet? Because if you don't, then knowing or not there is a danger that your organisation is committing fraud by inaccurately reflecting the value of your software! Ultimately the decision to cut quality should only be taken with the full consent and understanding of your executive [leadership]({{< ref "/categories/leadership" >}}) team.
 
     > The decision to cut quality is not one that the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers), the [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner), or IT management are able to take, it is reserved for executive leadership alone.
 
@@ -848,8 +809,8 @@
 
     1. **Known errors or exceptions** - if you find a bug then fix it. If it's too big, then raise it with the [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner), and get it on the [Product Backlog](/the-2020-scrum-guide/#product-backlog). To much time is spent managing rather than fixing bugs. Just fix them.
     2. Manual Tests - if you have manual tests then you are already working towards software that does not work, or that you struggle to deliver. It is unsustainable to have any manual testing, so get automating.
-    3. Manual pipelines - in 2017 no-one should be building production code on their local computer, never mind shipping it to production from there. Even if all your build does is package up some files, and push them to an FTP location. Automate your build process... If you have a person that has to do something more than approving between code and production, then you should look to automate that process away. Humans make mistakes, and humans miss stuff. At least with an automated process if not continuous delivery, you get consistency, and you can increase the complexity over time for consistency. Make sure that you automate both your build and release pipelines.
-    4. No Source Control – Yes, I still meat organisation with no Source Control, or no control over it. I wrote Getting started with modern source control and DevOps for just that reason. If you don't even have source control, whatever you are developing, then you need to get help and quick. The business risks that are exposed by not having it are just too big.
+    3. Manual pipelines - in 2017 no-one should be building production code on their local computer, never mind shipping it to production from there. Even if all your build does is package up some files, and push them to an FTP location. Automate your build process... If you have a person that has to do something more than approving between code and production, then you should look to automate that process away. Humans make mistakes, and humans miss stuff. At least with an automated process if not [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), you get consistency, and you can increase the complexity over time for consistency. Make sure that you automate both your build and release pipelines.
+    4. No Source Control – Yes, I still meat organisation with no Source Control, or no control over it. I wrote Getting started with [modern source control]({{< ref "/tags/modern-source-control" >}}) and DevOps for just that reason. If you don't even have source control, whatever you are developing, then you need to get help and quick. The business risks that are exposed by not having it are just too big.
     5. Lack of feature flags – It is a fundamental fallacy of the rejected backlog item, and your engineering team is going to have to figure out how to release at the end of every sprint (or every commit) regardless of the quality of the PBI’s being worked on. Hide features that are not completed behind feature flags so that they are not visible to end-users, but your code can still be shipped.
 
     The other name for the things that make it difficult to get to working software; Technical Debt. All of the things listed above are forms of Technical Debt, but the biggest form is just poor quality code. Code that is not tested or would not meet even a cursory code review by another software engineer.
@@ -896,20 +857,14 @@
     - Professional Scrum
     - Software Development
     - Agile Product Management
-    - Scrum Team
-    - Common Goals
-    - Product Delivery
-    - Scrum Values
-    - Team Performance
-    - Transparency
     categories:
     - Scrum
     preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
   BodyContent: |
-    In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure transparency and focus against progress during a Sprint.
+    In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress during a Sprint.
 
-    > The Sprint Goal is the single objective for the Sprint. Although the [Sprint Goa](/the-2020-scrum-guide/#commitment-sprint-goal)l is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.  
-    > The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
+    > The Sprint Goal is the single objective for the Sprint. Although the [Sprint Goa](/the-2020-scrum-guide/#commitment-sprint-goal)l is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the [Scrum]({{< ref "/categories/scrum" >}}) Team to work together rather than on separate initiatives.  
+    > The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the [Product Owner]({{< ref "/tags/product-owner" >}}) to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
     >
     > [The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal)
 
@@ -971,36 +926,31 @@
     - Technical Debt
     - Agile Transformation
     - Organisational Agility
-    - Forecasting
-    - Business Agility
-    - Scrum Team
-    - Increment
-    - Agile Strategy
     categories:
     - Scrum
     - Engineering Excellence
     - Technical Leadership
     preview: nkdAgility-habits-16x9-1280-2-2.jpg
   BodyContent: |
-    Many organisations wrestle with the seeming incompatibility between agile and release management, and they struggle with release planning and predictable delivery.
+    Many organisations wrestle with the seeming incompatibility between agile and [release management]({{< ref "/tags/release-management" >}}), and they struggle with release planning and predictable delivery.
 
     [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)
 
     ## TL;DR;
 
-    Without working software, you can't build trust and you don't know when you will get the next piece of working software.
+    Without [working software]({{< ref "/tags/working-software" >}}), you can't build trust and you don't know when you will get the next piece of working software.
 
-    Any software that you create is an organisational asset and decisions to cut quality need to be reflected in your company accounts and as such those decisions need to made by your executive leadership and should not be made by [Developers](/the-2020-scrum-guide/#developers). Once you accept this, and quality becomes non-negotiable, your [Dev](/the-2020-scrum-guide/#developers)[e](/the-2020-scrum-guide/#developers)[lopers](/the-2020-scrum-guide/#developers) can focus on creating usable increments of working software. Once you have usable increments of working software, you can then start to look with interest at the progress being made on features and goals.
+    Any software that you create is an organisational asset and decisions to cut quality need to be reflected in your company accounts and as such those decisions need to made by your executive [leadership]({{< ref "/categories/leadership" >}}) and should not be made by [Developers](/the-2020-scrum-guide/#developers). Once you accept this, and quality becomes non-negotiable, your [Dev](/the-2020-scrum-guide/#developers)[e](/the-2020-scrum-guide/#developers)[lopers](/the-2020-scrum-guide/#developers) can focus on creating usable increments of working software. Once you have usable increments of working software, you can then start to look with interest at the progress being made on features and goals.
 
-    Without a regular cadence of delivery of working software any belief that you will get a usable increment is misguided at best. [Professional Developers](/the-2020-scrum-guide/#developers) create working software.
+    Without a regular cadence of delivery of working software any belief that you will get a usable [increment]({{< ref "/tags/increment" >}}) is misguided at best. [Professional Developers](/the-2020-scrum-guide/#developers) create working software.
 
     ## Release planning and predictable delivery
 
-    The incompatibility between predictable delivery and agility is fictitious ([tweet this](http://clicktotweet.com/Ub4K3)) and while usually created by an organisation and structure that is unwilling to let go of the old ways and embrace the tenants of agile it can also be the result of a [Scrum Teams](/the-2020-scrum-guide/#scrum-team) fervour to divest themselves of all things that smack of prior planning. There is a lack of understanding that agile and the path to agility is far more than just a change in the way that you build software, it is a fundamental shift in the way that you run your business. Much like the lean movement in manufacturing, companies that embraced it wholeheartedly were the ones that ultimately see the competitive edge that it provides. If one is unwilling to let go of the old ways, then one can’t attain the value of the new. This change will take hard work and courage as the fundamental transparency required to inspect and adapt effectively is at odds with the measures of the past. The lack of predictability of software development is the key to understanding the new model.
+    The incompatibility between predictable delivery and agility is fictitious ([tweet this](http://clicktotweet.com/Ub4K3)) and while usually created by an organisation and structure that is unwilling to let go of the old ways and embrace the tenants of agile it can also be the result of a [Scrum Teams](/the-2020-scrum-guide/#scrum-team) fervour to divest themselves of all things that smack of prior planning. There is a lack of understanding that agile and the path to agility is far more than just a change in the way that you build software, it is a fundamental shift in the way that you run your business. Much like the [lean]({{< ref "/categories/lean" >}}) movement in manufacturing, companies that embraced it wholeheartedly were the ones that ultimately see the competitive edge that it provides. If one is unwilling to let go of the old ways, then one can’t attain the value of the new. This change will take hard work and courage as the fundamental [transparency]({{< ref "/tags/transparency" >}}) required to inspect and adapt effectively is at odds with the measures of the past. The lack of predictability of [software development]({{< ref "/tags/software-development" >}}) is the key to understanding the new model.
 
     ## Why is software so unpredictable
 
-    **All software development is product development.** In lean manufacturing, we can optimise the production of pre-developed products through the nature of its predictable production. Each unit of work takes the same amount of materials and time to produce so any changes that we make to the process, time, or materials can easily be qualified and the benefit demonstrated. **Manufacturing lives in the predictive world.**
+    **All software development is [product development]({{< ref "/categories/product-development" >}}).** In lean manufacturing, we can optimise the production of pre-developed products through the nature of its predictable production. Each unit of work takes the same amount of materials and time to produce so any changes that we make to the process, time, or materials can easily be qualified and the benefit demonstrated. **Manufacturing lives in the predictive world.**
 
     With software everything that we create takes its own amount of time: You can really only know how long something took after it has been completed. Even in manufacturing if you asked an engineer how long it would take to develop a new type of unit of work they would not be able to tell you with any certainty. Once they have developed it however they can tell you exactly how long it will take to make each one, and then systematically optimise the process that you use to make it. In software development we are always doing new product design, therefore, we have no certainty...and this often results in chaos. **Software lives in the empirical world.**
 
@@ -1012,7 +962,7 @@
     { .post-img }
     Figure: Diminishing returns from [Agile Estimating – Estimation Approaches](http://leadinganswers.typepad.com/leading_answers/2007/11/agile-estimatin.html)
 
-    Ultimately Software Development is a creative endeavour and has the same lack of predictability that painting a picture, writing a book or making a movie has. Yet movies get made all of the time. How can that possibly be! Well, they have a Director ([Product Owner](/the-2020-scrum-guide/#product-owner)) that has a bunch of money and a delivery plan, a Producer (Scrum Master) to make sure that everyone has the skills, knowledge and assets available at the right time and place and one or more Units (Scrum Teams) that have all of the skills necessary to turn the Directors ideas into a working movie. They create Storyboards of what they expect to create so that they can run it past the stakeholders and get feedback. They take those storyboards to the Units who collaboratively work together with the stunt, prop, lighting, camera, sound and wardrobe crews to get estimates and costs and ultimately coordinating to create the movie. Sometimes they don’t know how to do stuff and have to have a go and see what they get.
+    Ultimately Software Development is a creative endeavour and has the same lack of predictability that painting a picture, writing a book or making a movie has. Yet movies get made all of the time. How can that possibly be! Well, they have a Director ([Product Owner](/the-2020-scrum-guide/#product-owner)) that has a bunch of money and a delivery plan, a Producer ([Scrum]({{< ref "/categories/scrum" >}}) Master) to make sure that everyone has the skills, knowledge and assets available at the right time and place and one or more Units (Scrum Teams) that have all of the skills necessary to turn the Directors ideas into a working movie. They create Storyboards of what they expect to create so that they can run it past the stakeholders and get feedback. They take those storyboards to the Units who collaboratively work together with the stunt, prop, lighting, camera, sound and wardrobe crews to get estimates and costs and ultimately coordinating to create the movie. Sometimes they don’t know how to do stuff and have to have a go and see what they get.
 
     Making a movie is just like building software, you need a budget, you need a plan, and you are trying to reach a ship date. And just like making a movie, you have to make money at the end of the day so that you can do it all over again.
 
@@ -1020,7 +970,7 @@
 
     While I hope by now you understand that the lack of predictability is part of the nature of building software, there are many things that we can do to lessen the impact of that chaos. Indeed if you were to estimate all of the discreet things that you need to do to achieve a goal (let us call them backlog items) in Small, Medium and Large what would your standard deviation of actual hours be? I would wager that it is fairly large. So large in fact that at least half of all mediums would be more accurately classified as Large. But that reclassification can only be done with hindsight. This is indeed one of the tenants of the No-Estimates movement, as really there are only three classifications of size: **small,** **fits** in a Sprint, or **too big** to fit in a Sprint.
 
-    This difficulty in estimation is normal for organisations that move towards agility as the transparency that it brings uncovers these sorts of problems. In order to increase the accuracies of our forecasts, there are a number of simple activities that we can perform. These activities, while easy to understand, are very hard to do as they require a culture shift within your organisation as well as the courage of the participants to make them work.
+    This difficulty in [estimation]({{< ref "/tags/estimation" >}}) is normal for organisations that move towards agility as the transparency that it brings uncovers these sorts of problems. In order to increase the accuracies of our forecasts, there are a number of simple activities that we can perform. These activities, while easy to understand, are very hard to do as they require a culture shift within your organisation as well as the courage of the participants to make them work.
 
     ## Focus on continuous quality
 
@@ -1028,7 +978,7 @@
 
     > If you put developers under pressure to deliver they will continuously and increasingly cut quality to meet deadlines.\-Unknown ([Tweet this](http://clicktotweet.com/0U2be))
 
-    A lack of quality of the code results in an increase in [Technical Debt](/blog/professional-scrum-teams-build-software-works/) (or more accurately an unhedged fund) which in turn results in two nasties. The first is the teams increasingly have to spend more time struggling with the complexity of your software rather than on new features. If you are still pushing your teams to deliver the same feature level every year you are only encouraging them to cut more quality and thus incurring more technical debt which becomes a vicious cycle. The second is an increasing number of bugs found in production. Bugs found in production also directly impact on the number of features that the team can deliver and any bug, no matter how small, costs ten times and much to fix in production than it does in development.
+    A lack of quality of the code results in an increase in [Technical Debt](/blog/professional-scrum-teams-build-software-works/) (or more accurately an unhedged fund) which in turn results in two nasties. The first is the teams increasingly have to spend more time struggling with the complexity of your software rather than on new features. If you are still pushing your teams to deliver the same feature level every year you are only encouraging them to cut more quality and thus incurring more [technical debt]({{< ref "/tags/technical-debt" >}}) which becomes a vicious cycle. The second is an increasing number of bugs found in production. Bugs found in production also directly impact on the number of features that the team can deliver and any bug, no matter how small, costs ten times and much to fix in production than it does in development.
 
     The only way to handle technical debt is to stop creating it, and then pay a little back each iteration. If however, you are so drowning in technical debt that you cant create working software at the end of the iteration then:
 
@@ -1037,7 +987,7 @@
     3. While you have an increment of working software ([Sprint](/the-2020-scrum-guide/#the-sprint))
        1. **Work to create something of value ([Increment](/the-2020-scrum-guide/#increment))**
           1. Work towards a new goal while meeting the DOD ([Sprint Goal](/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog/))
-          2. Leave things better than you found them (Engineering Excellence)
+          2. Leave things better than you found them ([Engineering Excellence]({{< ref "/categories/engineering-excellence" >}}))
        2. **Review that thing of value with your stakeholders ([Sprint Review](/the-2020-scrum-guide/#sprint-review), Backlog Adaption)**
           1. Get feedback on at least one new thing for stakeholders
           2. Update the Backlog to reflect this new information
@@ -1051,14 +1001,14 @@
 
     There are a number of strategies that can help you both stop creating and start paying back technical-debt:
 
-    - **Sufficient requirements** – If your backlog has things in it that are too big or too vague then your team will not really be able to understand them and this, in turn, creates a multiplier for uncertainty. Follow the INVEST (Independent, Negotiable, Valued, Estimable, Small, Testable ) model for every single thing that you ask the team to deliver. If you invest in you backlog in this way you will find it much easier to deliver the contents and thus predict that delivery. This will require you to spend a significant amount of time in refinement. Backlog refinement is key to facilitating a flow of actionable Backlog Items to your team.
-    - **The [Developers](/the-2020-scrum-guide/#developers) choose what they can deliver** – this implies that the [Developers](/the-2020-scrum-guide/#developers) can reject any item on the backlog that they do not understand. If we accept that every [Developer](/the-2020-scrum-guide/#developers) is trying to do their best to deliver for their [Product Owner](/the-2020-scrum-guide/#product-owner) then the only reason to reject anything would be if an item is too big or does not have enough detail to understand. These Backlog Items can be put on the queue for refinement and refined over the next Sprint. Remember that there is [no such thing as a rejected backlog item](/blog/the-fallacy-of-the-rejected-backlog-item/), only actionable feedback and continuous improvement.
-    - **Definition of Done (DoD)** – Along with having sufficient requirements the single biggest blocker to predictability is a lack of common understanding of DONE. Done for [Developers](/the-2020-scrum-guide/#developers) should equal what it means to complete an item with no further work required to ship it. If [you cant ship working software](/blog/professional-scrum-teams-build-software-works/) then you need to stop sprinting, Scrumble, and focus on getting your software into a shape that can be delivered in a Sprint.
+    - **Sufficient requirements** – If your backlog has things in it that are too big or too vague then your team will not really be able to understand them and this, in turn, creates a multiplier for uncertainty. Follow the INVEST (Independent, Negotiable, Valued, Estimable, Small, Testable ) model for every single thing that you ask the team to deliver. If you invest in you backlog in this way you will find it much easier to deliver the contents and thus predict that delivery. This will require you to spend a significant amount of time in refinement. [Backlog refinement]({{< ref "/tags/backlog-refinement" >}}) is key to facilitating a flow of actionable Backlog Items to your team.
+    - **The [Developers](/the-2020-scrum-guide/#developers) choose what they can deliver** – this implies that the [Developers](/the-2020-scrum-guide/#developers) can reject any item on the backlog that they do not understand. If we accept that every [Developer](/the-2020-scrum-guide/#developers) is trying to do their best to deliver for their [Product Owner](/the-2020-scrum-guide/#product-owner) then the only reason to reject anything would be if an item is too big or does not have enough detail to understand. These Backlog Items can be put on the queue for refinement and refined over the next Sprint. Remember that there is [no such thing as a rejected backlog item](/blog/the-fallacy-of-the-rejected-backlog-item/), only actionable feedback and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
+    - **[Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD)** – Along with having sufficient requirements the single biggest blocker to predictability is a lack of common understanding of DONE. Done for [Developers](/the-2020-scrum-guide/#developers) should equal what it means to complete an item with no further work required to ship it. If [you cant ship working software](/blog/professional-scrum-teams-build-software-works/) then you need to stop sprinting, Scrumble, and focus on getting your software into a shape that can be delivered in a Sprint.
     - **Test First** - Focus on [Test First practices like TDD or ATDD](/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first/) to help you make sure that not only did your engineers build what they expect, but that you ultimately built what the customer expects.
     - **Fixed length iterations** – If you have variable length iterations you can’t be sure what you can do in a particular timeframe. How much decomposition do you need to do to the backlog? How much can the team deliver in a single iteration? You can’t be sure unless you have fixed length iteration, and [you reject the idea of staggered iterations](/blog/a-better-way-than-staggered-iterations-for-delivery/).
-    - **No separate teams** – This means no separate test teams, configuration management teams and definitely no separate maintenance teams. It's hard for folks to grasp, especially with the recent focus on DevOps but if you have separate teams then why would your [Developers](/the-2020-scrum-guide/#developers), those best placed to fix any problems, care about the problems of other teams. The most successful organisations at creating software have development teams that own the entire application lifecycle (Amazon AWS | Visual Studio | Azure DevOps.)
+    - **No separate teams** – This means no separate test teams, configuration management teams and definitely no separate maintenance teams. It's hard for folks to grasp, especially with the recent focus on [DevOps]({{< ref "/categories/devops" >}}) but if you have separate teams then why would your [Developers](/the-2020-scrum-guide/#developers), those best placed to fix any problems, care about the problems of other teams. The most successful organisations at creating software have development teams that own the entire application lifecycle (Amazon AWS | Visual Studio | [Azure DevOps]({{< ref "/tags/azure-devops" >}}).)
     - **Manage dependencies** - Managing dependencies is a hard task and my advice would always be to minimise the number of dependencies that you have. [Developers](/the-2020-scrum-guide/#developers) should have all of the skills required to deliver what you want at the quality level that you want. So if you need to have productionised databases or scripting for production delivery then you might need a DBA or an Operations administrator or two. This can be hard for many teams or organisations but you will have far less success creating silos like Configuration Management or DevOps. Rather add those individuals that you need to the team. However, if you have a dependency on a separate team, maybe you have an application upon which all of your other applications depend, then you may need another way. This is not a silo of types of individual skills, but of a domain and that team just has something in their backlog upon which you are dependent. It is up to the team's respective [Product Owners](/the-2020-scrum-guide/#product-owner) to fight negotiate over when these things get done.
-    - **Use a modern source control system** - A [modern source control system is more than just code management](/blog/getting-started-with-modern-source-control-system-and-devops/), it should include all of the goodies talked about in DevOps practices and beyond.
+    - **Use a [modern source control]({{< ref "/tags/modern-source-control" >}}) system** - A [modern source control system is more than just code management](/blog/getting-started-with-modern-source-control-system-and-devops/), it should include all of the goodies talked about in DevOps practices and beyond.
 
     If you can, do them all, and many more…
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-11-24-release-planning-and-predictable-delivery\index.md
@@ -1096,20 +1046,16 @@
     - Agile Frameworks
     - Agile Planning
     - Product Delivery
-    - Product Owner
-    - Value Delivery
-    - Strategic Goals
-    - Product Backlog
     categories:
     - Scrum
     - Product Management
     preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
   BodyContent: |
-    In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure transparency and focus against progress.
+    In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress.
 
-    > The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfil the Product Goal.  
+    > The Product Goal describes a future state of the product which can serve as a target for the [Scrum]({{< ref "/categories/scrum" >}}) Team to plan against. The Product Goal is in the [Product Backlog]({{< ref "/tags/product-backlog" >}}). The rest of the Product Backlog emerges to define “what” will fulfil the Product Goal.  
     > A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract.  
-    > The Product Goal is the long-term objective for the Scrum Team. They must fulfil (or abandon) one objective before taking on the next.
+    > The Product Goal is the long-term objective for the [Scrum Team]({{< ref "/tags/scrum-team" >}}). They must fulfil (or abandon) one objective before taking on the next.
     >
     > [The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)
 
@@ -1162,23 +1108,17 @@
     - Professional Scrum
     - Scrum Team
     - Software Development
-    - Team Collaboration
-    - Agile Planning
-    - Agile Product Management
-    - Self Organisation
-    - Team Performance
-    - Increment
     categories:
     - Scrum
     preview: naked-Agility-Scrum-Framework-3-2.jpg
   BodyContent: |
-    It has been 25 years since Scrum was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.
+    It has been 25 years since [Scrum]({{< ref "/categories/scrum" >}}) was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.
 
     [The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)
 
     [The 2017 Scrum Guide](https://nkdagility.com/the-2017-scrum-guide/)
 
-    > New updates include simplified language, less prescriptive and emphasis on the Scrum Team and its need to be self-managing
+    > New updates include simplified language, less prescriptive and emphasis on the [Scrum Team]({{< ref "/tags/scrum-team" >}}) and its need to be self-managing
 
     It's very clear that Scrum has not changed! Ken & Jeff have just found better ways to describe Scrum to simplify the story as well as reduce the cognitive load of interpreting it.
 
@@ -1188,10 +1128,10 @@
     There are lots of awesome changes so let's see if I can highlight the things I noticed the most:
 
     - [Scrum Teams are self-managing](https://nkdagility.com/the-2020-scrum-guide/#scrum-team) - Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how.
-    - [Scrum Team is accountable for creating a valuable](https://nkdagility.com/the-2020-scrum-guide/#scrum-team) - The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
-    - [The Product Goal is a commitment for the Product Backlog](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) - The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal.
+    - [Scrum Team is accountable for creating a valuable](https://nkdagility.com/the-2020-scrum-guide/#scrum-team) - The entire Scrum Team is accountable for creating a valuable, useful [Increment]({{< ref "/tags/increment" >}}) every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the [Product Owner]({{< ref "/tags/product-owner" >}}), and the [Scrum Master]({{< ref "/tags/scrum-master" >}}).
+    - [The Product Goal is a commitment for the Product Backlog](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) - The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the [Product Backlog]({{< ref "/tags/product-backlog" >}}). The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal.
     - [The Sprint Goal is a commitment for the Sprint Backlog](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) - The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.
-    - [Definition of Done is a commitment for the Increment](https://nkdagility.com/the-2020-scrum-guide/#commitment-definition-of-done) \- The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product. The moment a Product Backlog item meets the Definition of Done, an Increment is born.
+    - [Definition of Done is a commitment for the Increment](https://nkdagility.com/the-2020-scrum-guide/#commitment-definition-of-done) \- The [Definition of Done]({{< ref "/tags/definition-of-done" >}}) is a formal description of the state of the Increment when it meets the quality measures required for the product. The moment a Product Backlog item meets the Definition of Done, an Increment is born.
     - [The What, the Why, and the How of Sprint Planning](https://nkdagility.com/the-2020-scrum-guide/#sprint-planning) - The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.
 
     I hope that that get as much from this new revision of the Scrum Guide as I have.
@@ -1228,10 +1168,8 @@
     - Transparency
     - Team Collaboration
     - Remote Working
-    - Scrum Values
-    - Pragmatic Thinking
-    - Social Technologies
-    categories: []
+    categories:
+    - Uncategorized
     preview: image-21-3-3.png
   BodyContent: |
     In light of the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/) and the last 20 years of technological progress, we need to [re-define co-location](https://nkdagility.com/blog/what-is-your-perspective-on-collocation/) as we no longer need to be in the same room as each other to get the [80% of communication that is non-verbal](https://journals.lww.com/thehearingjournal/Fulltext/2016/05000/The_Art_of_Nonverbal_Communication_in_Practice.5.aspx). If we are participating in an online event, we should try our best to keep our cameras on so that we can all read those non-verbal queues.
@@ -1303,7 +1241,7 @@
 
     ## Co-location re-defined
 
-    Its been 25 (1995) years since the first Scrum project and the average internet speed was 56kbps! Here is a list of the important dates since then and the average internet speed in brackets:
+    Its been 25 (1995) years since the first [Scrum]({{< ref "/categories/scrum" >}}) project and the average internet speed was 56kbps! Here is a list of the important dates since then and the average internet speed in brackets:
 
     - 1995 - First Scrum project (56kbps)
 
@@ -1320,11 +1258,11 @@
     While we need to re-define co-located for the general usage of the word I have always used the following:
 
     > **Co-Location:**  
-    > Co-location is a complimentary agile practice where all members of the same Scrum Team work daily in the same room, within visual sight of each other.
+    > Co-location is a complimentary agile practice where all members of the same [Scrum Team]({{< ref "/tags/scrum-team" >}}) work daily in the same room, within visual sight of each other.
     >
     > \-[Martin Hinshelwood: What is your perspective on collocation?](https://nkdagility.com/blog/what-is-your-perspective-on-collocation/)
 
-    This definition encompasses both in-person and virtual events as long as we can see everyone. We need to see folks express and posture in order to gain a greater degree of transparency over what they are thinking, how they are absorbing the information and how we need to adapt the material to increase understanding. How do you expect the facilitator to understand what you as a participant get or don't without being able to see you?
+    This definition encompasses both in-person and virtual events as long as we can see everyone. We need to see folks express and posture in order to gain a greater degree of [transparency]({{< ref "/tags/transparency" >}}) over what they are thinking, how they are absorbing the information and how we need to adapt the material to increase understanding. How do you expect the facilitator to understand what you as a participant get or don't without being able to see you?
 
     <figure>
 
@@ -1448,17 +1386,12 @@
     - Agile Strategy
     - Agile Transformation
     - Agile Values and Principles
-    - Complexity Thinking
-    - Organisational Physics
-    - Beta Codex
-    - Empirical Process Control
-    - Sociotechnical Systems
     categories:
     - Leadership
     - Technical Leadership
     preview: image-15-5-4.png
   BodyContent: |
-    There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
+    There is no such thing as an [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), [Digital Transformation]({{< ref "/tags/digital-transformation" >}}), [DevOps]({{< ref "/categories/devops" >}}) Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
 
     Instead, you have to grow, nurture, and prune agility as it grows organically inside your organization and eventually, you too will be able to take advantage of business opportunities as they arise in the ever-changing marketplace. This is continuous change…
 
@@ -1481,7 +1414,7 @@
 
     Due to the long timelines, it is easy to see the change that happens over a long period of time as a transformation, as a caterpillar transforms into the butterfly. The idea of a [defigned start and end state is an illusion that lures us from the realities](https://nkdagility.com/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens/) of how things successfully change; through a continuous set of experiments. The successful experiments succeed and do well in a niche, the unsuccessful ones fail and die. The more experiments that you run, the more likely you are to find something that fits a niche better or opens up a new niche.
 
-    During the Industrial Revolution, when traditional management practices were developed, the ebb and flow of niches was a slow and deliberate endeavour, usually driven by a single educated visionary. The pace of change was much slower, both communication systems and education systems were weak, and niches that companies found were long-lived, often tens if not hundreds of years; they only needed to adapt once, and then optimise for the current state. The change was no longer necessary, and the competition was weak and slow to disrupt markets. A company, once established, could own a niche, seemingly forever. Bureaucracy was born as a way to solidify the newly found market and optimise the product delivery with best practices. We could own that space!
+    During the Industrial Revolution, when traditional management practices were developed, the ebb and flow of niches was a slow and deliberate endeavour, usually driven by a single educated visionary. The pace of change was much slower, both communication systems and education systems were weak, and niches that companies found were long-lived, often tens if not hundreds of years; they only needed to adapt once, and then optimise for the current state. The change was no longer necessary, and the competition was weak and slow to disrupt markets. A company, once established, could own a niche, seemingly forever. Bureaucracy was born as a way to solidify the newly found market and optimise the [product delivery]({{< ref "/tags/product-delivery" >}}) with best practices. We could own that space!
 
     <figure>
 
@@ -1513,7 +1446,7 @@
 
     </figure>
 
-    I often hear "if it ain't broke, don't fix it", but this is a phrase of the past. Today the pace of change in the world means that we need a new mantra, one not steeped in traditional management practices or weighed down by the baggage of the past. We need to embrace change, and that means accepting a higher degree of risk, [mitigated by a higher degree of competence](https://nkdagility.com/blog/luddites-have-no-place-in-the-modern-organisation/). Evolution is about embracing that risk and learning from its failures. Success is the result of continuous experimentation at a sustainable pace that is able to take advantage of current business opportunities as they arise.
+    I often hear "if it ain't broke, don't fix it", but this is a phrase of the past. Today the pace of change in the world means that we need a new mantra, one not steeped in traditional management practices or weighed down by the baggage of the past. We need to embrace change, and that means accepting a higher degree of risk, [mitigated by a higher degree of competence](https://nkdagility.com/blog/luddites-have-no-place-in-the-modern-organisation/). Evolution is about embracing that risk and learning from its failures. Success is the result of continuous [experimentation]({{< ref "/tags/experimentation" >}}) at a sustainable pace that is able to take advantage of current business opportunities as they arise.
 
     **This is the Inevitability of change.**
 
@@ -1536,7 +1469,7 @@
 
     In Orienteering, like with any corporate endeavour, you should have some kind of vision or intended goal in mind. This is your current destination. You then use a compass and a map to figure out which direction, next steps, you need to take to get closer to that destination. As you take each step you may encounter obstacles or impediments that challenge you, and that you have to figure a way around. You may need to take a large detour in order to traverse an obstacle or impediment, so you need to reassess your next steps by consulting the map and compass.
 
-    The bit where I feel that orienteering as a sport does not fit is that it generally has a fixed route with prescribed checkpoints along the way. This is a little more analogous to traditional project management rather than modern practices. However, orienteering in its original military context would have been a lot more fluid, with changing tactical realities as you progress towards your vision, and this is exactly what we are looking for. Your end goal will evolve over time as the business conditions change and you may have to reassess your tactical direction and doctrine as you discover more.
+    The bit where I feel that orienteering as a sport does not fit is that it generally has a fixed route with prescribed checkpoints along the way. This is a little more analogous to traditional [project management]({{< ref "/tags/project-management" >}}) rather than modern practices. However, orienteering in its original military context would have been a lot more fluid, with changing tactical realities as you progress towards your vision, and this is exactly what we are looking for. Your end goal will evolve over time as the business conditions change and you may have to reassess your tactical direction and doctrine as you discover more.
 
     <figure>
 
@@ -1553,7 +1486,7 @@
 
     Always remember that this is your business, your organisation, your people, and their livelihood. You are accountable for your organisation's success or failure. In order to change it effectively, you need to create leaders inside your organisation that understand these modern management techniques and know why we need to change.
 
-    To do that you, not some external coach or consultant, need to be in the driver's seat, making the decisions that are necessary to evolve your organisation. External people can help you learn these new techniques and coach you and your leadership team towards dismantling the bureaucracy that has built up over many years. They can help facilitate new interactions and fuel engagement and enthusiasm for the new practices and techniques, but you need to own them. You as a leader need to embody evolutionary practices with your organisation and foster it internally.
+    To do that you, not some external coach or consultant, need to be in the driver's seat, making the decisions that are necessary to evolve your organisation. External people can help you learn these new techniques and coach you and your [leadership]({{< ref "/categories/leadership" >}}) team towards dismantling the bureaucracy that has built up over many years. They can help facilitate new interactions and fuel engagement and enthusiasm for the new practices and techniques, but you need to own them. You as a leader need to embody evolutionary practices with your organisation and foster it internally.
 
     While there are some well-known practices, like self-organising teams, that help almost everyone, many of the practices you create will be your own. The difficulty is creating an environment within your organisation where these new techniques don't become the new bureaucracy, but instead create a continuous state of evolving, refining, improving, adapting, enhancing, and changing processes, practices, and tools that help you succeed.
 
@@ -1582,7 +1515,7 @@
 
     - **Are Teams delivering a working product to real users every iteration including the first and gathering feedback?**
 
-    - **Is there a clear product vision laying out the strategic goals and do all team members understand how they contribute?**
+    - **Is there a clear product vision laying out the [strategic goals]({{< ref "/tags/strategic-goals" >}}) and do all team members understand how they contribute?**
 
     - **Is feedback from real users turned into concrete work items for delivery teams on timelines shorter than 1 month?**
 
@@ -1658,55 +1591,50 @@
     - Product Delivery
     - Product Owner
     - Value Delivery
-    - Agile Transformation
-    - Scrum Master
-    - Pragmatic Thinking
-    - Team Performance
-    - Definition of Done
     categories:
     - Scrum
     - Product Management
     - Engineering Excellence
     preview: nkdAgility-backlog-item-approve-1-1.jpg
   BodyContent: |
-    There is a frustrating misunderstanding of reality when one thinks that the Product Owner can reject a single story at the Sprint Review. This is the fallacy of the rejected backlog item and the misguided belief that this backlog item can just be left out of this delivery. That backlog item that was chosen by the Development Team at the Sprint Planning event to help them achieve the Sprint Goal. The Sprint Goal that created focus and has the entire Development Team working in the same area of the codebase.
+    There is a frustrating misunderstanding of reality when one thinks that the [Product Owner]({{< ref "/tags/product-owner" >}}) can reject a single story at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). This is the fallacy of the rejected backlog item and the misguided belief that this backlog item can just be left out of this delivery. That backlog item that was chosen by the Development Team at the Sprint Planning event to help them achieve the Sprint Goal. The Sprint Goal that created focus and has the entire Development Team working in the same area of the codebase.
 
     **The fallacy is that without this single Backlog Item, one of many, the code will still function as intended.**
 
     ## TL;DR;
 
-    Since the Development Team is held accountable for quality, but not quantity, and they sure can't be held accountable for meeting forecast. It was, after all, a forecast. There are only two states that the product increment can be in at the end of the sprint:
+    Since the Development Team is held accountable for quality, but not quantity, and they sure can't be held accountable for meeting forecast. It was, after all, a forecast. There are only two states that the product [increment]({{< ref "/tags/increment" >}}) can be in at the end of the sprint:
 
-    - **DONE** - If in the pursuit of the Sprint Goal the output of the Sprint is a DONE Increment of working software then the Development Team did everything they were required to do. Any gap between what was delivered and expectation is merely a learning opportunity. At the Sprint Review, the Scrum Team investigates this gap and updates the Product Backlog (Transparency of the Future) to reflect what is now needed next.
+    - **DONE** - If in the pursuit of the Sprint Goal the output of the Sprint is a DONE Increment of [working software]({{< ref "/tags/working-software" >}}) then the Development Team did everything they were required to do. Any gap between what was delivered and expectation is merely a learning opportunity. At the Sprint Review, the [Scrum]({{< ref "/categories/scrum" >}}) Team investigates this gap and updates the [Product Backlog]({{< ref "/tags/product-backlog" >}}) ([Transparency]({{< ref "/tags/transparency" >}}) of the Future) to reflect what is now needed next.
 
     - **NOT DONE** - If the Development Team is not “Done” at the end of the Sprint then there are some consequences:
-      - An increase in Technical Debt that is going to make future work slower
+      - An increase in [Technical Debt]({{< ref "/tags/technical-debt" >}}) that is going to make future work slower
       - Removing the option for the Product Owner to release the product if they so choose.
       - With undone work, you have to fix it next Sprint and thus interfere with the next Sprint Goal and the Product Owners delivery expectations.
       - Remove any chance of [predictability for future sprints](https://nkdagility.com/release-planning-and-predictable-delivery/) until the undone work is under control.
 
     **If it is DONE,** then there is no rejection of the Backlog Item there is only feedback. There is just a learning opportunity that can be used to reduce the expectations gap for future Sprints. Reflect on that during the Sprint Review, engage with Stakeholders to better understand both their intent and their expectations.
 
-    Empirical process control is not about doing everything correctly first time, it's about transparency, inspecting, and adapting.
+    [Empirical process control]({{< ref "/tags/empirical-process-control" >}}) is not about doing everything correctly first time, it's about transparency, inspecting, and adapting.
 
     ## The fallacy of the rejected backlog item
 
-    At the end of the Sprint, the Product Owner can deny that the Development Team met DONE. This would mean that the Development Team failed their accountability to meet the minimum quality bar as set down and agreed in the Definition of Done.
+    At the end of the Sprint, the Product Owner can deny that the Development Team met DONE. This would mean that the Development Team failed their accountability to meet the minimum quality bar as set down and agreed in the [Definition of Done]({{< ref "/tags/definition-of-done" >}}).
 
-    At the end of the Sprint, the Product Owner can deny that the work represents a significant enough return on investment to warrant shipping it to production. This likely means that either the Goal was not useful, or that the Development Team did not understand the Backlog Item enough. This would mean that the Product Owner failed in their accountability to maximise value delivery.
+    At the end of the Sprint, the Product Owner can deny that the work represents a significant enough return on investment to warrant shipping it to production. This likely means that either the Goal was not useful, or that the Development Team did not understand the Backlog Item enough. This would mean that the Product Owner failed in their accountability to maximise [value delivery]({{< ref "/tags/value-delivery" >}}).
 
     At the end of the Sprint, based on either of these two outcomes, the Product Owner can choose to reject the entire Sprint and loose all of the work for that Sprint.
 
     My point is that it is neither physically nor technically possible to remove a single Backlog Item from a Sprint without incurring significant rework.
 
-    > A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value.  
+    > A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the [Scrum Team]({{< ref "/tags/scrum-team" >}}) and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value.  
     > \-[Scrum Guide - Sprint Review](http://www.scrumguides.org/scrum-guide.html#events-review)
 
     **The [Scrum Guide 2017](https://www.scrum.org/Scrum-Guides) mentions nothing of rejecting anything at the Sprint Review.**
 
-    This is the reality of product development that gets in the way of the idea of the rejected backlog item. The software that we are producing is complex and only works together in its entirety, the whole increment. The Sprint Goal provides the Scrum Team with purpose and focus, and selecting items that go towards this Goal means that many of the selected backlog items, the forecast, are related. This related set of ideas created an interconnected network of interdependent code that realises on the existence of each other. If we then decide to rip one of those interconnected items out of this complex web of classes and methods, then we are increasing risk, and we are also unlikely to have working software at the end of the Sprint.
+    This is the reality of [product development]({{< ref "/categories/product-development" >}}) that gets in the way of the idea of the rejected backlog item. The software that we are producing is complex and only works together in its entirety, the whole increment. The Sprint Goal provides the Scrum Team with purpose and focus, and selecting items that go towards this Goal means that many of the selected backlog items, the forecast, are related. This related set of ideas created an interconnected network of interdependent code that realises on the existence of each other. If we then decide to rip one of those interconnected items out of this complex web of classes and methods, then we are increasing risk, and we are also unlikely to have working software at the end of the Sprint.
 
-    Oh, I am sure that there are exceptions, but it will take time to remove no matter how good the team's engineering practices.
+    Oh, I am sure that there are exceptions, but it will take time to remove no matter how good the team's [engineering practices]({{< ref "/tags/engineering-practices" >}}).
 
     Just to be clear, this is not about Done. I expect every team to produce work that meets whatever definition of done that they have agreed as the Scum Team. If the Development Team calls Done when they are not then that is a wholly separate problem… because [Professional Scrum Teams build software that works](https://nkdagility.com/professional-scrum-teams-build-software-works/).
 
@@ -1768,16 +1696,6 @@
     - Organisational Change
     - Organisational Agility
     - Organisational Culture
-    - Enterprise Agility
-    - Agile Leadership
-    - Agile Strategy
-    - Agile Transformation
-    - Business Agility
-    - Change Management
-    - Digital Transformation
-    - Market Adaptability
-    - Pragmatic Thinking
-    - Sociotechnical Systems
     categories:
     - Leadership
     preview: image-3-3-3.png
@@ -1832,7 +1750,7 @@
 
     </figure>
 
-    Microsoft is the poster-child of what can be accomplished with the judicious application of leadership. With the servent-leadership and strategic vision of **Satya Nadella,** it has [evolved from a traditional organisational model 10 years ago (2010) towards independent delivery teams](https://www.forbes.com/sites/stevedenning/2015/10/27/surprise-microsoft-is-agile/) of today.
+    Microsoft is the poster-child of what can be accomplished with the judicious application of [leadership]({{< ref "/categories/leadership" >}}). With the servent-leadership and strategic vision of **Satya Nadella,** it has [evolved from a traditional organisational model 10 years ago (2010) towards independent delivery teams](https://www.forbes.com/sites/stevedenning/2015/10/27/surprise-microsoft-is-agile/) of today.
 
     > “Every person, organization, and even society reaches a point at which they owe it to themselves to hit refresh—to reenergize, renew, reframe, and rethink their purpose.”
     >
@@ -1870,18 +1788,12 @@
     - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
     - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
     - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-    tags:
-    - Agile Frameworks
-    - Organisational Agility
-    - Agile Philosophy
-    - Agile Transformation
-    - Business Agility
-    - Organisational Change
-    - Organisational Culture
-    categories: []
+    tags: []
+    categories:
+    - Uncategorized
     preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
   BodyContent: |
-    These Sirens take advantage of the lack of understanding of what business agility is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.
+    These Sirens take advantage of the lack of understanding of what [business agility]({{< ref "/tags/business-agility" >}}) is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.
 
     <figure>
 
@@ -1932,7 +1844,7 @@
 
     The world is changing faster and faster and your organisation needs to embrace evolution. You need to be able to change to take advantage of new business opportunities as they arise and to do that you need a level of business agility that may astound you.
 
-    > Fundamentally, the main “goal” of Software development is NOT to be « SAFE », it is to INNOVATE and CREATE. You do not create by not taking risks…
+    > Fundamentally, the main “goal” of [Software development]({{< ref "/tags/software-development" >}}) is NOT to be « SAFE », it is to INNOVATE and CREATE. You do not create by not taking risks…
 
     ## Scaled Agile Framework is just Taylorism with an Agile lexicon
 
@@ -1945,7 +1857,7 @@
 
     <figcaption>
 
-    SAFe® for Lean Enterprises 5.0
+    SAFe® for [Lean]({{< ref "/categories/lean" >}}) Enterprises 5.0
 
     </figcaption>
 
@@ -1981,16 +1893,16 @@
     - /blog/configuring-microsoft-teams-for-live-virtual-training
     - /configuring-microsoft-teams-for-live-virtual-training
     - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
-    categories: []
+    categories:
+    - Uncategorized
     preview: image-14-4-4.png
     tags:
     - System Configuration
     - Install and Configuration
-    - Collaboration Tools
   BodyContent: |
     Like most tools, if you want to run successful training in Microsoft Teams you need to do some homework and some configuration before your class. You can just jump in and wing it, but that will not provide a good experience for your students. Currently, I have run more than 6 Live Virtual Training in Microsoft Teams and in a few hours, my 7th will start. I have also recently had to set up Microsoft Teams for my good friend and colleague [Russell Miller](https://nkdagility.com/training/trainers/russell-miller/) so that he can also run classes on the platform.
 
-    To date, I have facilitated a couple of Live Virtual F2F for the other trainers at Scrum.org to show them how it works, but we did not go into the configuration. This article will lead any Professional Scrum Trainer that wants to [Deliver Live Virtual Classes in Microsoft Teams](https://nkdagility.com/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural/) through the configuration required to do so.
+    To date, I have facilitated a couple of Live Virtual F2F for the other trainers at [Scrum]({{< ref "/categories/scrum" >}}).org to show them how it works, but we did not go into the configuration. This article will lead any [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer that wants to [Deliver Live Virtual Classes in Microsoft Teams](https://nkdagility.com/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural/) through the configuration required to do so.
 
     <figure>
 
@@ -2190,15 +2102,6 @@
     - Scrum Team
     - Social Technologies
     - Team Performance
-    - Organisational Agility
-    - Agile Frameworks
-    - Agile Values and Principles
-    - Psychological Safety
-    - Agile Transformation
-    - Coaching
-    - Sociotechnical Systems
-    - Software Development
-    - Scrum Master
   BodyContent: |
     With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.
 
@@ -2225,7 +2128,7 @@
 
     I recently live-streamed and example [Tech Check](https://youtu.be/_bjNHN4PI9s) that I use to give students the information that they need to have an excellent class, it's a little out of date as I have made my processes much slicker since then, but its an example. I'll do another one soon :) make sure that you subscribe on [http://nakedagility.tv](http://nakedagility.tv) for an updated one. I always add this to my event invitations, but I prefer the live tech-check.
 
-    ## A Professional Scrum Classroom
+    ## A Professional [Scrum]({{< ref "/categories/scrum" >}}) Classroom
 
     In our [Professional Scrum training](https://nkdagility.com/training/scrum-training/), we want to create a safe space for individuals to collaborate, discuss and disagree. This needs to be a safe place for the team to fail as well as to explore the ideas that we are trying to teach.
 
@@ -2235,9 +2138,9 @@
 
     ### A Safe Space in Microsoft Teams & Mural
 
-    In order to [create that safe space](https://www.forbes.com/sites/forbescoachescouncil/2017/11/02/15-ways-your-organization-can-create-a-safe-space-in-a-divisive-world/), I create a new Team in Microsoft Teams for each class that I am running. This allows me to have Scheduled Meetings, Announcements, Storage, and Chat that is all secured to the participants of the class. Microsoft Teams can be used to amplify the Scrum Values:
+    In order to [create that safe space](https://www.forbes.com/sites/forbescoachescouncil/2017/11/02/15-ways-your-organization-can-create-a-safe-space-in-a-divisive-world/), I create a new Team in Microsoft Teams for each class that I am running. This allows me to have Scheduled Meetings, Announcements, Storage, and Chat that is all secured to the participants of the class. Microsoft Teams can be used to amplify the [Scrum Values]({{< ref "/tags/scrum-values" >}}):
 
-    - **Focus** \- In the Team for this class there are no other distractions. There is Focus on the task at hand which is learning. For real work, I would expect each Product Team to have a Team in Teams with each Scrum Team having their own Channel.
+    - **Focus** \- In the Team for this class there are no other distractions. There is Focus on the task at hand which is learning. For real work, I would expect each Product Team to have a Team in Teams with each [Scrum Team]({{< ref "/tags/scrum-team" >}}) having their own Channel.
     - **Openness** \- Within the Team, in Microsoft Teams, we have visibility across all of the Channels (self-organizing groups). We can all see the murals and we share our experiences in the different exercises.
     - **Commitment** \- Teams facilitates the students taking accountability for their own time and attention. It allows them to use the breakout rooms or not, return or not.
     - **Respect** \- Teams, but not using technology to tell people what to do created respect for the trainer, and our fellow students.
@@ -2255,7 +2158,7 @@
 
     </figure>
 
-    In Professional Scrum Training, it is imperative that we heighten the Scrum Values, and to do that, we need to foster Self-Organising Teams.
+    In [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Training, it is imperative that we heighten the Scrum Values, and to do that, we need to foster Self-Organising Teams.
 
     ## Self-Organising Teams
 
@@ -2346,7 +2249,7 @@
 
     <figcaption>
 
-    Example Exercise Format from Professional Scrum Master
+    Example Exercise Format from Professional [Scrum Master]({{< ref "/tags/scrum-master" >}})
 
     </figcaption>
 
@@ -2434,16 +2337,18 @@
     - /blog/live-virtual-classroom's-and-the-new-normal
     - /resources/wS3GaFbyzDv
     - /resources/blog/live-virtual-classrooms-and-the-new-normal
+    - /resources/blog/live-virtual-classroom-s-and-the-new-normal
     aliasesArchive:
     - /blog/live-virtual-classrooms-and-the-new-normal
     - /live-virtual-classrooms-and-the-new-normal
     - /live-virtual-classroom's-and-the-new-normal
     - /blog/live-virtual-classroom's-and-the-new-normal
     - /resources/blog/live-virtual-classrooms-and-the-new-normal
+    - /resources/blog/live-virtual-classroom-s-and-the-new-normal
     tags:
     - Remote Working
-    - Pragmatic Thinking
-    categories: []
+    categories:
+    - Uncategorized
     preview: image-1-1-1.png
   BodyContent: |
     With the change in business model in the current crisis, many training organizations have had to do the unthinkable and move to Live Virtual training options. Existing wisdom was that training online, just as running teams virtually would be a disaster and reduce the student's experience.
@@ -2452,7 +2357,7 @@
 
     > In-person pass rates are slightly higher 6% looking only at students from 2020.
     >
-    > Scrum.org Assessment Result
+    > [Scrum]({{< ref "/categories/scrum" >}}).org Assessment Result
 
     When Scrum and Agile were first conceptualized the idea of colocation meant that we had to have everyone in the same place in order to get that extra 80% of communication that is non-verbal.
 
@@ -2463,7 +2368,7 @@
 
     <figcaption>
 
-    Live Virtual Co-located Professional Scrum Foundations class
+    Live Virtual Co-located [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundations class
 
     </figcaption>
 
@@ -2487,7 +2392,7 @@
     ![](images/image-6-1280x587-8-8.png)
     { .post-img }
 
-    I think this especially makes sense for the world of product delivery. Why go to the same place just to all work at a desk, in a cube, while all participating in the virtual world of our computer.
+    I think this especially makes sense for the world of [product delivery]({{< ref "/tags/product-delivery" >}}). Why go to the same place just to all work at a desk, in a cube, while all participating in the virtual world of our computer.
 
     **Welcome the New Normal**
 
@@ -2531,16 +2436,8 @@
     - Frequent Releases
     - Deployment Frequency
     - Software Development
-    - Continuous Delivery
-    - Operational Practices
-    - Organisational Agility
-    - Pragmatic Thinking
-    - Value Delivery
-    - Market Adaptability
-    - Product Delivery
-    - Technical Excellence
   BodyContent: |
-    As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.
+    As more and more organisations move towards a higher degree of agility, they inevitably also move towards [DevOps]({{< ref "/categories/devops" >}}) practices like [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) to facilitate shortening the feedback loops.
 
     > **Firms today experience a much higher velocity of business change. Market opportunities appear or dissolve in months or weeks instead of years.**
     >
@@ -2563,7 +2460,7 @@
 
     <figcaption>
 
-    Combined Engineering Model of the Azure DevOps Product Team at Microsoft
+    Combined Engineering Model of the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Product Team at Microsoft
 
     </figcaption>
 
@@ -2608,7 +2505,8 @@
     - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
     - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
     tags: []
-    categories: []
+    categories:
+    - Uncategorized
     preview: 2020-03-27_21-31-11-1-1.jpg
   BodyContent: |
     ​
@@ -2664,14 +2562,15 @@
     - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
     - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
     tags: []
-    categories: []
+    categories:
+    - Uncategorized
     preview: 2020-03-27_21-36-13-1-1.jpg
   BodyContent: |
     Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.
 
     **They are wrong!**
 
-    While there are organisations that are successfully scaling out there, they are exceedingly rare. What are the commonalities between these organisations and how have they managed to get past the illusion of scaled agile to the values and principles that are allowing them to leave their competitors in the dust?
+    While there are organisations that are successfully [scaling]({{< ref "/tags/scaling" >}}) out there, they are exceedingly rare. What are the commonalities between these organisations and how have they managed to get past the illusion of scaled agile to the values and principles that are allowing them to leave their competitors in the dust?
 
     **To go big, you must go small!**
 
@@ -2705,17 +2604,20 @@
     - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
     - /resources/s7bwajkP-HP
     - /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
+    - /resources/blog/live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
     aliasesArchive:
     - /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
     - /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
     - /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
     - /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
     - /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
+    - /resources/blog/live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
     tags: []
-    categories: []
+    categories:
+    - Uncategorized
     preview: 2020-03-27_21-33-56-1-1.jpg
   BodyContent: |
-    After my last webcast I received a question from a good friend of mine about how to incorporate UX into a Scrum Team. Since I have been teaching the Professional Scrum with UX class I thought I would share the gist of what might be a good place to start.
+    After my last webcast I received a question from a good friend of mine about how to incorporate UX into a [Scrum]({{< ref "/categories/scrum" >}}) Team. Since I have been teaching the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with UX class I thought I would share the gist of what might be a good place to start.
 
     <iframe width="504" height="284" title="Embedded post" src="https://www.linkedin.com/video/embed/live/urn:li:ugcPost:6649305613501284353" frameborder="0" allowfullscreen style="width: 2010px; height: 860px;"></iframe>
 

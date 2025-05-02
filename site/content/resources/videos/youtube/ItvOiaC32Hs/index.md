@@ -31,15 +31,6 @@ tags:
 - Agile Strategy
 - Organisational Agility
 - Team Performance
-- Common Goals
-- Agile Leadership
-- Agile Planning
-- Agile Product Management
-- Social Technologies
-- Sociotechnical Systems
-- Team Motivation
-- Agile Transformation
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -74,7 +65,7 @@ Having navigated through these turbulent waters, I’ve learned a few strategies
 
 1. **Establish Clear Goals**: It’s crucial to define and communicate clear, measurable goals at all levels of the organisation. This ensures that everyone understands what they are working towards.
    
-2. **Foster Open Communication**: Encourage a culture of transparency where team members feel comfortable sharing their thoughts and concerns. Regular check-ins can help keep everyone aligned.
+2. **Foster Open Communication**: Encourage a culture of [transparency]({{< ref "/tags/transparency" >}}) where team members feel comfortable sharing their thoughts and concerns. Regular check-ins can help keep everyone aligned.
 
 3. **Align Teams with the Organisation’s Vision**: Make sure that every team understands how their work contributes to the organisation’s goals. This connection can motivate individuals and enhance their sense of purpose.
 

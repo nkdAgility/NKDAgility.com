@@ -27,22 +27,21 @@ duration: 39
 isShort: true
 tags:
 - Product Owner
-- Team Performance
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Understanding is one of those elusive concepts that we often take for granted in our day-to-day interactions, especially in the realm of product ownership. As I’ve navigated through various teams and projects, one thing has become abundantly clear: you can't measure understanding. It’s not as straightforward as drawing a line in the sand and declaring, “At this point, everyone gets it.” Instead, understanding is nebulous, fuzzy, and deeply personal.
 
 ### The Art of Reading the Room
 
-As a product owner, one of the most critical skills you can develop is the ability to read the room. This means being attuned to the dynamics of your team and recognising when understanding is lacking. Here are some strategies that have worked for me:
+As a [product owner]({{< ref "/tags/product-owner" >}}), one of the most critical skills you can develop is the ability to read the room. This means being attuned to the dynamics of your team and recognising when understanding is lacking. Here are some strategies that have worked for me:
 
 - **Observe Body Language**: Are team members engaged, or do they seem distracted? Non-verbal cues can often reveal more than words.
 - **Ask Open-Ended Questions**: Instead of yes/no questions, encourage dialogue. This can help surface areas of confusion that might not be immediately apparent.

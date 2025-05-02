@@ -33,16 +33,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Complexity Thinking
-- Continuous Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement
 
-So, as a Scrum Master, I often find myself grappling with an intriguing question - what does the assessment phase of a consulting engagement look like?"
+So, as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself grappling with an intriguing question - what does the assessment phase of a consulting engagement look like?"
 
 Come along with me as we explore the facets of this initial consulting stage and why it might not be as rigid as we think. 🌟
 
@@ -72,7 +71,7 @@ It's all about convincing the customer to collaborate with you and then fluidly 
 
 ## Dynamic Adaptations and Realisations
 
-Reflecting upon my early years immersed in DevOps engagements in the US, I remember the emphasis on understanding and meeting the customer's needs within a short timeframe, sometimes within a week.
+Reflecting upon my early years immersed in [DevOps]({{< ref "/categories/devops" >}}) engagements in the US, I remember the emphasis on understanding and meeting the customer's needs within a short timeframe, sometimes within a week.
 
 This meant figuring out what the customer needs and delivering it within that window, with no room for extension.  This journey taught me the necessity to continuously adapt to what's going on once you hit the ground, embracing an agile mindset that keeps pace with evolving needs and dynamics.  🌟
 

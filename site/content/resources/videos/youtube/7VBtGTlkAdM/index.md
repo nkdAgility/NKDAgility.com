@@ -32,7 +32,8 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## The Double-Edged Sword of Consulting Contracts
@@ -49,7 +50,7 @@ The moment "your contract states exactly what needs to be delivered, when, and a
 
 You might believe that outlining everything in black and white gives you a sense of security, but in reality, it's quite the opposite.  In the consulting world, being too prescriptive in contracts can be the first nail in the coffin.
 
-## Uncertainty in Product Development
+## Uncertainty in [Product Development]({{< ref "/categories/product-development" >}})
 
 Why is this a problem?
 
@@ -65,7 +66,7 @@ You'll want to talk about the 'outcome'.  For example. - What is it that you're
 
 By focusing on what matters—the actual value and end results—everything else is irrelevant.
 
-## Unlock Consulting Mastery with Agile and Scrum Courses
+## Unlock Consulting Mastery with Agile and [Scrum]({{< ref "/categories/scrum" >}}) Courses
 
 Don't fall into the contract trap.  Equip yourself with the agility and foresight to handle the unpredictability of consulting engagements.
 

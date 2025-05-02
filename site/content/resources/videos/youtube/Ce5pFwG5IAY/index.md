@@ -19,11 +19,13 @@ isShort: true
 aliases:
 - /resources/Ce5pFwG5IAY
 - /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
 aliasesArchive:
 - /resources/videos/-tools-that-scrum-masters-love-part-
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
 - /resources/5-tools-that-scrum-masters-love-part-1
 - 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,13 +36,13 @@ tags:
 - Scrum Team
 - Social Technologies
 - Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-**Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 
+**[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 
 
 In the dynamic world of Agile and Scrum, Scrum Masters are continuously seeking innovative ways to enhance collaboration and effectiveness within their teams. 
 

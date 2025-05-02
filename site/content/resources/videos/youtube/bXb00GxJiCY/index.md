@@ -30,14 +30,14 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-One of the greatest benefits of immersive learning, particularly in Scrum training, is the reduced cognitive load and the increase in overall engagement. Traditional learning methods, like long video conferencing sessions, often lead to fatigue and burnout, which impacts how much participants can absorb. By contrast, immersive learning methods allow for shorter, focused sessions, creating a more exciting and engaging experience.
+One of the greatest benefits of immersive learning, particularly in [Scrum]({{< ref "/categories/scrum" >}}) training, is the reduced cognitive load and the increase in overall engagement. Traditional learning methods, like long video conferencing sessions, often lead to fatigue and burnout, which impacts how much participants can absorb. By contrast, immersive learning methods allow for shorter, focused sessions, creating a more exciting and engaging experience.
 
 In this post, we’ll dive into the benefits of immersive learning in Scrum training, sharing personal examples, advice, and recommendations from my own experiences as a Scrum Trainer.
 
@@ -133,7 +133,7 @@ As a Scrum Trainer, I’ve seen the power of immersive learning firsthand. Here 
 
 Immersive learning is the future of training, especially in Scrum. With less cognitive load, reduced fatigue, and higher levels of engagement, this approach provides a much more effective and enjoyable learning experience.
 
-By embracing shorter, focused sessions and interactive content, Scrum Trainers can help learners connect more deeply with the material and retain it longer. Whether you’re a seasoned Scrum Master or new to Agile, immersive learning offers a pathway to better understanding, stronger collaboration, and continuous improvement.
+By embracing shorter, focused sessions and interactive content, Scrum Trainers can help learners connect more deeply with the material and retain it longer. Whether you’re a seasoned [Scrum Master]({{< ref "/tags/scrum-master" >}}) or new to Agile, immersive learning offers a pathway to better understanding, stronger collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 🔥 **Final Thought**: If you want to create an impactful learning experience, ditch the old-school, long-format sessions and embrace immersive learning. Your learners will be more engaged, more excited, and better equipped to apply Scrum principles in their work.
 

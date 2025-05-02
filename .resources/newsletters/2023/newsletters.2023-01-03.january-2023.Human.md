@@ -1,5 +1,5 @@
 ---
-title: 'January 2023 NKDAgility: What is the difference between traditional and empirical approaches'
+title: "January 2023 NKDAgility: What is the difference between traditional and empirical approaches"
 description: Explore NKDAgility's latest edition, focusing on the vital role of agility in today's world. Discover insightful articles, videos, and community resources!
 ResourceId: -D7_0lz9GU6
 ResourceImport: true
@@ -13,30 +13,31 @@ resourceTypes: newsletter
 layout: newsletter
 slug: january-2023
 aliases:
-- /newsletters/january-2023/
-- /resources/newsletters/january-2023/
-- /resources/-D7_0lz9GU6
+  - /newsletters/january-2023/
+  - /resources/newsletters/january-2023/
+  - /resources/-D7_0lz9GU6
 aliasesArchive:
-- /newsletters/january-2023/
-- /resources/newsletters/january-2023/
-categories: []
+  - /newsletters/january-2023/
+  - /resources/newsletters/january-2023/
+categories:
+  - Uncategorized
 tags: []
-
 ---
+
 Welcome to this month's edition of NKDAgility.
 
 In today's fast-paced, rapidly changing world, agility has become more important than ever. The ability to quickly adapt to new situations, pivot when necessary, and continuously improve is key to success in the 21st century.
 
 In this edition, we will explore the importance of agility in today's world and how it can help organizations stay competitive and achieve their goals. We’ve selected a few of our most loved articles and videos on Agility and hope you find it valuable in your own journey towards agility.
 
-- **The difference between traditional and empirical approaches** If your organization has become successful using traditional and project management approaches, it can be difficult to understand why change is necessary. In short, traditional approaches work just fine if you’re working in a simple or complicated space – such as building bridges or roads. You know how to do the work, you know all the variables, and you have a fair idea of how long it will take and how much it will cost to get the job done. In complex environments, everything changes, and you need a new style of working if you’re going to build products that customers love and outcompete innovative competitors. That’s where Empiricism comes into its own. In this short video, Martin Hinshelwood explains the difference between traditional and empirical approaches. \[embed\]https://www.youtube.com/watch?v=rnyJzSwU74Q&ab\_channel=nakedAgilitywithMartinHinshelwood\[/embed\]
-- **Overview of The Scrum Framework with Martin Hinshelwood** Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems. The Scrum Framework is made up of five values, three Accountabilities, three artefacts, and five events.In this video, I'll go through an overview of each one, explaining what they are for and why they are there. The focus will be on the process itself, and we will leave the complementary practices until later.\[embed\]https://www.youtube.com/watch?v=Q2Fo3sM6BVo&ab\_channel=nakedAgilitywithMartinHinshelwood\[/embed\]
+- **The difference between traditional and empirical approaches** If your organization has become successful using traditional and [project management]({{< ref "/tags/project-management" >}}) approaches, it can be difficult to understand why change is necessary. In short, traditional approaches work just fine if you’re working in a simple or complicated space – such as building bridges or roads. You know how to do the work, you know all the variables, and you have a fair idea of how long it will take and how much it will cost to get the job done. In complex environments, everything changes, and you need a new style of working if you’re going to build products that customers love and outcompete innovative competitors. That’s where Empiricism comes into its own. In this short video, Martin Hinshelwood explains the difference between traditional and empirical approaches. \[embed\]https://www.youtube.com/watch?v=rnyJzSwU74Q&ab\_channel=nakedAgilitywithMartinHinshelwood\[/embed\]
+- **Overview of The [Scrum]({{< ref "/categories/scrum" >}}) Framework with Martin Hinshelwood** Scrum is a lightweight framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems. The Scrum Framework is made up of five values, three Accountabilities, three artefacts, and five events.In this video, I'll go through an overview of each one, explaining what they are for and why they are there. The focus will be on the process itself, and we will leave the complementary practices until later.\[embed\]https://www.youtube.com/watch?v=Q2Fo3sM6BVo&ab\_channel=nakedAgilitywithMartinHinshelwood\[/embed\]
 
 ### Community
 
 The [Lean-Agile Practitioners Community](https://nkdagility.com/community/) has grown to over 1300+ members, and new usability updates by our platform team will hopefully make it an even bigger success this year.
 
-It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 Coaching, The Situation Room, & Tails from the Trenches!
+It's free to join the community, and our students get access to the [Professional Scrum](https://community.nkdagility.com/spaces/5799644/feed) space for 1-on-1 [Coaching]({{< ref "/tags/coaching" >}}), The Situation Room, & Tails from the Trenches!
 
 _Thank you very much to all who are making this community more extraordinary._
 
@@ -58,13 +59,13 @@ A short list of out blogs, videos, and webcasts!
 
 #### Recent Blog Posts
 
-\[wpv-view name="2023-NewsletterBlogPostList" limit="5"\]
+{{< recent-resources ResourceTypes="blog" >}}
 
 Are there any blog posts that you would like me to write?
 
 #### Recent Videos
 
-\[wp-rss-aggregator template="newsletter-list" feeds="nkdagility-youtube" limit="5"\]
+{{< recent-resources ResourceTypes="vidoes" >}}
 
 #### The Future of Work In Scotland Webcasts
 
@@ -86,7 +87,7 @@ Courses to help Scrum Masters and Delivery Managers improve their skills
 
 #### **Developers / Scrum Teams**
 
-Courses to help all members of the Scrum Team improve their skills
+Courses to help all members of the [Scrum Team]({{< ref "/tags/scrum-team" >}}) improve their skills
 
 \[wpv-view name="2023-CourseCatalogByAudience-Newsletter" type="1" wpvrelatedto="44700" limit="5"\]
 

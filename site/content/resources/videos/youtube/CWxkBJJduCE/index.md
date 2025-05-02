@@ -31,8 +31,6 @@ tags:
 - Technical Mastery
 - Test Driven Development
 - Technical Excellence
-- Test First Development
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,11 +41,11 @@ categories:
 - Engineering Excellence
 
 ---
-When I reflect on my journey through software development, one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.
+When I reflect on my journey through [software development]({{< ref "/tags/software-development" >}}), one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.
 
 ### The Essence of Test-Driven Development
 
-At its core, TDD encourages us to create only what is necessary to support the functionality we need. This means we’re not just writing code for the sake of it; we’re building a structure that is lean and purposeful. Here’s why this matters:
+At its core, TDD encourages us to create only what is necessary to support the functionality we need. This means we’re not just writing code for the sake of it; we’re building a structure that is [lean]({{< ref "/categories/lean" >}}) and purposeful. Here’s why this matters:
 
 - **Focused Development**: By defining tests before we write the code, we ensure that every line serves a specific purpose. This leads to cleaner, more maintainable architectures.
 - **Reduced Complexity**: When we limit our code to what is essential, we avoid the pitfalls of over-engineering. This simplicity is key to long-term success.

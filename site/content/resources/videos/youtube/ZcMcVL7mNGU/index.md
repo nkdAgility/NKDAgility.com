@@ -33,16 +33,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Software Development
-- Business Agility
-- Organisational Agility
-- Metrics and Learning
-- Agile Product Operating Model
-- Decision Making
-- Evidence Based Leadership
-- Product Strategy
-- Social Technologies
-- Sociotechnical Systems
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -54,7 +44,7 @@ categories:
 - Product Management
 
 ---
-In my journey through the world of software development, I've often encountered a significant gap in how organisations approach product management. This gap becomes glaringly obvious when companies attempt to transition from traditional project management methods—think Gantt charts and rigid milestones—to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often encountered a significant gap in how organisations approach [product management]({{< ref "/categories/product-management" >}}). This gap becomes glaringly obvious when companies attempt to transition from traditional [project management]({{< ref "/tags/project-management" >}}) methods—think Gantt charts and rigid milestones—to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.
 
 ### The Challenge of Transitioning to Agile
 
@@ -85,8 +75,8 @@ The Product Management Mentor Programme is designed to bridge this gap by provid
 - **Evidence-Based Management**: This approach allows us to assess whether we’re making progress and if we’re looking at the right metrics. It’s about understanding the data that informs our decisions.
 - **Hypothesis-Driven Engineering**: Before adding a new feature, we should ask ourselves: What impact do we expect this feature to have? How will we measure its success? This practice encourages us to think critically about our development choices.
 
-### Maximising Value Delivery
+### Maximising [Value Delivery]({{< ref "/tags/value-delivery" >}})
 
-Ultimately, the goal is to maximise the value we deliver to the business while ensuring a solid return on investment. By embedding these practices into our product development processes, we can create a more cohesive and effective approach to building software products.
+Ultimately, the goal is to maximise the value we deliver to the business while ensuring a solid return on investment. By embedding these practices into our [product development]({{< ref "/categories/product-development" >}}) processes, we can create a more cohesive and effective approach to building software products.
 
 In conclusion, transitioning to an agile mindset requires more than just removing old project management tools. It demands a fundamental shift in how we communicate, collaborate, and measure success. By focusing on vision, value, and validation, we can ensure that everyone in the organisation is aligned and working towards a common goal, ultimately leading to better software products and happier customers.

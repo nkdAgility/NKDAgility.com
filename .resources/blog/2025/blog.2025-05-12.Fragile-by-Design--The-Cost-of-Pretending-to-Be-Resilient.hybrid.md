@@ -19,9 +19,6 @@ tags:
 - Site Reliability Engineering
 - Technical Mastery
 - Pragmatic Thinking
-- Organisational Physics
-- Continuous Improvement
-- Technical Excellence
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

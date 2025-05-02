@@ -36,10 +36,6 @@ tags:
 - Social Technologies
 - Organisational Culture
 - Sociotechnical Systems
-- Continuous Improvement
-- Organisational Change
-- Competence
-- Enterprise Agility
 resourceTypes:
 - video
 categories:

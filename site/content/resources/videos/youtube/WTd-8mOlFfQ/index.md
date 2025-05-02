@@ -36,15 +36,13 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Scrum Team
-- Software Development
 resourceTypes:
 - video
 categories:
 - Scrum
 
 ---
-## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2
+## Escaping the Administrative Vortex: Insights for [Scrum]({{< ref "/categories/scrum" >}}) Masters - Part 2
 
 So I'm back to shed light on another prevalent issue in the world of Scrum Masters, and it's a rather eye-opening issue, which is inadvertently morphing into the team's secretary.
 
@@ -60,7 +58,7 @@ This is one blatant mistake I see cropping up frequently is Scrum Masters gettin
 
 It's not uncommon to find oneself being the one meticulously handling the Jira admin tasks for the team, filling out their Jira tickets, or even engrossed in reporting for them and generally getting bogged down with other team members' tasks.
 
-But let's pause for a moment, reassess and allow me to confirm again  - this is not part of being a Scrum Master.  ❗
+But let's pause for a moment, reassess and allow me to confirm again  - this is not part of being a [Scrum Master]({{< ref "/tags/scrum-master" >}}).  ❗
 
 Hence, I urge you not to do any of those tedious administrative duties. It's not your responsibility, so don't get roped into any of it.
 

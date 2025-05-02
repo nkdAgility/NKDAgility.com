@@ -33,13 +33,10 @@ sitemap:
 tags:
 - Agnostic Agile
 - Agile Transformation
-- Agile Frameworks
-- Software Development
-- Competence
-- Organisational Agility
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In the ever-evolving world of Agile, selecting the right coach for your team or organization can make a profound difference in achieving success. With so many frameworks and approaches available, it’s crucial to find someone who brings more than just one method to the table. But how do you know if the Agile coach you're considering is the right fit? Let's dive into some key factors you should consider, especially when evaluating their approach and versatility.
@@ -48,13 +45,13 @@ In the ever-evolving world of Agile, selecting the right coach for your team or 
 
 ### **The Danger of Being Too Focused on One Framework**
 
-One of the most important aspects to consider when hiring an Agile coach is whether they are _agnostic_ or tied to one specific framework. In simpler terms, you want to avoid a “one-trick pony” — someone who only knows or pushes a single method like Scrum or Kanban.
+One of the most important aspects to consider when hiring an Agile coach is whether they are _agnostic_ or tied to one specific framework. In simpler terms, you want to avoid a “one-trick pony” — someone who only knows or pushes a single method like [Scrum]({{< ref "/categories/scrum" >}}) or [Kanban]({{< ref "/categories/kanban" >}}).
 
 While both Scrum and Kanban are excellent frameworks, they aren’t one-size-fits-all. A business might need something more nuanced, something tailored to its unique structure, challenges, and goals.
 
 ### **What Does It Mean to Be Agnostic?**
 
-An agnostic Agile coach isn’t tied to one approach. They have an understanding and appreciation for all Agile frameworks and can recommend the best one — or even a mix — for your situation. This flexibility can make all the difference in finding the right tools and practices to drive your business forward. It also shows they aren’t just experts in theory but truly understand the real-world application of various Agile methodologies.
+An [agnostic Agile]({{< ref "/tags/agnostic-agile" >}}) coach isn’t tied to one approach. They have an understanding and appreciation for all [Agile frameworks]({{< ref "/tags/agile-frameworks" >}}) and can recommend the best one — or even a mix — for your situation. This flexibility can make all the difference in finding the right tools and practices to drive your business forward. It also shows they aren’t just experts in theory but truly understand the real-world application of various Agile methodologies.
 
 ### **My Experience with Agnostic Coaches**
 
@@ -96,7 +93,7 @@ That experience solidified my belief in the importance of having a coach who isn
 
 ## **The Ideal Agile Coach: Versatile and Evolving**
 
-### **Continuous Learning is Essential**
+### **[Continuous Learning]({{< ref "/tags/continuous-learning" >}}) is Essential**
 
 A great Agile coach doesn’t just stick to what they know — they constantly evolve. This means staying up-to-date with the latest in Agile practices, tools, and industry trends. A coach who is set in their ways is likely to become outdated, especially in the fast-paced, ever-evolving world of Agile.
 

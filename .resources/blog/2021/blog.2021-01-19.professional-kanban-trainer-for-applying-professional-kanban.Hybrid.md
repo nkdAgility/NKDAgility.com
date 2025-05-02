@@ -26,7 +26,6 @@ aliasesArchive:
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
 - Software Development
-- Agile Frameworks
 categories:
 - Kanban
 preview: applying-professional-kanban-background-logo-2-2.jpg
@@ -37,7 +36,7 @@ The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains th
 ![](images/applying-professional-kanban-background-logo-1280x611-1-1.jpg)
 { .post-img }
 
-With the integration of the [Kanban Guide for Scrum Teams](https://nkdagility.com/the-kanban-guide-for-scrum-teams/) into the world of Scrum.org, I had been waiting for Daniel Vacanti and co to release more around Professional Kanban. It was my very first thought when I attended the beta teach of the [Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-training-with-certification/) training in Burlington, Masatusis in January 2018.
+With the integration of the [Kanban Guide for Scrum Teams](https://nkdagility.com/the-kanban-guide-for-scrum-teams/) into the world of [Scrum]({{< ref "/categories/scrum" >}}).org, I had been waiting for Daniel Vacanti and co to release more around Professional [Kanban]({{< ref "/categories/kanban" >}}). It was my very first thought when I attended the beta teach of the [Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-training-with-certification/) training in Burlington, Masatusis in January 2018.
 
 **I did not have to wait long.**
 
@@ -68,7 +67,7 @@ In the [Professional Scrum with Kanban](https://nkdagility.com/training/courses/
 
 [Applying Professional Kanban Training with Certification](https://nkdagility.com/training/courses/applying-professional-kanban-training-with-certification/)
 
-#### Professional Scrum with Kanban Syllabus
+#### [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with Kanban Syllabus
 
 - Dispelling Common Myths
 - Understanding Professional Scrum

@@ -31,21 +31,17 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Product Delivery
-- Product Owner
-- Value Delivery
-- Strategic Goals
-- Product Backlog
 categories:
 - Scrum
 - Product Management
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 
 ---
-In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure transparency and focus against progress.
+In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress.
 
-> The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfil the Product Goal.  
+> The Product Goal describes a future state of the product which can serve as a target for the [Scrum]({{< ref "/categories/scrum" >}}) Team to plan against. The Product Goal is in the [Product Backlog]({{< ref "/tags/product-backlog" >}}). The rest of the Product Backlog emerges to define “what” will fulfil the Product Goal.  
 > A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract.  
-> The Product Goal is the long-term objective for the Scrum Team. They must fulfil (or abandon) one objective before taking on the next.
+> The Product Goal is the long-term objective for the [Scrum Team]({{< ref "/tags/scrum-team" >}}). They must fulfil (or abandon) one objective before taking on the next.
 >
 > [The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)
 

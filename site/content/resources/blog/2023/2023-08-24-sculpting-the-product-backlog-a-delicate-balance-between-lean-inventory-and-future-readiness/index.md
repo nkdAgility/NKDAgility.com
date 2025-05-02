@@ -35,17 +35,6 @@ tags:
 - Product Backlog
 - Product Owner
 - Product Delivery
-- Agile Planning Tools
-- Continuous Improvement
-- Lean Principles
-- Lean Product Development
-- Professional Scrum
-- Software Development
-- Transparency
-- Value Delivery
-- Backlog Refinement
-- Lean Thinking
-- Unrealised Value
 categories:
 - Product Management
 - Product Development
@@ -53,7 +42,7 @@ categories:
 preview: image-1.jpg
 
 ---
-In the realm of product development, crafting an efficient Product Backlog is an endeavour akin to sculpting a masterpiece. Just as sculptors chisel away the excess marble to reveal the form within, product managers must carefully mould their backlog, ensuring it's a lean inventory that reflects the unrealized value of the product. The Product Backlog must encapsulate our current aspirations for the product while being transparent and understandable to all stakeholders. It’s a living artefact that dynamically evolves with the product. However, we must also resist the temptation to create an overwhelming catalogue that loses its sharpness and becomes a weight dangling around the team's neck.
+In the realm of [product development]({{< ref "/categories/product-development" >}}), crafting an efficient [Product Backlog]({{< ref "/tags/product-backlog" >}}) is an endeavour akin to sculpting a masterpiece. Just as sculptors chisel away the excess marble to reveal the form within, product managers must carefully mould their backlog, ensuring it's a [lean]({{< ref "/categories/lean" >}}) inventory that reflects the unrealized value of the product. The Product Backlog must encapsulate our current aspirations for the product while being transparent and understandable to all stakeholders. It’s a living artefact that dynamically evolves with the product. However, we must also resist the temptation to create an overwhelming catalogue that loses its sharpness and becomes a weight dangling around the team's neck.
 
 ## TLDR;
 
@@ -61,13 +50,13 @@ In essence, the Product Backlog should be minimal yet sufficient. While keeping 
 
 ## A Delicate Balance Between Lean Inventory and Future Readiness
 
-Starting with the basics, the Product Backlog is a lean inventory of everything we understand is needed to enhance the product. It should be easy to grasp and must reflect the product's unrealized value. The value that we believe is needed for the success of the product. Transparency and clarity are key – stakeholders and team members should be able to understand and articulate the contents of the backlog effortlessly.
+Starting with the basics, the Product Backlog is a lean inventory of everything we understand is needed to enhance the product. It should be easy to grasp and must reflect the product's unrealized value. The value that we believe is needed for the success of the product. [Transparency]({{< ref "/tags/transparency" >}}) and clarity are key – stakeholders and team members should be able to understand and articulate the contents of the backlog effortlessly.
 
 _When the backlog becomes a labyrinthine tome, it loses its efficacy._
 
 While keeping the backlog lean is essential, one must not be myopic. Product development is not an isolated undertaking. It occurs within a complex, ever-changing environment. Therefore, the ability to look ahead and around is vital. However, what is the optimum distance one should look into the future? Here lies the conundrum. Looking too far ahead might lead to time wasted on obsolete aspects. Conversely, not looking far enough might result in missed opportunities. This necessitates finding the sweet spot – the Goldilocks zone.
 
-We should look to find that Goldilocks zone for every aspect of the Product Backlog. What is the lead time for things that your team needs that others have? How long are the changes that we need likely to take? These answers will lead us to that minimal but sufficient answer. Will we always be right? Heck no! We will often be wrong, but hopefully, we can minimise the wrong and adapt to the changing context of the market and business needs.
+We should look to find that Goldilocks zone for every aspect of the Product Backlog. What is the [lead time]({{< ref "/tags/lead-time" >}}) for things that your team needs that others have? How long are the changes that we need likely to take? These answers will lead us to that minimal but sufficient answer. Will we always be right? Heck no! We will often be wrong, but hopefully, we can minimise the wrong and adapt to the changing context of the market and business needs.
 
 As we traverse the product development landscape, surprises are inevitable. However, not all surprises are born equal. Some are genuine unknowns, while others are oversights masquerading as surprises. Dissecting these surprises afterwards and categorising them into those two buckets is crucial. This exercise can unveil insights into overlooked aspects and, more importantly, inform future strategies for better anticipating these surprises.
 

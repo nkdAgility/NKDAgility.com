@@ -33,13 +33,6 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
-- Organisational Agility
-- Agile Planning Tools
-- Agile Product Management
-- Pragmatic Thinking
-- Transparency
-- Empirical Process Control
-- Product Delivery
 resourceTypes:
 - video
 categories:
@@ -51,7 +44,7 @@ categories:
 
 One of the most common inquiries I encounter is, "What is a Sprint Backlog?"  📝
 
-The Scrum Guide offers a blueprint answer, but let's break it down further into three pillars of three key elements.
+The [Scrum]({{< ref "/categories/scrum" >}}) Guide offers a blueprint answer, but let's break it down further into three pillars of three key elements.
 
 The Sprint Backlog, in my words, is essentially three things tied together:
 
@@ -61,7 +54,7 @@ The Sprint Backlog, in my words, is essentially three things tied together:
 
 3\. A Concrete Plan: A strategic roadmap detailing how to achieve these tasks.  📈
 
-## The Transparency Beacon
+## The [Transparency]({{< ref "/tags/transparency" >}}) Beacon
 
 From my viewpoint, the Sprint Backlog symbolises our 'transparency of the present'.  💡
 

@@ -27,14 +27,14 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Owner
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## The Product Owner Journey
+## The [Product Owner]({{< ref "/tags/product-owner" >}}) Journey
 
 Journeying through Product Owner training and navigating the vast landscape of Product Owner courses can be daunting.
 
@@ -112,4 +112,4 @@ It boils down to your learning style, pace, and how you wish to integrate this k
 
 Hungry for More Agile Insights?
 
-Join me on my Agile and Scrum courses, where we unpack these discussions further, ensuring you're equipped with the knowledge to make informed decisions for your Agile journey.
+Join me on my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses, where we unpack these discussions further, ensuring you're equipped with the knowledge to make informed decisions for your Agile journey.

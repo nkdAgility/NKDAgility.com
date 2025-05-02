@@ -37,8 +37,6 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Team Performance
-- Agile Transformation
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,7 +51,7 @@ categories:
 ---
 When it comes to effective Sprint planning, I’ve learned that there are a couple of key principles that can make all the difference. Drawing from my experiences, I want to share my top tips to help you and your team navigate this crucial phase of the Agile process.
 
-### Understand the Product Backlog
+### Understand the [Product Backlog]({{< ref "/tags/product-backlog" >}})
 
 First and foremost, it’s essential that everyone on your team has a solid understanding of what’s in the product backlog. This isn’t just a nice-to-have; it’s the foundation of effective Sprint planning. Here’s why:
 
@@ -85,4 +83,4 @@ To summarise, here are the key takeaways for effective Sprint planning:
 
 By adhering to these principles, you’ll be well on your way to building great products and fostering a truly collaborative team environment. 
 
-If you found this post helpful, I encourage you to engage with me. I always welcome comments and discussions about Agile, Scrum, or DevOps. Feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!
+If you found this post helpful, I encourage you to engage with me. I always welcome comments and discussions about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}). Feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!

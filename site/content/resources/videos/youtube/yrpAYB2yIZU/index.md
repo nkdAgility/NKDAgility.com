@@ -14,8 +14,6 @@ slug: mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-act
 layout: video
 aliases:
 - /resources/yrpAYB2yIZU
-- /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
-- /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
 aliasesArchive:
 - /resources/videos/install-configure-move-your-active-directory-domain-to-another-server
 - /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
@@ -37,7 +35,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 I recently found myself in a rather tricky situation with my demo lab environment. My primary domain controller, which also happened to be my only domain controller, threw up a message box that left me scratching my head. After several failed attempts to activate Windows and troubleshoot the issue, I realised I needed to create a new domain controller and migrate everything across. This experience was a reminder of the importance of having a robust setup and a solid plan for such scenarios.

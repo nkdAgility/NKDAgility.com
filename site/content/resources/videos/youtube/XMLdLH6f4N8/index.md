@@ -16,11 +16,13 @@ aliases:
 - /resources/XMLdLH6f4N8
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
+- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
 - transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 isShort: false
@@ -28,17 +30,17 @@ tags:
 - Social Technologies
 - Organisational Culture
 - Organisational Agility
-- Continuous Improvement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-As I reflect on my recent experiences with organisational change and the impact it has on teams, I can't help but think about the journey we’ve all been on. It’s a journey that often feels chaotic, yet it’s one that can lead to incredible transformation when approached with the right mindset and tools. 
+As I reflect on my recent experiences with [organisational change]({{< ref "/tags/organisational-change" >}}) and the impact it has on teams, I can't help but think about the journey we’ve all been on. It’s a journey that often feels chaotic, yet it’s one that can lead to incredible transformation when approached with the right mindset and tools. 
 
 I had the pleasure of speaking with Catherine Medics, a passionate advocate for change within her engineering team. Her insights resonated deeply with me, particularly her emphasis on creating a common vision for how work is done. This is something I’ve seen time and again: when teams align around a shared purpose, the results can be nothing short of remarkable.
 
@@ -61,7 +63,7 @@ Catherine mentioned that her team was previously operating in a somewhat chaotic
 One of the most surprising outcomes of this initiative was the improvement in communication cycles. Catherine noted that previously, team members felt frustrated and unheard. Now, with a structured approach to capturing impediments, there’s a renewed sense of hope and engagement.
 
 - **Listening to the Team**: Establishing channels for feedback not only helps in resolving issues but also makes team members feel valued. This is essential for maintaining morale and motivation.
-- **Continuous Improvement**: With regular check-ins and updates, teams can adapt and evolve their processes, leading to ongoing enhancements in productivity and satisfaction.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: With regular check-ins and updates, teams can adapt and evolve their processes, leading to ongoing enhancements in productivity and satisfaction.
 
 ### A Pragmatic Approach to Change
 

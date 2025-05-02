@@ -31,10 +31,11 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Unpacking Project Management
+## Unpacking [Project Management]({{< ref "/tags/project-management" >}})
 
 Ever found yourself wondering, "What exactly is project management?" 🎯
 
@@ -60,4 +61,4 @@ To help people know everything they're going to do, to plan the way forward and 
 
 - The ultimate aim – a know-it-all plan for action ✅
 
-If this information piques your curiosity and you're intrigued and ready to take the leap into the dynamic world of Project Management, I'd love to guide you on this journey with my Agile and Scrum courses 🚀
+If this information piques your curiosity and you're intrigued and ready to take the leap into the dynamic world of Project Management, I'd love to guide you on this journey with my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses 🚀

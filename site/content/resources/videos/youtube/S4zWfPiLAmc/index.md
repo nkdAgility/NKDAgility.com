@@ -20,6 +20,7 @@ aliases:
 - /resources/S4zWfPiLAmc
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
+- /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
@@ -30,6 +31,7 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
 - 3-best-ways-to-wreck-kanban-use-vanity-metrics
+- /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,14 +40,6 @@ tags:
 - Throughput
 - Operational Practices
 - Metrics and Learning
-- Agile Frameworks
-- Cycle Time
-- Continuous Improvement
-- Evidence Based Leadership
-- Current Value
-- Flow Efficiency
-- Pragmatic Thinking
-- Transparency
 resourceTypes:
 - video
 categories:
@@ -53,7 +47,7 @@ categories:
 - Product Development
 
 ---
-### Avoiding Common Mistakes in Your Kanban Strategy
+### Avoiding Common Mistakes in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**
 
@@ -77,9 +71,9 @@ To truly benefit from Kanban, you need to go beyond having a simple board. You m
 
 - **Work in Progress (WIP)**: Measure how many items are currently in progress. This helps to manage the flow and ensure that work does not pile up at any stage.
 
-- **Cycle Time**: Track the time it takes for an item to move through the system from start to finish. This provides insight into efficiency and potential bottlenecks.
+- **[Cycle Time]({{< ref "/tags/cycle-time" >}})**: Track the time it takes for an item to move through the system from start to finish. This provides insight into efficiency and potential bottlenecks.
 
-- **Throughput**: Measure the number of items completed in a given time period. This helps in understanding the capacity of the team.
+- **[Throughput]({{< ref "/tags/throughput" >}})**: Measure the number of items completed in a given time period. This helps in understanding the capacity of the team.
 
 - **Work Item Age**: Monitor how long items have been in progress. This helps to identify items that may be stuck or delayed.
 
@@ -87,7 +81,7 @@ To truly benefit from Kanban, you need to go beyond having a simple board. You m
 
 **Collecting and Using the Right Data**
 
-Most digital tools like JIRA, Azure DevOps, and Trello automatically collect the necessary data. You only need two pieces of information for each work item: the start date/time and the end date/time. Here’s how to use this data effectively:
+Most digital tools like JIRA, Azure [DevOps]({{< ref "/categories/devops" >}}), and Trello automatically collect the necessary data. You only need two pieces of information for each work item: the start date/time and the end date/time. Here’s how to use this data effectively:
 
 1. **Work in Progress (WIP)**:
 
@@ -99,7 +93,7 @@ Most digital tools like JIRA, Azure DevOps, and Trello automatically collect the
 
 1. **Throughput**:
 
-- Count the number of completed items over a set period. This shows your team’s capacity and helps with forecasting.
+- Count the number of completed items over a set period. This shows your team’s capacity and helps with [forecasting]({{< ref "/tags/forecasting" >}}).
 
 1. **Work Item Age**:
 
@@ -109,7 +103,7 @@ Most digital tools like JIRA, Azure DevOps, and Trello automatically collect the
 
 **Taking Action Based on Data**
 
-The true power of Kanban comes from using the data to make informed decisions and drive continuous improvement:
+The true power of Kanban comes from using the data to make informed decisions and drive [continuous improvement]({{< ref "/tags/continuous-improvement" >}}):
 
 - **Address Blockages**:
 

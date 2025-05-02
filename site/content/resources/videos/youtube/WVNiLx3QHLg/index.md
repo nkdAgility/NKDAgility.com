@@ -35,10 +35,11 @@ tags:
 - Competence
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-**Why I love heirarchies of competence**
+**Why I love heirarchies of [competence]({{< ref "/tags/competence" >}})**
 
 ## Competence-Based Hierarchies
 
@@ -56,7 +57,7 @@ Importantly, these competency-based colleagues often possess a more holistic vie
 
 Embracing competence-based hierarchies is about recognising expertise, not authority. It's about deferring to knowledge, not power.
 
-It's a refreshing and empowering approach to leadership and decision-making that I genuinely love and respect! 🙌
+It's a refreshing and empowering approach to [leadership]({{< ref "/categories/leadership" >}}) and decision-making that I genuinely love and respect! 🙌
 
 Ready to redefine leadership in your organisation?
 
@@ -64,10 +65,10 @@ Let's shift the focus from control to competence and build a more engaged, effec
 
 Reach out to me for a chat, or join my training sessions to learn more. 🚀
 
-Keywords:        Competence-Based Hierarchies, Leadership, Decision Making,
+Keywords:        Competence-Based Hierarchies, Leadership, [Decision Making]({{< ref "/tags/decision-making" >}}),
 
 Hashtags:        #CompetenceOverPower, #LeadershipEvolution, #InformedDecisionMaking,
 
 General
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

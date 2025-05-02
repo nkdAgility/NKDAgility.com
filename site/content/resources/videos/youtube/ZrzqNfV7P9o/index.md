@@ -34,14 +34,15 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-In the Applying Professional Scrum (APS) with Certification classroom, the **Minecraft Campsite** case study provides the best experience for students and more connections to how they work currently. Practice Scrum in Minecraft's complex and chaotic environment to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.
+In the Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) (APS) with Certification classroom, the **Minecraft Campsite** case study provides the best experience for students and more connections to how they work currently. Practice Scrum in Minecraft's complex and chaotic environment to experience the high-variance world of complex [product development]({{< ref "/categories/product-development" >}}). We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.
 
 ## Why use Minecraft Education?
 
-The traditional format for the Applying Professional Scrum (APS) with Certification uses a case study where students are asked to build an Animal Website. Over the years, it has become increasingly apparent that complexity is not served when building a simple HTML website. For most groups of people, this has become something simple and part of their high school education. Most people have built a website on Google Sites, WordPress, or Wix. These tools make this activity merely complicated and does not generate the level of frustration that true complexity does.
+The traditional format for the Applying [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS) with Certification uses a case study where students are asked to build an Animal Website. Over the years, it has become increasingly apparent that complexity is not served when building a simple HTML website. For most groups of people, this has become something simple and part of their high school education. Most people have built a website on Google Sites, WordPress, or Wix. These tools make this activity merely complicated and does not generate the level of frustration that true complexity does.
 
 We have also observed the lack of participation of the whole team in the activity, as participants find that only 1 person can edit at a time or that it takes more time to add content than find it.
 
@@ -63,7 +64,7 @@ With Minecraft, we can involve every participant and create a complex environmen
 
 ## What is Minecraft Education?
 
-**Minecraft for Education** is a game-based learning environment that allows participants to collaborate together, in our specifically designed scenario, in a secure environment. It provides accessibility support and is completely cross-platform; participants can use Windows, Mac, Chromebook, iPad, & Android.
+**Minecraft for Education** is a game-based learning environment that allows participants to collaborate together, in our specifically designed scenario, in a secure environment. It provides accessibility support and is completely cross-platform; participants can use [Windows]({{< ref "/tags/windows" >}}), Mac, Chromebook, iPad, & Android.
 
 ## Participants: What do I need to run Minecraft Education?
 

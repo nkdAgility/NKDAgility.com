@@ -22,7 +22,8 @@ card:
     content: Start Optimizing Now
   title: Customer Focus
   content: Maintain a strong Customer Focus to ensure that the needs and feedback of the customer are at the heart of everything we do.
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

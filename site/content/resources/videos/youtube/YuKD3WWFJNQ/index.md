@@ -45,14 +45,6 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Agile Frameworks
-- Transparency
-- Product Owner
-- Sprint Review
-- Agile Planning
-- Coaching
-- Common Goals
-- Professional Scrum
-- Scrum Team
 resourceTypes:
 - video
 categories:
@@ -67,7 +59,7 @@ Hello, Agile champions! Today, we delve into a critical yet often overlooked her
 
 ## The Silence Dilemma in Agile Reviews 🤐
 
-The scene is all too familiar: a sprint review with minimal stakeholder turnout, and when questions are asked, the response is deafening silence. This scenario isn't just disappointing; it's a red flag indicating a lack of engagement, fear of invalidation, or concern about stepping on more senior toes. It’s a manifestation of a deeper problem—poor product ownership and an absence of well-communicated goals.
+The scene is all too familiar: a [sprint review]({{< ref "/tags/sprint-review" >}}) with minimal stakeholder turnout, and when questions are asked, the response is deafening silence. This scenario isn't just disappointing; it's a red flag indicating a lack of engagement, fear of invalidation, or concern about stepping on more senior toes. It’s a manifestation of a deeper problem—poor product ownership and an absence of well-communicated goals.
 
 ### Trust, Autonomy, and Alignment: The Missing Pieces 🧩
 
@@ -87,7 +79,7 @@ The key to breaking the silence lies in building something stakeholders care abo
 
 2. **Foster an Inclusive Environment:** Create a space where everyone feels comfortable sharing, devoid of fear of judgment or reprisal.
 
-3. **Utilize Breakout Rooms:** In larger gatherings, use breakout rooms or liberating structures to facilitate small group discussions, ensuring more voices are heard.
+3. **Utilize Breakout Rooms:** In larger gatherings, use breakout rooms or [liberating structures]({{< ref "/tags/liberating-structures" >}}) to facilitate small group discussions, ensuring more voices are heard.
 
 4. **Highlight Strategic Objectives:** Continuously communicate the strategic objectives, tactical goals, and the connection to daily work to reinforce alignment and purpose.
 
@@ -99,12 +91,12 @@ Product owners, you wield the power to transform silence into symphony. Your rol
 
 - **Discouraging Side Conversations:** While some discussions will occur offstage, strive to bring critical debates into the open, where collective wisdom can prevail.
 
-- **Promoting Transparency:** Discuss budgets, release schedules, and strategic decisions openly to empower the team with the context needed for informed decision-making.
+- **Promoting [Transparency]({{< ref "/tags/transparency" >}}):** Discuss budgets, release schedules, and strategic decisions openly to empower the team with the context needed for informed decision-making.
 
 ## Conclusion: From Silence to Symphony 🎶
 
 The agile apocalypse need not be heralded by silence. By embracing strategies that promote open communication, stakeholder engagement, and strategic clarity, we can turn our sprint reviews (and our agile practice at large) into forums buzzing with energy, ideas, and collaboration.
 
-Remember, breaking the silence starts with us—product owners, scrum masters, and team members alike. Let's commit to fostering environments where every voice is valued, and every idea has the potential to propel us toward our North Star.
+Remember, breaking the silence starts with us—product owners, [scrum]({{< ref "/categories/scrum" >}}) masters, and team members alike. Let's commit to fostering environments where every voice is valued, and every idea has the potential to propel us toward our North Star.
 
 _Enjoyed this exploration of breaking the silence in agile teams? Follow, subscribe, and engage for more insights on creating vibrant, engaged agile environments. Let's turn the silence into a symphony of collaboration and innovation._

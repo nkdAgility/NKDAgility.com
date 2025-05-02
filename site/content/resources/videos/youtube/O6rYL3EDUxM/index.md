@@ -43,14 +43,6 @@ tags:
 - Operational Practices
 - Agile Planning
 - Product Delivery
-- Agile Leadership
-- Agile Product Management
-- Continuous Learning
-- Empirical Process Control
-- Frequent Releases
-- Organisational Agility
-- Organisational Change
-- Competence
 resourceTypes:
 - video
 categories:
@@ -72,11 +64,11 @@ This phenomenon isn’t limited to defense contractors. As someone who has worke
 
 The DoD’s guide provides six crucial questions that serve as a litmus test to determine whether an organization is genuinely Agile. These questions are designed to cut through the noise and get to the heart of whether an organization is delivering on the promises of Agile. Let’s dive into each of these questions and why they matter.
 
-### **Question 1: Are Teams Delivering Working Software to Real Users Every Iteration?**
+### **Question 1: Are Teams Delivering [Working Software]({{< ref "/tags/working-software" >}}) to Real Users Every Iteration?**
 
 This is the first and arguably most important question. Are your teams delivering working software to at least some subset of users every iteration, including the first? And are they gathering feedback from those users?
 
-- **Continuous Delivery:** True Agile teams deliver working software frequently—every iteration. This means no User Acceptance Testing (UAT) or test environments—real, live production users.
+- **[Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}):** True Agile teams deliver working software frequently—every iteration. This means no User Acceptance Testing (UAT) or test environments—real, live production users.
 
 - **User Feedback:** Gathering feedback from these users is critical. Without it, you’re flying blind, unable to adapt to user needs and preferences.
 
@@ -92,15 +84,15 @@ Achieving this level of agility is not easy. Many teams struggle to create worki
 
 - Once you achieve continuous delivery, **no organization has ever chosen to go back**.
 
-However, reaching this stage requires significant investment in both technical skills and leadership commitment.
+However, reaching this stage requires significant investment in both technical skills and [leadership]({{< ref "/categories/leadership" >}}) commitment.
 
 ### **Question 2: Are Teams Regularly Releasing to Production?**
 
 This question complements the first. It’s not enough to deliver working software to users; you must also release it to production regularly. The Agile Manifesto emphasizes the importance of delivering frequently, with a preference for shorter timeframes.
 
-- **Scrum Guidelines:** The Scrum Guide recommends releasing to production at least every 30 days. If your organization isn’t doing this, you’re not fully embracing Agile.
+- **[Scrum]({{< ref "/categories/scrum" >}}) Guidelines:** The Scrum Guide recommends releasing to production at least every 30 days. If your organization isn’t doing this, you’re not fully embracing Agile.
 
-- **Investment Required:** Achieving this requires changes to your business practices and a commitment to continuous improvement.
+- **Investment Required:** Achieving this requires changes to your business practices and a commitment to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### **Question 3: Are Teams Adapting Based on Feedback?**
 
@@ -116,7 +108,7 @@ Empowerment is a core principle of Agile. Are your teams empowered to make decis
 
 ### **Question 6: Is There a Culture of Continuous Improvement?**
 
-Finally, Agile is about continuous improvement. Is your organization committed to regularly reviewing and improving its processes? This requires a mindset of experimentation and learning, where teams are encouraged to try new things and learn from their experiences.
+Finally, Agile is about continuous improvement. Is your organization committed to regularly reviewing and improving its processes? This requires a mindset of [experimentation]({{< ref "/tags/experimentation" >}}) and learning, where teams are encouraged to try new things and learn from their experiences.
 
 ## **Why Honesty About Your Agile Maturity Matters**
 

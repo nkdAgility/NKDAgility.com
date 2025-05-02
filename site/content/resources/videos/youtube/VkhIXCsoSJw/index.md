@@ -41,11 +41,6 @@ tags:
 - Market Adaptability
 - Flow Efficiency
 - Value Delivery
-- Platform Engineering
-- Continuous Integration
-- Frequent Releases
-- Metrics and Learning
-- Technical Debt
 resourceTypes:
 - video
 sitemap:

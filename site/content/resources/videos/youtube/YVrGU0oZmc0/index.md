@@ -42,11 +42,6 @@ tags:
 - Azure DevOps
 - Operational Practices
 - Engineering Practices
-- Increment
-- Metrics and Learning
-- Customer Feedback Loops
-- Technical Mastery
-- Customer Retention
 resourceTypes:
 - video
 sitemap:

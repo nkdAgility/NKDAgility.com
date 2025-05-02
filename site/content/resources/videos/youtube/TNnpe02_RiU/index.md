@@ -30,28 +30,26 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories:
 - DevOps
 
 ---
-**What is Your Peeve in DevOps**
+**What is Your Peeve in [DevOps]({{< ref "/categories/devops" >}})**
 
 **Debunking DevOps Peeves**
 
 DevOps has its fair share of grumbles and groans, which have beocme pet peeves. These peeves, more often than not, are due to misunderstanding or resistance to change.
 
-In the spirit of continuous improvement and with a dash of tongue-in-cheek humor, let's clear the air and tackle these head-on!
+In the spirit of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and with a dash of tongue-in-cheek humor, let's clear the air and tackle these head-on!
 
-**Embrace Continuous Delivery**
+**Embrace [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}})**
 
 "What's your biggest pet peeve in DevOps?" Here's mine: The persistent myth that continuous delivery is unattainable, that we can't empower developers to ship products into production.
 
-It's a fallacy I've debunked time and again during my 20+ years as a Lean-Agile & DevOps Consultant. 💼
+It's a fallacy I've debunked time and again during my 20+ years as a [Lean]({{< ref "/categories/lean" >}})-Agile & DevOps Consultant. 💼
 
 This lingering notion that achieving continuous delivery is unachievable, or that we can't trust developers with the "big, scary" task of pushing products into production. This baseless belief, I must say, has been knocked down countless times in my experience. 🚀👨‍💼
 
@@ -67,7 +65,7 @@ Therefore, continuous delivery is within your reach, and developers can lead the
 
 Ready to learn how?
 
-Join one of our Agile and Scrum courses to transform your DevOps processes and debunk the myths. Let's make continuous delivery your reality!
+Join one of our Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses to transform your DevOps processes and debunk the myths. Let's make continuous delivery your reality!
 
 Keywords:        DevOps Empowerment, Continuous Delivery, Agile & Scrum Courses,
 

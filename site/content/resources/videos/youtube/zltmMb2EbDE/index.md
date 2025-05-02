@@ -38,9 +38,6 @@ tags:
 - Flow Efficiency
 - Agile Frameworks
 - Pragmatic Thinking
-- Continuous Improvement
-- Cycle Time
-- Value Delivery
 resourceTypes:
 - video
 categories:
@@ -48,7 +45,7 @@ categories:
 - Product Development
 
 ---
-### Integrating Kanban with Scrum: Enhancing Your Workflow
+### Integrating [Kanban]({{< ref "/categories/kanban" >}}) with [Scrum]({{< ref "/categories/scrum" >}}): Enhancing Your Workflow
 
 **Introduction**
 
@@ -62,11 +59,11 @@ Kanban is not just a standalone strategy; it integrates seamlessly with various 
 
 Kanban can integrate with any environment, be it Scrum, Waterfall, or a custom workflow. Here’s why combining Kanban with Scrum is beneficial:
 
-- **Enhanced Visibility**: Kanban brings transparency to your workflow, making it easier to spot bottlenecks and areas for improvement.
+- **Enhanced Visibility**: Kanban brings [transparency]({{< ref "/tags/transparency" >}}) to your workflow, making it easier to spot bottlenecks and areas for improvement.
 
 - **Effective Metrics**: Unlike Scrum, which lacks built-in metrics, Kanban provides essential data to monitor and optimize performance.
 
-- **Continuous Improvement**: The iterative nature of Kanban helps teams continuously refine their processes for better outcomes.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: The iterative nature of Kanban helps teams continuously refine their processes for better outcomes.
 
 * * *
 
@@ -76,7 +73,7 @@ Scrum is a fantastic framework, but it has its limitations, particularly in term
 
 - **Lack of Metrics in Scrum**: The Scrum Guide doesn’t specify metrics like velocity, story points, or time. Teams often use these metrics, but they can be misleading and ineffective.
 
-- **Answering Critical Questions**: Customers often ask, "When will it be done?" or "What will I get by this date?" Scrum alone doesn’t provide clear answers. Kanban’s probabilistic forecasting can help.
+- **Answering Critical Questions**: Customers often ask, "When will it be done?" or "What will I get by this date?" Scrum alone doesn’t provide clear answers. Kanban’s probabilistic [forecasting]({{< ref "/tags/forecasting" >}}) can help.
 
 * * *
 
@@ -84,11 +81,11 @@ Scrum is a fantastic framework, but it has its limitations, particularly in term
 
 Kanban provides several valuable metrics that can transform your Scrum practice:
 
-- **Cycle Time**: Measures the time it takes for a work item to go from start to finish. It helps identify delays and inefficiencies.
+- **[Cycle Time]({{< ref "/tags/cycle-time" >}})**: Measures the time it takes for a work item to go from start to finish. It helps identify delays and inefficiencies.
 
-- **Lead Time**: The total time from when a request is made until it’s delivered. This metric is crucial for understanding overall delivery performance.
+- **[Lead Time]({{< ref "/tags/lead-time" >}})**: The total time from when a request is made until it’s delivered. This metric is crucial for understanding overall delivery performance.
 
-- **Throughput**: The number of work items completed in a given period. This metric helps gauge team productivity.
+- **[Throughput]({{< ref "/tags/throughput" >}})**: The number of work items completed in a given period. This metric helps gauge team productivity.
 
 - **Work in Progress (WIP) Limits**: Controls the amount of work in progress to prevent bottlenecks and ensure a smooth flow.
 
@@ -102,7 +99,7 @@ Here’s how to effectively integrate Kanban into your Scrum environment:
 
 1. **Start with Metrics**:
 
-- **Collect Data**: Use tools like JIRA or Azure DevOps to gather data on cycle time, lead time, throughput, and WIP.
+- **Collect Data**: Use tools like JIRA or Azure [DevOps]({{< ref "/categories/devops" >}}) to gather data on cycle time, lead time, throughput, and WIP.
 
 - **Visualize**: Create visual representations of your workflow and metrics using Kanban boards.
 

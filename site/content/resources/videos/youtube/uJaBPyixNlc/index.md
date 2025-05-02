@@ -34,16 +34,15 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Competence
-- Agile Transformation
-- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-How does Naked Agility select associate Scrum Trainers?
+How does Naked Agility select associate [Scrum]({{< ref "/categories/scrum" >}}) Trainers?
 
-A big part of the selection process is co-training with a certified, **Professional Scrum Trainer** (PST) over a variety of [scrum.org](https://www.scrum.org/) certified courses, in a variety of different applications.
+A big part of the selection process is co-training with a certified, **[Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer** (PST) over a variety of [scrum.org](https://www.scrum.org/) certified courses, in a variety of different applications.
 
 We do this to assess the effectiveness of their teaching and presentation style, and to assess how effectively they engage with course delegates. Theory is important, but ultimately, we are looking for people who have the ability to educate, empower, and inspire others.
 
@@ -57,11 +56,11 @@ We actively look for people who have deep knowledge, expertise and experience wo
 
 They can talk confidently about:
 
-- A specific scenario that often arises within complex product development environments.
+- A specific scenario that often arises within complex [product development]({{< ref "/categories/product-development" >}}) environments.
 
 - Problems that arise because of this scenario, and they can articulate the impact of those problems on the team, the organization, and the customers they serve.
 
-- The process of discovery, experimentation, and problem-solving that they employed, and they can speak to the outcomes and objectives achieved because of the action(s) they took.
+- The process of discovery, [experimentation]({{< ref "/tags/experimentation" >}}), and problem-solving that they employed, and they can speak to the outcomes and objectives achieved because of the action(s) they took.
 
 There are a lot of agile purists who are deeply immersed in the dogma of **agile**, but don’t have the real-world experience or skills to understand that the **theory of agile** doesn’t solve every problem.
 
@@ -81,21 +80,21 @@ They need to solve that person’s problem, live and in real-time, in a way that
 
 You can’t do that if you’ve simply memorized the [scrum guide](https://www.scrum.org/resources/scrum-guide).
 
-You need to have earned your stripes and have proven yourself to be an expert in your field to pull that off. You need to have strong coaching, mentoring, and consulting experience to pull that off.
+You need to have earned your stripes and have proven yourself to be an expert in your field to pull that off. You need to have strong [coaching]({{< ref "/tags/coaching" >}}), [mentoring]({{< ref "/tags/mentoring" >}}), and consulting experience to pull that off.
 
-I personally worked as a software engineer for over a decade, followed by another decade as a DevOps consultant before I even considered the idea of becoming a **Professional Scrum Trainer**.
+I personally worked as a software engineer for over a decade, followed by another decade as a [DevOps]({{< ref "/categories/devops" >}}) consultant before I even considered the idea of becoming a **Professional Scrum Trainer**.
 
 ## Who is our current associate Professional Scrum Trainers?
 
 I’ve just brought on a wonderful woman named Joanna, and she has a PHd in Robotics.
 
-She has worked as a scrum master in some of the most high-performance scrum teams in the world and has actively coached software engineering teams for many years. She has combined all of her technical, agile, and coaching experience to become a powerful **Professional Scrum Trainer**.
+She has worked as a [scrum master]({{< ref "/tags/scrum-master" >}}) in some of the most high-performance scrum teams in the world and has actively coached software engineering teams for many years. She has combined all of her technical, agile, and coaching experience to become a powerful **Professional Scrum Trainer**.
 
 That’s exactly the kind of person that I love to work with.
 
 I also work with Russell Miller. Someone who has earned their **Professional Scrum Trainer** credentials but has also actively built and developed components for fighter aircraft in the U.S. Military.
 
-He designed control surfaces for aircraft and was an instrumental part of product development and project management in the context of Lockheed Martin.
+He designed control surfaces for aircraft and was an instrumental part of product development and [project management]({{< ref "/tags/project-management" >}}) in the context of Lockheed Martin.
 
 For myself, Joanna, and Russell, we have had to solve significant problems and grow agile capability despite some of the most horrendous, strict constraints imaginable. From Microsoft to Robotics to remote Software Engineering teams to Military Defense.
 

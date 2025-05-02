@@ -27,9 +27,6 @@ isShort: true
 tags:
 - Software Development
 - Working Software
-- Agile Transformation
-- Competence
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,7 +42,7 @@ In my experience working with various organisations, I've often noticed a signif
 
 ### The Unspoken Expectation of Quality
 
-When we talk about the definition of done, we’re not just discussing a checklist of tasks that need to be completed. Instead, we’re addressing a fundamental expectation that leadership has regarding the quality of work produced by teams. This expectation is often implicit; it’s assumed that teams will deliver a level of quality that is usable and meets the needs of the business. 
+When we talk about the [definition of done]({{< ref "/tags/definition-of-done" >}}), we’re not just discussing a checklist of tasks that need to be completed. Instead, we’re addressing a fundamental expectation that [leadership]({{< ref "/categories/leadership" >}}) has regarding the quality of work produced by teams. This expectation is often implicit; it’s assumed that teams will deliver a level of quality that is usable and meets the needs of the business. 
 
 However, this assumption can lead to significant issues. Many teams operate under the belief that they can simply tick boxes and call a project complete, without fully understanding the implications of their work. This is where the disconnect occurs. 
 

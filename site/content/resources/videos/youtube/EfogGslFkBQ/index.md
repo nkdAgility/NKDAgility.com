@@ -39,15 +39,6 @@ tags:
 - Team Performance
 - Flow Efficiency
 - Agile Philosophy
-- Agile Planning
-- Agile Values and Principles
-- Agile Transformation
-- Time to Market
-- Cycle Time
-- Metrics and Learning
-- Product Delivery
-- Working Software
-- Current Value
 resourceTypes:
 - video
 categories:
@@ -76,7 +67,7 @@ Unfortunately, these behaviors lead to a situation where **the point becomes the
 
 **💡** **Pro tip**: Instead of obsessing over points, focus on **value-based discussions** about what the team knows, doesn’t know, and what assumptions they need to test.
 
-### **Focus on Throughput and Cycle Time**
+### **Focus on [Throughput]({{< ref "/tags/throughput" >}}) and [Cycle Time]({{< ref "/tags/cycle-time" >}})**
 
 Rather than relying on story points and velocity, Agile teams should shift their focus to **throughput** and **cycle time**. These metrics provide a much clearer picture of how effectively the team is delivering real value to the customer. Here’s why:
 
@@ -84,7 +75,7 @@ Rather than relying on story points and velocity, Agile teams should shift their
 
 - **Cycle time**: This tells you how long it takes for a task to move from start to finish, helping teams identify bottlenecks and improve flow.
 
-Both of these metrics emphasize **flow** rather than **estimation**, ensuring the team remains focused on delivering tangible outcomes. Story points and velocity, on the other hand, often lead to a false sense of productivity and, as I’ve seen in many teams, very little benefit in the long run.
+Both of these metrics emphasize **flow** rather than **[estimation]({{< ref "/tags/estimation" >}})**, ensuring the team remains focused on delivering tangible outcomes. Story points and velocity, on the other hand, often lead to a false sense of productivity and, as I’ve seen in many teams, very little benefit in the long run.
 
 ## **A Case Study: The Danger of Story Points in Contracts**
 
@@ -94,7 +85,7 @@ I recently encountered a client who had one of the most extreme examples of **Ag
 
 - **Story points become the measure of success**: Instead of focusing on the product’s quality or customer value, the team became obsessed with hitting point targets.
 
-- **Incentivized dishonesty**: The team felt compelled to **inflate estimates** to avoid penalties, leading to a lack of transparency.
+- **Incentivized dishonesty**: The team felt compelled to **inflate estimates** to avoid penalties, leading to a lack of [transparency]({{< ref "/tags/transparency" >}}).
 
 - **Breach of contract risk**: The contract had penalties for missing the point targets, which placed unnecessary stress on the team and made them focus on covering themselves rather than delivering quality work.
 
@@ -114,7 +105,7 @@ Story points aren’t inherently evil. In the right context, they can be helpful
 
 However, at the end of the planning session, **delete the data**. The story points have served their purpose, which was to facilitate conversation and understanding. Once that’s done, they no longer hold value.
 
-**⚠️** **Caution**: Story points should not be used as a performance measure by product owners or stakeholders. If your product owner is using velocity to monitor team performance, you’re on the path to Agile Banditry.
+**⚠️** **Caution**: Story points should not be used as a performance measure by product owners or stakeholders. If your [product owner]({{< ref "/tags/product-owner" >}}) is using velocity to monitor [team performance]({{< ref "/tags/team-performance" >}}), you’re on the path to Agile Banditry.
 
 ### **What Should Agile Teams Focus On?**
 
@@ -124,13 +115,13 @@ If story points aren’t the answer, what is? Here’s a list of more **objectiv
 
 - **Cycle time**: How long it takes to complete a task from start to finish.
 
-- **Lead time**: The total time from when a request is made until it’s delivered.
+- **[Lead time]({{< ref "/tags/lead-time" >}})**: The total time from when a request is made until it’s delivered.
 
-- **Customer satisfaction**: The ultimate metric—how happy are your customers with what you’re delivering?
+- **[Customer satisfaction]({{< ref "/tags/customer-satisfaction" >}})**: The ultimate metric—how happy are your customers with what you’re delivering?
 
 By focusing on these **flow-based** metrics, you’re setting your team up for success. You’re measuring the things that actually matter, rather than arbitrary numbers that don’t correlate with customer value.
 
-**🚀** **Pro tip**: Start tracking cycle time and throughput, and you’ll see an immediate shift in team focus towards value delivery rather than point accumulation.
+**🚀** **Pro tip**: Start tracking cycle time and throughput, and you’ll see an immediate shift in team focus towards [value delivery]({{< ref "/tags/value-delivery" >}}) rather than point accumulation.
 
 ## **Conclusion: Avoid Agile Banditry and Focus on What Matters**
 

@@ -42,6 +42,244 @@ $catalogues["catalog"]["concepts"] = Get-CatalogHashtable -Classification "conce
 $catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"] + $catalogues["catalog"]["concepts"]
 $catalogues["marketing"] = Get-CatalogHashtable -Classification "marketing"
 
+function Update-ClassificationsForHugoMarkdownList {
+    param (
+        [Parameter(Mandatory = $true)]
+        [Array]$hugoMarkdownList
+    )
+    $catalog = $catalogues["catalog_full"]
+    $CacheFolder = "./.data/"
+    $batchFile = Join-Path $CacheFolder "classifications.json"
+    $batchStatus = $null
+    if ((Test-Path $batchFile) -and (Get-Content -Path $batchFile -Raw).Trim()) {
+        $batches = Get-Content -Raw -Path $batchFile | ConvertFrom-Json
+
+        if ($batches -isnot [System.Collections.IEnumerable]) {
+            $batches = @($batches)
+        }
+        $count = 1
+        $countOfResults = 0
+        $countOfResultsThatAreBad = 0
+        foreach ($batch in $batches) {
+            $countOfBatchResults = 0
+            $countOfBatchResultsThatAreBad = 0
+            $batchId = $batch.BatchId
+            $batchJsonlOutout = Join-Path $CacheFolder "$batchId-output.jsonl"
+            $batchStatus = Get-OpenAIBatchStatus -BatchId $batchId
+            switch ($batchStatus) {
+                { $_ -in @("completed", "expired") } {
+                    Write-InformationLog "Batch $count [$batchId] {$_}. Processing Results."
+                    $HugoLookup = Get-HugoMarkdownListAsHashTable -hugoMarkdownList $hugoMarkdownList
+                    # Process batch results into cache format
+                    $batchResults = Get-OpenAIBatchResults -BatchId $batchId -OutputFile $batchJsonlOutout
+                    Write-InformationLog "|- returned {count} results to process" -PropertyValues $batchResults.count
+                    $total = $batchResults.Count
+                    $currentIndex = 0
+                    $lastReportedPercent = 0
+                    foreach ($result in $batchResults) {
+                        $countOfBatchResults++
+                        $countOfResults++
+                        $currentIndex++
+                        $rawAiBatchResult = $result | ConvertFrom-Json
+                        try {
+                            if ($rawAiBatchResult.response.body.choices[0].message.content -match '(?s)```json\s*(.*?)\s*```') {
+                                $jsonContent = $matches[1] # Extracted JSON content 
+                                $aiResponseJson = $jsonContent
+                            }
+                            else {
+                                $aiResponseJson = $rawAiBatchResult.response.body.choices[0].message.content 
+                            }
+                        }
+                        catch {
+                            Write-ErrorLog "Error parsing AI response for $CacheFolder. Skipping."
+                            continue
+                        }
+                        $newEntry = $null
+                        $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson
+                        if ($newEntry -eq $null) {
+                            $countOfBatchResultsThatAreBad++
+                            $countOfResultsThatAreBad++
+                            Write-WarningLog "|- AI response is null for resourceId $($rawAiBatchResult.resourceId). Skipping."
+                            $newEntry = $null
+                            continue
+                        }
+                        if ($newEntry.resourceId -eq $null) {
+                            $countOfBatchResultsThatAreBad++
+                            $countOfResultsThatAreBad++
+                            Write-WarningLog "|- resourceId mismatch for $($rawAiBatchResult.resourceId). Skipping."
+                            $newEntry = $null
+                            continue
+                        }
+                        if ($HugoLookup.ContainsKey($newEntry.resourceId)) {
+                            $hugoMarkdown = $HugoLookup[$newEntry.resourceId]
+                        }                        
+                        if ($hugoMarkdown -eq $null) {
+                            $countOfResultsThatAreBad++
+                            $countOfBatchResultsThatAreBad++
+                            Write-WarningLog "|- HugoMarkdown not found for resourceId $($newEntry.resourceId). Skipping."
+                            continue
+                        }
+                        $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
+                        if ($cachedData.ContainsKey($newEntry.category)) {
+                            $oldEntry = $cachedData.($newEntry.category)
+                            if ([System.DateTimeOffset]$oldEntry.calculated_at -gt $newEntry.calculated_at) {
+                                $cachedData[$newEntry.category] = $newEntry
+                            }
+                        }
+                        else {
+                            $cachedData.Add($newEntry.category, $newEntry )
+                        }
+                        Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
+                        Write-DebugLog "|- Updated {category} for {resourceId} with {confidence}" -PropertyValues $newEntry.category, $newEntry.resourceId, $newEntry.ai_confidence
+                        $percentComplete = [math]::Floor(($currentIndex / $total) * 100)
+                        if ($percentComplete -ge $lastReportedPercent + 10) {
+                            Write-InformationLog "|- ⏳ Batch Progress: {percentComplete}% complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $percentComplete, $countOfBatchResults, $countOfBatchResultsThatAreBad
+                            $lastReportedPercent = $percentComplete - ($percentComplete % 10)
+                        }
+                    }
+                    Write-InformationLog "Outcome: Complete with {countOfBatchResults} results, {countOfBatchResultsThatAreBad} of which were bad" -PropertyValues $countOfBatchResults, $countOfResultsThatAreBad
+                    # Cleanup batch file after processing
+                    # Filter out the batch with the matching ID
+                    $batchesFromFile = Get-Content $BatchFile | ConvertFrom-Json
+                    $batchesForFile = $batchesFromFile | Where-Object { $_.batchId -ne $batchId }
+                    if ($batchesForFile.Count -eq 0) {
+                        Remove-Item $BatchFile -Force
+                    }
+                    else {
+                        # Save the updated list back to the file
+                        $batchesForFile | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    }                
+                    
+                    ## Clean up
+                    $inputFile = Join-Path $CacheFolder $batch.inputFile
+                    if (Test-Path $inputFile) {
+                        Remove-Item $inputFile -Force
+                    }
+                    if (Test-Path $batchJsonlOutout) {
+                        Remove-Item $batchJsonlOutout -Force
+                    }
+                    $batchStatus = $null
+                }
+                "in_progress" {
+                    Write-WarningLog "Batch $count [$batchId] still in progress. Please wait for completion."
+                }
+                "failed" {
+                    Write-ErrorLog "Batch failed for $batchId. Please try again."
+                    $updatedBatches = $batches | Where-Object { $_.batchId -ne $BatchIdToRemove }
+                    # Save the updated list back to the file
+                    $updatedBatches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    $inputFile = Join-Path $CacheFolder $batch.inputFile
+                    if (Test-Path $inputFile) {
+                        Remove-Item $inputFile -Force
+                    }
+                    if (Test-Path $batchJsonlOutout) {
+                        Remove-Item $batchJsonlOutout -Force
+                    }
+                    $batchStatus = $null
+                    exit
+                }
+                default {
+                    Write-WarningLog $batchStatus
+                }
+            }
+            $count++
+        }
+    }
+    else {
+        $batches = @()
+    }
+
+    if ($batches.Count -gt 0) {
+        return
+    }
+
+    $prompts = @();
+    $total = $hugoMarkdownList.Count
+    $counter = 0
+    $nextPercent = 10
+    foreach ($hugoMarkdown in $hugoMarkdownList) {
+        $newPrompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
+        Write-DebugLog "For {ResourceId} we need to update {count}" -PropertyValues $hugoMarkdown.FrontMatter.ResourceId, $CatalogItemsToRefreshOrGet.Count
+        if ($newPrompts.Count -gt 0) {
+            $prompts += $newPrompts
+        }       
+        $counter++
+        $percent = [math]::Floor(($counter / $total) * 100)
+        if ($percent -ge $nextPercent) {
+            Write-InfoLog "Processed {done} of {total} markdown files ({percent}%)" -PropertyValues $counter, $total, $percent
+            $nextPercent += 10
+        }
+    }
+
+    ######
+    Write-InfoLog "We have {count} prompts to batch" -PropertyValues $prompts.Count
+    $maxBatchSize = 1000
+    $batchesInProgress = 0
+
+    for ($i = 0; $i -lt $prompts.Count; $i += $maxBatchSize) {
+        $chunk = $prompts[$i..([Math]::Min($i + $maxBatchSize - 1, $prompts.Count - 1))]
+        $batchJsonlInput = Join-Path $CacheFolder "batch-$i.jsonl" # adjust path or naming as needed
+
+        $result = Submit-OpenAIBatch -Prompts $chunk -OutputFile $batchJsonlInput
+
+        if ($result.batchId) {
+            $batchesInProgress++
+
+            $newBatch = @{
+                batchId       = $result.batchId
+                status        = "submitted"
+                submittedAt   = (Get-Date).ToString("o")
+                promptCount   = $chunk.Count
+                inputFile     = $batchJsonlInput
+                tokenEstimate = $result.tokenEstimate
+                errors        = $null
+            }
+
+            $batches += [PSCustomObject]$newBatch
+            # Save batch tracking to file
+            $batches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+            Write-InformationLog "Batch submitted: $batchId with $($chunk.Count) prompts."
+            if ($result.BatchesInProgress -ge $result.BatchesInProgressMax) {
+                Write-WarningLog "Reached maximum number of batches in progress ($batchesInProgressMax). Stopping submission."
+                break
+            }
+        }
+        else {
+            Write-WarningLog "Batch not submitted. Too many tokens in progress. Try again later."
+        }
+    }
+
+}
+
+function Get-PromptsForHugoMarkdown {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$catalog
+    )
+    $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
+
+    $CatalogFromCache = @{}
+    $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } |
+    ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
+
+    $CatalogItemsToRefreshOrGet = Get-CatalogItemsToRefreshOrGet -cachedData $cachedData -Catalog $catalog -CatalogFromCache $CatalogFromCache
+    $prompts = @()
+    foreach ($category in $CatalogItemsToRefreshOrGet) {
+        $prompt = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
+            resourceId   = $hugoMarkdown.FrontMatter.ResourceId
+            category     = $category
+            Instructions = $Catalog[$category].Instructions
+            title        = $hugoMarkdown.FrontMatter.Title
+            abstract     = $hugoMarkdown.FrontMatter.Description
+            content      = $hugoMarkdown.BodyContent
+        }
+        $prompts += $prompt
+    }
+    return $prompts;
+}
+
 function Get-ClassificationsForType {
     param (
         [Parameter(Mandatory = $true)]
@@ -52,13 +290,8 @@ function Get-ClassificationsForType {
     )
 
     $CacheFolder = $hugoMarkdown.FolderPath
-
-    $batchFile = Join-Path $CacheFolder "data.index.classifications.$ClassificationType.batch"
-    $batchJsonlOutout = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-output.jsonl"
-    $batchJsonlInput = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-input.jsonl"
-
     # Populate Catalogues
-    Write-InfoLog "   Populating Catalogues"
+    Write-DebugLog "   Populating Catalogues"
     $catalog = @{}    
     switch ($ClassificationType) {
         { $_ -in "categories", "tags", "concepts" } {
@@ -82,243 +315,55 @@ function Get-ClassificationsForType {
         }
     }
 
+    if ([datetime]$hugoMarkdown.FrontMatter.date -gt [datetime](Get-Date)) {
+        Update-MissingClassificationsLive -hugoMarkdown $hugoMarkdown -catalog $catalog
+    }
     # Load from Cache and validate its contents
-    #==========================================
-    #=================CACHE====================
-    #==========================================
-    $cachedData = @{}
-    Write-InfoLog "   Populating Cache"
-    if (Test-Path $cacheFile) {
-        # Load from cache
-        try {
-            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -AsHashtable -ErrorAction Stop
-        }
-        catch {
-            Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
-            $cachedData = @{}
-        }
-        Write-DebugLog "Cache Contains: $($cachedData.count) items"
-        # Remove items that are not in catalogue            
-        $keysToRemove = $cachedData.keys | Where-Object { $_ -notin $catalog_full.Keys }
-        if ( $keysToRemove.Count -gt 0) {
-            # If there are keys to remove, remove them and update the cache
-            Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
-            foreach ($key in $keysToRemove) {
-                $cachedData.Remove($key)
-            }
-            Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
-            $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
-        }           
-        # Check if the cache uses the latest calculations
-        $recalculatedCount = 0
-        $keysToCheck = $cachedData.keys | ForEach-Object { $_ }
-        foreach ($key in  $keysToCheck ) {
-            $entry = $cachedData[$key]
-            $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
-            $level = Get-ComputedLevel -confidence $finalScore
-
-            if ($entry.final_score -ne $finalScore -or $entry.level -ne $level) {
-                $entry.final_score = $finalScore
-                $entry.level = $level
-                # Add calculated_at if it doesn't exist
-                if (-not ($entry.ContainsKey('calculated_at'))) {
-                    $entry.Insert(1, 'calculated_at', (Get-Date).ToUniversalTime().ToString("s"))
-                }
-                $entry.calculated_at = (Get-Date).ToUniversalTime().ToString("s")                
-                # Update cache
-                $cachedData[$key] = $entry
-                $recalculatedCount++
-            }
-        }
-        if ($recalculatedCount -gt 0) {
-            Write-DebugLog "  Recalculated for {recalculatedCount} Items" -PropertyValues $recalculatedCount
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force            
-        }
-    }
-    # Bring Batch results into Cache file
-    # If the batch file exists, check the status
-    $batchStatus = $null
-    if (Test-Path $batchFile) {
-        $batchId = Get-Content $batchFile
-        $batchStatus = Get-OpenAIBatchStatus -BatchId $batchId
-
-        switch ($batchStatus) {
-            "completed" {
-                Write-InfoLog "Batch completed. Processing results..."
-                # Process batch results into cache format
-                $batchResults = Get-OpenAIBatchResults -BatchId $batchId -OutputFile $batchJsonlOutout
-                foreach ($result in $batchResults) {
-                    $rawAiBatchResult = $result | ConvertFrom-Json
-                    try {
-                        if ($rawAiBatchResult.response.body.choices[0].message.content -match '(?s)```json\s*(.*?)\s*```') {
-                            $jsonContent = $matches[1] # Extracted JSON content 
-                            $aiResponseJson = $jsonContent
-                        }
-                        else {
-                            $aiResponseJson = $rawAiBatchResult.response.body.choices[0].message.content 
-                        }
-                    }
-                    catch {
-                        Write-ErrorLog "Error parsing AI response for $CacheFolder. Skipping."
-                        continue
-                    }
-                    $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceContent $hugoMarkdown.BodyContent
-                    if ($cachedData.ContainsKey($newEntry.category)) {
-                        $oldEntry = $cachedData.($newEntry.category)
-                        if ([System.DateTimeOffset]$oldEntry.calculated_at -gt $newEntry.calculated_at) {
-                            $cachedData[$newEntry.category] = $newEntry
-                        }
-                    }
-                    else {
-                        $cachedData.Add($newEntry.category, $newEntry )
-                    }
-                }
-
-                # Save updated cache
-                $cachedData | ConvertTo-Json -Depth 4 | Set-Content -Path $cacheFile -Force
-
-                # Cleanup batch file after processing
-                Remove-Item $batchFile -Force
-                Remove-Item $batchJsonlInput -Force
-                Remove-Item $batchJsonlOutout -Force
-                $batchStatus = $null
-            }
-            "in_progress" {
-                Write-WarningLog "Batch still in progress. Please wait for completion."
-            }
-            "failed" {
-                Write-ErrorLog "Batch failed for $batchId. Please try again."
-                Remove-Item $batchFile -Force
-                Remove-Item $batchJsonlInput -Force
-                $batchStatus = $null
-                exit
-            }
-            default {
-                Write-WarningLog $batchStatus
-            }
-        }
-    }
-    #==========================================
-    #================/CACHE====================
-    #==========================================
-
+    $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
     #Find items from the catalogue that we have.
     $CatalogFromCache = @{}; $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } | ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
 
-    # Find items from the catalogue that we don't have.
-    $CatalogItemsToRefreshOrGet = @($catalog.Keys | Where-Object { $_ -notin $cachedData.Keys })
-    # Find items from the CatalogFromCache that are out of date.
-    $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
-        $CatalogFromCache.Values | Where-Object {
-            if (-not $_.calculated_at) {
-                $true
-            }
-            elseif (
-                $catalog_full.ContainsKey($_.category) -and
-                $_.calculated_at -and
-                $catalog_full[$_.category].date
-            ) {
-                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date
-            }
-            else {
-                $false
-            }
-        } | Select-Object -ExpandProperty category
+ 
+    # Return the items
+    return $CatalogFromCache.Keys | ForEach-Object { $CatalogFromCache[$_] } | Sort-Object final_score -Descending
+}
+
+function Update-MissingClassificationsLive {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$catalog
     )
-
-    $watermarkCount = $CatalogItemsToRefreshOrGet.Count
-    $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
-    if ($waterMarkRefresh -le 0) {
-        $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
-        # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
-        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
-            $CatalogFromCache.Values |
-            Where-Object { 
-                $_.final_score -gt $watermarkScoreLimit -and 
-                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
-            } |
-            Sort-Object { [DateTimeOffset]$_.calculated_at } |
-            Select-Object -ExpandProperty category |
-            Select-Object -First $waterMarkRefresh
-        )
-    }
-    Write-InformationLog "   Refreshing {CatalogItemsToRefreshOrGet} items from the Catalogue" -PropertyValues $CatalogItemsToRefreshOrGet.Count
-
-    if ($CatalogItemsToRefreshOrGet.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
-      
-        # Build prompts for missing items
-        $prompts = @()
-        foreach ($category in $CatalogItemsToRefreshOrGet) {
-            $prompt = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
-                category     = $category
-                Instructions = $Catalog[$category].Instructions
-                title        = $hugoMarkdown.FrontMatter.Title
-                abstract     = $hugoMarkdown.FrontMatter.Description
-                content      = $hugoMarkdown.BodyContent
-            }
-            $prompts += $prompt
-        }
-
-        # Check number of batches in progress
-        if ($batch -and $prompts.Count -gt 40 -and (-not $batchesInProgress)) {
-            # Get current batches in progress
-            $batchesInProgress = Get-OpenAIBatchesInProgress -ApiKey $OPEN_AI_KEY
-        }
-
-        if ($batch -and $prompts.Count -gt 40 -and $batchesInProgress -lt $batchesInProgressMax) {
-            # Batch processing
-            $batchId = Submit-OpenAIBatch -Prompts $prompts -OutputFile $batchJsonlInput
-            if ($batchId) {
-                $batchesInProgress++
-                $batchId | Set-Content -Path $batchFile -Force
-                Write-WarningLog "Batch submitted. Processing..."
+    $prompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
+    $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
+    Write-InformationLog "Updating {count} missing classifications for {resourceId}" -PropertyValues $prompts.count, $hugoMarkdown.FrontMatter.ResourceId
+    $count = 0;
+    foreach ($prompt in $prompts) {
+        $count++
+        # Calls processing
+        $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
+        $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -hugoMarkdown $hugoMarkdown
+        if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
+            $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
+            $confidenceDiff = "{0}{1}" -f ($(if (($result.ai_confidence - $oldConfidence) -ge 0) { '+' } else { '-' }), [math]::Abs($result.ai_confidence - $oldConfidence))
+            if ($cachedData[$result.category] -and $cachedData[$result.category].calculated_at) {
+                $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
             }
             else {
-                Write-WarningLog "Batch not submitted. Too many tokens in progress. try again later."
+                $DaysAgo = -1  # Or a default value like 0, depending on your needs
             }
+            $percentage = [math]::Round( ($count / [double]$prompts.Count) * 100 )
+            Write-InformationLog "Updating [$count/$($prompts.Count)|$percentage%] {category} confidence {diff}! The old confidence of {old} was calculated {daysago} days ago. The new confidence is {confidence}!" -PropertyValues $result.category, $confidenceDiff, $oldConfidence, $DaysAgo, $result.ai_confidence
+            $cachedData[$result.category] = $result
+            # Save cache after each API call
+            Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
         }
         else {
-            $count = 0
-            foreach ($prompt in $prompts) {
-                $count++
-                Write-DebugLog "Processing Prompt [$count/$($prompts.Count)] | $(($count / $prompts.Count) * 100)%"
-                #Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
-                # Calls processing
-                $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
-                $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -hugoMarkdown $hugoMarkdown
-                if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
-                    $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
-                    $confidenceDiff = "{0}{1}" -f ($(if (($result.ai_confidence - $oldConfidence) -ge 0) { '+' } else { '-' }), [math]::Abs($result.ai_confidence - $oldConfidence))
-                    if ($cachedData[$result.category] -and $cachedData[$result.category].calculated_at) {
-                        $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
-                    }
-                    else {
-                        $DaysAgo = -1  # Or a default value like 0, depending on your needs
-                    }
-                    
-                    Write-InformationLog "Updating {category} confidence {diff}! The old confidence of {old} was calculated {daysago} days ago. The new confidence is {confidence}!" -PropertyValues $result.category, $confidenceDiff, $oldConfidence, $DaysAgo, $result.ai_confidence
-                    $CatalogFromCache[$result.category] = $result
-                    $cachedData[$result.category] = $result
-                    # Save cache after each API call
-                    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-                }
-                else {
-                    Write-ErrorLog "Error processing AI response for $($result.category). Reasoning is Null!"
-                    exit
-                }               
-            }
-            # Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
-        }
+            Write-ErrorLog "Error processing AI response for $($result.category). Reasoning is Null!"
+            exit
+        }               
     }
-
-   
-    #==========================================
-    #=================return===================
-    #==========================================
-    return $CatalogFromCache.Keys | ForEach-Object { $CatalogFromCache[$_] } | Sort-Object final_score -Descending
-    #==========================================
-    #================/return===================
-    #==========================================
 }
 
 function Get-Classification {
@@ -387,8 +432,6 @@ function Get-ComputedLevel {
 
 function Get-ConfidenceFromAIResponse {
     param (
-        [Parameter(Mandatory = $true)]
-        [HugoMarkdown]$hugoMarkdown,
         [string]$AIResponseJson
     )
     $responceOK = $true
@@ -428,31 +471,13 @@ function Get-ConfidenceFromAIResponse {
         # Detect if confidence is a float in the 0-1 range
        
         $category = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
+        $resourceId = if ($AIResponse.PSObject.Properties["resourceId"]) { $AIResponse.resourceId } else { "unknown" }
     }
     
-    # Non-AI Confidence Calculation
-    $nonAiConfidence = 0
-    $categoryWords = $category -split '\s+'
-    $contentWords = ($hugoMarkdown.FrontMatter.title + " " + $hugoMarkdown.BodyContent) -split '\s+'
-    $escapedCategory = [Regex]::Escape($category)
-
-    if ($category -in $contentWords) {
-        $nonAiConfidence += 50
-    }
-    elseif ($contentWords | Where-Object { $_ -match $escapedCategory }) {
-        $nonAiConfidence += 30
-    }
-    else {
-        foreach ($word in $categoryWords) {
-            if ($contentWords -contains $word) {
-                $nonAiConfidence += 10
-            }
-        }
-    }
-
-    $finalScore = Get-ComputedConfidence -aiConfidence $aiConfidence -nonAiConfidence $nonAiConfidence
+    $finalScore = Get-ComputedConfidence -aiConfidence $aiConfidence -nonAiConfidence 0
 
     return [PSCustomObject]@{
+        "resourceId"        = $resourceId
         "category"          = $category
         "calculated_at"     = if ($responceOK) { (Get-Date).ToUniversalTime().ToString("s") } else { (Get-Date).AddDays(-365).ToUniversalTime().ToString("s") }
         "ai_confidence"     = $aiConfidence
@@ -551,7 +576,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
                 # Remove the classification from cache
                 $cachedData.Remove($classification)
                 if ($removedCount -gt 0) {
-                    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                    Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
                     Write-Host "Cache file updated successfully with $removedCount removals."
                 }
                 else {
@@ -561,7 +586,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
 
             if ($removedCount -gt 0) {
-                $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData
                 Write-Host "Cache file updated successfully with $removedCount removals."
             }
             else {
@@ -582,6 +607,10 @@ function Update-ClassificationLinksInBodyContent {
 
     foreach ($classification in $catalog.Keys) {
         $classificationData = $catalog[$classification]
+        if ($classificationData.CrossLinkingInContent -eq $false) {
+            Write-WarningLog "Classification $classification. Skipping."
+            continue
+        }
         $classificationTitle = $classificationData.Title
         $classificationSlug = $classificationTitle.ToLowerInvariant() -replace ' ', '-'
         $classificationEscaped = [regex]::Escape($classificationTitle)
@@ -624,6 +653,140 @@ function Update-ClassificationLinksInBodyContent {
 
     Write-InfoLog "Updated body content for classification type '$ClassificationType'."
     return $hugoMarkdown.BodyContent
+}
+
+function Get-CatalogItemsToRefreshOrGet {
+    param (
+        [Parameter(Mandatory = $true)]
+        [Hashtable]$cachedData,
+        [Parameter(Mandatory = $true)]
+        [Hashtable]$Catalog,
+        [Parameter(Mandatory = $true)]
+        [Hashtable]$CatalogFromCache
+
+    )
+    $catalog_full = $catalogues["catalog_full"]
+    # Find items from the catalogue that we don't have.
+    $CatalogItemsToRefreshOrGet = @($Catalog.Keys | Where-Object { $_ -notin $cachedData.Keys })
+    # Find items from the CatalogFromCache that are out of date.
+    $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
+        $CatalogFromCache.Values | Where-Object {
+            if (-not $_.calculated_at) {
+                $true
+            }
+            elseif (
+                $catalog_full.ContainsKey($_.category) -and
+                $_.calculated_at -and
+                $catalog_full[$_.category].date
+            ) {
+                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date
+            }
+            else {
+                $false
+            }
+        } | Select-Object -ExpandProperty category
+    )
+
+    $watermarkCount = $CatalogItemsToRefreshOrGet.Count
+    $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
+    if ($waterMarkRefresh -le 0) {
+        $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
+        # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
+        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
+            $CatalogFromCache.Values |
+            Where-Object { 
+                $_.final_score -gt $watermarkScoreLimit -and 
+                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
+            } |
+            Sort-Object { [DateTimeOffset]$_.calculated_at } |
+            Select-Object -ExpandProperty category |
+            Select-Object -First $waterMarkRefresh
+        )
+    }
+    Write-DebugLog "   Refreshing {CatalogItemsToRefreshOrGet} items from the Catalogue" -PropertyValues $CatalogItemsToRefreshOrGet.Count
+    return $CatalogItemsToRefreshOrGet
+}
+
+function Set-ClassificationsFromCache {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$cachedData
+    )
+    $CacheFolder = $hugoMarkdown.FolderPath
+    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+
+}
+
+
+function Get-ClassificationsFromCache {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown
+    )
+
+    $CacheFolder = $hugoMarkdown.FolderPath
+    $catalog_full = $catalogues["catalog_full"]
+    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+   
+    # Load from Cache and validate its contents
+    #==========================================
+    #=================CACHE====================
+    #==========================================
+    $cachedData = @{}
+    Write-DebugLog "   Populating Cache"
+    if (Test-Path $cacheFile) {
+        # Load from cache
+        try {
+            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -AsHashtable -ErrorAction Stop
+        }
+        catch {
+            Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
+            $cachedData = @{}
+        }
+        Write-DebugLog "Cache Contains: $($cachedData.count) items"
+        # Remove items that are not in catalogue            
+        $keysToRemove = $cachedData.keys | Where-Object { $_ -notin $catalog_full.Keys }
+        if ( $keysToRemove.Count -gt 0) {
+            # If there are keys to remove, remove them and update the cache
+            Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
+            foreach ($key in $keysToRemove) {
+                $cachedData.Remove($key)
+            }
+            Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
+            $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
+        }           
+        # Check if the cache uses the latest calculations
+        $recalculatedCount = 0
+        $keysToCheck = $cachedData.keys | ForEach-Object { $_ }
+        foreach ($key in  $keysToCheck ) {
+            $entry = $cachedData[$key]
+            $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
+            $level = Get-ComputedLevel -confidence $finalScore
+
+            if ($entry.final_score -ne $finalScore -or $entry.level -ne $level) {
+                $entry.final_score = $finalScore
+                $entry.level = $level
+                # Add calculated_at if it doesn't exist
+                if (-not ($entry.ContainsKey('calculated_at'))) {
+                    $entry.Insert(1, 'calculated_at', (Get-Date).ToUniversalTime().ToString("s"))
+                }
+                $entry.calculated_at = (Get-Date).ToUniversalTime().ToString("s")                
+                # Update cache
+                $cachedData[$key] = $entry
+                $recalculatedCount++
+            }
+        }
+        if ($recalculatedCount -gt 0) {
+            Write-DebugLog "  Recalculated for {recalculatedCount} Items" -PropertyValues $recalculatedCount
+            Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdown -cachedData $cachedData            
+        }
+    }
+
+    return $cachedData
+    #==========================================
 }
 
 

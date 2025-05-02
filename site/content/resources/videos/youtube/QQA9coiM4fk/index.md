@@ -28,9 +28,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
-- Software Development
+tags: []
 resourceTypes:
 - video
 categories:
@@ -39,7 +37,7 @@ categories:
 ---
 ## Navigating the Complexities with Expert Guidance 
 
-When I embarked on my journey as a DevOps consultant, I discovered that the vast landscape of DevOps could be as complex as it is fascinating. Brimming with potential for transformative change, this field is more than just a set of practices; it's a gateway to operational excellence. 🚀 
+When I embarked on my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I discovered that the vast landscape of DevOps could be as complex as it is fascinating. Brimming with potential for transformative change, this field is more than just a set of practices; it's a gateway to operational excellence. 🚀 
 
 ## Embarking on the DevOps Journey 🧭 
 
@@ -55,9 +53,9 @@ Here's a snapshot of what my DevOps consulting can look like: 
 
 - **Interactive Workshops:** Immersive experiences to get teams hands-on with DevOps principles. 
 
-- **Leadership Alignment:** Facilitating conversations with leadership teams to drive top-down transformation. 
+- **[Leadership]({{< ref "/categories/leadership" >}}) Alignment:** Facilitating conversations with leadership teams to drive top-down transformation. 
 
-- **Azure DevOps Specialisation:** Leveraging my experience as a Microsoft MVP to help those ingrained in the Microsoft ecosystem. 
+- **[Azure DevOps]({{< ref "/tags/azure-devops" >}}) Specialisation:** Leveraging my experience as a Microsoft MVP to help those ingrained in the Microsoft ecosystem. 
 
 ## Broadening Horizons Beyond Microsoft 🌐✨  
 
@@ -79,7 +77,7 @@ I've not left my coding days behind. I continue to support and innovate with too
 
 In essence, my approach to DevOps consulting is as varied as the needs of my clients: 
 
-- **Technical Troubleshooting:** From the nitty-gritty of CI/CD pipelines to deployment strategies. 
+- **Technical [Troubleshooting]({{< ref "/tags/troubleshooting" >}}):** From the nitty-gritty of CI/CD pipelines to [deployment strategies]({{< ref "/tags/deployment-strategies" >}}). 
 
 - **Cultural Shifts:** Navigating the people aspect, which is as crucial as the technical. 
 
@@ -87,7 +85,7 @@ In essence, my approach to DevOps consulting is as varied as the needs of my cli
 
 ## Why Choose DevOps Consulting? 🤷‍♂️💡 
 
- Why invest in DevOps consulting? Because it's about making lasting improvements, building robust processes, and fostering a culture where continuous delivery and improvement aren't just buzzwords; they're a reality. 
+ Why invest in DevOps consulting? Because it's about making lasting improvements, building robust processes, and fostering a culture where [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) and improvement aren't just buzzwords; they're a reality. 
 
 If you're looking to harness the full power of DevOps, remember it's not just about installing a tool or ticking a box. It's a journey of improvement, efficiency, and cultural change.  
 

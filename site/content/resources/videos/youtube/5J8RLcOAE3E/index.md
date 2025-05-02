@@ -17,12 +17,14 @@ aliases:
 - /resources/5J8RLcOAE3E
 - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
 aliasesArchive:
 - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
 - rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
@@ -35,16 +37,6 @@ tags:
 - Technical Excellence
 - Working Software
 - Product Delivery
-- Organisational Agility
-- Agile Philosophy
-- Continuous Learning
-- Operational Practices
-- Release Management
-- Value Delivery
-- Market Adaptability
-- Engineering Practices
-- Frequent Releases
-- Technical Mastery
 resourceTypes:
 - video
 sitemap:

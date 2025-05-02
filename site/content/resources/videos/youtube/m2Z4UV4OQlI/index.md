@@ -40,13 +40,6 @@ tags:
 - Operational Practices
 - Agile Leadership
 - Organisational Agility
-- Value Delivery
-- Agile Strategy
-- Continuous Improvement
-- Enterprise Agility
-- Transparency
-- Empirical Process Control
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
@@ -55,7 +48,7 @@ categories:
 - Product Development
 
 ---
-In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, product owner, Scrum Master, or CEO, the **Professional Agile Leadership - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.
+In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, [product owner]({{< ref "/tags/product-owner" >}}), [Scrum]({{< ref "/categories/scrum" >}}) Master, or CEO, the **Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.
 
 From personal experience as a Scrum Trainer, I can wholeheartedly recommend the PAL-EBM class to anyone in a leadership role who is committed to steering their organization toward success. This class is not just for managers; it's for anyone in a position of influence who is seeking to understand how to use metrics effectively to foster growth and collaboration.
 
@@ -103,7 +96,7 @@ Microsoft used a metric called **stack ranking**. If you Google it, you’ll fin
 
 💡 **Impact on Behavior**: The problem with stack ranking was the negative behaviors it encouraged. Instead of fostering collaboration and teamwork, it led to an environment of fear and competition, where employees worked against each other rather than towards a shared goal.
 
-It’s easy to look back now and see the obvious flaws in this system. But at the time, it was policy for nearly a decade. The reason it took so long to change? Leaders were **clinging to beliefs** despite overwhelming evidence that it wasn’t working. This is where transparency and the ability to analyze empirical data comes into play—key elements of PAL-EBM.
+It’s easy to look back now and see the obvious flaws in this system. But at the time, it was policy for nearly a decade. The reason it took so long to change? Leaders were **clinging to beliefs** despite overwhelming evidence that it wasn’t working. This is where [transparency]({{< ref "/tags/transparency" >}}) and the ability to analyze empirical data comes into play—key elements of PAL-EBM.
 
 ### Transparency and Empirical Data
 
@@ -139,7 +132,7 @@ By the end of the course, leadership teams leave with a clear vision of how to:
 
 If you’re serious about driving success in your organization, the PAL-EBM class offers the tools and insights you need to do just that. It’s not just about learning metrics; it’s about understanding the **human impact of metrics** and using them to guide your team in the right direction.
 
-Whether you’re a manager, Scrum Master, or CEO, the PAL-EBM class helps you:
+Whether you’re a manager, [Scrum Master]({{< ref "/tags/scrum-master" >}}), or CEO, the PAL-EBM class helps you:
 
 - 🌟 **See metrics in a new light**.
 

@@ -30,9 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Scrum Team
-- Software Development
-- Product Owner
 resourceTypes:
 - video
 categories:
@@ -40,11 +37,11 @@ categories:
 - Scrum
 
 ---
-## Product Owner's Misstep
+## [Product Owner]({{< ref "/tags/product-owner" >}})'s Misstep
 
-There's never a good time for a Scrum Team to be slanted, unsupported or left feeling surprised.  A Scrum Team is all about transparency, dependability and teamwork throughout good and bad situations.
+There's never a good time for a [Scrum]({{< ref "/categories/scrum" >}}) Team to be slanted, unsupported or left feeling surprised.  A [Scrum Team]({{< ref "/tags/scrum-team" >}}) is all about [transparency]({{< ref "/tags/transparency" >}}), dependability and teamwork throughout good and bad situations.
 
-## Setting the Stage at the Sprint Review 
+## Setting the Stage at the [Sprint Review]({{< ref "/tags/sprint-review" >}}) 
 
 Imagine a meeting room brimming with anticipation after all the stakes are high for every team member at a Sprint review.
 

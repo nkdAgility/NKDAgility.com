@@ -31,7 +31,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I reflect on my journey in the tech industry, I often find myself inspired by the stories and experiences of others. Recently, I had the pleasure of listening to Kathryn Maddox, a remarkable individual who embodies the essence of health and vitality. Her insights resonated deeply with me, particularly her perspective on the intersection of technology and human potential.
@@ -40,12 +41,12 @@ Kathryn's enthusiasm for health is infectious. She shared her journey of embraci
 
 - **The Power of Perspective**: Kathryn spoke about the importance of having a unique viewpoint, especially in a field that often feels saturated with conventional thinking. This is something I strive for in my own work. By bringing a fresh perspective to the table, we can challenge the status quo and inspire innovation.
 
-- **Connecting with Makers**: As Kathryn pointed out, there’s a special connection between those who create and those who lead. I’ve always believed that understanding the mindset of engineers and developers is crucial for effective leadership. It’s not just about managing projects; it’s about fostering an environment where creativity and technical prowess can flourish.
+- **Connecting with Makers**: As Kathryn pointed out, there’s a special connection between those who create and those who lead. I’ve always believed that understanding the mindset of engineers and developers is crucial for effective [leadership]({{< ref "/categories/leadership" >}}). It’s not just about managing projects; it’s about fostering an environment where creativity and technical prowess can flourish.
 
 - **Embracing Skepticism**: One of the most compelling aspects of Kathryn’s talk was her ability to win over even the most sceptical individuals. In my experience, scepticism can be a powerful tool for growth. It encourages us to question our assumptions and seek out better solutions. When we engage with sceptics, we often uncover insights that can lead to more robust outcomes.
 
 - **The Importance of Details**: In the tech world, the devil is often in the details. Kathryn highlighted the significance of ensuring that the builders—those who are hands-on with the technology—are supported in their efforts. This aligns perfectly with my belief that successful projects hinge on meticulous attention to detail and a commitment to excellence.
 
-As I continue to navigate the complexities of technology and leadership, I am reminded of the importance of health, perspective, and connection. Kathryn’s insights serve as a powerful reminder that our well-being directly influences our ability to innovate and lead effectively.
+As I continue to navigate the complexities of technology and leadership, I am reminded of the importance of health, perspective, and connection. Kathryn’s insights serve as a powerful reminder that our well-being directly influences our [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}) and lead effectively.
 
 In closing, I encourage you to reflect on your own journey. How can you embrace a healthier lifestyle to enhance your work? What unique perspectives can you bring to your team? And how can you foster deeper connections with those around you? By asking these questions, we can all strive to create a more vibrant and innovative tech community.

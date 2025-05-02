@@ -20,6 +20,7 @@ aliases:
 - /resources/Ca_0rw9AUlg
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
+- /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 aliasesArchive:
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
@@ -27,6 +28,7 @@ aliasesArchive:
 - /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
 - theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,14 +39,13 @@ tags:
 - Organisational Agility
 - Sociotechnical Systems
 - Agile Philosophy
-- Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an Agile transformation, it’s a cultural transformation.”
+Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an [Agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s a cultural transformation.”
 
 But let me be honest—I half agree with this. While I support the idea that Agile transformation as a standalone concept doesn’t exist, I also disagree with the idea of a cultural transformation. Why? Because culture isn’t something you can directly change. In fact, it’s the outcome of a much deeper process.
 
@@ -100,7 +101,7 @@ Each of these changes starts to shift how people interact with one another and h
 
 ### **Personal Experience: Seeing Systemic Change in Action**
 
-I once worked with an organization that believed they were undergoing an "Agile transformation." They tried every Agile framework under the sun—Scrum, Kanban, Lean—but nothing stuck. Why? Because they were focused on the **wrong thing**.
+I once worked with an organization that believed they were undergoing an "Agile transformation." They tried every Agile framework under the sun—[Scrum]({{< ref "/categories/scrum" >}}), [Kanban]({{< ref "/categories/kanban" >}}), [Lean]({{< ref "/categories/lean" >}})—but nothing stuck. Why? Because they were focused on the **wrong thing**.
 
 Their approach was top-heavy. They spent time training people to “adopt Agile” without addressing the **systemic** issues that were creating friction. For example, their **performance metrics** were individual-based, creating competition rather than collaboration. Decision-making was highly centralized, leaving teams disempowered.
 
@@ -122,11 +123,11 @@ If the answer is yes, then you’re on the right track. However, remember that t
 
 The point is that you should continuously adjust the system to meet your evolving needs. Over time, the culture will shift to reflect these changes.
 
-### **The Role of Leadership**
+### **The Role of [Leadership]({{< ref "/categories/leadership" >}})**
 
 Leaders play a critical role in this process. They must model the behaviors they want to see and ensure that the **system supports** those behaviors. Leaders should:
 
-- **Encourage experimentation** and allow teams to find what works best for them.
+- **Encourage [experimentation]({{< ref "/tags/experimentation" >}})** and allow teams to find what works best for them.
 
 - **Empower teams** by giving them the autonomy to make decisions within the system.
 

@@ -38,12 +38,8 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Transparency
-- Agile Strategy
-- Organisational Agility
-- Competence
-- Team Performance
-- Technical Debt
 categories:
+- Product Development
 - Scrum
 - Product Management
 preview: image-1.jpg
@@ -53,7 +49,7 @@ In light of the importance professional teams place on delivering usable, workin
 
 ### TL;DR;
 
-Neglecting to deliver a usable product at the end of each iteration breeds an ecosystem of compounding issues. From eroding trust to technical debt and from sluggish adaptability to misaligned expectations, the outcomes go from bad to worse. Inspection and adaption should be our guide, helping us navigate towards professionalism and quality.
+Neglecting to deliver a usable product at the end of each iteration breeds an ecosystem of compounding issues. From eroding trust to [technical debt]({{< ref "/tags/technical-debt" >}}) and from sluggish adaptability to misaligned expectations, the outcomes go from bad to worse. Inspection and adaption should be our guide, helping us navigate towards professionalism and quality.
 
 ### **What happens when we ignore usable working product?**
 
@@ -63,7 +59,7 @@ Neglecting to deliver a usable product at the end of each iteration breeds an ec
 
 **Sluggish Adaptability – The Quicksand:** In the ever-changing landscape of customer needs, adaptability is key. Delivering usable increments is akin to the agile footing on uncertain terrain. When teams neglect this, it is like walking in quicksand – the more they struggle without clear direction, the deeper they sink. The lethargy in adaptation will drag them down as the world moves on; without them.
 
-**Misaligned Expectations – A Compass Gone Haywire:** A usable product at the end of iterations acts as the compass, keeping stakeholders and the team aligned. Without this neither you nor your stakeholders have any transparency of what is going on and where we have arrived. The stakeholders expected one thing but got another, and the chasm between them widens with every iteration that the expectations are not validated.  We often get so far apart that we can’t see how we bridge that gap!
+**Misaligned Expectations – A Compass Gone Haywire:** A usable product at the end of iterations acts as the compass, keeping stakeholders and the team aligned. Without this neither you nor your stakeholders have any [transparency]({{< ref "/tags/transparency" >}}) of what is going on and where we have arrived. The stakeholders expected one thing but got another, and the chasm between them widens with every iteration that the expectations are not validated.  We often get so far apart that we can’t see how we bridge that gap!
 
 **Decreased Morale – The Fading Flame:** Morale is the lifeblood of creativity and productivity. Delivering a working product is the kindling that keeps this fire alive in the team. Being able to see how the stakeholders use the product, are engaged by what we are creating, and care about the outcomes are the foundation of team morale. If we can’t see the stakeholders care about what we are creating, Im not sure why we would care…
 

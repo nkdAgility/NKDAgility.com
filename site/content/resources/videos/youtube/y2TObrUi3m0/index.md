@@ -31,10 +31,6 @@ tags:
 - Agile Philosophy
 - Agnostic Agile
 - Software Development
-- Agile Planning
-- Agile Transformation
-- Coaching
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,7 +45,7 @@ In the ever-evolving landscape of Agile methodologies, I often find myself refle
 
 ### The Tools Trap
 
-As an Agile coach, I’ve witnessed a common trend: the overwhelming emphasis on tools. Whether it’s the latest project management software or a shiny new framework, many Agile practitioners seem to believe that these tools are the key to solving complex problems. However, I’ve learned through experience that this is a misconception. 
+As an Agile coach, I’ve witnessed a common trend: the overwhelming emphasis on tools. Whether it’s the latest [project management]({{< ref "/tags/project-management" >}}) software or a shiny new framework, many Agile practitioners seem to believe that these tools are the key to solving complex problems. However, I’ve learned through experience that this is a misconception. 
 
 - **Tools are not the solution**: In a complex environment, relying solely on tools can lead to a one-size-fits-all approach, which rarely works. Each situation is unique, and the challenges we face often require different practices and capabilities. 
 - **Emergent processes matter**: The ability to adapt and evolve our processes based on the specific context is crucial. This is where the principles of Agile come into play.
@@ -66,8 +62,8 @@ So, what are these principles that I’m advocating for? They are the guiding li
 
 As we continue to navigate the complexities of Agile, I urge you to reflect on the principles that guide your work. Are you focusing too much on the tools at your disposal? Are you neglecting the foundational principles that can lead to better decision-making and outcomes?
 
-In my experience, embracing these principles has transformed the way I approach Agile coaching. It’s not just about implementing the latest tools; it’s about fostering a mindset that values adaptability, collaboration, and continuous improvement.
+In my experience, embracing these principles has transformed the way I approach Agile [coaching]({{< ref "/tags/coaching" >}}). It’s not just about implementing the latest tools; it’s about fostering a mindset that values adaptability, collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-If you found this perspective valuable, I encourage you to engage with me. Let’s have a conversation about how we can shift our focus back to principles in Agile. Feel free to book a coffee chat with me through Naked Agility. I’m always eager to discuss Agile, Scrum, DevOps, or any other topics that pique your interest. 
+If you found this perspective valuable, I encourage you to engage with me. Let’s have a conversation about how we can shift our focus back to principles in Agile. Feel free to book a coffee chat with me through Naked Agility. I’m always eager to discuss Agile, [Scrum]({{< ref "/categories/scrum" >}}), [DevOps]({{< ref "/categories/devops" >}}), or any other topics that pique your interest. 
 
 Thank you for reading, and I look forward to connecting with you!

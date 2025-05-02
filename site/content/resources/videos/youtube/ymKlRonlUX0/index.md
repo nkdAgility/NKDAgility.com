@@ -36,7 +36,6 @@ tags:
 - Agile Planning
 - Agile Values and Principles
 - Pragmatic Thinking
-- Agile Frameworks
 resourceTypes:
 - video
 categories:
@@ -53,9 +52,9 @@ Let’s start by addressing the elephant in the room: burndown charts are often 
 
 Burndown charts operate under the assumption that the scope of work is fixed at the start of a sprint. The idea is that you can’t change the scope once the sprint begins, or if you do, you need to replace a task with one of equal size.
 
-💡 **Let’s get real:** This mindset is rooted in traditional project management thinking. You know, the “set it and forget it” approach to scope control. But Agile doesn’t work that way.
+💡 **Let’s get real:** This mindset is rooted in traditional [project management]({{< ref "/tags/project-management" >}}) thinking. You know, the “set it and forget it” approach to scope control. But Agile doesn’t work that way.
 
-Agile embraces _just-in-time planning_. This doesn’t just apply to the product backlog; it extends to the sprint backlog too. The notion that you can lock in all the work at the start of a sprint is a fallacy. The real world doesn’t work like that.
+Agile embraces _just-in-time planning_. This doesn’t just apply to the [product backlog]({{< ref "/tags/product-backlog" >}}); it extends to the sprint backlog too. The notion that you can lock in all the work at the start of a sprint is a fallacy. The real world doesn’t work like that.
 
 ### The Problem with Upfront Task Planning
 
@@ -93,7 +92,7 @@ But remember, these measurements are still based on the assumption that the task
 
 The teams that excel in Agile are the ones that embrace adaptability. They're not just delivering on the sprint goal; they're also managing:
 
-- Technical debt
+- [Technical debt]({{< ref "/tags/technical-debt" >}})
 
 - Refactoring
 
@@ -103,7 +102,7 @@ The teams that excel in Agile are the ones that embrace adaptability. They're no
 
 - Production issues
 
-🛠️ **The takeaway:** Instead of rigidly adhering to a burndown chart, focus on maintaining a consistent flow of value. By doing so, you’ll avoid the trap of trying to hit arbitrary milestones that don’t reflect the real world of product development.
+🛠️ **The takeaway:** Instead of rigidly adhering to a burndown chart, focus on maintaining a consistent flow of value. By doing so, you’ll avoid the trap of trying to hit arbitrary milestones that don’t reflect the real world of [product development]({{< ref "/categories/product-development" >}}).
 
 ### Overcoming the Ghosts of Agile Past
 
@@ -117,7 +116,7 @@ Here’s what you can do:
 
 - **Rely on empiricism:** Make decisions based on what you learn during the sprint, not what you _think_ will happen upfront.
 
-📧 **Need help?** If you’re struggling with these issues, don’t hesitate to reach out. We can help you exorcise the ghosts of Agile past. Whether it’s through coaching, consulting, or training, we’ll work with you to develop an approach that suits your team’s unique needs.
+📧 **Need help?** If you’re struggling with these issues, don’t hesitate to reach out. We can help you exorcise the ghosts of Agile past. Whether it’s through [coaching]({{< ref "/tags/coaching" >}}), consulting, or training, we’ll work with you to develop an approach that suits your team’s unique needs.
 
 * * *
 

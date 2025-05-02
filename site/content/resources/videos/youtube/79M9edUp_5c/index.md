@@ -26,7 +26,6 @@ duration: 46
 isShort: true
 tags:
 - Asynchronous Development
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +33,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I reflect on the evolution of communication in our professional lives, particularly since the onset of the pandemic, I find myself increasingly drawn to the concept of asynchronous communication. This method has not only transformed how we collaborate but has also enhanced our ability to engage with one another without the constraints of time and location.
@@ -65,7 +65,7 @@ To make the most of asynchronous communication, consider the following strategie
 
 - **Set Clear Expectations**: Establish guidelines for response times and communication channels. This helps everyone understand when and how to engage.
 
-- **Utilise the Right Tools**: Leverage platforms that facilitate asynchronous communication, such as Slack, Microsoft Teams, or project management tools like Trello or Asana. These tools can help keep conversations organised and accessible.
+- **Utilise the Right Tools**: Leverage platforms that facilitate asynchronous communication, such as Slack, Microsoft Teams, or [project management]({{< ref "/tags/project-management" >}}) tools like Trello or Asana. These tools can help keep conversations organised and accessible.
 
 - **Encourage Thoughtful Responses**: Remind team members to take their time when responding. This can lead to more meaningful discussions and better decision-making.
 

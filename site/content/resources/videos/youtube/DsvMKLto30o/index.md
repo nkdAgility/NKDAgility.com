@@ -36,17 +36,6 @@ tags:
 - Frequent Releases
 - Operational Practices
 - Product Delivery
-- Azure DevOps
-- Business Agility
-- Digital Transformation
-- Organisational Agility
-- Value Delivery
-- Working Software
-- Deployment Frequency
-- Flow Efficiency
-- Market Adaptability
-- Technical Debt
-- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

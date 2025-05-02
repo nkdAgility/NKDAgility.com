@@ -24,18 +24,13 @@
         content: Learn More
       content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
       title: The Importance of Batch to Optimise Flow
-    categories: []
+    categories:
+    - Product Development
     tags:
     - Flow Efficiency
     - Operational Practices
     - Lean Principles
     - Lean Thinking
-    - Continuous Improvement
-    - Pragmatic Thinking
-    - Software Development
-    - Throughput
-    - Product Delivery
-    - Value Delivery
   BodyContent: |
     ## Duration
 
@@ -53,9 +48,9 @@
 
     ## Facilitation Steps
 
-    ### Part 1: A Scrum Team
+    ### Part 1: A [Scrum]({{< ref "/categories/scrum" >}}) Team
 
-    Feel free to show your real data, this is a visualization of a typical scrum team. Walkthrough each day, asking people what they see, what stands out.
+    Feel free to show your real data, this is a visualization of a typical [scrum team]({{< ref "/tags/scrum-team" >}}). Walkthrough each day, asking people what they see, what stands out.
 
     - Day 1: Last two items are leftover from the previous sprint.
     - Day 2: Everything has started
@@ -111,95 +106,6 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\the-importance-of-batch-to-optimise-flow\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\the-importance-of-batch-to-optimise-flow
 - FrontMatter:
-    title: Customer Working Agreement
-    description: Establish a clear Working Agreement in a 60-minute workshop, ensuring customer understanding of roles, goals, and agility for project success.
-    ResourceId: hjlKdneL4t8
-    ResourceImport: false
-    ResourceType: workshops
-    ResourceContentOrigin: Human
-    resourceTypes: workshop
-    layout: workshop
-    aliases:
-    - workshops/Customer-Working-Agreement.html
-    - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
-    - /learn/agile-delivery-kit/workshops/customer-working-agreement/
-    - /resources/hjlKdneL4t8
-    aliasesArchive:
-    - workshops/Customer-Working-Agreement.html
-    - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
-    - /learn/agile-delivery-kit/workshops/customer-working-agreement/
-    date: 2024-09-17
-    weight: 840
-    creator: Martin Hinshelwood
-    draft: true
-    card:
-      button:
-        content: Learn More
-      content: Discover more about  and how it can help you in your Agile journey!
-      title: 
-    categories:
-    - Scrum
-    tags:
-    - Common Goals
-    - Working Agreements
-    - Transparency
-    - Agile Product Management
-  BodyContent: |
-    ## Customer Working Agreement
-
-    ### Duration
-
-    ~60 Minutes
-
-    ### Purpose
-
-    The Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.
-
-    ### Prepared Materials
-
-    - Item 1
-
-    ### Facilitation Steps
-
-    #### Part 1: [name]
-
-    - Step 1
-
-    ### Takeaways
-
-    - Take away 1
-
-    ### Facilitation Tips
-
-    - Tip 1
-
-    ### Useful Files
-
-    # NOTES
-
-    Duration
-
-    The Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.
-
-    While the working agreement should be run as a workshop
-
-    - New Signature Promises
-      - Usable Increment - Unable Increment of every Sprint, including the first
-      - Dedicated Team - Dedicated Team of Developers that can turn the requested value into a usable increment
-    - Customer promises to:
-      - Provide a Product Owner: The customer will provide an individual with appropriate expertise and accountability to; develop and explicitly communicating the Product Goal; create and clearly communicate Product Backlog items; order Product Backlog items; and, Ensuring that the Product Backlog is transparent, visible and understood.
-      - Provide Goals – The customer commits to provide; a Product Vision as the Strategic goal, a Product Goal as an Intermediate Strategic Goal, and each sprint a Sprint Goal as an Intermediate Tactical Goal.
-      - Attend a Sprint Review – The Customer agrees that they will provide the necessary attendees for the Sprint Review to allow a Review regarding What has been created and not, Progress towards the Product Goal, Likely release dates, Budget and Progress.
-
-    Perhaps we need to look at an early conversation with customers around a working agreement to understand the trade-offs and ramifications…
-
-    ### Working Agreement Workshop
-
-    1. **Agree Type of Work** - Present the Cynefin model and ask customers to specify what sort of work they do.
-    2.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\customer-working-agreement\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\customer-working-agreement
-- FrontMatter:
     title: 'Sprint Review #1'
     resourceTypes: workshop
     layout: workshop
@@ -244,7 +150,9 @@
       title: 'Sprint Review #1'
     categories:
     - Scrum
+    - Product Development
     tags:
+    - Liberating Structures
     - Sprint Review
     - Empirical Process Control
     - Transparency
@@ -259,12 +167,6 @@
     - Team Collaboration
     - Value Delivery
     - Agile Transformation
-    - Pragmatic Thinking
-    - Working Software
-    - Common Goals
-    - Continuous Improvement
-    - Decision Making
-    - Product Backlog
   BodyContent: |
     While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).
 
@@ -274,7 +176,7 @@
 
     # Purpose
 
-    The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. Any insights insights, ideas, and changes that result from this inspection should be immediately reflected in the Product Backlog.
+    The purpose of the [Sprint Review]({{< ref "/tags/sprint-review" >}}) is to maintain [transparency]({{< ref "/tags/transparency" >}}) of the [Product Backlog]({{< ref "/tags/product-backlog" >}}) and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. Any insights insights, ideas, and changes that result from this inspection should be immediately reflected in the Product Backlog.
 
     The Sprint Review is about answering the question: “Based on what we learned this Sprint, and what happened in the business, what are the next steps?”. This provides valuable input for Sprint Planning.
 
@@ -283,17 +185,17 @@
     This workshop leverages [Liberating Structures](../_technologies/liberating-structures.md) and consists of the following string:
 
     - After the opening, we'll use [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) to clarify what people are expecting and hoping for during this Sprint Review;
-    - We then create an opportunity for inspection of the increment and other relevant topics, together with stakeholders, during a [Shift & Share](../_technologies/liberating-structures/shift-share.md)
+    - We then create an opportunity for inspection of the [increment]({{< ref "/tags/increment" >}}) and other relevant topics, together with stakeholders, during a [Shift & Share](../_technologies/liberating-structures/shift-share.md)
     - We use [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) to debrief insights from the inspection and identify important adjustments that need to be made;
-    - Based on the insights and adjustments resulting from the earlier steps, each person is given the opportunity to formulate personal next steps for how they will support the Scrum Team during the next Sprint as well as their work together;
+    - Based on the insights and adjustments resulting from the earlier steps, each person is given the opportunity to formulate personal next steps for how they will support the [Scrum]({{< ref "/categories/scrum" >}}) Team during the next Sprint as well as their work together;
 
-    Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role;
+    Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the [Product Owner]({{< ref "/tags/product-owner" >}}), as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role;
 
     # Prepared Materials
 
     - [Sprint Review 1 Mural Template v0.9](https://app.mural.co/template/3f03d083-58f5-4516-8b1c-052e0fa9e5e1/7af3d399-b077-46c3-9469-0666b0143881)
 
-    Create an instance of the Mural template above and add to it **Product Vision**, **Product Goal**, **Working Agreements**, **Definition of Done**, & the **Sprint Goal**.
+    Create an instance of the Mural template above and add to it **Product Vision**, **Product Goal**, **[Working Agreements]({{< ref "/tags/working-agreements" >}})**, **[Definition of Done]({{< ref "/tags/definition-of-done" >}})**, & the **Sprint Goal**.
 
     # Facilitation Steps
 
@@ -311,7 +213,7 @@
 
     As the rounds progress, invite participants to note patterns, similarities, and differences. After the three rounds are completed, ask the group to briefly share the most important patterns they noticed.
 
-    The invitation for [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) specifically ties the conversation to the Sprint Goal. If you find yourself in a Scrum Team without Sprint Goals, you can also ask ‘Based on the Sprint'. But keep in mind that working without Sprint Goals makes it very hard to work empirically and effectively as a Scrum Team.
+    The invitation for [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) specifically ties the conversation to the Sprint Goal. If you find yourself in a [Scrum Team]({{< ref "/tags/scrum-team" >}}) without Sprint Goals, you can also ask ‘Based on the Sprint'. But keep in mind that working without Sprint Goals makes it very hard to work empirically and effectively as a Scrum Team.
 
     ## Part 3: Shift & Share [40 min]
 
@@ -321,7 +223,7 @@
 
     The 7-minute timeboxes are based on our experience. You can increase the time-box if you have fewer stations or when the group agrees that this allows for better inspection, but we recommend against changing the timeboxes in between. A variation you can experiment with is to allow participants to pick a selection of the stations they'd like to visit in a limited number of rounds.
 
-    [Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md) is a good approach to shift from statically presenting a “Done”-increment to a more hands-on approach where stakeholders actually explore working software. We usually invite stakeholders to write feedback on special ‘feedback cards' that are available at each station — but this is just one idea on how to gather feedback.
+    [Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md) is a good approach to shift from statically presenting a “Done”-increment to a more hands-on approach where stakeholders actually explore [working software]({{< ref "/tags/working-software" >}}). We usually invite stakeholders to write feedback on special ‘feedback cards' that are available at each station — but this is just one idea on how to gather feedback.
 
     ## Part 4: What, So What, Now What [30 min]
 
@@ -345,7 +247,7 @@
 
     “What is your 15% Solution to help advance our work together on this product? What is something you can do without needing approval from someone else or resources you don't have access to?”
 
-    When everyone is done, give participants the opportunity to briefly share and refine their personal 15% Solutions in small groups of 2–4 participants. We have often found that, by actively engaging everyone with Liberating Structures like this, people are better able to formulate how they can contribute. Stakeholders may offer to invite other stakeholders, join a refinement workshop with developers or be available for feedback. Optionally, you can collect the 15% Solutions and make them transparent somewhere — for example, next to a Scrum Board.
+    When everyone is done, give participants the opportunity to briefly share and refine their personal 15% Solutions in small groups of 2–4 participants. We have often found that, by actively engaging everyone with [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) like this, people are better able to formulate how they can contribute. Stakeholders may offer to invite other stakeholders, join a refinement workshop with developers or be available for feedback. Optionally, you can collect the 15% Solutions and make them transparent somewhere — for example, next to a Scrum Board.
 
     ## Part 6: Closing
 
@@ -379,10 +281,11 @@
         content: Learn More
       content: Discover more about  and how it can help you in your Agile journey!
       title: 
-    categories: []
+    categories:
+    - Uncategorized
     tags: []
   BodyContent: |
-    # What is the Definition of Done (DoD)
+    # What is the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD)
 
     ## Duration
 
@@ -394,10 +297,96 @@
 
     1. Definition of Done Icebreaker - Exercise 10 minutes
     2. What is a Definition of Done? - Teaching Block 10 minutes
-    3. How "Done" is an increment? - Exercise 45 minutes
+    3. How "Done" is an [increment]({{< ref "/tags/increment" >}})? - Exercise 45 minutes
     4.
 
     ## Takeaways
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\definition-of-done\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\definition-of-done
+- FrontMatter:
+    title: Customer Working Agreement
+    description: Establish a clear Working Agreement in a 60-minute workshop, ensuring customer understanding of roles, goals, and agility for project success.
+    ResourceId: hjlKdneL4t8
+    ResourceImport: false
+    ResourceType: workshops
+    ResourceContentOrigin: Human
+    resourceTypes: workshop
+    layout: workshop
+    aliases:
+    - workshops/Customer-Working-Agreement.html
+    - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+    - /learn/agile-delivery-kit/workshops/customer-working-agreement/
+    - /resources/hjlKdneL4t8
+    aliasesArchive:
+    - workshops/Customer-Working-Agreement.html
+    - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+    - /learn/agile-delivery-kit/workshops/customer-working-agreement/
+    date: 2024-09-17
+    weight: 840
+    creator: Martin Hinshelwood
+    draft: true
+    card:
+      button:
+        content: Learn More
+      content: Discover more about  and how it can help you in your Agile journey!
+      title: 
+    categories:
+    - Product Development
+    - Scrum
+    tags: []
+  BodyContent: |
+    ## Customer Working Agreement
+
+    ### Duration
+
+    ~60 Minutes
+
+    ### Purpose
+
+    The Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.
+
+    ### Prepared Materials
+
+    - Item 1
+
+    ### Facilitation Steps
+
+    #### Part 1: [name]
+
+    - Step 1
+
+    ### Takeaways
+
+    - Take away 1
+
+    ### Facilitation Tips
+
+    - Tip 1
+
+    ### Useful Files
+
+    # NOTES
+
+    Duration
+
+    The Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.
+
+    While the working agreement should be run as a workshop
+
+    - New Signature Promises
+      - Usable [Increment]({{< ref "/tags/increment" >}}) - Unable Increment of every Sprint, including the first
+      - Dedicated Team - Dedicated Team of Developers that can turn the requested value into a usable increment
+    - Customer promises to:
+      - Provide a [Product Owner]({{< ref "/tags/product-owner" >}}): The customer will provide an individual with appropriate expertise and accountability to; develop and explicitly communicating the Product Goal; create and clearly communicate [Product Backlog]({{< ref "/tags/product-backlog" >}}) items; order Product Backlog items; and, Ensuring that the Product Backlog is transparent, visible and understood.
+      - Provide Goals – The customer commits to provide; a Product Vision as the Strategic goal, a Product Goal as an Intermediate Strategic Goal, and each sprint a Sprint Goal as an Intermediate Tactical Goal.
+      - Attend a [Sprint Review]({{< ref "/tags/sprint-review" >}}) – The Customer agrees that they will provide the necessary attendees for the Sprint Review to allow a Review regarding What has been created and not, Progress towards the Product Goal, Likely release dates, Budget and Progress.
+
+    Perhaps we need to look at an early conversation with customers around a working agreement to understand the trade-offs and ramifications…
+
+    ### Working Agreement Workshop
+
+    1. **Agree Type of Work** - Present the Cynefin model and ask customers to specify what sort of work they do.
+    2.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\customer-working-agreement\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops\customer-working-agreement
 

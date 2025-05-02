@@ -27,23 +27,23 @@ duration: 204
 isShort: false
 tags:
 - Pragmatic Thinking
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-One of my friends often jokes that I see Agile and Scrum everywhere, even in the forest during one of my favourite autumn activities: mushroom foraging. And you know what? There’s a surprising amount we can learn about agility from this pastime. Let me share some insights from my experiences that might just resonate with your own journey in Agile practices.
+One of my friends often jokes that I see Agile and [Scrum]({{< ref "/categories/scrum" >}}) everywhere, even in the forest during one of my favourite autumn activities: mushroom foraging. And you know what? There’s a surprising amount we can learn about agility from this pastime. Let me share some insights from my experiences that might just resonate with your own journey in Agile practices.
 
 ### Choosing the Right Environment
 
 First and foremost, selecting the right environment is crucial. Just as you wouldn’t expect to find great mushrooms in the city centre, you need to be strategic about where you apply Agile principles. Here are a few tips to consider:
 
-- **Research Your Territory**: Just like foraging, understanding your environment is key. Seek out resources or ask experienced foragers about the best spots. In Agile, this translates to understanding your team's dynamics and the organisational culture.
+- **Research Your Territory**: Just like foraging, understanding your environment is key. Seek out resources or ask experienced foragers about the best spots. In Agile, this translates to understanding your team's dynamics and the [organisational culture]({{< ref "/tags/organisational-culture" >}}).
 - **Avoid Overcrowded Areas**: If you stick to the edges of the forest, you might find that many others have already picked the best mushrooms. Similarly, in Agile, if you remain in your comfort zone, you may miss out on innovative solutions and opportunities for growth.
 
 ### Exploring Beyond the Comfort Zone
@@ -58,7 +58,7 @@ When it comes to foraging, the best finds often lie deeper in the forest. This i
 One of the most valuable lessons I’ve learned from mushroom foraging is the importance of patience. There are days when I head out with my new buckets, only to return empty-handed. But that’s part of the journey. Here’s what I’ve taken away:
 
 - **Invest Time Wisely**: Just as foraging requires time and dedication, so does mastering Agile methodologies. Be prepared for a journey that demands commitment and perseverance.
-- **Embrace the Process**: Sometimes, the experience itself is rewarding, even if the outcome isn’t what you expected. In Agile, the focus should be on continuous improvement and learning, rather than just the end results.
+- **Embrace the Process**: Sometimes, the experience itself is rewarding, even if the outcome isn’t what you expected. In Agile, the focus should be on [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and learning, rather than just the end results.
 
 ### Conclusion
 

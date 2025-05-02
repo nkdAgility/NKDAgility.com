@@ -39,13 +39,6 @@ tags:
 - Software Development
 - Value Delivery
 - Working Software
-- Self Organisation
-- Team Collaboration
-- Agile Frameworks
-- Agile Planning
-- Team Performance
-- Agile Transformation
-- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -59,22 +52,22 @@ categories:
 - Technical Leadership
 
 ---
-When I embark on the journey of working with a new Scrum team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 
+When I embark on the journey of working with a new [Scrum]({{< ref "/categories/scrum" >}}) team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 
 
 ### Understanding the Landscape
 
-The starting point for any Scrum team can vary dramatically based on their organisational environment. Here are a few factors that can influence the journey:
+The starting point for any [Scrum team]({{< ref "/tags/scrum-team" >}}) can vary dramatically based on their organisational environment. Here are a few factors that can influence the journey:
 
 - **Organisational Support**: If the organisation is open and receptive, the potential for transformation is immense. Conversely, limited support can create constraints that hinder progress.
 - **Team Readiness**: The existing knowledge and experience of the team play a crucial role. Are they familiar with Agile principles, or are they starting from scratch?
 
 ### The 90-Day Transformation
 
-Assuming we have a supportive environment, my goal is to take the team from a state of minimal delivery capability to a position of continuous delivery within those 90 days. Here’s how I envision this transformation:
+Assuming we have a supportive environment, my goal is to take the team from a state of minimal delivery capability to a position of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) within those 90 days. Here’s how I envision this transformation:
 
-1. **Establish Continuous Delivery**: By the end of the 90 days, the team should be able to deliver a usable product to production at the end of every Sprint. This shift is not just about engineering practices; it’s about embedding a culture of delivery.
+1. **Establish Continuous Delivery**: By the end of the 90 days, the team should be able to deliver a usable product to production at the end of every Sprint. This shift is not just about [engineering practices]({{< ref "/tags/engineering-practices" >}}); it’s about embedding a culture of delivery.
 
-2. **Clarify Value**: It’s vital for the Product Owner to have a clear understanding of what value means for the business. This understanding allows for rational conversations about prioritisation and helps create an ordered backlog that aligns with organisational goals.
+2. **Clarify Value**: It’s vital for the [Product Owner]({{< ref "/tags/product-owner" >}}) to have a clear understanding of what value means for the business. This understanding allows for rational conversations about prioritisation and helps create an ordered backlog that aligns with organisational goals.
 
 3. **Integrate Feedback Loops**: Closing the feedback loop is essential. The team should be equipped to collect telemetry, engage with users, and validate whether they are indeed building the right product. This iterative learning process is crucial for refining both the product and the approach.
 
@@ -84,10 +77,10 @@ Assuming we have a supportive environment, my goal is to take the team from a st
 
 Once we reach this milestone, my role shifts. I want to step back and allow the team to flourish independently. They should have developed a unique organisational structure that fits their needs, enabling them to continue their Agile journey without my constant oversight. 
 
-Of course, I remain available for coaching, answering questions, and providing support as needed. However, the ultimate goal is for the team to feel confident in their ability to navigate challenges and drive their work forward.
+Of course, I remain available for [coaching]({{< ref "/tags/coaching" >}}), answering questions, and providing support as needed. However, the ultimate goal is for the team to feel confident in their ability to navigate challenges and drive their work forward.
 
 ### Conclusion
 
 In summary, the first 90 days with a new Scrum team can be transformative if approached with the right mindset and strategies. By focusing on continuous delivery, clarifying value, integrating feedback, and empowering champions, we can set the stage for long-term success. 
 
-If you found this insight helpful, I encourage you to engage with me further. Whether you have questions about Agile, Scrum, or DevOps, or simply want to chat over a coffee, feel free to reach out through Naked Agility. Your journey towards agility is just beginning, and I’m here to support you every step of the way.
+If you found this insight helpful, I encourage you to engage with me further. Whether you have questions about Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), or simply want to chat over a coffee, feel free to reach out through Naked Agility. Your journey towards agility is just beginning, and I’m here to support you every step of the way.

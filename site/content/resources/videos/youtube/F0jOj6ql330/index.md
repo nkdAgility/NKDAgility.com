@@ -32,10 +32,11 @@ tags:
 - Personal
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## The Joy of Being a Scrum Developer
+## The Joy of Being a [Scrum]({{< ref "/categories/scrum" >}}) Developer
 
 When attempting to unravel the heart of Scrum Development, now and then, I'm asked one question: "What truly drives a Scrum Developer?"
 

@@ -19,26 +19,27 @@ isShort: true
 aliases:
 - /resources/KjSRjkK6OL0
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
+- /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
 aliasesArchive:
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
 - /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 - what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
+- /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Software Development
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Spotting an Ineffective Scrum Master's Day
+## Spotting an Ineffective [Scrum]({{< ref "/categories/scrum" >}}) Master's Day
 
-Have you ever stopped to ponder over the happenings in an ineffective Scrum Master's daily routine?
+Have you ever stopped to ponder over the happenings in an ineffective [Scrum Master]({{< ref "/tags/scrum-master" >}})'s daily routine?
 
 Let me share some insights and observations from the world of Agile.
 
@@ -50,7 +51,7 @@ Which means they're drowning in paperwork and not in progress.
 
 Instead of actively engaging with their teams, they're probably hunkered down, crafting graphs and disseminating them without much context.
 
-## Misdirected Daily Scrum
+## Misdirected [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
 
 Their day might include popping into the daily Scrum, but not for the right reasons.  Instead of fostering an environment of collaboration, they might treat the Daily Scrum as a mere checkpoint.
 

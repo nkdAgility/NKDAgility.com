@@ -33,12 +33,6 @@ tags:
 - Software Development
 - Organisational Agility
 - Organisational Culture
-- Agile Product Management
-- Pragmatic Thinking
-- Agile Transformation
-- Psychological Safety
-- Team Motivation
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -59,7 +53,7 @@ Silence can manifest in various ways, and it’s crucial to recognise these sign
 
 - **Ignoring Misalignment**: When teams stray from Agile practices or principles, silence can prevent necessary corrections. If no one speaks up, the team may continue down a path that undermines their goals.
 
-- **Withholding Feedback**: Silence can also occur when decisions are made that negatively impact value delivery to the customer. Without open dialogue, teams may fail to course-correct, leading to diminished customer satisfaction.
+- **Withholding Feedback**: Silence can also occur when decisions are made that negatively impact [value delivery]({{< ref "/tags/value-delivery" >}}) to the customer. Without open dialogue, teams may fail to course-correct, leading to diminished [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}).
 
 - **False Promises**: Perhaps the most damaging form of silence is when teams mislead customers by promising deliverables that they haven’t yet achieved. This not only erodes trust but also sets the stage for future failures.
 

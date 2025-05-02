@@ -22,7 +22,8 @@ card:
     content: Start Optimizing Now
   title: Innovation
   content: Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value.
-categories: []
+categories:
+- Uncategorized
 tags: []
 
 ---

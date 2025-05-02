@@ -34,15 +34,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Product Management
-- Agile Planning Tools
-- Scrum Team
-- Agile Transformation
-- Product Delivery
-- Professional Scrum
-- Team Collaboration
-- Working Software
-- Product Owner
-- Team Performance
 resourceTypes:
 - video
 categories:
@@ -62,7 +53,7 @@ Let's debunk the myth of the "magic fairy dust,".  It's time to get real about 
 
 ## Beyond The 'Magic Fairy Dust' in Sprint Planning
 
-As we manoeuvre through the agile process, let's unravel the genuine mechanics behind selecting the most significant items for your sprint backlog, stepping away from the idealistic portrayal in the scrum guide.
+As we manoeuvre through the agile process, let's unravel the genuine mechanics behind selecting the most significant items for your sprint backlog, stepping away from the idealistic portrayal in the [scrum]({{< ref "/categories/scrum" >}}) guide.
 
 In the journey of sculpting the perfect Sprint, many assume that, as the scrum guide vaguely suggests, you magically select the ones you need and can be interpreted as that we just need to "magically select the ones you need" and sprinkle some "magic fairy dust".
 
@@ -70,13 +61,13 @@ But let's do more than scratch the surface and get to fully understand that the 
 
 ## Harnessing Multifaceted Insights for a Robust Sprint Goal
 
-As we navigate this path, we must take information from the business context, the product owner's understanding of the market and the business context, as well as the engineering context.
+As we navigate this path, we must take information from the business context, the [product owner]({{< ref "/tags/product-owner" >}})'s understanding of the market and the business context, as well as the engineering context.
 
 It's about collating diverse viewpoints to carve out a Sprint goal that aligns with the ongoing projects' real pulse. 🎯
 
 ## Strategic Selection: A Collaborative Endeavor
 
-As we delve deeper, it becomes evident that the selection isn't just dictated by the order in the product backlog.   The art of prioritising in the Sprint Backlog is a team effort.
+As we delve deeper, it becomes evident that the selection isn't just dictated by the order in the [product backlog]({{< ref "/tags/product-backlog" >}}).   The art of prioritising in the Sprint Backlog is a team effort.
 
 It informs but does not control the work that the developers accept into the Sprint.  Pivotal architectural components could take precedence, steering the team towards focusing on the next most important piece of value, thereby laying a solid foundation for tackling the most crucial aspects in the forthcoming sprints.  🤝
 

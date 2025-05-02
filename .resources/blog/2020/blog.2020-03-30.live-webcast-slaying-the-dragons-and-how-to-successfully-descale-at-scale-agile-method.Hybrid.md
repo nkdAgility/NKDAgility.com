@@ -28,7 +28,8 @@ aliasesArchive:
 - /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 tags: []
-categories: []
+categories:
+- Uncategorized
 preview: 2020-03-27_21-36-13-1-1.jpg
 
 ---
@@ -36,7 +37,7 @@ Many organisations don't really want to change how they do business and believe 
 
 **They are wrong!**
 
-While there are organisations that are successfully scaling out there, they are exceedingly rare. What are the commonalities between these organisations and how have they managed to get past the illusion of scaled agile to the values and principles that are allowing them to leave their competitors in the dust?
+While there are organisations that are successfully [scaling]({{< ref "/tags/scaling" >}}) out there, they are exceedingly rare. What are the commonalities between these organisations and how have they managed to get past the illusion of scaled agile to the values and principles that are allowing them to leave their competitors in the dust?
 
 **To go big, you must go small!**
 

@@ -29,16 +29,6 @@ tags:
 - Scrum Master
 - Scrum Team
 - Team Performance
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Agile Leadership
-- Coaching
-- Professional Scrum
-- Social Technologies
-- Team Collaboration
-- Team Motivation
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,7 +41,7 @@ categories:
 - Scrum
 
 ---
-When it comes to the role of a Scrum Master, I often find myself reflecting on the dynamics within a team. Recently, I was asked whether I would recommend an Agile Process Simulation (APS) workshop or an agile consultant if a Scrum Master was struggling with their team. My immediate thought was, “Perhaps we need to consider a new Scrum Master.” After all, if a Scrum Master is battling with their team, it raises some serious questions about their effectiveness and understanding of their role.
+When it comes to the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself reflecting on the dynamics within a team. Recently, I was asked whether I would recommend an Agile Process Simulation (APS) workshop or an agile consultant if a [Scrum Master]({{< ref "/tags/scrum-master" >}}) was struggling with their team. My immediate thought was, “Perhaps we need to consider a new Scrum Master.” After all, if a Scrum Master is battling with their team, it raises some serious questions about their effectiveness and understanding of their role.
 
 ### The Role of the Scrum Master
 
@@ -69,7 +59,7 @@ If the Scrum Master is facing resistance from the team regarding practices that 
 
 ### A Hybrid Approach
 
-In my experience as an agile consultant, I often adopt a coaching role. Here’s how I would structure a hybrid APS workshop:
+In my experience as an agile consultant, I often adopt a [coaching]({{< ref "/tags/coaching" >}}) role. Here’s how I would structure a hybrid APS workshop:
 
 1. **Observation and Coaching**: I would start by observing the team dynamics and then focus on coaching the Scrum Master. If they’re struggling, it’s essential to address that first.
    
@@ -91,4 +81,4 @@ These questions are not for me to answer but for the team to reflect upon. It’
 
 In conclusion, if a Scrum Master is battling with their team, it’s a signal that we need to reassess the situation. An APS workshop can be a valuable tool, but it should be approached as a collaborative effort rather than a top-down imposition. By engaging the team in meaningful conversations and encouraging them to explore their own processes, we can help them make informed decisions that lead to better outcomes.
 
-If you found this discussion insightful, I encourage you to like, follow, and subscribe. I’m always open to conversations about agile, Scrum, or DevOps, so feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can enhance your agile journey together!
+If you found this discussion insightful, I encourage you to like, follow, and subscribe. I’m always open to conversations about agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), so feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can enhance your agile journey together!

@@ -32,9 +32,6 @@ sitemap:
 tags:
 - Entrepreneurship
 - Decision Theory
-- Agile Product Management
-- Agile Leadership
-- Decision Making
 resourceTypes:
 - video
 categories:
@@ -45,7 +42,7 @@ categories:
 ---
 ## Understanding the Dynamics of Consensus 🤔 
 
-The question of where consensus is valuable and where it impedes product development is a nuanced one. At its core, consensus means a general agreement among a group, but the journey towards that agreement can either drive success or lead to stagnation. 
+The question of where consensus is valuable and where it impedes [product development]({{< ref "/categories/product-development" >}}) is a nuanced one. At its core, consensus means a general agreement among a group, but the journey towards that agreement can either drive success or lead to stagnation. 
 
 ## An Exploration into Consensus 
 
@@ -66,7 +63,7 @@ Let's take a closer look at what consensus really means. 
 - **Entrepreneurial Mindset**: Entrepreneurs often accept higher risks, making decisions based on experience and data, even when the likelihood of failure is high 🎲. 
 
 ##    
-The Product Owner's Dilemma: Decision-Making in Volatile Markets 
+The [Product Owner]({{< ref "/tags/product-owner" >}})'s Dilemma: Decision-Making in Volatile Markets 
 
 Product owners, akin to mini-CEOs, navigate volatile markets and must decide when to use consensus 💼. This decision-making journey is fraught with challenges and opportunities. 🌟 
 
@@ -78,7 +75,7 @@ Product owners, akin to mini-CEOs, navigate volatile markets and must decide whe
 
 The path of product development is a tightrope walk 🎪. Striking a balance between collective agreement and swift, intuitive decision-making can be the key to success 🔑. 
 
-- **Consensus through Leadership**: CEOs or product owners garner support through trust and a vision that others can believe in 🙌. 
+- **Consensus through [Leadership]({{< ref "/categories/leadership" >}})**: CEOs or product owners garner support through trust and a vision that others can believe in 🙌. 
 
 - **Consensus through Collaboration**: On a micro level, teams must find agreement through discussion and convergence of ideas 💬. 
 
@@ -102,7 +99,7 @@ How is this trust built, and how does it facilitate decision-making? 
 
 - **Credibility through Success**: By proving that your decisions lead to positive outcomes, you build trust and create an environment conducive to consensus 🏆. 
 
-- **Inclusive Decision Making**: Including everyone in the decision-making process ensures that even if an idea isn't universally accepted, the consensus can still be achieved 🌐. 
+- **Inclusive [Decision Making]({{< ref "/tags/decision-making" >}})**: Including everyone in the decision-making process ensures that even if an idea isn't universally accepted, the consensus can still be achieved 🌐. 
 
 ## How-to Advice: Building Consensus, the Right Way 
 

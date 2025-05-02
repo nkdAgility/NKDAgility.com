@@ -33,7 +33,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## "But in the Real World..."
@@ -64,8 +65,8 @@ Such reflective moments in the class always underline the paramount importance o
 
 Let's not tweak our integrity to navigate tricky waters or to frame comfortable narratives.
 
-Let's challenge these 'real world' assertions and hold ourselves to the highest standards of truth and transparency.
+Let's challenge these 'real world' assertions and hold ourselves to the highest standards of truth and [transparency]({{< ref "/tags/transparency" >}}).
 
-If you're ready to delve into understanding Agile and Scrum's true essence, join my courses and let's debunk these myths together! 🚀
+If you're ready to delve into understanding Agile and [Scrum]({{< ref "/categories/scrum" >}})'s true essence, join my courses and let's debunk these myths together! 🚀
 
 Let's champion honesty in our Agile journey!

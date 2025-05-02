@@ -28,16 +28,16 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Personal
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## From Practitioner to Consultant
 
-When asked how I knew I was poised for the leap from DevOps practitioner to consultant, my initial instinct and honest answer was that I didn't have a definitive 'Aha!' moment.
+When asked how I knew I was poised for the leap from [DevOps]({{< ref "/categories/devops" >}}) practitioner to consultant, my initial instinct and honest answer was that I didn't have a definitive 'Aha!' moment.
 
 It's complicated, yet, in retrospect, there were signals and undercurrents.
 
@@ -93,8 +93,8 @@ Here's the blueprint:
 
 \- Share Your Insights: Voice Your Thought Process, be it through blog posts or discussions, and let the world glimpse your knowledge reservoir.
 
-\- Engage and Enlighten: When people start seeking your counsel and lean into your insights, that's a telling sign.  It signals you're not just proficient; you're influential.
+\- Engage and Enlighten: When people start seeking your counsel and [lean]({{< ref "/categories/lean" >}}) into your insights, that's a telling sign.  It signals you're not just proficient; you're influential.
 
 And as I always believe, it's not about _readiness_.  It's about being seen, being of value, and having a unique narrative to share.
 
-Together, let's dive into the intricacies of Agile and Scrum with my courses and set your trajectory towards excellence.
+Together, let's dive into the intricacies of Agile and [Scrum]({{< ref "/categories/scrum" >}}) with my courses and set your trajectory towards excellence.

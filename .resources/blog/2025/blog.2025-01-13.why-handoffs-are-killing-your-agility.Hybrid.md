@@ -35,11 +35,6 @@ tags:
 - Enterprise Agility
 - Lean Product Development
 - Agile Strategy
-- Agile Transformation
-- Continuous Improvement
-- Cycle Time
-- Technical Excellence
-- Engineering Practices
 categories:
 - Product Development
 - Lean

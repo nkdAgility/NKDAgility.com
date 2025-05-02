@@ -30,26 +30,18 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Frameworks
-- Scrum Team
-- Agile Planning
-- Agile Product Management
-- Pragmatic Thinking
-- Professional Scrum
-- Team Collaboration
-- Team Performance
-- Working Software
 categories:
 - Scrum
 preview: 1130646316-1-1-1.jpg
 
 ---
-As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
+As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
 > In case you missed it, here is the recording of yesterday's Ask a Professional Scrum Trainer webinar with Martin Hinshelwood! Watch here: [http://ow.ly/ijiM50vwEkD](http://ow.ly/ijiM50vwEkD)
 
 ## How do you incorporate a Design Sprint in Scrum?
 
-There are no special sprints; No Sprint 0, no release sprints, no hardening sprints, and absolutely no design sprints. The teachings of Frederik Winston Taylor lead to a successful Industrial Revolution but are inadequate today for leading knowledge workers solving creative problems. The notion that we need specialist teams of Coders, Testers, Operations, Architects, or UX is founded in those ideas and needs rejecting. As such, the idea that you would need a special Sprint to gain some specialist outcome is also founded in these ideas and is antagonistic to the desired outcome of high-quality working software.
+There are no special sprints; No Sprint 0, no release sprints, no hardening sprints, and absolutely no design sprints. The teachings of Frederik Winston Taylor lead to a successful Industrial Revolution but are inadequate today for leading knowledge workers solving creative problems. The notion that we need specialist teams of Coders, Testers, Operations, Architects, or UX is founded in those ideas and needs rejecting. As such, the idea that you would need a special Sprint to gain some specialist outcome is also founded in these ideas and is antagonistic to the desired outcome of high-quality [working software]({{< ref "/tags/working-software" >}}).
 
 All work from Development Team members that seem to fall into a specialisation (e.g. UX) is all done in one of two places:
 
@@ -59,7 +51,7 @@ All work from Development Team members that seem to fall into a specialisation (
 All that work that is UX falls into 2 categories:
 
 1. **UX activities that are done inside of the Sprint for the current activities of the Sprint.** This is Development Team work with UX included in that definition.
-2. **UX Activities that pertain to work coming up in future sprints.** This is Refinement work and is done as needed and should include the entire Scrum Team as required.
+2. **UX Activities that pertain to work coming up in future sprints.** This is Refinement work and is done as needed and should include the entire [Scrum Team]({{< ref "/tags/scrum-team" >}}) as required.
 
 Ultimately no work should be done in a vacuum or away from the scrutiny of the entire team involved in the work. At scale, it makes sense that one of the activities required of the UX Community of Practice is to get the right people together to work on creating reusable and consistent interactions as part of a framework that can then be used as part of a products DoD. This group should not be dedicated and should be made up of representatives from all of the teams to make sure that the information disseminates at Scale.
 

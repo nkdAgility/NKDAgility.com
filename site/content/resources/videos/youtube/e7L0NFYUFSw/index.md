@@ -27,11 +27,6 @@ duration: 205
 isShort: false
 tags:
 - Agile Product Management
-- Agile Frameworks
-- Pragmatic Thinking
-- Agile Philosophy
-- Software Development
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +37,7 @@ categories:
 - Scrum
 
 ---
-Scrum and the Myth of "Twice the Work in Half the Time"
+[Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"
 
 I often find myself reflecting on the phrase, "Scrum allows you to do twice the work in half the time." It’s a catchy tagline, isn’t it? One that seems to promise a miraculous transformation in productivity. But let’s be honest—this is more of a marketing gimmick than a reality. 
 
@@ -66,7 +61,7 @@ Woody Zuill, in his insightful writings, touches on this very topic. He highligh
 
 Let’s face it: publishers aren’t going to sell a book titled "Adequate Practices." They want something that grabs attention, something that promises results. So, we end up with titles that can mislead rather than inform. 
 
-Despite this, I’ve found value in leveraging these books, particularly when working with leadership teams who may be sceptical about Agile methodologies. The cover may be flashy, but the content often provides a gateway to deeper conversations about the principles of Scrum.
+Despite this, I’ve found value in leveraging these books, particularly when working with [leadership]({{< ref "/categories/leadership" >}}) teams who may be sceptical about Agile methodologies. The cover may be flashy, but the content often provides a gateway to deeper conversations about the principles of Scrum.
 
 ### A Personal Anecdote
 
@@ -78,4 +73,4 @@ One book that stands out is one that discusses the Udo Loop and shares compellin
 
 At the end of the day, we need to shift our focus from output to outcome. It’s not about delivering twice the features; it’s about delivering twice the value, even if that means cutting down on the number of features we provide. 
 
-In conclusion, let’s move away from the myth of "twice the work in half the time." Instead, let’s embrace the true essence of Scrum: delivering value through collaboration, transparency, and continuous improvement. That’s where the real power of Agile lies.
+In conclusion, let’s move away from the myth of "twice the work in half the time." Instead, let’s embrace the true essence of Scrum: delivering value through collaboration, [transparency]({{< ref "/tags/transparency" >}}), and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). That’s where the real power of Agile lies.

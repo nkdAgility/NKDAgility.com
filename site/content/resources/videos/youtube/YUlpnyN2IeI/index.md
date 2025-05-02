@@ -39,11 +39,6 @@ tags:
 - Organisational Agility
 - Agile Frameworks
 - Agile Transformation
-- Agnostic Agile
-- Agile Product Management
-- Continuous Improvement
-- Empirical Process Control
-- Personal
 resourceTypes:
 - video
 categories:
@@ -51,7 +46,7 @@ categories:
 - Product Development
 
 ---
-## The Golden Nugget of Scrum Advice I've Ever Received
+## The Golden Nugget of [Scrum]({{< ref "/categories/scrum" >}}) Advice I've Ever Received
 
 Today, I am bringing to the table a reflective question that hovers persistently in the Scrum sphere, which is,  "What's the best Scrum advice you've ever received?" ✨
 
@@ -93,7 +88,7 @@ The power of flexibility and iterative processes in Scrum are powerful tools.  
 
 Similarly, Agile is about adopting a method, understanding its core, and then adapting it to suit your organisational ecosystem better.
 
-It's a journey of continuous improvement, where you embrace what works and discard what doesn't, constantly iterating and adapting to foster an environment that nurtures agility and innovation.
+It's a journey of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), where you embrace what works and discard what doesn't, constantly iterating and adapting to foster an environment that nurtures agility and innovation.
 
 This flexibility, adaptability, and reliance on empirical processes encapsulate the true power of Agile.
 

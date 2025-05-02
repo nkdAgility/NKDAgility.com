@@ -32,15 +32,6 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Software Development
-- Agile Planning
-- Customer Feedback Loops
-- Professional Scrum
-- Scrum Team
-- Working Software
-- Product Delivery
-- Social Technologies
-- Team Motivation
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -64,7 +55,7 @@ This situation, in my experience, is fundamentally a marketing issue. The crux o
    - **Ask Specific Questions**: Instead of a broad “What do you think?”, try asking targeted questions that guide them towards specific areas of the product. This can help spark more meaningful conversations.
 
 ### 3. **Engage Stakeholders Before the Review**
-   - **Pre-Review Check-Ins**: Reach out to stakeholders before the Sprint review to discuss what will be presented. This can help them prepare their thoughts and feel more invested in the discussion.
+   - **Pre-Review Check-Ins**: Reach out to stakeholders before the [Sprint review]({{< ref "/tags/sprint-review" >}}) to discuss what will be presented. This can help them prepare their thoughts and feel more invested in the discussion.
    - **Share Progress Updates**: Regular updates can keep stakeholders informed and engaged. Use newsletters, emails, or even quick catch-up meetings to maintain interest.
 
 ### 4. **Highlight Success Stories**

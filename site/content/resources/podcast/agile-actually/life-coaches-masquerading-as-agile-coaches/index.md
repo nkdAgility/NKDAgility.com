@@ -7,7 +7,8 @@ ResourceType: podcast
 ResourceContentOrigin: Human
 date: 2023-04-01
 weight: 840
-categories: []
+categories:
+- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -29,11 +30,11 @@ Find out in this month's Agile Actually Podcast.
 
 About the hosts of Agile Actually
 
-Simon Reindl is the chief [#agilecoach](https://www.youtube.com/hashtag/agilecoach), [#agileconsultant](https://www.youtube.com/hashtag/agileconsultant) and [#professionalscrumtrainer](https://www.youtube.com/hashtag/professionalscrumtrainer) at Advanced Product Delivery. In addition to traditional [#agilecoaching](https://www.youtube.com/hashtag/agilecoaching) and [#agileconsulting](https://www.youtube.com/hashtag/agileconsulting), Simon is pioneering [#leanagileprocurement](https://www.youtube.com/hashtag/leanagileprocurement) in Europe and helping organizations to reinvent how they partner with suppliers and subcontractors.
+Simon Reindl is the chief [#agilecoach](https://www.youtube.com/hashtag/agilecoach), [#agileconsultant](https://www.youtube.com/hashtag/agileconsultant) and [#professionalscrumtrainer](https://www.youtube.com/hashtag/professionalscrumtrainer) at Advanced [Product Delivery]({{< ref "/tags/product-delivery" >}}). In addition to traditional [#agilecoaching](https://www.youtube.com/hashtag/agilecoaching) and [#agileconsulting](https://www.youtube.com/hashtag/agileconsulting), Simon is pioneering [#leanagileprocurement](https://www.youtube.com/hashtag/leanagileprocurement) in Europe and helping organizations to reinvent how they partner with suppliers and subcontractors.
 
 Visit https://www.apd.coach for more information on Simon
 
-Martin Hinshelwood is the chief [#agileconsultant](https://www.youtube.com/hashtag/agileconsultant) and [#professionalscrumtrainer](https://www.youtube.com/hashtag/professionalscrumtrainer) at NKD Agility. In addition to traditional [#agilecoaching](https://www.youtube.com/hashtag/agilecoaching), [#agileconsulting](https://www.youtube.com/hashtag/agileconsulting), and [#scrumtraining](https://www.youtube.com/hashtag/scrumtraining), Martin is an expert in [#devops](https://www.youtube.com/hashtag/devops) consulting and engineering. If you are looking for help on anything DevOps, [#scrum](https://www.youtube.com/hashtag/scrum), [#agile](https://www.youtube.com/hashtag/agile) or [#microsoft](https://www.youtube.com/hashtag/microsoft), Martin Hinshelwood is your go-to-guy.
+Martin Hinshelwood is the chief [#agileconsultant](https://www.youtube.com/hashtag/agileconsultant) and [#professionalscrumtrainer](https://www.youtube.com/hashtag/professionalscrumtrainer) at NKD Agility. In addition to traditional [#agilecoaching](https://www.youtube.com/hashtag/agilecoaching), [#agileconsulting](https://www.youtube.com/hashtag/agileconsulting), and [#scrumtraining](https://www.youtube.com/hashtag/scrumtraining), Martin is an expert in [#devops](https://www.youtube.com/hashtag/devops) consulting and engineering. If you are looking for help on anything [DevOps]({{< ref "/categories/devops" >}}), [#scrum](https://www.youtube.com/hashtag/scrum), [#agile](https://www.youtube.com/hashtag/agile) or [#microsoft](https://www.youtube.com/hashtag/microsoft), Martin Hinshelwood is your go-to-guy.
 
 Visit https://www.nkdagility.com for more information on Martin.
 

@@ -36,20 +36,21 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Spotlight on Outstanding Scrum Application
+## Spotlight on Outstanding [Scrum]({{< ref "/categories/scrum" >}}) Application
 
 What might you consider to be the best application of Scrum in the world?
 
 While it's tough to single out one application as 'the' greatest, at the same time and it's hard to declare a definitive 'best,' I definitely want to spotlight one implementation that never fails to impress me.
 
-That's right. We're talking about the Azure DevOps teams at Microsoft. This team never fails to have my admiration and respect.
+That's right. We're talking about the Azure [DevOps]({{< ref "/categories/devops" >}}) teams at Microsoft. This team never fails to have my admiration and respect.
 
 ## Transitioning From Waterfall to Scrum
 
-The DevOps team at Microsoft bravely took a product traditionally delivered through a waterfall methodology, saddled with heaps of technical debt, and managed to create a product that hits the right note with their customers.
+The DevOps team at Microsoft bravely took a product traditionally delivered through a waterfall methodology, saddled with heaps of [technical debt]({{< ref "/tags/technical-debt" >}}), and managed to create a product that hits the right note with their customers.
 
 Over about eight years, this team has managed to bridge the gap, pivoting towards Scrum and building a product that truly resonates with customers. 💡
 

@@ -29,11 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Value Delivery
-- Software Development
-- Agile Philosophy
-- Market Adaptability
-- Product Delivery
-- Systems Thinking
 resourceTypes:
 - video
 layout: video
@@ -41,7 +36,7 @@ categories:
 - Product Development
 
 ---
-What is DevOps and how is it different to Agile?
+What is [DevOps]({{< ref "/categories/devops" >}}) and how is it different to Agile?
 
 Fundamentally, **DevOps** is no different to **Agile** at all.
 
@@ -53,9 +48,9 @@ So, you will find folks that are very process-driven describing the end-to-end p
 
 When you speak to the **DevOps** folks, they will describe DevOps as the big thing, whilst agile is a part of that story. A part of how they deliver the working solution to the customer.
 
-As someone who has been a software developer, a member of a scrum or agile team, and someone who has been a **DevOps consultant** for over a decade, it is all the same thing. DevOps and Agile are the same thing, there is no difference between them.
+As someone who has been a software developer, a member of a [scrum]({{< ref "/categories/scrum" >}}) or agile team, and someone who has been a **DevOps consultant** for over a decade, it is all the same thing. DevOps and Agile are the same thing, there is no difference between them.
 
-Both elements of software engineering and software development are aligned with the same purpose. To deliver value to customers and to create value for the organization.
+Both elements of software engineering and [software development]({{< ref "/tags/software-development" >}}) are aligned with the same purpose. To deliver value to customers and to create value for the organization.
 
 We are talking about the same thing, we are trying to solve the same problems, and we are telling the same story about how something moves from concept to customer.
 
@@ -67,7 +62,7 @@ As a problem-solver, they both have the same core principles governing what is d
 
 ### Tools.
 
-An agile environment requires tools that are fit for purpose to get the job done, as does a DevOps environment, so the tools will differ but the agile practices and empirical process control of discovering and employing the best tools for the job are the same.
+An agile environment requires tools that are fit for purpose to get the job done, as does a DevOps environment, so the tools will differ but the agile practices and [empirical process control]({{< ref "/tags/empirical-process-control" >}}) of discovering and employing the best tools for the job are the same.
 
 ### Rapid Feedback Loops.
 
@@ -77,7 +72,7 @@ Both DevOps and Agile require you to create rapid feedback loops, and use your p
 
 Both require you to evaluate what you have done, how that has performed against the hypotheses you designed, and respond appropriately to achieve the most valuable outcomes.
 
-### Systems thinking and systems modelling.
+### [Systems thinking]({{< ref "/tags/systems-thinking" >}}) and systems modelling.
 
 Agile and DevOps environments are crucial to capturing and creating value for customers, in a way that aligns with organizational strategy and strategic objectives.
 
@@ -91,7 +86,7 @@ That is where systems thinking and systems modelling is critical.
 
 Both Agile and Devops embrace systems thinking and systems modelling to ensure that we are focused on the most valuable work, delivering the most valuable outcomes, and improving the whole experience for customers as well as people within the organization.
 
-System-side continuous improvement.
+System-side [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 So, if you want to be successful in creating and delivering valuable software products, you need Agile and DevOps to work together, in unison, to make that a reality.
 

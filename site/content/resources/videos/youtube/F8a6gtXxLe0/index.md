@@ -16,18 +16,17 @@ aliases:
 - /resources/F8a6gtXxLe0
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
+- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 - /resources/nkdagility-healthgrades-interview-dave-frisch
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 - embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
+- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 isShort: false
-tags:
-- Social Technologies
-- Continuous Improvement
-- Personal
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +37,7 @@ categories:
 - Scrum
 
 ---
-As I reflect on my journey in the world of Agile and Scrum, I can't help but think about the transformative power of understanding the processes that underpin our work. Recently, I had the pleasure of speaking with Dave Fresh, a developer at Health Grades, who shared his initial resistance to a Scrum course. His story resonated with me, as it highlights a common misconception many professionals have about stepping away from their daily tasks to focus on process improvement.
+As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I can't help but think about the transformative power of understanding the processes that underpin our work. Recently, I had the pleasure of speaking with Dave Fresh, a developer at Health Grades, who shared his initial resistance to a Scrum course. His story resonated with me, as it highlights a common misconception many professionals have about stepping away from their daily tasks to focus on process improvement.
 
 ### The Initial Resistance
 
@@ -55,7 +54,7 @@ The course that Dave attended focused on the foundations of Scrum and the import
 
 ### The Importance of Process Awareness
 
-One of the most significant insights from Dave’s journey is the need for process awareness across the board. Whether you’re a developer, a product owner, or a stakeholder, understanding how Scrum operates is vital. It allows everyone to appreciate the order of operations and the rationale behind prioritising tasks. 
+One of the most significant insights from Dave’s journey is the need for process awareness across the board. Whether you’re a developer, a [product owner]({{< ref "/tags/product-owner" >}}), or a stakeholder, understanding how Scrum operates is vital. It allows everyone to appreciate the order of operations and the rationale behind prioritising tasks. 
 
 - **Benefits of Process Awareness**:
   - **Enhanced Collaboration**: When everyone understands the process, it leads to better teamwork and fewer misunderstandings.

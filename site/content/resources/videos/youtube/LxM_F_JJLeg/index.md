@@ -35,13 +35,6 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Agile Values and Principles
-- Change Management
-- Coaching
-- Continuous Improvement
-- Operational Practices
-- Social Technologies
-- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -52,7 +45,7 @@ categories:
 - Product Development
 
 ---
-I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, Scrum Master, or product owner.
+I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, [Scrum]({{< ref "/categories/scrum" >}}) Master, or [product owner]({{< ref "/tags/product-owner" >}}).
 
 ### Understanding Behaviour in Agile Environments
 
@@ -70,7 +63,7 @@ When I encounter resistance or feel as though I'm fighting an uphill battle to d
 
 - **Identify Systemic Issues**: If you find yourself constantly thwarted by compliance checks or bureaucratic processes, it’s crucial to recognise that these are symptoms of a flawed system. The system is designed in a way that makes it difficult to adapt and respond to change.
 
-- **Simplifying Change Requests**: A common frustration in many organisations is the cumbersome process of handling change requests. When a customer needs to pivot, the response often involves lengthy forms and negotiations. This rigidity is a byproduct of a traditional project mindset that seeks to minimise variance. While this approach may work in manufacturing, it is ill-suited for software development, where flexibility and responsiveness are key.
+- **Simplifying Change Requests**: A common frustration in many organisations is the cumbersome process of handling change requests. When a customer needs to pivot, the response often involves lengthy forms and negotiations. This rigidity is a byproduct of a traditional project mindset that seeks to minimise variance. While this approach may work in manufacturing, it is ill-suited for [software development]({{< ref "/tags/software-development" >}}), where flexibility and responsiveness are key.
 
 - **Shift the Focus**: Instead of viewing resistance as malevolence, consider it a reflection of systemic incompetence. By addressing the root causes—namely, the measurement systems and processes—we can create an environment that fosters collaboration and innovation.
 
@@ -82,7 +75,7 @@ In my experience, the path to agility is not about changing people but about tra
 
 - **Foster a Culture of Adaptability**: Encourage teams to embrace change and view it as an opportunity rather than a burden. This shift in mindset can lead to more innovative solutions and a more engaged workforce.
 
-- **Engage in Continuous Improvement**: Always be on the lookout for ways to improve processes and systems. This commitment to continuous improvement will help create a more agile and responsive organisation.
+- **Engage in [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Always be on the lookout for ways to improve processes and systems. This commitment to continuous improvement will help create a more agile and responsive organisation.
 
 In conclusion, the challenges we face in agile environments are often not due to the actions of individuals but rather the systems that shape their behaviours. By focusing on changing these systems, we can create a more conducive environment for agility to thrive. 
 

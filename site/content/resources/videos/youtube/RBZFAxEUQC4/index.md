@@ -34,12 +34,10 @@ sitemap:
 tags:
 - Agile Philosophy
 - Agile Transformation
-- Organisational Agility
-- Organisational Culture
-- Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 
@@ -66,7 +64,7 @@ T**he Misdirected Lust for Agile:** 
 
 - 🌐 The error lies in seeking to 'purchase' Agile, rather than cultivating it organically. 
 
-**The Illusion of Easy Agile Transformation:** 
+**The Illusion of Easy [Agile Transformation]({{< ref "/tags/agile-transformation" >}}):** 
 
 - 🏢 Big firms often bring in top consultants to implement Agile. 
 
@@ -86,7 +84,7 @@ T**he Misdirected Lust for Agile:** 
 
 The allure of Agile transformation is strong, but it's not a one-size-fits-all solution. Organisations must resist the temptation to lust after off-the-shelf Agile models. Instead, the focus should be on a tailored approach, considering unique organisational cultures and goals.  
 
-The true essence of Agile lies in its ability to adapt – and that requires more than just surface-level desire. It demands commitment, experimentation, and a willingness to evolve. 
+The true essence of Agile lies in its ability to adapt – and that requires more than just surface-level desire. It demands commitment, [experimentation]({{< ref "/tags/experimentation" >}}), and a willingness to evolve. 
 
 **Key Takeaways:** 
 

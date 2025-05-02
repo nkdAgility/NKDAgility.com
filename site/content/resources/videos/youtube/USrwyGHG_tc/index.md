@@ -47,10 +47,6 @@ tags:
 - Pragmatic Thinking
 - Professional Scrum
 - Team Motivation
-- Agile Planning
-- Agile Values and Principles
-- Mentoring
-- Employee Engagement
 resourceTypes:
 - video
 categories:
@@ -61,11 +57,11 @@ categories:
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 
 
-Picture this: a Scrum Master hovering over the development team, controlling each move they make, dictating every line of code.
+Picture this: a [Scrum]({{< ref "/categories/scrum" >}}) Master hovering over the development team, controlling each move they make, dictating every line of code.
 
 It sounds like a classic case of micromanagement, doesn't it? 
 
-However, in the realm of agile, if a Scrum Master takes on the role of a micromanager, they’ve missed the mark entirely. 
+However, in the realm of agile, if a [Scrum Master]({{< ref "/tags/scrum-master" >}}) takes on the role of a micromanager, they’ve missed the mark entirely. 
 
 ## The True Role of a Scrum Master **🎭**  
 

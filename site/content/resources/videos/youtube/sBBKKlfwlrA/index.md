@@ -31,8 +31,6 @@ tags:
 - Software Development
 - Large Scale Agility
 - Pragmatic Thinking
-- Agile Product Management
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +41,7 @@ categories:
 - Scrum
 
 ---
-Scaling Scrum: Overcoming Challenges with the Scaled Professional Scrum Course
+[Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}): Overcoming Challenges with the Scaled [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Course
 
 As someone who has navigated the complexities of scaling Scrum, I can tell you that the journey is both rewarding and fraught with challenges. The Scaled Professional Scrum (SPS) course is designed to equip you with the skills necessary to tackle these challenges head-on. In this post, I want to share my insights and experiences from this hands-on, activity-based course, which has proven invaluable for teams looking to expand their Scrum practices.
 
@@ -57,7 +55,7 @@ When scaling Scrum, teams often encounter several common challenges:
 
 - **Cross-Team Dependencies**: As teams grow, so do the interdependencies between them. Managing these dependencies effectively is crucial for maintaining momentum.
 - **Self-Management**: Ensuring that teams remain self-managing while coordinating with others can be a delicate balance.
-- **Transparency and Accountability**: With more teams involved, maintaining transparency and accountability becomes increasingly complex.
+- **[Transparency]({{< ref "/tags/transparency" >}}) and Accountability**: With more teams involved, maintaining transparency and accountability becomes increasingly complex.
 
 Many organisations turn to heavyweight scaling methodologies in an attempt to address these issues. However, I’ve seen firsthand how this can lead to added overhead that distracts teams from the core principles and benefits of Scrum.
 
@@ -67,7 +65,7 @@ The SPS course builds on the Nexus framework, which is specifically designed to 
 
 ### Interactive Learning Experience
 
-One of the standout features of the SPS course is its interactive, activity-based format. Delivered over half-day sessions via Microsoft Teams and Mural, students engage in a simulated scaled product development project. This hands-on approach allows participants to apply what they learn in real-time, fostering a deeper understanding of how to launch, structure, organise, and manage large agile projects using Scrum.
+One of the standout features of the SPS course is its interactive, activity-based format. Delivered over half-day sessions via Microsoft Teams and Mural, students engage in a simulated scaled [product development]({{< ref "/categories/product-development" >}}) project. This hands-on approach allows participants to apply what they learn in real-time, fostering a deeper understanding of how to launch, structure, organise, and manage large agile projects using Scrum.
 
 ### A Toolbox of Techniques
 
@@ -79,7 +77,7 @@ To maximise the learning opportunity, we provide additional reading, writing, an
 
 ### Certification and Beyond
 
-As part of the course, students receive a password to take the globally recognised SPS certification exam. If you don’t pass on your first attempt within 14 days, we offer a second chance as part of our commitment to validated learning. Additionally, participants benefit from a 30-minute learning review, a one-hour coaching session, and a 30% discount on future courses.
+As part of the course, students receive a password to take the globally recognised SPS certification exam. If you don’t pass on your first attempt within 14 days, we offer a second chance as part of our commitment to validated learning. Additionally, participants benefit from a 30-minute learning review, a one-hour [coaching]({{< ref "/tags/coaching" >}}) session, and a 30% discount on future courses.
 
 ### Conclusion
 

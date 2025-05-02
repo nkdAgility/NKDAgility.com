@@ -28,7 +28,6 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Product Delivery
-- Working Software
 resourceTypes:
 - video
 sitemap:

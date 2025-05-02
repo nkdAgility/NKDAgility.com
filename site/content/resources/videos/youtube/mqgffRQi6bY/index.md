@@ -27,17 +27,16 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
-- Software Development
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Confronting Complexity 
 
-In Part 2 of this exploration, we dive deeper into another pivotal reason that makes Lego a less-than-ideal tool in Scrum training.  
+In Part 2 of this exploration, we dive deeper into another pivotal reason that makes Lego a less-than-ideal tool in [Scrum]({{< ref "/categories/scrum" >}}) training.  
 
 The challenge? Acknowledging complexity. 🤯🚀 
 
@@ -49,7 +48,7 @@ A fundamental idea we aim to instil is understanding the nuanced complexity of c
 
 Navigating the world of Scrum training, we often encounter tools that aim to elucidate concepts, yet sometimes, as with Lego, we find ourselves facing an oversimplification of the intricate realities we aim to convey. 
 
-- Uniformity Over Variance 🧱: Lego pieces, designed to fit perfectly, oversimplify the intricate, often messy, world of software development. 
+- Uniformity Over Variance 🧱: Lego pieces, designed to fit perfectly, oversimplify the intricate, often messy, world of [software development]({{< ref "/tags/software-development" >}}). 
 
 - Incompatibility Issues 💻: Real-world software pieces, unlike Lego, are notorious for their integration challenges, something Lego fails to emulate. 
 

@@ -28,14 +28,14 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false
-tags:
-- Pragmatic Thinking
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 As I reflect on my journey as an agile consultant, I often find myself thinking about the essential skills that can make or break your effectiveness in this role. Whether you're just starting out or looking to refine your approach, here are my top three tips for new agile consultants that I believe can set you on the right path.
@@ -52,8 +52,8 @@ First and foremost, it’s crucial to grasp the domain in which you’re working
 Listening is one of the most powerful skills you can develop as a consultant. It’s not just about hearing what people say; it’s about understanding the nuances of their experiences and perspectives.
 
 - **Conduct Interviews**: When I start working with a new team or organisation, I often conduct interviews across all levels. This helps me uncover the different stories that emerge from various perspectives.
-- **Spot the Discrepancies**: I recall a situation where leadership believed they were excelling in continuous delivery, while the team on the ground felt overwhelmed and unsupported. This disconnect highlighted a significant lack of transparency within the organisation. 
-- **Focus on Transparency**: If you notice differing narratives, it’s a clear sign that transparency is lacking. This should be your first focus when driving organisational change.
+- **Spot the Discrepancies**: I recall a situation where [leadership]({{< ref "/categories/leadership" >}}) believed they were excelling in [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), while the team on the ground felt overwhelmed and unsupported. This disconnect highlighted a significant lack of [transparency]({{< ref "/tags/transparency" >}}) within the organisation. 
+- **Focus on Transparency**: If you notice differing narratives, it’s a clear sign that transparency is lacking. This should be your first focus when driving [organisational change]({{< ref "/tags/organisational-change" >}}).
 
 ### 3. Articulate the Uncomfortable Truths
 
@@ -66,4 +66,4 @@ Finally, as a consultant, you must be prepared to articulate what people may not
 
 In summary, as you embark on your journey as an agile consultant, keep these three tips in mind: understand the domain, listen actively, and be prepared to speak the uncomfortable truth. These skills will not only enhance your effectiveness but also help you build trust and credibility within the organisations you work with.
 
-If you found this post helpful, I encourage you to engage with me. I always welcome comments and discussions, so feel free to reach out or book a coffee chat through Naked Agility. Let’s explore the world of agile, Scrum, and DevOps together!
+If you found this post helpful, I encourage you to engage with me. I always welcome comments and discussions, so feel free to reach out or book a coffee chat through Naked Agility. Let’s explore the world of agile, [Scrum]({{< ref "/categories/scrum" >}}), and [DevOps]({{< ref "/categories/devops" >}}) together!

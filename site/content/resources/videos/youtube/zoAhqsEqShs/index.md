@@ -30,13 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
-- Agile Philosophy
-- Agile Frameworks
-- Software Development
-- Agile Strategy
-- Organisational Agility
-- Pragmatic Thinking
-- Personal
 resourceTypes:
 - video
 categories:
@@ -60,9 +53,9 @@ I will start with a not-so-good outcome that I have experienced as an Agile cons
 
 Remember, never to mistake an organisation's old-school aesthetics for complacency. With substantial cash flow, this particular company saw no immediate need for change. After all, change implies risk, and why risk disrupting a profitable status quo? 💰
 
-However, using my knowledge of development and progress, I managed to rally their IT leadership and management around Agile and DevOps principles. On the whole, the team was excited about transitioning towards continuous delivery, enhancing feedback loops, and using data-driven insights for decision-making.
+However, using my knowledge of development and progress, I managed to rally their IT [leadership]({{< ref "/categories/leadership" >}}) and management around Agile and [DevOps]({{< ref "/categories/devops" >}}) principles. On the whole, the team was excited about transitioning towards [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), enhancing feedback loops, and using data-driven insights for decision-making.
 
-Unfortunately, about a year later, I learned the organisation had chosen to revert to their old practices. As a result, these advocates for change, the same people eager for Agile transformation, had left or been let go. While it was a disappointing turn of events, I like to believe that these individuals moved on to organisations more receptive to innovation. 🔄
+Unfortunately, about a year later, I learned the organisation had chosen to revert to their old practices. As a result, these advocates for change, the same people eager for [Agile transformation]({{< ref "/tags/agile-transformation" >}}), had left or been let go. While it was a disappointing turn of events, I like to believe that these individuals moved on to organisations more receptive to innovation. 🔄
 
 ## An Agile Success Story
 
@@ -72,7 +65,7 @@ This company's operation impressed me as their in-house team managed everything,
 
 ### Holistic Approach to Agile Training
 
-I was eager to get started at Blackcountry, and so we began with Scrum training. Within no time, we then extended it to almost everyone in the company.
+I was eager to get started at Blackcountry, and so we began with [Scrum]({{< ref "/categories/scrum" >}}) training. Within no time, we then extended it to almost everyone in the company.
 
 It was great to see attendees, from the CEO to the forklift operator in the warehouse. Everyone was involved. This extensive involvement allowed everyone to see the impact of their feedback on the final product, creating a sense of ownership and cohesion within the company.
 

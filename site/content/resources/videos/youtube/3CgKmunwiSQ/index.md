@@ -19,12 +19,14 @@ aliases:
 - /resources/3CgKmunwiSQ
 - /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
 aliasesArchive:
 - /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
 - /resources/traditional-management-vs-evidence-based-management
 - understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,12 +35,11 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
-- Decision Theory
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## **What Is Traditional Management?**
@@ -85,7 +86,7 @@ A common pitfall in evidence-based management is focusing on "vanity metrics." T
 
 - Include things like story points, velocity, or the sum of tasks completed per sprint.
 
-**Example**: Imagine a product owner who makes decisions solely based on velocity—the sum of story points completed each sprint. This might look impressive on paper, but it doesn’t necessarily mean the product is delivering value to the customer. It’s like judging a race based on how fast a car is going without considering if it’s going in the right direction.
+**Example**: Imagine a [product owner]({{< ref "/tags/product-owner" >}}) who makes decisions solely based on velocity—the sum of story points completed each sprint. This might look impressive on paper, but it doesn’t necessarily mean the product is delivering value to the customer. It’s like judging a race based on how fast a car is going without considering if it’s going in the right direction.
 
 ## **Common Decision-Making Pitfalls in Traditional Management**
 
@@ -165,6 +166,6 @@ Evidence-based management is not just a buzzword; it's a way to make smarter, mo
 
 - **More informed decisions** 🧠
 
-- **A culture of continuous improvement** 📈
+- **A culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}})** 📈
 
 The next time you're faced with a decision, ask yourself: Are you relying on evidence, or are you just making it up? Embrace the challenge, and you’ll see the difference it makes for your team and organization. 🌟

@@ -32,6 +32,7 @@ videos:
 - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
   embed: https://www.youtube.com/embed/QA2QdBG5uLE
 date: 2024-09-17
+slug: definition-of-done-(dod)
 weight: 355
 card:
   button:
@@ -41,6 +42,7 @@ card:
 categories:
 - Scrum
 - Engineering Excellence
+- Product Development
 tags:
 - Definition of Done
 - Professional Scrum
@@ -57,23 +59,19 @@ tags:
 - Engineering Practices
 - Scrum Team
 - Technical Mastery
-- Agile Planning
-- Agile Product Management
-- Team Collaboration
-- Team Performance
 
 ---
-Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
+Every team should define what is required, what criteria must be met, for a product [increment]({{< ref "/tags/increment" >}}) to be considered releasable. A [definition of done]({{< ref "/tags/definition-of-done" >}}). If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
 {: .lead}
 
-[Developers](./../_guides/scrum-guide.md#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. Working Software is not specific to a PBI; it’s applied regardless of PBI to the entire delivery.
+[Developers](./../_guides/scrum-guide.md#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. [Working Software]({{< ref "/tags/working-software" >}}) is not specific to a PBI; it’s applied regardless of PBI to the entire delivery.
 
 ![Definition of Done (DoD)](./../../assets/images/naked-agility-scrum-framework-definition-of-done.jpg)
 
-> “The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of > > Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.”\\
+> “The Definition of Done creates [transparency]({{< ref "/tags/transparency" >}}) by providing everyone a shared understanding of what work was completed as part of the Increment. If a [Product Backlog]({{< ref "/tags/product-backlog" >}}) item does not meet the Definition of > > Done, it cannot be released or even presented at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). Instead, it returns to the Product Backlog for future consideration.”\\
 > --<cite>[The 2020 Scrum Guide](./../_guides/scrum-guide.md)</cite>
 
-If you can’t ship working software at least every 30 days then by its very definition, you are not yet doing Scrum. Since [Professional Scrum Teams build software that works](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by “working” continuously, and at least on a regular cadence.
+If you can’t ship working software at least every 30 days then by its very definition, you are not yet doing [Scrum]({{< ref "/categories/scrum" >}}). Since [Professional Scrum Teams build software that works](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by “working” continuously, and at least on a regular cadence.
 
 **The purpose of the definition of done is to provide transparency of what has been done!** This provides the team with focus on whats needed and commitment to the minimum level of quality needed. Every team has full control over the level of quality that they provide.
 
@@ -85,7 +83,7 @@ A clear shared definition of done allows us to:
 4.  Protect our Brand!
 
 > Live and in production, collecting telemetry supporting or diminishing the starting hypothesis.\\
-> --<cite>from Definition of Done (DoD) for the Azure DevOps Product Teams</cite>
+> --<cite>from Definition of Done (DoD) for the Azure [DevOps]({{< ref "/categories/devops" >}}) Product Teams</cite>
 > {: .blockquote}
 
 ## What is Done?
@@ -107,9 +105,9 @@ Before you cut a single line of code, you need to decide what done means for you
 - **Mirrors shippable** – While you might not have shipped your product, [although we recommended it](https://nkdagility.com/blog/continuous-deliver-sprint/), you should have that choice. Your [Product Owner](./../_guides/scrum-guide.md#product-owner) should be able to say, at the [Sprint Review](./../_guides/scrum-guide.md#sprint-review): “That’s Awesome… lets ship it.”.
 - **No further work** – There should be no further work required from the [Developers](./../_guides/scrum-guide.md#developers) to ship your product to production. Any additional work means that you were not Done, and it takes away from the [Product Owner](./../_guides/scrum-guide.md#product-owner) capacity for the next iteration. Ideally, you have a fully automated process for delivering software, and [never use staggered iterations for delivery](https://nkdagility.com/blog/a-better-way-than-staggered-iterations-for-delivery/).
 
-A simple definition of DOD from Scrum: "a shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Scrum Team."
+A simple definition of DOD from Scrum: "a shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the [Scrum Team]({{< ref "/tags/scrum-team" >}})."
 
-_Your short, measurable checklist that mirrors usable and results in no further work required to ship your product needs to be defined._ A great way to do this is to get the Scrum Team (the Product Owner plus the Developers and any relevant Stakeholders) into a [facilitated DoD Workshop](./../_workshops/definition-of-done.md). Without a Definition of Done we don’t understand what working software means, and without working software we cant have predictable delivery. Your Product Owner can’t reject a Backlog Item, only whether the Increment is working or not.
+_Your short, measurable checklist that mirrors usable and results in no further work required to ship your product needs to be defined._ A great way to do this is to get the Scrum Team (the [Product Owner]({{< ref "/tags/product-owner" >}}) plus the Developers and any relevant Stakeholders) into a [facilitated DoD Workshop](./../_workshops/definition-of-done.md). Without a Definition of Done we don’t understand what working software means, and without working software we cant have predictable delivery. Your Product Owner can’t reject a Backlog Item, only whether the Increment is working or not.
 
 No mater what you are building you should have a clear and concise definition of done that can be understood and articulated by the whole Team, and ideally by your stakeholders.
 
@@ -192,7 +190,7 @@ If it is less significant, you might want to keep working and add what you need 
 
 Here are some examples of Done from various teams, real and fictitious.
 
-### Azure DevOps
+### [Azure DevOps]({{< ref "/tags/azure-devops" >}})
 
 - Live in production, collecting telemetry supporting or diminishing the starting hypothesis.
 

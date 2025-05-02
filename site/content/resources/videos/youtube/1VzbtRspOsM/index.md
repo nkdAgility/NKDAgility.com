@@ -42,14 +42,6 @@ tags:
 - Change Management
 - Competence
 - Mentoring
-- Self Organisation
-- Agile Frameworks
-- Agile Values and Principles
-- Continuous Improvement
-- Operational Practices
-- Team Collaboration
-- Enterprise Agility
-- Agile Leadership
 resourceTypes:
 - video
 layout: video
@@ -59,7 +51,7 @@ categories:
 - Leadership
 
 ---
-Aspiring agile leaders often face significant challenges when trying to shift organizational culture. They encounter barriers to having the necessary deep conversations and find themselves short on time and space to implement the changes they envision. In today’s fast-paced environments, making that leap to true agile leadership can feel daunting. That's where immersive learning experiences, like the PAL-E (Professional Agile Leadership Essentials) class, come in to play. These courses create room for both reflection and action, driving real, sustainable change within organizations.
+Aspiring agile leaders often face significant challenges when trying to shift organizational culture. They encounter barriers to having the necessary deep conversations and find themselves short on time and space to implement the changes they envision. In today’s fast-paced environments, making that leap to true agile [leadership]({{< ref "/categories/leadership" >}}) can feel daunting. That's where immersive learning experiences, like the PAL-E (Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials) class, come in to play. These courses create room for both reflection and action, driving real, sustainable change within organizations.
 
 ## **The Challenge for Agile Leaders**
 
@@ -99,7 +91,7 @@ One key element is the practical assignments that participants are tasked with d
 
 - **Delegation Practices**: Leaders might experiment with delegating more responsibility to their teams, testing how much autonomy their team can handle.
 
-- **Cross-Team Collaboration**: They might work on fostering collaboration between traditionally siloed departments, breaking down barriers to improve communication and workflow.
+- **Cross-[Team Collaboration]({{< ref "/tags/team-collaboration" >}})**: They might work on fostering collaboration between traditionally siloed departments, breaking down barriers to improve communication and workflow.
 
 Leaders aren’t expected to get everything right on the first try. Instead, they’re encouraged to take these assignments, experiment with them in their real-world settings, and then return to the class to **debrief with their peers**.
 
@@ -115,7 +107,7 @@ This kind of **collaborative problem-solving** is essential for leadership growt
 
 ## **Personal Experience: Why This Works**
 
-In my experience as a Scrum Trainer, I’ve seen firsthand how immersive learning experiences like the PAL-E class can **transform leaders**. Here are just a few examples:
+In my experience as a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve seen firsthand how immersive learning experiences like the PAL-E class can **transform leaders**. Here are just a few examples:
 
 1. **Delegation Challenges**: One leader I worked with was struggling to delegate responsibility to his team. After several failed attempts, he used the PAL-E class to get feedback from his peers, adjust his approach, and finally succeeded in empowering his team to take full ownership of their work.
 
@@ -131,7 +123,7 @@ The PAL-E class helps leaders understand how everything in their organization is
 
 - **Building connections**: They create stronger relationships between teams and the work they’re doing, making the work more meaningful and impactful.
 
-- **Maximizing value**: Leaders start thinking in terms of **value delivery** rather than just process adherence.
+- **Maximizing value**: Leaders start thinking in terms of **[value delivery]({{< ref "/tags/value-delivery" >}})** rather than just process adherence.
 
 _“It’s about changing the way we do things to allow people to take more accountability, more ownership, and feel more connected with the work they’re doing.”_
 

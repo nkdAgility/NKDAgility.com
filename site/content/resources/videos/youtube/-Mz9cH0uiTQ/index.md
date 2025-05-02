@@ -26,11 +26,6 @@ duration: 351
 isShort: false
 tags:
 - Pragmatic Thinking
-- Value Delivery
-- Agile Philosophy
-- Software Development
-- Personal
-- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,7 +48,7 @@ Clients frequently arrive with a specific agenda. They might have a clear idea o
 
 The duration of my engagement can significantly influence how this process unfolds. Most of my work tends to be short-term, spanning two to three weeks. During these periods, clients typically seek advice on how to implement agile practices effectively. I provide insights and strategies, which they then take forward independently.
 
-However, I’ve also had the opportunity to engage in longer-term projects, particularly with professional services teams. In these cases, I work closely with various teams within the organisation, often collaborating with their Scrum Masters to observe and provide feedback.
+However, I’ve also had the opportunity to engage in longer-term projects, particularly with professional services teams. In these cases, I work closely with various teams within the organisation, often collaborating with their [Scrum]({{< ref "/categories/scrum" >}}) Masters to observe and provide feedback.
 
 ### The Agile Misconception
 
@@ -76,7 +71,7 @@ What’s crucial for any business, not just professional services, is understand
 
 ### The Real Challenge
 
-Most clients don’t truly know what they want. They may think they need agile or DevOps implementations, but the real challenge often lies elsewhere. My role is to help them identify these core difficulties, even if it means approaching the solution from an unexpected angle. 
+Most clients don’t truly know what they want. They may think they need agile or [DevOps]({{< ref "/categories/devops" >}}) implementations, but the real challenge often lies elsewhere. My role is to help them identify these core difficulties, even if it means approaching the solution from an unexpected angle. 
 
 Ultimately, the goal is to ensure they derive genuine value from our collaboration. It’s about guiding them towards the right path, even if it requires a bit of finesse.
 

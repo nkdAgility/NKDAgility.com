@@ -40,16 +40,6 @@ tags:
 - Value Delivery
 - Product Delivery
 - Agile Values and Principles
-- Agile Product Management
-- Agile Planning Tools
-- Agile Strategy
-- Lean Principles
-- Organisational Agility
-- Pragmatic Thinking
-- Flow Efficiency
-- Team Performance
-- Backlog Refinement
-- Personal
 resourceTypes:
 - video
 categories:
@@ -58,9 +48,9 @@ categories:
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.
 
-The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your Scrum practices.
+The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your [Scrum]({{< ref "/categories/scrum" >}}) practices.
 
-## **What Does It Mean to Have a Lean Backlog?**
+## **What Does It Mean to Have a [Lean]({{< ref "/categories/lean" >}}) Backlog?**
 
 In Agile, the backlog is the heart of the project. It contains everything the team will eventually work on, but that doesn’t mean it should be overloaded. A lean backlog ensures that your team stays focused on delivering value without getting overwhelmed. The key phrase here is: **just enough and no more**.
 
@@ -98,7 +88,7 @@ One of the principles in the Agile Manifesto is to maximize the amount of work *
 
 In one of my previous projects, our team was overly ambitious about refining every backlog item. We wanted to have every possible feature mapped out in detail. However, we soon found ourselves stuck in endless refinement sessions, debating the merits of features that didn’t add immediate value. Our velocity slowed down, and it felt like we were refining for refinement's sake.
 
-It wasn’t until we adopted the principle of **just enough and no more** that we saw real improvement. By focusing on the most critical items and minimizing time spent on low-priority tasks, we were able to accelerate delivery and improve customer satisfaction.
+It wasn’t until we adopted the principle of **just enough and no more** that we saw real improvement. By focusing on the most critical items and minimizing time spent on low-priority tasks, we were able to accelerate delivery and improve [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}).
 
 ## **The Easy Path vs. The Hard Path**
 
@@ -122,7 +112,7 @@ For example, when refactoring code, the easier path might be to patch things up 
 
 ## **When to Seek Help**
 
-If you’re finding it difficult to strike this balance in your Agile journey, don’t hesitate to seek guidance. Whether it’s through training, coaching, or consulting, finding the right support can make a world of difference. My team at **Naked Agility** specializes in helping teams apply the Seven Virtues of Agility, including temperance, to maximize effectiveness.
+If you’re finding it difficult to strike this balance in your Agile journey, don’t hesitate to seek guidance. Whether it’s through training, [coaching]({{< ref "/tags/coaching" >}}), or consulting, finding the right support can make a world of difference. My team at **Naked Agility** specializes in helping teams apply the Seven Virtues of Agility, including temperance, to maximize effectiveness.
 
 If you're ready to elevate your Agile practices and apply temperance to your backlog, refinement, and planning, reach out. We’re here to help, or you can always find a coach or trainer who can guide you in this journey.
 

@@ -30,11 +30,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Team Performance
-- Scrum Team
-- Social Technologies
-- Agile Transformation
-- Team Collaboration
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,17 +41,17 @@ categories:
 - Product Development
 
 ---
-I’ve often found myself reflecting on the dynamics within Agile teams, particularly when it comes to the role of the Product Owner. Have you ever worked with a Product Owner who seemed more like a project manager? You know the type—fixated on work breakdown structures, timelines, and Gantt charts. If you have, then you’ve likely encountered what I like to call an “agile bandit” Product Owner. 
+I’ve often found myself reflecting on the dynamics within Agile teams, particularly when it comes to the role of the [Product Owner]({{< ref "/tags/product-owner" >}}). Have you ever worked with a Product Owner who seemed more like a project manager? You know the type—fixated on work breakdown structures, timelines, and Gantt charts. If you have, then you’ve likely encountered what I like to call an “agile bandit” Product Owner. 
 
 ### The Agile Bandit: A Disconnection from True Agility
 
-When a Product Owner operates with a project management mindset, it can lead to a cascade of negative impacts on the team. Here’s why this is a problem:
+When a Product Owner operates with a [project management]({{< ref "/tags/project-management" >}}) mindset, it can lead to a cascade of negative impacts on the team. Here’s why this is a problem:
 
 - **Focus on Tasks Over Value**: An agile bandit is primarily concerned with ticking off tasks rather than delivering value. They often lose sight of the bigger picture, which is to create a product that meets user needs and drives business outcomes.
   
 - **Lack of Engagement**: This type of Product Owner tends to be disconnected from the team. They may not engage in meaningful conversations about the work being done, which can lead to a lack of shared understanding and collaboration.
 
-- **Empowerment Issues**: A true Agile environment thrives on empowerment and autonomy. When a Product Owner is overly focused on control and task management, it stifles the team’s ability to innovate and adapt. The team becomes a collection of individuals rather than a cohesive unit working towards a common goal.
+- **Empowerment Issues**: A true Agile environment thrives on empowerment and autonomy. When a Product Owner is overly focused on control and task management, it stifles the team’s [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}) and adapt. The team becomes a collection of individuals rather than a cohesive unit working towards a common goal.
 
 ### The Consequences of Agile Banditry
 

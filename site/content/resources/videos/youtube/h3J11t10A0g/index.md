@@ -28,16 +28,6 @@ isShort: false
 tags:
 - Software Development
 - Pragmatic Thinking
-- Agile Frameworks
-- Value Delivery
-- Agile Product Management
-- Agile Transformation
-- Complexity Thinking
-- Organisational Agility
-- Working Software
-- Product Delivery
-- Agile Philosophy
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -49,13 +39,13 @@ categories:
 - Technical Leadership
 
 ---
-In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in software development.
+In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in [software development]({{< ref "/tags/software-development" >}}).
 
 ### Understanding Complexity in Software Development
 
-The crux of the matter is that what we know is often far less than what we don’t know. This inherent uncertainty leads to a high degree of unpredictability in project outcomes. To combat this, we must focus on two key areas: **technical leadership** and **engineering excellence**.
+The crux of the matter is that what we know is often far less than what we don’t know. This inherent uncertainty leads to a high degree of unpredictability in project outcomes. To combat this, we must focus on two key areas: **[technical leadership]({{< ref "/categories/technical-leadership" >}})** and **[engineering excellence]({{< ref "/categories/engineering-excellence" >}})**.
 
-- **Technical Leadership**: It’s essential for our leaders to possess a solid understanding of the technical realities surrounding product delivery. This goes beyond merely overseeing the work; it involves grasping the nuances of ideation and futurism. Leaders should be able to envision the possibilities for the product, enabling better decision-making within its context.
+- **Technical [Leadership]({{< ref "/categories/leadership" >}})**: It’s essential for our leaders to possess a solid understanding of the technical realities surrounding [product delivery]({{< ref "/tags/product-delivery" >}}). This goes beyond merely overseeing the work; it involves grasping the nuances of ideation and futurism. Leaders should be able to envision the possibilities for the product, enabling better decision-making within its context.
 
 - **Engineering Excellence**: Our engineers must build products of high quality, allowing us to pivot as needed. When the unexpected arises—and it will—we need to be agile enough to adapt without losing momentum.
 
@@ -63,11 +53,11 @@ The crux of the matter is that what we know is often far less than what we don�
 
 One of the biggest misconceptions I’ve encountered is the belief that there’s a single “right” way to approach software development. This notion of a best practice is a fallacy. We often assume that our talented engineers inherently know how to solve every problem, but that’s not always the case. 
 
-To navigate this complexity effectively, we need to equip ourselves with the right tools and capabilities. This is where the principles and philosophies behind Agile and Scrum come into play.
+To navigate this complexity effectively, we need to equip ourselves with the right tools and capabilities. This is where the principles and philosophies behind Agile and [Scrum]({{< ref "/categories/scrum" >}}) come into play.
 
 ### Embracing Agile Principles
 
-The ideas of **iterative development**, **continuous delivery**, **continuous feedback**, and **continuous testing** are crucial in today’s software engineering landscape. Here’s how these principles can help us:
+The ideas of **iterative development**, **[continuous delivery]({{< ref "/tags/continuous-delivery" >}})**, **continuous feedback**, and **continuous testing** are crucial in today’s software engineering landscape. Here’s how these principles can help us:
 
 - **Iterative Development**: By breaking down projects into smaller, manageable increments, we can adapt and refine our approach based on real-time feedback.
 

@@ -34,13 +34,6 @@ tags:
 - Agile Frameworks
 - Coaching
 - Software Development
-- Scrum Team
-- Agile Leadership
-- Agile Product Management
-- Agile Transformation
-- Social Technologies
-- Mentoring
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -52,7 +45,7 @@ categories:
 - Product Development
 
 ---
-When I reflect on my journey as a Scrum Master, one of the most persistent misconceptions I encounter is the belief that a Scrum Master is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 
+When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one of the most persistent misconceptions I encounter is the belief that a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 
 
 ### The Role of a Scrum Master: A Servant Leader
 
@@ -68,7 +61,7 @@ At its core, the role of a Scrum Master is fundamentally about service. The Scru
 
 Let’s address some of the most common misconceptions I’ve encountered:
 
-- **Status Updates**: It’s a common belief that Scrum Masters should be the ones receiving status updates from team members. In reality, the Scrum Master should encourage transparency within the team, allowing members to share updates amongst themselves rather than funneling information through a single point.
+- **Status Updates**: It’s a common belief that Scrum Masters should be the ones receiving status updates from team members. In reality, the Scrum Master should encourage [transparency]({{< ref "/tags/transparency" >}}) within the team, allowing members to share updates amongst themselves rather than funneling information through a single point.
 
 - **Report Writing**: The idea that a Scrum Master should be responsible for writing reports is equally misguided. The focus should be on the team’s progress and outcomes, not on generating paperwork. The Scrum Master should facilitate discussions that lead to shared understanding and collective accountability.
 
@@ -76,7 +69,7 @@ Let’s address some of the most common misconceptions I’ve encountered:
 
 ### The Path to Mastery
 
-If you’re keen to delve deeper into the nuances of the Scrum Master role, I highly recommend attending an advanced Scrum Master class. These sessions provide invaluable insights into the subtleties of servant leadership and the true essence of being a Scrum Master. 
+If you’re keen to delve deeper into the nuances of the Scrum Master role, I highly recommend attending an advanced Scrum Master class. These sessions provide invaluable insights into the subtleties of servant [leadership]({{< ref "/categories/leadership" >}}) and the true essence of being a Scrum Master. 
 
 In my experience, the most effective Scrum Masters are those who embrace their role as facilitators and supporters, rather than controllers. They understand that their success is measured by the success of the team, and they work tirelessly to create an environment where everyone can thrive.
 

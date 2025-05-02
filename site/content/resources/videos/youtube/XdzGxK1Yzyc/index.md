@@ -34,11 +34,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Professional Scrum
-- Agile Strategy
-- Scrum Team
-- Product Delivery
-- Common Goals
-- Value Delivery
 resourceTypes:
 - video
 categories:
@@ -47,7 +42,7 @@ categories:
 - Product Management
 
 ---
-## Decoding the Role of the Product Owner
+## Decoding the Role of the [Product Owner]({{< ref "/tags/product-owner" >}})
 
 A common question I often encounter is,  "What exactly is a product owner?"
 
@@ -59,15 +54,15 @@ A product owner isn't just a fancy job title you'll find on business cards or em
 
 So, you might not find someone wearing a badge stating, "I'm the product owner.
 
-It's about the accountabilities someone in your organisation takes on, with the central focus being accountable for maximising the value of work done by the scrum team.   🎯
+It's about the accountabilities someone in your organisation takes on, with the central focus being accountable for maximising the value of work done by the [scrum]({{< ref "/categories/scrum" >}}) team.   🎯
 
 ## Understanding and Maximising Value
 
 But what does this "value" mean?
 
-It isn't just about ordering a product backlog.
+It isn't just about ordering a [product backlog]({{< ref "/tags/product-backlog" >}}).
 
-The core essence of a product owner lies in maximising the value of work done by the scrum team. It's not merely about ordering a product backlog - that's just a tiny, mechanical element of this vast accountability.
+The core essence of a product owner lies in maximising the value of work done by the [scrum team]({{< ref "/tags/scrum-team" >}}). It's not merely about ordering a product backlog - that's just a tiny, mechanical element of this vast accountability.
 
 The real challenge in your specific organisational context is discerning what product ownership means.
 
@@ -79,7 +74,7 @@ And yes, that takes a lot more than just managing a list! 📊
 
 A product owner isn't just about the 'now'. They're the pulse of where the product is heading and the heartbeat of the strategy.   A product owner needs a deep understanding of the market, insights into product usability, customer feedback, and much more.
 
- It's all about tuning into every signal that might impact our project's direction and success. They're the ones responsible for setting the tone for product leadership and the strategic direction.
+ It's all about tuning into every signal that might impact our project's direction and success. They're the ones responsible for setting the tone for product [leadership]({{< ref "/categories/leadership" >}}) and the strategic direction.
 
 The more informed the product owner is, the better the strategic direction and the resonance with the market. 🌐
 

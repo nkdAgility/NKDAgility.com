@@ -36,8 +36,6 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
-- Organisational Change
-- Large Scale Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

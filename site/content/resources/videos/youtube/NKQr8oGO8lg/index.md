@@ -25,19 +25,18 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false
-tags:
-- Continuous Learning
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and coaching, I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 
+When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and [coaching]({{< ref "/tags/coaching" >}}), I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 
 
 ### The Company Perspective: Investing in People
 
@@ -46,8 +45,8 @@ From the standpoint of a company sending employees to a course, the benefits are
 Here’s why this is crucial:
 
 - **Real-World Application**: We focus on helping your team apply what they learn, ensuring that the knowledge gained translates into tangible improvements within your organisation.
-- **Value Delivery**: Each module in the course is designed to deliver value. Imagine seven distinct opportunities for your team to implement what they’ve learned, driving positive change from the outset.
-- **Long-Term Impact**: This isn’t just a one-off training session; it’s the beginning of a longer journey towards continuous improvement and agility within your organisation.
+- **[Value Delivery]({{< ref "/tags/value-delivery" >}})**: Each module in the course is designed to deliver value. Imagine seven distinct opportunities for your team to implement what they’ve learned, driving positive change from the outset.
+- **Long-Term Impact**: This isn’t just a one-off training session; it’s the beginning of a longer journey towards [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and agility within your organisation.
 
 ### The Individual Perspective: Becoming an Expert
 

@@ -31,15 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Improvement
-- Agile Product Management
-- Product Owner
-- Agile Philosophy
-- Agile Strategy
-- Agile Values and Principles
-- Business Agility
-- Software Development
-- Market Adaptability
-- Personal
 resourceTypes:
 - video
 layout: video
@@ -47,7 +38,7 @@ categories:
 - Product Development
 
 ---
-As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
+As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
 
 In this post, we’ll explore why it’s crucial to evaluate your direction regularly at different levels—individual, team, and organizational—and how you can pivot when necessary to achieve better outcomes.
 
@@ -75,7 +66,7 @@ One personal experience I often share is when a team I was working with delivere
 
 The same principle applies to product owners. It’s easy to get tunnel vision, especially when you're committed to delivering certain features. But the real question is: **Are you building the right features that truly benefit your users?**
 
-I remember working with a product owner who was keen on adding more features to a product. The team built these out with speed and efficiency, but the customers weren’t interested in using them. The product was feature-packed, yet didn’t solve the key pain points of its users. Had we stopped to evaluate direction, we would have realized this much sooner.
+I remember working with a [product owner]({{< ref "/tags/product-owner" >}}) who was keen on adding more features to a product. The team built these out with speed and efficiency, but the customers weren’t interested in using them. The product was feature-packed, yet didn’t solve the key pain points of its users. Had we stopped to evaluate direction, we would have realized this much sooner.
 
 ### **Product Owner's Evaluation Checklist:**
 

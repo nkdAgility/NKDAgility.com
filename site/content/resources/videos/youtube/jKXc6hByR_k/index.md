@@ -26,9 +26,7 @@ aliasesArchive:
 preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLC_neJQ7HQOO8CRb5RGMzl5ZAqXnA
 duration: 172
 isShort: false
-tags:
-- Software Development
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +36,7 @@ categories:
 - Product Development
 
 ---
-If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in engineering practices or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the coaching and advice you need to maximise your return on investment.
+If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in [engineering practices]({{< ref "/tags/engineering-practices" >}}) or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the [coaching]({{< ref "/tags/coaching" >}}) and advice you need to maximise your return on investment.
 
 ### Understanding the Context
 
@@ -50,7 +48,7 @@ Every product we build and every line of code written by our teams is an organis
 
 When you purchase a building, you conduct extensive due diligence. You assess its condition, its potential for appreciation, and its overall value. However, when it comes to software, the process is often shrouded in opacity. We rely on the “magic wizards” who craft our software, but we may not fully grasp the implications of their work. 
 
-This is where having technical expertise becomes crucial. Whether you have in-house talent or need to bring in external experts, understanding the intricate relationships within your software development process is vital. This knowledge allows you to maximise the value your business can deliver to the market.
+This is where having technical expertise becomes crucial. Whether you have in-house talent or need to bring in external experts, understanding the intricate relationships within your [software development]({{< ref "/tags/software-development" >}}) process is vital. This knowledge allows you to maximise the value your business can deliver to the market.
 
 ### Key Takeaways for Maximising ROI
 
@@ -60,7 +58,7 @@ Here are some actionable insights to help you maximise your return on investment
   
 - **Conduct Regular Reviews**: Just as you would inspect a building, regularly review your software products to ensure they meet quality standards and align with business goals.
 
-- **Foster Technical Expertise**: Ensure that your leadership team has access to technical knowledge, whether through training or hiring experts. This will help bridge the gap between business objectives and technical execution.
+- **Foster Technical Expertise**: Ensure that your [leadership]({{< ref "/categories/leadership" >}}) team has access to technical knowledge, whether through training or hiring experts. This will help bridge the gap between business objectives and technical execution.
 
 - **Embrace Hypothesis-Driven Practices**: Encourage your teams to adopt a hypothesis-driven approach to feature development. This will help you prioritise features that deliver the most value.
 

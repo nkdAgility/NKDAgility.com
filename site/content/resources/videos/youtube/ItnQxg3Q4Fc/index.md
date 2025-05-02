@@ -41,11 +41,6 @@ tags:
 - Change Management
 - Agile Strategy
 - Business Agility
-- Agile Product Management
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Market Adaptability
-- Product Delivery
 resourceTypes:
 - video
 categories:
@@ -53,9 +48,9 @@ categories:
 - Product Development
 
 ---
-## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey
+## Why Senior [Leadership]({{< ref "/categories/leadership" >}}) is Non-Negotiable in an Agile Consulting Journey
 
-Unlocking the full potential of Agile transformation hinges on one critical factor: the active engagement of senior leadership. In this article, let's discuss why their role is important and non-negotiable in any Agile consulting journey.  🎯
+Unlocking the full potential of [Agile transformation]({{< ref "/tags/agile-transformation" >}}) hinges on one critical factor: the active engagement of senior leadership. In this article, let's discuss why their role is important and non-negotiable in any Agile consulting journey.  🎯
 
 ## Systemic Change: The Pivotal Role of Leadership
 
@@ -69,7 +64,7 @@ Well, that's the essence of what we're discussing when we talk about Agile.  �
 
 ## Leadership's Crucial Role in Enabling Adaptability
 
-It's practically unimaginable to think about speeding up customer feedback loops or boosting adaptability in any team within an organisation without involving leadership.  💡
+It's practically unimaginable to think about speeding up [customer feedback loops]({{< ref "/tags/customer-feedback-loops" >}}) or boosting adaptability in any team within an organisation without involving leadership.  💡
 
 Those circumstances don't exist.
 
@@ -87,9 +82,9 @@ After all, they're the ones who sign the cheques and better optimise the value y
 
 ## Comprehensive Change: It's a Requirement, Not an Option
 
-Let's consider the DevOps team at Microsoft as an example. When asked what changes were necessary to adopt agility, their succinct response was "everything." 🔄
+Let's consider the [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft as an example. When asked what changes were necessary to adopt agility, their succinct response was "everything." 🔄
 
-Every aspect needed revamping, from marketing and sales to stakeholder engagement and product development. Achieving this sort of deep organisational transformation is "super hard" and absolutely demands senior leadership involvement.
+Every aspect needed revamping, from marketing and sales to stakeholder engagement and [product development]({{< ref "/categories/product-development" >}}). Achieving this sort of deep organisational transformation is "super hard" and absolutely demands senior leadership involvement.
 
 ## Leadership Alignment
 
@@ -99,4 +94,4 @@ In summation, the need for senior leadership engagement is not an optional extra
 
 Ready to become an Agile powerhouse?
 
-Don't just deepen your understanding—transform it. Explore our comprehensive courses in Agile, Scrum, and transformative change to elevate your Agile skills to an expert level today! 🌟
+Don't just deepen your understanding—transform it. Explore our comprehensive courses in Agile, [Scrum]({{< ref "/categories/scrum" >}}), and transformative change to elevate your Agile skills to an expert level today! 🌟

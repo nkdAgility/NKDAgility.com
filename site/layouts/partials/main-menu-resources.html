@@ -31,6 +31,8 @@
                       <i class="fa-solid fa-video"></i>
                     {{ else if eq .Params.ResourceType "blog" }}
                       <i class="fa-solid fa-newspaper"></i>
+                    {{ else if eq .Params.ResourceType "newsletters" }}
+                      <i class="fa-solid fa-envelope-open-text"></i>
                     {{ else }}
                       {{ .Params.ResourceType }}
                     {{ end }}
@@ -56,6 +58,10 @@
                       <i class="fa-solid fa-video"></i>
                     {{ else if eq .Params.ResourceType "blog" }}
                       <i class="fa-solid fa-newspaper"></i>
+                    {{ else if eq .Params.ResourceType "newsletters" }}
+                      <i class="fa-solid fa-envelope-open-text"></i>
+                    {{ else if eq .Params.ResourceType "podcasts" }}
+                      <i class="fa-solid fa-podcast"></i>
                     {{ else }}
                       {{ .Params.ResourceType }}
                     {{ end }}

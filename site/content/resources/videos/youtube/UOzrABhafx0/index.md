@@ -20,12 +20,14 @@ aliases:
 - /resources/UOzrABhafx0
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,10 +41,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Operational Practices
-- Competence
-- Scrum Team
-- Professional Scrum
-- Transparency
 resourceTypes:
 - video
 categories:
@@ -50,7 +48,7 @@ categories:
 - Scrum
 
 ---
-In today's fast-paced Agile environments, effective product backlog management is key to ensuring teams stay focused, aligned, and efficient. Scrum.org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every Scrum team can benefit from.
+In today's fast-paced Agile environments, effective [product backlog]({{< ref "/tags/product-backlog" >}}) management is key to ensuring teams stay focused, aligned, and efficient. [Scrum]({{< ref "/categories/scrum" >}}).org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every [Scrum team]({{< ref "/tags/scrum-team" >}}) can benefit from.
 
 Let's dive into what makes this course unique and why mastering product backlog management can significantly impact your team's success.
 
@@ -72,7 +70,7 @@ This course is designed to help you grasp the **nuances of managing a product ba
 
 ### **1\. Where Do Backlog Items Come From?**
 
-Understanding where backlog items originate is fundamental. Often, teams gather requirements from various sources—stakeholders, customer feedback, or technical debt—but struggle to organize and prioritize them effectively.
+Understanding where backlog items originate is fundamental. Often, teams gather requirements from various sources—stakeholders, customer feedback, or [technical debt]({{< ref "/tags/technical-debt" >}})—but struggle to organize and prioritize them effectively.
 
 - You’ll learn how to **capture backlog items** from diverse sources.
 
@@ -88,7 +86,7 @@ Managing backlog items is more than just listing tasks. It’s about crafting st
 
 - Breaking down large items into **smaller, consumable units** of work.
 
-- Maximizing transparency, ensuring everyone—from developers to stakeholders—understands the status and priority of each item.
+- Maximizing [transparency]({{< ref "/tags/transparency" >}}), ensuring everyone—from developers to stakeholders—understands the status and priority of each item.
 
 ### **3\. The Art of Breaking Down Backlog Items**
 
@@ -124,7 +122,7 @@ It’s tempting to let your product backlog grow into an unwieldy beast, but mor
 
 ## **Why Product Backlog Management Matters**
 
-If you’re a Scrum Master, Product Owner, or team member, effective product backlog management is critical to the success of your team. It’s not just about managing tasks; it’s about ensuring that your team is working on the right things, at the right time, with the right understanding.
+If you’re a [Scrum Master]({{< ref "/tags/scrum-master" >}}), [Product Owner]({{< ref "/tags/product-owner" >}}), or team member, effective product backlog management is critical to the success of your team. It’s not just about managing tasks; it’s about ensuring that your team is working on the right things, at the right time, with the right understanding.
 
 ### **The Benefits of a Well-Managed Backlog:**
 
@@ -134,7 +132,7 @@ If you’re a Scrum Master, Product Owner, or team member, effective product bac
 
 - **Greater alignment**: Aligning backlog priorities with organizational goals ensures that the work your team does is driving the business forward.
 
-🚀 **Recommendation**: Take the time to invest in backlog management. Whether you’re using Scrum, Kanban, or a hybrid approach, keeping your backlog in shape will pay dividends in terms of team efficiency and product success.
+🚀 **Recommendation**: Take the time to invest in backlog management. Whether you’re using Scrum, [Kanban]({{< ref "/categories/kanban" >}}), or a hybrid approach, keeping your backlog in shape will pay dividends in terms of team efficiency and product success.
 
 ## **Ready to Master Product Backlog Management?**
 

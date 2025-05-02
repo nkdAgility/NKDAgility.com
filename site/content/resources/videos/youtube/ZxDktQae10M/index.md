@@ -34,10 +34,11 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, DevOps, and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community. 
+My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, [DevOps]({{< ref "/categories/devops" >}}), and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community. 
 
 ### Understanding Your Migration Options
 
@@ -51,7 +52,7 @@ However, if your needs are more specific—perhaps you only want to migrate a fe
 
 I created the VSTS sync migration tools to address scenarios where users need more flexibility. These tools allow you to migrate data based on queries, meaning you can selectively choose what to migrate. Here are some key features:
 
-- **Versatile Migration**: You can migrate from TFS to VSTS, VSTS to TFS, split team projects, merge them, or even perform bulk updates. For example, I’ve assisted clients in migrating from the agile template in TFS to the scrum template using a bulk update processor.
+- **Versatile Migration**: You can migrate from TFS to VSTS, VSTS to TFS, split team projects, merge them, or even perform bulk updates. For example, I’ve assisted clients in migrating from the agile template in TFS to the [scrum]({{< ref "/categories/scrum" >}}) template using a bulk update processor.
 
 - **Community Support**: While I primarily support these tools, I’m fortunate to have contributions from various Microsoft MVPs and other TFS/VSTS consultants. This collaborative effort enriches the toolset and provides a wealth of knowledge for users.
 
@@ -59,11 +60,11 @@ I created the VSTS sync migration tools to address scenarios where users need mo
 
 To get started with the VSTS sync migration tools, you can find them on the Visual Studio Marketplace. Here’s a quick guide on how to install and run them:
 
-1. **Finding the Tools**: Search for "VSTS migration" and look for the VSTS sync migration tool. You can also find it on the Visual Studio Marketplace, which provides links to documentation and the GitHub repository.
+1. **Finding the Tools**: Search for "VSTS migration" and look for the VSTS sync migration tool. You can also find it on the Visual Studio Marketplace, which provides links to documentation and the [GitHub]({{< ref "/tags/github" >}}) repository.
 
-2. **Installation via Chocolatey**: The recommended installation method is through Chocolatey, a package management system for Windows. With over 3,000 downloads, it’s the most common way to install the tools. Simply run the command `choco install VSTS sync migrator` in your PowerShell window.
+2. **Installation via Chocolatey**: The recommended installation method is through Chocolatey, a package management system for [Windows]({{< ref "/tags/windows" >}}). With over 3,000 downloads, it’s the most common way to install the tools. Simply run the command `choco install VSTS sync migrator` in your PowerShell window.
 
-3. **Running the Tools**: After installation, navigate to the VSTS migration folder and run the executable. The tool will provide you with version information and a session ID, which is useful for troubleshooting.
+3. **Running the Tools**: After installation, navigate to the VSTS migration folder and run the executable. The tool will provide you with version information and a session ID, which is useful for [troubleshooting]({{< ref "/tags/troubleshooting" >}}).
 
 ### Configuration and Execution
 

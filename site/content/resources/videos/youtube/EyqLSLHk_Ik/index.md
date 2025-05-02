@@ -35,16 +35,6 @@ tags:
 - Organisational Culture
 - Pragmatic Thinking
 - Product Delivery
-- Continuous Learning
-- Agile Philosophy
-- Agile Product Management
-- Social Technologies
-- Software Development
-- Coaching
-- Mentoring
-- Organisational Psychology
-- Value Delivery
-- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -57,7 +47,7 @@ categories:
 - Leadership
 
 ---
-In my journey as a product development mentor, I've come to realise that the heart of successful software organisations lies in the people who build the products. In Scrum, we refer to these individuals as developers, but this term encompasses a diverse group: testers, coders, analysts, product owners, and even those in cyber security operations. Each plays a crucial role in the creation of a product, and it’s essential that we foster an environment where they can thrive.
+In my journey as a [product development]({{< ref "/categories/product-development" >}}) mentor, I've come to realise that the heart of successful software organisations lies in the people who build the products. In [Scrum]({{< ref "/categories/scrum" >}}), we refer to these individuals as developers, but this term encompasses a diverse group: testers, coders, analysts, product owners, and even those in cyber security operations. Each plays a crucial role in the creation of a product, and it’s essential that we foster an environment where they can thrive.
 
 ### The Importance of Happiness in Product Development
 
@@ -72,8 +62,8 @@ One of the most significant insights I've gained is that unhappy people do not c
 To turn around the morale of your team, we must focus on enabling them to deliver the highest possible value. This involves more than just refining processes; it requires a holistic approach to how we manage work and dependencies. Here are some strategies to consider:
 
 - **Continuous Feedback Loops**: Integrate feedback mechanisms into your processes. This allows teams to adapt and improve continuously, fostering a culture of learning and growth.
-- **DevOps and Continuous Delivery**: Embrace DevOps practices to streamline workflows and enhance collaboration between development and operations. This not only improves efficiency but also boosts team morale.
-- **Engineering Excellence**: Cultivate a culture that prioritises quality. When team members take pride in their work, they are more likely to produce exceptional products.
+- **[DevOps]({{< ref "/categories/devops" >}}) and [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}})**: Embrace DevOps practices to streamline workflows and enhance collaboration between development and operations. This not only improves efficiency but also boosts team morale.
+- **[Engineering Excellence]({{< ref "/categories/engineering-excellence" >}})**: Cultivate a culture that prioritises quality. When team members take pride in their work, they are more likely to produce exceptional products.
 
 ### The Role of Knowledge and Skills
 
@@ -86,7 +76,7 @@ It’s not enough to simply provide direction; team members must also possess th
 
 Every day, team members make countless micro-decisions that shape the future of the product. It’s crucial that they feel equipped to make these choices. For instance, consider a software engineer deciding between an array and a linked list. The decision may seem trivial, but it can have significant implications for future development. Here’s how we can support better decision-making:
 
-- **Intent-Based Leadership**: Foster an environment where team members understand the broader goals and objectives. This clarity allows them to make decisions that align with the organisation's vision.
+- **Intent-Based [Leadership]({{< ref "/categories/leadership" >}})**: Foster an environment where team members understand the broader goals and objectives. This clarity allows them to make decisions that align with the organisation's vision.
 - **Collaborative Culture**: Create a culture where team members feel comfortable discussing their choices and seeking input from others. This collaboration can lead to more informed and effective decisions.
 
 ### Conclusion: Building a Cohesive Team

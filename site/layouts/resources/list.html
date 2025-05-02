@@ -66,13 +66,7 @@
 
             {{ range $recent }}
               <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
-                {{ if eq .Params.ResourceType "videos" }}
-                  <i class="fa-solid fa-video"></i>
-                {{ else if eq .Params.ResourceType "blog" }}
-                  <i class="fa-solid fa-newspaper"></i>
-                {{ else }}
-                  <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
-                {{ end }}
+                {{- partial "components/resources/resource-icon.html" . }}
                 {{ if .Draft }}
                   <i class="fa-brands fa-firstdraft"></i>
                 {{ end }}
@@ -92,13 +86,7 @@
           <div class="columns-2">
             {{ range first 10 $resources.ByWeight }}
               <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
-                {{ if eq .Params.ResourceType "videos" }}
-                  <i class="fa-solid fa-video"></i>
-                {{ else if eq .Params.ResourceType "blog" }}
-                  <i class="fa-solid fa-newspaper"></i>
-                {{ else }}
-                  <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
-                {{ end }}
+                {{- partial "components/resources/resource-icon.html" . }}
                 {{ if .Draft }}
                   <i class="fa-brands fa-firstdraft"></i>
                 {{ end }}

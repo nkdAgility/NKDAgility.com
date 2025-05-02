@@ -28,26 +28,26 @@ tags:
 - Azure DevOps
 - Install and Configuration
 - Software Development
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-When it comes to migrating projects within Azure DevOps, I often find that the process can seem daunting, especially for those who are new to the platform. However, I’m here to share my personal experience and guide you through a straightforward migration using the Azure DevOps migration tools. I’ll also address some common exceptions and issues that may arise along the way. So, let’s dive in!
+When it comes to migrating projects within Azure [DevOps]({{< ref "/categories/devops" >}}), I often find that the process can seem daunting, especially for those who are new to the platform. However, I’m here to share my personal experience and guide you through a straightforward migration using the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) migration tools. I’ll also address some common exceptions and issues that may arise along the way. So, let’s dive in!
 
 ### Getting Started with Azure DevOps Migration Tools
 
-The first step in any migration is to ensure you have the right tools installed. You can find the Azure DevOps migration tools on GitHub. Here’s how to get started:
+The first step in any migration is to ensure you have the right tools installed. You can find the Azure DevOps migration tools on [GitHub]({{< ref "/tags/github" >}}). Here’s how to get started:
 
 - **Visit the GitHub Repository**: Navigate to the Azure DevOps tools repository and locate the latest release on the right-hand side.
 - **Installation Options**: If you’re in an environment without internet access, you can download the release file, unzip it, and run the migration from that folder. However, for most users, I recommend using package managers like **Winget** or **Chocolatey** for installation.
 
-For Windows Server users, Chocolatey is your go-to option, while Winget is perfect for those on Windows 10 or 11. 
+For [Windows]({{< ref "/tags/windows" >}}) Server users, Chocolatey is your go-to option, while Winget is perfect for those on Windows 10 or 11. 
 
 ### Setting Up the Migration
 

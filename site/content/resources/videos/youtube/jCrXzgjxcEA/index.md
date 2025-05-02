@@ -28,24 +28,23 @@ tags:
 - Azure DevOps
 - Operational Practices
 - Software Development
-- Azure Boards
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-Creating an effective Caman strategy is no small feat, especially in our current hybrid work environment. As we navigate this new landscape, the need for digital tools to share our visualisations has never been more critical. One such tool that I find invaluable is Azure DevOps. Today, I want to share my insights on how to leverage Azure DevOps to visualise your work as part of a Caman strategy.
+Creating an effective Caman strategy is no small feat, especially in our current hybrid work environment. As we navigate this new landscape, the need for digital tools to share our visualisations has never been more critical. One such tool that I find invaluable is Azure [DevOps]({{< ref "/categories/devops" >}}). Today, I want to share my insights on how to leverage [Azure DevOps]({{< ref "/tags/azure-devops" >}}) to visualise your work as part of a Caman strategy.
 
-As the owner and principal consultant at Naked Agility, I’ve spent years honing my skills as a professional Scrum trainer with Scrum.org and a Kanban trainer with Pro Kanban. My experience as a Microsoft MVP in GitHub and Azure DevOps has further deepened my understanding of these tools and their applications.
+As the owner and principal consultant at Naked Agility, I’ve spent years honing my skills as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a [Kanban]({{< ref "/categories/kanban" >}}) trainer with Pro Kanban. My experience as a Microsoft MVP in [GitHub]({{< ref "/tags/github" >}}) and Azure DevOps has further deepened my understanding of these tools and their applications.
 
 ### The Importance of Digital Tools
 
-Since the pandemic, many teams have shifted away from physical offices. Even when we are in the office, not everyone is present at the same time. This absence of a physical wall or meeting room to display our work visually has made digital tools essential. Azure Boards, in particular, provides a robust platform for managing and visualising our work.
+Since the pandemic, many teams have shifted away from physical offices. Even when we are in the office, not everyone is present at the same time. This absence of a physical wall or meeting room to display our work visually has made digital tools essential. [Azure Boards]({{< ref "/tags/azure-boards" >}}), in particular, provides a robust platform for managing and visualising our work.
 
 ### Understanding Caman Strategy
 
@@ -69,7 +68,7 @@ Now, let’s explore how to create a Caman board for a typical software team in 
 
 3. **Understanding Work Item States**: Familiarise yourself with the work item states based on the process you’ve selected—be it Agile, Scrum, or CMMI. For instance, the Scrum process typically flows from new to approved, committed, and done.
 
-4. **Managing Work Items**: As you manage your work items, remember that Azure DevOps tracks lead time and cycle time. Lead time starts when an item is added to the system, while cycle time begins when work is actively in progress.
+4. **Managing Work Items**: As you manage your work items, remember that Azure DevOps tracks [lead time]({{< ref "/tags/lead-time" >}}) and [cycle time]({{< ref "/tags/cycle-time" >}}). Lead time starts when an item is added to the system, while cycle time begins when work is actively in progress.
 
 5. **Visualising Your Workflow**: Set up your columns to reflect your workflow stages—inventory, backlog, discovery, development, validation, and done. This visual representation helps the team understand where each item stands in the process.
 

@@ -32,16 +32,11 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agnostic Agile
-- Agile Transformation
-- Organisational Agility
-- Personal
-- Pragmatic Thinking
-- Agile Values and Principles
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

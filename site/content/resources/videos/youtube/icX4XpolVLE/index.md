@@ -37,14 +37,6 @@ tags:
 - Continuous Improvement
 - Continuous Learning
 - Technical Excellence
-- Market Adaptability
-- Metrics and Learning
-- Organisational Agility
-- Organisational Culture
-- Organisational Physics
-- Sociotechnical Systems
-- Systems Thinking
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -56,14 +48,14 @@ categories:
 - Engineering Excellence
 
 ---
-When I first encountered DevOps as a developer at Merrill Lynch, I was already well-acquainted with the frustrations that led to its creation. My journey began in the early 2000s, working for what were then called New Media agencies—essentially web development companies. Back then, we were doing everything wrong. We deployed directly from our local machines and edited in production. Continuous integration was a concept that was just beginning to gain traction, but most of us were blissfully unaware of its potential. 
+When I first encountered [DevOps]({{< ref "/categories/devops" >}}) as a developer at Merrill Lynch, I was already well-acquainted with the frustrations that led to its creation. My journey began in the early 2000s, working for what were then called New Media agencies—essentially web development companies. Back then, we were doing everything wrong. We deployed directly from our local machines and edited in production. [Continuous integration]({{< ref "/tags/continuous-integration" >}}) was a concept that was just beginning to gain traction, but most of us were blissfully unaware of its potential. 
 
 ### The Early Days of Development
 
 Reflecting on those early days, I remember the chaos of failed deployments and the anxiety of overwriting critical files. It was a frustrating experience that many developers can relate to. When I transitioned to Merrill Lynch, the environment was starkly different. Access to production was heavily restricted, and we had to navigate a labyrinth of protocols just to get our code deployed. The lack of automation meant that I often found myself at the mercy of a database administrator who had no vested interest in my work. 
 
 - **Frustration with Manual Processes**: The time it took to get a script executed was maddening. I would submit a script, only to wait hours for feedback, often needing to tweak it multiple times before it finally worked. 
-- **The Need for Automation**: This experience ignited a desire to streamline our processes. We began exploring automation tools, which eventually led us to a more structured approach to application lifecycle management (ALM).
+- **The Need for Automation**: This experience ignited a desire to streamline our processes. We began exploring automation tools, which eventually led us to a more structured approach to [application lifecycle management]({{< ref "/tags/application-lifecycle-management" >}}) (ALM).
 
 ### The Evolution to DevOps
 
@@ -71,7 +63,7 @@ As I delved deeper into the ALM community, I began to see the potential for a mo
 
 - **From ALM to DevOps**: The term "DevOps" emerged as we sought to bridge the gap between development and operations. It became clear that tools alone wouldn't solve our problems; we needed to focus on people and processes as well. 
 
-One of the most impactful definitions of DevOps I encountered came from Donovan Brown, who described it as "the union of people, processes, and products to enable continuous delivery of value to our end users." This encapsulated the essence of what we were striving for.
+One of the most impactful definitions of DevOps I encountered came from Donovan Brown, who described it as "the union of people, processes, and products to enable [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to our end users." This encapsulated the essence of what we were striving for.
 
 ### The Three Challenges of DevOps
 
@@ -81,12 +73,12 @@ Through my journey, I identified three primary challenges that organisations fac
    - **Real-World Example**: The infamous case of Knight Capital Group serves as a cautionary tale. A failed deployment due to manual processes led to catastrophic financial losses, highlighting the need for a cultural shift towards automation and collaboration.
 
 2. **Toolchain Integration and Automation**: Once we establish a culture that embraces change, we must integrate our tools and automate our processes. This is where the real magic happens. 
-   - **Optimising the Pipeline**: I recall the Azure DevOps team’s journey from a lengthy deployment process to a streamlined pipeline. They reduced their deployment time from weeks to mere hours by focusing on automation and orchestration.
+   - **Optimising the Pipeline**: I recall the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team’s journey from a lengthy deployment process to a streamlined pipeline. They reduced their deployment time from weeks to mere hours by focusing on automation and orchestration.
 
-3. **Continuous Learning and Skill Development**: Implementing DevOps is not a one-time event; it requires ongoing learning and adaptation. 
+3. **[Continuous Learning]({{< ref "/tags/continuous-learning" >}}) and Skill Development**: Implementing DevOps is not a one-time event; it requires ongoing learning and adaptation. 
    - **Building Knowledge**: Just as military recruits are trained to avoid past mistakes, organisations must cultivate an environment where learning from failures is encouraged. 
 
-### The Importance of Systems Thinking
+### The Importance of [Systems Thinking]({{< ref "/tags/systems-thinking" >}})
 
 A critical aspect of DevOps is systems thinking. We must view our software and processes as part of a larger ecosystem. This means considering how changes in one area can impact the entire system. 
 
@@ -94,11 +86,11 @@ A critical aspect of DevOps is systems thinking. We must view our software and p
 
 ### Amplifying Feedback Loops
 
-Feedback loops are essential for continuous improvement. We need to ensure that we have the right telemetry in place to gather meaningful data. 
+Feedback loops are essential for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). We need to ensure that we have the right telemetry in place to gather meaningful data. 
 
 - **Maximising Feedback**: The goal is to create an environment where feedback is not only welcomed but actively sought out. This allows teams to make informed decisions based on real-time data.
 
-### Fostering a Culture of Experimentation
+### Fostering a Culture of [Experimentation]({{< ref "/tags/experimentation" >}})
 
 Finally, we must cultivate a culture of experimentation. Not every experiment will succeed, and that’s perfectly acceptable. 
 

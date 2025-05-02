@@ -46,11 +46,6 @@ tags:
 - Product Validation
 - Value Delivery
 - Continuous Improvement
-- Product Delivery
-- Empirical Process Control
-- Market Adaptability
-- Operational Practices
-- Team Performance
 resourceTypes:
 - video
 categories:
@@ -130,7 +125,7 @@ If your answer to any of these questions is "no," then your organization might n
 
 ### **Reflect and Improve**
 
-As a Scrum Trainer, I don’t enter a team and immediately start pointing out where they fall short. Instead, I use these questions to help teams reflect on their current practices and identify areas for improvement. This approach fosters a continuous improvement mindset, which is at the heart of Agile.
+As a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I don’t enter a team and immediately start pointing out where they fall short. Instead, I use these questions to help teams reflect on their current practices and identify areas for improvement. This approach fosters a [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) mindset, which is at the heart of Agile.
 
 ## **Closing the Loop: Empowering Teams for True Agility**
 

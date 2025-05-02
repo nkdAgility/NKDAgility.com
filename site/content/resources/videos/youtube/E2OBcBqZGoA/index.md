@@ -34,14 +34,6 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Value Delivery
-- Team Collaboration
-- Agile Leadership
-- Agile Philosophy
-- Business Agility
-- Sociotechnical Systems
-- Self Organisation
-- Employee Engagement
-- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

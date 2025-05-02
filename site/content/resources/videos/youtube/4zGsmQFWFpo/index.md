@@ -35,14 +35,6 @@ tags:
 - Organisational Culture
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Agile Philosophy
-- Agile Strategy
-- Continuous Improvement
-- Organisational Agility
-- Organisational Change
-- Scrum Team
-- Agile Leadership
-- Software Development
 resourceTypes:
 - video
 layout: video
@@ -55,7 +47,7 @@ In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label c
 
 ## **Why Agile Isn't the Focus**
 
-In many organizations, the term _Agile_ has become synonymous with processes and frameworks, leading to what I call "backlog barons" and "scrum stumblers." Here’s what I mean:
+In many organizations, the term _Agile_ has become synonymous with processes and frameworks, leading to what I call "backlog barons" and "[scrum]({{< ref "/categories/scrum" >}}) stumblers." Here’s what I mean:
 
 - **Backlog Barons**: Product owners who focus too heavily on managing backlogs without a deep understanding of the product.
 
@@ -73,7 +65,7 @@ The demand for Scrum Masters and Product Owners has grown exponentially, but the
 
 - **A shortage of expertise** in critical roles.
 
-- **A lack of focus on continuous learning** within these positions.
+- **A lack of focus on [continuous learning]({{< ref "/tags/continuous-learning" >}})** within these positions.
 
 - **Hiring practices** that prioritize quantity over quality.
 
@@ -83,7 +75,7 @@ Right now, many organizations are struggling with teams led by people who are no
 
 * * *
 
-## **Fixing Hiring Practices to Build Competence**
+## **Fixing Hiring Practices to Build [Competence]({{< ref "/tags/competence" >}})**
 
 To move forward, we need to rethink how we **hire and develop talent**. Here’s what we should focus on:
 
@@ -99,17 +91,17 @@ To move forward, we need to rethink how we **hire and develop talent**. Here’s
 
 - Prioritize candidates who demonstrate a willingness to **continuously improve** and **adapt** to new situations.
 
-### **3\. Promote Contextual Leadership**
+### **3\. Promote Contextual [Leadership]({{< ref "/categories/leadership" >}})**
 
 Think of leadership as two distinct roles:
 
-1. **Leading the Product**: This is about guiding product development to deliver maximum value.
+1. **Leading the Product**: This is about guiding [product development]({{< ref "/categories/product-development" >}}) to deliver maximum value.
 
-3. **Leading the People**: This involves coaching and mentoring teams to be more effective.
+3. **Leading the People**: This involves [coaching]({{< ref "/tags/coaching" >}}) and [mentoring]({{< ref "/tags/mentoring" >}}) teams to be more effective.
 
 **Personal Insight: Why Context Matters in Leadership**
 
-I’ve had the pleasure of working with some great Scrum Masters—individuals who may not have come from a software engineering background but excel in **enabling their teams to succeed**. For example, I’ve seen former **business analysts** or **testers** rise to the role of Scrum Master because they understand the team’s challenges and can offer actionable solutions.
+I’ve had the pleasure of working with some great Scrum Masters—individuals who may not have come from a software engineering background but excel in **enabling their teams to succeed**. For example, I’ve seen former **business analysts** or **testers** rise to the role of [Scrum Master]({{< ref "/tags/scrum-master" >}}) because they understand the team’s challenges and can offer actionable solutions.
 
 * * *
 
@@ -165,7 +157,7 @@ Scrum Masters should not only facilitate team activities but also embody a **com
 
 - **Embracing new challenges** with curiosity and determination.
 
-- **Demonstrating leadership** by guiding the team through continuous improvement.
+- **Demonstrating leadership** by guiding the team through [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 - **Setting the tone** for the organization, showing that learning and growth are valued.
 
@@ -185,7 +177,7 @@ One of my favorite books, _The Ideal Team Player_, delves into the **qualities a
 
 * * *
 
-## **Building a Culture of Capability and Value Delivery**
+## **Building a Culture of Capability and [Value Delivery]({{< ref "/tags/value-delivery" >}})**
 
 **Key Takeaways for Organizations**
 

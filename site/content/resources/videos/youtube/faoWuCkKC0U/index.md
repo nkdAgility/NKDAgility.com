@@ -28,8 +28,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
+tags: []
 resourceTypes:
 - video
 categories:
@@ -39,7 +38,7 @@ categories:
 ---
 ## Step Up Your Game with the PSPO-A Course
 
-Today, I am here to share some good 'reasons' and golden insights into why enrolling in a PSPO-A course could be a game-changer for you, especially if you find yourself in the vibrant world of product management and aspire to deepen your skills therein.
+Today, I am here to share some good 'reasons' and golden insights into why enrolling in a PSPO-A course could be a game-changer for you, especially if you find yourself in the vibrant world of [product management]({{< ref "/categories/product-management" >}}) and aspire to deepen your skills therein.
 
 Here we go!
 
@@ -55,9 +54,9 @@ It's all about helping you understand the nuances and being adept at implementin
 
 Furthermore, for all the Product Owners out there, this is your chance to enhance your skills phenomenally. ✨
 
-Whether you are new to Scrum or purely invested in the product matter, the PSPO-A course promises to be a treasure trove of knowledge.
+Whether you are new to [Scrum]({{< ref "/categories/scrum" >}}) or purely invested in the product matter, the PSPO-A course promises to be a treasure trove of knowledge.
 
-You will gain insights into Agile product management pieces, enabling you to steer your projects with enhanced efficiency and innovation.
+You will gain insights into [Agile product management]({{< ref "/tags/agile-product-management" >}}) pieces, enabling you to steer your projects with enhanced efficiency and innovation.
 
 The PSPO-A Course stands as a beacon of knowledge and skills enhancement.  It's crafted meticulously to foster a deep understanding and appreciation for Agile principles in product management.
 

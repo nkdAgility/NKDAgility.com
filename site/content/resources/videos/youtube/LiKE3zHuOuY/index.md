@@ -30,10 +30,11 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Scrum in a DevOps World: A Game Changer!
+## [Scrum]({{< ref "/categories/scrum" >}}) in a [DevOps]({{< ref "/categories/devops" >}}) World: A Game Changer!
 
 Ever wondered about the impact of Scrum in a DevOps environment? 🎯
 

@@ -36,10 +36,6 @@ tags:
 - Software Development
 - Metrics and Learning
 - Pragmatic Thinking
-- Agile Transformation
-- Continuous Improvement
-- Flow Efficiency
-- Project Management
 resourceTypes:
 - video
 categories:
@@ -47,7 +43,7 @@ categories:
 - Product Development
 
 ---
-### Transitioning from Traditional Project Management to Kanban
+### Transitioning from Traditional [Project Management]({{< ref "/tags/project-management" >}}) to [Kanban]({{< ref "/categories/kanban" >}})
 
 **Introduction**
 
@@ -59,13 +55,13 @@ Are you working in a traditional project management environment and feeling daun
 
 **Kanban: A Gentle Transition**
 
-Unlike Scrum, which can require significant changes to your workflow, Kanban allows you to start from where you are. Here's why Kanban is a gentle yet powerful approach:
+Unlike [Scrum]({{< ref "/categories/scrum" >}}), which can require significant changes to your workflow, Kanban allows you to start from where you are. Here's why Kanban is a gentle yet powerful approach:
 
 - **Start Where You Are**: Kanban doesn’t demand immediate changes to your existing processes. Instead, it helps you document and understand your current workflow.
 
 - **Observational Approach**: Kanban is observational, meaning it helps you monitor your existing processes and gather data to identify areas for improvement.
 
-- **Gradual Improvement**: By observing and understanding your workflow, you can make incremental changes that lead to continuous improvement over time.
+- **Gradual Improvement**: By observing and understanding your workflow, you can make incremental changes that lead to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) over time.
 
 * * *
 
@@ -91,7 +87,7 @@ Here's a step-by-step guide to implementing Kanban in a traditional project mana
 
 1. **Collect Metrics**:
 
-- **Gather Data**: Use tools like JIRA or Azure DevOps to collect data on start and end dates, cycle time, and other relevant metrics.
+- **Gather Data**: Use tools like JIRA or Azure [DevOps]({{< ref "/categories/devops" >}}) to collect data on start and end dates, [cycle time]({{< ref "/tags/cycle-time" >}}), and other relevant metrics.
 
 - **Visualize Data**: Create visual representations of your workflow using cycle time scatterplots and other graphs.
 

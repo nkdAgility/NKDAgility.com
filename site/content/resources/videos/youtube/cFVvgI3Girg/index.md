@@ -28,13 +28,6 @@ tags:
 - Agile Product Management
 - Agile Leadership
 - Organisational Agility
-- Agile Transformation
-- Pragmatic Thinking
-- Software Development
-- Organisational Culture
-- Personal
-- Product Owner
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,7 +39,7 @@ categories:
 - Product Development
 
 ---
-As I reflect on my journey in the world of Agile, I often find myself considering the natural evolution of roles within our organisations. One role that stands out in this evolution is that of the Product Owner, particularly as they transition into more significant leadership positions. This shift is not just a change in title; it represents a deeper understanding of product management and a broader organisational perspective.
+As I reflect on my journey in the world of Agile, I often find myself considering the natural evolution of roles within our organisations. One role that stands out in this evolution is that of the [Product Owner]({{< ref "/tags/product-owner" >}}), particularly as they transition into more significant [leadership]({{< ref "/categories/leadership" >}}) positions. This shift is not just a change in title; it represents a deeper understanding of [product management]({{< ref "/categories/product-management" >}}) and a broader organisational perspective.
 
 ### The Evolution of the Product Owner
 
@@ -55,7 +48,7 @@ As Product Owners gain experience and respect within their organisations, they o
 - **Increased Accountability**: With experience comes the ability to handle more responsibility. Product Owners are not just managing backlogs; they are becoming integral to the strategic direction of their products.
 - **Leadership Roles**: Many Product Owners evolve into systemic leaders. They are not just focused on their product but are also influencing the culture and systems within their teams and organisations.
 
-A prime example of this evolution is Brian Harry, the Product Unit Manager of the Azure DevOps team at Microsoft. Brian oversees a vast team of around 650 to 700 people. His role transcends traditional product ownership; he is the budget holder, the strategist, and the final decision-maker. This level of responsibility illustrates how a Product Owner can embody leadership within an organisation.
+A prime example of this evolution is Brian Harry, the Product Unit Manager of the Azure [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft. Brian oversees a vast team of around 650 to 700 people. His role transcends traditional product ownership; he is the budget holder, the strategist, and the final decision-maker. This level of responsibility illustrates how a Product Owner can embody leadership within an organisation.
 
 ### Creating a Thriving Culture
 
@@ -66,8 +59,8 @@ One of the most significant aspects of leadership is the ability to create an en
 
 ### The Next Step in Your Journey
 
-If you’re an experienced Product Owner, consider how you can embrace this evolution. The Professional Agile Leadership Essentials course is an excellent opportunity to deepen your understanding of leadership within an Agile context. It equips you with the tools to navigate this transition effectively.
+If you’re an experienced Product Owner, consider how you can embrace this evolution. The Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials course is an excellent opportunity to deepen your understanding of leadership within an Agile context. It equips you with the tools to navigate this transition effectively.
 
 In conclusion, the journey from Product Owner to a systemic leader is a natural progression that enhances both personal and organisational growth. By embracing this evolution, you can contribute to a culture of accountability, innovation, and collaboration within your organisation.
 
-If you found this discussion valuable, I encourage you to engage with me. I always welcome comments and conversations about Agile, Scrum, or DevOps. Feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can foster leadership and agility together!
+If you found this discussion valuable, I encourage you to engage with me. I always welcome comments and conversations about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or DevOps. Feel free to book a coffee chat with me through Naked Agility. Let’s explore how we can foster leadership and agility together!

@@ -30,7 +30,8 @@ tags: []
 resourceTypes:
 - video
 layout: video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Momentum**
@@ -43,7 +44,7 @@ When we hear the word 'momentum,' what comes to mind?
 
 For me, it's simple - momentum equals movement. 🚀
 
-Momentum is an irresistible force in product delivery, without a doubt.
+Momentum is an irresistible force in [product delivery]({{< ref "/tags/product-delivery" >}}), without a doubt.
 
 For a moment, imagine a ship at full speed; it's moving in a particular direction with such force that stopping it would take miles. That's momentum! 💫
 
@@ -61,7 +62,7 @@ This movement, this momentum, is what can make the difference between just float
 
 So let's keep that momentum going, carry everyone along, and transform your organisation together!
 
-Want to build momentum in your team and master Agile and Scrum methodologies and keep the momentum going?
+Want to build momentum in your team and master Agile and [Scrum]({{< ref "/categories/scrum" >}}) methodologies and keep the momentum going?
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
@@ -75,7 +76,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:       Momentum, Team Movement, Direction, Agile Leadership
+Keywords:       Momentum, Team Movement, Direction, Agile [Leadership]({{< ref "/categories/leadership" >}})
 
 Hashtags:        #Momentum, #TeamMovement, #AgileLeadership, #Direction
 

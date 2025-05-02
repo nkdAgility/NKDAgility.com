@@ -16,11 +16,13 @@ aliases:
 - /resources/gEJhbET3nqs
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
 - /resources/videos/professional-agile-leadership-essentials-overview
+- /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
 aliasesArchive:
 - /resources/videos/professional-agile-leadership-essentials-overview
 - /resources/professional-agile-leadership-essentials-overview
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
 - unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
+- /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
 preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
@@ -30,15 +32,6 @@ tags:
 - Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
-- Agile Frameworks
-- Business Agility
-- Social Technologies
-- Software Development
-- Team Collaboration
-- Enterprise Agility
-- Organisational Culture
-- Team Performance
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -51,14 +44,14 @@ categories:
 - Scrum
 
 ---
-As a professional Scrum trainer and Microsoft MVP, I often find myself reflecting on the transformative power of agile methodologies. Today, I want to share my insights on the Professional Agile Leadership Essentials workshop offered by Scrum.org, which I believe is crucial for anyone looking to enhance their leadership skills in an agile environment.
+As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and Microsoft MVP, I often find myself reflecting on the transformative power of agile methodologies. Today, I want to share my insights on the Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) Essentials workshop offered by Scrum.org, which I believe is crucial for anyone looking to enhance their leadership skills in an agile environment.
 
 ### Understanding the Role of Agile Leaders
 
 In my experience, the role of leaders in an agile organisation is fundamentally different from traditional management styles. This workshop is designed to bridge that gap, providing a two-day, hands-on experience that combines instruction with practical exercises. Here’s what you can expect:
 
 - **Foundational Knowledge**: You’ll gain a solid understanding of how to support and guide agile teams effectively. This is not just about managing; it’s about enabling your teams to thrive.
-- **Cultural and Behavioural Change**: Agile transformation is as much about mindset as it is about processes. Leaders must champion the cultural shifts necessary for agile success, and this workshop equips you with the tools to do just that.
+- **Cultural and Behavioural Change**: [Agile transformation]({{< ref "/tags/agile-transformation" >}}) is as much about mindset as it is about processes. Leaders must champion the cultural shifts necessary for agile success, and this workshop equips you with the tools to do just that.
 
 ### The Importance of Alignment
 
@@ -69,9 +62,9 @@ One of the key takeaways from the workshop is the importance of alignment within
 
 ### Practical Skills for Real-World Application
 
-The Professional Agile Leadership Essentials workshop is not just theoretical; it’s packed with practical skills that you can apply immediately. Here’s what you’ll learn:
+The Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials workshop is not just theoretical; it’s packed with practical skills that you can apply immediately. Here’s what you’ll learn:
 
-- **Guiding and Coaching**: You’ll develop the skills necessary to guide and coach agile teams, helping them to remove impediments and improve their performance.
+- **Guiding and [Coaching]({{< ref "/tags/coaching" >}})**: You’ll develop the skills necessary to guide and coach agile teams, helping them to remove impediments and improve their performance.
 - **Measuring Success**: Understanding how to measure the benefits and impacts of agility in your organisation is crucial. By the end of the workshop, you’ll be equipped to qualify the benefits of agility through concrete measures.
 
 ### Why Agility Matters

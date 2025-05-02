@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change
@@ -40,9 +41,9 @@ In my recent ponderings, I found myself entrenched in an intricate query. At fir
 
 As I thought more about this, I realised that the answer might not be confined to just one aspect.
 
-Come, journey with me as we venture through this interesting inquiry guided by the wisdom of the lean principle.  🚀
+Come, journey with me as we venture through this interesting inquiry guided by the wisdom of the [lean]({{< ref "/categories/lean" >}}) principle.  🚀
 
-## Scaling New Heights with the Lean Principle
+## [Scaling]({{< ref "/tags/scaling" >}}) New Heights with the Lean Principle
 
 As I pinpointed a singular outcome, I realised, "Man, I'm struggling because can it be one thing, right?"
 
@@ -64,7 +65,7 @@ However, fostering this transformation isn't a walk in the park. It is indeed a 
 
 The comfort zone of existing practices often serves as a barrier, preventing individuals from stepping out and embracing the new, the unfamiliar.
 
-## Cultivating a Culture of Experimentation and Evolution
+## Cultivating a Culture of [Experimentation]({{< ref "/tags/experimentation" >}}) and Evolution
 
 Despite the hurdles, the prospect of moulding a future where individuals are ready to try new things and experiment, knowing that not every idea will work out the way they want, is exhilarating.   🌱
 
@@ -72,7 +73,7 @@ When you witness people coming on board, willing to venture into the unknown, it
 
 Some systemic change to the system enables something some desire that the business is looking for.
 
-## Transformation with Our Agile and Scrum Courses
+## Transformation with Our Agile and [Scrum]({{< ref "/categories/scrum" >}}) Courses
 
 As we stand at the threshold of significant transformations, I invite you to deepen your understanding and skills in Agile and Scrum. Our expertly crafted courses are your gateway to nurturing an adaptable mindset, ready to evolve with the dynamic shifts in the business landscape. 🌟
 

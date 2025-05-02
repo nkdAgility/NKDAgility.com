@@ -37,12 +37,6 @@ tags:
 - Agile Planning
 - Pragmatic Thinking
 - Team Performance
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Professional Scrum
-- Working Software
-- Product Delivery
 resourceTypes:
 - video
 categories:
@@ -50,7 +44,7 @@ categories:
 - Scrum
 
 ---
-## 🚀 Demystifying the Sprint Review Workshop 
+## 🚀 Demystifying the [Sprint Review]({{< ref "/tags/sprint-review" >}}) Workshop 
 
 In the vibrant realm of Agile development, the Sprint Review is a pivotal milestone, directing teams towards market relevance and collaborative progress.  
 
@@ -58,7 +52,7 @@ Let us explore why this workshop isn't merely advantageous but essential for you
 
 ## Why Sprint Reviews Matter 
 
-The Sprint Review is where the trajectory of product development intersects with tangible application, affording a unique chance for teams to harmonise their endeavours with stakeholder expectations. Behold the essence of its advantages: 
+The Sprint Review is where the trajectory of [product development]({{< ref "/categories/product-development" >}}) intersects with tangible application, affording a unique chance for teams to harmonise their endeavours with stakeholder expectations. Behold the essence of its advantages: 
 
 - 👥 **Stakeholder Engagement:** These gatherings usher in your most vital contributors – the stakeholders. Within this forum, their input can pivotally mould the product's trajectory. 
 

@@ -43,14 +43,6 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Team Motivation
-- Software Development
-- Scrum Team
-- Agile Strategy
-- Coaching
-- Continuous Improvement
-- Self Organisation
-- Sociotechnical Systems
-- Mentoring
 resourceTypes:
 - video
 categories:
@@ -59,11 +51,11 @@ categories:
 - Scrum
 
 ---
-## The Agile Landscape: A Guide to Effective Coaching and Leadership 
+## The Agile Landscape: A Guide to Effective [Coaching]({{< ref "/tags/coaching" >}}) and [Leadership]({{< ref "/categories/leadership" >}}) 
 
-Agile methodologies have transformed the landscape of project management and team dynamics, emphasising adaptability, collaboration, and continuous improvement.  
+Agile methodologies have transformed the landscape of [project management]({{< ref "/tags/project-management" >}}) and team dynamics, emphasising adaptability, collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).  
 
-In this blog, we'll explore the nuanced roles of Agile coaches and Scrum Masters, offering insights and practical advice for those looking to elevate their teams to new heights of efficiency and innovation. 🚀 
+In this blog, we'll explore the nuanced roles of Agile coaches and [Scrum]({{< ref "/categories/scrum" >}}) Masters, offering insights and practical advice for those looking to elevate their teams to new heights of efficiency and innovation. 🚀 
 
 ## The Role of Agile Coaching: Understanding Its Essence 🌟  
 
@@ -75,13 +67,13 @@ The coach's role involves: 
 
 - **Fostering Collaboration:** Encouraging a culture of openness, mutual respect, and collective problem-solving. 
 
-## The Scrum Master’s Journey: Leadership Without Authority 🛤️  
+## The [Scrum Master]({{< ref "/tags/scrum-master" >}})’s Journey: Leadership Without Authority 🛤️  
 
 A Scrum Master, while lacking formal authority, wields significant influence through: 
 
 - **Facilitation and Support:** Providing teams with the right environment, tools, and guidance. 
 
-- **Creating Synergy:** Building a cohesive unit that works seamlessly to achieve common goals. 
+- **Creating Synergy:** Building a cohesive unit that works seamlessly to achieve [common goals]({{< ref "/tags/common-goals" >}}). 
 
 ## The Role of Respect and Influence in Agile Coaching 👥  
 
@@ -113,7 +105,7 @@ Grasping the context in which teams operate is crucial for effective coaching: 
 
 - **Comprehending Business and Technical Environments:** A deep understanding of the organisation’s objectives and the team’s technical challenges. 
 
-- **Adapting to Organisational Culture:** Aligning coaching strategies with the broader organisational ethos and values. 
+- **Adapting to [Organisational Culture]({{< ref "/tags/organisational-culture" >}}):** Aligning coaching strategies with the broader organisational ethos and values. 
 
 ## The Leadership without Authority Model: A Scrum Master’s Approach 🚦  
 
@@ -127,7 +119,7 @@ The Impact of Agile Coaching: Transforming Teams 🚀  
 
 Agile coaching significantly impacts teams by: 
 
-- **Enhancing Team Collaboration:** Encouraging a culture where collective problem-solving flourishes. 
+- **Enhancing [Team Collaboration]({{< ref "/tags/team-collaboration" >}}):** Encouraging a culture where collective problem-solving flourishes. 
 
 - **Empowering Decision-Making:** Teaching teams to make informed, confident choices. 
 

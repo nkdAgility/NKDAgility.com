@@ -32,17 +32,13 @@ tags:
 - Continuous Improvement
 - Operational Practices
 - Lean Principles
-- Agile Frameworks
-- Continuous Learning
-- Metrics and Learning
-- Flow Efficiency
 resourceTypes:
 - video
 categories:
 - Product Development
 
 ---
-### Demystifying Kanban: A Strategy for Continuous Improvement
+### Demystifying [Kanban]({{< ref "/categories/kanban" >}}): A Strategy for [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
 **Introduction**
 
@@ -74,7 +70,7 @@ Kanban works by bringing rigor, metrics, and analysis to your workflow, allowing
 
 1. **Visualize Your Work**:
 
-- **Create a Board**: Use a physical board or digital tools like JIRA or DevOps to visualize your workflow.
+- **Create a Board**: Use a physical board or digital tools like JIRA or [DevOps]({{< ref "/categories/devops" >}}) to visualize your workflow.
 
 - **Key Insight**: A board alone is not Kanban. It’s just a tool to help you visualize and manage work.
 

@@ -43,13 +43,6 @@ tags:
 - Sociotechnical Systems
 - Business Agility
 - Beta Codex
-- Enterprise Agility
-- Agile Frameworks
-- Agile Leadership
-- Agile Values and Principles
-- Continuous Improvement
-- Digital Transformation
-- Strategic Goals
 resourceTypes:
 - video
 categories:
@@ -74,7 +67,7 @@ In the quest for organisational evolution, two distinct paths to adopting Agile 
 
 ## Making the Agile Leap: A Guide for Traditional Organisations 
 
-For traditional organisations looking to soar rather than stumble in today's market, 'Making the Agile Leap' is a vital expedition. It's about arming yourself with the knowledge and tools necessary to navigate the terrain of change. 🧭🛠️ This leap isn't a mere step – it's a vault over the chasm of obsolete practices into a realm of continuous improvement and adaptation. It demands an honest assessment of readiness, a brave embrace of risk, and a staunch commitment to move beyond the familiar comfort of established tools and methodologies. 🚀🎯 
+For traditional organisations looking to soar rather than stumble in today's market, 'Making the Agile Leap' is a vital expedition. It's about arming yourself with the knowledge and tools necessary to navigate the terrain of change. 🧭🛠️ This leap isn't a mere step – it's a vault over the chasm of obsolete practices into a realm of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and adaptation. It demands an honest assessment of readiness, a brave embrace of risk, and a staunch commitment to move beyond the familiar comfort of established tools and methodologies. 🚀🎯 
 
 -  **Assess Your Readiness:** Are you truly prepared to dismantle existing structures for the sake of agility? 🤔 
 
@@ -98,7 +91,7 @@ Here's a few points to always keep in mind: 
 
 ## The Outcome of Agile Adoption 
 
-The fruits of Agile adoption are plentiful, but they require nurturing through diligent practice and an unwavering commitment to change. 🌳🍎 The outcome of this adoption is not just an incremental improvement but a comprehensive reinvention of organisational capabilities. In this final section, we'll explore the vibrant tapestry of benefits that Agile organisations weave – from increased responsiveness to the allure of top talent to the solidification of a sustainable competitive advantage. This is the new paradigm, where agility equals vitality and market leadership. 🌱🏆 
+The fruits of Agile adoption are plentiful, but they require nurturing through diligent practice and an unwavering commitment to change. 🌳🍎 The outcome of this adoption is not just an incremental improvement but a comprehensive reinvention of organisational capabilities. In this final section, we'll explore the vibrant tapestry of benefits that Agile organisations weave – from increased responsiveness to the allure of top talent to the solidification of a sustainable competitive advantage. This is the new paradigm, where agility equals vitality and market [leadership]({{< ref "/categories/leadership" >}}). 🌱🏆 
 
 Organisations that adopt Agile wholeheartedly can expect: 
 

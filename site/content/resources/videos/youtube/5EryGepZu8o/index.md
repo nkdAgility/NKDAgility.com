@@ -36,13 +36,6 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Software Development
-- Agile Frameworks
-- Complexity Thinking
-- Pragmatic Thinking
-- Value Delivery
-- Organisational Agility
-- Product Delivery
-- Team Performance
 resourceTypes:
 - video
 layout: video
@@ -50,17 +43,17 @@ categories:
 - Product Development
 
 ---
-If you could teach just one thing about Scrum, what would it be?
+If you could teach just one thing about [Scrum]({{< ref "/categories/scrum" >}}), what would it be?
 
 I wouldn’t teach anything about **Scrum** if I only had one thing to teach, I would focus on the underlying principles that underpin scrum. **Empiricism** and navigating complexity effectively.
 
 ## Empiricism.
 
-When I’m delivering the [APS course (Applying Professional Scrum)](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) or talking to clients about how to effectively develop products in complex environments, I spend a great deal of time talking about the concept of **empiricism**, also known as **Empirical Process Control**.
+When I’m delivering the [APS course (Applying Professional Scrum)](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) or talking to clients about how to effectively develop products in complex environments, I spend a great deal of time talking about the concept of **empiricism**, also known as **[Empirical Process Control]({{< ref "/tags/empirical-process-control" >}})**.
 
 Empiricism is built on three (3) pillars:
 
-- Transparency.
+- [Transparency]({{< ref "/tags/transparency" >}}).
 
 - Inspection
 
@@ -100,9 +93,9 @@ Every element of the work is transparent and visible. Every element of our proce
 
 We frequently inspect our work.
 
-In scrum, we have a **daily scrum** where the team inspect what has happened in the past 24 hours, discuss any impediments or problems that stand in the way, and articulate what is planned for the next 24 hours.
+In scrum, we have a **[daily scrum]({{< ref "/tags/daily-scrum" >}})** where the team inspect what has happened in the past 24 hours, discuss any impediments or problems that stand in the way, and articulate what is planned for the next 24 hours.
 
-We inspect the work to ensure that we have met the **definition of done**. The criteria that must be met for the work to pass from one phase of development to another, or to be delivered to a client.
+We inspect the work to ensure that we have met the **[definition of done]({{< ref "/tags/definition-of-done" >}})**. The criteria that must be met for the work to pass from one phase of development to another, or to be delivered to a client.
 
 Our clients and product stakeholders inspect our working product near the end of each sprint and provide feedback and reviews. We also gather data through the sprint and inspect what the data is telling us about our processes, systems, and capabilities.
 
@@ -126,7 +119,7 @@ These three things are the core elements of successfully navigating complexity a
 
 A key to understanding why agile is so successful at **navigating complexity**, is to understand what **complexity** is and why the traditional approaches don’t work in a complex space.
 
-Traditional **project management** works just fine in a simple or complicated space because we have built the product hundreds of times before, and we have solved the problem some time ago, so we know that following a simple formula or pattern will deliver the outcome that we desire.
+Traditional **[project management]({{< ref "/tags/project-management" >}})** works just fine in a simple or complicated space because we have built the product hundreds of times before, and we have solved the problem some time ago, so we know that following a simple formula or pattern will deliver the outcome that we desire.
 
 It’s known, tested, and proven.
 
@@ -146,7 +139,7 @@ So, for me, this would be the primary skillset that a team need to acquire and d
 
 Scrum is an agile framework that enables teams to do this, but it doesn’t solve the problem for you. In fact, scrum tends to reveal problems rather than solve them. It makes problems transparent and visible so that you can solve them and move forward.
 
-If there was only one thing I could teach a product development team in a complex space, it would be this.
+If there was only one thing I could teach a [product development]({{< ref "/categories/product-development" >}}) team in a complex space, it would be this.
 
 ## About NKD Agility
 

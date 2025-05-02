@@ -43,18 +43,13 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-- Complexity Thinking
-- Organisational Physics
-- Beta Codex
-- Empirical Process Control
-- Sociotechnical Systems
 categories:
 - Leadership
 - Technical Leadership
 preview: image-15-5-4.png
 
 ---
-There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
+There is no such thing as an [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), [Digital Transformation]({{< ref "/tags/digital-transformation" >}}), [DevOps]({{< ref "/categories/devops" >}}) Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
 
 Instead, you have to grow, nurture, and prune agility as it grows organically inside your organization and eventually, you too will be able to take advantage of business opportunities as they arise in the ever-changing marketplace. This is continuous change…
 
@@ -77,7 +72,7 @@ NOTE: Prefer to watch instead? I presented this post as a talk at Agile in Niger
 
 Due to the long timelines, it is easy to see the change that happens over a long period of time as a transformation, as a caterpillar transforms into the butterfly. The idea of a [defigned start and end state is an illusion that lures us from the realities](https://nkdagility.com/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens/) of how things successfully change; through a continuous set of experiments. The successful experiments succeed and do well in a niche, the unsuccessful ones fail and die. The more experiments that you run, the more likely you are to find something that fits a niche better or opens up a new niche.
 
-During the Industrial Revolution, when traditional management practices were developed, the ebb and flow of niches was a slow and deliberate endeavour, usually driven by a single educated visionary. The pace of change was much slower, both communication systems and education systems were weak, and niches that companies found were long-lived, often tens if not hundreds of years; they only needed to adapt once, and then optimise for the current state. The change was no longer necessary, and the competition was weak and slow to disrupt markets. A company, once established, could own a niche, seemingly forever. Bureaucracy was born as a way to solidify the newly found market and optimise the product delivery with best practices. We could own that space!
+During the Industrial Revolution, when traditional management practices were developed, the ebb and flow of niches was a slow and deliberate endeavour, usually driven by a single educated visionary. The pace of change was much slower, both communication systems and education systems were weak, and niches that companies found were long-lived, often tens if not hundreds of years; they only needed to adapt once, and then optimise for the current state. The change was no longer necessary, and the competition was weak and slow to disrupt markets. A company, once established, could own a niche, seemingly forever. Bureaucracy was born as a way to solidify the newly found market and optimise the [product delivery]({{< ref "/tags/product-delivery" >}}) with best practices. We could own that space!
 
 <figure>
 
@@ -109,7 +104,7 @@ As yourself, [would your organisation would have survived COVID](https://nkdagil
 
 </figure>
 
-I often hear "if it ain't broke, don't fix it", but this is a phrase of the past. Today the pace of change in the world means that we need a new mantra, one not steeped in traditional management practices or weighed down by the baggage of the past. We need to embrace change, and that means accepting a higher degree of risk, [mitigated by a higher degree of competence](https://nkdagility.com/blog/luddites-have-no-place-in-the-modern-organisation/). Evolution is about embracing that risk and learning from its failures. Success is the result of continuous experimentation at a sustainable pace that is able to take advantage of current business opportunities as they arise.
+I often hear "if it ain't broke, don't fix it", but this is a phrase of the past. Today the pace of change in the world means that we need a new mantra, one not steeped in traditional management practices or weighed down by the baggage of the past. We need to embrace change, and that means accepting a higher degree of risk, [mitigated by a higher degree of competence](https://nkdagility.com/blog/luddites-have-no-place-in-the-modern-organisation/). Evolution is about embracing that risk and learning from its failures. Success is the result of continuous [experimentation]({{< ref "/tags/experimentation" >}}) at a sustainable pace that is able to take advantage of current business opportunities as they arise.
 
 **This is the Inevitability of change.**
 
@@ -132,7 +127,7 @@ Orienteering towards a goal with continuous refinement of direction as impedimen
 
 In Orienteering, like with any corporate endeavour, you should have some kind of vision or intended goal in mind. This is your current destination. You then use a compass and a map to figure out which direction, next steps, you need to take to get closer to that destination. As you take each step you may encounter obstacles or impediments that challenge you, and that you have to figure a way around. You may need to take a large detour in order to traverse an obstacle or impediment, so you need to reassess your next steps by consulting the map and compass.
 
-The bit where I feel that orienteering as a sport does not fit is that it generally has a fixed route with prescribed checkpoints along the way. This is a little more analogous to traditional project management rather than modern practices. However, orienteering in its original military context would have been a lot more fluid, with changing tactical realities as you progress towards your vision, and this is exactly what we are looking for. Your end goal will evolve over time as the business conditions change and you may have to reassess your tactical direction and doctrine as you discover more.
+The bit where I feel that orienteering as a sport does not fit is that it generally has a fixed route with prescribed checkpoints along the way. This is a little more analogous to traditional [project management]({{< ref "/tags/project-management" >}}) rather than modern practices. However, orienteering in its original military context would have been a lot more fluid, with changing tactical realities as you progress towards your vision, and this is exactly what we are looking for. Your end goal will evolve over time as the business conditions change and you may have to reassess your tactical direction and doctrine as you discover more.
 
 <figure>
 
@@ -149,7 +144,7 @@ Change is the only constant in life. Ones ability to adapt to those changes will
 
 Always remember that this is your business, your organisation, your people, and their livelihood. You are accountable for your organisation's success or failure. In order to change it effectively, you need to create leaders inside your organisation that understand these modern management techniques and know why we need to change.
 
-To do that you, not some external coach or consultant, need to be in the driver's seat, making the decisions that are necessary to evolve your organisation. External people can help you learn these new techniques and coach you and your leadership team towards dismantling the bureaucracy that has built up over many years. They can help facilitate new interactions and fuel engagement and enthusiasm for the new practices and techniques, but you need to own them. You as a leader need to embody evolutionary practices with your organisation and foster it internally.
+To do that you, not some external coach or consultant, need to be in the driver's seat, making the decisions that are necessary to evolve your organisation. External people can help you learn these new techniques and coach you and your [leadership]({{< ref "/categories/leadership" >}}) team towards dismantling the bureaucracy that has built up over many years. They can help facilitate new interactions and fuel engagement and enthusiasm for the new practices and techniques, but you need to own them. You as a leader need to embody evolutionary practices with your organisation and foster it internally.
 
 While there are some well-known practices, like self-organising teams, that help almost everyone, many of the practices you create will be your own. The difficulty is creating an environment within your organisation where these new techniques don't become the new bureaucracy, but instead create a continuous state of evolving, refining, improving, adapting, enhancing, and changing processes, practices, and tools that help you succeed.
 
@@ -178,7 +173,7 @@ I mentioned that there are some common known checkpoints along the way that that
 
 - **Are Teams delivering a working product to real users every iteration including the first and gathering feedback?**
 
-- **Is there a clear product vision laying out the strategic goals and do all team members understand how they contribute?**
+- **Is there a clear product vision laying out the [strategic goals]({{< ref "/tags/strategic-goals" >}}) and do all team members understand how they contribute?**
 
 - **Is feedback from real users turned into concrete work items for delivery teams on timelines shorter than 1 month?**
 

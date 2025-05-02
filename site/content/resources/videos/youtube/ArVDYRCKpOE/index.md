@@ -31,7 +31,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Navigating its Limits in Agile Work Environments 
@@ -62,8 +63,8 @@ The key is to strike a balance: 
 
 - **Hire Experts:** For crucial or high-skill tasks, rely on proven expertise. 💼 
 
-- **Encourage Coaching:** Experts should mentor those who are less experienced, creating a learning culture. 📚 
+- **Encourage [Coaching]({{< ref "/tags/coaching" >}}):** Experts should mentor those who are less experienced, creating a learning culture. 📚 
 
-- **Embrace Continuous Learning:** Encourage a mindset where team members are always expanding their skills. 📈 
+- **Embrace [Continuous Learning]({{< ref "/tags/continuous-learning" >}}):** Encourage a mindset where team members are always expanding their skills. 📈 
 
 In summary, "Fake it till you make it" should be used with caution. It's a tool for building confidence and learning, not a substitute for real expertise. In our Agile teams, let’s foster environments where learning is ongoing and expertise is valued.

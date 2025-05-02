@@ -36,15 +36,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Common Goals
-- Agile Frameworks
-- Agile Product Management
-- Product Owner
-- Professional Scrum
-- Working Software
-- Agile Strategy
-- Agile Transformation
-- Decision Making
-- Social Technologies
 resourceTypes:
 - video
 categories:
@@ -54,7 +45,7 @@ categories:
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  
 
-The Sprint goal is the North Star for any Scrum team - a beacon that guides the team’s efforts throughout the Sprint. But the million-dollar question remains: How does one conjure this all-important goal?  
+The Sprint goal is the North Star for any [Scrum]({{< ref "/categories/scrum" >}}) team - a beacon that guides the team’s efforts throughout the Sprint. But the million-dollar question remains: How does one conjure this all-important goal?  
 
 If you peek into the Scrum Guide, you might be led to believe it’s a mystical process, but let’s demystify it together. 
 
@@ -62,9 +53,9 @@ If you peek into the Scrum Guide, you might be led to believe it’s a mystical 
 
 The Sprint goal is a concise statement of what the team plans to achieve during the upcoming Sprint. It acts as a cohesive element, binding the team with a shared objective. 
 
-The Pre-Planning: Forecasting the Sprint Horizon 🌅  
+The Pre-Planning: [Forecasting]({{< ref "/tags/forecasting" >}}) the Sprint Horizon 🌅  
 
-If you're stepping into Sprint planning without a clear idea of your Sprint goal, you’re akin to a ship sailing without a compass. The savvy approach? Start the conversation early. During your Sprint review, discuss potential goals with stakeholders. This way, when planning begins, you're not blind-sided but rather have a direction in mind. 
+If you're stepping into Sprint planning without a clear idea of your Sprint goal, you’re akin to a ship sailing without a compass. The savvy approach? Start the conversation early. During your [Sprint review]({{< ref "/tags/sprint-review" >}}), discuss potential goals with stakeholders. This way, when planning begins, you're not blind-sided but rather have a direction in mind. 
 
 - **Stakeholder Sync-up**: Engage with your stakeholders to gauge their expectations and align them with the team’s trajectory. 
 
@@ -76,7 +67,7 @@ If you're stepping into Sprint planning without a clear idea of your Sprint goal
 
 With the groundwork laid, Sprint planning is where the Sprint goal starts taking shape.  Within the heart of Sprint planning lies the golden moment where the Sprint goal is forged. It's not just about picking a goal out of the backlog; it’s about shaping an objective that resonates with every member.  
 
-The product owner, with their vision, and the developers, with their technical prowess, must dance a duet that balances aspirations with capabilities. Together, they sketch out a goal that’s not just a to-do list but a strategic move that propels them forward. 
+The [product owner]({{< ref "/tags/product-owner" >}}), with their vision, and the developers, with their technical prowess, must dance a duet that balances aspirations with capabilities. Together, they sketch out a goal that’s not just a to-do list but a strategic move that propels them forward. 
 
 - **Collaborative Crafting**: The product owner and development team come together to articulate the goal. It’s about negotiation, discussion, and finally, agreement. 
 

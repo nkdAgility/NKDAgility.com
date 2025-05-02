@@ -35,15 +35,13 @@ tags:
 - Competence
 - Sociotechnical Systems
 - Organisational Agility
-- Organisational Culture
-- Organisational Physics
-- Organisational Change
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Hierarchies of Competence Vs Control: Insights & Relevance
+## Hierarchies of [Competence]({{< ref "/tags/competence" >}}) Vs Control: Insights & Relevance
 
 Have you ever wondered about the difference between hierarchies of competence and control?
 
@@ -61,7 +59,7 @@ Basically, it's an It's a system where everyone's told what to do.
 
 This means decision-making is a long process of escalation, often leading to delayed and possibly inefficient responses. 📚
 
-On the other hand, we have the _Hierarchy of Competence_, which is a model where leadership changes based on the task at hand and the competence required for it. This is all about flipping the traditional hierarchy on its head.
+On the other hand, we have the _Hierarchy of Competence_, which is a model where [leadership]({{< ref "/categories/leadership" >}}) changes based on the task at hand and the competence required for it. This is all about flipping the traditional hierarchy on its head.
 
 In this model, leaders emerge based on their understanding or ability within a particular context. It's a hierarchy created based on competence, allowing for dynamic changes in leadership as per the task at hand.
 

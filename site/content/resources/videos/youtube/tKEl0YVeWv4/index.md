@@ -35,10 +35,6 @@ tags:
 - Engineering Practices
 - Pragmatic Thinking
 - Product Delivery
-- Continuous Integration
-- Test Automation
-- Continuous Delivery
-- Market Adaptability
 resourceTypes:
 - video
 sitemap:

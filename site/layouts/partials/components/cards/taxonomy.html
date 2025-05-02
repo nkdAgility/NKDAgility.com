@@ -26,13 +26,7 @@
   <ul class="list-group list-group-flush">
     {{- range $item := first 5 $pagesToDisplay }}
       <li class="list-group-item d-flex align-items-center">
-        {{ if eq .Params.ResourceType "videos" }}
-          <i class="fa-solid fa-video pe-1"></i>
-        {{ else if eq .Params.ResourceType "blog" }}
-          <i class="fa-solid fa-newspaper pe-1"></i>
-        {{ else }}
-          <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
-        {{ end }}
+        {{- partial "components/resources/resource-icon.html" . }}
         {{ if .Draft }}
           <i class="fa-brands fa-firstdraft pe-1"></i>
         {{ end }}
@@ -51,7 +45,7 @@
   </ul>
   {{- if $context.Page.RelPermalink }}
     <div class="card-footer border-transparent bg-white p-3 text-end border-0">
-      <a href="{{- .Page.RelPermalink }}" class="btn btn-nkdagility p-2" title="More information on {{- .Page.Title }}">See all {{ $count }} <i class="fa-solid fa-arrow-right"></i></a>
+      <a href="{{- $context.Page.RelPermalink }}" class="btn btn-nkdagility p-2" title="More information on {{- $context.Page.Title }}">See all {{ $count }} <i class="fa-solid fa-arrow-right"></i></a>
     </div>
   {{- end }}
 </div>

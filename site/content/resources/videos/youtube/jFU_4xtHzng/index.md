@@ -31,8 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- Continuous Improvement
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
@@ -49,11 +47,11 @@ So, let's dive right in! 🚀
 
 The idea that "four half days is a better format than two full days" for training courses revolves around how humans absorb and process information.   Firstly, it's related to how we, as humans, learn. Studies have shown that information absorption and retention improve when the learning is spread over a longer duration.
 
-Secondly, it also aligns with the concept of flow efficiency, where we're looking at the entire system or process (in this case, the learning process) and not just individual resources. In a training context, this approach values the optimal 'flow' of information and learning over the maximum 'usage' of the training time.
+Secondly, it also aligns with the concept of [flow efficiency]({{< ref "/tags/flow-efficiency" >}}), where we're looking at the entire system or process (in this case, the learning process) and not just individual resources. In a training context, this approach values the optimal 'flow' of information and learning over the maximum 'usage' of the training time.
 
 So, yes, in a way, the concept of "four half days being better than two full days" does align with the principles of resource efficiency (the effective use of time and learning experiences) and flow efficiency (the overall effectiveness of the learning process).
 
-Understanding these two kinds of efficiency is more than just a geeky trivia night question. It's like the secret cheat code 👨‍💻to boss-level Agile gaming. They're not just dry theory - they're the power-ups that boost your project management, product development, and service delivery to new high scores. 🎮
+Understanding these two kinds of efficiency is more than just a geeky trivia night question. It's like the secret cheat code 👨‍💻to boss-level Agile gaming. They're not just dry theory - they're the power-ups that boost your [project management]({{< ref "/tags/project-management" >}}), [product development]({{< ref "/categories/product-development" >}}), and service delivery to new high scores. 🎮
 
 Today we're going on a quest to unlock the secrets of resource and flow efficiency. We'll delve into their unique attributes, roles in your operations, and why mastering both is like having an invincibility star in your Agile journey.
 
@@ -83,13 +81,13 @@ But wait - the learning evolution doesn't stop here. ⏱️Despite the advantage
 
 To address this, we're exploring other formats that could offer even more value. For instance, we're introducing formats like four half-days spread over two weeks or even eight half days over eight weeks. This provides participants more flexibility and time to apply what they've learned in their real-world contexts before the next session.
 
-Imagine this: At the end of each session, participants receive assignments to implement with their teams. The next session starts with a debrief of these assignments. It's an iterative, continuous learning process that enhances understanding and boosts practical application.
+Imagine this: At the end of each session, participants receive assignments to implement with their teams. The next session starts with a debrief of these assignments. It's an iterative, [continuous learning]({{< ref "/tags/continuous-learning" >}}) process that enhances understanding and boosts practical application.
 
 ### The Value of Continuous Learning
 
 This new approach emphasizes more learning loops. 🔄 Participants can try new things with their teams, gather feedback, and adjust accordingly - all while still in the learning process.
 
-The goal here isn't just to learn - it's to learn, apply, adapt, and learn some more. That's the heart of continuous improvement, after all.
+The goal here isn't just to learn - it's to learn, apply, adapt, and learn some more. That's the heart of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), after all.
 
 In conclusion, I believe that a four half-days format is superior to two full days for a multitude of reasons. However, the evolution of training design doesn't stop here, and I'm excited about the potential of new formats we're exploring.
 
@@ -107,4 +105,4 @@ Specific:           #trainingdesign, #FlowEfficiency, #Optimization, #A
 
 Hashtags:   
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

@@ -34,15 +34,6 @@ tags:
 - Organisational Psychology
 - Team Collaboration
 - Self Organisation
-- Agile Values and Principles
-- Coaching
-- Organisational Agility
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Competence
-- Continuous Learning
-- Personal
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -74,7 +65,7 @@ It’s not enough to simply tell people to care about their work. We must create
 
 - **Invest in Development**: Provide opportunities for team members to enhance their skills. This could be through training, mentorship, or simply encouraging them to pursue their interests.
 
-- **Communicate the Vision**: Regularly share the organisation’s goals and how each team member’s work contributes to those objectives. This transparency helps everyone feel connected to the mission.
+- **Communicate the Vision**: Regularly share the organisation’s goals and how each team member’s work contributes to those objectives. This [transparency]({{< ref "/tags/transparency" >}}) helps everyone feel connected to the mission.
 
 ### The Outcome: Great Products
 

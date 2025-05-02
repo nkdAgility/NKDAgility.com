@@ -31,14 +31,15 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **No go zone for Agile consultants**
 
 Being an Agile Consultant Goes Beyond Being a Coach
 
-A common mistake Agile Consultants make is to concentrate on the coaching aspect.  Sure, coaching is an important aspect, but only assuming that your client knows exactly what they need to change for success is a common pitfall. 🤔
+A common mistake Agile Consultants make is to concentrate on the [coaching]({{< ref "/tags/coaching" >}}) aspect.  Sure, coaching is an important aspect, but only assuming that your client knows exactly what they need to change for success is a common pitfall. 🤔
 
 The truth is, as an Agile Consultant, you need to teach and, occasionally, dictate, which some consultants may find hard to do.   
 
@@ -54,7 +55,7 @@ Let's be honest, if you don't make suggestions on different ways of doing things
 
 Whether you are new to Agile Consulting or want to level up your game, you'll definitely be giving options and suggesting different ways to do things.  As an Agile Consultant, you will be encouraging these different ways and organisations.
 
-Check out my Agile and Scrum courses to gain more insights into the essence of being an Agile Consultant. 📚
+Check out my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses to gain more insights into the essence of being an Agile Consultant. 📚
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
@@ -68,7 +69,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:        Agile Consulting, Coaching, Teaching, Organisational Change.
+Keywords:        Agile Consulting, Coaching, Teaching, [Organisational Change]({{< ref "/tags/organisational-change" >}}).
 
 Hashtags:         #AgileConsulting #Coaching #Teaching #Change
 

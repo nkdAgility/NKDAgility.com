@@ -32,14 +32,13 @@ sitemap:
 tags:
 - Agile Frameworks
 - Software Development
-- Social Technologies
 resourceTypes:
 - video
 categories:
 - Product Development
 
 ---
-**What is Scrum?**
+**What is [Scrum]({{< ref "/categories/scrum" >}})?**
 
 Interpreting Scrum
 

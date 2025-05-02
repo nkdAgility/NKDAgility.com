@@ -2,8 +2,8 @@
 {{ $jsonData := $jsonFile | unmarshal }}
 <div class="d-flex flex-wrap align-items-center gap-2 p-1" id="tag-container">
   {{ with .Params.tags }}
-    {{ $visible := first 10 . }}
-    {{ $hidden := after 10 . }}
+    {{ $visible := first 5 . }}
+    {{ $hidden := after 5 . }}
 
     {{ range $visible }}
       {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 px-1 py-0") }}

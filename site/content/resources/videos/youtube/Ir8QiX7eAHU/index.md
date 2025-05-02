@@ -36,15 +36,13 @@ tags:
 - Operational Practices
 - Throughput
 - Agile Frameworks
-- Pragmatic Thinking
-- Lean Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
 
 ---
-One of the most critical components of a successful **Kanban strategy** is setting **Work-In-Progress (WIP) limits**. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.
+One of the most critical components of a successful **[Kanban]({{< ref "/categories/kanban" >}}) strategy** is setting **Work-In-Progress (WIP) limits**. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.
 
 ## **Why WIP Limits Matter in Kanban**
 
@@ -80,7 +78,7 @@ In the real world, work isn't linear. We're not simply flipping coins. We're sol
 
 ### **How to Identify the Right WIP Limit**
 
-1. **Start with experimentation**: There is no magic formula. Begin by setting an initial WIP limit and observe how your system behaves.
+1. **Start with [experimentation]({{< ref "/tags/experimentation" >}})**: There is no magic formula. Begin by setting an initial WIP limit and observe how your system behaves.
 
 3. **Constrain work to create slack**: Setting WIP limits slightly below your team's full capacity creates slack in the system, allowing you to identify bottlenecks and opportunities for improvement.
 
@@ -106,13 +104,13 @@ If you're unsure where to start, here's my advice:
 
 These rules are not set in stone—they’re just a guide to help you get started.
 
-## **Implementing Kanban in a Scrum Team** **🛠️**
+## **Implementing Kanban in a [Scrum]({{< ref "/categories/scrum" >}}) Team** **🛠️**
 
 While Kanban and Scrum are often seen as separate, they can complement each other beautifully. If you're using Scrum, bringing in **flow metrics** from Kanban can greatly enhance your process. For Scrum teams, we always recommend integrating Kanban practices to **visualize work and identify bottlenecks** early.
 
 ### **World-Class Kanban Training**
 
-If you're struggling to implement a Kanban strategy, or if you'd like to optimize your current process, we offer world-class Kanban training and coaching through **Pro Kanban**. We can help your team fine-tune their WIP limits and ensure you're operating at maximum efficiency.
+If you're struggling to implement a Kanban strategy, or if you'd like to optimize your current process, we offer world-class Kanban training and [coaching]({{< ref "/tags/coaching" >}}) through **Pro Kanban**. We can help your team fine-tune their WIP limits and ensure you're operating at maximum efficiency.
 
 👉 **Need Help?** Reach out to us for guidance on implementing Kanban in your team, or explore our Kanban classes from **Scrum.org**. Together, we can find the right balance for your workflow.
 

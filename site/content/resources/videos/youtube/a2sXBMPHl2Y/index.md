@@ -31,16 +31,16 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Coaching
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Private Training Courses: A Game Changer for Companies?
 
-Navigating the realm of Agile and DevOps can be daunting.
+Navigating the realm of Agile and [DevOps]({{< ref "/categories/devops" >}}) can be daunting.
 
 When it comes to training, a pressing question often emerges: Can companies reap more from a private training course? 🚀
 
@@ -54,7 +54,7 @@ You're suddenly in an environment where airing the so-called "dirty laundry" is 
 
 ## Eureka Moments in Private Classes
 
-During these focussed sessions, I've found myself discussing professional scrum, unit testing, continuous delivery to production, and all things Agile and DevOps.
+During these focussed sessions, I've found myself discussing professional [scrum]({{< ref "/categories/scrum" >}}), unit testing, [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) to production, and all things Agile and DevOps.
 
 And occasionally, I'm met with, "We can't do that here because of XYZ".
 

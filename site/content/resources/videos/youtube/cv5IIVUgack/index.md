@@ -31,15 +31,13 @@ sitemap:
 tags:
 - Continuous Learning
 - Software Development
-- Competence
-- Agile Transformation
 resourceTypes:
 - video
 categories:
 - Product Development
 
 ---
-## From Developer to Scrum Developer: A Journey of Continuous Learning
+## From Developer to [Scrum]({{< ref "/categories/scrum" >}}) Developer: A Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})
 
 In the tech world, the roles we embrace often define our paths, yet they can be more fluid than one might expect. 🌍
 
@@ -57,13 +55,13 @@ It's a challenging but rewarding shift.
 
 ## The Continuity Challenge
 
-In Scrum, it's all about continuous 'everything'. From continuous delivery to continuous testing and release, the list goes on and it's an ever-evolving cycle.  💡
+In Scrum, it's all about continuous 'everything'. From [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) to continuous testing and release, the list goes on and it's an ever-evolving cycle.  💡
 
-But this requires an intimate understanding of top-tier engineering practices. It's not just about writing code; it's about writing sustainable, scalable, and effective code that aligns with Agile principles.
+But this requires an intimate understanding of top-tier [engineering practices]({{< ref "/tags/engineering-practices" >}}). It's not just about writing code; it's about writing sustainable, scalable, and effective code that aligns with Agile principles.
 
 ## Practice Makes Perfect
 
-There's no substitute for practice for developers eager to embark on this journey. This path means you're not just coding. You're striving to create products that support the Agile philosophy.
+There's no substitute for practice for developers eager to embark on this journey. This path means you're not just coding. You're striving to create products that support the [Agile philosophy]({{< ref "/tags/agile-philosophy" >}}).
 
 We must hone our craft, deeply understand the Agile ethos, and ensure our products are continuously delivered with the highest quality standards. It's a continuous learning process that demands time and effort.  🛠️
 

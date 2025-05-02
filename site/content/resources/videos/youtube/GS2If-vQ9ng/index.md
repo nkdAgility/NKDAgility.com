@@ -29,7 +29,8 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

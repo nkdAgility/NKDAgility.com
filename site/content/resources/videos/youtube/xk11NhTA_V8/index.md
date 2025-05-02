@@ -25,22 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 isShort: false
-tags:
-- Agile Leadership
-- Team Motivation
-- Psychological Safety
-- Team Performance
-- Agile Philosophy
-- Organisational Culture
-- Social Technologies
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold. 
@@ -73,4 +66,4 @@ Here are some strategies to consider:
 
 As we continue to embrace Agile methodologies, let’s be mindful of the judgments we impose—both on ourselves and on our teams. By fostering a culture of support and understanding, we can mitigate the negative impacts of judgment and create an environment where agility can truly thrive.
 
-If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!
+If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!

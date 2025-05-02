@@ -31,11 +31,6 @@ tags:
 - Continuous Learning
 - Operational Practices
 - Lean Thinking
-- Organisational Agility
-- Competence
-- Agile Philosophy
-- Pragmatic Thinking
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,7 +41,7 @@ categories:
 - Product Development
 
 ---
-In the world of Agile methodologies, particularly within the Kanban community, there's a term that often gets thrown around: Kaizen. Now, I must admit, we have a tendency to take Japanese words and adapt them to fit our context, sometimes straying from their original meanings. However, the essence of Kaizen—continuous improvement—is something that resonates deeply with me and is crucial for anyone looking to enhance their processes.
+In the world of Agile methodologies, particularly within the [Kanban]({{< ref "/categories/kanban" >}}) community, there's a term that often gets thrown around: Kaizen. Now, I must admit, we have a tendency to take Japanese words and adapt them to fit our context, sometimes straying from their original meanings. However, the essence of Kaizen—[continuous improvement]({{< ref "/tags/continuous-improvement" >}})—is something that resonates deeply with me and is crucial for anyone looking to enhance their processes.
 
 ### What is Kaizen?
 
@@ -59,7 +54,7 @@ At its core, Kaizen is about making small, incremental changes that lead to sign
 
 While Kaizen is often associated with Kanban, its principles can—and should—be applied across various aspects of our lives and work. Here are a few areas where I’ve found Kaizen to be particularly impactful:
 
-- **Team Collaboration**: Regularly assessing how we work together can lead to better communication and efficiency. Small changes in our meeting structures or feedback loops can yield significant results.
+- **[Team Collaboration]({{< ref "/tags/team-collaboration" >}})**: Regularly assessing how we work together can lead to better communication and efficiency. Small changes in our meeting structures or feedback loops can yield significant results.
 - **Personal Development**: I’ve always believed in the power of lifelong learning. By setting small, achievable goals for myself, I can continuously improve my skills and knowledge, which ultimately benefits my team and clients.
 - **Process Optimisation**: Whether it’s refining a workflow or enhancing a product feature, the Kaizen mindset encourages us to look for ways to streamline and optimise our processes. This not only improves productivity but also enhances the quality of our outputs.
 

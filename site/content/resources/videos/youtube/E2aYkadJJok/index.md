@@ -28,9 +28,6 @@ isShort: true
 tags:
 - Operational Practices
 - Software Development
-- Agile Frameworks
-- Continuous Improvement
-- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +39,7 @@ categories:
 - Product Development
 
 ---
-When it comes to visualising work in a Kanban system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
+When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
 
 ### Understanding Your Workflow
 
@@ -73,12 +70,12 @@ Given that reality, it’s essential to tailor your Kanban board to reflect how 
 
 Visualising your work isn’t just about making things pretty; it’s about clarity and communication. A well-structured Kanban board can:
 
-- **Enhance Team Collaboration**: Everyone can see what’s happening at a glance, which fosters better communication.
+- **Enhance [Team Collaboration]({{< ref "/tags/team-collaboration" >}})**: Everyone can see what’s happening at a glance, which fosters better communication.
 - **Identify Bottlenecks**: When you can see where work is getting stuck, you can take action to resolve those issues.
 - **Improve Focus**: By limiting work in progress, you encourage your team to concentrate on completing tasks rather than starting new ones.
 
 ### Conclusion
 
-In conclusion, creating an effective Kanban board is a vital step in visualising your work and improving your workflow. While the ideal of single piece flow is appealing, it’s essential to adapt your board to reflect the reality of your processes. By doing so, you’ll not only enhance your team’s efficiency but also foster a culture of continuous improvement.
+In conclusion, creating an effective Kanban board is a vital step in visualising your work and improving your workflow. While the ideal of single piece flow is appealing, it’s essential to adapt your board to reflect the reality of your processes. By doing so, you’ll not only enhance your team’s efficiency but also foster a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 Remember, the goal is to create a board that truly represents how your work flows through your system. So take the time to assess, adjust, and optimise your Kanban board—it will pay off in the long run.

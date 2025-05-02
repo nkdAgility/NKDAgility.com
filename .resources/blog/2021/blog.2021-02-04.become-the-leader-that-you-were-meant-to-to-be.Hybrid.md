@@ -24,15 +24,13 @@ aliasesArchive:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
-tags:
-- Agile Leadership
-- Scrum Master
+tags: []
 categories:
 - Leadership
 preview: image-2-2.png
 
 ---
-Leadership is not about control, but about inspiring those around you.
+[Leadership]({{< ref "/categories/leadership" >}}) is not about control, but about inspiring those around you.
 
 ## Managers transition to Leaders
 
@@ -57,9 +55,9 @@ In a traditional organization, people report to people up the chain of hierarchy
 
 For more depth read [Good To Great: Why Some Companies Make the Leap... and Others Don't](https://amzn.to/2YJhvJH) and [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://amzn.to/3oNDMke). Or better yet attend a [Professional Agile Leadership Essentials Training with Certification](https://nkdagility.com/PAL) with us.
 
-## The Scrum Master is a Leadership Role
+## The [Scrum]({{< ref "/categories/scrum" >}}) Master is a Leadership Role
 
-There is a belief that the Scrum Master is the Scrum Team's manager or maybe a Scribe, or even and admin. The Scrum master is not not Report Driven or interested in Resource Utilisation! **They are a leader who provides services to the Scrum Team, the Product Owner, & the Organisation.**
+There is a belief that the [Scrum Master]({{< ref "/tags/scrum-master" >}}) is the [Scrum Team]({{< ref "/tags/scrum-team" >}})'s manager or maybe a Scribe, or even and admin. The Scrum master is not not Report Driven or interested in Resource Utilisation! **They are a leader who provides services to the Scrum Team, the [Product Owner]({{< ref "/tags/product-owner" >}}), & the Organisation.**
 
 <figure>
 

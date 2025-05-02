@@ -32,26 +32,23 @@ tags:
 - Employee Engagement
 - Agile Leadership
 - Organisational Culture
-- Common Goals
-- Social Technologies
-- Organisational Agility
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-In my journey through organisational change, I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 
+In my journey through [organisational change]({{< ref "/tags/organisational-change" >}}), I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 
 
 ### The Importance of Involvement
 
 When embarking on a transformation journey, it’s crucial to remember that people are at the heart of any organisation. Here are some insights I've gathered over the years:
 
-- **Shared Goals**: It’s easy to get caught up in the lofty ambitions of leadership, but the reality is that nobody truly cares about your goals unless they see how those goals align with their own. To foster a sense of ownership and commitment, we must make their goals our goals. This alignment creates a shared purpose that can drive engagement and motivation.
+- **Shared Goals**: It’s easy to get caught up in the lofty ambitions of [leadership]({{< ref "/categories/leadership" >}}), but the reality is that nobody truly cares about your goals unless they see how those goals align with their own. To foster a sense of ownership and commitment, we must make their goals our goals. This alignment creates a shared purpose that can drive engagement and motivation.
 
 - **Crafting the Story**: Every change initiative needs a compelling narrative. This story should not only outline the vision but also highlight the role each individual plays in achieving that vision. When people see themselves as integral to the journey, they are more likely to invest their time and energy into making it a success.
 
@@ -61,7 +58,7 @@ When embarking on a transformation journey, it’s crucial to remember that peop
 
 Creating a culture that embraces change requires ongoing effort. Here are some strategies that have worked for me:
 
-- **Regular Communication**: Keep the lines of communication open. Regular updates about the progress of the change initiative can help maintain momentum and keep everyone informed. Transparency builds trust, and trust is essential for a successful transformation.
+- **Regular Communication**: Keep the lines of communication open. Regular updates about the progress of the change initiative can help maintain momentum and keep everyone informed. [Transparency]({{< ref "/tags/transparency" >}}) builds trust, and trust is essential for a successful transformation.
 
 - **Celebrate Small Wins**: Acknowledge and celebrate the milestones along the way. Recognising achievements, no matter how small, can boost morale and reinforce the belief that the change is worthwhile.
 

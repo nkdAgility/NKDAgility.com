@@ -33,11 +33,6 @@ tags:
 - Pragmatic Thinking
 - Agile Planning
 - Agile Values and Principles
-- Continuous Improvement
-- Agile Strategy
-- Increment
-- Operational Practices
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -65,7 +60,7 @@ Let’s be clear: there are no special Sprints. The introduction of these so-cal
 
 Instead of relying on special Sprints, we should cultivate an Agile mindset that prioritises delivering a usable working product at the end of each Sprint. Here’s how we can achieve this:
 
-- **Embrace Continuous Improvement**: Each Sprint should be an opportunity to learn and improve. Focus on delivering value and refining processes rather than creating safety nets.
+- **Embrace [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Each Sprint should be an opportunity to learn and improve. Focus on delivering value and refining processes rather than creating safety nets.
 - **Encourage Accountability**: Foster a culture where team members take ownership of their work. This accountability will drive quality and reduce the need for special Sprints.
 - **Prioritise Quality from the Start**: Integrate quality assurance practices into your regular Sprints. This proactive approach will help identify and resolve issues early, reducing the need for bug fix Sprints.
 

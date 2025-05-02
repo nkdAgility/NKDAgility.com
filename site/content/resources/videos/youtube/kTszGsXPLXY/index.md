@@ -20,6 +20,7 @@ aliases:
 - /resources/kTszGsXPLXY
 - /resources/videos/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
+- /resources/videos/getting-started-with-kanban.
 aliasesArchive:
 - /resources/videos/getting-started-with-kanban-
 - /resources/getting-started-with-kanban
@@ -29,6 +30,7 @@ aliasesArchive:
 - getting-started-with-kanban-
 - /resources/videos/getting-started-with-kanban
 - getting-started-with-kanban
+- /resources/videos/getting-started-with-kanban.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,10 +38,6 @@ tags:
 - Operational Practices
 - Continuous Improvement
 - Cycle Time
-- Lean Thinking
-- Agile Frameworks
-- Software Development
-- Metrics and Learning
 resourceTypes:
 - video
 categories:
@@ -47,11 +45,11 @@ categories:
 - Kanban
 
 ---
-### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot
+### Getting Started with [Kanban]({{< ref "/categories/kanban" >}}): A Guide to Initiating Your First Kanban Pilot
 
 **Introduction**
 
-Kanban is a powerful strategy for improving workflow and enhancing productivity across various industries. Whether you're in software development, marketing, or any other field, implementing Kanban can help streamline your processes and boost efficiency. This blog post will guide you through the steps to initiate your first Kanban pilot, emphasizing the importance of metrics and collaboration.
+Kanban is a powerful strategy for improving workflow and enhancing productivity across various industries. Whether you're in [software development]({{< ref "/tags/software-development" >}}), marketing, or any other field, implementing Kanban can help streamline your processes and boost efficiency. This blog post will guide you through the steps to initiate your first Kanban pilot, emphasizing the importance of metrics and collaboration.
 
 
 
@@ -59,7 +57,7 @@ Kanban is a powerful strategy for improving workflow and enhancing productivity 
 
 **Why Kanban?**
 
-Kanban’s flexibility and focus on continuous improvement make it an excellent choice for teams looking to optimize their workflows without major disruptions. Here’s why you should consider starting a Kanban pilot:
+Kanban’s flexibility and focus on [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) make it an excellent choice for teams looking to optimize their workflows without major disruptions. Here’s why you should consider starting a Kanban pilot:
 
 - **Flexibility**: Kanban adapts to your existing workflow, making it less disruptive compared to other methodologies.
 
@@ -84,12 +82,12 @@ Starting a Kanban pilot is simpler than you might think. Here’s a step-by-step
     - **Agree on Terms**: Ensure everyone understands and agrees on the terminology and processes.
 
 5. **Visualize the Workflow**:
-    - **Create a Board**: Use tools like JIRA or Azure DevOps to create a digital Kanban board. This board should represent your workflow stages.
+    - **Create a Board**: Use tools like JIRA or Azure [DevOps]({{< ref "/categories/devops" >}}) to create a digital Kanban board. This board should represent your workflow stages.
     
     - **Set WIP Limits**: Establish work-in-progress (WIP) limits for each stage to prevent bottlenecks.
 
 7. **Monitor and Analyze Metrics**:
-    - **Collect Data**: Start recording metrics such as cycle time and throughput. Use data analytics tools available in JIRA and Azure DevOps.
+    - **Collect Data**: Start recording metrics such as [cycle time]({{< ref "/tags/cycle-time" >}}) and [throughput]({{< ref "/tags/throughput" >}}). Use data analytics tools available in JIRA and [Azure DevOps]({{< ref "/tags/azure-devops" >}}).
     
     - **Identify Outliers**: Use cycle time scatterplots to spot anomalies and areas that need improvement.
 
@@ -125,7 +123,7 @@ Implementing Kanban can sometimes meet resistance, especially if team members ar
 
 - **Start with Metrics**: Begin by introducing metrics and using data to highlight areas for improvement. This can help build credibility and demonstrate the value of Kanban.
 
-- **Pilot Approach**: Emphasize that it’s a pilot and encourage a mindset of experimentation and learning.
+- **Pilot Approach**: Emphasize that it’s a pilot and encourage a mindset of [experimentation]({{< ref "/tags/experimentation" >}}) and learning.
 
 - **Continuous Communication**: Keep the lines of communication open. Regularly update the team on progress and celebrate small wins to maintain momentum.
 

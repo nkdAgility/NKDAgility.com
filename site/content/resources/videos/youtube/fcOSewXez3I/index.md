@@ -32,7 +32,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 The question on everyone’s lips these days is: how is technology, particularly AI, changing the world we work in? I genuinely believe we are on the cusp of a significant revolutionary shift rather than just an evolutionary one. AI isn’t here to take your job; rather, it’s a powerful tool that acts as a sidekick or co-pilot, enhancing our capabilities as we navigate our daily tasks.
@@ -61,4 +62,4 @@ I encourage you to start incorporating AI into your work as soon as possible. Ev
 
 In conclusion, AI is not just a tool; it’s a catalyst for change. It’s going to transform every aspect of our work life, making us more effective and productive. So, get on board, or risk being left behind in this rapidly evolving landscape.
 
-Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I always welcome comments, and if you’d like to discuss this topic further—be it Agile, Scrum, or DevOps—feel free to book a coffee chat with me through Naked Agility. Let’s navigate this exciting journey together!
+Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I always welcome comments, and if you’d like to discuss this topic further—be it Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}})—feel free to book a coffee chat with me through Naked Agility. Let’s navigate this exciting journey together!

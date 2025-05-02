@@ -31,8 +31,6 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Metrics and Learning
-- Operational Practices
-- Current Value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,7 +42,7 @@ categories:
 - Product Management
 
 ---
-When embarking on any journey, whether it’s a personal project or a large-scale organisational change, clarity of outcomes is paramount. I’ve often found that once you’ve defined what success looks like, the next crucial step is determining the metrics that will guide you towards those outcomes. This is where the concept of evidence-based management comes into play, and it’s something I’ve seen make a significant difference in various contexts.
+When embarking on any journey, whether it’s a personal project or a large-scale [organisational change]({{< ref "/tags/organisational-change" >}}), clarity of outcomes is paramount. I’ve often found that once you’ve defined what success looks like, the next crucial step is determining the metrics that will guide you towards those outcomes. This is where the concept of evidence-based management comes into play, and it’s something I’ve seen make a significant difference in various contexts.
 
 ### Defining Your Outcomes
 
@@ -62,7 +60,7 @@ Once you have your outcomes clearly defined, you can start to think about the me
 
 Metrics can be broadly categorised into two types: leading and lagging measures. Understanding the difference between these can significantly impact your decision-making process.
 
-- **Leading Measures**: These are predictive indicators that can help you foresee future performance. For example, if your outcome is to improve customer satisfaction, a leading measure might be the number of customer feedback surveys completed. This gives you insight into how well you’re engaging with your customers before the final satisfaction scores come in.
+- **Leading Measures**: These are predictive indicators that can help you foresee future performance. For example, if your outcome is to improve [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}), a leading measure might be the number of customer feedback surveys completed. This gives you insight into how well you’re engaging with your customers before the final satisfaction scores come in.
 
 - **Lagging Measures**: These are retrospective indicators that reflect past performance. Continuing with the customer satisfaction example, a lagging measure would be the actual satisfaction scores received after implementing changes. While these are important, they don’t provide the same level of foresight as leading measures.
 
@@ -74,7 +72,7 @@ Evidence-based management is about making informed decisions based on data. It�
   
 2. **Analysis**: Regularly analyse the data to identify trends and insights. This is where the magic happens; understanding what the data is telling you can lead to informed adjustments in your strategy.
 
-3. **Decision Making**: Use the insights gained from your analysis to make decisions. This could mean pivoting your approach, doubling down on what’s working, or addressing areas that need improvement.
+3. **[Decision Making]({{< ref "/tags/decision-making" >}})**: Use the insights gained from your analysis to make decisions. This could mean pivoting your approach, doubling down on what’s working, or addressing areas that need improvement.
 
 4. **Iterate**: The process is not static. As you gather more data and insights, continue to refine your outcomes and metrics. This iterative approach ensures that you remain aligned with your goals.
 
@@ -82,7 +80,7 @@ Evidence-based management is about making informed decisions based on data. It�
 
 In my own journey, I’ve seen the power of evidence-based management firsthand. For instance, when working with teams to improve their agile practices, we often start by defining clear outcomes. From there, we identify metrics that not only track progress but also provide insights into team dynamics and performance.
 
-One particular project stands out. We set out to enhance our delivery speed while maintaining quality. By focusing on leading measures, such as cycle time and team engagement levels, we were able to make proactive adjustments that ultimately led to improved lagging measures, like customer satisfaction scores and delivery timelines.
+One particular project stands out. We set out to enhance our delivery speed while maintaining quality. By focusing on leading measures, such as [cycle time]({{< ref "/tags/cycle-time" >}}) and team engagement levels, we were able to make proactive adjustments that ultimately led to improved lagging measures, like customer satisfaction scores and delivery timelines.
 
 ### Conclusion
 

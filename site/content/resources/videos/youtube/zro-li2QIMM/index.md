@@ -25,16 +25,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
-tags:
-- Coaching
-- Team Motivation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through the realms of both technical and agile practices, I've often found myself reflecting on the true essence of what it means to help others succeed. It’s not just about the methodologies or the frameworks; it’s about the people and the organisations behind them. 
@@ -45,7 +44,7 @@ Now, let me clarify: I don’t do this for direct remuneration. My motivation st
 
 Here’s why I believe in this approach:
 
-- **Empowerment**: When organisations embrace agile, they empower their employees. This empowerment fosters a culture of collaboration, innovation, and continuous improvement. It’s about creating an environment where everyone feels valued and capable of contributing to the organisation’s success.
+- **Empowerment**: When organisations embrace agile, they empower their employees. This empowerment fosters a culture of collaboration, innovation, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). It’s about creating an environment where everyone feels valued and capable of contributing to the organisation’s success.
 
 - **Community Impact**: The ripple effect of a successful organisation extends beyond its walls. When a company thrives, it positively impacts its employees, their families, and the wider community. This interconnectedness is what makes our work meaningful.
 

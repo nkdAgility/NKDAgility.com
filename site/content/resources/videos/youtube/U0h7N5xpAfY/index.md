@@ -39,11 +39,6 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Team Performance
-- Scrum Values
-- Agile Leadership
-- Operational Practices
-- Agile Transformation
-- Competence
 resourceTypes:
 - video
 categories:
@@ -52,9 +47,9 @@ categories:
 - Technical Leadership
 
 ---
-Many Scrum Masters step into their role without fully understanding what it entails. Often, the title of Scrum Master is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.
+Many [Scrum]({{< ref "/categories/scrum" >}}) Masters step into their role without fully understanding what it entails. Often, the title of [Scrum Master]({{< ref "/tags/scrum-master" >}}) is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.
 
-In this blog post, we'll explore what it means to be a Scrum Master, what key responsibilities you hold, and how to maximize your effectiveness, not just for your Scrum team, but across the entire organization.
+In this blog post, we'll explore what it means to be a Scrum Master, what key responsibilities you hold, and how to maximize your effectiveness, not just for your [Scrum team]({{< ref "/tags/scrum-team" >}}), but across the entire organization.
 
 * * *
 
@@ -80,9 +75,9 @@ Being an effective Scrum Master requires a deep understanding of not just Scrum,
 
 - **Empiricism**: Scrum is based on empiricism, which means your team works by building, measuring, and learning.
 
-- **Scrum Values**: These are the core values—Commitment, Focus, Openness, Respect, and Courage—that every Scrum Master should instill in their team.
+- **[Scrum Values]({{< ref "/tags/scrum-values" >}})**: These are the core values—Commitment, Focus, Openness, Respect, and Courage—that every Scrum Master should instill in their team.
 
-- **Complementary Practices**: These can include Lean practices, Kanban, and other Agile methodologies that enhance Scrum’s efficiency.
+- **Complementary Practices**: These can include [Lean]({{< ref "/categories/lean" >}}) practices, [Kanban]({{< ref "/categories/kanban" >}}), and other Agile methodologies that enhance Scrum’s efficiency.
 
 🔧 **Your toolbox** should be filled with practices and techniques that help guide your team toward continual improvement.
 
@@ -108,7 +103,7 @@ If you’re working with a **new Scrum team**, your first priority is to ensure 
 
 A Scrum Master’s responsibility doesn’t stop with the Scrum team. In fact, the **wider impact** on the organization is just as critical. To maximize your team’s effectiveness, you need to engage with the entire organization, including:
 
-- **Product Owner**: Ensuring the Product Owner has what they need to maximize product value.
+- **[Product Owner]({{< ref "/tags/product-owner" >}})**: Ensuring the Product Owner has what they need to maximize product value.
 
 - **Organization**: Identifying and removing organizational impediments that hinder your team’s progress.
 
@@ -134,9 +129,9 @@ Being an effective Scrum Master requires ongoing learning and growth. While form
 
 ### **Benefits of Formal Training:**
 
-- **Professional Scrum Master Class (PSM)**: Learn the core accountability and how to implement it effectively.
+- **[Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master Class (PSM)**: Learn the core accountability and how to implement it effectively.
 
-- **Advanced Scrum Master Class**: Dive deeper into organizational change management, coaching techniques, and how to drive larger-scale improvements.
+- **Advanced Scrum Master Class**: Dive deeper into organizational [change management]({{< ref "/tags/change-management" >}}), [coaching]({{< ref "/tags/coaching" >}}) techniques, and how to drive larger-scale improvements.
 
 📚 **Recommendation**: These classes are invaluable for broadening your understanding of the role and making you the most effective Scrum Master possible.
 

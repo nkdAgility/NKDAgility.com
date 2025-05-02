@@ -25,7 +25,6 @@ duration: 1496
 isShort: false
 tags:
 - Collaboration Tools
-- Remote Working
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,10 +32,11 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-Welcome to my blog! Today, I want to share my experiences and insights from running live virtual classrooms, particularly focusing on the technologies that enhance our learning environment. As a professional Scrum trainer with Naked Agility, I’ve had the opportunity to facilitate numerous classes, and I’ve learned a thing or two about making the most of our digital tools. 
+Welcome to my blog! Today, I want to share my experiences and insights from running live virtual classrooms, particularly focusing on the technologies that enhance our learning environment. As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Naked Agility, I’ve had the opportunity to facilitate numerous classes, and I’ve learned a thing or two about making the most of our digital tools. 
 
 ### Embracing Technology in Virtual Learning
 
@@ -70,7 +70,7 @@ Mural is another fantastic tool that I’ve integrated into my classes. It serve
 
 ### Preparing for Class
 
-I’ve found that the first half-day of class can feel lengthy for those unfamiliar with these technologies. To combat this, I conduct a tech check before we dive into the content. This allows everyone to familiarise themselves with Teams and Mural, ensuring we can focus on learning rather than troubleshooting.
+I’ve found that the first half-day of class can feel lengthy for those unfamiliar with these technologies. To combat this, I conduct a tech check before we dive into the content. This allows everyone to familiarise themselves with Teams and Mural, ensuring we can focus on learning rather than [troubleshooting]({{< ref "/tags/troubleshooting" >}}).
 
 ### Conclusion
 

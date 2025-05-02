@@ -34,14 +34,6 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Software Development
-- Agile Product Management
-- Agile Strategy
-- Business Agility
-- Decision Making
-- Decision Theory
-- Product Delivery
-- Agile Planning
-- Product Owner
 resourceTypes:
 - video
 categories:
@@ -49,15 +41,15 @@ categories:
 - Product Management
 
 ---
-## The Role of the Product Owner: Navigating the Agile Seas 🌊 
+## The Role of the [Product Owner]({{< ref "/tags/product-owner" >}}): Navigating the Agile Seas 🌊 
 
-In the ever-changing waters of Agile project management, the role of a product owner is both challenging and exhilarating.  
+In the ever-changing waters of Agile [project management]({{< ref "/tags/project-management" >}}), the role of a product owner is both challenging and exhilarating.  
 
 You're not just a project manager; you're a visionary, a strategist, a navigator. 
 
 - **Are You Ready to Make Big Decisions:**  
 
-Even decisions that seem small can have significant impacts. How do you prepare for this responsibility? Think about aligning your decisions with the long-term vision of the product. Are you willing to ask the hard questions and sometimes challenge the status quo to ensure alignment with the strategic goals? 🤔 
+Even decisions that seem small can have significant impacts. How do you prepare for this responsibility? Think about aligning your decisions with the long-term vision of the product. Are you willing to ask the hard questions and sometimes challenge the status quo to ensure alignment with the [strategic goals]({{< ref "/tags/strategic-goals" >}})? 🤔 
 
 - **Can You Decide with Incomplete Information:** 
 
@@ -79,13 +71,13 @@ As a product owner, every decision you make carves the path for your project. Ho
 
 ## Embracing Agility: Adopting a Mindset Beyond Methodologies 🧠💫 
 
-Remember, Agile is more than a methodology; it's a mindset that embraces change and continuous improvement. 
+Remember, Agile is more than a methodology; it's a mindset that embraces change and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). 
 
 - **Are You Truly Open to Change?**: How flexible are you when unexpected changes come your way? Agile requires a mindset that is not just open to change but also proactively seeks it out as a means for improvement. It involves being adaptable and willing to pivot strategies when necessary. 🌪️ 
 
 - **Feedback Over Rigid Plans**: Do you value real-time feedback over sticking rigidly to the plan? The ability to dynamically adjust your plans based on continuous feedback is a crucial aspect of Agile. This may involve changing course mid-project, something traditional methodologies might resist. 🗣️🔁 
 
-- **Cultivate Continuous Learning**: How do you foster a culture that learns from each action, each feedback? Encourage your team to see every task, meeting, and sprint as an opportunity to learn something new. This mindset not only improves your product but also your team’s skills and cohesion. 🌱📈 
+- **Cultivate [Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: How do you foster a culture that learns from each action, each feedback? Encourage your team to see every task, meeting, and sprint as an opportunity to learn something new. This mindset not only improves your product but also your team’s skills and cohesion. 🌱📈 
 
 ## Commanding the Agile Ship with Assurance and Agility ⛵👩‍✈️ 
 

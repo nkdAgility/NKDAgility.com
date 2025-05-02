@@ -42,11 +42,6 @@ tags:
 - Value Delivery
 - Agile Product Management
 - Working Software
-- Technical Mastery
-- Coaching
-- Mentoring
-- Organisational Physics
-- Business Agility
 
 ---
 [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.

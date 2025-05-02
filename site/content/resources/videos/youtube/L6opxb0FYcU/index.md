@@ -21,6 +21,7 @@ aliases:
 - /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 - /resources/videos/worst-agile-advice-youve-ever-heard
 - /resources/videos/worst-agile-advice-heard
+- /resources/videos/worst-agile-advice-you-ve-ever-heard
 aliasesArchive:
 - /resources/videos/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-youve-ever-heard
@@ -29,29 +30,25 @@ aliasesArchive:
 - /resources/worst-agile-advice-heard-
 - /resources/videos/worst-agile-advice-heard
 - worst-agile-advice-youve-ever-heard-L6opxb0FYcU
+- /resources/videos/worst-agile-advice-you-ve-ever-heard
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Software Development
-- Scrum Master
-- Agile Frameworks
-- Scrum Values
-- Agile Philosophy
-- Agile Transformation
-- Agile Values and Principles
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 **Worst agile advice you've ever heard?**
 
-The Worst Scrum Master's Advice -  Ever! 🚫
+The Worst [Scrum]({{< ref "/categories/scrum" >}}) Master's Advice -  Ever! 🚫
 
 In my articles, I don't often talk about negative aspects of Agile and Scrum, but today I want to talk about one of the worst pieces of Agile advice I've ever heard, which was, "Everyone MUST stand up during the daily stand-up, or you're not doing Scrum." 😱
 
-I recall working with a Seattle team where a Scrum Master adopted an overly dogmatic and totalitarian approach. This Scrum Master insisted that everyone stand up during the daily Scrum, ignoring that a team member was bound to a wheelchair. In a spirit of inclusivity, the team chose to sit down so they weren't towering over their colleague. 👏
+I recall working with a Seattle team where a [Scrum Master]({{< ref "/tags/scrum-master" >}}) adopted an overly dogmatic and totalitarian approach. This Scrum Master insisted that everyone stand up during the [daily Scrum]({{< ref "/tags/daily-scrum" >}}), ignoring that a team member was bound to a wheelchair. In a spirit of inclusivity, the team chose to sit down so they weren't towering over their colleague. 👏
 
 I have to point out that this isn't just bad advice from a Scrum Master. This is a complete misunderstanding of the core Agile principle of flexibility and the Scrum value of respect. 🙌
 

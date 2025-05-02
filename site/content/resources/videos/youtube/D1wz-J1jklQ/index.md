@@ -41,11 +41,6 @@ tags:
 - Pragmatic Thinking
 - Engineering Practices
 - Release Management
-- Metrics and Learning
-- Hypothesis Driven Development
-- Technical Debt
-- Increment
-- Lean Principles
 resourceTypes:
 - video
 sitemap:

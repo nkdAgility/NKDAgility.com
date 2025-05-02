@@ -14,8 +14,6 @@ slug: unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 layout: video
 aliases:
 - /resources/KRC89A7RtrM
-- /resources/videos/unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
-- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 aliasesArchive:
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
@@ -25,15 +23,15 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 isShort: false
-tags:
-- Troubleshooting
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 When I first opened Team Foundation Server (TFS), I encountered a common hurdle that many users face: a message indicating that some features of Team Web Access were not visible to me. Initially, I was directed to an MSDN article that promised a solution, but I quickly realised that the fix was much simpler than it seemed. The key? Having the right administrative access on the TFS server—not just on the collection, but on the entire server itself.

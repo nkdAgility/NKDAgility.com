@@ -28,9 +28,11 @@
     categories:
     - Product Management
     - Engineering Excellence
+    - Product Development
     tags:
     - Operational Practices
     - Metrics and Learning
+    - Current Value
     - Transparency
     - Evidence Based Leadership
     - Evidence Based Management
@@ -38,14 +40,6 @@
     - Product Delivery
     - Value Delivery
     - Team Performance
-    - Continuous Improvement
-    - Empirical Process Control
-    - Pragmatic Thinking
-    - Software Development
-    - Working Software
-    - Throughput
-    - Cycle Time
-    - Deployment Frequency
   BodyContent: |
     In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
 
@@ -57,8 +51,8 @@
 
     Here are the key metrics that should be collected and made transparent for every Product/Project/Organisation.
 
-    - **Customer Satisfaction** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.
-    - **Employee Satisfaction** - Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.
+    - **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.
+    - **Employee Satisfaction** - Some form of sentiment analysis to help gauge [employee engagement]({{< ref "/tags/employee-engagement" >}}), energy, and enthusiasm.
     - **Defect Trend** - Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don't work as intended.
     - **Mean Time to Repair** - The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.
     - **Release Stabilization** - The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.
@@ -68,10 +62,10 @@
 
     At the team level we should focus on the flow of value to the stakeholders. For this to work we should collect and monitor the following:
 
-    - **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a Scrum Team uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
-    - **Cycle Time** - The amount of elapsed time between when a work item starts and when a work item finishes.
+    - **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum]({{< ref "/categories/scrum" >}}) Team uses to limit WIP. The team can use the WIP metric to provide [transparency]({{< ref "/tags/transparency" >}}) about their progress towards reducing their WIP and improving their flow.
+    - **[Cycle Time]({{< ref "/tags/cycle-time" >}})** - The amount of elapsed time between when a work item starts and when a work item finishes.
     - **Work Item Age ** - The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
-    - **Throughput** - The number of work items finished per unit of time.
+    - **[Throughput]({{< ref "/tags/throughput" >}})** - The number of work items finished per unit of time.
 
     ![image.png](/.attachments/image-780125d0-ecac-43a2-8bfe-b1ad2939d02f.png =800x)
 
@@ -83,246 +77,6 @@
     - Original Estimate
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\metrics-reports
-- FrontMatter:
-    title: Service Level Expectation (SLE)
-    description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
-    ResourceId: b7fi5SAsyNb
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
-    - /resources/b7fi5SAsyNb
-    aliasesArchive:
-    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
-    recommendedContent:
-    - practices/Service-Level-Expectation-SLE.html
-    - practices/Service-Level-Expectation-SLE/
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
-      title: Service Level Expectation (SLE)
-    categories:
-    - Scrum
-    tags:
-    - Forecasting
-    - Software Development
-    - Metrics and Learning
-    - Throughput
-    - Agile Frameworks
-    - Scrum Team
-    - Flow Efficiency
-    - Operational Practices
-    - Cycle Time
-    - Empirical Process Control
-    - Estimation
-    - Pragmatic Thinking
-    - Transparency
-  BodyContent: |
-    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
-
-    The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team's historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
-
-    A reasonable SLE should be less than your Sprint length and shorter improves predictability.
-
-    ![image.png](/.attachments/image-8dc3304f-74c4-438e-935d-ad9fc5eed118.png)
-
-    ## Resources
-
-    - [The Kanban Guide for Scrum Teams](/Project-Management/Agile-Ways-of-Working/Guides-&-WhitePapers/Kanban-Guide-for-Scrum-Teams)
-
-    [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
-- FrontMatter:
-    title: Sprint Planning Event
-    description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
-    ResourceId: v_AGzuOgZ0g
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /learn/agile-delivery-kit/practices/sprint-planning-event
-    - /resources/v_AGzuOgZ0g
-    aliasesArchive:
-    - /learn/agile-delivery-kit/practices/sprint-planning-event
-    references: 
-    recommendedContent:
-    - collection: recipes
-      path: _recipes/sprint-planning-recipe.md
-    - collection: guides
-      path: _guides/manifesto-for-agile-software-development.md
-    - collection: guides
-      path: _guides/scrum-guide.md
-    videos:
-    - title: What is the most common mistake in sprint planning?
-      embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
-    - title: What is sprint planning?
-      embed: https://www.youtube.com/embed/nMkit8zBxG0
-    - title: 'What is your #1 tip for effective sprint planning?'
-      embed: https://www.youtube.com/embed/uQ786VBz3Jw
-    - title: How does a scrum team plan and prioritize work effectively?
-      embed: https://www.youtube.com/embed/sPmUuSy7G3I
-    date: 2024-09-17
-    weight: 790
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Sprint Planning Event and how it can help you in your Agile journey!
-      title: Sprint Planning Event
-    categories:
-    - Scrum
-    tags:
-    - Scrum Team
-    - Agile Frameworks
-    - Professional Scrum
-    - Agile Planning
-    - Software Development
-    - Agile Product Management
-    - Product Delivery
-    - Team Collaboration
-    - Team Performance
-  BodyContent: |
-    We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
-
-    ![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)
-
-    ## What is Sprint Planning?
-
-    The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire Scrum Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event the greater the degree of understanding tha the Scrum Team has going in the shorter it will be. That is, if the Product Backlog is well understood, and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood, or the Product Goal is not clear, then the Sprint Planning will be longer.
-
-    > Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team. <br /><br />
-    > The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.<br /> > [Scrum Guide](./../_guides/scrum-guide.md#sprint-planning)
-
-    ![naked Agility Scrum Framework Sprint Planning Flow](./../assets/images/naked-agility-scrum-framework-sprint-planning-flow.jpg)
-
-    I would expect a typical [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) to take from 30-120 minutes is there is clear understanding.
-
-    See [Sprint Planning Recipe](./../_recipes/sprint-planning-recipe.md) for look at how Sprint Planning might run.
-
-    ## Why is this important?
-
-    The [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is where the initial transparency of the Sprint Backlog emerges.
-
-    ## The Sprint Goal
-
-    Part of Sprint Planning is to create a Sprint Goal. The Sprint Goal is a short statement that describes what the Scrum Team intends to achieve in the Sprint. It is a commitment by the Scrum Team to the stakeholders. It is a marketing statement that helps stakeholders to understand what the Scrum Team is doing and why. It is a statement that helps stakeholders to understand how they can support the Scrum Team in their work.
-
-    ## Sprint Planning as a Planning Event
-
-    The Sprint Planning event is a planning event. It is where the Scrum Team plans the work that they will do in the Sprint. It is where they create the Sprint Backlog. This plan is a forecast of the work that the Scrum Team believes they can complete in the Sprint. It is a forecast because it is based on the current understanding of the Product Backlog and the current understanding of the Scrum Team's capacity and capability.
-
-    ## Sprint Planning is a Marketing Event
-
-    Many Scrum Teams lament on the fact that they are not able to get the support they need from stakeholders. This is often because they have not communicated their intentions and plans to stakeholders in a way that they can understand.
-
-    The Scrum Team should be aware of the external stakeholder view of the Sprint Goal and what they are working on and deliberately craft this to engage stakeholders and help them to understand how they can support the Scrum Team in their work.
-
-    If this means working on somethign other than the highest priority item in the Product Backlog then that is fine as long as it serves the purpose of maximizing the value of the work done by the scrum team.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event
-- FrontMatter:
-    title: Product Scorecard
-    description: It seems that the resource details are incomplete. Please provide more information about the resource so I can help you create an engaging description.
-    ResourceId: g4aUBoHHLme
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /learn/agile-delivery-kit/practices/product-scorecard
-    - /resources/g4aUBoHHLme
-    aliasesArchive:
-    - /learn/agile-delivery-kit/practices/product-scorecard
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Product Scorecard and how it can help you in your Agile journey!
-      title: Product Scorecard
-    categories: []
-    tags: []
-  BodyContent: |
-    The purpose of the
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard
-- FrontMatter:
-    title: Product Increment
-    description: A Product Increment is a tangible outcome of development, showcasing new features or improvements that enhance the product's value in each iteration.
-    ResourceId: m1DWI59M-Tf
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /practices/product-increment.html
-    - /learn/agile-delivery-kit/practices/product-increment
-    - /resources/m1DWI59M-Tf
-    aliasesArchive:
-    - /practices/product-increment.html
-    - /learn/agile-delivery-kit/practices/product-increment
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Product Increment and how it can help you in your Agile journey!
-      title: Product Increment
-    categories: []
-    tags: []
-  BodyContent: |
-    ## What is a Product Increment?
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment
-- FrontMatter:
-    title: Product Backlog
-    description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
-    ResourceId: HbKuUsE28mC
-    ResourceImport: false
-    ResourceType: practices
-    ResourceContentOrigin: Human
-    resourceTypes: practice
-    layout: practice
-    aliases:
-    - /practices/product-backlog.html
-    - /learn/agile-delivery-kit/practices/product-backlog
-    - /resources/HbKuUsE28mC
-    aliasesArchive:
-    - /practices/product-backlog.html
-    - /learn/agile-delivery-kit/practices/product-backlog
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Product Backlog and how it can help you in your Agile journey!
-      title: Product Backlog
-    categories: []
-    tags: []
-  BodyContent: |
-    ## What is a Product Backlog?
-
-    ## What is a Product Backlog Item?
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
 - FrontMatter:
     title: Definition of Done (DoD)
     description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
@@ -357,6 +111,7 @@
     - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
       embed: https://www.youtube.com/embed/QA2QdBG5uLE
     date: 2024-09-17
+    slug: definition-of-done-(dod)
     weight: 355
     card:
       button:
@@ -366,6 +121,7 @@
     categories:
     - Scrum
     - Engineering Excellence
+    - Product Development
     tags:
     - Definition of Done
     - Professional Scrum
@@ -382,22 +138,18 @@
     - Engineering Practices
     - Scrum Team
     - Technical Mastery
-    - Agile Planning
-    - Agile Product Management
-    - Team Collaboration
-    - Team Performance
   BodyContent: |
-    Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
+    Every team should define what is required, what criteria must be met, for a product [increment]({{< ref "/tags/increment" >}}) to be considered releasable. A [definition of done]({{< ref "/tags/definition-of-done" >}}). If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
     {: .lead}
 
-    [Developers](./../_guides/scrum-guide.md#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. Working Software is not specific to a PBI; it’s applied regardless of PBI to the entire delivery.
+    [Developers](./../_guides/scrum-guide.md#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. [Working Software]({{< ref "/tags/working-software" >}}) is not specific to a PBI; it’s applied regardless of PBI to the entire delivery.
 
     ![Definition of Done (DoD)](./../../assets/images/naked-agility-scrum-framework-definition-of-done.jpg)
 
-    > “The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of > > Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.”\\
+    > “The Definition of Done creates [transparency]({{< ref "/tags/transparency" >}}) by providing everyone a shared understanding of what work was completed as part of the Increment. If a [Product Backlog]({{< ref "/tags/product-backlog" >}}) item does not meet the Definition of > > Done, it cannot be released or even presented at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). Instead, it returns to the Product Backlog for future consideration.”\\
     > --<cite>[The 2020 Scrum Guide](./../_guides/scrum-guide.md)</cite>
 
-    If you can’t ship working software at least every 30 days then by its very definition, you are not yet doing Scrum. Since [Professional Scrum Teams build software that works](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by “working” continuously, and at least on a regular cadence.
+    If you can’t ship working software at least every 30 days then by its very definition, you are not yet doing [Scrum]({{< ref "/categories/scrum" >}}). Since [Professional Scrum Teams build software that works](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by “working” continuously, and at least on a regular cadence.
 
     **The purpose of the definition of done is to provide transparency of what has been done!** This provides the team with focus on whats needed and commitment to the minimum level of quality needed. Every team has full control over the level of quality that they provide.
 
@@ -409,7 +161,7 @@
     4.  Protect our Brand!
 
     > Live and in production, collecting telemetry supporting or diminishing the starting hypothesis.\\
-    > --<cite>from Definition of Done (DoD) for the Azure DevOps Product Teams</cite>
+    > --<cite>from Definition of Done (DoD) for the Azure [DevOps]({{< ref "/categories/devops" >}}) Product Teams</cite>
     > {: .blockquote}
 
     ## What is Done?
@@ -431,9 +183,9 @@
     - **Mirrors shippable** – While you might not have shipped your product, [although we recommended it](https://nkdagility.com/blog/continuous-deliver-sprint/), you should have that choice. Your [Product Owner](./../_guides/scrum-guide.md#product-owner) should be able to say, at the [Sprint Review](./../_guides/scrum-guide.md#sprint-review): “That’s Awesome… lets ship it.”.
     - **No further work** – There should be no further work required from the [Developers](./../_guides/scrum-guide.md#developers) to ship your product to production. Any additional work means that you were not Done, and it takes away from the [Product Owner](./../_guides/scrum-guide.md#product-owner) capacity for the next iteration. Ideally, you have a fully automated process for delivering software, and [never use staggered iterations for delivery](https://nkdagility.com/blog/a-better-way-than-staggered-iterations-for-delivery/).
 
-    A simple definition of DOD from Scrum: "a shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Scrum Team."
+    A simple definition of DOD from Scrum: "a shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the [Scrum Team]({{< ref "/tags/scrum-team" >}})."
 
-    _Your short, measurable checklist that mirrors usable and results in no further work required to ship your product needs to be defined._ A great way to do this is to get the Scrum Team (the Product Owner plus the Developers and any relevant Stakeholders) into a [facilitated DoD Workshop](./../_workshops/definition-of-done.md). Without a Definition of Done we don’t understand what working software means, and without working software we cant have predictable delivery. Your Product Owner can’t reject a Backlog Item, only whether the Increment is working or not.
+    _Your short, measurable checklist that mirrors usable and results in no further work required to ship your product needs to be defined._ A great way to do this is to get the Scrum Team (the [Product Owner]({{< ref "/tags/product-owner" >}}) plus the Developers and any relevant Stakeholders) into a [facilitated DoD Workshop](./../_workshops/definition-of-done.md). Without a Definition of Done we don’t understand what working software means, and without working software we cant have predictable delivery. Your Product Owner can’t reject a Backlog Item, only whether the Increment is working or not.
 
     No mater what you are building you should have a clear and concise definition of done that can be understood and articulated by the whole Team, and ideally by your stakeholders.
 
@@ -516,7 +268,7 @@
 
     Here are some examples of Done from various teams, real and fictitious.
 
-    ### Azure DevOps
+    ### [Azure DevOps]({{< ref "/tags/azure-devops" >}})
 
     - Live in production, collecting telemetry supporting or diminishing the starting hypothesis.
 
@@ -574,6 +326,40 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-done-dod\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\definition-of-done-dod
 - FrontMatter:
+    title: Product Backlog
+    description: Discover the essentials of a Product Backlog and its items, key components for effective project management and agile development.
+    ResourceId: HbKuUsE28mC
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    - /resources/HbKuUsE28mC
+    aliasesArchive:
+    - /practices/product-backlog.html
+    - /learn/agile-delivery-kit/practices/product-backlog
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Product Backlog and how it can help you in your Agile journey!
+      title: Product Backlog
+    categories:
+    - Uncategorized
+    tags: []
+  BodyContent: |
+    ## What is a [Product Backlog]({{< ref "/tags/product-backlog" >}})?
+
+    ## What is a Product Backlog Item?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-backlog
+- FrontMatter:
     title: Accountabilities for the Scrum Team
     description: Explore key accountabilities within our organisation for a deeper understanding of roles and responsibilities in agile project management.
     ResourceId: D4IlRdnMoRB
@@ -598,7 +384,8 @@
         content: Learn More
       content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
       title: Accountabilities for the Scrum Team
-    categories: []
+    categories:
+    - Uncategorized
     tags: []
   BodyContent: |
     While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.
@@ -606,6 +393,177 @@
     ![image.png](/.attachments/image-30f57fc2-f9b2-4d99-90f4-6c3990d43cdc.png =750x424)
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\accountabilities-for-the-scrum-team
+- FrontMatter:
+    title: Product Increment
+    description: A Product Increment is a tangible outcome of development, showcasing new features or improvements that enhance the product's value in each iteration.
+    ResourceId: m1DWI59M-Tf
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /practices/product-increment.html
+    - /learn/agile-delivery-kit/practices/product-increment
+    - /resources/m1DWI59M-Tf
+    aliasesArchive:
+    - /practices/product-increment.html
+    - /learn/agile-delivery-kit/practices/product-increment
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Product Increment and how it can help you in your Agile journey!
+      title: Product Increment
+    categories:
+    - Product Development
+    tags: []
+  BodyContent: |
+    ## What is a Product [Increment]({{< ref "/tags/increment" >}})?
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-increment
+- FrontMatter:
+    title: Service Level Expectation (SLE)
+    description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
+    ResourceId: b7fi5SAsyNb
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    - /resources/b7fi5SAsyNb
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/service-level-expectation-sle
+    recommendedContent:
+    - practices/Service-Level-Expectation-SLE.html
+    - practices/Service-Level-Expectation-SLE/
+    date: 2024-09-17
+    slug: service-level-expectation-(sle)
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Service Level Expectation (SLE) and how it can help you in your Agile journey!
+      title: Service Level Expectation (SLE)
+    categories:
+    - Scrum
+    - Product Development
+    tags:
+    - Forecasting
+    - Software Development
+    - Metrics and Learning
+    - Throughput
+  BodyContent: |
+    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the [Scrum]({{< ref "/categories/scrum" >}}) Team's Workflow. The [Scrum Team]({{< ref "/tags/scrum-team" >}}) uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.
+
+    The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team's historical [Cycle Time]({{< ref "/tags/cycle-time" >}}), and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
+
+    A reasonable SLE should be less than your Sprint length and shorter improves predictability.
+
+    ![image.png](/.attachments/image-8dc3304f-74c4-438e-935d-ad9fc5eed118.png)
+
+    ## Resources
+
+    - [The Kanban Guide for Scrum Teams](/Project-Management/Agile-Ways-of-Working/Guides-&-WhitePapers/Kanban-Guide-for-Scrum-Teams)
+
+    [References](https://dev.azure.com/newsigcode/NewSignature.UKProfessionalServices/_wiki/wikis/NewSignature.UKProfessionalServices.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=%2FProject%20Management%2FAgile%20Ways%20of%20Working%2FCore%20Practices&pageId=5053&anchor=reference)
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\service-level-expectation-sle
+- FrontMatter:
+    title: Sprint Planning Event
+    description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
+    ResourceId: v_AGzuOgZ0g
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/sprint-planning-event
+    - /resources/v_AGzuOgZ0g
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/sprint-planning-event
+    references: 
+    recommendedContent:
+    - collection: recipes
+      path: _recipes/sprint-planning-recipe.md
+    - collection: guides
+      path: _guides/manifesto-for-agile-software-development.md
+    - collection: guides
+      path: _guides/scrum-guide.md
+    videos:
+    - title: What is the most common mistake in sprint planning?
+      embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
+    - title: What is sprint planning?
+      embed: https://www.youtube.com/embed/nMkit8zBxG0
+    - title: 'What is your #1 tip for effective sprint planning?'
+      embed: https://www.youtube.com/embed/uQ786VBz3Jw
+    - title: How does a scrum team plan and prioritize work effectively?
+      embed: https://www.youtube.com/embed/sPmUuSy7G3I
+    date: 2024-09-17
+    weight: 790
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Sprint Planning Event and how it can help you in your Agile journey!
+      title: Sprint Planning Event
+    categories:
+    - Scrum
+    - Product Development
+    tags:
+    - Scrum Team
+    - Agile Frameworks
+    - Professional Scrum
+    - Agile Planning
+    - Software Development
+    - Agile Product Management
+    - Product Delivery
+  BodyContent: |
+    We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
+
+    ![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)
+
+    ## What is Sprint Planning?
+
+    The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event the greater the degree of understanding tha the [Scrum Team]({{< ref "/tags/scrum-team" >}}) has going in the shorter it will be. That is, if the [Product Backlog]({{< ref "/tags/product-backlog" >}}) is well understood, and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood, or the Product Goal is not clear, then the Sprint Planning will be longer.
+
+    > Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team. <br /><br />
+    > The [Product Owner]({{< ref "/tags/product-owner" >}}) ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.<br /> > [Scrum Guide](./../_guides/scrum-guide.md#sprint-planning)
+
+    ![naked Agility Scrum Framework Sprint Planning Flow](./../assets/images/naked-agility-scrum-framework-sprint-planning-flow.jpg)
+
+    I would expect a typical [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) to take from 30-120 minutes is there is clear understanding.
+
+    See [Sprint Planning Recipe](./../_recipes/sprint-planning-recipe.md) for look at how Sprint Planning might run.
+
+    ## Why is this important?
+
+    The [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is where the initial [transparency]({{< ref "/tags/transparency" >}}) of the Sprint Backlog emerges.
+
+    ## The Sprint Goal
+
+    Part of Sprint Planning is to create a Sprint Goal. The Sprint Goal is a short statement that describes what the Scrum Team intends to achieve in the Sprint. It is a commitment by the Scrum Team to the stakeholders. It is a marketing statement that helps stakeholders to understand what the Scrum Team is doing and why. It is a statement that helps stakeholders to understand how they can support the Scrum Team in their work.
+
+    ## Sprint Planning as a Planning Event
+
+    The Sprint Planning event is a planning event. It is where the Scrum Team plans the work that they will do in the Sprint. It is where they create the Sprint Backlog. This plan is a forecast of the work that the Scrum Team believes they can complete in the Sprint. It is a forecast because it is based on the current understanding of the Product Backlog and the current understanding of the Scrum Team's capacity and capability.
+
+    ## Sprint Planning is a Marketing Event
+
+    Many Scrum Teams lament on the fact that they are not able to get the support they need from stakeholders. This is often because they have not communicated their intentions and plans to stakeholders in a way that they can understand.
+
+    The Scrum Team should be aware of the external stakeholder view of the Sprint Goal and what they are working on and deliberately craft this to engage stakeholders and help them to understand how they can support the Scrum Team in their work.
+
+    If this means working on somethign other than the highest priority item in the Product Backlog then that is fine as long as it serves the purpose of maximizing the value of the work done by the scrum team.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\professional-sprint-planning-event
 - FrontMatter:
     title: Site Reliability Engineering (SRE)
     description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
@@ -630,6 +588,7 @@
     - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood'
       embed: https://www.youtube.com/embed/CIDFB6XfoCg
     date: 2024-09-17
+    slug: site-reliability-engineering-(sre)
     weight: 660
     creator: Martin Hinshelwood
     card:
@@ -637,12 +596,43 @@
         content: Learn More
       content: Discover more about Site Reliability Engineering (SRE) and how it can help you in your Agile journey!
       title: Site Reliability Engineering (SRE)
-    categories: []
+    categories:
+    - Uncategorized
     tags: []
   BodyContent: |
-    With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure DevOps Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
+    With the shift-left movement pushing more responsibility to the engineering teams what practices will help them cope with running a production site. These are the experience of the Azure [DevOps]({{< ref "/categories/devops" >}}) Services team and their journey from on premises to a fully fledged SAAS solution and way they need to do to run it and build trust with their customers.
 
-    We will cover the importance of transparency, telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
+    We will cover the importance of [transparency]({{< ref "/tags/transparency" >}}), telemetry, on-call, and how to protect your feature teams from disruptions without them loosing touch with production.
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\site-reliability-engineering-sre
+- FrontMatter:
+    title: Product Scorecard
+    description: It seems that the resource details are incomplete. Please provide more information about the resource so I can help you create an engaging description.
+    ResourceId: g4aUBoHHLme
+    ResourceImport: false
+    ResourceType: practices
+    ResourceContentOrigin: Human
+    resourceTypes: practice
+    layout: practice
+    aliases:
+    - /learn/agile-delivery-kit/practices/product-scorecard
+    - /resources/g4aUBoHHLme
+    aliasesArchive:
+    - /learn/agile-delivery-kit/practices/product-scorecard
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Product Scorecard and how it can help you in your Agile journey!
+      title: Product Scorecard
+    categories:
+    - Uncategorized
+    tags: []
+  BodyContent: |
+    The purpose of the
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\practices\product-scorecard
 

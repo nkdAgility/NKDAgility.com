@@ -31,15 +31,6 @@ tags:
 - Scrum Team
 - Sociotechnical Systems
 - Pragmatic Thinking
-- Team Performance
-- Agile Frameworks
-- Software Development
-- Coaching
-- Professional Scrum
-- Team Collaboration
-- Team Motivation
-- Agile Leadership
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -52,7 +43,7 @@ categories:
 - Product Development
 
 ---
-When it comes to defining what makes a truly great Scrum Master, I find myself grappling with a rather complex question. The answer is not straightforward; it’s deeply circumstantial. The effectiveness of a Scrum Master can vary significantly depending on the organisation and the team dynamics. You might have an individual who excels in one environment but struggles in another simply because the fit isn’t right. 
+When it comes to defining what makes a truly great [Scrum]({{< ref "/categories/scrum" >}}) Master, I find myself grappling with a rather complex question. The answer is not straightforward; it’s deeply circumstantial. The effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) can vary significantly depending on the organisation and the team dynamics. You might have an individual who excels in one environment but struggles in another simply because the fit isn’t right. 
 
 ### The Importance of Team Fit
 
@@ -70,7 +61,7 @@ While a Scrum Master must focus on the team, they also need to look beyond it. O
 
 This is where the role of politics comes into play. I use the term ‘politics’ not in a negative sense, but rather as a means of building relationships within the organisation. A Scrum Master must cultivate connections with various stakeholders, from the head of HR to the CEO, depending on the size and structure of the organisation.
 
-- **Building Relationships**: By establishing these relationships, a Scrum Master can demonstrate their competence and understanding of the work at hand. This rapport is crucial; it allows them to offer suggestions that can lead to organisational improvements. 
+- **Building Relationships**: By establishing these relationships, a Scrum Master can demonstrate their [competence]({{< ref "/tags/competence" >}}) and understanding of the work at hand. This rapport is crucial; it allows them to offer suggestions that can lead to organisational improvements. 
 
 - **Influencing Change**: The true mark of a great Scrum Master lies in their ability to effect change not by doing the work themselves, but by empowering others to recognise and address the necessary adjustments. 
 

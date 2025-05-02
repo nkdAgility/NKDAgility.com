@@ -39,12 +39,6 @@ tags:
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Value Delivery
-- Agile Values and Principles
-- Operational Practices
-- Self Organisation
-- Agile Frameworks
-- Organisational Culture
-- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -55,15 +49,15 @@ categories:
 - Product Development
 
 ---
-Organisational agility is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.
+[Organisational agility]({{< ref "/tags/organisational-agility" >}}) is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.
 
 ### The Real Purpose of Agile
 
-At its core, agile, along with practices like DevOps, lean, and Kanban, is designed to enable organisations to react more quickly to shifts in the market. The faster you can respond to changes—whether they stem from customer feedback or broader market trends—the better positioned you are to seize opportunities before your competitors do. 
+At its core, agile, along with practices like [DevOps]({{< ref "/categories/devops" >}}), [lean]({{< ref "/categories/lean" >}}), and [Kanban]({{< ref "/categories/kanban" >}}), is designed to enable organisations to react more quickly to shifts in the market. The faster you can respond to changes—whether they stem from customer feedback or broader market trends—the better positioned you are to seize opportunities before your competitors do. 
 
 Here’s what I’ve observed:
 
-- **Speed Matters**: The first mover often reaps the rewards. If your organisation can adapt quicker than others, you’re likely to capture the market share and gain a competitive edge.
+- **Speed Matters**: The first mover often reaps the rewards. If your organisation can adapt quicker than others, you’re likely to capture the [market share]({{< ref "/tags/market-share" >}}) and gain a competitive edge.
 - **Communication Breakdown**: Many organisations struggle with the speed of response. When a market signal arises, it often has to navigate through multiple layers of hierarchy before a decision is made. This can lead to delays that cost the business dearly.
 - **Escalation Issues**: Employees on the front lines may hesitate to escalate issues because they perceive the process as cumbersome. They might think, “It’s not painful enough for me to bother Bob,” leading to missed opportunities for timely action.
 
@@ -77,7 +71,7 @@ To illustrate this, I often refer to David Marquet’s book, *Turn This Ship Aro
 
 For your business to respond effectively to market changes, consider the following strategies:
 
-- **Provide Context**: Ensure that your teams have access to the information they need to make decisions. This could involve regular updates on market trends, customer feedback, and strategic goals.
+- **Provide Context**: Ensure that your teams have access to the information they need to make decisions. This could involve regular updates on market trends, customer feedback, and [strategic goals]({{< ref "/tags/strategic-goals" >}}).
 - **Encourage Ownership**: Foster a culture where team members feel empowered to act on their insights. This not only speeds up response times but also boosts morale and engagement.
 - **Streamline Communication**: Work on reducing the layers of approval needed for decisions. The more streamlined your communication, the quicker your organisation can pivot when necessary.
 
@@ -85,4 +79,4 @@ For your business to respond effectively to market changes, consider the followi
 
 Agility is about more than just adopting a set of practices; it’s about fostering a mindset that prioritises responsiveness and empowerment. By focusing on these principles, your organisation can navigate the complexities of the market with greater ease and confidence.
 
-If you found this discussion valuable, I encourage you to engage with me further. I always welcome comments and questions, and if you’d like to chat about agile, scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Let’s explore how we can enhance your organisation’s agility together!
+If you found this discussion valuable, I encourage you to engage with me further. I always welcome comments and questions, and if you’d like to chat about agile, [scrum]({{< ref "/categories/scrum" >}}), or DevOps, feel free to book a coffee with me through Naked Agility. Let’s explore how we can enhance your organisation’s agility together!

@@ -16,12 +16,14 @@ aliases:
 - /resources/6L2r8YrehWc
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 - /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
+- /resources/videos/why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 aliasesArchive:
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
 - why-the-scrum-masters-true-power-lies-in-influence-not-authority
+- /resources/videos/why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg
 duration: 237
 isShort: false
@@ -32,14 +34,6 @@ tags:
 - Software Development
 - Agile Leadership
 - Team Performance
-- Agile Frameworks
-- Agile Product Management
-- Agile Transformation
-- Coaching
-- Team Motivation
-- Team Collaboration
-- Pragmatic Thinking
-- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -52,13 +46,13 @@ categories:
 - Technical Leadership
 
 ---
-In the world of Scrum, a common question arises: why isn’t the Scrum Master endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.
+In the world of [Scrum]({{< ref "/categories/scrum" >}}), a common question arises: why isn’t the [Scrum Master]({{< ref "/tags/scrum-master" >}}) endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.
 
 ### Understanding Accountability in Scrum
 
-First and foremost, it’s essential to clarify that the Scrum Master does hold a significant role within the Scrum framework. They are accountable for the effectiveness of the Scrum team. However, this accountability does not translate into explicit authority. Instead, it’s about creating an environment where the team can thrive. 
+First and foremost, it’s essential to clarify that the Scrum Master does hold a significant role within the Scrum framework. They are accountable for the effectiveness of the [Scrum team]({{< ref "/tags/scrum-team" >}}). However, this accountability does not translate into explicit authority. Instead, it’s about creating an environment where the team can thrive. 
 
-- **Product Owner**: Their primary responsibility is to maximise the value of the work done.
+- **[Product Owner]({{< ref "/tags/product-owner" >}})**: Their primary responsibility is to maximise the value of the work done.
 - **Developers**: They focus on maximising the quality of the product they are developing.
 - **Scrum Master**: They are tasked with fostering an effective team environment without the traditional authority that one might expect in a hierarchical structure.
 
@@ -66,7 +60,7 @@ First and foremost, it’s essential to clarify that the Scrum Master does hold 
 
 In many organisations, authority is often used as a tool for escalation. When something goes awry, it’s escalated up the chain, and a decision is made—regardless of whether it’s the right one. This is a common scenario, but it’s not how effective teams operate.
 
-A Scrum Master is a leader, and leadership is fundamentally different from authority. Here’s why:
+A Scrum Master is a leader, and [leadership]({{< ref "/categories/leadership" >}}) is fundamentally different from authority. Here’s why:
 
 - **Influence Over Authority**: Leaders inspire and motivate others to follow them. The Scrum Master must cultivate an environment where team members choose to follow their guidance because they see the value in it.
 - **Skill Development**: It takes real skill to lead without authority. A Scrum Master must understand the processes, practices, and tools relevant to the teams they work with. This includes grasping the technical and business contexts in which the team operates.
@@ -80,6 +74,6 @@ The power of a Scrum Master lies in their ability to provide value. When team me
 
 ### Conclusion
 
-In summary, while the Scrum Master may not wield traditional power or authority, they possess a different kind of influence that is rooted in accountability and the ability to foster an effective team environment. This approach aligns with the agile mindset, which values collaboration, respect, and continuous improvement.
+In summary, while the Scrum Master may not wield traditional power or authority, they possess a different kind of influence that is rooted in accountability and the ability to foster an effective team environment. This approach aligns with the agile mindset, which values collaboration, respect, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-If you found this discussion insightful, I encourage you to engage with me further. Whether you have questions about Scrum, Agile practices, or DevOps, I’m always open to a chat. Feel free to book a coffee with me through Naked Agility, and let’s explore these topics together!
+If you found this discussion insightful, I encourage you to engage with me further. Whether you have questions about Scrum, Agile practices, or [DevOps]({{< ref "/categories/devops" >}}), I’m always open to a chat. Feel free to book a coffee with me through Naked Agility, and let’s explore these topics together!

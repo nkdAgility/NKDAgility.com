@@ -20,6 +20,7 @@ aliases:
 - /resources/KWiWgLFalyA
 - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
 - /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
+- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
 aliasesArchive:
 - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
@@ -30,13 +31,13 @@ aliasesArchive:
 - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
 - /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
 - mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
+- /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scaling
 - Pragmatic Thinking
-- Operational Practices
 resourceTypes:
 - video
 categories:

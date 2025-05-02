@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Scrum Master
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Unlock the Full Potential of Scrum with APS Courses
+## Unlock the Full Potential of [Scrum]({{< ref "/categories/scrum" >}}) with APS Courses
 
-I'm thrilled to bring your attention to the pivotal role an APS (Agile Professional Scrum) course can play in steering your team towards mastering Scrum practices.  🌟
+I'm thrilled to bring your attention to the pivotal role an APS (Agile [Professional Scrum]({{< ref "/tags/professional-scrum" >}})) course can play in steering your team towards mastering Scrum practices.  🌟
 
 In fact, the APS Course is your gateway to Scrum Mastery.
 

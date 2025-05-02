@@ -38,11 +38,6 @@ tags:
 - Continuous Learning
 - Professional Scrum
 - Pragmatic Thinking
-- Coaching
-- Scrum Team
-- Mentoring
-- Software Development
-- Liberating Structures
 resourceTypes:
 - video
 categories:
@@ -51,7 +46,7 @@ categories:
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course
 
-Again, I'm answering a commonly asked question: ' Is the PSM II course (Professional Scrum Master II) simply a validation of your skills, or does it help to develop your abilities and competencies as a Scrum Master?'
+Again, I'm answering a commonly asked question: ' Is the PSM II course (Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II) simply a validation of your skills, or does it help to develop your abilities and competencies as a [Scrum Master]({{< ref "/tags/scrum-master" >}})?'
 
 Although this is a commonly asked question, I think it requires an explanation and the answer may surprise you.
 
@@ -79,7 +74,7 @@ A crucial differentiator is that the Advanced Scrum Master class emphasises faci
 
 The class differentiates between having the title of Scrum Master and fulfilling the Scrum Master's accountability as outlined in the Scrum Guide.
 
-The real objective of the class is to delve into the Scrum Master's accountability to the team, the Product Owner, and the organisation. 💼
+The real objective of the class is to delve into the Scrum Master's accountability to the team, the [Product Owner]({{< ref "/tags/product-owner" >}}), and the organisation. 💼
 
 This is the real heart of the class. 💖
 
@@ -89,7 +84,7 @@ There's real power in facilitation techniques.
 
 ## Enriching the Learning Experience
 
-In my version of the class, I use many liberating structures, connecting them to form a string that leads towards an overall story, shedding light on the 'why' and the 'what' of each exercise.
+In my version of the class, I use many [liberating structures]({{< ref "/tags/liberating-structures" >}}), connecting them to form a string that leads towards an overall story, shedding light on the 'why' and the 'what' of each exercise.
 
 The idea is to enable you to harness these techniques with your teams and in your organisation. I try to explain the meta-process in the class as we go through each exercise, explaining the objective behind each one and the expected outcome.  💫
 

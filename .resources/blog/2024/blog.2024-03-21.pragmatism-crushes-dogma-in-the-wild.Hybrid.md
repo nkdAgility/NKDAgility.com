@@ -26,6 +26,7 @@ aliasesArchive:
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
 categories:
 - Scrum
+- Product Development
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Planning
@@ -42,17 +43,11 @@ tags:
 - Scrum Master
 - Agile Philosophy
 - Market Adaptability
-- Scrum Team
-- Continuous Learning
-- Self Organisation
-- Team Collaboration
-- Complexity Thinking
-- Value Delivery
 
 ---
-In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.
+In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of [Scrum]({{< ref "/categories/scrum" >}}). This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.
 
-The program structured around a series of sprints in Minecraft, aimed to mirror the real-world complexities and dynamism present in product development projects. Starting from the initial chaos of Sprint 1, where participants grappled with the inherent complexity of a new project, the program progressively unfolded to reveal the power of Scrum. By Sprint 2, the fruits of understanding empiricism and embracing a philosophy of flexibility were evident. The teams learned to navigate and adapt to complexities with much less stress and frustration.
+The program structured around a series of sprints in Minecraft, aimed to mirror the real-world complexities and dynamism present in [product development]({{< ref "/categories/product-development" >}}) projects. Starting from the initial chaos of Sprint 1, where participants grappled with the inherent complexity of a new project, the program progressively unfolded to reveal the power of Scrum. By Sprint 2, the fruits of understanding empiricism and embracing a philosophy of flexibility were evident. The teams learned to navigate and adapt to complexities with much less stress and frustration.
 
 However, it was Sprint 3 that truly tested the resilience of the system we had built. With the introduction of unforeseen challenges, such as mobbing in Minecraft and the accidental loss of the project world, the teams were thrust into a scenario of significant complexity. Yet, the response was remarkable. The team's ability to quickly organise, adapt, and maintain direction despite these surprises highlighted the real power of Scrum. It wasn't about rigidly adhering to rules but about maintaining enough structure to guide while allowing for adaptability to unforeseen challenges.
 
@@ -72,11 +67,11 @@ Here are the MUST elements from the Scrum Guide:
 
 - The Sprint Goal must be finalized prior to the end of Sprint Planning.
 
-- \[The Scrum Team\] must fulfill (or abandon) one \[Product Goal\] before taking on the next.
+- \[The [Scrum Team]({{< ref "/tags/scrum-team" >}})\] must fulfill (or abandon) one \[Product Goal\] before taking on the next.
 
-- In order to provide value, the Increment must be usable.
+- In order to provide value, the [Increment]({{< ref "/tags/increment" >}}) must be usable.
 
-- If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum.
+- If the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum.
 
 - If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
 

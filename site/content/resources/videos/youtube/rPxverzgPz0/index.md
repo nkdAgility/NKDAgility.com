@@ -35,16 +35,6 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Agile Frameworks
-- Change Management
-- Team Collaboration
-- Organisational Change
-- Scrum Master
-- Scrum Team
-- Software Development
-- Agile Product Management
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Team Performance
 resourceTypes:
 - video
 categories:
@@ -52,7 +42,7 @@ categories:
 - Product Development
 
 ---
-**Would you recommend the APS course to a newbie scrum team, and Why?**
+**Would you recommend the APS course to a newbie [scrum]({{< ref "/categories/scrum" >}}) team, and Why?**
 
 Why the APS Course is a Must for Newbie Scrum Teams
 
@@ -68,11 +58,11 @@ As I've discussed in previous articles, APS's outcomes are exceptional and enlig
 
  It's not just about learning the ropes of Scrum but also about realising the modifications required in your current operational structures. 🔄
 
-### Organisational Change
+### [Organisational Change]({{< ref "/tags/organisational-change" >}})
 
 One of the most impactful exercises in the APS course involves reflecting on what changes your organisation, as a team, needs to make to be successful with Scrum.  🤔
 
-If you're a new team, you have the benefit of a fresh perspective.  This course helps you identify gaps in transparency, accountability, and interactions that may be missing in your organisation.
+If you're a new team, you have the benefit of a fresh perspective.  This course helps you identify gaps in [transparency]({{< ref "/tags/transparency" >}}), accountability, and interactions that may be missing in your organisation.
 
 It's all about strategising for success. 🎯👍
 
@@ -80,7 +70,7 @@ It's all about strategising for success. 🎯👍
 
 The highlight of the course for many new teams is creating an 'Organizational Change Backlog'.  This achievement can be incredibly powerful, especially when leaders are in the room.  💪 And it's usually not difficult for me to tell who the leaders are in that room and nearly always, I'm right.
 
-This backlog represents a collective understanding of what needs to shift in your organisation to make Scrum work effectively.  This is a great way to ensure your team feels heard and it promotes active participation from leadership. 🗣️
+This backlog represents a collective understanding of what needs to shift in your organisation to make Scrum work effectively.  This is a great way to ensure your team feels heard and it promotes active participation from [leadership]({{< ref "/categories/leadership" >}}). 🗣️
 
 ### Teams Drive Change
 

@@ -35,17 +35,6 @@ tags:
 - Scrum Team
 - Product Discovery
 - Agile Product Management
-- Agile Frameworks
-- Agile Planning
-- Agile Transformation
-- Market Adaptability
-- Product Backlog
-- Software Development
-- Value Delivery
-- Working Software
-- Agile Strategy
-- Product Delivery
-- Product Strategy
 resourceTypes:
 - video
 categories:
@@ -60,7 +49,7 @@ In my opinion, it’s the whole ball game.
 
 <figcaption>
 
-How much of an impact can a strong, skilled product owner have?
+How much of an impact can a strong, skilled [product owner]({{< ref "/tags/product-owner" >}}) have?
 
 </figcaption>
 
@@ -82,7 +71,7 @@ If all we do is produce stuff, we end up with a feature factory that is super pr
 
 ## The value of a great product owner.
 
-This is where Scrum really got it right. By creating the product owner role, they created an environment where the cocreation of valuable products and features serves both the customer as well as the organization.
+This is where [Scrum]({{< ref "/categories/scrum" >}}) really got it right. By creating the product owner role, they created an environment where the cocreation of valuable products and features serves both the customer as well as the organization.
 
 A product owner works closely with customers and product stakeholders to identify the most compelling problems to be solved, and the most valuable solutions that need to be built.
 
@@ -90,7 +79,7 @@ Having someone in the organization that is focused on ensuring that the right th
 
 ### The difference between an average product owner and a great product owner.
 
-An average product owner is going to be thinking about becoming the funnel for the organization, the customer, and the product stakeholders. The central part of contact that assimilates all the information and requests into a single product backlog with a user story for each item.
+An average product owner is going to be thinking about becoming the funnel for the organization, the customer, and the product stakeholders. The central part of contact that assimilates all the information and requests into a single [product backlog]({{< ref "/tags/product-backlog" >}}) with a user story for each item.
 
 When you work with a great product owner, they aren’t looking at that. They have delegated that element of assimilating information from customers into a product backlog to the team.
 
@@ -136,7 +125,7 @@ There’s a great book called ”[crossing the chasm](https://www.amazon.com/Cro
 
 We’re doing this because what the early adopters want today, the laggards want in six months time.
 
-Just planting the idea with the early adopters enables the organization to lead the market rather than follow the market. This is what great product owners do. They use empiricism and evidence based management to anticipate where things are headed and what is need to serve that market.
+Just planting the idea with the early adopters enables the organization to lead the market rather than follow the market. This is what great product owners do. They use empiricism and [evidence based management]({{< ref "/tags/evidence-based-management" >}}) to anticipate where things are headed and what is need to serve that market.
 
 ## About NKD Agility
 

@@ -18,6 +18,7 @@ isShort: false
 aliases:
 - /resources/7O-LmzmxUkE
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-1.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1-
@@ -27,6 +28,7 @@ aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
 - scrum-is-like-communism-it-doesnt-work-myth-1-
 - scrum-is-like-communism-it-doesnt-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-1.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,12 +40,6 @@ tags:
 - Empirical Process Control
 - Agile Frameworks
 - Daily Scrum
-- Agile Product Management
-- Agile Transformation
-- Scrum Master
-- Transparency
-- Product Delivery
-- Team Performance
 resourceTypes:
 - video
 layout: video
@@ -52,7 +48,7 @@ categories:
 - Product Development
 
 ---
-# Demystifying Scrum: Beyond Meetings to Meaningful Events 🚀
+# Demystifying [Scrum]({{< ref "/categories/scrum" >}}): Beyond Meetings to Meaningful Events 🚀
 
 Hey there, Agile enthusiasts! Today, I'm tackling a pervasive myth that's been haunting the corridors of Scrum practice: **the belief that Scrum equals endless talking and not enough doing.** It's a misconception that can turn teams away from the true essence and benefits of Scrum. Let's dive into why Scrum's so-called "ceremonies" are much more than just meetings, and how each event is designed to foster empiricism and action. 🌟
 
@@ -68,13 +64,13 @@ Scrum deliberately labels its structured engagements as **events**—not ceremon
 
 Take **Sprint Planning**, for example. It's not just a meeting; it's where the team aligns on the **Sprint Goal**, selects **backlog items**, and sketches out a **starter plan**. The outcome? A clear direction for the Sprint, ensuring everyone knows what's being tackled and why.
 
-### Breaking Down the Daily Scrum: A Catalyst for Daily Progress 🕒
+### Breaking Down the [Daily Scrum]({{< ref "/tags/daily-scrum" >}}): A Catalyst for Daily Progress 🕒
 
-And what about the often-misunderstood **Daily Scrum**? Far from being a time-consuming status update, it's a concise 15-minute pow-wow where the team plans the next 24 hours based on the current state of the Sprint Backlog. It's about maintaining transparency, inspecting progress, and adapting the plan in real-time to stay on course towards the Sprint Goal.
+And what about the often-misunderstood **Daily Scrum**? Far from being a time-consuming status update, it's a concise 15-minute pow-wow where the team plans the next 24 hours based on the current state of the Sprint Backlog. It's about maintaining [transparency]({{< ref "/tags/transparency" >}}), inspecting progress, and adapting the plan in real-time to stay on course towards the Sprint Goal.
 
-## Engaging Stakeholders: The Sprint Review Invitation 💌
+## Engaging Stakeholders: The [Sprint Review]({{< ref "/tags/sprint-review" >}}) Invitation 💌
 
-How do we ensure stakeholders show up engaged and ready to provide valuable feedback during the **Sprint Review**? By giving them something they care about to discuss. The Sprint Goal isn't just a target; it's an invitation to a dialogue—a chance to inspect the increment and adapt based on stakeholder insights.
+How do we ensure stakeholders show up engaged and ready to provide valuable feedback during the **Sprint Review**? By giving them something they care about to discuss. The Sprint Goal isn't just a target; it's an invitation to a dialogue—a chance to inspect the [increment]({{< ref "/tags/increment" >}}) and adapt based on stakeholder insights.
 
 ### Empowering Teams: From Silence to Empiricism 🚣
 
@@ -86,4 +82,4 @@ The essence of Scrum lies in its ability to turn routine engagements into meanin
 
 Remember, the goal of implementing Scrum isn't to fill your calendar with meetings but to create a rhythm of inspection, adaptation, and progress that moves your team closer to its goals with every cycle.
 
-_If you've enjoyed this demystification of Scrum events and are eager to dive deeper into Agile, Scrum, or DevOps, don't hesitate to reach out. Let's continue the conversation over a coffee chat and explore how we can bring the true spirit of empiricism to life in your teams._
+_If you've enjoyed this demystification of Scrum events and are eager to dive deeper into Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), don't hesitate to reach out. Let's continue the conversation over a coffee chat and explore how we can bring the true spirit of empiricism to life in your teams._

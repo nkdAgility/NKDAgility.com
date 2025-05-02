@@ -39,9 +39,6 @@ tags:
 - Organisational Culture
 - Psychological Safety
 - Team Motivation
-- Organisational Agility
-- Agile Values and Principles
-- Personal
 resourceTypes:
 - video
 categories:
@@ -62,10 +59,10 @@ In the dynamic world of Agile, wrath often lurks in the shadows, manifesting as 
 
 - **Breaking the Cycle of Blame**: The key to overcoming wrath in Agile teams is to foster an environment where accountability is valued more than blame. This means creating a culture where it's safe to make and admit mistakes. 
 
-- **Product Owner's Role in Accountability**: In situations where questions are raised about the team's decisions, the Product Owner should step in, owning the decisions made, and steer the conversation towards constructive feedback and potential improvements. 
+- **[Product Owner]({{< ref "/tags/product-owner" >}})'s Role in Accountability**: In situations where questions are raised about the team's decisions, the Product Owner should step in, owning the decisions made, and steer the conversation towards constructive feedback and potential improvements. 
 
 - **Encouraging Risk-Taking and Learning**: Teams should be encouraged to experiment and learn from outcomes. This attitude helps in breaking the cycle of wrath and promotes a more resilient and adaptive team culture. 
 
 **Conclusion: Embracing Mistakes as Stepping Stones 🌟🌈** 
 
-To truly thrive in an Agile environment, it's essential to transform the wrathful tendency of seeking blame into a culture of shared accountability and continuous learning. By doing so, teams can move beyond the fear of being wrong and embrace each challenge as an opportunity to grow and innovate. Remember, in Agile, it's not about avoiding mistakes; it's about how we respond to and learn from them.
+To truly thrive in an Agile environment, it's essential to transform the wrathful tendency of seeking blame into a culture of shared accountability and [continuous learning]({{< ref "/tags/continuous-learning" >}}). By doing so, teams can move beyond the fear of being wrong and embrace each challenge as an opportunity to grow and innovate. Remember, in Agile, it's not about avoiding mistakes; it's about how we respond to and learn from them.

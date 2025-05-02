@@ -19,19 +19,20 @@ isShort: true
 aliases:
 - /resources/AY35ys1uQOY
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
+- /resources/videos/how-do-you-know-if-you-ve-got-a-great-sprint-goal
 aliasesArchive:
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
+- /resources/videos/how-do-you-know-if-you-ve-got-a-great-sprint-goal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Software Development
 - Agile Product Management
-- Agile Planning
 resourceTypes:
 - video
 categories:
@@ -67,7 +68,7 @@ That's your litmus test for a top-notch sprint goal. 💫
 
 ## The Golden Nugget
 
-When your sprint goal has the power to pique curiosity, sparking questions like "How does this work?", "What does this mean?" and "How can we make this happen?" you can bet that you've hit the 'Scrum' bullseye. 🎯
+When your sprint goal has the power to pique curiosity, sparking questions like "How does this work?", "What does this mean?" and "How can we make this happen?" you can bet that you've hit the '[Scrum]({{< ref "/categories/scrum" >}})' bullseye. 🎯
 
 It's all about creating a buzz, stirring up interest, stoking enthusiasm, and generating that collective, anticipatory "We can't wait to get started!" energy. 🎉
 

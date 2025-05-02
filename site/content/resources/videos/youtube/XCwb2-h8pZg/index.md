@@ -14,8 +14,6 @@ slug: unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-ag
 layout: video
 aliases:
 - /resources/XCwb2-h8pZg
-- /resources/videos/unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
-- /resources/videos/kanban-with-team-foundation-service
 aliasesArchive:
 - /resources/videos/kanban-with-team-foundation-service
 - /resources/kanban-with-team-foundation-service
@@ -31,7 +29,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 Welcome to my blog! I’m Martin Hinshelwood, a Visual Studio ALM MVP, Visual Studio ALM Ranger, and a professional Scrum trainer. Today, I want to share my insights on TFS Preview, Microsoft’s cloud-based offering that’s making waves in the world of application lifecycle management. If you’re looking to enhance your project management capabilities, you’ll want to pay attention to what TFS Preview has to offer.
