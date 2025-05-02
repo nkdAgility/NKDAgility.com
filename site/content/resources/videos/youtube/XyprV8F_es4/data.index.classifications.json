@@ -1625,5 +1625,44 @@
     "final_score": 68.0,
     "reasoning": "The content discusses various aspects of leadership aimed at driving cultural change which indirectly contributes to developing capabilities within organisations. It mentions establishing a clear vision and fostering a culture of continuous learning, which are aligned with capacity building. However, the primary focus is on leadership roles and tooling rather than on systemic capabilities themselves, resulting in a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "XyprV8F_es4",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:27",
+    "ai_confidence": 53.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 53.0,
+    "reasoning": "The content briefly discusses tools and automation within the context of achieving continuous delivery, indicating a relevance to the 'Tool' category. However, it does not dive deeply into specific tools or feature a comparative analysis, which lowers the overall depth score. The direct mentions of 'tools' and 'automation' suggest some alignment, but the primary focus remains on leadership and cultural change, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Values": {
+    "resourceId": "EmpoweringLeadership-AgileSuccess",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:27",
+    "ai_confidence": 37.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "While the content discusses cultural change driven by leadership, it focuses more on practical steps and organizational tools rather than deeply exploring underlying values. The mention of purpose aligns with core values but is not the central theme. There are references to fostering collaboration and continuous learning, suggesting some alignment with values, but the primary focus is on actions and methodologies rather than a philosophical exploration of values.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "EmpoweringLeadership_AgileChange",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:27",
+    "ai_confidence": 54.0,
+    "ai_mentions": 12,
+    "ai_alignment": 22,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 54.0,
+    "reasoning": "The content discusses the role of leadership in driving cultural change within Agile frameworks, emphasizing actionable aspects such as setting a clear vision, fostering collaboration, and continuous improvement. While 'values' like purpose and collaboration are touched upon, the focus remains on how these principles influence decision-making and behavior in an Agile context, particularly around self-management and adaptability. The depth of specific actionable steps and concepts related to improvement and collaboration further aligns with the principle category.",
+    "level": "Tertiary"
   }
 }
