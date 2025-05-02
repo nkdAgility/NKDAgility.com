@@ -36,6 +36,7 @@ tags:
 categories:
 - Scrum
 - Product Management
+- Product Development
 preview: 993957510-1-1.jpg
 
 ---

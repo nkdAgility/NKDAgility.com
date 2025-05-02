@@ -50,6 +50,7 @@ tags:
 - Product Backlog
 - Pragmatic Thinking
 categories:
+- Product Development
 - Product Management
 - Scrum
 preview: image-3-3.png

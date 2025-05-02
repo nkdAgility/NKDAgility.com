@@ -29,8 +29,10 @@ aliasesArchive:
 - /resources/blog/scaling-professional-scrum-visual-studio-team-services
 tags:
 - Software Development
+- Scaling
 categories:
 - Scrum
+- Product Development
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 
 ---

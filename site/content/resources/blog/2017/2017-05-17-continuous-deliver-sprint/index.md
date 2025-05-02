@@ -47,6 +47,7 @@ tags:
 - Value Delivery
 categories:
 - Scrum
+- Product Development
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

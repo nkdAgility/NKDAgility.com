@@ -12,19 +12,19 @@ author: MrHinsh
 resourceTypes: newsletter
 slug: 2024-learning-journeys-and-extending-the-learning-process
 aliases:
-  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
-  - /resources/-wdSJlbQQbK
+- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+- /resources/-wdSJlbQQbK
 aliasesArchive:
-  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
-  - Scrum
+- Scrum
 tags:
-  - Continuous Learning
-  - Pragmatic Thinking
----
+- Continuous Learning
+- Pragmatic Thinking
 
+---
 We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:
 
 ![](images/2023-12-01_14-10-36-1-800x363.webp)

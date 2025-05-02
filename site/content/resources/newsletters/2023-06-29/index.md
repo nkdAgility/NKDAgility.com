@@ -12,21 +12,21 @@ resourceTypes: newsletter
 layout: newsletter
 slug: july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century
 aliases:
-  - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-  - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-  - /resources/A1Gq5rHDvzC
+- /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /resources/A1Gq5rHDvzC
 aliasesArchive:
-  - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
-  - /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
+- /resources/newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
 categories:
-  - Scrum
-  - Product Development
+- Scrum
+- Product Development
 tags:
-  - Continuous Learning
-  - Competence
-  - Organisational Agility
----
+- Continuous Learning
+- Competence
+- Organisational Agility
 
+---
 Dear NKD Agilists!
 
 We are thrilled to unveil our latest endeavour in revolutionizing how we work, build, and achieve results in the 21st century. Brace yourselves for an extraordinary announcement: NKD Agility proudly presents our new multi-week immersive learning experiences designed to empower individuals like you with the skills, knowledge, and [competence]({{< ref "/tags/competence" >}}) to become the next generation of agile practitioners.

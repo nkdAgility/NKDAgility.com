@@ -37,7 +37,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 How is agile [product development]({{< ref "/categories/product-development" >}}) different to waterfall [project management]({{< ref "/tags/project-management" >}})?

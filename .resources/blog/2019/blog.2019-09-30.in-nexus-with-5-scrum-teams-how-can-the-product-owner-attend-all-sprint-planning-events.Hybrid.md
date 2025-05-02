@@ -40,6 +40,7 @@ tags:
 - Product Owner
 categories:
 - Scrum
+- Product Development
 preview: 146713119-1-1.jpg
 
 ---

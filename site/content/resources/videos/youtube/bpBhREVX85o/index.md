@@ -32,7 +32,7 @@ tags: []
 resourceTypes:
 - video
 categories:
-- Uncategorized
+- Product Development
 
 ---
 How does [scrum]({{< ref "/categories/scrum" >}}) help [leadership]({{< ref "/categories/leadership" >}}) teams pick the most valuable work to focus on?

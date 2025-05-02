@@ -40,6 +40,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 What will you learn on the professional [scrum]({{< ref "/categories/scrum" >}}) master course?

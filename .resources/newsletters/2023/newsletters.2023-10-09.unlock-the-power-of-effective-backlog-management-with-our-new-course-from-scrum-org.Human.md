@@ -13,24 +13,24 @@ resourceTypes: newsletter
 layout: newsletter
 slug: unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org
 aliases:
-  - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-  - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-  - /resources/2G_gVI5phMC
+- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /resources/2G_gVI5phMC
 aliasesArchive:
-  - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-  - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
+- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
-  - Scrum
-  - Product Development
+- Scrum
+- Product Development
 tags:
-  - Agile Product Management
-  - Product Backlog
-  - Software Development
-  - Agile Frameworks
-  - Professional Scrum
-  - Product Owner
----
+- Agile Product Management
+- Product Backlog
+- Software Development
+- Agile Frameworks
+- Professional Scrum
+- Product Owner
 
+---
 Dive deep into the world of **[Scrum]({{< ref "/categories/scrum" >}})'s [Product Backlog]({{< ref "/tags/product-backlog" >}}) Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainers. 🚀
 
 [Sign up for a public class](https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/)

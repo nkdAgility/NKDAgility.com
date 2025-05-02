@@ -40,9 +40,9 @@ tags:
 - Product Owner
 - Value Delivery
 categories:
+- Product Development
 - Scrum
 - Product Management
-- Engineering Excellence
 preview: nkdAgility-backlog-item-approve-1-1.jpg
 
 ---

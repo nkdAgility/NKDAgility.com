@@ -42,6 +42,7 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
+- Product Development
 
 ---
 What would you advise a [scrum]({{< ref "/categories/scrum" >}}) team to do in their first 4 weeks?

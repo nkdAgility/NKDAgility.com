@@ -35,6 +35,7 @@ tags:
 - Agile Transformation
 categories:
 - Scrum
+- Product Development
 preview: clip_image006_thumb-3-3.jpg
 
 ---

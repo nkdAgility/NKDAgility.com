@@ -13,17 +13,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: newsletter-2022
 aliases:
-  - /newsletters/newsletter-2022/
-  - /resources/newsletters/newsletter-2022/
-  - /resources/Kn3i3yGquon
+- /newsletters/newsletter-2022/
+- /resources/newsletters/newsletter-2022/
+- /resources/Kn3i3yGquon
 aliasesArchive:
-  - /newsletters/newsletter-2022/
-  - /resources/newsletters/newsletter-2022/
+- /newsletters/newsletter-2022/
+- /resources/newsletters/newsletter-2022/
 categories:
-  - Uncategorized
+- Uncategorized
 tags: []
----
 
+---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.
 
 Why? Because it empowers us to run experiments, frequently inspect, and regularly adapt. That’s how we navigate complexity. That’s how we create value, despite uncertainty, regardless of the industry or environment we serve.

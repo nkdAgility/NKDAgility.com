@@ -1,5 +1,5 @@
 ---
-title: "February 2023 NKDAgility: How much of an impact can a strong, skilled product owner have?"
+title: 'February 2023 NKDAgility: How much of an impact can a strong, skilled product owner have?'
 description: Navigate economic uncertainty with strong product ownership. Discover how skilled product owners can drive value and competitive advantage in your organisation.
 ResourceId: Kofi3sgOhDX
 ResourceImport: true
@@ -13,17 +13,18 @@ resourceTypes: newsletter
 layout: newsletter
 slug: february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
-  - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-  - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-  - /resources/Kofi3sgOhDX
+- /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+- /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+- /resources/Kofi3sgOhDX
 aliasesArchive:
-  - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-  - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+- /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+- /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 categories:
-  - Product Management
+- Product Management
+- Product Development
 tags: []
----
 
+---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.
 
 In conjunction with this, we’ve also seen a great deal of predictions for a rough 2023 from an economic perspective. A deep recession that is anticipated to last until the second quarter of 2024.

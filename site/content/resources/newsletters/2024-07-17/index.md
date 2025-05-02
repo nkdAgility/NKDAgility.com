@@ -12,23 +12,23 @@ resourceTypes: newsletter
 layout: newsletter
 slug: introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org
 aliases:
-  - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-  - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-  - /resources/w5rxdL8YHNa
+- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+- /resources/w5rxdL8YHNa
 aliasesArchive:
-  - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-  - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 categories:
-  - Product Management
-  - Product Development
+- Product Management
+- Product Development
 tags:
-  - Product Discovery
-  - Product Validation
-  - Agile Product Management
-  - Value Delivery
-  - Product Delivery
----
+- Product Discovery
+- Product Validation
+- Agile Product Management
+- Value Delivery
+- Product Delivery
 
+---
 **Dear Innovators and Product Enthusiasts,**
 
 We are thrilled to announce the upcoming Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org—a transformative experience designed to elevate your [product development]({{< ref "/categories/product-development" >}}) journey to new heights. If you are committed to developing products and features that resonate deeply with customers, this workshop is your gateway to achieving that goal.

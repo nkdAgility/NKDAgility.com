@@ -12,20 +12,20 @@ resourceTypes: newsletter
 layout: newsletter
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
-  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-  - /resources/bvPDNFJju4h
+- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+- /resources/bvPDNFJju4h
 aliasesArchive:
-  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
-  - Product Development
-  - Product Management
+- Product Development
+- Product Management
 tags:
-  - Product Validation
-  - Product Discovery
----
+- Product Validation
+- Product Discovery
 
+---
 **Dear Innovators and Product Enthusiasts,**
 
 **Only 5 days left!** This is your last chance to join us for the Professional [Product Validation]({{< ref "/tags/product-validation" >}}) and Discovery Workshop from [Scrum]({{< ref "/categories/scrum" >}}).org!

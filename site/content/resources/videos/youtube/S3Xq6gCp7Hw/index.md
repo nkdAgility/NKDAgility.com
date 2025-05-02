@@ -39,6 +39,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 
 ---
 In my opinion, it’s the whole ball game.

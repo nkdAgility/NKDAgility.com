@@ -31,6 +31,7 @@ tags:
 - Team Performance
 - Scrum Team
 - Software Development
+- Liberating Structures
 - Professional Scrum
 - Team Collaboration
 - Scrum Master

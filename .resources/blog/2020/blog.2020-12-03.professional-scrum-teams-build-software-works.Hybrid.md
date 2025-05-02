@@ -46,7 +46,7 @@ tags:
 categories:
 - Scrum
 - Engineering Excellence
-- Technical Leadership
+- Product Development
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 
 ---

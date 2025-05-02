@@ -1,5 +1,5 @@
 ---
-title: "May 2023 NKDAgility: Leveling up giveaway of Professional Scrum"
+title: 'May 2023 NKDAgility: Leveling up giveaway of Professional Scrum'
 description: Future-proof your career with NKD Agility! Join our community, explore training opportunities, and compete for a chance to win a Scrum course.
 ResourceId: 6h1D_YPjPuU
 ResourceImport: true
@@ -12,17 +12,17 @@ resourceTypes: newsletter
 layout: newsletter
 slug: may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum
 aliases:
-  - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-  - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-  - /resources/6h1D_YPjPuU
+- /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+- /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+- /resources/6h1D_YPjPuU
 aliasesArchive:
-  - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-  - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+- /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+- /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 categories:
-  - Uncategorized
+- Uncategorized
 tags: []
----
 
+---
 The world is spinning faster than ever, with more players than ever.
 
 The introduction of Chat GPT has excited a few people but alarmed many. Sure, Chat GPT is nowhere near as bright as many of the other AI projects in play. Still, it is already showing how mediocre, repeatable work can be designated to AI or automated. This a glimpse of a future where the minimum standard won’t be enough, and you’ll need to dig deeper and deliver high-value work.

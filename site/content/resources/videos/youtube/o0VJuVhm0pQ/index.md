@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Unrealised Value
 - Agile Frameworks
 - Empirical Process Control
 - Software Development
@@ -36,6 +37,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 - Scrum
 
