@@ -230,7 +230,7 @@ function Submit-OpenAIBatch {
     $counter = 0
     $nextPercent = 10
     $BatchData = $Prompts | ForEach-Object {
-        $tokenEstimate += Get-TokenCount $_
+        $tokenEstimate += $_.TokenEstimate
         $counter++
         $percent = [math]::Floor(($counter / $total) * 100)
         if ($percent -ge $nextPercent) {

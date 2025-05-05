@@ -382,7 +382,7 @@ function Get-RecentHugoMarkdownResources {
     Write-InformationLog "Retrieving markdown files from '$Path'..."
 
     $cutoffDate = (Get-Date).AddYears(-$YearsBack)
-    $resources = Get-ChildItem -Path $Path -Recurse -Filter "index.md" | Sort-Object { $_ } -Descending
+    $resources = Get-ChildItem -Path "$Path\*" -Recurse -Include "index.md", "_index.md" | Sort-Object { $_ } -Descending
     $resourceCount = $resources.Count
     $progressStep = [math]::Ceiling($resourceCount / 10)
     $hugoMarkdownObjects = @()
