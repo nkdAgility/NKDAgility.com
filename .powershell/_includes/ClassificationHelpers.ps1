@@ -197,7 +197,7 @@ function Update-ClassificationsForHugoMarkdownList {
     $prompts = @();
     $total = $hugoMarkdownList.Count
     $counter = 0
-    $nextPercent = 10
+    $nextPercent = 1
     foreach ($hugoMarkdown in $hugoMarkdownList) {
         $newPrompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
         Write-DebugLog "For {ResourceId} we need to update {count}" -PropertyValues $hugoMarkdown.FrontMatter.ResourceId, $CatalogItemsToRefreshOrGet.Count
@@ -207,8 +207,8 @@ function Update-ClassificationsForHugoMarkdownList {
         $counter++
         $percent = [math]::Floor(($counter / $total) * 100)
         if ($percent -ge $nextPercent) {
-            Write-InfoLog "Prompts Built for {done} of {total} markdown files ({percent}%)" -PropertyValues $counter, $total, $percent
-            $nextPercent += 10
+            Write-InfoLog "{count} prompts Built for {done} of {total} markdown files ({percent}%)" -PropertyValues $prompts.count, $counter, $total, $percent
+            $nextPercent += 1
         }
     }
 
