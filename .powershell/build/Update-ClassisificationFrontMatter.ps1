@@ -200,11 +200,24 @@ $hugoMarkdownList | ForEach-Object {
     if ($hugoMarkdown.BodyContent -and $hugoMarkdown.FolderPath -notlike "*concepts*") {
         $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
         $typesClassificationOrdered = @(Get-ClassificationOrderedList -minScore 60 -classifications $typesClassification | Select-Object -First 1)
-        $types = $typesClassificationOrdered | ForEach-Object { $_.category }
+        $types = $typesClassificationOrdered | Where-Object { $_.category -ne $hugoMarkdown.FrontMatter.Title } | ForEach-Object { $_.category }
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($types) -Overwrite
+        Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     }
-
-       
+    if ($hugoMarkdown.BodyContent -and $hugoMarkdown.FolderPath -notlike "*concepts*" -and $hugoMarkdown.FolderPath -notlike "*categories*") {
+        # Categroies
+        $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+        $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
+        $categories = $categoryClassificationOrdered | Where-Object { $_.category -ne $hugoMarkdown.FrontMatter.Title } | ForEach-Object { $_.category }
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+        Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+        # Tags
+        $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+        $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $tagClassification | Select-Object -First 15
+        $tags = $tagClassificationOrdered | Where-Object { $_.category -ne $hugoMarkdown.FrontMatter.Title } | ForEach-Object { $_.category }
+        Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+        Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+    }
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile 
 
