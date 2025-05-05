@@ -9,7 +9,7 @@
 $ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources" -YearsBack 1
 
 ##############################################
 Update-ClassificationsForHugoMarkdownList -hugoMarkdownList $hugoMarkdownObjects

@@ -207,41 +207,77 @@ function Update-ClassificationsForHugoMarkdownList {
         $counter++
         $percent = [math]::Floor(($counter / $total) * 100)
         if ($percent -ge $nextPercent) {
-            Write-InfoLog "Processed {done} of {total} markdown files ({percent}%)" -PropertyValues $counter, $total, $percent
+            Write-InfoLog "Prompts Built for {done} of {total} markdown files ({percent}%)" -PropertyValues $counter, $total, $percent
             $nextPercent += 10
         }
     }
 
     ######
     Write-InfoLog "We have {count} prompts to batch" -PropertyValues $prompts.Count
-    $maxBatchSize = 1000
+
+    $maxItemsPerBatch = 50000
+    $maxBatchFileSizeMB = 200
+    $maxBatchFileSizeBytes = $maxBatchFileSizeMB * 1MB
+    $maxDailyTokens = 100000000
+    
+    $totalTokens = ($prompts | Measure-Object -Property TokenEstimate -Sum).Sum
+    Write-WarningLog "Total tokens: $totalTokens"
+    
+    if ($totalTokens -gt $maxDailyTokens) {
+        Write-WarningLog "Total token estimate exceeds daily limit of $maxDailyTokens. Exiting."
+        return
+    }
+    
     $batchesInProgress = 0
-
-    for ($i = 0; $i -lt $prompts.Count; $i += $maxBatchSize) {
-        $chunk = $prompts[$i..([Math]::Min($i + $maxBatchSize - 1, $prompts.Count - 1))]
-        $batchJsonlInput = Join-Path $CacheFolder "batch-$i.jsonl" # adjust path or naming as needed
-
-        $result = Submit-OpenAIBatch -Prompts $chunk -OutputFile $batchJsonlInput
-
+    $currentIndex = 0
+    $batches = @()
+    
+    while ($currentIndex -lt $prompts.Count) {
+        $currentBatch = @()
+        $currentTokenSum = 0
+        $currentSizeBytes = 0
+    
+        while ($currentIndex -lt $prompts.Count -and 
+            $currentBatch.Count -lt $maxItemsPerBatch -and
+            $currentSizeBytes -lt $maxBatchFileSizeBytes) {
+    
+            $prompt = $prompts[$currentIndex]
+            $promptString = $prompt.Prompt
+            $promptSizeBytes = [Text.Encoding]::UTF8.GetByteCount($promptString)
+            
+            if (($currentSizeBytes + $promptSizeBytes) -gt $maxBatchFileSizeBytes) {
+                break  # adding this prompt would exceed the batch size, so stop
+            }
+    
+            $currentBatch += $promptString
+            $currentTokenSum += $prompt.TokenEstimate
+            $currentSizeBytes += $promptSizeBytes
+    
+            $currentIndex++
+        }
+    
+        $batchJsonlInput = Join-Path $CacheFolder "batch-$currentIndex.jsonl"
+        $result = Submit-OpenAIBatch -Prompts $currentBatch -OutputFile $batchJsonlInput
+    
         if ($result.batchId) {
             $batchesInProgress++
-
-            $newBatch = @{
+    
+            $newBatch = [PSCustomObject]@{
                 batchId       = $result.batchId
                 status        = "submitted"
                 submittedAt   = (Get-Date).ToString("o")
-                promptCount   = $chunk.Count
+                promptCount   = $currentBatch.Count
                 inputFile     = $batchJsonlInput
-                tokenEstimate = $result.tokenEstimate
+                tokenEstimate = $currentTokenSum
                 errors        = $null
             }
-
-            $batches += [PSCustomObject]$newBatch
-            # Save batch tracking to file
+    
+            $batches += $newBatch
             $batches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
-            Write-InformationLog "Batch submitted: $batchId with $($chunk.Count) prompts."
+            Write-InformationLog "Batch submitted: $($result.batchId) with $($currentBatch.Count) prompts."
+            
             if ($result.BatchesInProgress -ge $result.BatchesInProgressMax) {
-                Write-WarningLog "Reached maximum number of batches in progress ($batchesInProgressMax). Stopping submission."
+                Write-WarningLog "Reached maximum batches in progress ($batchesInProgressMax). Stopping submission."
                 break
             }
         }
@@ -249,7 +285,18 @@ function Update-ClassificationsForHugoMarkdownList {
             Write-WarningLog "Batch not submitted. Too many tokens in progress. Try again later."
         }
     }
+    
 
+}
+
+class PromptForHugoMarkdown {
+    [string]$Prompt
+    [int]$TokenEstimate
+
+    PromptForHugoMarkdown([string]$prompt, [int]$tokenEstimate) {
+        $this.Prompt = $Prompt
+        $this.TokenEstimate = $TokenEstimate
+    }
 }
 
 function Get-PromptsForHugoMarkdown {
@@ -268,7 +315,7 @@ function Get-PromptsForHugoMarkdown {
     $CatalogItemsToRefreshOrGet = Get-CatalogItemsToRefreshOrGet -cachedData $cachedData -Catalog $catalog -CatalogFromCache $CatalogFromCache
     $prompts = @()
     foreach ($category in $CatalogItemsToRefreshOrGet) {
-        $prompt = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
+        $promptText = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
             resourceId   = $hugoMarkdown.FrontMatter.ResourceId
             category     = $category
             Instructions = $Catalog[$category].Instructions
@@ -276,7 +323,13 @@ function Get-PromptsForHugoMarkdown {
             abstract     = $hugoMarkdown.FrontMatter.Description
             content      = $hugoMarkdown.BodyContent
         }
-        $prompts += $prompt
+
+        $tokenEstimate = Get-TokenCount -Content $promptText
+
+        $promptObject = [PromptForHugoMarkdown]::new($promptText, [int]$tokenEstimate)
+
+
+        $prompts += $promptObject
     }
     return $prompts;
 }
@@ -318,6 +371,7 @@ function Get-ClassificationsForType {
 
     if ([datetime]$hugoMarkdown.FrontMatter.date -gt [datetime](Get-Date)) {
         Update-MissingClassificationsLive -hugoMarkdown $hugoMarkdown -catalog $catalog
+
     }
     # Load from Cache and validate its contents
     $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
@@ -343,7 +397,7 @@ function Update-MissingClassificationsLive {
     foreach ($prompt in $prompts) {
         $count++
         # Calls processing
-        $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
+        $aiResponseJson = Get-OpenAIResponse -Prompt $prompt.Prompt
         $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -hugoMarkdown $hugoMarkdown
         if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
             $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
@@ -685,6 +739,7 @@ function Get-CatalogItemsToRefreshOrGet {
         [Hashtable]$CatalogFromCache
 
     )
+
     $catalog_full = $catalogues["catalog_full"]
     # Find items from the catalogue that we don't have.
     $CatalogItemsToRefreshOrGet = @($Catalog.Keys | Where-Object { $_ -notin $cachedData.Keys })
