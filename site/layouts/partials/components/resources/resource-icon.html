@@ -11,6 +11,8 @@
   <i class="fa-solid fa-shield-check"></i>
 {{ else if eq $ResourceType "recipes" }}
   <i class="fa-solid fa-cauldron"></i>
+{{ else if eq $ResourceType "signals" }}
+  <i class="fa-regular fa-signal-stream"></i>
 {{ else }}
   <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
 {{ end }}
