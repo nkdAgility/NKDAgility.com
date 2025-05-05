@@ -4,7 +4,7 @@ abstract: The Product Backlog is a dynamic and prioritised list of work items th
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
-date: 2025-02-11T10:17:24Z
+date: 2025-05-05T10:17:24Z
 description: Strategies and techniques for effective backlog management and refinement.
 Instructions: |-
   **Use this category only for discussions on Product Backlog.**  
