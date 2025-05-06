@@ -6,11 +6,25 @@ ResourceImport: false
 ResourceType: engineering-notes
 ResourceContentOrigin: human
 date: 2025-05-08T09:00:00Z
+weight: 260
 aliases:
 - /resources/mjsboLP-N9P
 categories:
 - Engineering Excellence
 - DevOps
+tags:
+- Pragmatic Thinking
+- Software Development
+- Technical Mastery
+- Operational Practices
+- Troubleshooting
+- Personal
+- Continuous Improvement
+- Engineering Practices
+- Working Software
+- Technical Excellence
+- Site Reliability Engineering
+- System Configuration
 
 ---
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.
