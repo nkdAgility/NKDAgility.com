@@ -40,6 +40,19 @@ sitemap:
   priority: 0.7
 concepts:
 - Principle
+categories:
+- Product Development
+tags:
+- Social Technologies
+- Team Collaboration
+- Self Organisation
+- Team Motivation
+- Market Adaptability
+- Continuous Learning
+- Organisational Agility
+- Operational Practices
+- Pragmatic Thinking
+- Organisational Culture
 
 ---
 Liberating Structures are a set of easy-to-learn facilitation methods that enhance how groups interact, make decisions, and co-create solutions. Unlike traditional meeting formats—such as open discussion or presentations—each structure provides a repeatable pattern for participation that distributes control and encourages contribution from everyone.

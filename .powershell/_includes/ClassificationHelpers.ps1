@@ -433,9 +433,7 @@ function Get-ClassificationsForType {
     param (
         [Parameter(Mandatory = $true)]
         [HugoMarkdown]$hugoMarkdown,
-        [string]$ClassificationType = "classification",
-        [switch]$batch,
-        [switch]$updateMissing
+        [string]$ClassificationType = "classification"
     )
 
     $CacheFolder = $hugoMarkdown.FolderPath

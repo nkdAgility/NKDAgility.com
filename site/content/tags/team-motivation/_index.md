@@ -37,6 +37,12 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:05:58
 concepts:
 - Capability
+categories:
+- Technical Leadership
+- Product Development
+tags:
+- Employee Engagement
+- Organisational Agility
 
 ---
 Team motivation is the intrinsic drive that empowers individuals within a team to engage fully, take ownership of their work, and strive for high performance. It is crucial for fostering an environment where team members feel valued and inspired to contribute their best efforts. When motivation is prioritised, teams are more likely to collaborate effectively, innovate, and adapt to changing circumstances, which is essential in agile, lean, and DevOps contexts.

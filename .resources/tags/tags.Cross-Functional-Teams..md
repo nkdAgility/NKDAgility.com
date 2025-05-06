@@ -32,6 +32,21 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:09:57
 concepts:
 - Capability
+categories:
+- Product Development
+tags:
+- Social Technologies
+- Team Collaboration
+- Value Delivery
+- Software Development
+- Agile Philosophy
+- Business Agility
+- Team Performance
+- Product Delivery
+- Organisational Culture
+- Continuous Learning
+- Sociotechnical Systems
+- Market Adaptability
 
 ---
 Cross Functional Teams are integral to delivering end-to-end value in Agile, Lean, and DevOps environments. These teams comprise members with diverse skills and expertise, enabling them to tackle all aspects of a project—from conception through to delivery—without relying on external resources. This holistic approach fosters collaboration, enhances communication, and accelerates decision-making, allowing teams to respond swiftly to changing requirements and customer feedback.

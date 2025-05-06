@@ -36,6 +36,19 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:32:01
 concepts:
 - Value
+categories:
+- Product Development
+- Technical Leadership
+tags:
+- Agile Philosophy
+- Social Technologies
+- Software Development
+- Continuous Improvement
+- Organisational Culture
+- Value Delivery
+- Organisational Change
+- Business Agility
+- Sociotechnical Systems
 
 ---
 Agile Values and Principles form the cornerstone of effective Agile practices, guiding teams in their pursuit of delivering value consistently and sustainably. These values prioritise individuals and interactions over processes and tools, emphasising collaboration, customer feedback, and adaptability. By adhering to these principles, organisations foster an environment where teams can respond to change swiftly, ensuring that the products developed are not only relevant but also aligned with customer needs.

@@ -30,6 +30,19 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:15:15
 concepts:
 - Value
+categories:
+- Scrum
+- Technical Leadership
+tags:
+- Team Collaboration
+- Team Motivation
+- Social Technologies
+- Organisational Culture
+- Software Development
+- Professional Scrum
+- Agile Frameworks
+- Organisational Agility
+- Agile Values and Principles
 
 ---
 The Scrum Values are a first principal of Scrum.

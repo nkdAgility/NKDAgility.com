@@ -36,6 +36,12 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:39:34
 concepts:
 - Philosophy
+categories: []
+tags:
+- Social Technologies
+- Market Adaptability
+- Organisational Agility
+- Agile Strategy
 
 ---
 Agile philosophy embodies a mindset that prioritises flexibility, collaboration, and customer-centricity in product development. It transcends specific frameworks like Scrum or Kanban, serving as a guiding ethos that shapes how teams approach their work. This philosophy emphasises the importance of delivering value incrementally and iteratively, allowing organisations to respond swiftly to changing market demands and customer feedback. 

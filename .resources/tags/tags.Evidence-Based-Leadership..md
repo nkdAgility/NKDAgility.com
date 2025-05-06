@@ -35,6 +35,16 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:49:21
 concepts:
 - Strategy
+categories:
+- Leadership
+tags:
+- Decision Making
+- Metrics and Learning
+- Continuous Learning
+- Organisational Culture
+- Social Technologies
+- Strategic Goals
+- Organisational Agility
 
 ---
 Evidence Based Leadership is a strategic approach that utilises empirical data to inform decision-making and drive improvements within an organisation. This concept is crucial for fostering a culture of accountability and transparency, enabling leaders to make informed choices that align with the organisation's goals and the needs of its teams. By relying on measurable outcomes and real-time feedback, leaders can identify what works, what doesn’t, and why, thus facilitating a more adaptive and responsive organisational environment.

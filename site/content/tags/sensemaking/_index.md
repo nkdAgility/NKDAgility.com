@@ -32,6 +32,18 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:13:38
 concepts:
 - Capability
+categories:
+- Leadership
+tags:
+- Organisational Change
+- Social Technologies
+- Business Agility
+- Miscellaneous
+- Organisational Culture
+- Organisational Agility
+- Decision Making
+- Organisational Physics
+- Enterprise Agility
 
 ---
 Sensemaking is the process through which organisations interpret complex information and situations to make informed decisions. It involves gathering data, recognising patterns, and deriving insights that enable teams to navigate uncertainty effectively. This capability is crucial in environments characterised by rapid change and ambiguity, as it empowers teams to respond to challenges and opportunities with agility.

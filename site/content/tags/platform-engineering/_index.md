@@ -35,6 +35,11 @@ concepts:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+categories:
+- Product Development
+tags:
+- Value Delivery
+- Operational Practices
 
 ---
 Platform Engineering is the practice of designing, building, and maintaining internal platforms that enable developers to deliver value independently, reliably, and at pace.

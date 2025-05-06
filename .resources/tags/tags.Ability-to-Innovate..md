@@ -35,6 +35,13 @@ sitemap:
   priority: 0.7
 concepts:
 - Capability
+categories: []
+tags:
+- Organisational Culture
+- Continuous Learning
+- Business Agility
+- Continuous Improvement
+- Value Delivery
 
 ---
 Ability to Innovate refers to an organisation's capacity to generate, implement, and sustain innovative solutions effectively. This concept is crucial as it directly influences how teams can deliver value predictably and sustainably. By fostering a culture that prioritises innovation, organisations can adapt to changing market demands and customer needs, ensuring they remain competitive.

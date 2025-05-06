@@ -34,6 +34,25 @@ sitemap:
 BodyContentGenDate: 2025-04-09T12:56:17
 concepts:
 - Strategy
+categories:
+- Product Development
+- Lean
+tags:
+- Value Delivery
+- Operational Practices
+- Business Agility
+- Lean Principles
+- Social Technologies
+- Continuous Improvement
+- Organisational Agility
+- Pragmatic Thinking
+- Agile Strategy
+- Team Performance
+- Strategic Goals
+- Market Adaptability
+- Enterprise Agility
+- Lean Thinking
+- Flow Efficiency
 
 ---
 Value Stream Management is a strategic approach focused on enhancing the flow of value within an organisation by optimising processes, minimising waste, and ensuring alignment with customer outcomes. It involves mapping the entire value stream—from ideation to delivery—allowing teams to identify bottlenecks and inefficiencies that hinder performance. By visualising these flows, organisations can make informed decisions that lead to improved cycle times and increased throughput.

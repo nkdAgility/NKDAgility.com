@@ -35,6 +35,24 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:22:39
 concepts:
 - Practice
+categories:
+- Technical Leadership
+tags:
+- Agile Planning
+- Product Backlog
+- Operational Practices
+- Agile Product Management
+- Continuous Improvement
+- Software Development
+- Team Performance
+- Social Technologies
+- Organisational Agility
+- Value Delivery
+- Pragmatic Thinking
+- Team Collaboration
+- Market Adaptability
+- Agile Frameworks
+- Agile Planning Tools
 
 ---
 Backlog Refinement is a critical practice in Agile methodologies that ensures the product backlog is well-defined, prioritised, and ready for execution. This ongoing process involves the collaborative effort of the product owner and the development team to clarify requirements, estimate effort, and adjust priorities based on evolving insights and stakeholder feedback. By regularly refining the backlog, teams can maintain a clear understanding of what needs to be done, which enhances focus and alignment on delivering value.

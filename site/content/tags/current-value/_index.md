@@ -34,6 +34,11 @@ sitemap:
   priority: 0.7
 concepts:
 - Capability
+categories:
+- Product Management
+tags:
+- Evidence Based Management
+- Agile Strategy
 
 ---
 Current Value represents a critical measure within Evidence-Based Management, focusing on the tangible, real-time value a product or service delivers to its users. It encompasses a range of indicators, such as customer satisfaction, revenue impact, and performance feedback, which collectively provide insights into the value being realised at any given moment. This concept is essential for teams aiming to deliver value predictably and sustainably, as it allows for continuous assessment and adjustment based on actual performance rather than assumptions.

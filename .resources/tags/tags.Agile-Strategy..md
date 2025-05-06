@@ -36,6 +36,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:34:10
 concepts:
 - Capability
+categories:
+- Product Development
+tags:
+- Agile Philosophy
+- Strategic Goals
+- Value Delivery
+- Social Technologies
+- Enterprise Agility
+- Agile Values and Principles
+- Market Adaptability
+- Organisational Physics
+- Organisational Change
+- Continuous Improvement
+- Common Goals
 
 ---
 Agile Strategy is a comprehensive approach that aligns an organisation's vision with its execution and adaptability, ensuring that teams can deliver value consistently and sustainably. It transcends individual practices or frameworks, focusing instead on the systemic integration of agile principles across the organisation. This strategy emphasises the importance of creating an environment where teams can respond to change, innovate continuously, and maintain a clear focus on customer needs.

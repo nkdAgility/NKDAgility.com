@@ -32,6 +32,9 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:22:41
 concepts:
 - Practice
+categories:
+- Product Development
+tags: []
 
 ---
 Remote Working is a Practice.

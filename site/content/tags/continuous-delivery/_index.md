@@ -34,6 +34,19 @@ concepts:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+categories:
+- Product Development
+- Engineering Excellence
+- DevOps
+tags:
+- Software Development
+- Product Delivery
+- Value Delivery
+- Operational Practices
+- Engineering Practices
+- Deployment Strategies
+- Release Management
+- Time to Market
 
 ---
 Continuous Delivery is a disciplined software delivery practice aimed at producing software in short, reliable cycles, ensuring that it can be released at any moment. It involves consistently delivering small, incremental improvements directly into the hands of real users, from the very first iteration.

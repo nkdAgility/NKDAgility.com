@@ -35,6 +35,21 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:47:25
 concepts:
 - Practice
+categories:
+- Product Development
+tags:
+- Organisational Culture
+- Continuous Learning
+- Operational Practices
+- Value Delivery
+- Agile Philosophy
+- Social Technologies
+- Metrics and Learning
+- Sociotechnical Systems
+- Business Agility
+- Market Adaptability
+- Evidence Based Management
+- Hypothesis Driven Development
 
 ---
 Experimentation is a critical practice in agile workflows, centred on using hypothesis-driven approaches to test ideas and validate assumptions. This concept empowers teams to systematically explore uncertainties, allowing them to make informed decisions based on empirical evidence rather than intuition alone. By fostering a culture of experimentation, organisations can enhance their ability to innovate, adapt, and respond to changing market demands.

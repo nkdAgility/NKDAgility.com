@@ -8,9 +8,9 @@ ResourceId: K0i7PIZARDw
 date: 2025-05-05T10:17:24Z
 description: Applying software engineering principles to ensure scalable and reliable systems.
 aliases:
-  - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
-  - /resources/practices/site-reliability-engineering-sre/
-  - /resources/K0i7PIZARDw
+- /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+- /resources/practices/site-reliability-engineering-sre/
+- /resources/K0i7PIZARDw
 Instructions: |-
   **Use this category only for discussions on Site Reliability Engineering.**  
   The purpose of this category is to explore the application of software engineering principles to enhance the reliability, scalability, and performance of systems in production environments. It focuses on the integration of development and operations to create resilient systems that can withstand failures and maintain service quality.
@@ -37,9 +37,26 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:12:47
 concepts:
-  - Capability
----
+- Capability
+categories:
+- DevOps
+- Engineering Excellence
+tags:
+- Software Development
+- Operational Practices
+- Metrics and Learning
+- Technical Mastery
+- Pragmatic Thinking
+- Team Performance
+- Product Delivery
+- Engineering Practices
+- Market Adaptability
+- Continuous Improvement
+- Service Level Expectation
+- Value Delivery
+- Technical Excellence
 
+---
 Site Reliability Engineering (SRE) is not a job title; it is an ethos. It is the disciplined application of software engineering principles to design, build, and operate reliable, scalable systems. And it is essential if you want to survive modern software delivery.
 
 SRE builds resilience by design, not by accident. It makes reliability a first-class product feature: measured, automated, and continuously improved. This ethos aligns perfectly with the Azure DevOps journey — moving from on-premises to SaaS, from two-year release cycles to daily deployments, and from siloed development to integrated, accountable delivery.

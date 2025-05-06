@@ -32,14 +32,32 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:48:55
 concepts:
-  - Artifact
+- Artifact
 aliases:
-  - /practices/product-backlog.html
-  - /learn/agile-delivery-kit/practices/product-backlog
-  - /resources/HbKuUsE28mC
-  - /resources/practices/product-backlog/
----
+- /practices/product-backlog.html
+- /learn/agile-delivery-kit/practices/product-backlog
+- /resources/HbKuUsE28mC
+- /resources/practices/product-backlog/
+categories:
+- Product Development
+- Product Management
+- Scrum
+tags:
+- Agile Product Management
+- Agile Planning
+- Operational Practices
+- Organisational Agility
+- Social Technologies
+- Value Delivery
+- Product Delivery
+- Market Adaptability
+- Continuous Improvement
+- Agile Planning Tools
+- Pragmatic Thinking
+- Software Development
+- Agile Strategy
 
+---
 The Product Backlog is a dynamic, prioritised list of work items that serves as the single source of truth for what needs to be done to deliver a product. It encompasses features, enhancements, bug fixes, and technical tasks, ensuring that teams have a clear understanding of their objectives. This concept is crucial as it enables teams to focus on delivering value predictably and sustainably by providing a transparent view of priorities and progress.
 
 Effective backlog management fosters collaboration among stakeholders, allowing for continuous refinement and adaptation based on feedback and changing market conditions. It empowers teams to make informed decisions about what to work on next, aligning their efforts with strategic goals and customer needs. The Product Backlog is not merely a to-do list; it is a living artefact that reflects the evolving understanding of the product and its context, facilitating a culture of continuous improvement and responsiveness.

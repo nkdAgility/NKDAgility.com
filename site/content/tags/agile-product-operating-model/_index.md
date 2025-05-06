@@ -41,6 +41,25 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+categories:
+- Product Management
+- Product Development
+- Technical Leadership
+tags:
+- Organisational Agility
+- Agile Product Management
+- Business Agility
+- Product Strategy
+- Product Delivery
+- Value Delivery
+- Operational Practices
+- Social Technologies
+- Agile Strategy
+- Decision Making
+- Organisational Change
+- Market Adaptability
+- Continuous Improvement
+- Pragmatic Thinking
 
 ---
 The Agile Product Operating Model (APOM) is a set of principles that combines contemporary product management strategies with agile ways of working, providing organisations with a solid basis for consistently delivering value. It embodies a product ethos, aligning the entire organisation around well-defined and measurable outcomes.

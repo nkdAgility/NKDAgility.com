@@ -32,6 +32,26 @@ sitemap:
   priority: 0.7
 concepts:
 - Discipline
+categories:
+- Scrum
+- Technical Leadership
+- Leadership
+tags:
+- Software Development
+- Social Technologies
+- Market Adaptability
+- Agile Frameworks
+- Agile Transformation
+- Agile Leadership
+- Value Delivery
+- Change Management
+- Sociotechnical Systems
+- Continuous Improvement
+- Product Delivery
+- Agentic Agility
+- Agile Strategy
+- Organisational Culture
+- Organisational Change
 
 ---
 The Scrum Master is an accountability in Scrum.

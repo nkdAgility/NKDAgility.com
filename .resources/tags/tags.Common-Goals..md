@@ -34,6 +34,25 @@ sitemap:
   priority: 0.7
 concepts:
 - Principle
+categories:
+- Product Development
+- Product Management
+- Scrum
+tags:
+- Agile Strategy
+- Strategic Goals
+- Pragmatic Thinking
+- Value Delivery
+- Agile Product Management
+- Product Strategy
+- Team Motivation
+- Organisational Agility
+- Professional Scrum
+- Operational Practices
+- Product Delivery
+- Agile Product Operating Model
+- Social Technologies
+- Team Collaboration
 
 ---
 Here’s a rewritten version of your text, reframed around **Common Goals** as the first principle:

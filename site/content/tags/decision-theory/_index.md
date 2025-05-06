@@ -34,6 +34,9 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:03:52
 concepts:
 - Strategy
+categories: []
+tags:
+- Decision Making
 
 ---
 Decision Theory is a framework for making informed choices in uncertain environments, utilising heuristics, probability, and insights from behavioural economics. It matters because it equips teams with the tools to navigate complex decision-making scenarios, enabling them to assess risks and benefits systematically. By applying Decision Theory, organisations can enhance their ability to deliver value predictably and sustainably, as it encourages a structured approach to evaluating options and outcomes.

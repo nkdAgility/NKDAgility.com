@@ -29,51 +29,50 @@ headline:
   content: The **Definition of Done (DoD)** establishes a shared understanding of what makes a product increment **complete and releasable**, ensuring all work meets a **minimum quality standard**. It enhances transparency, consistency, and empirical decision-making by providing clear criteria for done work. This includes an Organisational Definition of Done that applies across teams, with team-specific extensions as needed. A well-defined DoD is essential for adaptation, accountability, and delivering valuable, verifiable, and production-ready increments.
   updated: 2025-05-05T12:05:05Z
 references:
-  - title: Getting started with a Definition of Done (DoD)
-    url: https://www.scrum.org/resources/blog/getting-started-definition-done-dod
-  - title: DONE Understanding Of The Definition Of "Done”
-    url: https://www.scrum.org/resources/blog/done-understanding-definition-done
-  - title: Scrum.org Learning Series - Definition of Done
-    url: https://www.scrum.org/resources/what-definition-done
+- title: Getting started with a Definition of Done (DoD)
+  url: https://www.scrum.org/resources/blog/getting-started-definition-done-dod
+- title: DONE Understanding Of The Definition Of "Done”
+  url: https://www.scrum.org/resources/blog/done-understanding-definition-done
+- title: Scrum.org Learning Series - Definition of Done
+  url: https://www.scrum.org/resources/what-definition-done
 recommendedContent:
-  - collection: guides
-    path: _guides/scrum-guide.md
+- collection: guides
+  path: _guides/scrum-guide.md
 videos:
-  - title: Why is done so important in the Reporting & Data Space?
-    embed: https://www.youtube.com/embed/RzWFeLfSnP0
-  - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
-    embed: https://www.youtube.com/embed/QA2QdBG5uLE
+- title: Why is done so important in the Reporting & Data Space?
+  embed: https://www.youtube.com/embed/RzWFeLfSnP0
+- title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
+  embed: https://www.youtube.com/embed/QA2QdBG5uLE
 aliases:
-  - /practices/Definition-of-Done-DoD.html
-  - /learn/agile-delivery-kit/practices/definition-of-done-dod
-  - /resources/mAZrKmLwc3L
+- /practices/Definition-of-Done-DoD.html
+- /learn/agile-delivery-kit/practices/definition-of-done-dod
+- /resources/mAZrKmLwc3L
 concepts:
-  - Artifact
+- Artifact
 categories:
-  - Scrum
-  - Engineering Excellence
-  - Product Development
+- Scrum
+- Product Development
+- Engineering Excellence
 tags:
-  - Definition of Done
-  - Professional Scrum
-  - Increment
-  - Software Development
-  - Transparency
-  - Working Software
-  - Product Delivery
-  - Agile Frameworks
-  - Value Delivery
-  - Operational Practices
-  - Pragmatic Thinking
-  - Empirical Process Control
-  - Engineering Practices
-  - Scrum Team
-  - Technical Mastery
+- Software Development
+- Professional Scrum
+- Transparency
+- Technical Mastery
+- Increment
+- Product Delivery
+- Working Software
+- Operational Practices
+- Competence
+- Team Performance
+- Social Technologies
+- Pragmatic Thinking
+- Engineering Practices
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.7
----
 
+---
 Every team should define what is required, what criteria must be met, for a product [increment]({{< ref "/tags/increment" >}}) to be considered releasable. A [definition of done]({{< ref "/tags/definition-of-done" >}}). If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.
 {: .lead}
 

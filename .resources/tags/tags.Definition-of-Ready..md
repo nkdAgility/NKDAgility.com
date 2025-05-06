@@ -41,6 +41,17 @@ concepts:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+categories:
+- Product Development
+- Scrum
+- Technical Leadership
+tags:
+- Software Development
+- Agile Planning
+- Backlog Refinement
+- Agile Product Management
+- Operational Practices
+- Product Backlog
 
 ---
 Definition of Ready (DoR) is an artifact.
