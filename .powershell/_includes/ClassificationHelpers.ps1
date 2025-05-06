@@ -62,6 +62,7 @@ function Update-ClassificationsForHugoMarkdownList {
         $countOfResults = 0
         $countOfResultsThatAreBad = 0
         foreach ($batch in $batches) {
+            $brokenBatchItems = @()
             $countOfBatchResults = 0
             $countOfBatchResultsThatAreBad = 0
             $batchId = $batch.BatchId
@@ -77,7 +78,13 @@ function Update-ClassificationsForHugoMarkdownList {
                     $total = $batchResults.Count
                     $currentIndex = 0
                     $lastReportedPercent = 0
+
                     foreach ($result in $batchResults) {
+
+                   
+
+
+
                         $countOfBatchResults++
                         $countOfResults++
                         $currentIndex++
@@ -111,15 +118,24 @@ function Update-ClassificationsForHugoMarkdownList {
                             $newEntry = $null
                             continue
                         }
-                        if ($HugoLookup.ContainsKey($newEntry.resourceId)) {
-                            $hugoMarkdown = $HugoLookup[$newEntry.resourceId]
-                        }                        
+                        if ($newEntry.resourceId -eq $null -or $newEntry.resourceId -eq '') {
+                            $countOfBatchResultsThatAreBad++
+                            $countOfResultsThatAreBad++
+                            # The resourceId is null or empty
+                            Write-WarningLog "|- Resource ID is Empty. Skipping."
+                            $newEntry = $null
+                            continue
+                        }
+                        $hugoMarkdown = Find-ApproximateLookup -InputString $newEntry.resourceId -LookupTable $HugoLookup  
                         if ($hugoMarkdown -eq $null) {
                             $countOfResultsThatAreBad++
                             $countOfBatchResultsThatAreBad++
+                            $brokenBatchItems += $newEntry.resourceId
                             Write-WarningLog "|- HugoMarkdown not found for resourceId $($newEntry.resourceId). Skipping."
                             continue
                         }
+                        $newEntry.resourceId = $hugoMarkdown.FrontMatter.ResourceId ? $hugoMarkdown.FrontMatter.ResourceId : $hugoMarkdown.FrontMatter.Title
+
                         # Get items from the cache
                         $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
                         if ($cachedData.ContainsKey($newEntry.category)) {
@@ -295,6 +311,78 @@ function Update-ClassificationsForHugoMarkdownList {
     
 
 }
+
+
+function Find-ApproximateLookup {
+    param (
+        [string]$InputString,
+        [hashtable]$LookupTable        
+    )
+
+    [string[]]$Suffixes = @(
+        "--001", "--2024", "--Overview", "--content-2024", "--eval-001", "--overview", "--overview-001",
+        "-0001", "-001", "-01", "-1", "-2024", "-2024-001", "-2024-06", "-2024-06--eval", "-2024-06-07", "-2024-06-08", "-2024-06-09", "-2024-06-18", "-2024-06-19", "-2024-06-22",
+        "-2024-06-27", "-2024-06-30", "-2024-06-eval", "-2024-06-eval-01", "-2024-06-eval1", "-2024-07-01", "-2024-Example01", "-202406", "-20240606", "-20240608-001", "-20240609",
+        "-20240610", "-20240611", "-20240612", "-20240612-001", "-20240613", "-20240613-001", "-20240617", "-20240619", "-20240620", "-20240620-001", "-20240621-001", "-20240627", "-20240630",
+        "-AGT-2024", "-Agile", "-Agile-Definition", "-Agile-General-2024", "-Agile-Scrum-2024", "-AgileLean", "-Backlog-Management-Strategies", "-Content-2024-06-07", "-Content_01", "-Definition_2024_06",
+        "-Description_001", "-Description_202406", "-General", "-General-Definition-2024", "-General-Description-2024", "-Generic", "-Generic-001", "-GenericDefinition", "-Generic_Overview",
+        "-Overview", "-Overview_001", "-Philosophy-2024", "-Philosophy-Overview", "-Resource_1", "-ValueDelivery-2024-06-11", "-artifact-001", "-artifact_agile_2024", "-article", "-article-001",
+        "-article-2024", "-article-20240617", "-article-v1", "-article_01", "-basic_def", "-basic_intro", "-category", "-category-001", "-category-2024", "-category-content", "-category-core-definition",
+        "-category-description", "-category-description-2024", "-category-discussion", "-category-overview", "-category-overview-2024", "-concept-001", "-concept-definition", "-concept-description-001",
+        "-conceptual-", "-conceptual--2024", "-conceptual-description-2024-06", "-content", "-content-001", "-content-01", "-content-2024", "-content-2024-06", "-content-2024-06-07", "-content-2024-06-22",
+        "-content-eval-001", "-content-evaluation-2024-001", "-content-v1", "-core-concept", "-core-definition", "-def-001", "-def-2024", "-def-2024-06", "-def-basic", "-default_001", "-definition",
+        "-definition-001", "-definition-01", "-definition-2024", "-definition-2024-001", "-definition-2024-06", "-definition-20240621", "-definition-content-2024", "-definition_2024", "-desc-001",
+        "-description-001", "-description-2024", "-description-2024-06", "-description-v1", "-discussion-001", "-discussion-2024", "-explanation-2024", "-explainer-2024", "-general", "-general-001",
+        "-general-concept", "-general-conceptual-", "-general-content-001", "-general-definition", "-general-definition-001", "-general-description-001", "-general-discussion", "-general-discussion-001",
+        "-general-discussion-2024", "-general-overview-001", "-generic", "-generic-", "-generic-description", "-generic-discussion", "-generic-overview-2024", "-generic-content-001",
+        "-generic-definition-001", "-generic-definition-2024", "-generic-2024", "-generic-20240610", "-generic_001", "-generic_2024", "-generic_202406", "-generic_2024-06-10", "-generic_concept_001",
+        "-generic_description_001", "-high-level-approach", "-highlevel-approach-2024", "-high_level_approach", "-high_level_approach_2024", "-high_level_overview_001", "-intro-001", "-intro_2024",
+        "-lean-eval-2024-06", "-misc-eval-01", "-misc_eval_01", "-overview", "-overview-001", "-overview-2024", "-overview-2024-06", "-overview_01", "-philosophy-2024", "-philosophy-2024-06",
+        "-philosophy-content-001", "-principle001", "-principle_article_001", "-principle_basic_def", "-principle_def_001", "-principle_definition_2024", "-resource-001", "-strategies",
+        "-strategies-2024", "-strategies-refinement", "-strategy-high-level-approach", "-strategy_generic_2024", "-strategy-general-discussion", "-strategy-general-overview-001",
+        "-strategy_high_level_approach", "-structural-concept", "-structural-concept-001", "-structural-overview", "-structure-2024", "-summary-001", "-tenet-article-2024", "-tenet-article_01",
+        "-tenet-content-eval-001", "-tenet-content-evaluation-2024-001", "-tenet-genericdefinition", "-tenet-overview-2024", "-tenet_overview_2024", "-v1", "-vsm-eval-2024", "_001", "_2024",
+        "_2024_001", "_Content_2024", "_Content_01", "_Definition_2024_06", "_Description_001", "_General_Definition_2024", "_Overview_001", "_Overview_2024", "_Overview_Generic_2024", "_article",
+        "_article-001", "_article-2024", "_article_001", "_article_2024", "_article_2024_001", "_article_2024_06", "_category_001", "_conceptual_", "_content", "_content-001", "_content_001",
+        "_content_2024_example1", "_content_eval_001", "_definition_001", "_description_001", "_general_001", "_general_definition_001", "_generic_001", "_generic_202406", "_generic_concept_001",
+        "_generic_definition", "_generic_description_001", "_high_level_approach_2024", "_high_level_overview_001", "_intro_2024", "_misc_eval_01", "_overview_001", "_overview_2024", "_resource_1",
+        "_structured_approach_001", "__001"
+    )
+    
+    
+    
+
+
+    $SortedSuffixes = $Suffixes | Sort-Object { $_.Length } -Descending
+
+
+    $countOfResultsThatAreBad++
+
+    # Remove suffixes
+    foreach ($suffix in $SortedSuffixes) {
+        if ($InputString.EndsWith($suffix, [System.StringComparison]::OrdinalIgnoreCase)) {
+            $InputString = $InputString.Substring(0, $InputString.Length - $suffix.Length)
+            break
+        }        
+    }
+
+    # Replace space, dash, underscore with wildcard *
+    $wildcardPattern = ($InputString -replace '[-_\s]', '*')
+
+    # Perform case-insensitive lookup
+    $matchedKey = $LookupTable.Keys | Where-Object {
+        $_.ToLower() -like $wildcardPattern
+    } | Select-Object -First 1
+    
+
+    if ($matchedKey) {
+        return $LookupTable[$matchedKey]
+    }
+    else {
+        return $null
+    }
+}
+
 
 class PromptForHugoMarkdown {
     [string]$Prompt
@@ -530,6 +618,9 @@ function Get-ConfidenceFromAIResponse {
        
         $category = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
         $resourceId = if ($AIResponse.PSObject.Properties["resourceId"]) { $AIResponse.resourceId } else { "unknown" }
+    }
+    else {
+        return $null;
     }
     
     $finalScore = Get-ComputedConfidence -aiConfidence $aiConfidence -nonAiConfidence 0
@@ -779,11 +870,40 @@ function Set-ClassificationsFromCache {
         [Parameter(Mandatory = $true)]
         [hashtable]$cachedData
     )
+
     $CacheFolder = $hugoMarkdown.FolderPath
     $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
-    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+    $jsonData = $cachedData | ConvertTo-Json -Depth 10
 
+    $maxRetries = 5
+    $retryIntervalSeconds = 2
+
+    for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+        try {
+            # Explicitly handle file streams
+            $fileStream = [System.IO.File]::Open($cacheFile, [System.IO.FileMode]::Create, [System.IO.FileAccess]::Write, [System.IO.FileShare]::None)
+            $streamWriter = New-Object System.IO.StreamWriter($fileStream, [System.Text.Encoding]::UTF8)
+            try {
+                $streamWriter.Write($jsonData)
+            }
+            finally {
+                $streamWriter.Dispose()
+                $fileStream.Dispose()
+            }
+            break  # Successfully written, exit loop
+        }
+        catch {
+            Write-Warning "Attempt $attempt : File locked, retrying in $retryIntervalSeconds seconds..."
+            Start-Sleep -Seconds $retryIntervalSeconds
+
+            if ($attempt -eq $maxRetries) {
+                throw "Unable to access $cacheFile after $maxRetries attempts."
+            }
+        }
+    }
 }
+
+
 
 
 function Get-ClassificationsFromCache {
