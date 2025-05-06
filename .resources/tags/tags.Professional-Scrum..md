@@ -33,6 +33,12 @@ sitemap:
 concept: Philosophy
 concepts:
 - Discipline
+categories:
+- Product Development
+tags:
+- Agile Philosophy
+- Empirical Process Control
+- Social Technologies
 
 ---
 Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work—with intent, professionalism, and accountability.

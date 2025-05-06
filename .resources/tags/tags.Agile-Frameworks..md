@@ -35,6 +35,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:41:12
 concepts:
 - Framework
+categories:
+- Product Development
+tags:
+- Social Technologies
+- Software Development
+- Market Adaptability
+- Agile Strategy
+- Organisational Change
+- Value Delivery
+- Business Agility
+- Continuous Improvement
+- Agile Transformation
+- Team Performance
+- Product Delivery
 
 ---
 Agile frameworks are structured methodologies that facilitate the implementation of Agile principles within organisations, enabling teams to deliver value predictably and sustainably. These frameworks, such as Scrum, Kanban, and Lean, provide specific roles, events, and artefacts that guide teams in their work, fostering collaboration, transparency, and continuous improvement. By adopting an Agile framework, organisations can respond more effectively to changing market demands and customer needs, ensuring that they remain competitive and relevant.

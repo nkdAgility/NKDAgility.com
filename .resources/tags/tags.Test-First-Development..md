@@ -32,6 +32,17 @@ sitemap:
   priority: 0.7
 concepts:
 - Practice
+categories:
+- Engineering Excellence
+- Product Development
+tags:
+- Engineering Practices
+- Software Development
+- Technical Mastery
+- Technical Excellence
+- Operational Practices
+- Shift-Left Strategy
+- Pragmatic Thinking
 
 ---
 **Test First** is a modern engineering practice that anchors the delivery of working software in clarity, confidence, and quality. It is a shift-left strategy where tests are defined *before* implementation begins, guiding design and enabling faster feedback loops.

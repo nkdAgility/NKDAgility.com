@@ -46,7 +46,7 @@ $concepts = $hugoMarkdownList | Where-Object {
     $_.FrontMatter.ClassificationType -in @('concepts')
 }
 
-
+Start-TokenServer
 
 foreach ($concept in $concepts) {
     $conceptName = $concept.FrontMatter.title  # This assumes the "Title" field is set correctly for each item
@@ -81,12 +81,11 @@ $Counter = 0
 
 # $hugoMarkdownList = @($hugoMarkdownList | Where-Object { $_.FrontMatter.title -eq "Deployment Frequency" })
 
-$hugoMarkdownList | ForEach-Object {
-
+foreach ($hugoMarkdown in $hugoMarkdownList) {
     $Counter++
     $PercentComplete = ($Counter / $TotalFiles) * 100
-    $markdownFile = $_.FilePath
-    $hugoMarkdown = $_
+    $markdownFile = $hugoMarkdown.FilePath
+
     Write-InfoLog "--------------------------------------------------------"
     Write-InfoLog "Processing post: $(Resolve-Path -Path $markdownFile -Relative)"
     $peerTitleList = ($hugoMarkdownList | Where-Object { $_.FrontMatter.ClassificationType -eq $hugoMarkdown.FrontMatter.ClassificationType -and $_.FrontMatter.Title -ne $hugoMarkdown.FrontMatter.Title } | ForEach-Object { $_.FrontMatter.Title } | Sort-Object) -join ', '
@@ -103,7 +102,7 @@ $hugoMarkdownList | ForEach-Object {
     #=================description=================
     if (-not $hugoMarkdown.FrontMatter.abstract) {
         # Generate a new description using OpenAI
-        $prompt = Get-Prompt -PromptName "classification-abstract.prompt" -Parameters @{
+        $prompt = Get-Prompt -PromptName "classification-abstract.md" -Parameters @{
             title   = $hugoMarkdown.FrontMatter.title
             content = $hugoMarkdown.BodyContent
         }
@@ -159,7 +158,7 @@ $hugoMarkdownList | ForEach-Object {
 
         $headline = [ordered]@{
             cards    = @()
-            title    = ClassificationTitle
+            title    = $ClassificationTitle
             subtitle = $ClassificationHeadline
             content  = $ClassificationDescription
             updated  = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
@@ -199,7 +198,7 @@ $hugoMarkdownList | ForEach-Object {
     $hugoMarkdown.FrontMatter["sitemap"] = [ordered]@{ filename = "sitemap.xml"; priority = $priority }  # Update sitemap filename
 
     if ($hugoMarkdown.BodyContent -and $hugoMarkdown.FolderPath -notlike "*concepts*") {
-        $typesClassification = Get-ClassificationsForType -updateMissing -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
+        $typesClassification = Get-ClassificationsForType -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
         $typesClassificationOrdered = @(Get-ClassificationOrderedList -minScore 60 -classifications $typesClassification | Select-Object -First 1)
         $types = $typesClassificationOrdered | Where-Object { $_.category -ne $hugoMarkdown.FrontMatter.Title } | ForEach-Object { $_.category }
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($types) -Overwrite
@@ -207,13 +206,13 @@ $hugoMarkdownList | ForEach-Object {
     }
     if ($hugoMarkdown.BodyContent -and $hugoMarkdown.FolderPath -notlike "*concepts*" -and $hugoMarkdown.FolderPath -notlike "*categories*") {
         # Categroies
-        $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+        $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
         $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
         $categories = $categoryClassificationOrdered | Where-Object { $_.category -ne $hugoMarkdown.FrontMatter.Title } | ForEach-Object { $_.category }
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
         # Tags
-        $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+        $tagClassification = Get-ClassificationsForType -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
         $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $tagClassification | Select-Object -First 15
         $tags = $tagClassificationOrdered | Where-Object { $_.category -ne $hugoMarkdown.FrontMatter.Title } | ForEach-Object { $_.category }
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
@@ -233,6 +232,7 @@ $hugoMarkdownList | ForEach-Object {
     }
 
 }
+
 Write-Progress -id 1 -Completed
 Write-InfoLog "All markdown files processed."
 Write-InfoLog "--------------------------------------------------------"
@@ -273,3 +273,4 @@ foreach ($ResourceType in $ResourceCatalogue.Keys) {
   
 }
 
+Stop-TokenServer

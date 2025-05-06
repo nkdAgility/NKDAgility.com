@@ -35,6 +35,16 @@ sitemap:
 BodyContentGenDate: 2025-04-09T15:08:06
 concepts:
 - Model
+categories:
+- Leadership
+tags:
+- Systems Thinking
+- Miscellaneous
+- Social Technologies
+- Organisational Change
+- Sociotechnical Systems
+- Organisational Culture
+- Change Management
 
 ---
 **Organisational Physics** is the application of **systems thinking** to comprehend and influence the dynamics within an organisation. It offers a **conceptual model** that helps teams understand how elements such as people, processes, and technology interact, influencing overall organisational behaviour and performance.

@@ -32,6 +32,14 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:29:59
 concepts:
 - Capability
+categories:
+- Product Development
+- Product Management
+tags:
+- Ability to Innovate
+- Product Strategy
+- Value Delivery
+- Product Validation
 
 ---
 Product Discovery is the process of identifying customer needs and defining valuable product features that align with those needs. It is a critical phase in product development that ensures teams focus on delivering solutions that genuinely resonate with users. By engaging in Product Discovery, organisations can validate assumptions, explore market opportunities, and refine their product vision, which ultimately leads to more effective prioritisation of features and enhancements.

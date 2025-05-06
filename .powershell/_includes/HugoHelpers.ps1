@@ -365,8 +365,11 @@ function Get-HugoMarkdownListAsHashTable {
         if ($item.FrontMatter.ResourceId) {
             $hashTable[$item.FrontMatter.ResourceId] = $item
         }
+        elseif ($item.FrontMatter.Title) {
+            $hashTable[$item.FrontMatter.Title] = $item
+        }
         else {
-            Write-Warning "Item missing ResourceId: $($item | Out-String)"
+            Write-Warning "Item missing both ResourceId and Title: $($item | Out-String)"
         }
     }
 

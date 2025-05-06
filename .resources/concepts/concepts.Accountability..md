@@ -33,6 +33,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-10T09:00:00
+aliases:
+- /practices/Accountabilities-for-the-Scrum-Team.html
+- /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
+- /resources/D4IlRdnMoRB
+- /resources/practices/accountabilities-for-the-scrum-team/
 
 ---
 **Accountability** is a structural concept that defines **who is answerable for outcomes** in a system of work. Unlike task-level responsibility or decision-making authority, accountability is about owning the **result**, not just the activity.

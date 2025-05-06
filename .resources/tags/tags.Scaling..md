@@ -33,6 +33,26 @@ sitemap:
   priority: 0.7
 concepts:
 - Strategy
+categories:
+- Product Development
+- Product Management
+- Lean
+tags:
+- Market Adaptability
+- Lean Principles
+- Value Delivery
+- Agile Strategy
+- Organisational Agility
+- Enterprise Agility
+- Business Agility
+- Lean Thinking
+- Organisational Change
+- Operational Practices
+- Social Technologies
+- Pragmatic Thinking
+- Organisational Physics
+- Lean Product Development
+- Agile Product Management
 
 ---
 Scaling refers to the ability of an organisation to coordinate multiple teams effectively in order to deliver complex products while maintaining agility. This concept is crucial as it enables organisations to align their efforts, optimise flow, and enhance value delivery across the enterprise. By applying lean principles and adaptive product structures, scaling facilitates a cohesive approach to product development, ensuring that teams can respond swiftly to changing market demands without sacrificing quality or speed.

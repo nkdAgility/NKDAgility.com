@@ -33,6 +33,23 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:45:41
 concepts:
 - Discipline
+categories:
+- Product Development
+- Product Management
+tags:
+- Agile Planning
+- Metrics and Learning
+- Operational Practices
+- Team Performance
+- Market Adaptability
+- Empirical Process Control
+- Pragmatic Thinking
+- Value Delivery
+- Social Technologies
+- Agile Product Management
+- Agile Strategy
+- Continuous Improvement
+- Agile Frameworks
 
 ---
 Forecasting is the practice of using empirical data to predict delivery timelines, manage risks, and optimise value delivery within Agile and Scrum frameworks. It enables teams to make informed decisions based on historical performance and current capacity, allowing for a more predictable and sustainable approach to product development. By analysing metrics such as cycle time, lead time, and throughput, teams can identify trends and adjust their strategies accordingly, ensuring that they meet stakeholder expectations and deliver value consistently.

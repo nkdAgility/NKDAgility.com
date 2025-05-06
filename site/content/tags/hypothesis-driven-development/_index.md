@@ -35,6 +35,25 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:44:00
 concepts:
 - Method
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Discovery
+- Experimentation
+- Ability to Innovate
+- Continuous Learning
+- Value Delivery
+- Lean Product Development
+- Business Agility
+- Decision Making
+- Product Validation
+- Market Adaptability
+- Continuous Improvement
+- Organisational Agility
+- Product Delivery
+- Product Strategy
+- Pragmatic Thinking
 
 ---
 Hypothesis Driven Development is a systematic approach that leverages experimentation and validated learning to inform product decisions. By formulating hypotheses about user needs and behaviours, teams can design experiments to test these assumptions in real-world scenarios. This method allows organisations to gather data and insights that guide product development, ensuring that decisions are based on evidence rather than intuition.

@@ -37,6 +37,20 @@ concepts:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+categories:
+- Engineering Excellence
+- DevOps
+- Product Development
+tags:
+- Operational Practices
+- Software Development
+- Platform Engineering
+- Product Delivery
+- Application Lifecycle Management
+- Sociotechnical Systems
+- Team Collaboration
+- Scaling
+- Team Performance
 
 ---
 The **One Engineering System (1ES)** is a strategic approach to unifying engineering tools and practices across teams to reduce friction, foster collaboration, and enable consistency at scale. It’s about creating a shared engineering backbone that allows teams to move faster and more predictably by removing the chaos of disconnected toolchains and ad hoc workflows.

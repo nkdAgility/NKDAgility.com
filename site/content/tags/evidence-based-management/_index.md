@@ -38,6 +38,25 @@ concepts:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+categories:
+- Product Management
+- Product Development
+- Technical Leadership
+tags:
+- Decision Making
+- Evidence Based Leadership
+- Metrics and Learning
+- Empirical Process Control
+- Pragmatic Thinking
+- Value Delivery
+- Operational Practices
+- Organisational Agility
+- Market Adaptability
+- Professional Scrum
+- Strategic Goals
+- Agile Strategy
+- Product Strategy
+- Agile Philosophy
 
 ---
 Too many organisations talk about being agile, but they’re still flying blind. Evidence-Based Management (EBM) is a strategy to fix that. It’s not a framework, a methodology, or a tool. It’s a way to stop pretending we’re improving and start proving it.

@@ -35,6 +35,11 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:20:57
 concepts:
 - Observability
+categories: []
+tags:
+- Metrics and Learning
+- Trend Analysis
+- Current Value
 
 ---
 Revenue per Employee is a key observability metric that quantifies financial efficiency by dividing total revenue by the number of employees. It offers insight into how effectively an organisation turns workforce capacity into revenue, making it useful for analysing systemic performance rather than individual output.

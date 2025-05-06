@@ -41,6 +41,25 @@ sitemap:
   priority: 0.7
 concepts:
 - Strategy
+categories:
+- Product Development
+- Product Management
+- Leadership
+tags:
+- Business Agility
+- Organisational Agility
+- Organisational Change
+- Change Management
+- Enterprise Agility
+- Value Delivery
+- Continuous Learning
+- Agile Strategy
+- Continuous Improvement
+- Sociotechnical Systems
+- Market Adaptability
+- Social Technologies
+- Organisational Culture
+- Agile Philosophy
 
 ---
 Company as a Product (CaaP) is an organisational strategy that positions the entire company as a dynamic product, continuously evolving in response to customer feedback and measurable outcomes. This approach prioritises the alignment of all organisational elements—people, processes, and systems—around delivering value to customers, akin to the iterative nature of product development. By fostering a culture of cross-functional collaboration and experimentation, CaaP enables teams to adapt swiftly to changing market demands and customer needs.

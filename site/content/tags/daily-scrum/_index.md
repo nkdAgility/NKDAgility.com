@@ -35,6 +35,8 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:05:38
 concepts:
 - Practice
+categories: []
+tags: []
 
 ---
 The Daily Scrum is a vital practice within the Scrum framework, designed to enhance team alignment and adaptability. This short, time-boxed meeting, typically lasting 15 minutes, allows team members to synchronise their efforts, inspect progress towards the Sprint Goal, and adapt their plans accordingly. Each participant shares what they accomplished since the last meeting, what they plan to do next, and any obstacles they face. This structured yet flexible approach fosters transparency and accountability, enabling teams to respond swiftly to changes and challenges.

@@ -34,6 +34,25 @@ sitemap:
 BodyContentGenDate: 2025-04-09T12:56:05
 concepts:
 - Practice
+categories:
+- Product Development
+- Lean
+tags:
+- Operational Practices
+- Continuous Improvement
+- Lean Principles
+- Value Delivery
+- Pragmatic Thinking
+- Team Performance
+- Value Stream Management
+- Business Agility
+- Metrics and Learning
+- Organisational Agility
+- Product Delivery
+- Sociotechnical Systems
+- Social Technologies
+- Decision Making
+- Market Adaptability
 
 ---
 Value Stream Mapping is a visual tool used to analyse and optimise workflows within an organisation, focusing on the flow of materials and information required to deliver a product or service. By mapping out each step in the process, teams can identify inefficiencies, bottlenecks, and areas of waste, enabling them to streamline operations and enhance value delivery. This practice is crucial for fostering a culture of continuous improvement, as it provides a clear picture of how work progresses and where delays occur.

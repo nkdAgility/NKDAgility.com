@@ -34,6 +34,8 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:10:53
 concepts:
 - Capability
+categories: []
+tags: []
 
 ---
 Continuous Learning is the practice of fostering a growth mindset and promoting knowledge sharing within teams to drive sustained improvement. It emphasises the importance of learning from experiences, both successes and failures, to enhance skills, processes, and products. This concept is vital as it enables teams to adapt quickly to changing circumstances, ensuring they can deliver value predictably and sustainably.

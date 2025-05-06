@@ -24,11 +24,35 @@ Instructions: |-
   - Discussions that do not directly relate to the concepts of agency, intentionality, or adaptive action within Agile, Scrum, or DevOps frameworks.
   - Content that misinterprets or trivialises the significance of agency in the context of Agile methodologies.
   - General discussions on Agile practices that do not address the role of agency in enhancing outcomes or aligning with goals.
+headline:
+  cards: []
+  title: 'Agentic Agility: Empowering Intentional Action in Agile & DevOps'
+  subtitle: Exploring how purposeful human and AI action drives adaptive change, value delivery, and resilience in complex socio-technical systems and evolving work environments.
+  content: Explores the power to act with autonomy, intentionality, and accountability in complex socio-technical systems. Covers human and AI-driven adaptation, self-management, continuous improvement, and purposeful intervention, drawing on empirical learning, feedback loops, and evolving goals to sustain meaningful change and resilient value delivery.
+  updated: 2025-05-06T22:17:35Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
 - Capability
+categories:
+- Leadership
+- Product Development
+tags:
+- Organisational Agility
+- Agile Philosophy
+- Sociotechnical Systems
+- Social Technologies
+- Organisational Culture
+- Continuous Improvement
+- Agile Strategy
+- Agile Values and Principles
+- Business Agility
+- Pragmatic Thinking
+- Change Management
+- Software Development
+- Artificial Intelligence
+- Enterprise Agility
 
 ---
 **Agency** is **the capacity, condition, or state of acting or exerting power**. In Agile, Scrum, DevOps, and organisational change, it means **the ability to act with autonomy, intentionality, and accountability toward meaningful goals within socio-technical environments**.

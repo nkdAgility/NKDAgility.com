@@ -36,6 +36,15 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:23:30
 concepts:
 - Method
+categories:
+- Product Development
+tags:
+- Product Delivery
+- Software Development
+- Operational Practices
+- Value Delivery
+- Frequent Releases
+- Market Adaptability
 
 ---
 Release Management is the structured approach to planning, scheduling, and controlling the movement of releases to test and live environments. It is crucial for ensuring that software is delivered in a predictable and sustainable manner, aligning with organisational goals and customer needs. By managing releases effectively, teams can minimise risks associated with deployment, enhance collaboration across departments, and ensure that all stakeholders are informed and engaged throughout the process.

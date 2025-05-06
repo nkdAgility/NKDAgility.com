@@ -41,6 +41,23 @@ sitemap:
   priority: 0.7
 concepts:
 - Principle
+categories:
+- Product Development
+tags:
+- Agile Philosophy
+- Pragmatic Thinking
+- Social Technologies
+- Value Delivery
+- Software Development
+- Market Adaptability
+- Agile Values and Principles
+- Organisational Agility
+- Agile Transformation
+- Business Agility
+- Agile Strategy
+- Organisational Change
+- Organisational Culture
+- Agile Frameworks
 
 ---
 Agnostic Agile is a movement that champions a flexible, context-driven approach to agility, prioritising principles over rigid frameworks. It encourages teams to adapt their methodologies based on specific needs rather than adhering strictly to a single ideology. This pragmatic stance allows practitioners to draw from a variety of approaches, including Scrum, Kanban, Lean, and XP, fostering an environment where critical thinking and professionalism thrive.

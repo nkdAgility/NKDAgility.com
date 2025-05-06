@@ -31,6 +31,10 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:28:43
 concepts:
 - Capability
+categories:
+- Product Development
+tags:
+- Market Adaptability
 
 ---
 Artificial Intelligence (AI) refers to the capability of machines to perform tasks that typically require human intelligence, such as learning, reasoning, and problem-solving. In an organisational context, AI enhances decision-making processes by providing data-driven insights, automating repetitive tasks, and fostering innovation. This capability is crucial for Agile, DevOps, and modern product development, as it allows teams to respond swiftly to changing market demands and customer needs.

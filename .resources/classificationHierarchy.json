@@ -1,12 +1,140 @@
 {
-  "Accountability": {
+  "Method": {
     "tags": [
-      "Scrum Team",
-      "Product Owner",
-      "Hybrid Agile"
+      "Release Management",
+      "Lean Startup",
+      "Lean Product Development",
+      "Hypothesis Driven Development",
+      "Estimation"
+    ],
+    "categories": []
+  },
+  "Framework": {
+    "tags": [
+      "Sprint Review",
+      "Large Scale Agility",
+      "Agile Frameworks"
     ],
     "categories": [
-      "Product Management"
+      "Scrum"
+    ]
+  },
+  "Principle": {
+    "tags": [
+      "Working Software",
+      "Value Delivery",
+      "Troubleshooting",
+      "Transparency",
+      "Self Organisation",
+      "Personal",
+      "Open Space Agile",
+      "Metrics and Learning",
+      "Liberating Structures",
+      "Lean Thinking",
+      "Lean Principles",
+      "Evidence Based Management",
+      "Empirical Process Control",
+      "Customer Satisfaction",
+      "Customer Retention",
+      "Customer Feedback Loops",
+      "Continuous Improvement",
+      "Common Goals",
+      "Asynchronous Development",
+      "Agnostic Agile",
+      "Agile Planning",
+      "Agile Leadership"
+    ],
+    "categories": [
+      "Lean"
+    ]
+  },
+  "Practice": {
+    "tags": [
+      "Value Stream Mapping",
+      "Test First Development",
+      "Test Driven Development",
+      "Test Automation",
+      "Technical Excellence",
+      "Team Collaboration",
+      "Shift-Left Strategy",
+      "Remote Working",
+      "Operational Practices",
+      "Modern Source Control",
+      "Frequent Releases",
+      "Experimentation",
+      "Engineering Practices",
+      "Deployment Frequency",
+      "Daily Scrum",
+      "Cycle Time",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Behaviour Driven Development",
+      "Backlog Refinement",
+      "Automated Testing",
+      "Acceptance Test Driven Development"
+    ],
+    "categories": [
+      "Kanban"
+    ]
+  },
+  "Artifact": {
+    "tags": [
+      "Product Backlog",
+      "Increment",
+      "Definition of Ready",
+      "Definition of Done"
+    ],
+    "categories": []
+  },
+  "Discipline": {
+    "tags": [
+      "Working Agreements",
+      "Scrum Master",
+      "Project Management",
+      "Professional Scrum",
+      "Organisational Psychology",
+      "Forecasting",
+      "Competence"
+    ],
+    "categories": [
+      "Engineering Excellence"
+    ]
+  },
+  "Observability": {
+    "tags": [
+      "Throughput",
+      "Revenue per Employee",
+      "Lead Time"
+    ],
+    "categories": []
+  },
+  "Philosophy": {
+    "tags": [
+      "Social Technologies",
+      "Agile Philosophy"
+    ],
+    "categories": [
+      "DevOps"
+    ]
+  },
+  "Strategy": {
+    "tags": [
+      "Value Stream Management",
+      "Trend Analysis",
+      "Strategic Goals",
+      "Scaling",
+      "Product Strategy",
+      "Portfolio Management",
+      "One Engineering System",
+      "Market Share",
+      "Evidence Based Leadership",
+      "Digital Transformation",
+      "Decision Theory",
+      "Company as a Product",
+      "Agile Product Management"
+    ],
+    "categories": [
+      "Product Development"
     ]
   },
   "Capability": {
@@ -59,40 +187,6 @@
       "Leadership"
     ]
   },
-  "Framework": {
-    "tags": [
-      "Sprint Review",
-      "Large Scale Agility",
-      "Agile Frameworks"
-    ],
-    "categories": [
-      "Scrum"
-    ]
-  },
-  "Method": {
-    "tags": [
-      "Release Management",
-      "Lean Startup",
-      "Lean Product Development",
-      "Hypothesis Driven Development",
-      "Estimation"
-    ],
-    "categories": []
-  },
-  "Discipline": {
-    "tags": [
-      "Working Agreements",
-      "Scrum Master",
-      "Project Management",
-      "Professional Scrum",
-      "Organisational Psychology",
-      "Forecasting",
-      "Competence"
-    ],
-    "categories": [
-      "Engineering Excellence"
-    ]
-  },
   "Model": {
     "tags": [
       "Systems Thinking",
@@ -103,14 +197,23 @@
     ],
     "categories": []
   },
-  "Artifact": {
-    "tags": [
-      "Product Backlog",
-      "Increment",
-      "Definition of Ready",
-      "Definition of Done"
-    ],
+  "Tenet": {
+    "tags": [],
     "categories": []
+  },
+  "Values": {
+    "tags": [],
+    "categories": []
+  },
+  "Accountability": {
+    "tags": [
+      "Scrum Team",
+      "Product Owner",
+      "Hybrid Agile"
+    ],
+    "categories": [
+      "Product Management"
+    ]
   },
   "Tool": {
     "tags": [
@@ -126,108 +229,5 @@
       "Agile Planning Tools"
     ],
     "categories": []
-  },
-  "Principle": {
-    "tags": [
-      "Working Software",
-      "Value Delivery",
-      "Troubleshooting",
-      "Transparency",
-      "Self Organisation",
-      "Personal",
-      "Open Space Agile",
-      "Metrics and Learning",
-      "Liberating Structures",
-      "Lean Thinking",
-      "Lean Principles",
-      "Evidence Based Management",
-      "Empirical Process Control",
-      "Customer Satisfaction",
-      "Customer Retention",
-      "Customer Feedback Loops",
-      "Continuous Improvement",
-      "Common Goals",
-      "Asynchronous Development",
-      "Agnostic Agile",
-      "Agile Planning",
-      "Agile Leadership"
-    ],
-    "categories": [
-      "Lean"
-    ]
-  },
-  "Strategy": {
-    "tags": [
-      "Value Stream Management",
-      "Trend Analysis",
-      "Strategic Goals",
-      "Scaling",
-      "Product Strategy",
-      "Portfolio Management",
-      "One Engineering System",
-      "Market Share",
-      "Evidence Based Leadership",
-      "Digital Transformation",
-      "Decision Theory",
-      "Company as a Product",
-      "Agile Product Management"
-    ],
-    "categories": [
-      "Product Development"
-    ]
-  },
-  "Tenet": {
-    "categories": [],
-    "tags": []
-  },
-  "Values": {
-    "categories": [],
-    "tags": []
-  },
-  "Philosophy": {
-    "tags": [
-      "Social Technologies",
-      "Agile Philosophy"
-    ],
-    "categories": [
-      "DevOps"
-    ]
-  },
-  "Observability": {
-    "tags": [
-      "Throughput",
-      "Revenue per Employee",
-      "Lead Time"
-    ],
-    "categories": []
-  },
-  "Practice": {
-    "tags": [
-      "Value Stream Mapping",
-      "Test First Development",
-      "Test Driven Development",
-      "Test Automation",
-      "Technical Excellence",
-      "Team Collaboration",
-      "Shift-Left Strategy",
-      "Remote Working",
-      "Operational Practices",
-      "Modern Source Control",
-      "Frequent Releases",
-      "Experimentation",
-      "Engineering Practices",
-      "Deployment Frequency",
-      "Daily Scrum",
-      "Cycle Time",
-      "Continuous Integration",
-      "Continuous Delivery",
-      "Behaviour Driven Development",
-      "Backlog Refinement",
-      "Automated Testing",
-      "Acceptance Test Driven Development"
-    ],
-    "categories": [
-      "Kanban"
-    ]
   }
 }

@@ -34,6 +34,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T12:56:59
 concepts:
 - Principle
+categories:
+- Product Development
+- Product Management
+- Lean
+tags:
+- Organisational Agility
+- Lean Principles
+- Lean Product Development
+- Market Adaptability
+- Customer Satisfaction
+- Continuous Improvement
+- Lean Thinking
+- Agile Philosophy
+- Business Agility
 
 ---
 Value Delivery refers to the systematic approach of providing consistent and meaningful outcomes to customers through iterative and incremental processes. It emphasises the importance of aligning product development efforts with customer needs, ensuring that every release contributes tangible benefits. This concept is crucial as it enables teams to focus on delivering value predictably and sustainably, fostering a culture of continuous improvement and responsiveness to change.

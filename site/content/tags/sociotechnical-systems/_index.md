@@ -35,6 +35,14 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:12:02
 concepts:
 - Capability
+categories:
+- Product Development
+tags:
+- Miscellaneous
+- Social Technologies
+- Team Performance
+- Systems Thinking
+- Organisational Agility
 
 ---
 Sociotechnical systems refer to the intricate interplay between social and technical elements within an organisation, particularly in the context of software delivery and team effectiveness. This concept underscores that technology does not exist in isolation; it is deeply embedded within the organisational culture, structures, and processes. By recognising the dual nature of these systems, teams can better understand how their workflows, communication patterns, and tools influence overall performance.

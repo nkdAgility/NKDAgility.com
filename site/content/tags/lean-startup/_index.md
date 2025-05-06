@@ -32,6 +32,22 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:36:34
 concepts:
 - Method
+categories:
+- Lean
+tags:
+- Market Adaptability
+- Lean Principles
+- Product Discovery
+- Social Technologies
+- Hypothesis Driven Development
+- Continuous Improvement
+- Experimentation
+- Minimum Viable Product
+- Time to Market
+- Value Delivery
+- Metrics and Learning
+- Product Strategy
+- Lean Product Development
 
 ---
 Lean Startup is a methodology that applies Lean principles to the development of new business ideas, focusing on rapid experimentation and validated learning. It emphasises the importance of building a minimum viable product (MVP) to test hypotheses about customer needs and market viability with minimal risk and investment. This approach allows teams to gather real-time feedback, enabling them to pivot or persevere based on empirical evidence rather than assumptions.

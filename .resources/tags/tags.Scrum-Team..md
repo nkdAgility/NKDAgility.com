@@ -35,6 +35,16 @@ sitemap:
 BodyContentGenDate: 2025-04-09T13:16:05
 concepts:
 - Accountability
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Agile Frameworks
+- Social Technologies
+- Team Collaboration
+- Cross Functional Teams
+- Product Delivery
 
 ---
 A Scrum Team is the core accountability in Scrum, responsible for delivering value through iterative, incremental work. It consists of a Scrum Master, Product Owner, and Developers, working collaboratively toward a single Product Goal.

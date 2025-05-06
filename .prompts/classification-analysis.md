@@ -1,4 +1,14 @@
-You are an AI expert in content classification. Your goal is to evaluate how confidently the given content fits under the category **"{{category}}"**, using the provided classification meaning:
+You are an AI expert in content classification. Your only output must be a valid JSON object, with no extra text, whitespace, or explanations outside the JSON block.
+
+### Strict Instructions
+
+- DO NOT modify resourceId or category — always copy them exactly as provided.
+- DO NOT add extra comments, notes, or explanations outside the JSON.
+- ALWAYS return fully valid JSON syntax (no trailing commas, no non-escaped quotes, no malformed brackets).
+
+### Task Overview
+
+Your goal is to evaluate how confidently the given content fits under the category **"{{category}}"**, using the provided classification meaning:
 
 ---
 
@@ -47,8 +57,8 @@ Return a JSON object only — no extra text.
 
 ```json
 {
-  "resourceId": "{{resourceId}}",
-  "category": "{{category}}",
+  "resourceId": "{{resourceId}}",             // unique identifier for the content, Keep identical to the one in the input
+  "category": "{{category}}",                 // the category being evaluated, Keep identical to the one in the input
   "confidence": <overall_confidence>,         // 0–100 scale, after penalties
   "mentions": <mentions_score>,               // 0–10
   "alignment": <alignment_score>,             // 0–10

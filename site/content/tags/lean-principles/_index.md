@@ -33,6 +33,20 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:38:24
 concepts:
 - Principle
+categories:
+- Lean
+- Product Management
+tags:
+- Lean Product Development
+- Lean Thinking
+- Market Adaptability
+- Value Delivery
+- Operational Practices
+- Continuous Learning
+- Organisational Culture
+- Pragmatic Thinking
+- Organisational Agility
+- Social Technologies
 
 ---
 Lean Principles focus on minimising waste while maximising value through iterative learning and continuous improvement. This approach is essential for organisations aiming to enhance efficiency and responsiveness in their product development processes. By fostering a culture of experimentation and feedback, Lean Principles enable teams to identify and eliminate non-value-adding activities, thereby streamlining workflows and optimising resource utilisation.

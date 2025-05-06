@@ -34,6 +34,8 @@ sitemap:
 BodyContentGenDate: 2025-04-10T09:52:00Z
 concepts:
 - Discipline
+categories: []
+tags: []
 
 ---
 Project Management is the discipline of planning, executing, and overseeing projects to meet defined goals within constraints such as time, cost, and scope. It involves coordinating people, processes, and technologies to achieve successful outcomes in a structured and repeatable manner.
