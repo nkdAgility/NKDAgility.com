@@ -170,7 +170,7 @@ Here’s what I’m noodling on next:
 - **Implement structured logging** — I want to replace Write-Host or Write-InfoLog with structured log outputs (like JSON or key-value pairs) so logs are machine-readable and easier to pipeline.
 - **Write automated tests** — Pester for PowerShell unit tests and pytest with httpx for FastAPI endpoint testing will give me confidence this system holds up, even as I evolve and extend it.
 
-But for now, Im happy that its executing and reasonably resilient. Next time I run it I might not feel the same and make more changes.
+But for now, I'm happy that it's executing and reasonably resilient. Next time I run it I might not feel the same and make more changes.
 
 # Final Takeaway
 
