@@ -59,8 +59,7 @@ Return a JSON object only — no extra text.
   "penalties_applied": true/false,            // boolean: were any penalties applied?
   "total_penalty_points": <sum_of_deductions>, // numeric: total points deducted (0 if none)
   "penalty_details": "<list which dimensions were penalized and why; if none, return 'none'>",
-  "level": "Primary / Secondary / Tertiary",
-  "reasoning": "<detailed explanation including examples from the content and justification for each score>"
+  "reasoning": "<detailed explanation including examples from the content and overall justification for the confidence score"
 }
 
 ```

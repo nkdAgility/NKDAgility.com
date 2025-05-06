@@ -1,4 +1,5 @@
 . ./.powershell/_includes/LoggingHelper.ps1
+. ./.powershell/_includes/TokenServer.ps1
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/PromptManager.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
@@ -166,9 +167,15 @@ function Update-ClassificationsForHugoMarkdownList {
                 }
                 "failed" {
                     Write-ErrorLog "Batch failed for $batchId. Please try again."
-                    $updatedBatches = $batches | Where-Object { $_.batchId -ne $BatchIdToRemove }
-                    # Save the updated list back to the file
-                    $updatedBatches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    $batchesFromFile = Get-Content $BatchFile | ConvertFrom-Json
+                    $batchesForFile = $batchesFromFile | Where-Object { $_.batchId -ne $batchId }
+                    if ($batchesForFile.Count -eq 0) {
+                        Remove-Item $BatchFile -Force
+                    }
+                    else {
+                        # Save the updated list back to the file
+                        $batchesForFile | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    }                
                     $inputFile = Join-Path $CacheFolder $batch.inputFile
                     if (Test-Path $inputFile) {
                         Remove-Item $inputFile -Force
@@ -197,7 +204,7 @@ function Update-ClassificationsForHugoMarkdownList {
     $prompts = @();
     $total = $hugoMarkdownList.Count
     $counter = 0
-    $nextPercent = 1
+    $nextPercent = 5
     foreach ($hugoMarkdown in $hugoMarkdownList) {
         $newPrompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
         Write-DebugLog "For {ResourceId} we need to update {count}" -PropertyValues $hugoMarkdown.FrontMatter.ResourceId, $CatalogItemsToRefreshOrGet.Count
@@ -208,7 +215,7 @@ function Update-ClassificationsForHugoMarkdownList {
         $percent = [math]::Floor(($counter / $total) * 100)
         if ($percent -ge $nextPercent) {
             Write-InfoLog "{count} prompts Built for {done} of {total} markdown files ({percent}%)" -PropertyValues $prompts.count, $counter, $total, $percent
-            $nextPercent += 1
+            $nextPercent += 5
         }
     }
 
@@ -218,7 +225,7 @@ function Update-ClassificationsForHugoMarkdownList {
     $maxItemsPerBatch = 50000
     $maxBatchFileSizeMB = 200
     $maxBatchFileSizeBytes = $maxBatchFileSizeMB * 1MB
-    $maxDailyTokens = 100000000
+    $maxDailyTokens = 40000000
     
     $totalTokens = ($prompts | Measure-Object -Property TokenEstimate -Sum).Sum
     Write-WarningLog "Total tokens: $totalTokens"
@@ -324,7 +331,7 @@ function Get-PromptsForHugoMarkdown {
             content      = $hugoMarkdown.BodyContent
         }
 
-        $tokenEstimate = Get-TokenCount -Content $promptText
+        $tokenEstimate = Get-TokenCountFromServer -Content $promptText
 
         $promptObject = [PromptForHugoMarkdown]::new($promptText, [int]$tokenEstimate)
 
@@ -511,29 +518,11 @@ function Get-ConfidenceFromAIResponse {
             $aiConfidence = [math]::Round($aiConfidence * 10)
         }
         $aiMentions = if ($AIResponse.PSObject.Properties["mentions"]) { $AIResponse.mentions } else { 0 }
-        if ($aiMentions -le 1 -and $aiMentions -gt 0) {
-            $aiMentions = [math]::Round($aiMentions * 10)
-        }
         $aiAlignment = if ($AIResponse.PSObject.Properties["alignment"]) { $AIResponse.alignment } else { 0 }
-        if ($aiAlignment -le 1 -and $aiAlignment -gt 0) {
-            $aiAlignment = [math]::Round($aiAlignment * 10)
-        }
         $aiDepth = if ($AIResponse.PSObject.Properties["depth"]) { $AIResponse.depth } else { 0 }
-        if ($aiDepth -le 1 -and $aiDepth -gt 0) {
-            $aiDepth = [math]::Round($aiDepth * 10)
-        }
         $aiIntent = if ($AIResponse.PSObject.Properties["intent"]) { $AIResponse.intent } else { 0 }
-        if ($aiIntent -le 1 -and $aiIntent -gt 0) {
-            $aiIntent = [math]::Round($aiIntent * 10)
-        }
         $aiaudience = if ($AIResponse.PSObject.Properties["audience"]) { $AIResponse.audience } else { 0 }
-        if ($aiaudience -le 1 -and $aiaudience -gt 0) {
-            $aiaudience = [math]::Round($aiaudience * 10)
-        }
         $aisignal = if ($AIResponse.PSObject.Properties["signal"]) { $AIResponse.signal } else { 0 }
-        if ($aisignal -le 1 -and $aisignal -gt 0) {
-            $aisignal = [math]::Round($aisignal * 10)
-        }
         $aipenalties_applied = if ($AIResponse.PSObject.Properties["penalties_applied"]) { $AIResponse.penalties_applied } else { $false }
         $aitotal_penalty_points = if ($AIResponse.PSObject.Properties["total_penalty_points"]) { $AIResponse.total_penalty_points } else { 0 }
         $aipenalty_details = if ($AIResponse.PSObject.Properties["penalty_details"]) { $AIResponse.penalty_details } else { $null }
@@ -553,7 +542,7 @@ function Get-ConfidenceFromAIResponse {
         "ai_mentions"          = $aiMentions
         "ai_alignment"         = $aiAlignment
         "ai_depth"             = $aiDepth
-        "ai_intent"            = $aiIntent0
+        "ai_intent"            = $aiIntent
         "ai_audience"          = $aiaudience
         "ai_signal"            = $aisignal
         "ai_penalties_applied" = $aipenalties_applied

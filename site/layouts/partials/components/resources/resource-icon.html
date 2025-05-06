@@ -13,6 +13,8 @@
   <i class="fa-solid fa-cauldron"></i>
 {{ else if eq $ResourceType "signals" }}
   <i class="fa-regular fa-signal-stream"></i>
+{{ else if eq $ResourceType "engineering-notes" }}
+  <i class="fa-regular fa-gear-code"></i>
 {{ else }}
   <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
 {{ end }}
