@@ -1,5 +1,9 @@
 
 $OutputEncoding = [System.Text.Encoding]::UTF8
+
+. ./.powershell/_includes/LoggingHelper.ps1
+. ./.powershell/_includes/TokenServer.ps1
+
 function Call-OpenAI {
     param (
         [Parameter(Mandatory = $false)]
@@ -161,7 +165,7 @@ function Get-OpenAIResponse {
     Write-VerboseLog "-----------------------------------------"
 
     # Estimate tokens for the prompt
-    $tokenEstimate = Get-TokenCount $prompt
+    $tokenEstimate = Get-TokenCountFromServer $prompt
     $maxTokensPerChunk = 50000  # Leave room for model response
 
     # Split the prompt into chunks if it exceeds the max token size
@@ -481,31 +485,6 @@ function Get-OpenAIBatchList {
     return $totalTokens
 }
 
-function Get-TokenCount {
-    param (
-        [string]$Content
-    )
-
-    # Save the prompt to a temp file
-    $tempFile = "$env:TEMP\prompt.txt"
-    $Content | Out-File -Encoding utf8 $tempFile
-
-    # Run Python script to get token count
-    $tokenCount = python -c @"
-import tiktoken
-import sys
-
-with open(sys.argv[1], 'r', encoding='utf-8') as file:
-    text = file.read()
-
-encoding = tiktoken.get_encoding("cl100k_base")  # Model-specific encoding
-tokens = encoding.encode(text)
-print(len(tokens))
-"@ $tempFile
-
-    Remove-Item $tempFile -Force  # Clean up temp file
-    return [int]$tokenCount
-}
 
 
 

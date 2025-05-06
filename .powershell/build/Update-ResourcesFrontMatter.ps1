@@ -1,6 +1,7 @@
 
 # Helpers
 . ./.powershell/_includes/LoggingHelper.ps1
+. ./.powershell/_includes/TokenServer.ps1
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/ResourceHelpers.ps1
@@ -312,7 +313,7 @@ foreach ($ResourceType in $ResourceCatalogue.Keys) {
         $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$ResourceType.$year.yaml")
         $count = $ResourceCatalogue[$ResourceType][$year].Count
         $yearContent = $ResourceCatalogue[$ResourceType][$year] | ConvertTo-Yaml
-        $tokens = Get-TokenCount -Content $yearContent
+        $tokens = Get-TokenCountFromServer -Content $yearContent
         Set-Content -Path $yearlyFilePath -Value $yearContent -Encoding UTF8
         Write-InfoLog "$ResourceType $year : {files}/{tokens} : {yearlyFilePath}" -PropertyValues $count, $tokens, $yearlyFilePath
     }

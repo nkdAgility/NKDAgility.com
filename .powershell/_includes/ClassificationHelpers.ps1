@@ -1,4 +1,5 @@
 . ./.powershell/_includes/LoggingHelper.ps1
+. ./.powershell/_includes/TokenServer.ps1
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/PromptManager.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
@@ -166,9 +167,15 @@ function Update-ClassificationsForHugoMarkdownList {
                 }
                 "failed" {
                     Write-ErrorLog "Batch failed for $batchId. Please try again."
-                    $updatedBatches = $batches | Where-Object { $_.batchId -ne $BatchIdToRemove }
-                    # Save the updated list back to the file
-                    $updatedBatches | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    $batchesFromFile = Get-Content $BatchFile | ConvertFrom-Json
+                    $batchesForFile = $batchesFromFile | Where-Object { $_.batchId -ne $batchId }
+                    if ($batchesForFile.Count -eq 0) {
+                        Remove-Item $BatchFile -Force
+                    }
+                    else {
+                        # Save the updated list back to the file
+                        $batchesForFile | ConvertTo-Json -Depth 10 | Set-Content -Path $batchFile -Force
+                    }                
                     $inputFile = Join-Path $CacheFolder $batch.inputFile
                     if (Test-Path $inputFile) {
                         Remove-Item $inputFile -Force
@@ -197,7 +204,7 @@ function Update-ClassificationsForHugoMarkdownList {
     $prompts = @();
     $total = $hugoMarkdownList.Count
     $counter = 0
-    $nextPercent = 1
+    $nextPercent = 5
     foreach ($hugoMarkdown in $hugoMarkdownList) {
         $newPrompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
         Write-DebugLog "For {ResourceId} we need to update {count}" -PropertyValues $hugoMarkdown.FrontMatter.ResourceId, $CatalogItemsToRefreshOrGet.Count
@@ -208,7 +215,7 @@ function Update-ClassificationsForHugoMarkdownList {
         $percent = [math]::Floor(($counter / $total) * 100)
         if ($percent -ge $nextPercent) {
             Write-InfoLog "{count} prompts Built for {done} of {total} markdown files ({percent}%)" -PropertyValues $prompts.count, $counter, $total, $percent
-            $nextPercent += 1
+            $nextPercent += 5
         }
     }
 
@@ -218,7 +225,7 @@ function Update-ClassificationsForHugoMarkdownList {
     $maxItemsPerBatch = 50000
     $maxBatchFileSizeMB = 200
     $maxBatchFileSizeBytes = $maxBatchFileSizeMB * 1MB
-    $maxDailyTokens = 100000000
+    $maxDailyTokens = 40000000
     
     $totalTokens = ($prompts | Measure-Object -Property TokenEstimate -Sum).Sum
     Write-WarningLog "Total tokens: $totalTokens"
@@ -324,7 +331,7 @@ function Get-PromptsForHugoMarkdown {
             content      = $hugoMarkdown.BodyContent
         }
 
-        $tokenEstimate = Get-TokenCount -Content $promptText
+        $tokenEstimate = Get-TokenCountFromServer -Content $promptText
 
         $promptObject = [PromptForHugoMarkdown]::new($promptText, [int]$tokenEstimate)
 
