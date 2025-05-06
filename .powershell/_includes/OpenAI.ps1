@@ -217,7 +217,7 @@ $batchesInProgressMax = 10;
 function Submit-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
-        [string]$Model = "gpt-4o-mini",
+        [string]$Model = "gpt-4.1",
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
@@ -328,7 +328,7 @@ function Cancel-OpenAIBatch {
 function Submit-And-Wait-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
-        [string]$Model = "gpt-4o-mini",
+        [string]$Model = "gpt-4.1",
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
