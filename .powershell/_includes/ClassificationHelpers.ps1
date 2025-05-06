@@ -6,9 +6,9 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
-$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-18T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
+$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-05-01T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
 $watermarkScoreLimit = 10
-$watermarkCount = 0
+$watermarkCount = 50
 
 function Get-CatalogHashtable {
     param (
@@ -823,7 +823,9 @@ function Get-CatalogItemsToRefreshOrGet {
     $CatalogItemsToRefreshOrGet = @($Catalog.Keys | Where-Object { $_ -notin $cachedData.Keys })
     # Find items from the CatalogFromCache that are out of date.
     $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
-        $CatalogFromCache.Values | Where-Object {
+        $CatalogFromCache.GetEnumerator() |
+        ForEach-Object { $_.Value } | 
+        Where-Object {
             if (-not $_.calculated_at) {
                 $true
             }
@@ -840,13 +842,14 @@ function Get-CatalogItemsToRefreshOrGet {
         } | Select-Object -ExpandProperty category
     )
 
-    $watermarkCount = $CatalogItemsToRefreshOrGet.Count
+    #$watermarkCount = $CatalogItemsToRefreshOrGet.Count
     $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
     if ($waterMarkRefresh -le 0) {
         $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
         # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
         $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
-            $CatalogFromCache.Values |
+            $CatalogFromCache.GetEnumerator() |
+            ForEach-Object { $_.Value } |
             Where-Object { 
                 $_.final_score -gt $watermarkScoreLimit -and 
                 [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
