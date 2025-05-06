@@ -125,7 +125,7 @@ This change turned transient network failures from system-breaking to non-events
 
 ### Implement Local Fallback
 
-I already has logic to claulate the tokens locally and in isolation, which was the thing I wanted to refactor away. However, I realised that if the server was overloaded, I could either retry indefinitely, fail out, or regress to a local Python call. Sure, it was the slower path, but it acted as a deliberate, engineered fallback when the server stopped responding under load. This wasn’t just retries stacked on retries — it was a purposeful local option to guarantee the system would not fail completely and would keep moving, even if with a slight delay:
+I already have logic to calculate the tokens locally and in isolation, which was the thing I wanted to refactor away. However, I realised that if the server was overloaded, I could either retry indefinitely, fail out, or regress to a local Python call. Sure, it was the slower path, but it acted as a deliberate, engineered fallback when the server stopped responding under load. This wasn’t just retries stacked on retries — it was a purposeful local option to guarantee the system would not fail completely and would keep moving, even if with a slight delay:
 
 ```powershell
 function Get-TokenCountLocally {
