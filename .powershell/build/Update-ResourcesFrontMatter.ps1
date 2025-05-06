@@ -13,7 +13,7 @@ $ResourceCatalogue = @{}
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\engineering-notes" -YearsBack 1
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects

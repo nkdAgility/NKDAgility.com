@@ -126,6 +126,12 @@ menus:
       weight: 50
 
 markup:
+  highlight:
+    style: github # or dracula, github, etc.
+    guessSyntax: true # auto-detect language if none provided
+    lineNos: true # show line numbers
+    tabWidth: 4 # number of spaces for a tab
+    lineNumbersInTable: false # show line numbers in tables
   goldmark:
     renderer:
       unsafe: true # Allows raw HTML in Markdown
