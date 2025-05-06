@@ -14,6 +14,10 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\co
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags" -YearsBack 10
 
+Start-TokenServer
 ##############################################
+
 Update-ClassificationsForHugoMarkdownList -hugoMarkdownList $hugoMarkdownObjects
+
 ##############################################
+Stop-TokenServer

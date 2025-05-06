@@ -20,10 +20,11 @@ function Test-TokenServer {
 
     for ($i = 0; $i -lt $Retries; $i++) {
         try {
-            $null = Invoke-RestMethod -Uri $ServerUrl -Method Post -Body (@{ content = "" } | ConvertTo-Json) -ContentType "application/json" -TimeoutSec 5
+            $null = Invoke-RestMethod -Uri $ServerUrl -Method Post -Body (@{ content = "some test" } | ConvertTo-Json) -ContentType "application/json" -TimeoutSec 5
             return $true
         }
         catch {
+            Write-WarningLog "Failed to get token count from server: {ErrorMessage}" -PropertyValues $_.Exception.Message
             Start-Sleep -Seconds $DelaySeconds
         }
     }
@@ -58,8 +59,6 @@ function Start-TokenServer {
 
     $scriptFilename = Split-Path -Path $ScriptPath -Leaf
     
-    Write-InfoLog "Starting Token Server on {BindHost}:{Port} using script {ScriptPath}" -PropertyValues $BindHost, $Port, $scriptFullPath
-    
     $global:TokenServerProcess = Start-Process -FilePath "python" `
         -ArgumentList "$scriptFilename" `
         -WorkingDirectory $workingDir `
@@ -86,29 +85,27 @@ function Start-TokenServer {
 function Get-TokenCountFromServer {
     param (
         [string]$Content,
-        [string]$ServerUrl = "http://127.0.0.1:8000/count-tokens",
-        [string]$ScriptPath = ".\.powershell\py\token_server.py",
-        [string]$BindHost = "127.0.0.1",
-        [int]$Port = 8000
+        [string]$ServerUrl = "http://127.0.0.1:8000/count-tokens"
     )
 
-    $fullServerUrl = "http://" + $BindHost + ":" + $Port + "/count-tokens"
-
-    if (-not (Test-TokenServer -ServerUrl $fullServerUrl)) {
-        Start-TokenServer -ScriptPath $ScriptPath -BindHost $BindHost -Port $Port
-    }
-
     $body = @{ content = $Content } | ConvertTo-Json -Depth 3
-    try {
-        $response = Invoke-RestMethod -Uri $fullServerUrl -Method Post -Body $body -ContentType "application/json" -TimeoutSec 10
-        Write-VerboseLog "Token count retrieved: {TokenCount}" -PropertyValues $response.token_count
-        return [int]$response.token_count
+
+    for ($i = 0; $i -lt 3; $i++) {
+        try {
+            $response = Invoke-RestMethod -Uri $ServerUrl -Method Post -Body $body -ContentType "application/json" -TimeoutSec 10
+            Write-VerboseLog "Token count retrieved: {TokenCount}" -PropertyValues $response.token_count
+            return [int]$response.token_count
+        }
+        catch {
+            Write-WarningLog "Failed to get token count from server: {ErrorMessage}" -PropertyValues $_.Exception.Message
+            Start-Sleep -Seconds 1
+        }
     }
-    catch {
-        Write-ErrorLog "Failed to get token count from server: {ErrorMessage}" -PropertyValues $_.Exception.Message
-        return $null
-    }
+
+    Write-ErrorLog "Failed to get token count from server after 3 retries"
+    return Get-TokenCountLocally -Content $Content
 }
+
 
 
 # Stops the running token server if tracked or detected
@@ -136,6 +133,25 @@ function Stop-TokenServer {
         }
     }
 }
+
+function Get-TokenCountLocally {
+    param ([string]$Content)
+
+    $tempFile = [System.IO.Path]::GetTempFileName()
+    Set-Content -Path $tempFile -Value $Content -Encoding UTF8
+
+    $tokenCount = python -c @"
+import tiktoken, sys
+with open(sys.argv[1], 'r', encoding='utf-8') as f:
+    text = f.read()
+encoding = tiktoken.get_encoding('cl100k_base')
+print(len(encoding.encode(text)))
+"@ $tempFile
+
+    Remove-Item $tempFile -Force
+    return [int]$tokenCount
+}
+
 
 # Restart helper: stop and start
 function Restart-TokenServer {
