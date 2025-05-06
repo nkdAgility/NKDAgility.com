@@ -879,8 +879,9 @@ function Set-ClassificationsFromCache {
     for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
         try {
             # Explicitly handle file streams
+            $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
             $fileStream = [System.IO.File]::Open($cacheFile, [System.IO.FileMode]::Create, [System.IO.FileAccess]::Write, [System.IO.FileShare]::None)
-            $streamWriter = New-Object System.IO.StreamWriter($fileStream, [System.Text.Encoding]::UTF8)
+            $streamWriter = New-Object System.IO.StreamWriter($fileStream, $utf8NoBom)
             try {
                 $streamWriter.Write($jsonData)
             }
@@ -888,6 +889,7 @@ function Set-ClassificationsFromCache {
                 $streamWriter.Dispose()
                 $fileStream.Dispose()
             }
+            
             break  # Successfully written, exit loop
         }
         catch {
