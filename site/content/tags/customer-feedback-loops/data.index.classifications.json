@@ -1,4 +1,4 @@
-{
+﻿{
   "Tool": {
     "category": "Tool",
     "calculated_at": "2025-04-10T13:21:02",
@@ -178,5 +178,23 @@
     "final_score": 32.0,
     "reasoning": "The content discusses customer feedback loops, which indirectly relate to discipline through the themes of continuous improvement and systematic processes. However, the primary focus is on customer feedback rather than discipline itself. The direct mentions of discipline are minimal, and while there is some conceptual alignment with disciplined practices in product development, the depth of discussion does not delve deeply into the principles of discipline.",
     "level": "Ignored"
+  },
+  "Product Discovery": {
+    "resourceId": "Customer Feedback Loops",
+    "category": "Product Discovery",
+    "calculated_at": "2025-05-06T20:39:26",
+    "ai_confidence": 88.82,
+    "ai_mentions": 3.6,
+    "ai_alignment": 9.4,
+    "ai_depth": 8.8,
+    "ai_intent": 9.0,
+    "ai_audience": 8.4,
+    "ai_signal": 9.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 89.0,
+    "reasoning": "The content provides a focused discussion on customer feedback loops as critical to integrating user insights into product development, which is central to Product Discovery. \n\n1. Mentions (3.6): The text does not directly use the term 'Product Discovery', nor specific methodologies (e.g. 'Lean Startup'), but it repeatedly and explicitly discusses 'customer feedback loops', which is a key topic in Product Discovery. Thus, moderate score but not high.\n2. Alignment (9.4): The core message—using customer feedback to shape and validate product direction—directly aligns with the definition. It covers customer needs, feature alignment, and continuous learning, all fundamental aspects of Product Discovery.\n3. Depth (8.8): The discussion goes beyond a superficial mention, explaining the mechanisms and organizational value of feedback loops. However, it doesn’t provide concrete frameworks, detailed techniques, or case studies, so doesn't reach a perfect score.\n4. Intent (9.0): The main purpose is informative and supportive, aiming to advocate for feedback integration in product processes—matching the category's intent.\n5. Audience (8.4): The audience is product teams and strategists focused on improving alignment with user needs and iterative learning. It does not go deep into technical or executive management language, so the score is high but not perfect.\n6. Signal-to-Noise (9.1): Nearly the entire content is on-topic and relevant to the Product Discovery category, with no evident filler or tangential discussions.\n\nNo penalties apply—the content is current, constructive, and in alignment with the category framing. The final score is weighted heavily by alignment, depth, and intent, reflecting strong overall confidence that this content belongs as 'Primary' to Product Discovery.",
+    "level": "Primary"
   }
 }
