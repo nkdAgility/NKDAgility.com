@@ -1727,5 +1727,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses how organizations need to craft their own unique approaches to DevOps, emphasizing the importance of context and tailored strategies, which aligns with the concept of developing enduring capabilities. It touches on themes like continuous improvement and innovation through external perspectives, which are important for capability development. However, while it mentions aspects of capability, it also focuses heavily on the uniqueness of solutions rather than deeply discussing the systematic development of capabilities within the organizational context, which slightly lowers its alignment and depth scores.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:18",
+    "ai_confidence": 2.31,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 0.5,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "Upon review, the content focuses entirely on customising DevOps consulting to fit unique organizational contexts, with repeated emphasis on external expertise, continuous improvement, and tailored strategies—none of which directly reference or even closely allude to Service Level Expectation (SLE) as defined. There are zero explicit or implicit mentions of SLE, cycle time probability, elapsed time forecasting, or any related Kanban/Scrum SLE mechanics. While 'continuous improvement' is discussed frequently, it is within the general DevOps/philosophical sense and not in relation to Agile flow metrics or predictability tools. The core audience (DevOps consultants, technical leaders) might conceptually overlap with SLE practitioners, but all substantive discussion is off-topic with respect to the SLE classification. The very low confidence score reflects the total lack of coverage and relevance to the SLE category.",
+    "level": "Ignored"
   }
 }

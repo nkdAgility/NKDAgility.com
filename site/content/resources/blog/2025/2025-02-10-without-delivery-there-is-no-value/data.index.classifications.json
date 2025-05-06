@@ -1898,5 +1898,23 @@
     "final_score": 54.0,
     "reasoning": "The content primarily focuses on the necessity of frequent delivery to realize value, which aligns with discussions of capability in terms of the enduring competencies needed for teams and organizations. It mentions critical aspects such as validation, adaptation, and feedback loops that enhance capability but does not deeply explore strategies for cultivating capabilities within teams over time or define the concept of capability in the context provided. The breadth of topics discussed related to delivery and value implies some understanding of capability but lacks specific emphasis on the long-term, systemic development of such competencies.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "UfdnQrxv5iF",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:13",
+    "ai_confidence": 12.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 1.8,
+    "ai_audience": 3.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is an in-depth argument for the importance of frequent delivery and early feedback in Agile and Scrum, using examples from industry and referencing metrics such as DORA. However, it never directly mentions Service Level Expectation (SLE) or discusses its definition, calculation, or use. It refers several times to related concepts like lead time and frequent delivery, but these are not explicitly connected to SLE as a forecasted range of cycle times or probabilities. There is no guidance on establishing, applying, or improving SLE within the context of Agile, Scrum, or Kanban. The main intent is to emphasise delivery cadence, not SLE, so conceptual alignment and depth are minimal. The intended audience (Agile practitioners, teams, decision-makers) is similar, though the focus is more general than practitioners concerned with SLE. Much of the content is relevant to continuous delivery practices, not SLE, so the signal-to-noise ratio is low for this category. Since SLE is neither directly nor indirectly referenced and the content is not misleading or outdated, no penalties are applied. Confidence is commensurately very low.",
+    "level": "Ignored"
   }
 }

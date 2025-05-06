@@ -1727,5 +1727,23 @@
     "final_score": 35.0,
     "reasoning": "The content primarily focuses on the concepts surrounding technical debt and how to manage it rather than discussing specific tools used in this context. While it emphasizes strategies for addressing technical debt, it lacks direct references to any particular tools or their integration within Agile, Lean, or DevOps frameworks. The mentions of strategies imply the use of tools but do not elaborate on them, making the overall focus more on methodology than on specific tools, resulting in a moderate confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "1M2_AVqoRbs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:15",
+    "ai_confidence": 5.69,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 0.4,
+    "ai_audience": 2.3,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the philosophy, risks, and proactive management strategies around technical debt, emphasizing quality, agility, and the mindset shift required to address technical debt as an opportunity rather than a liability. There are no direct mentions of Service Level Expectation (SLE), nor are there any references to its definition, calculation, application, or its usage in Agile, Scrum, or Kanban contexts. Core topics revolve around technical debt management, stakeholder communication, and workflow practices, all of which are thematically related to Agile quality practices but do not address SLE specifically. The depth of discussion is focused, but solely on technical debt. Audience alignment is somewhat adjacent, as both technical debt and SLE concern Agile teams and product owners; however, this content targets those interested in technical debt, not SLE. The signal-to-noise ratio is moderate, as the content is on-topic for technical debt but unrelated to SLE. As a result, confidence is extremely low for classification under 'Service Level Expectation.'",
+    "level": "Ignored"
   }
 }

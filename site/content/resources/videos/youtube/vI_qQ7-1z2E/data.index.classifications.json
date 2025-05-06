@@ -1748,5 +1748,23 @@
     "final_score": 65.0,
     "reasoning": "The content primarily discusses the PSM II certification and its role in developing a Scrum Master's skills, which relates to the discipline of Agile practices. While it emphasizes skill development and accountability in the role, it lacks a thorough examination of the underlying principles and shared knowledge that guide the discipline itself. The focus is more on practical application rather than the systematic maturation of the discipline, hence a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vI_qQ7-1z2E",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:37",
+    "ai_confidence": 2.709,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 1.5,
+    "ai_audience": 2.2,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There is no mention of Service Level Expectation (SLE) anywhere in the title, description, or main content. The entire article focuses on the value of the PSM II certification, contrasting skill validation with skill development for Scrum Masters. It explores the content and learning approach of the PSM II class, facilitation techniques, and the evolution of the Scrum Master role. There is no discussion, direct or indirect, of SLE concepts—such as time forecasts, cycle time analysis, probability-based delivery windows, or Kanban/Agile delivery flow predictability. The few references to Scrum do not mention any SLE-related practice or measure. The audience is Scrum Masters, which aligns with the target audience for SLE discussions, but all content is off-topic for this category. The signal-to-noise ratio is low: while focused, it is entirely unrelated to SLE. As such, the confidence that this content fits under 'Service Level Expectation' is extremely low, resulting in very low scores across all dimensions except audience. No penalties were necessary as the tone, framing, and recency are appropriate, just off-topic.",
+    "level": "Ignored"
   }
 }

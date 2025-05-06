@@ -1758,5 +1758,23 @@
     "final_score": 22.0,
     "reasoning": "The content primarily discusses the risks associated with technical debt and strategies for managing it, rather than focusing on enduring competencies or capabilities. While it mentions concepts related to delivery quality and team adaptation, these are tied to the context of technical debt rather than a broader discussion on capabilities within Agile or DevOps frameworks. The depth of discussion is limited to risks and short-term strategies rather than sustainable capabilities, thus leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZSqNF7v9vSR",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:41",
+    "ai_confidence": 2.923,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.2,
+    "ai_intent": 1.5,
+    "ai_audience": 4.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "This content is entirely focused on technical debt, its risks, and management strategies, with detailed narrative and examples (notably a Microsoft case study). It references Agile and Scrum (mentioning Sprints and transparency) and touches on metrics, but nowhere does it mention Service Level Expectation (SLE) by name or by concept (e.g., no discussion of forecasting delivery times, time ranges with probabilities, or Kanban-specific cycle metrics). There are no direct or indirect references to the calculation, application, or explanation of SLE. The main intent is to warn about, explain, and advocate for managing technical debt—not to discuss or teach about SLE. The audience does overlap to some degree (teams involved in Agile delivery), but the depth and relevance to the SLE category are minimal. Signal is low due to tangential references to frameworks rather than focused discussion on SLE.",
+    "level": "Ignored"
   }
 }

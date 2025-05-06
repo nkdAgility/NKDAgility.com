@@ -1781,5 +1781,23 @@
     "final_score": 35.0,
     "reasoning": "The content primarily promotes a workshop focused on product validation and customer-centric development, which touches on the concept of enhancing team capabilities. However, it emphasizes tools and techniques rather than discussing capabilities as enduring competencies. While it mentions fostering a culture of collaboration and customer-centric solutions, it does not delve deeply into how these capabilities are developed or assessed over time within an organizational context.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "w5rxdL8YHNa",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:19",
+    "ai_confidence": 2.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 1.0,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused entirely on promoting a Scrum.org workshop about product validation and discovery, emphasizing customer-centric development, validation techniques, and team collaboration. There are no direct mentions of Service Level Expectation (SLE) or discussion of its calculation, application, or theoretical underpinnings as defined in Agile, Scrum, or Kanban practices. None of the key topics associated with SLE—such as probability-based cycle time forecasting, transparency in delivery timelines, or references to SLE in Kanban/Scrum—are present. The intent is to advertise a workshop rather than provide information, analysis, or application of SLE. The audience (Agile practitioners) could overlap somewhat with the SLE audience, but the subject matter is orthogonal. The signal-to-noise ratio is low for the SLE category since none of the material is relevant. Thus, all scores are quite low, except for audience which receives a slightly higher score due to partial overlap. No penalties were needed since there was no outdated or contradictory content. The overall confidence score is accordingly minimal, reflecting almost no basis for classifying this content under 'Service Level Expectation.'",
+    "level": "Ignored"
   }
 }

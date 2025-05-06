@@ -1790,5 +1790,23 @@
     "final_score": 45.0,
     "reasoning": "The content strongly emphasizes the importance of vision, goals, and evidence-based management as frameworks for guiding organizational decision-making. However, it lacks a focused discussion on formal models or frameworks such as the Cynefin Framework, Lean principles, or the Three Ways of DevOps that are specifically mentioned in the category definition. While it touches on intent-based leadership and strategic alignment, these concepts are presented more as general principles rather than as structured models or conceptual frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KvZbBwzxSu4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:18",
+    "ai_confidence": 2.756,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 6.7,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There are no direct mentions of Service Level Expectation (SLE), nor does the content reference SLE explicitly. The discussion centers on vision, goals, leadership, evidence-based management, and team empowerment. While these are often related to agile contexts, and there is mention of continuous improvement and evidence-based management, there are no references to SLE concepts such as forecasting cycle time, elapsed time ranges with probabilities, or specific Kanban/Scrum SLE practices. Depth and alignment scores are very low—there are no implicit or explicit applications or analyses relevant to SLE. The content targets practitioners and leaders who might care about SLE, so the audience dimension is higher. The signal-to-noise ratio is moderate; the content is focused but off-topic for this specific category. There are no outdated practices or undermining tones, so no penalties are applied. The very low final confidence reflects that the content does not address SLE as defined.",
+    "level": "Ignored"
   }
 }

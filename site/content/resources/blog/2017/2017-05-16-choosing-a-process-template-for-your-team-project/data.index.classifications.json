@@ -1755,5 +1755,23 @@
     "final_score": 32.0,
     "reasoning": "The content discusses process templates and provides an opinion on which Agile template to choose (Scrum vs Agile), but its primary focus is on specific artifacts and tools rather than on enduring capabilities. It briefly mentions friction in Agile implementations and implies that choosing the right template can enhance team effectiveness, but it lacks a deeper exploration of how these choices contribute to broader organizational capabilities or sustained improvements. Thus, while the topic of capability is touched upon, it does not meet the criteria for a thorough discussion of capabilities as indicated in the category definition.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "dGSGEOYRJAo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:44",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 2.2,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on choosing between different process templates (Scrum, Agile, CMMI) for team projects in Azure DevOps (VSTS/TFS). It critiques the design of these templates for agile adoption and discusses friction points in process customization. There is no direct mention of Service Level Expectation (SLE), nor any indirect reference to SLE concepts, such as forecasts of completion time, probability ranges, or transparency in flow metrics as defined in the original classification. The depth is minimal regarding SLE, and the content’s primary audience is Agile practitioners, but only in the context of process template selection—not service level predictability. Mention and intent scores are very low, as the material is off-topic per the strict definition and key topics; it does not discuss SLE calculation, application, or improvement. No penalties were applied, as there is no evidence of outdated content or tonal contradiction; the issues are simply a lack of any SLE material. The resulting confidence score appropriately reflects that the content is not aligned with the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

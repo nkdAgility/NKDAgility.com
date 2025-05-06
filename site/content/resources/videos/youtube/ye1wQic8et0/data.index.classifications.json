@@ -1763,5 +1763,23 @@
     "final_score": 37.0,
     "reasoning": "The content primarily discusses the negative impact of committees on decision-making and agility, which is tangential to the concept of capability. While it touches on the importance of empowering teams (which aligns somewhat with developing capabilities), it does not delve into the broader definitions, characteristics, or strategies for embedding capabilities as outlined in the criteria. The discussion remains focused on the drawbacks of traditional roles and practices rather than building long-term competencies.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:28",
+    "ai_confidence": 8.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.4,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses primarily on the negative impact of committees on team agility and time to market. There is significant discussion of agile and references to Scrum and DevOps, but no explicit or implicit mention of Service Level Expectation (SLE) as defined in Kanban, Scrum, or Agile practices. There is no discussion of SLE concepts such as calculating elapsed time ranges with probabilities, use of historical cycle time data, transparency of SLEs, or their application to forecasting or process improvement. The article is targeted at practitioners interested in agility but never mentions SLE or closely related metrics. Scoring reflects near-absence of direct mention (0.1), minor indirect conceptual overlap by discussing predictability and delivery speed (1.6), and shallow depth on SLE specifically (0.8). Intent and signal scores are low due to the content's primary focus being organizational structure and decision-making, not SLE. Audience alignment is slightly higher, as it addresses agile practitioners, but again not SLE users specifically. Overall, the confidence score is extremely low, as the content almost completely fails to address the SLE category according to the strict definition.",
+    "level": "Ignored"
   }
 }

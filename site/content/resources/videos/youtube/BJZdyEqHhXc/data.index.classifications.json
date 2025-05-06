@@ -1775,5 +1775,23 @@
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the necessity of building internal capabilities within organizations rather than relying on external quick fixes. It discusses the importance of fostering an environment of learning and investing in team skills, which aligns well with the key topics of the 'Capability' category. The article emphasizes sustainable change and continuous improvement, addressing the development of organizational agility through internal capabilities. There are multiple direct mentions of capability and its importance, as well as a deep discussion on how to cultivate these within teams, particularly in the context of Agile and DevOps. However, while it embodies the spirit of capability development, some aspects are slightly less detailed, which influences the depth score.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "BJZdyEqHhXc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:21",
+    "ai_confidence": 8.5,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 1.2,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on dispelling the myth of quick fixes within Agile and DevOps, emphasizing empowerment, sustainable change, internal capability building, and continuous improvement. While these themes are broadly aligned with agile principles and indirectly reference the importance of predictability and learning (which underpins SLE), at no point is Service Level Expectation (SLE) directly mentioned nor is any discussion found regarding its calculation, use in forecasting, transparency to teams, or relationship to flow metrics and delivery timelines. The discussion remains entirely at a cultural and consultancy-practice level, with no material devoted to quantitative metrics, process predictability, or SLE-specific guidance. There is a very weak thematic alignment on the intent to continuously improve and to empower teams, but this is not unique or specific to SLE. Thus, direct mentions and conceptual alignment are near minimum, with only peripheral audience overlap (practitioners considering agile improvement, possibly the same group interested in SLE). The signal-to-noise ratio is low for the SLE category — nearly 100% of the content is dedicated to other agile/consulting themes. No penalties are applied since the tone is constructive and nothing is obsolete or critical of SLE. Overall, there is an extremely low but non-zero confidence that this content fits the SLE category, resulting in a final confidence score of 8.5, far below any category inclusion threshold.",
+    "level": "Ignored"
   }
 }

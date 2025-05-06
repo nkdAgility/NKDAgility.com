@@ -2182,5 +2182,23 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the importance of leadership in shaping system design and delivery practices, which aligns well with the principles of discipline in Agile methodologies. It highlights the need for systemic changes in organizations, focusing on principles like adaptive delivery systems and continuous integration, which are core to the Agile discipline. Although it addresses specific practices like trunk-based development and team restructuring, it primarily emphasizes the underlying principles and governance of these practices. The discussion is quite detailed, giving the content a strong connection to the 'Discipline' category, while still touching on practical aspects of Agile without merely listing tools or techniques.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "AORP41zLNTi",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:11",
+    "ai_confidence": 2.786,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 0.7,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on leadership, organisational silos, system and architectural design, and technical leadership in Agile environments. It addresses delivery practices in general, such as trunk-based development, CI/CD, team design, and the role of leadership in enabling flow. However, there is no explicit or implied discussion of Service Level Expectation (SLE), nor any mention of SLE concepts such as forecasted elapsed days, probabilities, or historical cycle time data. There are no references to SLE in Kanban, Scrum, or Agile. The closest connection is a cursory mention of 'maximise flow' and 'adaptability,' which do not directly tie into SLE as expressly defined. The content, although aimed at technical leaders in an Agile context, is not targeted to SLE-specific guidance, calculation, or usage. Therefore, confidence is very low across all dimensions, as the content does not align with the scope or intent of the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

@@ -1769,5 +1769,23 @@
     "final_score": 32.0,
     "reasoning": "The content discusses the signs of sloth in Agile practices but primarily focuses on identifying issues related to Agile execution rather than exploring the concept of capabilities. While it mentions empowering teams and the need for feedback, it does not delve into the characteristics, development, or measurement of capabilities themselves, which are central to the category. The discussion of processes reflects a superficial understanding of capabilities without providing in-depth strategies or examples of cultivating enduring competencies.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uCFIW_lEFuc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:27",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 1.3,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is an opinion piece focused on diagnosing and addressing a lack of agility ('sloth') in Agile teams. Throughout, the emphasis is on frequent delivery, empowerment, feedback loops, and transparency—concepts adjacent to Service Level Expectation (SLE)—but SLE itself is never mentioned and the discussion does not examine its definition, calculation, or explicit application. No terms such as 'SLE', 'Service Level Expectation', or any detailed references to forecasting elapsed times or probabilities are present. While there is a brief mention of the importance of transparency and delivery cadence (e.g., 'Are teams delivering working software to real users every iteration...'), these touch on related principles but do not connect to SLE as defined within Agile, Scrum, or Kanban practices. There is no exploration of historical cycle time data, discussion of SLE's two components (elapsed time range + probability), guidance for establishing SLEs, nor any references to authoritative works on SLE. The primary audience is Agile practitioners and leaders, which matches part of the category’s intent, but the overall content serves as a motivational critique of Agile anti-patterns without engaging with SLE as a concept. Therefore, the confidence score is extremely low, justified by the almost total lack of direct connection to SLE in both mention and substance.",
+    "level": "Ignored"
   }
 }

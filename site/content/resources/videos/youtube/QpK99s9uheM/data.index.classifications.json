@@ -1718,5 +1718,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses Agile project management significantly, focusing on shifting mindsets and embracing Agile principles, which aligns well with the themes of discipline in professional fields. However, while Agile methodologies are central, the discussion focuses more on individual practices and attitudes than on the systemic application and maturation of discipline as a whole. This leads to a moderately high confidence score due to the alignment and some depth provided on the principles, despite not exclusively framing it in the context of discipline.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "QpK99s9uheM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:35",
+    "ai_confidence": 7.95,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.0,
+    "ai_intent": 1.3,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content provides a general discussion of agile project management and the mindset shifts required for project managers transitioning to agile frameworks. Nowhere in the content is Service Level Expectation (SLE) mentioned, either directly or by describing its core components (elapsed time with probability, flow metrics, calculation using cycle time data, etc.). The content focuses on broad themes such as control, complexity, collaboration, and adopting an agile mindset, but never enters into process predictability, metrics, or flow forecasting as required for SLE. There is no mention or implicit discussion of calculating or applying SLE, nor are techniques, stakeholder transparency on timeline predictability, or any reference to sources such as Kanban guides or cycle time analytics. The audience may overlap indirectly (agile practitioners), but this is too broad, and the actual focus is on personal/professional adaptation, not delivery metrics or flow. No penalties are applied as there is no misleading or outdated content, but the score remains extremely low due to a total absence of SLE-related content or intent.",
+    "level": "Ignored"
   }
 }

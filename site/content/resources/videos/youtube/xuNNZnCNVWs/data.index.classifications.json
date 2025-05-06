@@ -1688,5 +1688,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses teaching principles associated with Agile, particularly in the context of Scrum. While it touches on methodologies and practices, the primary focus is on the importance of understanding the underlying principles (the 'why') which aligns with the concept of discipline. However, it lacks detailed exploration of governance structures or ethical considerations, making it more tool and technique-centric rather than purely about the systemic application of discipline as defined in the category. Thus, while there is a strong alignment with some core themes of discipline, it does not fully meet the depth required for a high confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "xuNNZnCNVWs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:36",
+    "ai_confidence": 4.91,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 1.2,
+    "ai_audience": 0.5,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the importance of teaching the 'why' behind Scrum and Agile practices but does not mention Service Level Expectation (SLE) at all—neither directly nor indirectly. None of the distinct SLE topics, such as the forecasting of cycle time, calculation methods, setting initial SLEs, or references to authoritative SLE sources, are present. The main themes are team understanding, collaboration, and continuous improvement, but these are discussed in a general sense and not positioned in context of SLE. The depth and alignment scores are low since even the closest mentions to transparency or improvement are not concretely tied to any SLE concepts. The content targets Agile and Scrum practitioners, which matches SLE’s audience, but there is no section or detail specific to SLE or even to flow metrics at all. Overall, the extremely low signal-to-noise ratio for the SLE category justifies a confidence well below 10, mostly acknowledging a broad overlap with Agile culture but not with SLE itself.",
+    "level": "Ignored"
   }
 }

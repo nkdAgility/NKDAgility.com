@@ -1760,5 +1760,23 @@
     "final_score": 45.0,
     "reasoning": "While the content explores Agile principles and complexities in product backlog management, it heavily focuses on specific practices rather than discussing the deeper principles and governance structures that define the discipline of Agile itself. The core themes of discipline are touched upon, especially regarding the adaptability and learning aspects. However, there is insufficient depth on the codified knowledge and systemic application of Agile as a discipline. The content mainly addresses practical strategies, with only brief references to its theoretical implications, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "PmLDnMEBzBQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:30",
+    "ai_confidence": 2.918,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 4.2,
+    "ai_audience": 6.5,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is exclusively focused on strategies for managing the Product Backlog in complex environments. There are extensive discussions of hierarchy, complexity theory, backlog structure, the value of items, and the importance of team autonomy—none of which directly reference, define, or even implicitly discuss Service Level Expectation (SLE) in Agile, Scrum, or Kanban contexts. There is no mention of SLE terminology, calculation, forecasting, elapsed time, probability, or team predictability as defined in the SLE category. There are tangential references to transparency and flow, important concepts in Kanban, but these are applied solely to backlog structure rather than metrics or expectations about delivery timing. The audience is agile practitioners and teams, which partially overlaps the intended SLE category, but the content itself never addresses, alludes to, or explores SLE practices, signals, or calculations. Signal-to-noise is moderate, as everything is on-topic for backlog management but irrelevant to SLE. There are no penalties, as the content is not outdated or contradictory. The very low confidence score reflects the complete absence of SLE subject matter or intent, despite some general Agile relevance.",
+    "level": "Ignored"
   }
 }

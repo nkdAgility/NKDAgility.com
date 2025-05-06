@@ -1745,5 +1745,23 @@
     "final_score": 78.0,
     "reasoning": "The content mainly focuses on the roles and practices of Scrum Masters and Agile coaching. While it touches on principles like continuous improvement, adaptability, and collaboration, it lacks a deeper exploration of how these concepts form a structured discipline as defined by the category. The mention of Agile principles is limited and does not adequately discuss governance, ethical considerations, or the maturation of the discipline, downplaying its relevance to the overarching topic of 'Discipline'.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "v1sMbKpQndU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:29",
+    "ai_confidence": 1.15,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.6,
+    "ai_audience": 2.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE) or its defined components anywhere in the content. The material focuses on Agile coaching, Scrum Master influence, respect, leadership without authority, and continuous improvement, but never refers to SLE specifically or tangentially (such as forecasting cycle times or establishing probabilistic commitments regarding work items). Conceptual alignment and depth are minimal, as nothing suggested approaches the SLE definition (no mention of elapsed day ranges, probabilities, SLE calculation, or making SLE transparent). The intent is fully about effective coaching and team leadership. The audience (Scrum Masters and Agile practitioners) is tangentially appropriate for SLE content, but without any SLE discussion, this contributes little weight. Signal-to-noise is low for SLE, since 100% of the text is on other Agile themes. Therefore, the confidence score is extremely low, clearly warranting near-absolute exclusion under this category.",
+    "level": "Ignored"
   }
 }

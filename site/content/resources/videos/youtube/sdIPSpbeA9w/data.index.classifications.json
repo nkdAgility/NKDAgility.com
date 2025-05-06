@@ -1763,5 +1763,23 @@
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on automation in software development, discussing its benefits in reducing human error and enhancing efficiency. While it mentions related topics like workflows and feedback loops, it does not delve into the enduring competencies required to embed capabilities within an organization or team. The emphasis is more on the tools and techniques of automation rather than cultivating systemic capabilities, which is the core of the Capability category. Thus, it briefly touches on aspects of Capability but lacks sufficient depth and primary focus.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "sdIPSpbeA9w",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:14",
+    "ai_confidence": 6.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 2.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on the benefits of automation for reducing human error and improving efficiency in software development. There is no direct mention or reference to Service Level Expectation (SLE), nor are any of its key definitions, concepts, or practices addressed. While some adjacent topics like cycle time and workflow speed are mentioned, they are not linked to SLE or its role within Agile, Scrum, or Kanban frameworks. The audience (software developers, testers, managers) overlaps somewhat with SLE's, but this is incidental and not specifically targeted at SLE practitioners. The discussion lacks depth, intent, and focus relevant to SLE and is heavily weighted towards automation principles instead. The final confidence score is therefore extremely low, as required by the classification guidance.",
+    "level": "Ignored"
   }
 }

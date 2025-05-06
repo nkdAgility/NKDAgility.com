@@ -1703,5 +1703,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses DevOps and Agile principles, emphasizing the importance of mindset shifts and closing feedback loops for improving product delivery. However, it primarily focuses on overcoming challenges and practical strategies rather than a systematic exploration of discipline as defined in the category. The discussion lacks depth in exploring the foundational principles and governance structures that characterize a discipline. While related concepts are present, they are not the central focus.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:36",
+    "ai_confidence": 9.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.3,
+    "ai_intent": 1.4,
+    "ai_audience": 3.8,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on DevOps and agile challenges around speeding delivery, shortening feedback loops, fostering mindset shifts, and engaging auditors for regulatory flexibility, but throughout the article, there are no direct or explicit mentions of Service Level Expectation (SLE). Key terms like SLE, its definition, calculation, or impact are completely absent. There is some very tangential alignment to the idea of predictability and cycle time in terms of 'how long does it take for developers to validate their code' and a broad emphasis on reducing time to delivery, but these are treated in the context of general DevOps optimizations and not specific to SLE as defined. Depth is minimal, with no substantive discussion of forecasting, probability ranges, historical data analysis, or transparency for stakeholders as SLE requires. The author’s intent is to help practitioners overcome delivery challenges and resistance to change, not to inform or analyze SLEs. The target audience is broadly agile or DevOps practitioners, which slightly improves audience score, but the content is largely generic. Its focus remains on general delivery-speed improvements, automation, and cultural change, not the technicalities or applications of SLE. The signal-to-noise ratio is low in relation to SLE, as all discussions remain general and unanchored to the required category. No penalties applied as content isn’t outdated or satirical—it simply doesn’t fit. Result: the confidence score is extremely low, reflecting negligible overlap outside a very minor conceptual brush with the broad area of predictability and cycle improvements.",
+    "level": "Ignored"
   }
 }

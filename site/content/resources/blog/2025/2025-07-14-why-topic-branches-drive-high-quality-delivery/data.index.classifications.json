@@ -2947,5 +2947,23 @@
     "final_score": 82.0,
     "reasoning": "The content presents a strong emphasis on the discipline of software engineering practices, particularly with regards to the use of topic branches in Agile methodologies. It discusses the strategic importance of these branches with respect to teamwork, integration, and continuous delivery, which aligns well with the key themes of discipline as defined. It outlines shared principles of modern software development, the need for discipline in implementation, and the effects of not adhering to these principles. The depth of the discussion is significant, providing practical implementation strategies and the consequences of poor practices. This suggests an intrinsic understanding of the discipline and its impact on organizational performance, warranting a high confidence score.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "O_VlmDj7n3V",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:11",
+    "ai_confidence": 2.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.3,
+    "ai_audience": 0.5,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused entirely on branching strategies, specifically topic branches, GitHub Flow, Release Flow, and Git Flow, in the context of software engineering and agile practices. There is a heavy emphasis on best practices for modularity, integration, and frequent delivery, but at no point is Service Level Expectation (SLE) explicitly mentioned by name or as a concept. There are no references to cycle time distributions, forecasted time ranges with associated probabilities (the hallmark of SLE), or the use of SLE as a tool for managing stakeholder expectations within agile, Scrum, or Kanban. While the themes of predictability, flow, and quality delivery are somewhat adjacent to SLE, the actual conceptual alignment and depth with respect to SLE are minimal or absent. The closest alignment comes from discussion of keeping work short-lived and integrating frequently to maintain flow, but this never bridges into the SLE-specific domain defined by the classification. The signal is tolerable since the article stays on topic for branching strategies, but since it is not about SLE, its relevance to this category is extremely low. No penalties are applied since the content is current and not critical toward SLE; the low scores reflect a genuine lack of relationship to the category.",
+    "level": "Ignored"
   }
 }

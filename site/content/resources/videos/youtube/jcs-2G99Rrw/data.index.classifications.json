@@ -1721,5 +1721,23 @@
     "final_score": 30.0,
     "reasoning": "The content focuses primarily on discussing common pitfalls and best practices related to Azure DevOps rather than directly addressing the enduring competencies and core themes of capability development as specified in the category definition. While it mentions agile practices and the importance of maintaining simplicity for effective team productivity, it lacks a deep exploration of capabilities in an organisational context. There are no explicit discussions or strategies surrounding the development and embedding of such capabilities within teams or organisations, which detracts from a stronger alignment with the category.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:21",
+    "ai_confidence": 6.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 0.8,
+    "ai_audience": 1.6,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "There are zero direct mentions or explicit references to Service Level Expectation (SLE) or its related concepts as defined (e.g., no discussion of SLE as a probabilistic cycle time forecast, no mention of SLE setup or use). The content stays focused on Azure DevOps best practices and common agile pitfalls in tooling, but never explores nor even briefly references SLE, its calculation, its application for predictability, or any related Kanban/Scrum flow metric with probability. While there is some passing allusion to agile principles, traceability, and productivity, these are generic and do not relate to SLE or its targeted usage. The intended audience (practitioners of Azure DevOps and agile) only superficially overlaps with the SLE category, but the actual topical and conceptual fit is almost nonexistent. Therefore, the confidence score is extremely low, with all six dimensions scored at or near their minimums to reflect minimal alignment and maximum adherence to the strict exclusion rules.",
+    "level": "Ignored"
   }
 }

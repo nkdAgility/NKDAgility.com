@@ -1829,5 +1829,23 @@
     "final_score": 47.0,
     "reasoning": "The content focuses primarily on the critique of traditional branch promotion strategies in software delivery, emphasizing the importance of continuous integration and alternative models like GitHub Flow and Release Flow. However, while it discusses practices that could potentially enhance team capabilities, it does not delve deeply into how these contribute to enduring competencies or systemic organizational capabilities as defined in the Capability category. The discussion is more about tools and techniques rather than the development of capabilities themselves, leading to a lower alignment and depth score. Therefore, the content somewhat aligns with the Capability category but lacks the necessary depth regarding systemic cultivation and integration into organizational processes.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "x7ra7pQCDX5",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:14",
+    "ai_confidence": 6.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.9,
+    "ai_intent": 3.5,
+    "ai_audience": 5.6,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses extensively on branching strategies, deployment flows, reverse integration, and continuous delivery but does not mention Service Level Expectation (SLE) by name or concept. There are no direct references, explanations, calculations, or applications of SLE, its definition, use for predicting delivery timeframes, or its role in Agile/Kanban practices. The main intent is to argue for audience-based deployment and to critique traditional promotion/branching models, with some discussion relating to predictability and agility but not framed within SLE terminology. The audience (Agile/DevOps practitioners) overlaps somewhat, but the central discussion is wholly about branch management, not service level forecasting or measurement. The signal-to-noise ratio is moderate as the content remains focused but never on SLE. Therefore, confidence in this being about Service Level Expectation is extremely low.",
+    "level": "Ignored"
   }
 }

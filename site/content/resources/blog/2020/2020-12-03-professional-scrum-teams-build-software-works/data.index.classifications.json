@@ -1755,5 +1755,23 @@
     "final_score": 36.0,
     "reasoning": "The content discusses aspects of Scrum teams and their accountability for delivering quality software, but focuses heavily on roles and responsibilities rather than on developing enduring capabilities within the organization. While there are mentions of accountability and practices that could enhance capabilities, they are overshadowed by the emphasis on roles, tools, and immediate practices rather than the systemic development of capabilities over time. Thus, the primary focus does not align fully with the 'Capability' category.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vCeqzJIgF1F",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:41",
+    "ai_confidence": 5.166,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.8,
+    "ai_intent": 0.6,
+    "ai_audience": 5.5,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content makes no direct mention of Service Level Expectation (SLE) or related concepts such as elapsed time range, probability, cycle time analysis with regard to SLE, or its calculation within Agile, Scrum, or Kanban. Its main thrust is on software quality, developer accountability, technical debt, automation, and professionalism in Scrum teams—not SLE. There are general references to expectations (e.g., stakeholders' expectations), but these are unrelated to the formal concept of SLE as defined in the classification scope. No part of the text discusses forecasting delivery timelines for work items, setting explicit expectations about time to completion, historical data analysis, or any concrete SLE guidance. The closest tangential mention is the general Scrum practice of inspect and adapt, but this is unrelated to SLE as a probabilistic, time-based forecast. Audience targeting (Scrum practitioners, developers, and organizations) does align with typical SLE users, which moderates the audience score; the signal ratio is high because the content is clear and focused on Scrum practice (just not on SLE). Overall, the text is off-topic for the 'Service Level Expectation' category, resulting in extremely low confidence and scores in all dimensions except for audience and signal-to-noise.",
+    "level": "Ignored"
   }
 }

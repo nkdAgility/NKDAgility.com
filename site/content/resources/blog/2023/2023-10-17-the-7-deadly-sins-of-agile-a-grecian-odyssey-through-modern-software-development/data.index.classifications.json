@@ -1763,5 +1763,23 @@
     "final_score": 32.0,
     "reasoning": "While the content touches on some aspects of agile methodology and the pitfalls associated with it, the primary focus is on the metaphorical interpretation of ancient Greek sins rather than a substantive discussion on capabilities. The ideas presented do include implications for team dynamics and the importance of adapting practices, which hint at capabilities. However, these aspects are fleeting and lack a deep exploration of developing, embedding, or measuring capabilities within organizations or teams, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DgJV3wMMjWr",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:27",
+    "ai_confidence": 5.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 1.7,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content extensively explores cultural, behavioral, and strategic pitfalls in Agile as related to the metaphor of the seven deadly sins, drawing philosophical parallels and offering broad advice on values, mindset, and common Agile anti-patterns. At no point does the content mention, define, or reference Service Level Expectation (SLE), nor does it discuss any subtopic specific or unique to SLE such as probability-based delivery forecasting, SLE calculation, or its operational role within Kanban or Scrum. While the audience (agile practitioners, coaches, and leaders) slightly overlaps with that for SLE discussions, none of the main ideas, examples, or depth offer anything closely aligned. The minor positive scores in alignment, depth, audience, intent, and signal reflect weak, tangential overlaps in that the post is about Agile team practices and improvement. However, there is zero mention—direct or indirect—of SLE concepts or artifacts. All scores are quite low, with zero for mentions. The confidence score appropriately reflects that this content is fundamentally not about Service Level Expectation at all.",
+    "level": "Ignored"
   }
 }

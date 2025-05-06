@@ -1776,5 +1776,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the integration of Agile and DevOps, emphasizing that they share a common goal of delivering continuous value to customers, which aligns with the concept of capabilities. There are multiple direct mentions of capability-related themes, such as teamwork, continuous delivery, and collaboration. However, the discussion focuses more on roles and tools rather than a deep exploration of enduring competencies. This results in a moderate confidence score due to the relevance of the content to the capability category, while still falling slightly short of a comprehensive exploration of the topic.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XOaAKJpfHIo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:38",
+    "ai_confidence": 3.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 0.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on the importance of DevOps in delivering continuous value to customers, its relationship to Agile, and the integration of practices from both domains. Nowhere does it mention Service Level Expectation (SLE) explicitly, nor does it discuss any related concepts such as the calculation, definition, or application of SLE within Agile, Scrum, or Kanban. The only overlapping topic might be 'continuous delivery of value', which tangentially relates to predictability and delivery metrics in Agile, but no reference is made to time forecasts, probability ranges, or SLE mechanisms. There are no references to flow metrics, customized time forecasts, or any of the key sources or frameworks in the SLE definition. The audience is broadly agile practitioners, but the main focus is DevOps and Agile, not SLE. The low scores across all dimensions reflect a near-complete absence of SLE content, and the very low confidence score is proportionate to the total lack of alignment with the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

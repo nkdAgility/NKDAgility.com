@@ -1787,5 +1787,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the importance of building skills and capabilities within teams to achieve engineering excellence, directly relating to the concept of capability. It mentions the need to cultivate a culture of quality and emphasizes the enduring competencies required for value creation. However, the conversation often drifts into tactics and practices associated with software engineering, which, while relevant, do not provide sufficient depth on capabilities as a primary focus. The confidence score reflects a solid alignment with the core themes but lacks extensive detail on capability itself.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DSIXtHZTirA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:15",
+    "ai_confidence": 2.447,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.3,
+    "ai_audience": 2.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on engineering excellence, performance engineering, technical debt, shifting left, and building a culture of quality within engineering teams. There is no direct mention, discussion, or even tangential reference to Service Level Expectation (SLE), its definition, calculation, probability, or its application within Agile, Scrum, or Kanban frameworks. While there are some agile-related hashtags and a general alignment to teams that might operate in agile environments, the substance is about quality, performance, and team practices, not flow metrics like SLE. The closest alignment is the broad aim of improving delivery and excellence, which can be related philosophically but not in the specialized sense required by the provided definition. The scores reflect this minimal and indirect fit: nearly no direct mention (0.1), low thematic alignment (1.2), shallow depth (0.8), weak intent fit (1.3), slightly stronger audience match given reference to agile practitioners (2.2), and low signal due to topic mismatch (2.6). No penalties were needed as the content is neither outdated nor critical of SLE; it simply does not address it.",
+    "level": "Ignored"
   }
 }

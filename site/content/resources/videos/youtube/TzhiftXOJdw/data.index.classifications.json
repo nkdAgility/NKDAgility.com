@@ -1766,5 +1766,23 @@
     "final_score": 76.0,
     "reasoning": "The content primarily discusses how traditional organisations can embrace Agile, focusing on cultural shifts, readiness assessments, and the systemic change necessary for Agile adoption. It semantically aligns closely with the notion of capabilities, emphasizing the competencies that organisations must develop to sustain agility in a complex environment. However, while it touches on the principles of capability, the content is somewhat less focused on the formal characteristics and frameworks related to capability themselves, leading to a slightly lower confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "TzhiftXOJdw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:32",
+    "ai_confidence": 6.12,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 0.8,
+    "ai_intent": 2.0,
+    "ai_audience": 1.5,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a general discussion about the challenges and cultural shifts required for traditional organisations to adopt Agile methodologies. Nowhere in the title, description, or body is the term 'Service Level Expectation' (SLE) directly mentioned, nor does the content reference core SLE concepts such as elapsed time ranges, probability-based forecasts, or its role in Kanban, Scrum, or Agile team metrics. The focus is on high-level adoption, cultural resistance, and general benefits of Agile, with no discussion of workflow predictability, cycle time analysis, or related metrics. There is no indication of the primary SLE audience being targeted (such as Agile practitioners seeking metric-based predictability), and the signal-to-noise ratio is low since the entirety of the content remains off-topic for the provided category. Each score reflects the strict exclusion instructions: 'mentions' is zero, 'alignment' is near zero due to lack of conceptual fit, 'depth' is similarly very limited, while minor intent and audience scores are given for the tangential relationship to Agile. The confidence score is very low to reflect the explicit lack of direct or indirect SLE relevance.",
+    "level": "Ignored"
   }
 }

@@ -1868,5 +1868,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses audience-based deployment strategies and their impact on feedback loops and continuous delivery, which aligns with the concept of capabilities that empower teams to deliver value in an adaptive manner. However, the primary focus is on deployment strategies rather than the enduring competencies of an organization, which limits the depth of its discussion on capabilities. The content includes some good examples of real-world applications (like Microsoft's transformation) that illustrate capabilities in practice, but it primarily emphasizes techniques rather than cultivating capabilities within organizational culture.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_ncZFfeCrnS",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:13",
+    "ai_confidence": 1.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 2.0,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "This content is centered entirely on audience-based deployment, ring-based strategies, production testing, progressive rollout, DevOps, and continuous delivery. Nowhere does it directly mention Service Level Expectation (SLE) or discuss its calculation, application, definition, or its role in Agile, Scrum, or Kanban workflows as specified in the classification instructions. There is no reference to SLE concepts such as elapsed time ranges, probabilities, historical cycle time analysis, or any SLE-specific practices. The closest related themes are general mentions of feedback loops, deployment frequencies, and continuous improvement, but these remain generic and not explicitly or even implicitly tied to SLE theory. The main audience is practitioners in DevOps and continuous delivery rather than Agile/Kanban teams focused on workflow forecasting. There is essentially no signal relevant to 'Service Level Expectation' per the strict definition; as such, alignment, mentions, and intent scores are extremely low, with slightly less minimal scores in depth, signal, and audience as there is some broader relevance to software delivery practitioners. No penalties applied since the content is current, earnest, and does not undermine SLE (it simply ignores it). Thus, confidence is correctly very low and proportionate to the evidence.",
+    "level": "Ignored"
   }
 }

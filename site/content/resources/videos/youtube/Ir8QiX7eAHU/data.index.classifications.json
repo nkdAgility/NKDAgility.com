@@ -1736,5 +1736,23 @@
     "final_score": 27.0,
     "reasoning": "While the content focuses on setting and understanding WIP limits within Kanban, which can be seen as a skill relevant to capability, it primarily discusses tactical aspects of managing workflow rather than the development of enduring capabilities within an organization. The emphasis on techniques like WIP limits and practical advice does not align closely with the broader, systemic understanding of capabilities as defined in the category. The discussion on optimizing workflow and individual practices detracts from the focus on cultivating organizational competencies.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Ir8QiX7eAHU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:21",
+    "ai_confidence": 10.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 4.3,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "This content focuses exclusively on Work-In-Progress (WIP) limits in Kanban strategy, offering practical guidance and principles for optimizing flow and team capacity. There are no explicit or implicit references to Service Level Expectation (SLE): the term is not mentioned, nor are SLE-specific calculations, the probability-based forecasting of cycle time ranges, historical cycle time analysis, or any nuanced SLE applications as required by the category definition. The discussion of flow metrics is generic and does not situate WIP limits in the context of SLE or touch upon establishing or communicating an SLE. While Kanban and Scrum vocabularies are present, any overlap with SLE is indirect at best (as both rely on flow concepts), and the main thrust is optimizing WIP, not service level predictability. Thus, the scores for direct mentions, alignment, depth, and intent are very low—assigned fractionally above zero only to acknowledge a distant conceptual adjacency, but not actual SLE content. The audience and signal scores are slightly higher because practitioners interested in SLE might plausibly encounter this content during workflow improvement efforts, but almost none of the material is relevant to SLE itself.",
+    "level": "Ignored"
   }
 }

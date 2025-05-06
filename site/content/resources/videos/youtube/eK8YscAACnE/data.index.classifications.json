@@ -1739,5 +1739,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses the misuse of specific Agile metrics and advocates for more objective metrics that align with Agile principles. It touches on themes related to fostering collaboration, continuous improvement, and the empowerment of teams, which are key components of organizational capabilities. However, the focus on metrics rather than the broader concept of capabilities makes it less than fully aligned, and it primarily critiques specific practices rather than thoroughly exploring the concept of capabilities in an organizational context.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "eK8YscAACnE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:23",
+    "ai_confidence": 9.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 1.15,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content critiques the common Agile metrics of story points and velocity and recommends replacing them with more objective measures such as cycle time and throughput. However, at no point does the author reference or discuss Service Level Expectation (SLE), nor are its key components (elapsed time with probability, forecasting, SLE as per Kanban/Scrum, or mention of authoritative sources) addressed. The section on cycle time and throughput deals with different flow metrics but does not connect or compare these to SLE, nor does it explain the purpose of SLE within the Agile context. The overall alignment is very low as the concept of SLE is not directly or even implicitly discussed; the depth is minimal for the same reason. While the audience could potentially overlap (Agile practitioners, coaches), this is not a sufficient link. There are no penalties applied since the content is not outdated or critical of SLE directly. The confidence score reflects a near-complete absence of direct relevance to SLE.",
+    "level": "Ignored"
   }
 }

@@ -1772,5 +1772,23 @@
     "final_score": 68.0,
     "reasoning": "The content focuses on Kanban as a means to improve transparency, efficiency, and continuous improvement within software engineering processes. It explicitly discusses how understanding the system and using Kanban can lead to sustainable adaptations, which aligns well with the concept of organizational capability. While there are mentions of tools and methods associated with Kanban, the emphasis on continual improvement and the cultivation of practices that enhance team performance suggests a deeper alignment with capability concepts. However, it still dips slightly into discussions around tools and roles, preventing a higher confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Psc6nDD7Q9g",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:19",
+    "ai_confidence": 18.15,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.55,
+    "ai_intent": 3.2,
+    "ai_audience": 3.5,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content, while comprehensive about Kanban, transparency, and continuous improvement in software engineering, makes no explicit mention of Service Level Expectation (SLE) or discusses its definition, calculation, or application. Direct mentions (0.40) are minimal due to the absent direct reference to SLE. Conceptual alignment (2.30) is low: the focus on metrics like cycle time, lead time, and workflow visualization is related to the general context in which SLE would be discussed, but does not specifically address SLE as defined in Agile, Scrum, or Kanban theory. Depth (2.55) reflects some substantive exploration of Kanban metrics and process improvement, yet never addresses SLE itself. The intent (3.20) is to improve transparency and process with Kanban—somewhat aligned with SLE's broader goals—but not focused on SLE per se. Audience (3.50) is moderately relevant, as practitioners of Agile or Scrum might be addressed, but not for SLE specifically. Signal-to-noise ratio (4.10) is relatively higher; while the content is focused and on-topic for Kanban practice, it is not specific to SLE. Overall, the confidence is very low (18.15), as there is no substantial engagement with SLE—none of its definition, calculation, or use in Agile/Scrum/Kanban as required by the scope.",
+    "level": "Ignored"
   }
 }

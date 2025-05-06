@@ -1668,5 +1668,23 @@
     "final_score": 75.0,
     "reasoning": "The content robustly discusses strategies for cultivating an agile mindset within development teams, which aligns with the core themes of enhancing organisational capabilities. It emphasizes the importance of leadership in fostering a culture of quality and intrinsic motivation, essential for developing enduring competencies. The depth of discussion on promoting autonomy, mastery, and purpose demonstrates a significant understanding of capability-building strategies. While it doesn't delve deeply into specific Agile or DevOps frameworks, the overall focus on developing capability through cultural change and quality improvement justifies a higher score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:43",
+    "ai_confidence": 7.35,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.1,
+    "ai_audience": 2.5,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused on cultivating an agile mindset, improving quality, and discussing cultural and leadership strategies for agile adoption. There are explicit references to agile, Scrum, and related practices (such as retrospectives, code reviews, pair programming), but at no point is Service Level Expectation (SLE) mentioned by name or in concept. There is no discussion of SLE’s definition, mathematical calculation, use in predictability, transparency for stakeholders, nor does it discuss elapsed time ranges, probabilities, or cycle time analysis in the context of SLE. The audience (agile teams, leaders, practitioners) overlaps with the SLE category's audience, but the main themes and purpose are about agile culture and quality, not SLE. As a result, the content does not meet the threshold for meaningful inclusion in the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

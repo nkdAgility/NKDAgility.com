@@ -1787,5 +1787,23 @@
     "final_score": 32.0,
     "reasoning": "The content discusses technical debt primarily as a challenge and provides strategies for managing it, which ties into the improvement of team capabilities indirectly. However, it does not explicitly focus on the concept of 'Capability' as defined in the criteria. While it mentions strategies and the importance of quality, it remains centered on specific practices and outcomes rather than cultivating sustained organizational capabilities.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "PZa77csy5r8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:15",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on the definition, impact, and management of technical debt in software development, primarily illustrated through the Azure DevOps team's evolution. There are no direct or even indirect references to Service Level Expectation (SLE). Technical debt is discussed conceptually in relation to team delivery pace and product quality but never with mention or analysis of SLE, nor does it address cycle time as a probabilistic forecast within Agile, Scrum, or Kanban theory. The content's main audience (software practitioners and managers) somewhat overlaps with the likely SLE audience, but the targeting is generic. Discussion depth around SLE is non-existent; the entire work is about technical debt, so intent, alignment, and S/N ratio are all very low for this category. The very modest non-zero scores are only due to a slight overlap in target audience and general discussion of productivity, but there is no justification for assigning any real confidence in a fit to the SLE category.",
+    "level": "Ignored"
   }
 }

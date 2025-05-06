@@ -1757,5 +1757,23 @@
     "final_score": 62.0,
     "reasoning": "The content primarily focuses on Sprint planning, a key practice within Agile methodologies. While it discusses essential principles like understanding the product backlog and establishing clear product goals, it largely does so in a practical manner without delving deeply into the underlying discipline of Agile itself. The mention of concepts like teamwork aligns well conceptually with the discipline category, but the discussion mainly revolves around specific practices rather than the systemic or governance aspects typically associated with the category of Discipline. Therefore, it demonstrates decent alignment but insufficient depth in exploring Agile as a structured field.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uQ786VBz3Jw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:34",
+    "ai_confidence": 4.24,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 0.6,
+    "ai_intent": 1.5,
+    "ai_audience": 7.8,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Sprint planning best practices, emphasizing backlog understanding, product goal clarity, and teamwork. Nowhere in the main text or headings is Service Level Expectation (SLE) explicitly mentioned or referenced in concept, calculation, or practical application. There is neither discussion of forecasting cycle times, the elapsed time range/probability components of SLE, nor any mention of flow metrics or Kanban-related predictors. All recommendations remain firmly within basic Scrum ceremonies and team alignment, not service predictability or flow analyses. The audience (Agile practitioners or Scrum teams) partially overlaps with the category’s, which slightly increases the audience alignment score, since SLE might be relevant to them in other contexts. Otherwise, there is almost no signal relevant to SLE, and no penalty is needed as there is no outdated information or misframing. The overall confidence is extremely low and proportionate to the total absence of SLE discussion.",
+    "level": "Ignored"
   }
 }

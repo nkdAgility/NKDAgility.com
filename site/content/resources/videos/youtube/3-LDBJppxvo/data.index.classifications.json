@@ -1772,5 +1772,23 @@
     "final_score": 25.0,
     "reasoning": "While the content emphasizes the importance of delivering working software and the associated feedback loops in Agile, it does not discuss observability as a key topic. There is a brief mention of gathering feedback, which touches on the concepts related to observability, but it lacks a systematic approach or focus on metrics, logs, or traces that define observability. The practical steps provided mainly focus on Agile practices rather than establishing a comprehensive understanding of observability within software systems.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "3-LDBJppxvo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:19",
+    "ai_confidence": 6.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 2.0,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on the importance of delivering working software each iteration in Agile product management. It explores feedback loops, early value delivery, MVPs, and prioritization, none of which explicitly mention Service Level Expectation (SLE) or directly address its definition, calculation, or application as described in the classification meaning. There is no discussion of probabilistic forecasting, cycle time analysis toward SLE, or process transparency around expected delivery times. The theoretical themes around predictability and value might tangentially relate to the general goals of SLE, but the content never references SLE, its mechanics, establishing expectations based on cycle-time data, or making these visible to stakeholders.\n\nDirect Mention: No explicit or implicit mention of SLE (score: 0.2).\nConceptual Alignment: Value delivery is a shared principle, but the content's approach is general Agile, not about calculating/representing SLE or its use cases (score: 1.1).\nDepth: The article discusses value delivery and iteration thoroughly but is completely lacking in SLE theory or practice (score: 0.9).\nIntent: The purpose is to encourage early delivery and feedback—not to address, inform about, or apply SLE practices (score: 2.0).\nAudience: Targets Agile teams/practitioners, slightly overlapping with SLE's intended audience, but not for the topic at hand (score: 1.0).\nSignal: Content is consistently on Agile delivery themes, but entirely off-topic for SLE (score: 1.0).\nNo penalties were needed because there is no evidence of outdatedness or contradiction; the content simply misses the category. The final low confidence reflects the near-total lack of fit.",
+    "level": "Ignored"
   }
 }

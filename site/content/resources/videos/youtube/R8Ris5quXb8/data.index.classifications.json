@@ -1736,5 +1736,23 @@
     "final_score": 32.0,
     "reasoning": "While the content addresses elements of Agile product backlog management and offers strategies that can improve team effectiveness, it primarily focuses on techniques and tools (such as prioritisation and WIP limits) rather than cultivating enduring competencies or organizational capabilities. The discussion lacks a deep dive into the systemic implications of these practices on organizational culture or continuous improvement, which are central to the capability category. Thus, it scores moderately but does not fulfill the primary focus required for a higher confidence level.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "R8Ris5quXb8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:25",
+    "ai_confidence": 7.25,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 1.7,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on product backlog management, prioritization, WIP limits, stakeholder engagement, and refinement sessions in Agile and Scrum. Nowhere does it mention, define, or discuss Service Level Expectation (SLE); there is no reference to elapsed time ranges, probabilities, historical cycle time, or predictive forecasting as required by the definition. While WIP limits and Kanban boards are mentioned, they are used in the context of backlog management rather than flow predictability or SLE calculation. There is no reference to SLE's function as a forecast, nor to any of its authoritative sources. The content is targeted at an Agile practitioner audience, which overlaps with SLE's audience, and there is a small indirect alignment due to the mention of flow efficiency and Kanban, but this is tangential at best. Depth is minimal because there are no SLE concepts discussed. Signal-to-noise is low for this category, as almost none of the content is directly relevant. Therefore, each scoring dimension is kept very low, slightly higher on 'audience' due to some overlap. No penalties are applied since the content is current and does not satirize or contradict the category, but the confidence score reflects that this content is not suitable for classification under 'Service Level Expectation.'",
+    "level": "Ignored"
   }
 }

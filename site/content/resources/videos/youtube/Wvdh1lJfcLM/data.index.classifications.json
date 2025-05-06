@@ -1697,5 +1697,23 @@
     "final_score": 25.0,
     "reasoning": "While the content emphasizes the migration process and mentions some aspects of enhancing collaboration and efficiency, it primarily focuses on practical tools, techniques, and best practices for migration rather than discussing enduring capabilities within teams or organizations. The discussions are more about transient actions rather than cultivating systemic capabilities, which does not align with the 'Capability' category. The primary focus on specific migration steps and tools detracts from a deeper exploration of organizational capabilities.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Wvdh1lJfcLM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:19",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.4,
+    "ai_audience": 7.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is an in-depth guide to migrating from TFS to Azure DevOps, primarily aimed at IT and DevOps teams. There are no direct mentions of Service Level Expectation (SLE) or its calculation, definition, usage, or analysis within Agile, Scrum, or Kanban frameworks. The main ideas revolve around technical best practices for migration, troubleshooting, and post-migration verification. While the audience (technical practitioners) slightly overlaps with those who may use SLE in practice, none of the key topics or requirements for the SLE category are addressed directly or indirectly. There is no discussion of flow metrics, agility, predictability, or stakeholder transparency in a manner related to SLE. As a result, the score is minimal across all dimensions except for audience and signal, which receive higher marks due to the technical focus and relevance to practitioners (but still do not pertain to SLE). The formula yields a zero confidence score appropriately reflecting that the content does not fit under the SLE category.",
+    "level": "Ignored"
   }
 }

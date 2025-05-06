@@ -1778,5 +1778,23 @@
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on backlog management practices related to Scrum and Kanban, discussing the advantages of a flat backlog structure. While it touches on enhancing agility and value delivery, it does not explicitly discuss broader capabilities or provide strategic insights into developing or embedding capabilities as defined in the category. The content reflects on practices rather than enduring competencies that create systemic impact, which diminishes its alignment with the Capability category.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZBb8OZ0I6qA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:21",
+    "ai_confidence": 3.41,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 1.0,
+    "ai_intent": 0.5,
+    "ai_audience": 4.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content discusses backlog management, emphasizing the benefits of a flat backlog structure for Agile and Kanban practices. At no point does it reference Service Level Expectation (SLE) directly, nor does it allude to SLE concepts (such as forecasting completion times, cycle time probabilities, or delivery predictability as outlined in Kanban and Scrum theory). There are no explicit or implicit mentions of SLE, nor guidance on its calculation, application, or improvement. The main intent is to improve value delivery by restructuring backlog organization, rather than to discuss predictability of delivery timeframes or the relationship to flow metrics as required for SLE. The audience–Agile practitioners interested in workflow improvement–does overlap but the relevant concepts for SLE are entirely absent. Signal-to-noise ratio and audience alignment are higher because the content is crisp, focused, and relevant to Agile, but almost nothing is aligned with SLE specifically. No penalties were necessary, as there was no outdated or contradictory information. The exceedingly low confidence score reflects correct exclusion from the SLE category.",
+    "level": "Ignored"
   }
 }

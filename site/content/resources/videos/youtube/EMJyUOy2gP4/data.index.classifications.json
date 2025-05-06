@@ -1772,5 +1772,23 @@
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the 'Scrum Master' role and its direct impact on team performance and ROI, which does not align with the core themes of the 'Capability' category. While the importance of competence in a Scrum Master is highlighted, the discussion revolves around individual roles and metrics rather than enduring, systemic competencies. The focus is on specific outputs and short-term results, which are excluded from the capability definition, leading to a low confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "EMJyUOy2gP4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:16",
+    "ai_confidence": 3.38,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on assessing and maximizing the ROI of Scrum Masters by examining a range of value and productivity metrics (such as innovation rate, on-product index, usage index, and installed version index). Nowhere does it mention or reference Service Level Expectation (SLE), nor does it discuss cycle time, flow, or work-item predictability in the context or terminology defined by SLE within Agile, Scrum, or Kanban. There is no conceptual alignment with SLE—no discussion of forecasting elapsed times or transparency for stakeholders on delivery timelines using historical data. Depth and intent are both very low because, although the content is relevant to Agile practitioners and discusses measurement, it does not address SLE at all – either directly or indirectly. Audience and signal are slightly higher due to the technical and practitioner-oriented nature of the article, but still represent a poor fit for the SLE category. Thus, the confidence score is very low, reflecting nearly no evidence that this content belongs in the 'Service Level Expectation' category.",
+    "level": "Ignored"
   }
 }

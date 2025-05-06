@@ -1793,5 +1793,23 @@
     "final_score": 36.0,
     "reasoning": "The content discusses the importance of frequent deployments in improving code quality and highlights the benefits of smaller changes and real-time user feedback, which can be linked to the theme of capabilities in Agile and DevOps. However, the primary focus is on practices rather than on developing enduring competencies or organizational capabilities, leading to a lower confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "D1wz-J1jklQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:14",
+    "ai_confidence": 14.71,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 4.3,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is a reflective and practical piece on the benefits of frequent deployments, team habits, and code quality. It discusses the impact of batch size, technical debt, user feedback, hypothesis-driven development, and deployment frequency. However, there is no direct or indirect mention of Service Level Expectation (SLE) as a technical metric, nor does the content use the mathematical forecasting or probability elements that define SLE in Agile, Scrum, or Kanban contexts. While the author promotes ways to become more predictable and responsive—shared values with SLE—the text never references SLE terminology or concepts such as SLE ranges, probabilities, Kanban metrics, cycle time analysis, or any authoritative SLE sources. There is mild alignment in audience (teams interested in continuous delivery and improvement), and some conceptual overlap in intent (predictable, responsive delivery), but no substantial surface or depth regarding SLE calculation, transparency, or its explicit use in workflow governance. The substance and signal relate to deployment and quality, not formal service-level delivery forecasting. Therefore, each scoring dimension is rated very low, and the final confidence score is deeply below the bar for this category.",
+    "level": "Ignored"
   }
 }

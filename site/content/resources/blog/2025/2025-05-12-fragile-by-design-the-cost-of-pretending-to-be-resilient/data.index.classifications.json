@@ -2029,5 +2029,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the importance of resilience as a product capability and emphasizes that resilience must be built and tested within systems and organizations. It highlights the cultivation of resilience through discipline and intentional practice, aligning well with the themes of capability development and organizational culture. However, while it touches heavily on resilience, it does not explore broader capabilities in Agile or DevOps frameworks or strategies for embedding such capabilities, which slightly limits its depth in the context of the Capability category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LGGuvRq4g7p",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:11",
+    "ai_confidence": 1.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.4,
+    "ai_audience": 1.7,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "alignment (-0.5): Discussion of resilience and operational reliability is conceptually adjacent but not aligned with Agile SLE. depth (-0.5): Critiques metrics and fake success but never covers SLE as defined. intent (-0.5): Strongly critical and framed around engineering/leadership failure, weakening purpose fit for SLE.",
+    "final_score": 1.0,
+    "reasoning": "The content does not reference Service Level Expectation (SLE) directly and does not discuss its definition, calculation, or application within Agile, Scrum, or Kanban. Instead, the focus is on resilience engineering, operational failures, disaster recovery testing, and leadership accountability. While there are mentions of metrics and system restoration timelines, these are not within the SLE framework or terminology, nor do they reference Kanban, Scrum, or Agile flow management. The audience is technical/leadership but not specifically Agile practitioners, and there are no references to SLE authorities or concepts. The discussion is deep, but only with respect to resilience and recovery—not SLE or related Agile predictability tools. Penalties were applied due to the critical tone against certain metric practices (faux resilience) and the complete absence of SLE, even as a contrast. Overall, there is almost no signal that relates to SLE by the provided definition, resulting in a very low confidence score.",
+    "level": "Ignored"
   }
 }

@@ -2932,5 +2932,23 @@
     "final_score": 74.0,
     "reasoning": "The content is primarily an overview of Scrum, its foundational principles, values, accountabilities, events, and artifacts. There are explicit direct mentions of 'cross-functional' and 'self-organizing' teams (e.g., 'Scrum Teams are self-organizing and cross-functional'), establishing a clear basis for inclusion in the category, but the focus is on the framework as a whole rather than an in-depth exploration of cross-functional teams themselves.\n\n**Mentions (6.2):** The term 'cross-functional' is mentioned directly once, but cross-functional team characteristics are clearly present in the definition of Scrum Teams. There are numerous indirect references to collaboration, self-organization, and team-based delivery, moderately boosting the score.\n\n**Conceptual Alignment (7.1):** The content's underlying themes (collaborative delivery, diverse roles, self-organization) align with the category definition. However, the focus is broad (all of Scrum) rather than tightly centered on cross-functional teams, so the alignment is solid but not exemplary.\n\n**Depth (7.4):** The discussion mentions the multiple roles (Product Owner, Developers, Scrum Master) working together as a team, and the team’s joint responsibilities, both of which indicate cross-functionality. Still, the treatment is superficial: there are no detailed discussions about forming, managing, or overcoming challenges specific to cross-functional teams.\n\n**Intent (7.2):** The piece aims to introduce Scrum and explain its key concepts, including the nature of Scrum Teams. While it does reinforce the importance of cross-functional, collaborative teams, its main intent is broader — explaining Scrum overall.\n\n**Audience (7.0):** The content is appropriate for Scrum learners, agile practitioners, or teams new to Agile/Scrum — overlapping with the likely audience for 'Cross Functional Teams.'\n\n**Signal-to-Noise (7.3):** Most of the content is relevant to Scrum’s structure, team functions, and collaborative principles. Little information is off-topic, but only a subset is directly pertinent to the specifics of cross-functional teams.\n\n**Penalty Adjustments:** No penalties were warranted — the content is current, supportive, and reinforces the value of cross-functional teams rather than undermining it.\n\nLevel is classified 'Secondary' because cross-functional teams are a necessary topic within the Scrum explanation but are not the central subject of the content.\n\nThe final confidence score (74.09) appropriately reflects the secondary but genuine alignment of the content with the category, highlighting moderate mentions and concept fit, good depth, but not a primary focus.",
     "level": "Secondary"
+  },
+  "Continuous Delivery": {
+    "resourceId": "peNS32Lw-sn",
+    "category": "Continuous Delivery",
+    "calculated_at": "2025-05-06T22:31:58",
+    "ai_confidence": 38.31,
+    "ai_mentions": 0.5,
+    "ai_alignment": 4.2,
+    "ai_depth": 4.35,
+    "ai_intent": 3.95,
+    "ai_audience": 7.45,
+    "ai_signal": 5.98,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content is a thorough and high-quality overview of the Scrum framework, addressing principles such as empiricism, self-organization, iterative development, incremental delivery, and continuous improvement. These areas tangentially overlap with some elements of Continuous Delivery, such as delivering usable increments and continuous improvement. However, Continuous Delivery as a specific discipline is never directly mentioned, nor are its unique practices or tooling discussed. There is no substantive discussion of automation, deployment pipelines, testing automation, or feedback loops central to Continuous Delivery. The main purpose is to introduce Scrum as a framework for team-based software product development, not to instruct on or analyze Continuous Delivery. The audience aligns moderately, as both topics often appeal to technical/practitioner audiences, but the subject matter is squarely about Scrum rather than CD. The content is largely focused, but relevance to the category is limited to shared concepts; it does not cross into off-topic or filler territory, but isn't specifically relevant either. No penalties were necessary, as the content is current and does not contradict the framing. Overall, the confidence score reflects that, while there is minor conceptual overlap and some surface relevance, the majority of the content does not fit under the 'Continuous Delivery' category as strictly defined.",
+    "level": "Ignored"
   }
 }

@@ -1775,5 +1775,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses the integration of Kanban practices with the Scrum framework, explicitly mentioning the principles behind Kanban, flow metrics, and process management. However, it primarily focuses on practices and tools related to Scrum and Kanban rather than delving deeply into the overarching principles, methodologies, and ethical considerations that characterize a discipline. The connection to the concepts of continuous learning and improvement is present but not thoroughly explored, hence the mid-range confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Z3HzXH_nmmz",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:17",
+    "ai_confidence": 94.54,
+    "ai_mentions": 9.4,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.6,
+    "ai_intent": 9.4,
+    "ai_audience": 9.6,
+    "ai_signal": 9.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 95.0,
+    "reasoning": "The content directly and explicitly discusses Service Level Expectation (SLE) in the context of Agile, Scrum, and Kanban. An entire section is devoted to defining SLE, detailing its calculation (based on historical cycle time), its two-component structure (elapsed time plus probability), and its application for flow inspection, adaptation, and making delivery predictions transparent. It provides guidance for teams lacking historical data, highlighting the need to inspect and adapt SLE as real data emerges. Furthermore, the guide situates SLE within key Scrum events (Daily Scrum, Sprint Planning, Sprint Review, Retrospective), giving concrete examples: for instance, using SLE data during Daily Scrum to address items approaching or violating service expectations. The guide references authoritative sources like 'The Kanban Guide for Scrum Teams' itself and techniques aligned with Daniel Vacanti and Donald Reinertsen's principles. Discussion covers the purpose of SLE (improving predictability, supporting continuous improvement, and transparency) and audience alignment is perfect: Scrum practitioners, teams, and stakeholders. There are no outdated practices nor negative tonal elements. The surrounding explanations of related flow metrics (cycle time, WIP, throughput) always relate back to SLE as the actionable expectation for teams and stakeholders. Signal-to-noise ratio is very high—SLE is not a passing mention but deeply integrated into Kanban+Scrum flow management. The content is exemplary in depth, conceptual accuracy, and practical application of the SLE principle.",
+    "level": "Primary"
   }
 }

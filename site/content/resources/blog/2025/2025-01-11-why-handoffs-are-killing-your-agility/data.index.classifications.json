@@ -1802,5 +1802,23 @@
     "final_score": 43.0,
     "reasoning": "The content discusses the importance of eliminating handoffs to improve agility, which indirectly pertains to the development of capabilities within teams and organizations. It highlights collaborative practices and cross-functional teams as crucial elements for agile functioning, which aligns with the idea of cultivating capabilities. However, the focus leans more towards specific practices and issues (handoffs) rather than a thorough exploration of capabilities as a systemic competency, resulting in a moderate score. The content does not deeply engage with capability assessment or the embedding of these competencies into organizational culture.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "pDvDdIEi9sj",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:14",
+    "ai_confidence": 13.16,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 2.3,
+    "ai_audience": 3.8,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content titled 'Why Handoffs Are Killing Your Agility' comprehensively discusses handoffs as an anti-pattern in Agile and Lean software development. It details the impact of handoffs on cycle time, quality, morale, and organisational agility, and provides strategies (cross-functional teams, automation, Lean-Agile mindset) to minimise handoffs for better flow. However, there are zero direct mentions of Service Level Expectation (SLE), nor discussion of its definition, calculation, use, or relationship to cycle time, probability, or predictability as specified in the classification definition. While the content does mention cycle time and touches on flow, these are not connected to SLE, nor are there references to SLE-specific guidance or authoritative sources about SLE (e.g., Kanban Guide for Scrum Teams, Daniel Vacanti on SLE). The main intent aligns only partially, in that improving flow and reducing cycle time can indirectly support using SLE, but this is not articulated. Audience alignment is moderate, since practitioners and teams focused on agility and flow might also be SLE users, but the article neither targets nor educates the audience about SLE. The signal-to-noise ratio is fair—the content is focused, but entirely miss the SLE topic. Therefore, the weighted confidence calculation reflects extremely low confidence for this content fitting directly under the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

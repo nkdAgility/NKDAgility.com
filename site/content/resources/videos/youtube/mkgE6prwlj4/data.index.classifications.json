@@ -1721,5 +1721,23 @@
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the application of Scrum within DevOps teams, focusing on a specific case study while mentioning Agile methodologies. However, it lacks depth in discussing the underlying principles, shared governance structures, or systemic maturation of these disciplines as specified in the category's definition. The mention of 'Scrum' and 'Agile' is direct, but the discussion does not adequately explore the broader implications of discipline or continuous improvement.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "mkgE6prwlj4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:34",
+    "ai_confidence": 5.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.3,
+    "ai_audience": 2.4,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is focused on celebrating a successful Scrum implementation at Microsoft's Azure DevOps team, highlighting their transition from waterfall to Scrum and a dramatic improvement in build times. However, there is no explicit or implicit reference to Service Level Expectation (SLE), its definition, calculation, usage, or any associated principles as outlined in the classification definition. While the content discusses efficiency and progress in an Agile context, the closest metric discussed is build time (20+ hours to 3.5 minutes), which is a technical outcome, not an SLE or related forecast. There are no direct mentions of SLE, and the main intent centers on sharing an inspiring case study about Scrum rather than exploring agile forecasting, predictability, or SLE-specific practices. Audience alignment is slightly higher because Agile practitioners interested in Scrum may also be interested in SLE, but no SLE-focused concepts or recommendations are given. The content is almost entirely off-topic concerning SLE, with negligible signal for the specified category. No penalties are applied, as the content is not outdated or satirical, and does not contradict the category; it is simply unrelated according to the strict classification definition.",
+    "level": "Ignored"
   }
 }

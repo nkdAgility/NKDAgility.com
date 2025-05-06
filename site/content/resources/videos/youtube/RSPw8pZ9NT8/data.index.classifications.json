@@ -1760,5 +1760,23 @@
     "final_score": 43.0,
     "reasoning": "The content primarily focuses on the Kanban methodology and its practical application in optimizing workflows. While it mentions principles of Agile and DevOps indirectly, the focus seems to be on tools and processes rather than a structured discussion of discipline as defined by the category. The mention of continuous improvement aligns with the core themes, but the depth of discussion is primarily about data-driven insights and techniques without exploring the governance structures or broader principles that shape the discipline of Kanban itself.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "RSPw8pZ9NT8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:30",
+    "ai_confidence": 47.15,
+    "ai_mentions": 1.3,
+    "ai_alignment": 5.8,
+    "ai_depth": 5.6,
+    "ai_intent": 4.4,
+    "ai_audience": 6.1,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 47.0,
+    "reasoning": "The content focuses on Kanban methods, workflow management, data-driven insights, and the value of probabilistic forecasting using historical data and Monte Carlo simulations. This aligns partly with the concept of Service Level Expectation (SLE), especially in the mention of making forecasts such as 'there’s an 85% chance we’ll deliver this work in six days or less.' However, the term 'Service Level Expectation' is never directly mentioned, and no section explicitly defines or instructs on calculating or establishing SLE per authoritative Agile literature. Discussion of probabilistic thinking, stakeholder engagement, and forecasting is relevant and conceptually aligned, yet the substance skews toward general Kanban practices and flow optimization rather than SLE-specific guidance as defined in the scope. The depth of coverage regarding SLE itself is therefore moderate—relevant techniques are explained, but without naming SLE or outlining its canonical components such as initial establishment, transparency, continuous improvement, or distinction from SLAs. Audience targeting aligns moderately: it's for Kanban practitioners and leaders, but not strictly focused on teams implementing or analyzing SLEs. The signal-to-noise ratio is solid since much of the article stays relevant to flow, forecasting, and stakeholder management, though only some is specifically relevant to SLE. No penalties are warranted: the material is current, not satirical or negative. In summary, while there is meaningful conceptual and technical overlap, the lack of direct SLE mention and partial divergence from the precise SLE definition and use cases leads to a confidence score below the midpoint.",
+    "level": "Tertiary"
   }
 }

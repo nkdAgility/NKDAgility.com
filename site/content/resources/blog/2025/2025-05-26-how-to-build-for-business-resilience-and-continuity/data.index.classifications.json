@@ -2029,5 +2029,23 @@
     "final_score": 82.0,
     "reasoning": "The content extensively discusses various strategies and practices related to building business resilience, which aligns well with the concept of developing and embedding capabilities within teams and organizations. Although it leans heavily on specific practices and actions like incident management and system design, the overarching theme advocates for cultivating enduring competencies that enhance organizational performance and adaptability. Terms like 'empower teams,' 'decentralize decision-making,' and 'design for recovery' reflect an understanding of capabilities necessary for resilience. However, there is a risk of focusing too much on isolated practices and techniques rather than discussing systemic capabilities in an abstract sense, hence not achieving a perfect score.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "VThLnxVapgJ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:11",
+    "ai_confidence": 6.78,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.8,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused on business resilience and continuity, with detailed practical advice for engineering resilient systems. Throughout the document, there are clear discussions on concepts such as observability, decoupling systems, DevOps, SRE, evidence-based management, and continuous delivery. However, there are no direct or indirect mentions of Service Level Expectation (SLE). Related concepts, such as service level objectives (SLOs), are discussed, but these are not the same as SLE in the Agile/Scrum/Kanban context. Furthermore, the discussion on metrics is limited to items like MTTR, deployment frequency, and customer satisfaction, none of which pertain specifically to SLE or its use in forecasting delivery timelines for work items. There is no guidance on calculating SLE, no reference to cycle time ranges and probabilities, and no connections to Kanban or Scrum SLE practices or original sources. The alignment, depth, and intent scores are thus just above the minimum, reflecting very limited and tangential relevance (primarily through the SLO mention, which is insufficient for this classification). The audience includes technical leaders and practitioners in resilience, which modestly overlaps with a potential SLE audience, but the content has nearly no focus on SLE-related signal. No penalties were applied, as the content is neither outdated nor negative in tone. The resulting confidence is extremely low and reflects that this is not SLE-related content.",
+    "level": "Ignored"
   }
 }

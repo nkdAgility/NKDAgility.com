@@ -1778,5 +1778,23 @@
     "final_score": 25.0,
     "reasoning": "The content discusses various metrics for team and project performance, which primarily focus on monitoring and improving processes but lacks a strong emphasis on cultivating enduring capabilities integrated into the organizational culture. While there are mentions of metrics aligned with team performance, it does not delve into how these metrics contribute to long-term sustainable capabilities or organizational agility. The brief mention of flow of value to stakeholders hints at capabilities but does not explore them in depth.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "26FWeqJuu0P",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:16",
+    "ai_confidence": 7.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE) throughout the content; SLE as a term or concept is absent. The content lists various metrics related to Agile, Scrum, or Kanban practices—cycle time, WIP, throughput, work item age—but only at a general level and without tying them to SLE or discussing SLE's definition, purposes, calculation, or usage. 'Cycle time' is referenced, but never in the context of it being used to forecast completion times with a probability or range (as is required for SLE). There is no discussion of SLE's probability component, no use of SLE for predictability or stakeholder communication, nor any comparison to Sprint length, nor references to authoritative SLE sources. The only weak alignment is that some of the metrics listed (e.g., cycle time, WIP) are among those used when establishing SLE, but without any explanation or direction that connects the metrics to SLE or its core purposes. The intent appears as a generic metrics/reporting overview rather than anything targeting SLE's concepts or intended audiences. Content is squarely focused on reporting and tracking a broad set of performance metrics with no tangents, hence a slightly higher signal/noise score. No penalties were needed as content is current and not critical/satirical. Overall, this is not SLE content by any standard of the category definition—the confidence in a SLE match is extremely low and is only above zero due to minimal conceptual proximity.",
+    "level": "Ignored"
   }
 }

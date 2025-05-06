@@ -1772,5 +1772,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) as a framework for organizations to systematically evaluate their performance, make data-driven decisions, and continuously improve. It aligns with the concept of capability in its focus on enhancing organizational value and informs teams about measuring and tracking performance. However, while it emphasizes measurement and improvement, it primarily focuses on metrics and tools rather than discussing enduring capabilities integrated into organizational culture. Thus, it has a moderate confidence score in the Capability category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "5qtS7DYGi5Q",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:23",
+    "ai_confidence": 8.05,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 0.2,
+    "ai_audience": 3.5,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused entirely on Evidence-Based Management (EBM)—its definition, practical application, key metrics for value evaluation (such as customer satisfaction, employee satisfaction, revenue per employee), and recommendations for implementation. Service Level Expectation (SLE) is never mentioned directly or indirectly; there is no discussion of time-based forecasting, cycle time ranges with probabilities, or SLE's role within Scrum or Kanban. The key metrics discussed are organizational value, customer/product metrics, not flow or timeframe predictions. While some EBM practices may intersect with flow metrics in broader agile contexts, the content does not address SLE by definition, calculation, or use case. Any overlap is purely tangential and non-specific. Audience alignment is partially met (the target audience interested in agile/EBM may overlap with those interested in SLE), but there is no signal relevant to SLE. For these reasons, all scores are set very low except for slight audience and signal alignment due to the tangential agile context. No penalties are applied because the content is neither outdated nor satirical/critical toward SLE (it simply does not address it). The very low confidence reflects a near-complete absence of relevance to Service Level Expectation.",
+    "level": "Ignored"
   }
 }

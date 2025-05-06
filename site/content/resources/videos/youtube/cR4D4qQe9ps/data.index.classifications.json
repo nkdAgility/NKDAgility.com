@@ -1714,5 +1714,23 @@
     "final_score": 2.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of understanding the Scrum Guide, rather than discussing models or frameworks that inform decision-making or enhance organizational agility. While Scrum is a framework, it is not examined in the context of models, as required by the 'Model' category. Therefore, the direct mentions of Scrum yield a low score in terms of relevance to the model category, leading to a very low overall confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "cR4D4qQe9ps",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:35",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) at all, nor does it cover any core SLE topics such as cycle time, elapsed time ranges with probability, SLE calculation, or transparency aspects described in the classification definition. The primary focus is on encouraging new Scrum Masters to read and understand the Scrum Guide, emphasizing foundational knowledge, roles, empiricism, and effective practices, but there are no direct or indirect references to SLE or related flow metrics. The target audience (new Scrum Masters) slightly overlaps with the SLE audience, but only tangentially. Signal-to-noise is very low for SLE since all content is about Scrum basics, not metrics or workflow predictability. Therefore, the confidence score is extremely low, reflecting the near total absence of relevant SLE content.",
+    "level": "Ignored"
   }
 }

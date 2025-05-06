@@ -2182,5 +2182,23 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the concept of resilience within organizations as it relates to disciplined engineering practices. It makes explicit references to engineering discipline, technical health, and sustainable delivery while criticizing superficial Agile practices. This indicates a strong direct mention of discipline (15 points), and its demonstration through principles and practices aligns with the core themes of the category (32 points). The depth of the discussion around the systematic contribution of engineering discipline to resilience and the critique of methods lacking rigor highlights significant detail (28 points). Together, these factors contribute to a high confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "X2BzJPMloRw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:11",
+    "ai_confidence": 2.65,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.4,
+    "ai_intent": 1.3,
+    "ai_audience": 4.6,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on resilience, technical health, engineering discipline, and sustainable delivery in Agile contexts. However, there are no direct mentions or discussions of Service Level Expectation (SLE) as defined in the classification guidance. The article emphasizes empirical delivery, sustainable throughput, batch sizes, CI/CD, and team accountability, but does not reference or discuss SLE’s definition, calculation, or application. Concepts like cycle time, delivery predictability, or measurable delivery forecasts are present by implication, but not in the specific SLE framing. It is possible an Agile practitioner audience would overlap, hence the slightly higher audience alignment. Signal-to-noise is low given the lack of relevant SLE correlation. No penalties applied, as the content is current and does not undermine or criticize the SLE concept directly. The overall confidence score is very low, appropriately reflecting the absence of SLE-relevant material.",
+    "level": "Ignored"
   }
 }

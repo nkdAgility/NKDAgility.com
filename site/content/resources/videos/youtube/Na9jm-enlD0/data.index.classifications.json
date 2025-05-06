@@ -1778,5 +1778,23 @@
     "final_score": 35.0,
     "reasoning": "The content discusses consensus in product development, focusing on decision-making processes, which loosely relates to principles within a discipline. However, it does not systematically address the core characteristics of 'Discipline' as defined in the category. While it hints at collaborative decision-making and leadership roles, it lacks in-depth discussions on structured methodologies or codified knowledge that define formal disciplines like Agile or DevOps. As such, it receives a low confidence score with considerable emphasis on practical consensus rather than the methodologies governing disciplines.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Na9jm-enlD0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:28",
+    "ai_confidence": 4.03,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.2,
+    "ai_audience": 0.3,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content thoroughly discusses the concept of consensus in product development—its value, drawbacks, and facilitation—but does not mention Service Level Expectation (SLE) at all, nor does it reference any related metrics such as cycle time, probability forecasts, or Kanban/Scrum-specific SLE concepts. There are no explicit or implicit links to calculating or applying SLE, nor guidance or references to authoritative sources on the topic. As such, the Direct Mentions score is 0.0. Conceptual Alignment, Depth, and Intent are scored very low since the topic is somewhat related to agile product development decision-making, but it does not address SLE, its calculation, or application. Audience and Signal-to-Noise are likewise very low because the content is for general agile/product development practitioners and contains no SLE-specific relevance. No penalties were applied, as the content is neither outdated nor critical of SLE (it simply does not address it). The overall confidence score is extremely low, strictly reflecting the lack of connection to Service Level Expectation.",
+    "level": "Ignored"
   }
 }

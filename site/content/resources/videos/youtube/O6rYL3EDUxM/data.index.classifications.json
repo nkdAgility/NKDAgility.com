@@ -1775,5 +1775,23 @@
     "final_score": 52.0,
     "reasoning": "The content primarily revolves around assessing Agile maturity and adherence to Agile principles, which relates to capabilities. It discusses the importance of continuous improvement and the culture needed to support Agile practices, aligning well with the theme of developing organizational capabilities. However, the focus is more on identifying and critiquing practices rather than deeply embedding and developing capabilities within organizations over time, leading to a moderate score instead of a higher one.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "O6rYL3EDUxM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:19",
+    "ai_confidence": 8.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 1.2,
+    "ai_intent": 2.2,
+    "ai_audience": 2.5,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "There are no direct mentions or references to Service Level Expectation (SLE) throughout the content, earning a zero for Direct Mentions. Conceptually, while the piece discusses Agile maturity, continuous delivery, feedback, and continuous improvement (themes that overlap with some Agile forecasting and flow topics), it never specifies SLE or explores its principles of forecasted time ranges, probability, or the calculation/application of SLEs within Agile, Scrum, or Kanban. The discussion of delivery cadences and metrics lacks direct reference or depth concerning SLE—cycle time and flow are described generally as evidence of agility but are not related to SLE. The depth of discussion regarding SLE is essentially non-existent; the article is focused instead on mindset, process honesty, and practical steps for Agile adoption. The intent is broad—supporting better Agile adoption, not specifically the use of SLE within Agile frameworks. The audience (practitioners, managers) partly overlaps, but is not specifically those seeking SLE definition/application guidance. There is little irrelevant content, but the entire article is off-target for SLE; hence, the signal-to-noise score remains low. No penalties are applied since the content is neither outdated nor satirical/critical of SLE—SLE is simply absent. Thus, the overall confidence that this content belongs under 'Service Level Expectation' is extremely low; the confidence score results from low alignment across all dimensions and no reference to the category.",
+    "level": "Ignored"
   }
 }

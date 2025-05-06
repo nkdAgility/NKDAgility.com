@@ -1703,5 +1703,23 @@
     "final_score": 25.0,
     "reasoning": "The content mentions updating work based on user feedback, which aligns with the principle of Continuous Improvement. However, the reference is quite brief and does not dive deeply into the principle itself or its actionable implications. The discussion lacks direct mentions of essential principles like adaptability or collaboration, making it a secondary focus rather than a primary discussion on principles.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "g4M_sdh5Fg2",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:16",
+    "ai_confidence": 9.375,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.6,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content makes no direct mention of 'Service Level Expectation' (SLE), nor does it reference any of the characteristic terminology or practices from Kanban, Scrum, or Agile frameworks relating to SLE. The main idea centers on updating work in response to user feedback within timelines shorter than a month, which is a general agile or iterative practice but not specific to SLE. There is no explicit or implicit discussion of SLE concepts like using historical cycle time, communicating probability-based forecasts, or related best practices. The target audience appears to be practitioners but not specifically those focused on SLE topics. Signal-to-noise ratio is low since almost the entire message is outside SLE scope, lacking relevant context or application. Therefore, the confidence is very low and reflects only a faint, incidental connection to agile timing practices that does not justify classifying under Service Level Expectation.",
+    "level": "Ignored"
   }
 }

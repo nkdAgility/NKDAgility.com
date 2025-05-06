@@ -1715,5 +1715,23 @@
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on practical strategies for minimizing downtime during data migration, using tools like Git, rather than discussing enduring capabilities that enhance organizational effectiveness. While there is a brief mention of the team's capabilities and the importance of preparation, the overall discussion does not delve deeply into the development, measurement, or strategic embedding of capabilities within an organization, falling short of the key criteria for the 'Capability' category.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "tzmbqdEULUY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:15",
+    "ai_confidence": 2.42,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.4,
+    "ai_audience": 3.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on strategies and personal experiences around minimizing downtime during large-scale data migrations for engineering teams. It delves into organizational planning, use of tools like Git during migration windows, dry runs, scheduling, and the experience of engaging third-party experts. At no point does it reference or allude to Service Level Expectation (SLE), either by acronym or concept. The discussion of cycle time, work item planning, and migration duration is not framed in terms of forecasting delivery times, elapsed time ranges with probability, or any of the SLE constructs. There is no mention of Agile, Scrum, Kanban, or related frameworks, nor is there guidance on setting or using SLE for predictability or stakeholder communication. The intended audience is IT and engineering managers dealing with migrations (not Agile practitioners focusing on flow metrics/SLE). The bulk of the content is off-topic for the SLE category, though aspects of forecasting and communication overlap minimally in spirit. Therefore, the confidence score is just above the non-meaningful minimum to reflect minor conceptual adjacency but otherwise is very low on all core dimensions.",
+    "level": "Ignored"
   }
 }

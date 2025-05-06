@@ -1778,5 +1778,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the importance of achieving a fully Agile ecosystem and the role of continuous delivery and quality in enhancing agility. It touches on how organizations can assess their agility through the provided litmus test and emphasizes the need for a culture of continuous improvement. However, while it has some relevant discussions about capabilities, much of the focus is on identifying pitfalls and promoting practices rather than deep engagement with the concept of Capability itself as an enduring competency. Thus, while it aligns with the category, it does not focus heavily on the sustained development of organizational capabilities.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "kVt5KP9dg8Q",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:18",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "This content is focused on broad themes of organizational agility, the pitfalls of partial Agile adoption, continuous delivery, automated testing, and general cultural/engineering excellence in Agile settings. It makes no direct mention of Service Level Expectation (SLE), nor does it discuss SLE's definition, calculation, usage, or application per Kanban, Scrum, or Agile best practices. While there is tangential alignment (such as discussions of flow, continuous deployment, and process bottlenecks), there is no evidence of SLE concepts (e.g., probability-based cycle time forecasts, explicit mention of SLE, or its use to improve predictability or manage stakeholder expectations). The audience and tone are aligned with agile practitioners and leaders, and the discussion is process-focused, but there is no SLE-specific content nor even adjacent references (such as 'cycle time expectation' or 'flow forecasting'). Thus, each scoring dimension is rated very low, with the final confidence being near zero. No penalties needed, as there is no outdated or critical tone. The final score reflects an extremely weak fit for the SLE category.",
+    "level": "Ignored"
   }
 }

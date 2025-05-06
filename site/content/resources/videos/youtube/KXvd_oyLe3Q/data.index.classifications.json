@@ -1778,5 +1778,23 @@
     "final_score": 75.0,
     "reasoning": "The content primarily focuses on the transformation through DevOps and highlights the development of organizational capabilities to manage complexity, improve efficiency, and refactor product development. It discusses how upskilling and ownership of technical practices lead to increased capabilities within teams, aligning well with the core themes of the Capability category. However, while it delves into some specific examples and strategies for improving capabilities, it could elaborate further on systematic practices for embedding these capabilities in an organizational culture, hence the confidence score of 0.75.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KXvd_oyLe3Q",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:18",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 2.2,
+    "ai_intent": 2.0,
+    "ai_audience": 4.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content thoroughly discusses DevOps transformation, technical debt, distributed teams, source control systems, refactoring, and outcomes such as improved efficiency and delivery speed. However, there are zero direct mentions or references to Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban. There is no exploration of SLE concepts such as probabilistic forecasts, cycle time analysis for SLE definition, or use as a transparency/predictability tool. Some language around delivery time or process improvement is broadly adjacent but not aligned with SLE specificity or intent—the main focus is technical debt reduction, architectural streamlining, and DevOps culture change. The intended audience (practitioners/managers) somewhat overlaps, but all key SLE-related themes are absent. Therefore, the confidence score is extremely low, reflecting this near-total mismatch per the explicit definition.",
+    "level": "Ignored"
   }
 }

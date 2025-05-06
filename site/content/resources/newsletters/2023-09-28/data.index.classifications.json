@@ -1736,5 +1736,23 @@
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, mentioning lean principles and providing insights from experts. However, it does not delve deeply into the structured methodology of disciplines or their principles. While it touches upon 'Lean' as part of a broader discussion, there isn't a comprehensive exploration of governance structures, continuous improvement, or the evolution of these disciplines. Therefore, while it references elements related to the category, it lacks the depth and overarching discussion required for a strong alignment with 'Discipline.'",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GdoDhtTM-Rn",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:28",
+    "ai_confidence": 4.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 10.0,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content does not reference 'Service Level Expectation' (SLE) directly or indirectly. There is no explicit mention of SLE or any discussion focused on its calculation, purpose, or relevance within Agile, Scrum, or Kanban frameworks. The webcast centers on product ownership and lean product development at a high level, with some tangential relevance since SLE is sometimes used in lean/agile circles, but there is no discussion or reference to SLE or its core concepts (e.g., elapsed time ranges with probability, flow metrics in context of SLE, or improving predictability through SLE). While the audience matches practitioners in agile and lean environments (hence high scores for audience and signal), the lack of any SLE-specific content results in minimal scores across mentions, alignment, depth, and intent. No penalties are warranted as the content is current and not critical of SLE, but it also falls outside the clear scope required for confident classification under this category.",
+    "level": "Ignored"
   }
 }

@@ -1751,5 +1751,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the principles of empiricism and its relevance to agile methodologies, aligning with the themes of disciplined decision-making and continuous improvement. However, while it touches on the importance of data-driven decisions and the scientific cycle of experimentation, it lacks deeper engagement with the governance structures, ethical considerations, or the systemic maturation of disciplines beyond the agile context. Therefore, while the core themes are present and substantial, the specific application to broader disciplinary frameworks is limited.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:30",
+    "ai_confidence": 12.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 3.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses extensively on empiricism, data-driven continuous improvement, and agile decision-making but makes no direct or indirect reference to Service Level Expectation (SLE) as defined. There are no explicit mentions (score: 0.2) nor any sign of SLE-related key topics such as cycle time forecasts, SLE calculation, probability bounds, or Kanban/Scrum metric analysis (alignment: 1.2, depth: 1.1). The intent centers on general agile empiricism and its benefits, not the SLE concept (intent: 2.2). The audience is broadly agile practitioners, overlapping with SLE's, but only incidentally (audience: 3.0). Signal-to-noise is relatively high for agile, but none is on SLE specifics (signal: 3.5). No outdatedness or adversarial intent is present, so no penalties applied. The very low confidence reflects that although the target audience is correct and the purpose is generally relevant, there is no substantive link to SLE.",
+    "level": "Ignored"
   }
 }

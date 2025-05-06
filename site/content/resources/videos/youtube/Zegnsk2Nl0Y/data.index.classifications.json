@@ -1685,5 +1685,23 @@
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on Azure DevOps as a tool for Agile and Scrum, discussing its features and benefits in practical terms. While it indirectly references Agile principles and the role of Scrum Masters, the discussion remains tool-centric and lacks a deep examination of the underlying principles of discipline related to Agile as a structured field of study. Therefore, while there are mentions of discipline-related concepts, the depth and conceptual alignment do not sufficiently satisfy the requirements for a higher confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Zegnsk2Nl0Y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:28",
+    "ai_confidence": 6.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 1.8,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses benefits of Azure DevOps for Scrum Masters, including workflow simplification, team visibility, collaboration, and feedback loops. There is no direct or indirect mention of Service Level Expectation (SLE), its definition, calculation, or application. None of the key topics (SLE, cycle time probabilities, making SLEs transparent, etc.) appear. The closest related terms, like 'real-time insights' and 'monitoring project health,' are generic and do not reference SLE or its Kanban/Agile context. The audience is somewhat aligned (Scrum Masters, Agile teams), but the content is off-topic regarding SLE. Thus, all scoring dimensions are very low, with zero for direct mentions and only a minor score for audience due to contextual overlap.",
+    "level": "Ignored"
   }
 }

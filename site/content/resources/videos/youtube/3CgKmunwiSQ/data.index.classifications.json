@@ -1724,5 +1724,23 @@
     "final_score": 25.0,
     "reasoning": "The content focuses primarily on the differences between traditional management and evidence-based management, emphasizing decision-making processes. It discusses aspects of data collection and analysis, which are related to capabilities; however, it does not deeply engage with the development or embedding of enduring competencies within teams or organizations, nor does it explore the broader impact of these capabilities on organizational performance. The mention of metrics and decision-making pitfalls is relevant but lacks a foundational exploration of 'capability' as defined in the classification criteria.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:17",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content thoroughly discusses evidence-based management, contrasting it with traditional management and emphasizing valid metric selection, continuous improvement, and data-informed decision-making. However, Service Level Expectation (SLE) is never directly referenced, nor are its defining concepts (range of elapsed days, probability, use of historical cycle time) discussed. While there are tangential mentions of metrics and continuous improvement (which are relevant to SLE in agile practices), these are in the general sense and not linked to Kanban, Scrum, or any flow-based prediction concepts. As per the strict inclusion criteria, SLE must be explicitly discussed or applied, which does not occur here. Audience overlap exists (agile practitioners, managers), but the content's core themes and focal points are about evidence-based management in general, not SLE.",
+    "level": "Ignored"
   }
 }

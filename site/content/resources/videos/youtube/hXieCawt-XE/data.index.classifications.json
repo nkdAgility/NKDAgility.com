@@ -1745,5 +1745,23 @@
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on Kanban methodologies and techniques, discussing workflow efficiency and management practices. While some elements touch upon continuous improvement and operational efficiency—which align with the capability category—the majority of the discussion revolves around specific processes, practices, and guidelines for implementing Kanban rather than developing systemic capabilities within an organization. Thus, while capabilities are mentioned, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "hXieCawt-XE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:21",
+    "ai_confidence": 10.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 1.9,
+    "ai_audience": 2.1,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content provides a comprehensive overview of Kanban's core principles, workflow visualization, WIP limits, bottleneck management, and continuous improvement. However, there is no explicit mention or discussion of Service Level Expectation (SLE) as defined (e.g., forecasting cycle time as a probabilistic range), nor does it touch on SLE's calculation, transparency, role in predictability, or connection to authoritative sources like the Kanban Guide for Scrum Teams. The focus is entirely on foundational Kanban practices and flow efficiency, not on SLE itself. The closest related topics are discussing flow metrics and waiting states, but these are general and do not reference SLE directly or indirectly. Therefore, the scores for direct mention, conceptual alignment, depth, and signal are all very low, while intent, audience, and signal show a modest connection due to the target audience (Agile practitioners). Overall, the confidence score is extremely low, reflecting that this content does not fit the 'Service Level Expectation' category under the precise definition provided.",
+    "level": "Ignored"
   }
 }

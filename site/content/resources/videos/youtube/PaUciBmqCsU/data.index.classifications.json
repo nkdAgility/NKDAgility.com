@@ -1697,5 +1697,23 @@
     "final_score": 35.0,
     "reasoning": "The content discusses integrating Kanban with Scrum but focuses predominantly on tools and techniques instead of enduring competencies that create systemic capabilities. While it mentions improving flow, transparency, and continuous improvement, the overall focus on Kanban as a complementary tool to Scrum leads to a lack of depth in discussing how these practices contribute to an organization's enduring capability. Key aspects of capabilities, like embedding practices within organizational culture, are not thoroughly addressed.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "PaUciBmqCsU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:18",
+    "ai_confidence": 9.64,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 3.5,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on Kanban, Scrum, and their integration, emphasizing transparency, flow, WIP limits, and continuous improvement. However, there are no direct or indirect mentions or in-depth explanations of Service Level Expectation (SLE) or its key components (elapsed time range, associated probability, use of historical cycle time data). While the audience and context are aligned with agile practitioners who would care about SLE, none of the actual content touches on SLE's definition, calculation, or purpose. Cycle time is referenced once in passing, but not in the context of SLE, and no connection is made between Kanban metrics and SLE or SLE's role in agile workflows. Therefore, scores are extremely low across all dimensions, in keeping with strict category criteria. No penalties are applied, as the content is neither outdated nor critical of the SLE concept.",
+    "level": "Ignored"
   }
 }

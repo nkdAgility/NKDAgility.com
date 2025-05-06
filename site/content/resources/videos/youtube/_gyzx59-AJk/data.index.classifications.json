@@ -1877,5 +1877,23 @@
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a long release cycle to continuous delivery, highlighting the endurance and development of capabilities that enhance business agility. It emphasizes the importance of responsiveness and continuous improvement, both of which align well with the characteristics of capabilities. However, while the content does address capability development explicitly, it leans heavily on tools and processes, which diminishes its score. Overall, it provides substantial insight into how capabilities can empower an organization, but also includes elements that could be classified as transient techniques.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_gyzx59-AJk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:14",
+    "ai_confidence": 12.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 1.8,
+    "ai_audience": 3.6,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content does not directly mention or discuss Service Level Expectation (SLE) at any point. Instead, it focuses on general agile transformation, continuous delivery, reducing lead time, increasing deployment frequency, and leveraging feedback loops. These themes, while adjacent to SLE conceptually, do not address the definition, calculation, or use of SLE as per the strict classification. The only marginal alignment is that it covers continuous improvement and predictability in the context of Agile practices. Audience fit and focus are somewhat relevant as the target readers are agile practitioners, but there is no reference to SLE, cycle time probability ranges, transparency regarding forecasted delivery dates, or any method for forecasting delivery as an SLE. All scoring reflects this absence: direct mentions are almost nonexistent; conceptual alignment and depth are extremely low; intent is weak, but audience and signal are slightly higher because the content is relevant to agility more generally. No penalties were necessary because the content is not outdated nor is it critical of SLE—it simply doesn't address it.",
+    "level": "Ignored"
   }
 }

@@ -1757,5 +1757,23 @@
     "final_score": 35.0,
     "reasoning": "The content heavily emphasizes training courses and immersive learning experiences aimed at developing skills in agile methodologies. While it mentions concepts like adaptability and collaboration, which relate to capabilities, it primarily focuses on tools and training without a deep exploration of enduring capabilities or how they cultivate a sustainable culture. Therefore, it discusses capability only in a peripheral manner rather than as a primary focus.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "A1Gq5rHDvzC",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:33",
+    "ai_confidence": 4.35,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.7,
+    "ai_audience": 5.9,
+    "ai_signal": 5.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is a newsletter-style promotional piece for NKD Agility's training programs. There are general mentions of Agile, Scrum, continuous improvement, and Kanban-adjacent practices, but at no point is Service Level Expectation (SLE) explicitly mentioned. None of the training descriptions or value propositions directly reference SLE or its calculation, application, or improvement. While the targeted audience includes Scrum practitioners and Agile professionals, and there is a high signal for Agile topics, there is essentially no coverage of SLE itself; the closest relevant content discusses continuous improvement and agile methodologies at a broad level. As a result, the scores for Direct Mentions (0.3), Conceptual Alignment (0.5), Depth (0.4), and Intent (0.7) are all very low; these only reflect that the newsletter is present in an adjacent domain but not related to SLE directly. Audience (5.9) and Signal (5.8) are moderate, as they are generally Agile focused, but not specific to SLE. No penalties were applied since the content does not contain outdated or contradictory practices. The final confidence score accurately reflects a near-zero probability that this content should be classified under 'Service Level Expectation.'",
+    "level": "Ignored"
   }
 }

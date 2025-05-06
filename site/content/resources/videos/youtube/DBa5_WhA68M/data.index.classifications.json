@@ -1727,5 +1727,23 @@
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on negotiation skills for Product Owners, discussing the importance of such skills in influencing decisions and managing relationships. However, it predominantly revolves around the roles and techniques of negotiation rather than discussing enduring capabilities that empower teams and organizations. While negotiation might enhance operational effectiveness, it does not align deeply with the concept of capability as an enduring, systemic framework. Therefore, it receives a low confidence score in this category.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DBa5_WhA68M",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:24",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 1.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on negotiation skills for Product Owners, with examples, techniques, and recommendations relevant to negotiation in Agile contexts. At no point does it reference or discuss Service Level Expectation (SLE)—not by direct mention, implication, or related flow metrics. There is also no discussion of SLE's definition, calculation, probability, application, or its role in Scrum/Kanban frameworks. The content briefly mentions Scrum and value delivery but never addresses predictability, flow, or service delivery timeframes. Therefore, the content receives a score of zero across all core dimensions except for minimal audience and signal-to-noise values, which reflect that the audience is Agile practitioners (some overlap) and the content is focused but not on the SLE topic. Final confidence is zero as the definition and boundaries of the category are not met at all.",
+    "level": "Ignored"
   }
 }

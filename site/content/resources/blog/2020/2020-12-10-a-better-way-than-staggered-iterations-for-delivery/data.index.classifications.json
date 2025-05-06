@@ -1761,5 +1761,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses agile delivery methods and the importance of cross-functional teams, which aligns with the concept of capabilities in enhancing business agility. It touches upon building enduring competencies such as team collaboration and quality assurance practices. However, it focuses predominantly on techniques and specific practices rather than a deep exploration of capabilities as an enduring organizational competency, resulting in a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DOMFzBBMzfq",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:41",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on improving delivery in Agile and Scrum contexts by critiquing staggered iterations and recommending cross-functional teams, test-first approaches, and ensuring working software each iteration. There is extensive discussion of delivery approaches, technical debt, iteration cycles, and value delivery. However, there is no direct mention of Service Level Expectation (SLE), nor any explanation, application, or analysis of the SLE concept (elapsed time ranges, probabilities, or forecasting delivery based on historical cycle data). The closest related concept is a brief mention of cycle time, but this is not tied to SLE. The content targets practitioners in Agile/Scrum and is relevant to process improvement, but the main ideas, depth, and intent do not specifically align with the SLE definition. Audience fit is partial, as the readership overlaps but the content's focus is too broad and generic regarding delivery improvement without any specific SLE linkage. The signal-to-noise ratio is moderate: the text is focused and on-topic for Agile improvement, but not for SLE specifically. There are no outdated practices or contradictory tone, so no penalties are applied. The confidence score is very low, reflecting that the content does not fit the 'Service Level Expectation' category as defined.",
+    "level": "Ignored"
   }
 }

@@ -1742,5 +1742,23 @@
     "final_score": 78.0,
     "reasoning": "The content focuses significantly on managing technical debt, which ties directly into practices for improving team performance and product quality. Key actionable techniques are outlined, such as regularly assessing technical debt, prioritizing refactoring, and fostering a culture of quality, aligning with the core themes of the 'Practice' category. The depth of discussion on these techniques demonstrates a practical approach toward enhancing effectiveness and continuous improvement for teams. However, while it does discuss actionable practices, the exploration of the underlying principles of quality and debt management does not delve deeply into the specific practices laid out in the provided key topics, hence the score is less than perfect.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "FFrTLuRhyVo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:15",
+    "ai_confidence": 4.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 1.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is focused on technical debt, its impacts, and strategies for managing and reducing it within Agile teams. There is no explicit use or mention of Service Level Expectation (SLE) anywhere in the text, nor are there indirect references to its calculation, definition, or practical application. The discussion is aligned with Agile and continuous improvement but never references SLE, its probabilistic forecasting of delivery times, transparency requirements, or its role per Kanban/Scrum guidance. The primary audience—Agile practitioners and stakeholders—matches, but only superficially. The signal-to-noise ratio is low regarding the SLE category, as all discourse is relevant to technical debt, not SLE. No penalties applied since there are no outdated or contradictory statements. Final confidence is very low because the only slight alignment comes from the general Agile context, not from any actual engagement with the category's subject matter.",
+    "level": "Ignored"
   }
 }

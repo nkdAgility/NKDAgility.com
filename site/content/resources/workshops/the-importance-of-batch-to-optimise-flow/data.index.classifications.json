@@ -1784,5 +1784,23 @@
     "final_score": 82.0,
     "reasoning": "The content discusses actionable techniques involved in optimizing delivery by breaking down large backlog items into smaller pieces, which aligns closely with the core themes of 'Practice.' It explicitly mentions facilitating a workshop focused on these practices, indicating a strong direct mention. The strategies outlined, including the facilitation steps and exercises involving batch sizes and queuing theory, suggest a deep level of engagement with methods to improve team performance. However, while it provides good insights into techniques for delivery optimization, it does deviate slightly from the specific practices listed in the category description, such as not detailing Agile estimating techniques or retrospectives specifically. Therefore, the overall confidence is high but not maximum.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "kwS9oPiz-Ny",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:17",
+    "ai_confidence": 21.985,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 6.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content never directly mentions SLE, Service Level Expectation, nor does it reference its calculation, probabilities, or agile-specific meaning. The main theme is the effect of batch size reduction for flow optimization, with references to predictability, but without explicit linkage to SLE, its definition, or the core SLE mechanisms (historical cycle time analysis, elapsed time range, probabilities, etc.). The focus is on flow and predictability at a general level, not on SLE as a forecast tool in Agile/Kanban. The main purpose is to educate teams (audience: practitioners) on batch size and flow, broadly relevant but not specific to SLE. There are no outdated or contradicting elements, so no penalties are applied. Overall, only a tangential fit; the confidence score remains low.",
+    "level": "Ignored"
   }
 }

@@ -1745,5 +1745,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the evolution of Azure DevOps and its capabilities, emphasizing the importance of tools, processes, and real-world applications that enhance team productivity and DevOps practices. It touches on how capabilities are developed over time through personal experiences and contributions to the Azure DevOps ecosystem, aligning somewhat with the concept of Capability. However, it primarily focuses on tools and personal anecdotes rather than the broader, systemic capabilities of an organization, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "isU2kPc5HFw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:19",
+    "ai_confidence": 6.58,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.3,
+    "ai_audience": 2.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses extensively on the author's experiences and consulting work with Azure DevOps, emphasizing migrations, training, process improvements, and tool usage. There are detailed discussions of DevOps practices, migration strategies, workflow optimization, and workflow visualization, but nowhere does it directly reference, define, or even nod toward Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban contexts. Key SLE concepts—such as forecasting, elapsed time range with probability, or using SLE for predictability—are entirely absent. While DevOps practitioners are within the relevant audience for SLE, the narrative here is not aimed at those specifically interested in SLE theory or application. There are some tangential overlaps with general process metrics (e.g., workflow, streamlining processes), but these do not rise to the level of SLE focus or even direct relevance. The extremely low scores in mentions, alignment, depth, and intent reflect the categorical irrelevance of the content to SLE, and the confidence score is accordingly low due to lack of coverage and directness.",
+    "level": "Ignored"
   }
 }

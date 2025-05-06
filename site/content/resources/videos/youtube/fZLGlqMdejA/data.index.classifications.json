@@ -1778,5 +1778,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses themes related to Agile practices and the impact of greed on team dynamics and productivity. However, while it touches on improving team performance and fostering a healthy Agile environment, it largely focuses on the pitfalls of greed and the need for value delivery rather than explicitly addressing the enduring competencies or capabilities themselves. The brief mentions of team dynamics and continuous improvement indicate some alignment with the category, but the emphasis is more on the negative aspects of existing practices. Consequently, the content lacks a thorough exploration of capability development, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "fZLGlqMdejA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:28",
+    "ai_confidence": 4.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 0.8,
+    "ai_audience": 0.4,
+    "ai_signal": 0.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content thoroughly discusses Agile anti-patterns relating to 'greed,' resource utilization, flow efficiency, team dynamics, value delivery, and cultural shifts within Agile, Scrum, and Kanban contexts. However, there are no direct or indirect references to Service Level Expectation (SLE) as defined in the classification meaning. The article focuses on workflow practices, team health, and leadership but does not mention, discuss, or analyze SLE, its calculation, components (elapsed time and probability), role in predictability, or its use in stakeholder communication. Cycle time or flow efficiency is broadly referenced, yet not in connection to SLE. Thus: Direct Mentions receives a very low score due to no SLE citation; alignment and depth scores are similarly very low given the lack of SLE scope; intent slightly recognizes that the main topic is related to improving Agile delivery, but not to SLE specifically; audience and signal are extremely low because the piece is for general Agile practitioners, not SLE-focused readers, and nearly all the content is outside the SLE domain. No penalties are applied since it is not outdated or satirical. Overall, the confidence reflects the article's irrelevance to the SLE category, being focused entirely on other, albeit related, Agile topics.",
+    "level": "Ignored"
   }
 }

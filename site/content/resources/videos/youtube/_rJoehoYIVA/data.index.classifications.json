@@ -1700,5 +1700,23 @@
     "final_score": 23.0,
     "reasoning": "The content primarily focuses on the process of migrating to Azure DevOps, discussing challenges, tools, and best practices related to migration rather than enduring capabilities that facilitate organizational value. There are no direct mentions of capabilities as enduring competencies. While there is some conceptual alignment around planning and adaptability during the migration, it lacks depth in discussing how any capabilities are built or sustained over time within the organization.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:19",
+    "ai_confidence": 1.22,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.4,
+    "ai_intent": 0.25,
+    "ai_audience": 0.5,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is entirely focused on Azure DevOps migration, discussing challenges, best practices, and strategic considerations for organizations moving to Azure DevOps. There is no explicit mention or discussion of Service Level Expectation (SLE), nor are any related Agile, Scrum, or Kanban theoretical concepts addressed. The content does not mention SLE by name, nor does it analyze cycle time or predictability in delivery using an SLE framework. The alignment with the SLE category is extremely low: while there are very general allusions to timelines, milestones, and stakeholder communication, none reflect or apply the formal SLE construct. The intended audience (IT managers, DevOps teams, business owners) may occasionally overlap with Agile teams but is not specifically focused on SLE-practicing practitioners. Virtually all of the content is off-topic relative to the 'Service Level Expectation' category, and the signal-to-noise ratio is very low with respect to that classification. No penalties were applied since there was no evidence of outdated practice, satirical or contrary tone, but the core fit is minimal. The resulting confidence score is proportionally very low according to the rubric.",
+    "level": "Ignored"
   }
 }

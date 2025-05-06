@@ -2027,5 +2027,23 @@
     "final_score": 72.0,
     "reasoning": "The content focuses heavily on continuous delivery and emphasizes the importance of investment, automation, and cultural change as capabilities that organizations need to develop over time. It discusses the evolution of processes within organizations like Microsoft to enhance their delivery capabilities, illustrating key strategies for building these capabilities such as automation, trunk-based development, and continuous improvement. Key metrics are also introduced that align with assessing these capabilities within teams and their workflows. However, while it provides substantial insights into the development and importance of these capabilities, it is also somewhat operational and includes mentions of tools like Azure DevOps, which distract from the purely 'Capable' focus. Therefore, it demonstrates strong alignment and depth in capability but has residual elements that make it slightly less focused, warranting a moderately high confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "7hEAycZIn8w",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:13",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused almost entirely on enabling and accelerating continuous delivery in complex or legacy software environments. It covers themes such as automation, technical debt, DevOps transformation, the importance of fast feedback cycles, and references to both team and organisational change. In the sections on measuring velocity and metrics, several flow-related measurements are discussed (e.g., Time to Build, Time to Deploy, Time to Learn), as well as the Evidence-Based Management guide's Key Value Areas. However, at no point does the article mention Service Level Expectation (SLE) by name, nor does it allude to its calculation, forecast, or its characteristic presentation as a probability-bound range for work items in Agile, Scrum, or Kanban workflows. There is no discussion of using historical cycle time to set an SLE, nor any reference to making such expectations transparent, comparing them to Sprint length, or using them to trigger adaptation. The target audience (teams concerned about software delivery) could overlap those interested in SLE, but the alignment, depth, intent, and direct mention dimensions are all extremely weak. None of the SLE's theoretical foundations or applied practices are in evidence. Thus, the scores remain quite low across all criteria, and the resulting calculated confidence score (8.6 out of 100) reflects that this content is almost certainly not a fit for the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

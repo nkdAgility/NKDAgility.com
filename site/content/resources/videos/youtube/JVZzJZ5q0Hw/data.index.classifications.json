@@ -1754,5 +1754,23 @@
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on the tactical aspect of sprint goals within the Scrum framework, emphasizing their role and importance in guiding immediate actions. However, it does not delve into the overarching principles, methodologies, or systemic applications typical of discussions on discipline. While there are mentions of Scrum principles and the significance of tangible goals for team coherence and motivation, these discussions lack depth concerning the broader implications for the discipline of Agile or its evolution in the context of organizational performance.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "JVZzJZ5q0Hw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:35",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.5,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 0.7,
+    "ai_audience": 0.5,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively discusses the concept, importance, and tactical nature of sprint goals within Scrum, making no mention or reference—direct or indirect—to Service Level Expectation (SLE), its calculation, purpose, or any associated metrics. The terms, examples, and audience are all centered on sprint planning, product goals, and empirical feedback, which are outside the scope of SLE as tightly defined. There are no conceptual overlaps or confusion between sprint goals and SLE present—cycle times, flow metrics, or probabilistic delivery ranges are never introduced. All scoring dimensions thus reflect near-irrelevant alignment to Service Level Expectation: direct mentions are virtually zero (saving a minimal 0.5 as some tangential reference to 'expectation' may be inferred), and content depth, intent, and signal are all extremely low as they apply to SLE. No content is outdated or critical, and no penalties are required. The final score is calculated as ((0.5*1.5)+(0.8*2.5)+(0.9*2.5)+(0.7*1.5)+(0.5*1.0)+(0.4*1.0))*10 = 0.75+2.0+2.25+1.05+0.5+0.4 = 6.95. Rounding to the nearest tenth results in 7.0 (but as per formula, 6.95). This score accurately represents negligible fit for the 'Service Level Expectation' category.",
+    "level": "Ignored"
   }
 }

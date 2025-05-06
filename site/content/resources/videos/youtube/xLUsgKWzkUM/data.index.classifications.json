@@ -1727,5 +1727,23 @@
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role of a Product Owner and emphasizes prioritization, budget control, and stakeholder engagement. While some aspects touch on broader themes of delivering value and aligning with business objectives, these are framed within specific responsibilities rather than the development of enduring capabilities. There is a lack of in-depth discussion on how these practices can cultivate capabilities over time or enhance organizational performance more broadly, leading to a lower confidence in the 'Capability' classification.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "xLUsgKWzkUM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:25",
+    "ai_confidence": 7.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is entirely focused on the Product Owner role and techniques for prioritisation, value delivery, accountability, and engaging stakeholders. Nowhere does it mention or allude to Service Level Expectation (SLE), its definition, calculation, or application, nor does it reference flow metrics, elapsed time forecasts, or related Agile/Kanban/Scrum practices as required by the strict scope of this category. There are no direct or indirect references to SLE, probability-based time ranges, or the use of historical cycle time data. The audience overlap is minimal: although both topics (Product Ownership and SLE) are relevant in Agile teams, this article is squarely aimed at teaching Product Owners how to be effective in their business and communication skills rather than any operational forecasting or predictability practice like SLE. No penalties are assessed as the content is neither outdated, critical, nor otherwise misaligned in tone. The low, nonzero audience alignment score reflects a very tangential overlap in that both domains pertain to Agile teams, but every other dimension scores close to zero due to lack of direct relevance.",
+    "level": "Ignored"
   }
 }

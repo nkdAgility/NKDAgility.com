@@ -1749,5 +1749,23 @@
     "final_score": 25.0,
     "reasoning": "The content primarily revolves around the roles and responsibilities of Product Owners and managing them, which is not directly aligned with the Capability category. While it touches upon the importance of ownership and value delivery, it lacks a deep focus on developing or embedding capabilities within the organization, which is central to the definition provided for the Capability category.",
     "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KIG3LzjF3zK",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:43",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.0,
+    "ai_intent": 2.3,
+    "ai_audience": 7.6,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE) or its synonyms anywhere in the content. The discussion is centered on managing multiple Product Owners, accountability for value delivery, and backlog ownership—key Scrum team roles—but not on delivery forecasting, cycle times, SLE calculation, or application as defined in the scope of the classification. Conceptual alignment is extremely low; while predictability and value delivery are implied, there is no framework, metric, or process discussion matching SLE. The depth of discussion is entirely about organizational structure and prioritization, not about quantitative flow metrics, making depth and intent scores low but not absolute zero. The audience matches (Scrum practitioners), and signal is moderately high since the content is highly focused on its stated topic; however, this topic is unrelated to SLE. No penalties were needed, as the content is neither outdated nor derogatory. Overall, with no substantive reference to SLE, the confidence that this content should be classified under Service Level Expectation is extremely low.",
+    "level": "Ignored"
   }
 }

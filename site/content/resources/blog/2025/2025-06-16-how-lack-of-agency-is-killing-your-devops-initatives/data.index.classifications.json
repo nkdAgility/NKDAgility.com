@@ -2029,5 +2029,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses operational agency within a DevOps context and emphasizes the importance of empowering developers for effective continuous delivery. While it explores the concept of agency, it does not explicitly define capabilities or discuss business agility directly. However, it does align well with the themes of enhancing organizational performance and strategies for development. The depth is significant, with detailed examples of what operational agency entails, which supports a higher score despite a lack of focus on the broader concept of capabilities.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "AgIU1SK-3pE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:11",
+    "ai_confidence": 1.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.5,
+    "ai_intent": 2.0,
+    "ai_audience": 5.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) at all, nor does it reference its definition, calculation, or application within Agile, Scrum, or Kanban. Its main focus is on operational agency in DevOps practices, developer empowerment, and the dangers of automating without providing real authority or feedback, with no discussion of flow metrics, cycle time, or prediction intervals as defined for SLE. There are no indirect or conceptual bridges to SLE; the discussion about definitions of done or agility remain general and disconnected from the SLE concept. The audience alignment receives a slightly higher score, as readers may overlap with those interested in SLE (technical, Agile/DevOps teams), but otherwise this is highly off-scope, tangential at best if not entirely unrelated. No penalty for outdatedness or undermining tone was needed, as the content is contemporary and earnest in intent, but failing the directness, alignment, depth, and relevance requirements for classification under Service Level Expectation.",
+    "level": "Ignored"
   }
 }

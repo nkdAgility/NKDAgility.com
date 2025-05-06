@@ -1761,5 +1761,23 @@
     "final_score": 72.0,
     "reasoning": "The content discusses the development and integration of capabilities essential for enhancing reliability and agility within the Azure DevOps team. It includes practices like transparency, automation, and incident response, which are indicative of enduring capabilities cultivated over time. While it does touch on foundational elements, such as roles and tools, these are framed within the larger context of cultivating a dependable and responsive culture. Overall, the primary focus is on how these practices contribute to ongoing capability enhancement in a team setting.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "5bgcpPqcGlw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:42",
+    "ai_confidence": 8.9,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused on site reliability engineering (SRE) and operational excellence in the context of Agile and DevOps, highlighting practices such as automation, telemetry, transparency, and incident response. However, there is no explicit mention of Service Level Expectation (SLE). The discussion touches briefly on continuous improvement and predictability (peripherally relevant to SLE) but does not define, describe, calculate, or directly apply SLE concepts, nor does it reference authoritative Agile/Scrum/Kanban SLE sources. Generally, notions such as cycle time, flow, or time-based delivery probabilities are alluded to only vaguely (e.g., deployment frequency, automation importance), and the core idea of SLE as a forecasted range with associated probability is absent. The content targets practitioners interested in reliability and Agile practices, which aligns somewhat with the SLE audience, but the actual relevance to SLE is minimal and exclusively incidental. The signal-to-noise ratio is low for the SLE category because the content's main thrust is unrelated (centered on live site reliability culture, not SLE). No penalties were necessary as the content is not outdated, misleading, or critical of SLE; it simply does not discuss it in either positive or negative light.",
+    "level": "Ignored"
   }
 }

@@ -2027,5 +2027,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the concept of improving system flow rather than focusing on individual metrics, which aligns closely with the idea of enduring capabilities in organizational processes. It emphasizes the importance of optimizing the entire workflow, which is a crucial aspect of developing capabilities in the context of Kanban. However, the discussion leans more toward specific practices and challenges rather than explicitly defining or embedding broader organizational capabilities. Thus, while there is significant alignment, it lacks the depth and primary focus required for a higher score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KHEPBWiFDKJ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:13",
+    "ai_confidence": 12.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.4,
+    "ai_audience": 4.1,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content exclusively focuses on the downsides of measuring individual cycle time in Kanban systems and promotes system-level metrics such as Process Cycle Efficiency (PCE), throughput, lead time, and WIP. Nowhere in the text is Service Level Expectation (SLE) explicitly named or referenced, nor is its definition, usage, or calculation discussed. The main conceptual alignment is with the idea of flow, systemic improvement, and Kanban metrics, but SLE as an explicit concept is absent. The depth remains low, as any SLE discussion is only indirectly relevant (e.g., mentioning lead time, but not linking it to SLE). Intent and audience are somewhat aligned to Kanban practitioners but not specifically to SLE. The content is highly focused and professional, with little noise, but this precision is aimed at distinguishing between individual- vs. system-level flow metrics — not at Service Level Expectation. Therefore, the confidence is very low, reflecting an extremely weak fit.",
+    "level": "Ignored"
   }
 }

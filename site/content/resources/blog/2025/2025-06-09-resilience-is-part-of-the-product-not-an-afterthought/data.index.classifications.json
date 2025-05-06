@@ -2029,5 +2029,23 @@
     "final_score": 76.0,
     "reasoning": "The content provides an extensive discussion on the importance of resilience as a fundamental capability in product design and organizational culture. It emphasizes the need to integrate resilience into engineering practices, which aligns well with the concept of Capability as a long-term investment in organizational competencies. While it does delve into specific practices and measures related to resilience, it emphasizes their role in cultivating a resilient organization, thus reflecting a strong alignment with the core themes of the Capability category. The focus on treating resilience as a part of the product definition and architecture highlights its systemic impact rather than transient practices.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "EtzHUfsWjsD",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:11",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 2.7,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a focused discussion of designing and treating resilience as a key product feature, emphasizing proactive engineering and operational practices in building resilient systems. It talks about measurement, continuous improvement, telemetry, failure containment, and learning from incidents, all of which align generally with agile and DevOps thinking. However, at no point does the content explicitly mention Service Level Expectation (SLE) or any of its components such as probability-based cycle time predictions, elapsed time ranges, or specific Kanban/Scrum metrics. It does not touch on the definition, calculation, application, or improvement of SLE, nor does it reference authoritative sources or practices related to SLE. The audience is likely overlapping with those interested in SLE (e.g., Agile/DevOps practitioners), but the title and all main thematic content focus solely on resilience as a system property, not on forecasting or visualizing flow timeframes. Thus, confidence for classifying this content under 'Service Level Expectation' is extremely low, with only the most remote indirect relevance regarding measurement and improvement practices.",
+    "level": "Ignored"
   }
 }

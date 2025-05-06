@@ -1775,5 +1775,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs, which aligns with the concept of developing enduring capabilities in Agile environments. While it mentions metrics and the dangers of misusing them, it emphasizes cultivating a culture of psychological safety, transparency, and continuous improvement, which are key aspects of capability. However, the primary focus is more on metrics and examples rather than a deep exploration of capabilities themselves, thus resulting in a moderate score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "oKZ9bbESCok",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:23",
+    "ai_confidence": 1.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 0.8,
+    "ai_audience": 1.7,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content focuses on critiquing 'say-do' metrics and advocating for an outcome-oriented, transparent approach within Agile teams. Nowhere in the article is the Service Level Expectation (SLE) explicitly mentioned, nor are its technical aspects (definitions, calculations, use in workflow forecasting, etc.) discussed, directly or tangentially. The main concepts—say-do metrics, vanity metrics, outputs vs. outcomes, transparency, psychological safety, continuous improvement—relate to healthy Agile team behaviors and metrics philosophy, but not to the core definition or usage of SLE as specified by Agile/Kanban/Scrum sources. There is some overlap in audience (Agile practitioners), but the guidance, terminology, and focus never reference SLE or its practical implementation. Signal-to-noise is low for the SLE category: while the article is generally on-topic for agile measurement, it's entirely unrelated to SLE-specific practices or concepts per the criteria.",
+    "level": "Ignored"
   }
 }

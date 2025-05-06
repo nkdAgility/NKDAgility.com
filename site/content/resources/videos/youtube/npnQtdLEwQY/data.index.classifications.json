@@ -1742,5 +1742,23 @@
     "final_score": 42.0,
     "reasoning": "While the content discusses the importance of managing technical debt and poor quality, it primarily focuses on specific challenges and solutions rather than enduring capabilities. The mention of continuous improvement is relevant, but the overall discussion lacks a deep exploration of capabilities as defined in Agile or DevOps contexts. Instead, it focuses on the consequences of poor practices and the need for higher quality. Therefore, it does align with the category at a basic level but does not meet the depth or focus required for a higher confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "npnQtdLEwQY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:14",
+    "ai_confidence": 3.84,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.0,
+    "ai_intent": 0.9,
+    "ai_audience": 6.3,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical debt, poor quality, and product development practices. Nowhere does it mention Service Level Expectation (SLE) or discuss its definition, calculation, or direct application in Agile, Scrum, or Kanban contexts. No references to SLE's role in predictability, time ranges, probability, or the Kanban Guide are present. The conceptual alignment is very weak as the text primarily addresses technical quality, process improvement, and organizational discipline, not forecast-based flow metrics. There is zero direct mention of SLE, and the signal-to-noise ratio reflects that while some process improvement ideas (like continuous improvement) overlap slightly with Agile principles, nothing points towards SLE specifically. No outdated practices or negative tone require penalties. The audience, while relevant to Agile practitioners, does not compensate for the lack of direct or deep SLE content. Confidence is therefore extremely low, reflecting only tiny incidental relevance.",
+    "level": "Ignored"
   }
 }

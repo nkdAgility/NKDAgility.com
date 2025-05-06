@@ -1781,5 +1781,23 @@
     "final_score": 76.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) in detail, which heavily focuses on enhancing organizational capabilities through defined goals, measurement, and adaptive practices. It emphasizes the importance of establishing strategic, intermediate, and tactical goals to improve the capacity to deliver value. It also covers key themes such as the ability to innovate and the responsiveness of organizations, directly relating to capability. The depth of discussion around measuring capabilities and the various key value areas indicates that capability is not just a fleeting mention but a primary focus. However, while roles and techniques are discussed, they do not overshadow the broader capability themes outlined in the category description.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ltc7lzhy14U",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T22:31:17",
+    "ai_confidence": 7.636,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 2.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The Evidence-Based Management Guide content focuses on frameworks for empirical improvement in Agile organizations, especially via value-focused measurement and experimentation. Nowhere in the full text is 'Service Level Expectation' (SLE) — or the abbreviation — mentioned explicitly or indirectly. Topics like cycle time, lead time, and flow are discussed only generally in relation to Time-to-Market, without any reference to the SLE concept as defined in Agile, Scrum, or Kanban. None of the sections outline how to calculate, apply, or improve an SLE, nor do they address SLE's purpose of forecasting delivery timelines with a probability. The text also does not discuss SLE in relation to sprint length or mention authoritative SLE sources. While the content's audience broadly overlaps (Agile practitioners and leaders) and some adjacent metrics (cycle time, lead time) appear, the depth, intent, and direct alignment to SLE are negligible to non-existent. Consequently, confidence in classifying this content under 'Service Level Expectation' is extremely low — only enough to register the faintest connection in generic flow metric mentions.",
+    "level": "Ignored"
   }
 }
