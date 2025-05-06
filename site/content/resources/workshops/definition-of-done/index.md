@@ -19,7 +19,6 @@ aliasesArchive:
 date: 2024-09-17
 weight: 1000
 creator: Martin Hinshelwood
-draft: true
 card:
   button:
     content: Learn More
