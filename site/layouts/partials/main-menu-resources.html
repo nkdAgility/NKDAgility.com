@@ -27,15 +27,7 @@
               <div class="columns-2">
                 {{ range first 20 (sort (where .Site.RegularPages "Type" "resources") "Date" "desc") }}
                   <div class=" text-truncate" title="{{ .Title }} - {{ .Description }} {{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
-                    {{ if eq .Params.ResourceType "videos" }}
-                      <i class="fa-solid fa-video"></i>
-                    {{ else if eq .Params.ResourceType "blog" }}
-                      <i class="fa-solid fa-newspaper"></i>
-                    {{ else if eq .Params.ResourceType "newsletters" }}
-                      <i class="fa-solid fa-envelope-open-text"></i>
-                    {{ else }}
-                      {{ .Params.ResourceType }}
-                    {{ end }}
+                    {{- partial "components/resources/resource-icon.html" . }}
                     {{ if .Draft }}
                       <i class="fa-brands fa-firstdraft"></i>
                     {{ end }}
@@ -54,17 +46,7 @@
               <div class="columns-2">
                 {{ range first 20 (where .Site.RegularPages.ByWeight "Type" "resources") }}
                   <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
-                    {{ if eq .Params.ResourceType "videos" }}
-                      <i class="fa-solid fa-video"></i>
-                    {{ else if eq .Params.ResourceType "blog" }}
-                      <i class="fa-solid fa-newspaper"></i>
-                    {{ else if eq .Params.ResourceType "newsletters" }}
-                      <i class="fa-solid fa-envelope-open-text"></i>
-                    {{ else if eq .Params.ResourceType "podcasts" }}
-                      <i class="fa-solid fa-podcast"></i>
-                    {{ else }}
-                      {{ .Params.ResourceType }}
-                    {{ end }}
+                    {{- partial "components/resources/resource-icon.html" . }}
                     {{ if .Draft }}
                       <i class="fa-brands fa-firstdraft"></i>
                     {{ end }}
