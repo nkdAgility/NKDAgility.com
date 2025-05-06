@@ -518,29 +518,11 @@ function Get-ConfidenceFromAIResponse {
             $aiConfidence = [math]::Round($aiConfidence * 10)
         }
         $aiMentions = if ($AIResponse.PSObject.Properties["mentions"]) { $AIResponse.mentions } else { 0 }
-        if ($aiMentions -le 1 -and $aiMentions -gt 0) {
-            $aiMentions = [math]::Round($aiMentions * 10)
-        }
         $aiAlignment = if ($AIResponse.PSObject.Properties["alignment"]) { $AIResponse.alignment } else { 0 }
-        if ($aiAlignment -le 1 -and $aiAlignment -gt 0) {
-            $aiAlignment = [math]::Round($aiAlignment * 10)
-        }
         $aiDepth = if ($AIResponse.PSObject.Properties["depth"]) { $AIResponse.depth } else { 0 }
-        if ($aiDepth -le 1 -and $aiDepth -gt 0) {
-            $aiDepth = [math]::Round($aiDepth * 10)
-        }
         $aiIntent = if ($AIResponse.PSObject.Properties["intent"]) { $AIResponse.intent } else { 0 }
-        if ($aiIntent -le 1 -and $aiIntent -gt 0) {
-            $aiIntent = [math]::Round($aiIntent * 10)
-        }
         $aiaudience = if ($AIResponse.PSObject.Properties["audience"]) { $AIResponse.audience } else { 0 }
-        if ($aiaudience -le 1 -and $aiaudience -gt 0) {
-            $aiaudience = [math]::Round($aiaudience * 10)
-        }
         $aisignal = if ($AIResponse.PSObject.Properties["signal"]) { $AIResponse.signal } else { 0 }
-        if ($aisignal -le 1 -and $aisignal -gt 0) {
-            $aisignal = [math]::Round($aisignal * 10)
-        }
         $aipenalties_applied = if ($AIResponse.PSObject.Properties["penalties_applied"]) { $AIResponse.penalties_applied } else { $false }
         $aitotal_penalty_points = if ($AIResponse.PSObject.Properties["total_penalty_points"]) { $AIResponse.total_penalty_points } else { 0 }
         $aipenalty_details = if ($AIResponse.PSObject.Properties["penalty_details"]) { $AIResponse.penalty_details } else { $null }
@@ -560,7 +542,7 @@ function Get-ConfidenceFromAIResponse {
         "ai_mentions"          = $aiMentions
         "ai_alignment"         = $aiAlignment
         "ai_depth"             = $aiDepth
-        "ai_intent"            = $aiIntent0
+        "ai_intent"            = $aiIntent
         "ai_audience"          = $aiaudience
         "ai_signal"            = $aisignal
         "ai_penalties_applied" = $aipenalties_applied

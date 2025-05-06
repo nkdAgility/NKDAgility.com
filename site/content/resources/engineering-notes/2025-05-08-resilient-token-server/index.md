@@ -1,5 +1,5 @@
 ---
-title: "Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed"
+title: 'Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed'
 description: Discover how I engineered a resilient, fault-tolerant PowerShell + FastAPI system for fast, reliable OpenAI token counting—built to thrive under real-world load.
 ResourceId: mjsboLP-N9P
 ResourceImport: false
@@ -7,12 +7,12 @@ ResourceType: engineering-notes
 ResourceContentOrigin: human
 date: 2025-05-08T09:00:00Z
 aliases:
-  - /resources/mjsboLP-N9P
+- /resources/mjsboLP-N9P
 categories:
-  - Engineering Excellence
-  - DevOps
----
+- Engineering Excellence
+- DevOps
 
+---
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.
 
 **Background:** Midway through last year, I finally accepted that WordPress was no longer the future for me. To be honest, I’d known it for a while, but the pain of migrating was bigger than the pain of sticking with it—until it wasn’t. I made the deliberate choice to rebuild a decade of Wordpress content into Hugo, Markdown, YAML, and a layer of PowerShell automation for bulk editing. As I ramped up automation for pre-processing and OpenAI-driven bulk edits, one bottleneck hit hard: counting tokens. I had an existing method calling out to Python from PowerShell, but it clocked in at around five minutes per thousand prompts. That was unacceptable for the scale I wanted.
