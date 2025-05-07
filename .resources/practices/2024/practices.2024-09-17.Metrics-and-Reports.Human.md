@@ -1,6 +1,6 @@
 ---
 title: Metrics and Reports
-description: Monitor key metrics for team and project performance at [Company] to enhance customer and employee satisfaction, streamline processes, and boost efficiency.
+description: Outlines key metrics for tracking product, project, organisation, and team performance, including satisfaction, defect trends, repair times, and workflow efficiency.
 ResourceId: 26FWeqJuu0P
 ResourceImport: false
 ResourceType: practices

@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Legacy System Labyrinth: Strategies for Modernisation Success'
-description: Struggling with legacy systems? Discover how to tackle tech challenges and modernise your organisation for future success. Let's redefine your approach today!
+description: Explores common challenges of legacy IT systems and outlines practical strategies for modernisation, including incremental improvements, compliance, and integration issues.
 date: 2025-04-07T06:00:36Z
 weight: 450
 ResourceId: pTZaZcASniA

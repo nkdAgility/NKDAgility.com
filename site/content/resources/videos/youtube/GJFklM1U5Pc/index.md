@@ -1,6 +1,6 @@
 ---
 title: 'The Competence Crisis in Scrum Master Roles: A Call for Excellence'
-description: "Explore the competence crisis in Scrum Masters! Discover why many lack essential skills and how to elevate Agile practices in your organisation. \U0001F680"
+description: Many Scrum Masters lack essential skills and experience, leading to poor agile outcomes. True competence requires deep knowledge, practical experience, and ongoing learning.
 date: 2024-10-16T07:00:09Z
 weight: 280
 ResourceId: GJFklM1U5Pc

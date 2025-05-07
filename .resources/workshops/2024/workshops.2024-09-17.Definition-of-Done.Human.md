@@ -1,6 +1,6 @@
 ---
 title: Definition of Done
-description: Explore the Definition of Done (DoD) in this 4-hour workshop, featuring engaging exercises and insights to enhance your team's understanding of project completion.
+description: Explains the Definition of Done in agile projects, outlining its purpose, key steps, and how to determine when work is truly complete within a team.
 ResourceId: IgRDk1wrh65
 ResourceImport: false
 ResourceType: workshops
@@ -19,7 +19,6 @@ aliasesArchive:
 date: 2024-09-17
 weight: 1000
 creator: Martin Hinshelwood
-draft: true
 card:
   button:
     content: Learn More

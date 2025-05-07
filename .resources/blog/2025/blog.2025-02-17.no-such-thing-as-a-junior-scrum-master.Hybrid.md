@@ -1,6 +1,6 @@
 ---
 title: There Is No Such Thing as a "Junior" Scrum Master
-description: The idea of a junior Scrum Master is a fallacy. The Scrum Master is not an entry-level position and should be born fully formed!
+description: Argues that the Scrum Master role requires proven mastery and real-world experience, not entry-level skills or certifications, and should be earned within the team, not assigned.
 ResourceId: f2RQh2UCwqB
 ResourceType: blog
 ResourceContentOrigin: Hybrid

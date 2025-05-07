@@ -1,6 +1,6 @@
 ---
 title: Technical Debt Management for Long-Term Quality
-description: Discover how automated testing transforms software engineering, reducing errors and speeding up feedback for high-quality, efficient delivery.
+description: Explains how managing and repaying technical debt improves software quality, delivery speed, and long-term value by addressing both known and unknown code issues.
 date: 2024-11-21T07:00:11Z
 weight: 205
 ResourceId: BAwBXYtKj7o

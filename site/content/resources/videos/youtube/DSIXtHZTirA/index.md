@@ -1,6 +1,6 @@
 ---
 title: 'NKD Agility: Your partner in developing engineering excellence'
-description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
+description: Learn how NKD Agility helps teams achieve engineering excellence through modern practices like performance engineering, testing in production, and technical leadership.
 date: 2024-11-23T07:00:12Z
 weight: 205
 ResourceId: DSIXtHZTirA

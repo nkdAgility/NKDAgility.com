@@ -1,6 +1,6 @@
 ---
 title: Manifesto for Agile Software Development
-description: We are uncovering better ways of developing software by doing it and helping others do it. These are our values and principles.
+description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
 ResourceId: poyC7fUGitC
 ResourceImport: false
 ResourceType: guides

@@ -1,6 +1,6 @@
 ---
 title: Kanban Guide for Scrum Teams
-description: The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation.
+description: Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.
 ResourceId: Z3HzXH_nmmz
 ResourceImport: false
 ResourceType: guides

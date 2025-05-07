@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
-description: Unlock the secret to exceptional products by fostering happy, engaged teams. Discover how autonomy, mastery, and purpose drive success in your organisation!
+description: Explores how team happiness, autonomy, mastery, and purpose drive engagement and lead to higher quality, more innovative products and better customer experiences.
 date: 2024-05-10T06:45:01Z
 weight: 665
 ResourceId: yCyjGBNaRqI

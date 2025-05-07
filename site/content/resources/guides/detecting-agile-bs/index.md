@@ -1,6 +1,6 @@
 ---
 title: Detecting Agile BS
-description: The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing.
+description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
 ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides

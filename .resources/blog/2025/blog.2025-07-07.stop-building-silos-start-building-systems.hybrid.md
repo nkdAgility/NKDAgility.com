@@ -1,6 +1,6 @@
 ---
 title: Stop Building Silos. Start Building Systems
-description: Disconnected automation is not a strategy. Learn why fragmentation kills delivery, and how platform engineering, DevOps, and One Engineering System (1ES) bring clarity, flow, and resilience.
+description: Highlights the risks of fragmented automation and tool silos, advocating for unified engineering systems and platform engineering to enable secure, scalable, and efficient delivery.
 ResourceId: zLhc3UKUWOj
 ResourceImport: false
 ResourceType: blog

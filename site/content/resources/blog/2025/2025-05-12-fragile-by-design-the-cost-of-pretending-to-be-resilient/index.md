@@ -1,6 +1,6 @@
 ---
 title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
-description: Explore the CTO's challenge of balancing innovation and stability, revealing the critical need for resilience in systems to prevent catastrophic failures.
+description: Explores how poor engineering, product decisions, and leadership create fragile systems, stressing that true resilience requires rigorous, real-world testing and discipline.
 ResourceId: LGGuvRq4g7p
 ResourceImport: false
 ResourceType: blog
@@ -16,9 +16,9 @@ aliasesArchive:
 categories:
 - Engineering Excellence
 tags:
-- Site Reliability Engineering
 - Technical Mastery
 - Pragmatic Thinking
+- Site Reliability Engineering
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

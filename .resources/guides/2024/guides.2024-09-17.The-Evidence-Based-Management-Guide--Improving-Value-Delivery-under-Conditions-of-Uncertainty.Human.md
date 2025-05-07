@@ -1,6 +1,6 @@
 ---
 title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
-description: Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty.
+description: Explains how Evidence-Based Management uses empirical data, goal setting, and experiments to help organisations improve value delivery and adapt under uncertainty.
 ResourceId: Rv0ZjvwYVy5
 ResourceImport: false
 ResourceType: guides

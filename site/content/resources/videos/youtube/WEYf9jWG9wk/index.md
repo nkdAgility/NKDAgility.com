@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development'
-description: Discover how embracing smaller features and a culture of experimentation can transform your software development process, boosting delivery from 25 to 150 features annually!
+description: Explores how breaking features into small experiments boosts software delivery, enabling teams to deliver more, reduce risk, and improve products through rapid feedback.
 date: 2024-11-20T08:02:36Z
 weight: 790
 ResourceId: WEYf9jWG9wk

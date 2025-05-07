@@ -1,6 +1,6 @@
 ---
 title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
-description: Stop shipping bad code! Discover how to tackle technical debt, improve code quality, and foster a culture of accountability in your development team.
+description: Learn how to prevent bad code, distinguish technical debt from incompetence, and apply practical strategies for code quality, reviews, testing, and debt prioritisation.
 date: 2024-11-26T13:55:20Z
 weight: 640
 ResourceId: FquWl26Uc8Y

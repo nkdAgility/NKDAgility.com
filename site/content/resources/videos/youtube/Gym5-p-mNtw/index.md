@@ -1,6 +1,6 @@
 ---
 title: 'Transforming Waste into Value: How to Boost ROI with Agile Metrics'
-description: Uncover the hidden waste in your organisation! Learn how DORA metrics can boost innovation and ROI while embracing agility for better value.
+description: Learn how agile metrics like innovation rate, product index, usage index, and version adoption help identify waste and improve ROI in engineering and product development.
 date: 2024-12-17T06:00:00Z
 weight: 340
 ResourceId: Gym5-p-mNtw

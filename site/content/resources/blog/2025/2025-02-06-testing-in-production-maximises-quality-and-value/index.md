@@ -1,6 +1,6 @@
 ---
 title: Testing in Production Maximises Quality and Value
-description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
+description: Explains how audience-based deployment and testing in production enable faster feedback, safer rollouts, and higher software quality by targeting real users and reducing risk.
 ResourceId: _ncZFfeCrnS
 ResourceType: blog
 ResourceContentOrigin: Hybrid

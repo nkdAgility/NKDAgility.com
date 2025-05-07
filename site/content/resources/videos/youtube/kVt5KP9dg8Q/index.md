@@ -1,6 +1,6 @@
 ---
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
-description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
+description: Learn how to spot ineffective Agile practices, why true agility needs more than just development changes, and how to assess and improve your organisation’s Agile ecosystem.
 date: 2024-08-02T06:45:02Z
 weight: 360
 ResourceId: kVt5KP9dg8Q

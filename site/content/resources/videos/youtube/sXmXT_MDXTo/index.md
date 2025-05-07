@@ -1,6 +1,6 @@
 ---
 title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
-description: Explore tailored DevOps consulting services in this video, uncovering how organisations can optimise practices for better software delivery and quality.
+description: Learn how tailored DevOps practices—like process assessment, tool optimisation, and compliance alignment—boost software quality, delivery speed, and team ownership.
 date: 2024-08-16T07:18:10Z
 weight: 300
 ResourceId: sXmXT_MDXTo

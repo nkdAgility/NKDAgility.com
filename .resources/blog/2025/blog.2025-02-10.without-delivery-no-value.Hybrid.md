@@ -1,6 +1,6 @@
 ---
 title: Without Delivery, There Is No Value
-description: Everything before delivery is an assumption, and all non-delivered product represents a cost of delay. Learn why frequent delivery is critical to maximising value.
+description: Value in software is only realised through delivery. Frequent releases validate assumptions, reduce risk, and enable rapid feedback, while delays increase costs and missed opportunities.
 ResourceId: UfdnQrxv5iF
 ResourceType: blog
 ResourceContentOrigin: Hybrid

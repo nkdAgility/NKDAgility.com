@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Legacy System Dilemma: Balancing Stability and Innovation for Modernisation Success'
-description: Struggling with legacy systems? Discover how to balance stability and innovation for effective modernisation. Let’s navigate this journey together!
+description: Learn how to modernise legacy systems by balancing stability and innovation, managing technical debt, and adopting gradual, sustainable improvements for long-term success.
 date: 2025-04-14T06:00:33Z
 weight: 480
 ResourceId: S-YSqmiQ8BE

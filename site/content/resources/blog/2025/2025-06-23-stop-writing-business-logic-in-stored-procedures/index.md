@@ -1,6 +1,6 @@
 ---
 title: Stop Writing Business Logic in Stored Procedures
-description: Stop writing business logic in SQL stored procedures! Embrace refactoring for testable, maintainable code and elevate your engineering practices.
+description: Explains why business logic should not be written in SQL stored procedures, detailing maintainability, testing, and scalability issues, and advocates gradual refactoring.
 ResourceId: utAzlIGxj7O
 ResourceImport: false
 ResourceType: blog

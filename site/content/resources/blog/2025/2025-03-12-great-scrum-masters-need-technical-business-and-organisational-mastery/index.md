@@ -1,6 +1,6 @@
 ---
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
-description: 'Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments.'
+description: Effective Scrum Masters combine technical, business, and organisational expertise to coach teams, support Product Owners, and drive lasting Agile change within organisations.
 ResourceId: dQjKsWR5qfn
 ResourceType: blog
 ResourceContentOrigin: Hybrid

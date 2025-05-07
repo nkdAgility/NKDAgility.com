@@ -1,6 +1,6 @@
 ---
 title: The majority of Scrum Masters are not fit for their position
-description: "Most Scrum Masters lack essential skills! Only 39% meet the standards needed to lead effectively. Let's raise the bar for Scrum Mastery! #AgileLeadership"
+description: Most Scrum Masters lack essential Scrum knowledge and skills, with only 3% fully meeting role expectations, highlighting a widespread competency gap in agile teams.
 ResourceId: nTipEJck6ez
 date: 2024-06-03T14:44:00Z
 weight: 705

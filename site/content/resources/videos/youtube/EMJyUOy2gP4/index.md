@@ -1,6 +1,6 @@
 ---
 title: 'The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team Context Results in Poor ROI'
-description: Discover the true ROI of hiring skilled Scrum Masters and learn how their competence impacts team performance, innovation, and value delivery.
+description: Incompetent Scrum Masters reduce ROI by lacking team context and key skills. Learn how competence impacts delivery, quality, and how to measure Scrum Master effectiveness.
 date: 2024-10-22T07:00:08Z
 weight: 250
 ResourceId: EMJyUOy2gP4

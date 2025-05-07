@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Legacy Systems: How to Embrace Automation and Drive Innovation'
-description: Unlock the potential of legacy systems! Discover how shifting your mindset and embracing automation can drive efficiency and innovation in your organisation.
+description: Learn how to automate legacy systems by shifting organisational mindset, adopting DevOps practices, and making incremental improvements to boost efficiency and innovation.
 date: 2025-04-28T06:00:34Z
 weight: 500
 ResourceId: cEvTqpcClmE

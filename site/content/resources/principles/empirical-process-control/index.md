@@ -1,6 +1,6 @@
 ---
 title: Empirical Process Control
-description: Team and stakeholders should be transparent about the work, inspect the progress regularly, and adapt the plan as necessary to achieve the desired outcomes
+description: Explains how Scrum uses transparency, inspection, and adaptation to guide teams in managing work and improving outcomes through empirical process control.
 ResourceId: VBf7KL90jRm
 ResourceImport: false
 ResourceType: principles

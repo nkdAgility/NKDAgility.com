@@ -1,6 +1,6 @@
 ---
 title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
-description: Transform chaos into clarity! Discover how optimising systems and tackling technical debt can boost productivity and innovation in your organisation.
+description: Explores how optimising systems, reducing technical debt, and strong leadership improve engineering quality, productivity, and innovation while minimising chaos.
 date: 2024-12-16T06:00:00Z
 weight: 175
 ResourceId: zqMzD1PXq4s

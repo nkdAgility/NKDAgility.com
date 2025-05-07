@@ -1,6 +1,6 @@
 ---
 title: Emergant Work
-description: The work needed will emerge as we do the work and help others do it
+description: Improves work processes by quickly updating tasks in response to user feedback, ensuring changes are made within timelines shorter than one month.
 ResourceId: g4M_sdh5Fg2
 ResourceImport: false
 ResourceType: principles

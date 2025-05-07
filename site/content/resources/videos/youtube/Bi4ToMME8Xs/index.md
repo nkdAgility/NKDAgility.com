@@ -1,6 +1,6 @@
 ---
 title: Advanced PSM II Immersive Learning Classes
-description: 'Unlock better outcomes with our Advanced PSM II immersive classes! Invest in your Scrum Master today. Discover more at nkdagility.com. #agile #scrum'
+description: Private advanced Scrum Master classes offering immersive learning to improve team outcomes and agile practices, tailored for organisations seeking better results.
 date: 2024-09-20T11:04:29Z
 weight: 1000
 ResourceId: Bi4ToMME8Xs

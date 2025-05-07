@@ -1,6 +1,6 @@
 ---
 title: Sprint Review Recipe
-description: A starter recipe for a Sprint Planning event with suggested facilitation options.
+description: Step-by-step guide for running a Sprint Review, including presenting the increment, gathering feedback, updating the backlog, forecasting, and addressing stakeholder questions.
 ResourceId: K4kkSAG3R7m
 ResourceImport: false
 ResourceType: recipes

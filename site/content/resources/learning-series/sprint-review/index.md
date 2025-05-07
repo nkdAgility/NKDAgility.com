@@ -1,6 +1,6 @@
 ---
 title: The Sprint Review
-description: The Sprint Review is not about the past, it's about the future. Its purpose to bring the right people (stakeholders) up to speed on the current state (increment), so that we can make decisions about the future desired state (Product Backlog).
+description: Overview of the Sprint Review, its purpose in Agile development, and what teams typically discuss and demonstrate during this key Scrum event.
 ResourceId: 9omxdDJCVDL
 ResourceImport: false
 ResourceType: learning-series

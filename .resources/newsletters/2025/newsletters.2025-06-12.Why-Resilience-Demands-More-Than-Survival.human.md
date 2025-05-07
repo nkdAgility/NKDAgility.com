@@ -1,6 +1,6 @@
 ---
 title: Why Resilience Demands More Than Survival
-description: Discover how true resilience in organisations goes beyond survival, focusing on technical health and disciplined engineering for sustainable delivery.
+description: True organisational resilience means improving technical health—like automated testing, CI/CD, and observability—beyond just surviving incidents or following Agile rituals.
 ResourceId: X2BzJPMloRw
 ResourceImport: false
 date: 2025-06-12

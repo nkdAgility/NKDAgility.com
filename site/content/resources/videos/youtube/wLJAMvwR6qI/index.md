@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Assumptions: Unlocking Success in Product Development Through Hypothesis-Driven Strategies'
-description: Master the art of product development by understanding and validating assumptions. Join our class to enhance your skills in hypothesis-driven experimentation!
+description: Learn how to identify, prioritise, and test assumptions in product development using hypothesis-driven strategies, experimentation, and critical analysis for better outcomes.
 date: 2024-08-20T07:06:21Z
 weight: 1000
 ResourceId: wLJAMvwR6qI

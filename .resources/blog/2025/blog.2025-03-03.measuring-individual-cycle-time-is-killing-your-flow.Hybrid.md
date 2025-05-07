@@ -1,6 +1,6 @@
 ---
 title: Why Measuring Individual Cycle Time is Killing Your Flow (And What to Do Instead)
-description: Measuring individual cycle time is a fundamental misunderstanding of flow in a system. Learn why flow efficiency matters and how to measure the right things in Kanban.
+description: Measuring individual cycle time in Kanban misleads improvement efforts. Focus on system-wide flow, bottlenecks, and process efficiency to boost delivery and teamwork.
 ResourceId: KHEPBWiFDKJ
 ResourceType: blog
 ResourceContentOrigin: Hybrid

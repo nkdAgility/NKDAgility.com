@@ -1,6 +1,6 @@
 ---
 title: Introducing the Professional Product Validation and Discovery Workshop from Scrum.org
-description: Join our Professional Product Validation and Discovery Workshop to master customer-centric development and validate your product ideas with expert guidance!
+description: Learn practical skills in product validation, customer discovery, and team collaboration to create customer-focused products, guided by an expert Scrum.org trainer.
 ResourceId: w5rxdL8YHNa
 ResourceImport: true
 ResourceType: newsletters

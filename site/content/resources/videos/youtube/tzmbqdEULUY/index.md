@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Data Migration: How to Minimise Downtime and Keep Your Engineers Productive'
-description: Minimise downtime during data migration with expert insights! Discover how strategic planning and Git can keep your team productive.
+description: Learn practical strategies to minimise downtime and maintain engineer productivity during data migration, including planning, dry runs, and effective use of Git.
 date: 2024-11-05T06:00:34Z
 weight: 790
 ResourceId: tzmbqdEULUY

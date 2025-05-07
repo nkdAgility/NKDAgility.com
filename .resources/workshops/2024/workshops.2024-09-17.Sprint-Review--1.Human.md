@@ -2,7 +2,7 @@
 title: 'Sprint Review #1'
 resourceTypes: workshop
 layout: workshop
-description: The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review.
+description: Step-by-step guide for running a Sprint Review workshop using Liberating Structures to inspect the increment, gather feedback, and update the Product Backlog collaboratively.
 ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops

@@ -1,6 +1,6 @@
 ---
 title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
-description: Unlock the secrets to effective leadership in driving cultural change! Discover how to set a clear vision, invest in automation, and foster collaboration.
+description: Explores how effective leadership drives cultural change, supports agile practices, and fosters collaboration through vision, automation, learning, and breaking down silos.
 date: 2025-02-07T06:00:27Z
 weight: 400
 ResourceId: XyprV8F_es4

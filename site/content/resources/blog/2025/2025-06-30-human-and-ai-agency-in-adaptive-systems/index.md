@@ -1,6 +1,6 @@
 ---
 title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
-description: Human agency is vital in adaptive systems, defining strategy and purpose, while AI optimises tactics. Balance is key to avoid obsolescence.
+description: Explores the distinct roles of human and AI agency in adaptive systems, emphasising human-led strategy and adaptation, with AI focused on tactical optimisation within set boundaries.
 ResourceId: ffJaR9AaTl7
 ResourceImport: false
 ResourceType: blog

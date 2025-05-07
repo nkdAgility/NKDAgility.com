@@ -1,6 +1,6 @@
 ---
 title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
-description: Avoid the pitfalls of local optimisation! Discover how to align governance with organisational goals for true efficiency and success in your team.
+description: Learn how to prevent local optimisation in governance by aligning teams, integrating processes, and focusing on organisational goals for overall efficiency and success.
 date: 2025-02-08T07:49:38Z
 weight: 1000
 ResourceId: ACZWkkvKEnw

@@ -1,6 +1,6 @@
 ---
 title: Are Your Teams Empowered to Change Requirements Based on User Feedback? If Not, You’re Probably Not Very Agile
-description: "Unlock the secrets of Agile Product Management! Discover how team empowerment and user feedback drive success in this insightful video. \U0001F4A1"
+description: Empowering teams to adapt requirements based on user feedback is key to true agility. Learn why backlog updates and team engagement drive better, user-focused products.
 date: 2024-07-17T06:45:01Z
 weight: 750
 ResourceId: qRHzl4PieKA

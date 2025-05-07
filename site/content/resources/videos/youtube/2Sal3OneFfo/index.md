@@ -1,6 +1,6 @@
 ---
 title: 'Seamless Migration to Azure DevOps: Unlocking Enhanced Collaboration and Productivity'
-description: Unlock seamless migration to Azure DevOps with expert tools and insights. Discover how to enhance collaboration and productivity in your team today!
+description: Learn how to migrate projects to Azure DevOps using self-service or managed tools, ensuring accurate data transfer, improved collaboration, and streamlined development workflows.
 date: 2024-09-03T09:57:36Z
 weight: 1000
 ResourceId: 2Sal3OneFfo

@@ -1,6 +1,6 @@
 ---
 title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-description: Discover how to enhance business agility beyond teams with evidence-based portfolio management for improved competitiveness and responsiveness.
+description: Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.
 ResourceId: KD08D48Weks
 ResourceImport: false
 ResourceType: guides

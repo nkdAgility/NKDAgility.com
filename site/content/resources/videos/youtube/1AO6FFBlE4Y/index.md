@@ -1,6 +1,6 @@
 ---
 title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
-description: Discover the hidden costs of poor-quality code with Martin Hinshelwood. Learn how investing in quality boosts productivity and protects your brand.
+description: Explores the financial, productivity, and reputational impacts of poor-quality code, and offers practical steps to turn code quality into a competitive advantage.
 date: 2024-11-19T09:58:28Z
 weight: 230
 ResourceId: 1AO6FFBlE4Y

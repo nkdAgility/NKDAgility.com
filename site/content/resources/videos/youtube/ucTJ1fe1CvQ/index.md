@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
-description: Unlock the secrets to impactful product development! Join me as I explore the importance of addressing assumptions and creating user-centred solutions.
+description: Learn how to identify, challenge, and validate assumptions in product development to avoid the Feature Factory trap and build products that deliver real user value.
 date: 2024-08-09T05:27:35Z
 weight: 1000
 ResourceId: ucTJ1fe1CvQ

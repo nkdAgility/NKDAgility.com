@@ -1,6 +1,6 @@
 ---
 title: Is Your Project Ecosystem Truly Agile?
-description: Unlock true agility in product management! Discover how to break down silos, embrace automation, and maximise stakeholder value in this insightful video.
+description: Explores how true agility requires end-to-end automation and short feedback loops, not just Agile teams, to maximise value and efficiency across the entire project ecosystem.
 date: 2024-07-31T06:45:01Z
 weight: 305
 ResourceId: cGOa0rg_L-8

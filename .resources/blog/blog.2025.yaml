@@ -1,6 +1,123 @@
 - FrontMatter:
-    title: 'Rethinking Capacity Planning: From Project Tasks to Lean Flow'
-    description: Transform your approach to capacity planning with lean principles. Focus on flow, limit work in progress, and enable predictable delivery for sustainable success.
+    title: The Definition of Done is a Commitment to Quality
+    description: Explains why a clear, shared Definition of Done is essential in Scrum for ensuring quality, transparency, and releasable increments, with practical steps for implementation.
+    ResourceId: TwYNSm1pZOS
+    ResourceImport: false
+    ResourceType: blog
+    ResourceContentOrigin: hybrid
+    creator: Martin Hinshelwood
+    date: 2025-07-28T09:00:00Z
+    weight: 145
+    aliases:
+    - /resources/TwYNSm1pZOS
+    categories:
+    - Scrum
+    - Product Development
+    - Engineering Excellence
+    tags:
+    - Definition of Done
+    - Software Development
+    - Product Delivery
+    - Pragmatic Thinking
+    - Agile Frameworks
+    - Agile Product Management
+    - Engineering Practices
+    - Operational Practices
+    - Competence
+    - Professional Scrum
+    - Transparency
+    - Working Software
+    - Increment
+    - Empirical Process Control
+    - Organisational Agility
+  BodyContent: |
+    Every Scrum Team must explicitly define what “Done” means. Without it, you are not doing Scrum. Let’s be clear: if your product increment cannot be shipped, tested, and validated at least every 30 days, you’re missing the point. Scrum is a social technology for adaptive solutions, and the Definition of Done (DoD) is the core commitment to quality that enables reliable, transparent, and releasable increments.
+
+    ## How Does the Agile Manifesto Relate?
+
+    While the Definition of Done is specific to Scrum, its essence connects directly to the values and principles of the Agile Manifesto. The manifesto doesn’t define a DoD explicitly, but it demands **working software as the primary measure of progress** and calls for **continuous attention to technical excellence and good design**. These principles implicitly require teams to set and meet clear standards of completeness and quality.
+
+    In Agile, “Done” is characterised not by formal documents or bureaucratic sign-offs but by **tangible, working outcomes**. The focus is on delivering increments of value that are potentially shippable, ensuring continuous feedback, and maintaining sustainable pace. This spirit is what Scrum formalises with its Definition of Done: an explicit, transparent commitment to what quality means, grounded in Agile’s broader ethos of delivering working software and embracing change.
+
+    ## Why Define Done?
+
+    The Definition of Done is not optional. It is the shared understanding that tells everyone — Developers, Product Owner, stakeholders — what quality bar each increment must meet to be considered usable, releasable, and valuable. Without it, you deliver chaos disguised as agility.
+
+    If your organisation has no defined standards, your team must create its own. But let’s be blunt: if you have multiple teams on one product, they must align on a shared Definition of Done. No excuses, no fragmentation. Without this alignment, you jeopardise integration, delivery, and the product’s reputation.
+
+    > “The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review.”
+    > — Scrum Guide 2020
+
+    ## Done Means Releasable
+
+    Done is not about user stories, requirements, or business value. It is about whether the increment is in a state that the Product Owner can say, “Yes, let’s ship it.” No hidden work, no deferred testing, no “we’ll fix it later.”
+
+    A robust Definition of Done ensures:
+
+    - Transparency on what’s been completed.
+    - Predictability in delivery.
+    - Shared accountability for quality.
+    - Protection of the product’s and organisation’s reputation.
+
+    ## Start with a Seed, Grow It Over Time
+
+    Your DoD does not need to be perfect on day one, but you do need to start. Run a facilitated DoD workshop. Involve the Scrum Team, relevant stakeholders, and anyone representing critical gates like security, architecture, UX, and compliance. Define what “Done” looks like across four layers:
+
+    1. **Organisational DoD** – minimum standards to protect reputation and compliance.
+    2. **Practice DoD** – engineering or discipline-specific standards (e.g., security, performance).
+    3. **Customer DoD** – any client-specific requirements.
+    4. **Team DoD** – additional agreements the team needs to deliver quality.
+
+    Without this clarity, you’re not managing risk; you’re just rolling dice.
+
+    ## Characteristics of a Strong Definition of Done
+
+    - **Short, measurable checklist** — automate verification wherever possible.
+    - **Mirrors shippable** — the Product Owner should have the option to ship at the Sprint Review (if not doing continuous delivery).
+    - **No further work required** — if additional work is needed, you weren’t Done.
+
+    This is not subjective. “Approved by the Product Owner” is not a DoD item. The DoD is an objective, verifiable standard.
+
+    ## Examples of DoD Items
+
+    Here’s what good engineering practices might embed:
+
+    - Code passes automated quality checks (e.g., SonarQube) with no new critical issues.
+    - Unit, integration, and acceptance tests are automated and pass.
+    - Security scans run in CI/CD pipelines and show no high-severity vulnerabilities.
+    - Documentation is updated and linked to the increment.
+    - Code reviews or pair/mob programming sessions completed.
+    - Automated deployment pipelines confirm repeatable, error-free delivery.
+
+    ## Continuous Reflection and Improvement
+
+    Your DoD is not static. You must review and improve it continuously — at least every Sprint Retrospective. When you uncover new failure points, you integrate them into your DoD.
+
+    If your increment no longer meets the quality bar, stop Sprinting. Fix the foundation first — that’s called a **Scrumble**. It’s a deliberate pause to repair quality, not a failure. Once resolved, your DoD should evolve to prevent recurrence.
+
+    ## Practical Steps
+
+    1. **Run a DoD Workshop** — include Developers, Product Owner, stakeholders, and relevant experts.
+    2. **Document and Share** — make the DoD visible, accessible, and owned by the team.
+    3. **Automate** — reduce human error by automating checks wherever feasible.
+    4. **Review Regularly** — build DoD reviews into retrospectives.
+
+    ## Final Word
+
+    The Definition of Done is not bureaucracy. It’s the backbone of your Scrum implementation. Without it, you don’t have empirical process control; you have chaos. Without it, you can’t deliver continuous value; you deliver continuous risk.
+
+    Professional Scrum Teams are accountable for quality. Own it. Define it. Evolve it.
+
+    > Always ask: “Would you be happy to release this increment to production and support it? You are on call tonight.” If the answer is no, it’s not Done.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-28-the-defenition-of-done-is-a-commitment-to-quality\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-28-the-defenition-of-done-is-a-commitment-to-quality
+- FrontMatter:
+    title: Rethinking Capacity Planning
+    description: Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.
+    creator: Martin Hinshelwood
+    contributors:
+    - name: Nigel Thurlow
+      external: https://www.linkedin.com/in/nigelthurlow/
     ResourceId: AhxlPTOD1yy
     ResourceImport: false
     ResourceType: blog
@@ -106,9 +223,9 @@
 
     Rather than fixating on individual or team utilisation, shift your measurement to system-level flow. Pay attention to:
 
-    - The number of items completed per sprint or delivery cycle.
+    - The number of items completed per sprint or delivery cycle (noting this assumes work items are similarly sized; otherwise, throughput comparisons can be misleading).
     - The average lead time from work start to completion, helping reveal system bottlenecks and delays.
-    - Process cycle efficiency (PCE): the proportion of time work actively moves versus waiting, exposing inefficiencies across the system.
+    - Process cycle efficiency (PCE): the proportion of time work actively moves versus all non–value-adding activities (not just waiting), exposing inefficiencies across the system. This includes unnecessary committees, bureaucratic processes, and other activities that exist only to service themselves rather than delivering value.
 
     The goal is not to ask, “Who can take on more?” but to ask, “What does our system reliably deliver, and how can we improve flow without overburdening people or teams?”
 
@@ -133,13 +250,13 @@
 
     ### Forecast With Empirical Data
 
-    Stop pretending forecasts are about precision. Forecasting is about understanding what the system consistently delivers and using that to set realistic expectations. This also means recognising how system constraints align with legal mandates, statutory requirements, and interdepartmental dependencies — especially in public sector or regulated environments where external obligations shape the boundaries of what can be delivered and when. If your teams typically deliver 6–8 items per sprint, then forecast 6–8 — no sandbagging, no overpromising, no wishful thinking. Use past variance to shape your delivery ranges and confidence levels. Forecasting is not about heroic assumptions; it is about respecting the boundaries of what your system can actually achieve. Teach leadership that predictability comes from protecting system health, not demanding unrealistic outputs or pushing teams beyond sustainable limits.
+    Stop pretending forecasts are about precision. Forecasting is about understanding what the system consistently delivers and using that to set realistic expectations, with the important caveat that this relies on the assumption of a relatively stable system, as Lean approaches depend on system stability for predictability. This also means recognising how system constraints align with legal mandates, statutory requirements, and interdepartmental dependencies — especially in public sector or regulated environments where external obligations shape the boundaries of what can be delivered and when. If your teams typically deliver 6–8 items per sprint, then forecast 6–8 — no sandbagging, no overpromising, no wishful thinking. Use past variance to shape your delivery ranges and confidence levels. Forecasting is not about heroic assumptions; it is about respecting the boundaries of what your system can actually achieve. Teach leadership that predictability comes from protecting system health, not demanding unrealistic outputs or pushing teams beyond sustainable limits.
 
     ### Monitor Flow Health Holistically
 
     Flow health is not just a dashboard; it is the living pulse of your system. Go beyond counting throughput and look deeper:
 
-    - Rising cycle or lead times — these are your early-warning signals of hidden bottlenecks creeping into the system.
+    - Rising cycle or lead times — these are your early-warning signals of hidden bottlenecks creeping into the system (and, as noted earlier, low PCE includes more than just waiting — it also covers other forms of systemic waste and non–value-adding activities).
     - Aging WIP — when work lingers without progress, it is a red flag that something is stalled or blocked.
     - Low PCE — when too much time is spent waiting instead of progressing, it signals waste accumulating across the system.
 
@@ -173,7 +290,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-21-rethinking-capacity-planning
 - FrontMatter:
     title: Why Topic Branches Drive High-Quality Delivery
-    description: Master topic branches to enhance software delivery! Isolate work, boost collaboration, and reduce integration risks for agile success. Embrace GitHub Flow today!
+    description: Explains how short-lived topic branches in source control improve software quality, enable modularity, speed up integration, and support agile, continuous delivery practices.
     ResourceId: O_VlmDj7n3V
     ResourceImport: false
     ResourceType: blog
@@ -274,7 +391,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-14-why-topic-branches-drive-high-quality-delivery
 - FrontMatter:
     title: Stop Building Silos. Start Building Systems
-    description: Disconnected automation is not a strategy. Learn why fragmentation kills delivery, and how platform engineering, DevOps, and One Engineering System (1ES) bring clarity, flow, and resilience.
+    description: Highlights the risks of fragmented automation and tool silos, advocating for unified engineering systems and platform engineering to enable secure, scalable, and efficient delivery.
     ResourceId: zLhc3UKUWOj
     ResourceImport: false
     ResourceType: blog
@@ -392,7 +509,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-07-stop-building-silos-start-building-systems
 - FrontMatter:
     title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
-    description: Human agency is vital in adaptive systems, defining strategy and purpose, while AI optimises tactics. Balance is key to avoid obsolescence.
+    description: Explores the distinct roles of human and AI agency in adaptive systems, emphasising human-led strategy and adaptation, with AI focused on tactical optimisation within set boundaries.
     ResourceId: ffJaR9AaTl7
     ResourceImport: false
     ResourceType: blog
@@ -496,7 +613,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-30-human-and-ai-agency-in-adaptive-systems
 - FrontMatter:
     title: Stop Writing Business Logic in Stored Procedures
-    description: Stop writing business logic in SQL stored procedures! Embrace refactoring for testable, maintainable code and elevate your engineering practices.
+    description: Explains why business logic should not be written in SQL stored procedures, detailing maintainability, testing, and scalability issues, and advocates gradual refactoring.
     ResourceId: utAzlIGxj7O
     ResourceImport: false
     ResourceType: blog
@@ -588,7 +705,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-23-stop-writing-business-logic-in-stored-procedures
 - FrontMatter:
     title: How Lack of Agency is Killing Your DevOps Initiatives
-    description: DevOps is about empowering developers with operational agency, enabling true continuous delivery and real feedback from production. Don't automate fragility!
+    description: DevOps fails without developer operational agency. True DevOps requires developers to control deployments, telemetry, and production feedback for real agility and learning.
     ResourceId: AgIU1SK-3pE
     ResourceImport: false
     ResourceType: blog
@@ -671,7 +788,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives
 - FrontMatter:
     title: Resilience is Part of the Product, Not an Afterthought
-    description: Design resilience into your product from day one. It's a core feature, not an afterthought. Build for failure, measure it, and improve relentlessly.
+    description: Resilience must be designed into products from the start, not added later. Build for failure, measure, and improve to ensure reliability, rapid recovery, and business continuity.
     ResourceId: EtzHUfsWjsD
     ResourceImport: false
     ResourceType: blog
@@ -690,11 +807,11 @@
     tags:
     - Technical Mastery
     - Pragmatic Thinking
-    - Site Reliability Engineering
     - Continuous Improvement
     - Technical Excellence
     - Operational Practices
     - Software Development
+    - Site Reliability Engineering
   BodyContent: |
     Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).
 
@@ -752,7 +869,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-09-resilience-is-part-of-the-product-not-an-afterthought
 - FrontMatter:
     title: The Missing Lever in Agile Transformations
-    description: 'Unlock true transformation with Agentic Agility: cultivate agency in people and systems for genuine adaptability, resilience, and empowered outcomes.'
+    description: Explores why agile transformations fail without fostering human and system agency, highlighting Agentic Agility and evidence-based management as keys to lasting change.
     ResourceId: RevK05qtZD7
     ResourceImport: false
     ResourceType: blog
@@ -842,7 +959,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-02-the-missing-lever-in-agile-transformations
 - FrontMatter:
     title: How to Build for Business Resilience and Continuity
-    description: Master the balance of innovation and stability with actionable insights on building resilient systems. Design for recovery, empower teams, and ensure continuity.
+    description: Learn practical steps to design resilient business systems, including observability, decoupling, routine deployments, team empowerment, and rapid recovery from failure.
     ResourceId: VThLnxVapgJ
     ResourceImport: false
     ResourceType: blog
@@ -949,7 +1066,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-26-how-to-build-for-business-resilience-and-continuity
 - FrontMatter:
     title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
-    description: "Embrace the future: AI liberates us from mundane tasks, empowering creativity and critical thinking. It's time to elevate humanity at work, not industrialise it."
+    description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and dignity.
     ResourceId: F0yVBj8Tx8H
     ResourceImport: false
     ResourceType: blog
@@ -1027,7 +1144,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-19-robots-and-ai-are-not-taking-our-jobs
 - FrontMatter:
     title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
-    description: Explore the CTO's challenge of balancing innovation and stability, revealing the critical need for resilience in systems to prevent catastrophic failures.
+    description: Explores how poor engineering, product decisions, and leadership create fragile systems, stressing that true resilience requires rigorous, real-world testing and discipline.
     ResourceId: LGGuvRq4g7p
     ResourceImport: false
     ResourceType: blog
@@ -1043,9 +1160,9 @@
     categories:
     - Engineering Excellence
     tags:
-    - Site Reliability Engineering
     - Technical Mastery
     - Pragmatic Thinking
+    - Site Reliability Engineering
   BodyContent: |
     Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.
 
@@ -1124,7 +1241,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-12-fragile-by-design-the-cost-of-pretending-to-be-resilient
 - FrontMatter:
     title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
-    description: 'Discover the essence of Scrum: a social technology rooted in Agile principles, demanding true self-management and agency for real accountability and success.'
+    description: Explains why true Scrum requires real team agency, not just self-management in name, and how lacking decision-making power undermines accountability and Agile outcomes.
     ResourceId: uwJYNXG7yIu
     ResourceImport: false
     date: 2025-05-01T09:00:00Z
@@ -1259,7 +1376,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-01-the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
 - FrontMatter:
     title: Your Evolving Definition of Done
-    description: Evolve your Definition of Done (DoD) to align with organisational goals, ensuring quality and strategic value in every product increment.
+    description: Explains how the Definition of Done evolves in Scrum, aligning team practices with organisational standards to ensure consistent quality, compliance, and business value delivery.
     ResourceId: 5wIEg7lD_Xd
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1388,7 +1505,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-17-your-evolving-definition-of-done
 - FrontMatter:
     title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
-    description: 'Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments.'
+    description: Effective Scrum Masters combine technical, business, and organisational expertise to coach teams, support Product Owners, and drive lasting Agile change within organisations.
     ResourceId: dQjKsWR5qfn
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1543,7 +1660,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-12-great-scrum-masters-need-technical-business-and-organisational-mastery
 - FrontMatter:
     title: Balance of Leadership and Control in Scrum
-    description: Explore the balance of authority and accountability in Scrum. Discover how Scrum Masters and Product Owners can empower teams while driving effective outcomes.
+    description: Explores how Scrum Masters and Product Owners balance leadership, authority, and team autonomy to ensure accountability, effective self-management, and organisational alignment.
     ResourceId: UH6M7ujV-kB
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1629,7 +1746,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-12-balance-of-leadership-and-control-in-scrum
 - FrontMatter:
     title: Why Measuring Individual Cycle Time is Killing Your Flow (And What to Do Instead)
-    description: Measuring individual cycle time is a fundamental misunderstanding of flow in a system. Learn why flow efficiency matters and how to measure the right things in Kanban.
+    description: Measuring individual cycle time in Kanban misleads improvement efforts. Focus on system-wide flow, bottlenecks, and process efficiency to boost delivery and teamwork.
     ResourceId: KHEPBWiFDKJ
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1743,7 +1860,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-03-measuring-individual-cycle-time-is-killing-your-flow
 - FrontMatter:
     title: Stop Hiding Behind Complexity and Start Delivering Continuously
-    description: Unlock continuous delivery for any software, regardless of complexity. Invest in fixing technical debt and automate processes for faster, reliable releases.
+    description: Continuous delivery is achievable for any software system, regardless of complexity, by investing in automation, code quality, and process improvement to enable rapid, reliable releases.
     ResourceId: 7hEAycZIn8w
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1887,7 +2004,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-24-stop-hiding-behind-complexity-deliver-continuously
 - FrontMatter:
     title: There Is No Such Thing as a "Junior" Scrum Master
-    description: The idea of a junior Scrum Master is a fallacy. The Scrum Master is not an entry-level position and should be born fully formed!
+    description: Argues that the Scrum Master role requires proven mastery and real-world experience, not entry-level skills or certifications, and should be earned within the team, not assigned.
     ResourceId: f2RQh2UCwqB
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1997,7 +2114,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-17-no-such-thing-as-a-junior-scrum-master
 - FrontMatter:
     title: Testing in Production Maximises Quality and Value
-    description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
+    description: Explains how audience-based deployment and testing in production enable faster feedback, safer rollouts, and higher software quality by targeting real users and reducing risk.
     ResourceId: _ncZFfeCrnS
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2170,7 +2287,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-06-testing-in-production-maximises-quality-and-value
 - FrontMatter:
     title: Without Delivery, There Is No Value
-    description: Everything before delivery is an assumption, and all non-delivered product represents a cost of delay. Learn why frequent delivery is critical to maximising value.
+    description: Value in software is only realised through delivery. Frequent releases validate assumptions, reduce risk, and enable rapid feedback, while delays increase costs and missed opportunities.
     ResourceId: UfdnQrxv5iF
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2269,7 +2386,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-10-without-delivery-there-is-no-value
 - FrontMatter:
     title: Stop Promoting Branches
-    description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
+    description: Explains why promoting code through multiple branches slows delivery, increases risk, and suggests GitHub Flow or Release Flow as simpler, safer alternatives for deployment.
     ResourceId: x7ra7pQCDX5
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2424,7 +2541,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-06-stop-promoting-branches
 - FrontMatter:
     title: Delivery is the only Measure of Progress in Scrum
-    description: Delivery, not just a Done Increment, is the real measure of progress in Scrum. In 2025, if you're not delivering every Sprint, you're not truly Agile.
+    description: Scrum teams must deliver working software to real users every Sprint; true progress is measured by delivery to production, not just by completing internal work.
     ResourceId: jBIyK6NW3ZB
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2544,7 +2661,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-03-delivery-as-the-ultimate-measure-of-progress
 - FrontMatter:
     title: The Scrum Master is accountable for Delivery
-    description: The Scrum Master is accountable for delivery, ensuring every Scrum Team produces a usable increment every sprint while fostering effectiveness and value delivery.
+    description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team effectiveness, and ensuring each sprint produces a usable increment.
     ResourceId: yMnia2DLI6q
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2668,7 +2785,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-30-the-scrum-master-is-accountable-for-delivery
 - FrontMatter:
     title: Why Handoffs Are Killing Your Agility
-    description: Explore the detrimental impact of handoffs in software development and discover strategies to eliminate them for better agility.
+    description: Excessive handoffs in software development create delays, reduce quality, and harm team morale. Learn how eliminating handoffs boosts agility and value delivery.
     ResourceId: pDvDdIEi9sj
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2787,7 +2904,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-11-why-handoffs-are-killing-your-agility
 - FrontMatter:
     title: Definition of Done - Objective vs Subjective
-    description: Learn the critical distinction between subjective goals and the objective Definition of Done (DoD) in Scrum. This guide dives into why a measurable, automated DoD is essential for consistent quality, stakeholder trust, and professional-grade product delivery.
+    description: Explains the difference between subjective goals and the objective Definition of Done in Scrum, highlighting how clear, measurable criteria ensure consistent product quality.
     ResourceId: -Z5GGUOjc-d
     ResourceType: blog
     ResourceContentOrigin: Hybrid

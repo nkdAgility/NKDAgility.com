@@ -1,6 +1,6 @@
 ---
 title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
-description: Transform your product investment strategy with hypothesis-driven engineering. Learn to maximise value, minimise waste, and adapt swiftly to customer needs.
+description: Explores how hypothesis-driven engineering helps teams maximise product value by testing ideas, learning from failure, and making data-informed investment decisions.
 date: 2024-12-11T06:30:00Z
 weight: 390
 ResourceId: Ig-HpUfQr3M

@@ -1,6 +1,6 @@
 ---
 title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
-description: Unlock the secrets to continuous delivery! Discover how to simplify your software and foster a culture of agility for faster, more reliable feature delivery.
+description: Explains how simplifying complex software and committing to ongoing improvement enables organisations to achieve continuous delivery, resilience, and faster feature releases.
 date: 2025-02-27T07:00:10Z
 weight: 255
 ResourceId: DsvMKLto30o

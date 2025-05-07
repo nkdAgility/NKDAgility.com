@@ -1,6 +1,6 @@
 ---
 title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement'
-description: Unlock the true power of Kanban! Discover its benefits, key metrics, and how to transform your workflows into a secret weapon for process improvement.
+description: Explains how Kanban visualises workflows, tracks metrics, and supports continuous improvement, helping teams identify bottlenecks and enhance transparency in any process.
 date: 2024-06-24T06:48:02Z
 weight: 1000
 ResourceId: BFDB04_JIhg

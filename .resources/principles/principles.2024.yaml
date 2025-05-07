@@ -1,6 +1,6 @@
 - FrontMatter:
     title: Market Focus
-    description: Update the work based on market and user feedback on timelines shorter than one month
+    description: Explains how to adjust projects quickly in response to user feedback, focusing on implementing changes within timelines of less than one month.
     ResourceId: T6DrE9pN0ds
     ResourceImport: false
     ResourceType: principles
@@ -30,8 +30,39 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\market-focus\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\market-focus
 - FrontMatter:
+    title: Self-Organization
+    description: Explains how Scrum teams manage their own work, make collaborative decisions, and rely on a Scrum Master for guidance and process support.
+    ResourceId: eyXbQF80i4R
+    ResourceImport: false
+    ResourceType: principles
+    ResourceContentOrigin: Human
+    recommendedContent: 
+    date: 2024-09-17
+    weight: 690
+    creator: Martin Hinshelwood
+    resourceTypes: principles
+    layout: principles
+    draft: true
+    aliases:
+    - /learn/agile-delivery-kit/first-principals/self-organization/
+    - /resources/eyXbQF80i4R
+    aliasesArchive:
+    - /learn/agile-delivery-kit/first-principals/self-organization/
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Self-Organization and how it can help you in your Agile journey!
+      title: Self-Organization
+    categories:
+    - Scrum
+    tags: []
+  BodyContent: |
+    Self-Organization: [Scrum]({{< ref "/categories/scrum" >}}) teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the [Scrum Master]({{< ref "/tags/scrum-master" >}}) helps to facilitate and guide the process
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\self-organization\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\self-organization
+- FrontMatter:
     title: Value-based Prioritization
-    description: Focus on delivering value to the stakeholders
+    description: Explains how to prioritise product backlogs by stakeholder value, guiding Scrum teams to focus on high-impact tasks and balance value creation with revenue goals.
     ResourceId: HzW0lKldLP9
     ResourceImport: false
     ResourceType: principles
@@ -65,40 +96,9 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\value-based-prioritization\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\value-based-prioritization
 - FrontMatter:
-    title: Self-Organization
-    description: Self Organizing teams have the autonomy to determine how to achieve their goals
-    ResourceId: eyXbQF80i4R
-    ResourceImport: false
-    ResourceType: principles
-    ResourceContentOrigin: Human
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 690
-    creator: Martin Hinshelwood
-    resourceTypes: principles
-    layout: principles
-    draft: true
-    aliases:
-    - /learn/agile-delivery-kit/first-principals/self-organization/
-    - /resources/eyXbQF80i4R
-    aliasesArchive:
-    - /learn/agile-delivery-kit/first-principals/self-organization/
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Self-Organization and how it can help you in your Agile journey!
-      title: Self-Organization
-    categories:
-    - Scrum
-    tags: []
-  BodyContent: |
-    Self-Organization: [Scrum]({{< ref "/categories/scrum" >}}) teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the [Scrum Master]({{< ref "/tags/scrum-master" >}}) helps to facilitate and guide the process
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\self-organization\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\self-organization
-- FrontMatter:
-    title: Customer Focus
-    description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
-    ResourceId: p1bdjnIJDmW
+    title: First Principles Thinking
+    description: Explains the basics of first principles thinking, a problem-solving approach that breaks issues down to fundamental truths for clearer understanding and innovation.
+    ResourceId: q6gClR4HS5c
     ResourceImport: false
     ResourceType: principles
     ResourceContentOrigin: Human
@@ -108,57 +108,58 @@
     draft: true
     resourceTypes: principle
     layout: principle
-    slug: customer-focus
+    slug: first-principles-thinking
     aliases:
-    - /principles/customer-focus/
-    - /resources/p1bdjnIJDmW
+    - /principles/first-principles-thinking/
+    - /resources/q6gClR4HS5c
     aliasesArchive:
-    - /principles/customer-focus/
+    - /principles/first-principles-thinking/
     card:
       button:
         content: Start Optimizing Now
-      title: Customer Focus
-      content: Maintain a strong Customer Focus to ensure that the needs and feedback of the customer are at the heart of everything we do.
+      title: First Principles Thinking
+      content: Apply First Principles Thinking to break down complex problems and find innovative solutions by understanding the fundamental truths.
     categories:
     - Uncategorized
     tags: []
   BodyContent: |
     Coming soon!
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\first-principles-thinking\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\first-principles-thinking
 - FrontMatter:
-    title: Emergant Practices
-    description: Processes, practices and tools necessary will emerge as we do the work and help others do it
-    ResourceId: _MbvqRG_XNM
+    title: Innovation
+    description: Explore the concept of innovation, including its definition, importance, and impact on progress across industries and society. Content will be available soon.
+    ResourceId: 31Zki4xCtFO
     ResourceImport: false
     ResourceType: principles
     ResourceContentOrigin: Human
     date: 2024-09-17
     weight: 1000
-    resourceTypes: principles
-    layout: principles
     creator: Martin Hinshelwood
     draft: true
+    resourceTypes: principle
+    layout: principle
+    slug: innovation
     aliases:
-    - /learn/agile-delivery-kit/first-principals/emergant-practices/
-    - /resources/_MbvqRG_XNM
+    - /principles/innovation/
+    - /resources/31Zki4xCtFO
     aliasesArchive:
-    - /learn/agile-delivery-kit/first-principals/emergant-practices/
+    - /principles/innovation/
     card:
       button:
-        content: Learn More
-      content: Discover more about Emergant Practices and how it can help you in your Agile journey!
-      title: Emergant Practices
+        content: Start Optimizing Now
+      title: Innovation
+      content: Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value.
     categories:
     - Uncategorized
     tags: []
   BodyContent: |
-    Processes, practices and tools necessary will emerge as we do the work and help others do it
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices
+    Coming soon!
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation
 - FrontMatter:
     title: Emergant Work
-    description: The work needed will emerge as we do the work and help others do it
+    description: Improves work processes by quickly updating tasks in response to user feedback, ensuring changes are made within timelines shorter than one month.
     ResourceId: g4M_sdh5Fg2
     ResourceImport: false
     ResourceType: principles
@@ -189,7 +190,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-work
 - FrontMatter:
     title: Empirical Process Control
-    description: Team and stakeholders should be transparent about the work, inspect the progress regularly, and adapt the plan as necessary to achieve the desired outcomes
+    description: Explains how Scrum uses transparency, inspection, and adaptation to guide teams in managing work and improving outcomes through empirical process control.
     ResourceId: VBf7KL90jRm
     ResourceImport: false
     ResourceType: principles
@@ -221,9 +222,9 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\empirical-process-control\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\empirical-process-control
 - FrontMatter:
-    title: First Principles Thinking
-    description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
-    ResourceId: q6gClR4HS5c
+    title: Customer Focus
+    description: Explores strategies and best practices for understanding and meeting customer needs to improve satisfaction and drive business success.
+    ResourceId: p1bdjnIJDmW
     ResourceImport: false
     ResourceType: principles
     ResourceContentOrigin: Human
@@ -233,53 +234,52 @@
     draft: true
     resourceTypes: principle
     layout: principle
-    slug: first-principles-thinking
+    slug: customer-focus
     aliases:
-    - /principles/first-principles-thinking/
-    - /resources/q6gClR4HS5c
+    - /principles/customer-focus/
+    - /resources/p1bdjnIJDmW
     aliasesArchive:
-    - /principles/first-principles-thinking/
+    - /principles/customer-focus/
     card:
       button:
         content: Start Optimizing Now
-      title: First Principles Thinking
-      content: Apply First Principles Thinking to break down complex problems and find innovative solutions by understanding the fundamental truths.
+      title: Customer Focus
+      content: Maintain a strong Customer Focus to ensure that the needs and feedback of the customer are at the heart of everything we do.
     categories:
     - Uncategorized
     tags: []
   BodyContent: |
     Coming soon!
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\first-principles-thinking\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\first-principles-thinking
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\customer-focus
 - FrontMatter:
-    title: Innovation
-    description: "\U0001F680 Coming soon! Stay tuned for an exciting new resource that will enhance your experience and knowledge. Don't miss out!"
-    ResourceId: 31Zki4xCtFO
+    title: Emergant Practices
+    description: Explores how effective processes, practices, and tools naturally develop through hands-on work and collaboration in evolving environments.
+    ResourceId: _MbvqRG_XNM
     ResourceImport: false
     ResourceType: principles
     ResourceContentOrigin: Human
     date: 2024-09-17
     weight: 1000
+    resourceTypes: principles
+    layout: principles
     creator: Martin Hinshelwood
     draft: true
-    resourceTypes: principle
-    layout: principle
-    slug: innovation
     aliases:
-    - /principles/innovation/
-    - /resources/31Zki4xCtFO
+    - /learn/agile-delivery-kit/first-principals/emergant-practices/
+    - /resources/_MbvqRG_XNM
     aliasesArchive:
-    - /principles/innovation/
+    - /learn/agile-delivery-kit/first-principals/emergant-practices/
     card:
       button:
-        content: Start Optimizing Now
-      title: Innovation
-      content: Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value.
+        content: Learn More
+      content: Discover more about Emergant Practices and how it can help you in your Agile journey!
+      title: Emergant Practices
     categories:
     - Uncategorized
     tags: []
   BodyContent: |
-    Coming soon!
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\innovation
+    Processes, practices and tools necessary will emerge as we do the work and help others do it
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\principles\emergant-practices
 

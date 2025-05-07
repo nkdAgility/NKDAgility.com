@@ -1,6 +1,6 @@
 ---
 title: Daily Scrum Recipe
-description: Maximise your Daily Scrum's impact! Focus on collaboration, transparency, and strategic planning to overcome challenges and achieve your Sprint Goal.
+description: Guidance for running effective Daily Scrum meetings, focusing on team collaboration, progress review, actionable planning, and adapting practices to team needs.
 ResourceId: M4qDhvrXwp-
 ResourceImport: false
 ResourceType: recipes

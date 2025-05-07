@@ -1,6 +1,6 @@
 ---
 title: Building a culture of Quality
-description: Unlock the true potential of CI/CD! Join Martin Hinshelwood as he reveals best practices for Continuous Integration and Delivery to enhance quality and speed.
+description: Explores how fostering engineering excellence, technical leadership, and shared values creates a sustainable culture of quality within organisations and their products.
 date: 2024-11-22T07:00:08Z
 weight: 150
 ResourceId: IZ-FlBbGaSY

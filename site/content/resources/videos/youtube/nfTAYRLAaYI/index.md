@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
-description: Unlock peak productivity with Kanban! Discover 3 essential principles to simplify workflows and enhance efficiency in this must-watch video.
+description: Learn the three core Kanban principles—visualising workflow, actively managing tasks, and continuous improvement—to boost team efficiency, transparency, and collaboration.
 date: 2024-07-01T07:00:24Z
 weight: 1000
 ResourceId: nfTAYRLAaYI

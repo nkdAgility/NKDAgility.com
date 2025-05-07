@@ -1,6 +1,6 @@
 ---
 title: 'Working from Paradise: A Quick Update'
-description: "\U0001F334 Martin is working from Cancun until Jan 23, 2025! Meetings continue as usual, just note the 5-hour time difference. Reach out anytime!"
+description: Notice of temporary work location change to Cancun, Mexico, with meetings now on Eastern Standard Time. Availability and support remain unchanged; contact details stay the same.
 ResourceId: I3QFLrCOXnN
 ResourceImport: false
 ResourceType: newsletters

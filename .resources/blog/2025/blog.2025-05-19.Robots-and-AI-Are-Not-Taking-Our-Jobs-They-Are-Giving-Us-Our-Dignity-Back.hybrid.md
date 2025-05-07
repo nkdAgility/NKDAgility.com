@@ -1,6 +1,6 @@
 ---
 title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
-description: "Embrace the future: AI liberates us from mundane tasks, empowering creativity and critical thinking. It's time to elevate humanity at work, not industrialise it."
+description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and dignity.
 ResourceId: F0yVBj8Tx8H
 ResourceImport: false
 ResourceType: blog

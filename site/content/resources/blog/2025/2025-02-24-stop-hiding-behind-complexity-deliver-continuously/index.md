@@ -1,6 +1,6 @@
 ---
 title: Stop Hiding Behind Complexity and Start Delivering Continuously
-description: Unlock continuous delivery for any software, regardless of complexity. Invest in fixing technical debt and automate processes for faster, reliable releases.
+description: Continuous delivery is achievable for any software system, regardless of complexity, by investing in automation, code quality, and process improvement to enable rapid, reliable releases.
 ResourceId: 7hEAycZIn8w
 ResourceType: blog
 ResourceContentOrigin: Hybrid

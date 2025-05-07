@@ -1,6 +1,6 @@
 ---
 title: Is Your Engineering Culture Ready to Scale with Your Technology?
-description: Is your tech culture ready to scale? Discover how to foster collaboration, embrace continuous learning, and ensure your culture evolves with your growth.
+description: Explores why scaling technology alone isn’t enough, highlighting the need for engineering cultures that support collaboration, DevOps, and continuous learning as teams grow.
 date: 2025-02-20T07:33:26Z
 weight: 750
 ResourceId: yu9CmrDiBPc

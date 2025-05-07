@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Data Integrity: The Key to Successful DevOps Migrations'
-description: Master data integrity in DevOps migrations! Discover the balance between flexibility and fidelity for a successful transition to Azure DevOps Services.
+description: Learn how to maintain data integrity during DevOps migrations, weighing full versus selective data transfer, and get practical tips for a smooth, reliable transition.
 date: 2024-11-04T06:06:49Z
 weight: 1000
 ResourceId: hWyF6CbcbQ8

@@ -1,6 +1,6 @@
 ---
 title: Emergant Practices
-description: Processes, practices and tools necessary will emerge as we do the work and help others do it
+description: Explores how effective processes, practices, and tools naturally develop through hands-on work and collaboration in evolving environments.
 ResourceId: _MbvqRG_XNM
 ResourceImport: false
 ResourceType: principles

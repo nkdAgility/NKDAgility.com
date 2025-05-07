@@ -1,6 +1,6 @@
 ---
 title: Break organisational silos and stop tolerating bad branching models
-description: Empower your leadership! Transform system design, eliminate silos, and enhance delivery. Step up as a technical leader for agile success.
+description: Explains how technical leaders can break down organisational silos and enforce better branching, team structures, and architecture for faster, safer software delivery.
 ResourceId: AORP41zLNTi
 ResourceImport: false
 date: 2025-07-17

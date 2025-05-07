@@ -1,6 +1,6 @@
 ---
 title: Stop Promoting Branches
-description: Explore how audience-based deployment, also known as ring-based deployment, challenges traditional environments, accelerates feedback, and transforms continuous delivery.
+description: Explains why promoting code through multiple branches slows delivery, increases risk, and suggests GitHub Flow or Release Flow as simpler, safer alternatives for deployment.
 ResourceId: x7ra7pQCDX5
 ResourceType: blog
 ResourceContentOrigin: Hybrid

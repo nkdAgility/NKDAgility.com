@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling'
-description: Unlock sustainable growth by transforming leadership for scaling success. Discover how to empower teams, eliminate bottlenecks, and decentralise decision-making.
+description: Effective scaling depends on strong leadership—empowering teams, removing bottlenecks, and decentralising decisions to enable sustainable organisational growth.
 date: 2025-02-24T10:12:43Z
 weight: 640
 ResourceId: ZVZEO1Ggihs

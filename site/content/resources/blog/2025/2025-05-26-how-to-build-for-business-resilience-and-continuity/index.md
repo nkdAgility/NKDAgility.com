@@ -1,6 +1,6 @@
 ---
 title: How to Build for Business Resilience and Continuity
-description: Master the balance of innovation and stability with actionable insights on building resilient systems. Design for recovery, empower teams, and ensure continuity.
+description: Learn practical steps to design resilient business systems, including observability, decoupling, routine deployments, team empowerment, and rapid recovery from failure.
 ResourceId: VThLnxVapgJ
 ResourceImport: false
 ResourceType: blog

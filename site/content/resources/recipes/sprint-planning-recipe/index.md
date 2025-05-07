@@ -1,6 +1,6 @@
 ---
 title: Sprint Planning Recipe
-description: Master Sprint Planning with this guide! Learn to craft effective goals, select backlog items, and create actionable plans for successful sprints.
+description: Step-by-step guide to effective Sprint Planning in Scrum, covering goal setting, backlog selection, team capacity, actionable plans, and clear communication with stakeholders.
 ResourceId: D1dSEM9ni3C
 ResourceImport: false
 ResourceType: recipes

@@ -1,6 +1,6 @@
 ---
 title: How Lack of Agency is Killing Your DevOps Initiatives
-description: DevOps is about empowering developers with operational agency, enabling true continuous delivery and real feedback from production. Don't automate fragility!
+description: DevOps fails without developer operational agency. True DevOps requires developers to control deployments, telemetry, and production feedback for real agility and learning.
 ResourceId: AgIU1SK-3pE
 ResourceImport: false
 ResourceType: blog

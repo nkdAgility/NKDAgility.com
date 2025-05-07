@@ -1,6 +1,6 @@
 ---
 title: Boosting Team Morale and Engagement Through Effective Mentorship Programs
-description: "Unlock team potential! Discover how mentorship boosts morale, engagement, and success in organisations. Transform your team's future today! \U0001F31F\U0001F680"
+description: Explores how long-term mentorship programmes boost team morale, engagement, and performance by fostering intrinsic motivation, collaboration, and continuous learning.
 date: 2024-09-02T07:00:19Z
 weight: 530
 ResourceId: TCs2IxB118c

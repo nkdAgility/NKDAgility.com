@@ -1,6 +1,6 @@
 ---
 title: The Scrum Guide
-description: The Scrum Guide contains the definition of Scrum.
+description: Summarises Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value through adaptive, transparent, and iterative work.
 ResourceId: 59gcHh1fYtC
 ResourceImport: false
 ResourceType: guides

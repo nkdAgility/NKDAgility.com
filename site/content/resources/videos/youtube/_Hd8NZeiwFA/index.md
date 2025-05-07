@@ -1,6 +1,6 @@
 ---
 title: Why the Concept of a "Junior Scrum Master" is a Misguided Myth
-description: Discover why the term "junior Scrum Master" is a misconception. Learn how expertise and experience shape effective Scrum leadership in Agile teams.
+description: Explains why the Scrum Master role requires experience and competence, debunking the myth of a "junior" Scrum Master and highlighting the need for deep organisational understanding.
 date: 2025-02-24T07:26:46Z
 weight: 600
 ResourceId: _Hd8NZeiwFA

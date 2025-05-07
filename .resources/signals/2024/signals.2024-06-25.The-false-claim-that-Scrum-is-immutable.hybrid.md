@@ -1,6 +1,6 @@
 ---
 title: The false claim that Scrum is immutable
-description: "Debunking the myth that \"Scrum is immutable\": it's a flexible framework that embraces change. Focus on delivering value, feedback, and adaptation!"
+description: Clarifies that Scrum is flexible and adaptable, not strictly unchangeable, and highlights the importance of transparency when modifying its core framework.
 ResourceId: 0iq-XTDNbfx
 date: 2024-06-25T11:37:00Z
 weight: 700
@@ -20,7 +20,7 @@ categories:
 - Scrum
 tags: []
 platform_signal:
-  platform: LinkedIn
+- platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
   post_date: 2024-06-25
   post_publish_time: 11:37
@@ -33,6 +33,16 @@ platform_signal:
   reactions_top_job_title: Scrum Master
   comments_top_job_title: Founder
   reposts_top_job_title: Delivery Lead
+- platform: reddit
+  post_url: https://www.reddit.com/r/scrum/comments/1doz1u8/the_false_claim_that_scrum_is_immutable/
+  post_date: 2024-06-25
+  post_publish_time: 11:37
+  performance:
+    impressions: 7800
+    members_reached: 7800
+    reactions: 14
+    comments: 21
+    reposts: 0
 
 ---
 The false claim that "Scrum is immutable"!
